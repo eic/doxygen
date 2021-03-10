@@ -1,0 +1,15 @@
+<map id="SvtxClusterEval" name="SvtxClusterEval">
+<area shape="rect" id="node3" title="STL class." alt="" coords="1649,34,1819,62"/>
+<area shape="rect" id="node5" href="$d3/d9e/classPHG4Hit.html" title="PHG4Hit" alt="" coords="356,762,435,790"/>
+<area shape="rect" id="node6" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="68,521,152,549"/>
+<area shape="rect" id="node11" href="$d0/d2c/classTrkrClusterContainer.html" title="Cluster container object." alt="" coords="1653,375,1815,403"/>
+<area shape="rect" id="node13" href="$d6/dfa/classTrkrCluster.html" title="Base class for cluster object." alt="" coords="749,359,845,387"/>
+<area shape="rect" id="node16" href="$d7/d8d/classTrkrHitTruthAssoc.html" title="Association object for PHG4Cells contributiong to TrkrHits." alt="" coords="1664,277,1804,305"/>
+<area shape="rect" id="node19" href="$de/dc9/classPHG4Particle.html" title="PHG4Particle" alt="" coords="341,1475,449,1503"/>
+<area shape="rect" id="node25" href="$d5/d76/classTrkrHitSetContainer.html" title="TrkrHitSetContainer" alt="" coords="496,1027,652,1055"/>
+<area shape="rect" id="node27" href="$da/d6c/classPHG4TruthInfoContainer.html" title="PHG4TruthInfoContainer" alt="" coords="1193,1319,1378,1347"/>
+<area shape="rect" id="node32" href="$d4/d30/classPHG4HitContainer.html" title="PHG4HitContainer" alt="" coords="1213,585,1358,613"/>
+<area shape="rect" id="node44" href="$d7/d4f/classTrkrClusterHitAssoc.html" title="Class for associating clusters to the hits that went into them." alt="" coords="319,102,472,130"/>
+<area shape="rect" id="node8" href="$d9/d62/classSvtxHitEval.html" title="SvtxHitEval" alt="" coords="2188,946,2287,974"/>
+<area shape="rect" id="node26" href="$d4/de4/classSvtxTruthEval.html" title="SvtxTruthEval" alt="" coords="1677,831,1791,859"/>
+</map>

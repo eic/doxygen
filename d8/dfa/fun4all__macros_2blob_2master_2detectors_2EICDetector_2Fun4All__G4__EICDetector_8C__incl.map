@@ -1,0 +1,43 @@
+<map id="fun4all_macros/blob/master/detectors/EICDetector/Fun4All_G4_EICDetector.C" name="fun4all_macros/blob/master/detectors/EICDetector/Fun4All_G4_EICDetector.C">
+<area shape="rect" id="node3" href="$d2/d2b/fun4all__macros_2blob_2master_2detectors_2EICDetector_2DisplayOn_8C.html" title="DisplayOn.C" alt="" coords="3051,357,3155,385"/>
+<area shape="rect" id="node7" href="$dc/da2/Fun4AllServer_8h.html" title="fun4all/Fun4AllServer.h" alt="" coords="2823,441,3001,469"/>
+<area shape="rect" id="node8" href="$d5/d14/fun4all__macros_2blob_2master_2detectors_2EICDetector_2G4Setup__EICDetector_8C.html" title="G4Setup_EICDetector.C" alt="" coords="1696,113,1875,141"/>
+<area shape="rect" id="node24" href="$dc/d7e/G4__Input_8C.html" title="G4_Input.C" alt="" coords="3055,281,3151,309"/>
+<area shape="rect" id="node32" href="$d1/dd8/G4__User_8C.html" title="G4_User.C" alt="" coords="3331,197,3421,225"/>
+<area shape="rect" id="node36" href="$db/d22/Fun4AllDstOutputManager_8h.html" title="fun4all/Fun4AllDstOutput\lManager.h" alt="" coords="3981,189,4173,233"/>
+<area shape="rect" id="node37" href="$de/df8/Fun4AllOutputManager_8h.html" title="Fun4AllOutputManager.h" alt="" coords="4050,281,4238,309"/>
+<area shape="rect" id="node38" href="$d6/d0d/G4__CaloTrigger_8C.html" title="G4_CaloTrigger.C" alt="" coords="3381,357,3517,385"/>
+<area shape="rect" id="node40" href="$d0/d9a/G4__DSTReader__EICDetector_8C.html" title="G4_DSTReader_EICDetector.C" alt="" coords="1172,197,1393,225"/>
+<area shape="rect" id="node42" href="$db/d19/G4__FwdJets_8C.html" title="G4_FwdJets.C" alt="" coords="3644,113,3756,141"/>
+<area shape="rect" id="node46" href="$d4/d40/G4__HIJetReco_8C.html" title="G4_HIJetReco.C" alt="" coords="3497,113,3621,141"/>
+<area shape="rect" id="node48" href="$da/d38/G4__Production_8C.html" title="G4_Production.C" alt="" coords="114,113,246,141"/>
+<area shape="rect" id="node50" href="$d2/dcb/recoConsts_8h.html" title="phool/recoConsts.h" alt="" coords="4223,113,4374,141"/>
+<area shape="rect" id="node4" href="$d0/d2b/PHG4Reco_8h.html" title="g4main/PHG4Reco.h" alt="" coords="1690,441,1849,469"/>
+<area shape="rect" id="node5" href="$d9/d5f/EDecayType_8hh.html" title="g4decayer/EDecayType.hh" alt="" coords="1411,525,1611,553"/>
+<area shape="rect" id="node9" href="$de/d75/G4__Aerogel_8C.html" title="Aerogel RICH for EIC detector." alt="" coords="1649,357,1761,385"/>
+<area shape="rect" id="node11" href="$d8/d04/G4__Barrel__EIC_8C.html" title="G4_Barrel_EIC.C" alt="" coords="1293,357,1422,385"/>
+<area shape="rect" id="node12" href="$dc/dc6/PHG4CylinderSubsystem_8h.html" title="g4detectors/PHG4Cylinder\lSubsystem.h" alt="" coords="529,433,730,477"/>
+<area shape="rect" id="node14" href="$d4/dcd/G4__BlackHole_8C.html" title="G4_BlackHole.C" alt="" coords="431,357,559,385"/>
+<area shape="rect" id="node15" href="$d8/d4c/G4__CEmc__EIC_8C.html" title="G4_CEmc_EIC.C" alt="" coords="1447,357,1575,385"/>
+<area shape="rect" id="node16" href="$d8/d50/G4__DIRC_8C.html" title="Macro setting up the barrel DIRC." alt="" coords="583,357,676,385"/>
+<area shape="rect" id="node17" href="$d1/d38/G4__EEMC_8C.html" title="G4_EEMC.C" alt="" coords="1960,357,2059,385"/>
+<area shape="rect" id="node18" href="$dd/dc8/G4__FEMC__EIC_8C.html" title="G4_FEMC_EIC.C" alt="" coords="2595,281,2722,309"/>
+<area shape="rect" id="node19" href="$d8/dc2/G4__FHCAL_8C.html" title="G4_FHCAL.C" alt="" coords="2751,281,2857,309"/>
+<area shape="rect" id="node20" href="$d1/db0/G4__FST__EIC_8C.html" title="G4_FST_EIC.C" alt="" coords="917,281,1030,309"/>
+<area shape="rect" id="node21" href="$de/d55/G4__GEM__EIC_8C.html" title="G4_GEM_EIC.C" alt="" coords="1324,281,1444,309"/>
+<area shape="rect" id="node22" href="$dc/dda/G4__HcalIn__ref_8C.html" title="G4_HcalIn_ref.C" alt="" coords="989,357,1115,385"/>
+<area shape="rect" id="node23" href="$d8/d93/G4__HcalOut__ref_8C.html" title="G4_HcalOut_ref.C" alt="" coords="2083,357,2221,385"/>
+<area shape="rect" id="node25" href="$da/d17/G4__Magnet_8C.html" title="G4_Magnet.C" alt="" coords="700,357,812,385"/>
+<area shape="rect" id="node26" href="$d8/d33/G4__Mvtx__EIC_8C.html" title="G4_Mvtx_EIC.C" alt="" coords="2397,357,2520,385"/>
+<area shape="rect" id="node28" href="$d4/d0f/G4__PlugDoor__EIC_8C.html" title="G4_PlugDoor_EIC.C" alt="" coords="255,357,406,385"/>
+<area shape="rect" id="node29" href="$df/d24/G4__RICH_8C.html" title="Setup the gas RICH detector as designed in ePHENIX LOI." alt="" coords="1055,281,1148,309"/>
+<area shape="rect" id="node30" href="$d3/d50/G4__TPC__EIC_8C.html" title="G4_TPC_EIC.C" alt="" coords="2252,281,2367,309"/>
+<area shape="rect" id="node31" href="$d1/d31/G4__Tracking__EIC_8C.html" title="G4_Tracking_EIC.C" alt="" coords="2542,197,2687,225"/>
+<area shape="rect" id="node33" href="$d0/d40/G4__World_8C.html" title="G4_World.C" alt="" coords="1785,357,1885,385"/>
+<area shape="rect" id="node34" href="$da/d58/PHG4DstCompressReco_8h.html" title="g4eval/PHG4DstCompressReco.h" alt="" coords="1964,197,2207,225"/>
+<area shape="rect" id="node35" href="$de/d78/PHG4TruthSubsystem_8h.html" title="g4main/PHG4TruthSubsystem.h" alt="" coords="2231,197,2467,225"/>
+<area shape="rect" id="node10" href="$de/d67/fun4all__macros_2blob_2master_2common_2GlobalVariables_8C.html" title="GlobalVariables.C" alt="" coords="1441,441,1581,469"/>
+<area shape="rect" id="node41" href="$d9/d70/PHG4DSTReader_8h.html" title="g4eval/PHG4DSTReader.h" alt="" coords="545,281,740,309"/>
+<area shape="rect" id="node43" href="$d0/d45/ClusterJetInput_8h.html" title="g4jets/ClusterJetInput.h" alt="" coords="3777,197,3957,225"/>
+<area shape="rect" id="node44" href="$d6/df8/FastJetAlgo_8h.html" title="g4jets/FastJetAlgo.h" alt="" coords="3547,197,3701,225"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="FairDbProxy::QueryValidity" name="FairDbProxy::QueryValidity">
+<area shape="rect" id="node2" href="$dd/d71/classValContext.html#a7245d43141de2fa31710883aa99f25e5" title="ValContext::GetDetector" alt="" coords="266,5,454,33"/>
+<area shape="rect" id="node3" href="$d2/d87/classValTimeStamp.html#a5c282fbab835f86d8a8d6a91b62162d1" title="Get (integral) seconds after the EPOCH." alt="" coords="271,57,449,85"/>
+<area shape="rect" id="node4" href="$dd/d71/classValContext.html#a5be59960e7b809fdcaab848767b85246" title="ValContext::GetSimFlag" alt="" coords="269,109,451,137"/>
+<area shape="rect" id="node5" href="$d9/dbd/classFairDbProxy.html#ac98a02e2bb818992c98505f4a948447f" title="FairDbProxy::GetTableName" alt="" coords="256,161,464,189"/>
+<area shape="rect" id="node6" href="$d5/dcb/namespaceFairDb.html#ac1ee17448e5df87fc7bbe741d6dad01e" title="FairDb::GetTimeGate" alt="" coords="279,213,441,241"/>
+<area shape="rect" id="node8" href="$dd/d71/classValContext.html#a7ed9b7e0653d2906ced11408472e3d88" title="ValContext::GetTimeStamp" alt="" coords="257,265,463,293"/>
+<area shape="rect" id="node9" href="$d5/dcb/namespaceFairDb.html#a72a84c9a167a58500aeb7de4e776939a" title="FairDb::MakeDateTimeString" alt="" coords="253,317,467,345"/>
+<area shape="rect" id="node7" href="$d5/dcb/namespaceFairDb.html#a83273bdd1df5e66bb44c81cb1236dcf7" title="FairDb::SetTimeGate" alt="" coords="527,213,688,241"/>
+<area shape="rect" id="node10" href="$d2/d87/classValTimeStamp.html#a1558560608010aa1b1f77de84fb66484" title="ValTimeStamp::AsString" alt="" coords="515,317,700,345"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="Acts::SurfaceArray::SurfaceGridLookup&lt; Axes &gt;" name="Acts::SurfaceArray::SurfaceGridLookup&lt; Axes &gt;">
+<area shape="rect" id="node2" href="$d5/d67/structActs_1_1SurfaceArray_1_1ISurfaceGridLookup.html" title="Base interface for all surface lookups." alt="" coords="575,7,738,51"/>
+<area shape="rect" id="node44" href="$d0/df4/exceptionActs_1_1detail_1_1Grid.html" title="Acts::detail::Grid\l\&lt; SurfaceVector, Axes...\&gt;" alt="" coords="3560,107,3755,151"/>
+<area shape="rect" id="node37" href="$d5/dd2/classActs_1_1SurfaceArray.html" title="Provides Surface binning in N dimensions." alt="" coords="1457,78,1605,106"/>
+<area shape="rect" id="node5" href="$de/d7d/classActs_1_1Surface.html" title="Abstract Base Class for tracking surfaces." alt="" coords="2733,599,2845,627"/>
+<area shape="rect" id="node6" href="$d3/d07/classActs_1_1GeometryObject.html" title="Acts::GeometryObject" alt="" coords="260,654,432,682"/>
+<area shape="rect" id="node9" href="$da/d28/classActs_1_1Layer.html" title="Acts::Layer" alt="" coords="2354,299,2453,327"/>
+<area shape="rect" id="node19" href="$d2/d65/classActs_1_1Volume.html" title="Acts::Volume" alt="" coords="601,654,712,682"/>
+<area shape="rect" id="node7" href="$d7/df5/classActs_1_1GeometryID.html" title="Acts::GeometryID" alt="" coords="5,654,147,682"/>
+<area shape="rect" id="node11" href="$d5/db4/classActs_1_1ApproachDescriptor.html" title="Acts::ApproachDescriptor" alt="" coords="1434,175,1629,203"/>
+<area shape="rect" id="node12" href="$d5/dcc/classActs_1_1BinUtility.html" title="Acts::BinUtility" alt="" coords="1945,965,2066,993"/>
+<area shape="rect" id="node14" href="$dd/ddd/classActs_1_1BinningData.html" title="Acts::BinningData" alt="" coords="1038,994,1181,1022"/>
+<area shape="rect" id="node18" href="$dd/dcd/classActs_1_1TrackingVolume.html" title="Acts::TrackingVolume" alt="" coords="1922,569,2089,597"/>
+<area shape="rect" id="node20" href="$d4/d2a/classActs_1_1AxisAlignedBoundingBox.html" title="Acts::AxisAlignedBounding\lBox\&lt; Volume, double, 3 \&gt;" alt="" coords="1007,774,1211,818"/>
+<area shape="rect" id="node41" href="$d6/dae/classActs_1_1AbstractVolume.html" title="Acts::AbstractVolume" alt="" coords="1026,238,1193,266"/>
+<area shape="rect" id="node21" href="$d4/d2a/classActs_1_1AxisAlignedBoundingBox.html" title="Acts::AxisAlignedBounding\lBox\&lt; entity_t, value_t, DIM \&gt;" alt="" coords="547,417,766,461"/>
+<area shape="rect" id="node28" title="STL class." alt="" coords="1487,719,1576,747"/>
+<area shape="rect" id="node29" title="STL class." alt="" coords="1038,706,1181,750"/>
+<area shape="rect" id="node31" href="$d7/dc3/classActs_1_1GlueVolumesDescriptor.html" title="Acts::GlueVolumesDescriptor" alt="" coords="1421,845,1641,873"/>
+<area shape="rect" id="node35" href="$d5/d80/classActs_1_1BinnedArray.html" title="Acts::BinnedArray\&lt; T \&gt;" alt="" coords="1019,534,1200,562"/>
+<area shape="rect" id="node43" href="$d7/de6/classActs_1_1DetectorElementBase.html" title="Acts::DetectorElementBase" alt="" coords="2300,631,2507,659"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="EicKfNodeTemplate1D::SetSigma" name="EicKfNodeTemplate1D::SetSigma">
+<area shape="rect" id="node2" href="$df/dca/classEicTrackingDigiHitProducer.html#a45fe363199b947b405066a052fe034c6" title="EicTrackingDigiHitProducer\l::DefineKfNodeTemplateCore1D" alt="" coords="224,107,459,151"/>
+<area shape="rect" id="node3" href="$df/dca/classEicTrackingDigiHitProducer.html#a7212955b039235667737c7e9ca17ce37" title="EicTrackingDigiHitProducer\l::DefineKfNodeTemplate1D" alt="" coords="507,39,711,83"/>
+<area shape="rect" id="node6" href="$df/dca/classEicTrackingDigiHitProducer.html#a347ea1e91423525bd847e2b2c8bfaefa" title="EicTrackingDigiHitProducer\l::DefineKfNodeTemplateR" alt="" coords="507,107,711,151"/>
+<area shape="rect" id="node7" href="$df/dca/classEicTrackingDigiHitProducer.html#a385af2e2fb84da8616c6e039c06ad338" title="EicTrackingDigiHitProducer\l::DefineKfNodeTemplateA" alt="" coords="507,175,711,219"/>
+<area shape="rect" id="node4" href="$df/dca/classEicTrackingDigiHitProducer.html#ae96a966cf9e604d1db3d2634230ddca5" title="EicTrackingDigiHitProducer\l::DefineKfNodeTemplateX" alt="" coords="759,5,963,49"/>
+<area shape="rect" id="node5" href="$df/dca/classEicTrackingDigiHitProducer.html#a7c0d9f5125662d32ff1c5fcefd45fd73" title="EicTrackingDigiHitProducer\l::DefineKfNodeTemplateY" alt="" coords="759,73,963,117"/>
+</map>

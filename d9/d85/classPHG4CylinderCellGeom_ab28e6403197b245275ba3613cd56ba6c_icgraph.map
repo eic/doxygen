@@ -1,0 +1,48 @@
+<map id="PHG4CylinderCellGeom::check_binning_method_phi" name="PHG4CylinderCellGeom::check_binning_method_phi">
+<area shape="rect" id="node2" href="$d9/d85/classPHG4CylinderCellGeom.html#ae568e0233c2bf19b774496bc8133bec7" title="PHG4CylinderCellGeom\l::get_phibin" alt="" coords="267,164,447,208"/>
+<area shape="rect" id="node27" href="$d9/d85/classPHG4CylinderCellGeom.html#a4999cf2fcefaae861e8ddc7c489af731" title="PHG4CylinderCellGeom\l::get_phibins" alt="" coords="267,720,447,764"/>
+<area shape="rect" id="node37" href="$d9/d85/classPHG4CylinderCellGeom.html#a619e05f0264243126360ac83b80f1d89" title="PHG4CylinderCellGeom\l::get_phicenter" alt="" coords="267,376,447,420"/>
+<area shape="rect" id="node40" href="$d9/d85/classPHG4CylinderCellGeom.html#aaef09dc39c17757b6e4ae55c736061a0" title="PHG4CylinderCellGeom\l::get_phimin" alt="" coords="267,617,447,661"/>
+<area shape="rect" id="node41" href="$d9/d85/classPHG4CylinderCellGeom.html#a10a58a3eed1d5566cebd3b19583d78bb" title="PHG4CylinderCellGeom\l::get_phistep" alt="" coords="267,255,447,299"/>
+<area shape="rect" id="node42" href="$d9/d85/classPHG4CylinderCellGeom.html#a62ff6296a3a85f04eeb908610345a703" title="PHG4CylinderCellGeom\l::set_phibins" alt="" coords="267,1116,447,1160"/>
+<area shape="rect" id="node46" href="$d9/d85/classPHG4CylinderCellGeom.html#a8aaf7b76351007d1dc91be54e214541e" title="PHG4CylinderCellGeom\l::set_phimin" alt="" coords="267,1048,447,1092"/>
+<area shape="rect" id="node47" href="$d9/d85/classPHG4CylinderCellGeom.html#a719e01344e250bcb1e7573eedd0af53a" title="PHG4CylinderCellGeom\l::set_phistep" alt="" coords="267,1184,447,1228"/>
+<area shape="rect" id="node3" href="$d9/d24/classPHTruthClustering.html#a40a789a8b5e215a0447d563ab811f3c8" title="PHTruthClustering::\lG4ClusterSize" alt="" coords="535,57,686,101"/>
+<area shape="rect" id="node6" href="$d5/dd0/classPHG4CylinderCellReco.html#acd9297cbac172c726c8da55f875a824a" title="event processing" alt="" coords="525,125,697,169"/>
+<area shape="rect" id="node7" href="$d4/de4/classSvtxTruthEval.html#ade4b494c4cfaa95e70829c37446d9a83" title="SvtxTruthEval::G4ClusterSize" alt="" coords="502,5,719,33"/>
+<area shape="rect" id="node24" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a8947e8dcf5c35c405459a6d14b83ec23" title="PHG4TpcPadPlaneReadout\l::populate_rectangular\l_phibins" alt="" coords="510,193,711,253"/>
+<area shape="rect" id="node26" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a7b580905412912ba96c9114aba69219e" title="PHG4TpcPadPlaneReadout\l::populate_zigzag_phibins" alt="" coords="510,277,711,321"/>
+<area shape="rect" id="node4" href="$d9/d24/classPHTruthClustering.html#a8fb52ae244819fcfc7e7530f2beaddc9" title="PHTruthClustering::\lall_truth_clusters" alt="" coords="800,224,951,268"/>
+<area shape="rect" id="node5" href="$d9/d24/classPHTruthClustering.html#a047adb6ab581cd996bb280ee82521752" title="PHTruthClustering::\lprocess_event" alt="" coords="1047,356,1197,400"/>
+<area shape="rect" id="node8" href="$d4/de4/classSvtxTruthEval.html#a10ce69fd37eb1db4dbc77cbfa7affc98" title="SvtxTruthEval::all\l_truth_clusters" alt="" coords="806,124,945,168"/>
+<area shape="rect" id="node9" href="$df/db8/classQAG4SimulationTpc.html#aec3889f1254e0eec8b2b6f354e1375bd" title="evaluate clusters" alt="" coords="1039,236,1205,280"/>
+<area shape="rect" id="node11" href="$d1/d1e/classSvtxClusterEval.html#af774b5eb2254c2427cd21fbd29b47b6f" title="SvtxClusterEval::all\l_truth_clusters" alt="" coords="1046,168,1198,212"/>
+<area shape="rect" id="node12" href="$d1/d1e/classSvtxClusterEval.html#a7619937ca04fc86bf74e13a08b1d1959" title="SvtxClusterEval::max\l_truth_cluster_by_energy" alt="" coords="1277,135,1469,179"/>
+<area shape="rect" id="node18" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1527,296,1715,340"/>
+<area shape="rect" id="node20" href="$d1/d1e/classSvtxClusterEval.html#a71467fc0bd5e8af7a8d4ea2a0d124bc1" title="SvtxClusterEval::max\l_truth_particle_by_cluster\l_energy" alt="" coords="1024,32,1220,92"/>
+<area shape="rect" id="node10" href="$df/db8/classQAG4SimulationTpc.html#aaecb5e12b4083bd235ec7200368c58fc" title="QAG4SimulationTpc::\lprocess_event" alt="" coords="1291,236,1456,280"/>
+<area shape="rect" id="node13" href="$d3/d32/classActsEvaluator.html#ab775f6e654ac9d42708ff5ba9945ce58" title="ActsEvaluator::getGlobal\lTruthHit" alt="" coords="1527,135,1716,179"/>
+<area shape="rect" id="node14" href="$d3/d32/classActsEvaluator.html#ac077153dd095f809fbb109f1a9242571" title="ActsEvaluator::fillProto\lTrack" alt="" coords="1771,176,1945,220"/>
+<area shape="rect" id="node17" href="$d3/d32/classActsEvaluator.html#adfc0d467a2bfb926be361c88761b2667" title="ActsEvaluator::visitTrack\lStates" alt="" coords="1764,108,1952,152"/>
+<area shape="rect" id="node15" href="$d3/d32/classActsEvaluator.html#a1dcade956fd83a14249e38b5783b0f00" title="Function to evaluate Trajectories fit results from the KF." alt="" coords="2000,151,2241,179"/>
+<area shape="rect" id="node16" href="$d3/d32/classActsEvaluator.html#a9ce1e3818dfcd7709c5693087aa21df5" title="ActsEvaluator::process\l_event" alt="" coords="2289,143,2465,187"/>
+<area shape="rect" id="node19" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="1770,296,1946,340"/>
+<area shape="rect" id="node21" href="$dd/de6/classKFParticle__truthAndDetTools.html#aacd7464b07f03f83a4d7e2de49e63a50" title="KFParticle_truthAndDetTools\l::fillTruthBranch" alt="" coords="1268,15,1479,59"/>
+<area shape="rect" id="node22" href="$d9/dae/classKFParticle__nTuple.html#ac32b873cf95657eb34d8b572ad692172" title="Fills required information for your selection, also requests truth and detector information if needed..." alt="" coords="1548,15,1695,59"/>
+<area shape="rect" id="node23" href="$d5/d72/classKFParticle__sPHENIX.html#a7e5ad7cf075fbf8e68a781e7721fec81" title="KFParticle_sPHENIX\l::process_event" alt="" coords="1782,15,1934,59"/>
+<area shape="rect" id="node25" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a56fe08cc093dc800b38ec28a7e971bf3" title="PHG4TpcPadPlaneReadout\l::MapToPadPlane" alt="" coords="775,308,976,352"/>
+<area shape="rect" id="node28" href="$de/d25/classTpcClusterizer.html#a3bd69b5760ef6e8fe058303f44244741" title="TpcClusterizer::is\l_in_sector_boundary" alt="" coords="530,860,691,904"/>
+<area shape="rect" id="node29" href="$de/d25/classTpcClusterizer.html#a8dd29d5451a29cd488440e096a9f53d1" title="TpcClusterizer::process\l_event" alt="" coords="785,405,965,449"/>
+<area shape="rect" id="node30" href="$da/d27/classTPCDataStreamEmulator.html#a103b0eab10ddf8a3b47e2d6e36b5a59d" title="TPCDataStreamEmulator\l::process_event" alt="" coords="515,1048,706,1092"/>
+<area shape="rect" id="node31" href="$dc/d86/classTPCIntegratedCharge.html#a81020cfbf5f20cf2696026c8ecf2953d" title="TPCIntegratedCharge\l::process_event" alt="" coords="527,740,694,784"/>
+<area shape="rect" id="node32" href="$d7/d10/classRawTowerBuilder.html#a01f91227474fd72e2e630a577973b67b" title="RawTowerBuilder::CreateNodes" alt="" coords="495,585,727,613"/>
+<area shape="rect" id="node34" href="$d6/d11/classSvtxEvaluator.html#aef548ddeafdf0ebc949f29e88a741db8" title="print out the ancestry information for detailed diagnosis" alt="" coords="497,808,725,836"/>
+<area shape="rect" id="node35" href="$d1/dc5/classPHG4TpcDigitizer.html#a885fb5ebbc80c8a2ed915f762b90ad79" title="PHG4TpcDigitizer::Digitize\lCylinderCells" alt="" coords="511,928,710,972"/>
+<area shape="rect" id="node33" href="$d7/d10/classRawTowerBuilder.html#a4b0df4f724072bb2c3f2e59e44ef134c" title="RawTowerBuilder::InitRun" alt="" coords="779,585,971,613"/>
+<area shape="rect" id="node36" href="$d1/dc5/classPHG4TpcDigitizer.html#a3a1281c04ddb169c704cc2c03a327e04" title="event processing" alt="" coords="775,928,975,972"/>
+<area shape="rect" id="node38" href="$de/d25/classTpcClusterizer.html#ae918c6fcae58f6d69030931a4552a3ac" title="TpcClusterizer::calc\l_cluster_parameter" alt="" coords="533,345,688,389"/>
+<area shape="rect" id="node39" href="$d0/d39/classG4CellNtuple.html#a1225feb6cc44566783593b235e16eb38" title="event processing method" alt="" coords="525,465,696,509"/>
+<area shape="rect" id="node43" href="$d5/dd0/classPHG4CylinderCellReco.html#ada869396a39d11561fcbb85572446310" title="module initialization" alt="" coords="525,1184,697,1228"/>
+<area shape="rect" id="node44" href="$dc/d20/classPHG4FullProjSpacalCellReco.html#a37f9ab5678a82c0a886af63ebd1d5f85" title="module initialization" alt="" coords="505,1116,716,1160"/>
+<area shape="rect" id="node45" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a838c315e35cb3066d4e1c5553340838c" title="PHG4TpcPadPlaneReadout\l::CreateReadoutGeometry" alt="" coords="510,1252,711,1296"/>
+</map>

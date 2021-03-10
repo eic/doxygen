@@ -1,0 +1,51 @@
+<map id="parameter::value" name="parameter::value">
+<area shape="rect" id="node2" href="$d0/d94/classinputParameters.html#a235982c6659ccea0de3cf92ee42cfb99" title="returns axion mass //AXION HACK" alt="" coords="222,1761,435,1789"/>
+<area shape="rect" id="node4" href="$d0/d94/classinputParameters.html#aa885d2d2b46648ad1e9e88797e495268" title="inputParameters::baseFileName" alt="" coords="556,1891,792,1919"/>
+<area shape="rect" id="node6" href="$d0/d94/classinputParameters.html#a4fd477d9f23f34bf56061d934b7ac10c" title="returns atomic mass number of beam particle 1" alt="" coords="229,177,428,205"/>
+<area shape="rect" id="node7" href="$d0/d94/classinputParameters.html#a58b0e346b58ef1a26a228f5c5c298e55" title="inputParameters::init" alt="" coords="592,320,756,348"/>
+<area shape="rect" id="node8" href="$d0/d94/classinputParameters.html#a0544fc589119311b9238e6ccda8c397e" title="returns Lorentz gamma factor of beam 1 in collider frame" alt="" coords="209,281,448,325"/>
+<area shape="rect" id="node9" href="$d0/d94/classinputParameters.html#a92006d12d6921a7711029d03e531deb6" title="returns atomic number of beam particle 1" alt="" coords="229,349,428,377"/>
+<area shape="rect" id="node10" href="$d0/d94/classinputParameters.html#a8601c2146f76151f69c63a5881baf4c5" title="returns atomic mass number of beam particle 2" alt="" coords="229,401,428,429"/>
+<area shape="rect" id="node11" href="$d0/d94/classinputParameters.html#a85a234ee4c002524953d08047b43826d" title="returns Lorentz gamma factor of beam 2 in collider frame" alt="" coords="209,453,448,497"/>
+<area shape="rect" id="node12" href="$d0/d94/classinputParameters.html#a2061619e6334c16a2e421d5b22cf7f91" title="returns atomic number of beam particle 2" alt="" coords="229,1277,428,1305"/>
+<area shape="rect" id="node13" href="$d0/d94/classinputParameters.html#afe88eab3c04b627fcedf5071377c8789" title="returns breakup mode for beam particles" alt="" coords="192,521,465,549"/>
+<area shape="rect" id="node14" href="$d0/d94/classinputParameters.html#ab67ed919af2f229a59fbe208d8040d36" title="returns the definition of b&#45;slope" alt="" coords="203,573,455,601"/>
+<area shape="rect" id="node15" href="$d0/d94/classinputParameters.html#ad1ac359b4e40c9fdb53ff7f7afffcbf0" title="returns the value of b&#45;slope" alt="" coords="217,625,441,653"/>
+<area shape="rect" id="node16" href="$d0/d94/classinputParameters.html#a3f48df498797469c980b90bbcbaa4695" title="inputParameters::electron\lEnergy" alt="" coords="231,677,427,721"/>
+<area shape="rect" id="node17" href="$d0/d94/classinputParameters.html#ad79c4a5e1db5359527bb94b05f73199e" title="returns cut in eta" alt="" coords="208,745,449,773"/>
+<area shape="rect" id="node18" href="$d0/d94/classinputParameters.html#a9890d6e3d64b105fa98d85c38ac64682" title="returns maximum eta" alt="" coords="221,797,436,825"/>
+<area shape="rect" id="node19" href="$d0/d94/classinputParameters.html#ac6af0ae124e6c2b1c03df5adeb917c3e" title="returns minimum eta" alt="" coords="223,849,434,877"/>
+<area shape="rect" id="node20" href="$d0/d94/classinputParameters.html#ad7013a1c335ea7ac293f744b5f3c96a6" title="returns if the full hepmc3 event record should be printed" alt="" coords="219,901,439,945"/>
+<area shape="rect" id="node21" href="$d0/d94/classinputParameters.html#a720a87d6fcc0e609e32b3959245b19bb" title="returns the impulseVM value" alt="" coords="221,969,437,997"/>
+<area shape="rect" id="node22" href="$d0/d94/classinputParameters.html#aa8b9bc2e10f48c7a53cb018ec651f08e" title="returns whether interference is taken into account" alt="" coords="217,1021,441,1065"/>
+<area shape="rect" id="node23" href="$d0/d94/classinputParameters.html#a0af2e3c7a0edbecd1babe35ef6abe9c3" title="returns percentage of interference" alt="" coords="217,1089,441,1133"/>
+<area shape="rect" id="node24" href="$d0/d94/classinputParameters.html#a0655987c235fb96b9060555078ff4993" title="returns maximum gamma energy in case of photo nuclear processes [GeV]" alt="" coords="217,1157,441,1201"/>
+<area shape="rect" id="node25" href="$d0/d94/classinputParameters.html#a3ad5f2b30aee37998edf6c21a9880ebd" title="return maximum gamma virtuality" alt="" coords="207,1225,451,1253"/>
+<area shape="rect" id="node26" href="$d0/d94/classinputParameters.html#a72a83454bc0499de4ff4857ad6a613d2" title="returns maximum p_T for interference calculation [GeV/c]" alt="" coords="195,1657,462,1685"/>
+<area shape="rect" id="node27" href="$d0/d94/classinputParameters.html#a1afb659b14cd7c57114f3d3d1c6667cd" title="returns maximum absolute value of rapidity" alt="" coords="215,1329,442,1357"/>
+<area shape="rect" id="node28" href="$d0/d94/classinputParameters.html#abdc942992e0ec94bb1ab494f7a577597" title="returns maximum mass W of produced hadronic system [GeV/c^2]" alt="" coords="236,1381,421,1409"/>
+<area shape="rect" id="node29" href="$d0/d94/classinputParameters.html#ae425c4b099bdfd2768e42024e0679ab9" title="returns minimum gamma energy in case of photo nuclear processes [GeV]" alt="" coords="219,1433,439,1477"/>
+<area shape="rect" id="node30" href="$d0/d94/classinputParameters.html#a14a4f17bc4d2ffda9ee3ee3f723036da" title="return minimum gamma virtuality" alt="" coords="209,1501,449,1529"/>
+<area shape="rect" id="node31" href="$d0/d94/classinputParameters.html#ab35a8903b8a1fa886f942bf244e70beb" title="returns minimum mass W of produced hadronic system [GeV/c^2]" alt="" coords="238,1553,419,1581"/>
+<area shape="rect" id="node32" href="$d0/d94/classinputParameters.html#a1d828d5268acd4771a2f0601ecba5c20" title="return the number of Egamma bins for eSTARlight lookup" alt="" coords="204,1605,453,1633"/>
+<area shape="rect" id="node33" href="$d0/d94/classinputParameters.html#a88f6a3b57e8356cd002f3f592e693369" title="returns total number of events to generate" alt="" coords="565,1709,783,1737"/>
+<area shape="rect" id="node34" href="$d0/d94/classinputParameters.html#af308897c2871f74932fdfbb190e37af1" title="return number of gamma q2 bins" alt="" coords="216,2020,441,2064"/>
+<area shape="rect" id="node35" href="$d0/d94/classinputParameters.html#a9c54f6e1637b8f93a4c4865c360c5be1" title="prints parameter summary" alt="" coords="587,1997,761,2025"/>
+<area shape="rect" id="node36" href="$d0/d94/classinputParameters.html#afbd86e6ebe5766cdb0d039df8de970aa" title="returns number of p_T bins for interference calculation" alt="" coords="221,5,436,49"/>
+<area shape="rect" id="node37" href="$d0/d94/classinputParameters.html#aa811639a94c5ed107421b223973ed007" title="returns number of rapidity bins in lookup table" alt="" coords="200,1813,457,1841"/>
+<area shape="rect" id="node38" href="$d0/d94/classinputParameters.html#a591bf64d53873cd96cf2207e4c646a0a" title="returns number of W bins in lookup table" alt="" coords="221,1865,436,1893"/>
+<area shape="rect" id="node39" href="$d0/d94/classinputParameters.html#abc9b8f1ced9f07b15ba857d08a218304" title="returns PDG particle ID of produced particle" alt="" coords="211,73,446,101"/>
+<area shape="rect" id="node40" href="$d0/d94/classinputParameters.html#ae3286f42046ff3738e2bdff84fd62504" title="returns production mode" alt="" coords="203,125,454,153"/>
+<area shape="rect" id="node41" href="$d0/d94/classinputParameters.html#a0d1e9e9b75c103221da2da9d36a613f4" title="inputParameters::protonEnergy" alt="" coords="212,2088,445,2116"/>
+<area shape="rect" id="node42" href="$d0/d94/classinputParameters.html#af890e0d8e9b8741e5fe55c821fda997e" title="returns width of p_T bins for interference calculation [GeV/c]" alt="" coords="221,2140,437,2184"/>
+<area shape="rect" id="node43" href="$d0/d94/classinputParameters.html#aec5f59dd9a94a59514b2f2b8382cc4db" title="returns cut in pt" alt="" coords="212,2208,445,2236"/>
+<area shape="rect" id="node44" href="$d0/d94/classinputParameters.html#a4b11672c7418b5ccbff52075f1905314" title="returns maximum pt" alt="" coords="225,2260,432,2288"/>
+<area shape="rect" id="node45" href="$d0/d94/classinputParameters.html#a4522af1da512daa16cb7e949343d13cf" title="returns minimum pt" alt="" coords="227,2312,430,2340"/>
+<area shape="rect" id="node46" href="$d0/d94/classinputParameters.html#a8e20a0cb791ab6744921814c5eff58f5" title="returns if the full pythia event record should be printed" alt="" coords="225,2364,433,2408"/>
+<area shape="rect" id="node47" href="$d0/d94/classinputParameters.html#a9c185873bc77120f9de3cb0386249ceb" title="returns parameters to be passed to pythia" alt="" coords="211,2432,446,2460"/>
+<area shape="rect" id="node48" href="$d0/d94/classinputParameters.html#afa9425bbdb86a0a8ea4160502514b4c7" title="returns the quantum glauber value" alt="" coords="227,2484,430,2528"/>
+<area shape="rect" id="node49" href="$d0/d94/classinputParameters.html#ae1efbe6f523d29cd185815be5a70ec1e" title="returns seed for random number generator" alt="" coords="215,2552,443,2580"/>
+<area shape="rect" id="node50" href="$d0/d94/classinputParameters.html#a825912c4caea8697e6d088022bf582a6" title="returns the method used for the x&#45;sec calculation" alt="" coords="228,2604,429,2648"/>
+<area shape="rect" id="node3" href="$da/d63/classGammagammasingle.html#a3e1d7f037c374123fc8e79ad109b9e94" title="Gammagammasingle::Gammagammasingle" alt="" coords="513,1813,835,1841"/>
+<area shape="rect" id="node5" href="$d5/de3/classe__starlightStandalone.html#a2c2a5197c1b9c2adfbe3d2f9eca3820e" title="reads configuration file and initializes startlight" alt="" coords="883,1701,1052,1745"/>
+</map>

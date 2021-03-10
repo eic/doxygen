@@ -1,0 +1,32 @@
+<map id="Smear::Detector::Smear" name="Smear::Detector::Smear">
+<area shape="rect" id="node2" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="277,7,387,35"/>
+<area shape="rect" id="node4" href="$d2/d7d/classSmear_1_1Detector.html#a0ab66e8cbf78f0d65231e711a3ca4a61" title="Smear::Detector::Accept" alt="" coords="239,63,425,91"/>
+<area shape="rect" id="node6" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="539,283,583,311"/>
+<area shape="rect" id="node7" href="$d0/d01/classerhic_1_1VirtualParticle.html#a814fea487e227a2dd9d188b23f239c0c" title="erhic::VirtualParticle\l::GetEta" alt="" coords="253,167,411,211"/>
+<area shape="rect" id="node8" href="$df/dba/classSmear_1_1ParticleMCS.html#aff373c10e5f5783d7ea05767e95ee94e" title="Smear::ParticleMCS\l::GetP" alt="" coords="255,235,409,279"/>
+<area shape="rect" id="node9" href="$df/dba/classSmear_1_1ParticleMCS.html#a283b919fb2ec9d2aafcb1f27d28d0320" title="Smear::ParticleMCS\l::GetPhi" alt="" coords="255,303,409,347"/>
+<area shape="rect" id="node10" href="$df/dba/classSmear_1_1ParticleMCS.html#ad564dfa4389e11f2d7512a0c80e716dd" title="Smear::ParticleMCS\l::GetPt" alt="" coords="255,371,409,415"/>
+<area shape="rect" id="node11" href="$df/dba/classSmear_1_1ParticleMCS.html#a61fb50ba1a59b1f3806bd3b9b807be9b" title="Smear::ParticleMCS\l::GetPx" alt="" coords="255,439,409,483"/>
+<area shape="rect" id="node12" href="$df/dba/classSmear_1_1ParticleMCS.html#a938d67e123944b44c0d24135cd6563b8" title="Smear::ParticleMCS\l::GetPy" alt="" coords="255,507,409,551"/>
+<area shape="rect" id="node13" href="$df/dba/classSmear_1_1ParticleMCS.html#a92399b9d06b3bae847589dae6443cc82" title="Smear::ParticleMCS\l::GetPz" alt="" coords="255,575,409,619"/>
+<area shape="rect" id="node14" href="$df/dba/classSmear_1_1ParticleMCS.html#addf7e8a0572e93a38c5016fbf38fce76" title="Smear::ParticleMCS\l::GetTheta" alt="" coords="255,643,409,687"/>
+<area shape="rect" id="node15" href="$d0/d01/classerhic_1_1VirtualParticle.html#ac7c17f9d78d8c400e4d53e12edf0bc86" title="erhic::VirtualParticle::Id" alt="" coords="243,711,421,739"/>
+<area shape="rect" id="node16" href="$df/dba/classSmear_1_1ParticleMCS.html#a655c50fed690e7d4a7e50df6e7e9c803" title="Smear::ParticleMCS\l::IsPhiSmeared" alt="" coords="255,763,409,807"/>
+<area shape="rect" id="node17" href="$df/dba/classSmear_1_1ParticleMCS.html#a0d459d6ab5c59b0ea16c10cbfcfea1a2" title="Smear::ParticleMCS\l::IsPSmeared" alt="" coords="255,831,409,875"/>
+<area shape="rect" id="node18" href="$df/dba/classSmear_1_1ParticleMCS.html#a587d07074ec3e1a738a6cc2f580c24b2" title="Smear::ParticleMCS\l::IsPtSmeared" alt="" coords="255,899,409,943"/>
+<area shape="rect" id="node19" href="$df/dba/classSmear_1_1ParticleMCS.html#a32497fcec01a7abbdaac606117566231" title="Smear::ParticleMCS\l::IsPxSmeared" alt="" coords="255,967,409,1011"/>
+<area shape="rect" id="node20" href="$df/dba/classSmear_1_1ParticleMCS.html#a58526fe1bf2ef83a03f87d8a9e9bf2f2" title="Smear::ParticleMCS\l::IsPySmeared" alt="" coords="255,1035,409,1079"/>
+<area shape="rect" id="node21" href="$df/dba/classSmear_1_1ParticleMCS.html#a7ff486050357f7723d62de99bd6cfd64" title="Smear::ParticleMCS\l::IsPzSmeared" alt="" coords="255,1103,409,1147"/>
+<area shape="rect" id="node22" href="$df/dba/classSmear_1_1ParticleMCS.html#a6bc441c94f803e664f70111b12903d31" title="Smear::ParticleMCS\l::IsSmeared" alt="" coords="255,1171,409,1215"/>
+<area shape="rect" id="node23" href="$df/dba/classSmear_1_1ParticleMCS.html#a0fba7ba3fa2e38f99b8f2a94f618ce64" title="Smear::ParticleMCS\l::IsThetaSmeared" alt="" coords="255,1239,409,1283"/>
+<area shape="rect" id="node24" href="$df/dba/classSmear_1_1ParticleMCS.html#a1efa4128e4744d7483a711afe96e9187" title="Smear::ParticleMCS\l::SetP" alt="" coords="255,1307,409,1351"/>
+<area shape="rect" id="node25" href="$df/dba/classSmear_1_1ParticleMCS.html#ab92b90b22d342e80451ca9f5080329bd" title="Smear::ParticleMCS\l::SetPhi" alt="" coords="255,1375,409,1419"/>
+<area shape="rect" id="node26" href="$df/dba/classSmear_1_1ParticleMCS.html#ae359efe85614426be46d9c93842ceeca" title="Smear::ParticleMCS\l::SetPt" alt="" coords="255,1443,409,1487"/>
+<area shape="rect" id="node27" href="$df/dba/classSmear_1_1ParticleMCS.html#ad59093cb0d2b396caa342f7d08d81184" title="Smear::ParticleMCS\l::SetPx" alt="" coords="255,1511,409,1555"/>
+<area shape="rect" id="node28" href="$df/dba/classSmear_1_1ParticleMCS.html#ab2662001a66cdfba8f0c8804293e62fd" title="Smear::ParticleMCS\l::SetPy" alt="" coords="255,1579,409,1623"/>
+<area shape="rect" id="node29" href="$df/dba/classSmear_1_1ParticleMCS.html#a06bdd1c4d0858282f499bb669f70060e" title="Smear::ParticleMCS\l::SetPz" alt="" coords="255,1647,409,1691"/>
+<area shape="rect" id="node30" href="$df/dba/classSmear_1_1ParticleMCS.html#a9be7d565fbee2e25afed12bd2281e77a" title="Smear::ParticleMCS\l::SetSmeared" alt="" coords="255,1715,409,1759"/>
+<area shape="rect" id="node31" href="$df/dba/classSmear_1_1ParticleMCS.html#af35e854b17923b07a7ee3ff1260e43d4" title="Smear::ParticleMCS\l::SetTheta" alt="" coords="255,1783,409,1827"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="473,5,649,33"/>
+<area shape="rect" id="node5" href="$d0/d01/classerhic_1_1VirtualParticle.html#a56e48270fb8bb5e7393e9b320b32359e" title="erhic::VirtualParticle\l::GetStatus" alt="" coords="483,57,640,101"/>
+</map>

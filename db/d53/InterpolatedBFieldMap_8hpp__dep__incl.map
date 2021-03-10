@@ -1,0 +1,26 @@
+<map id="fun4all_acts/blob/master/Core/include/Acts/MagneticField/InterpolatedBFieldMap.hpp" name="fun4all_acts/blob/master/Core/include/Acts/MagneticField/InterpolatedBFieldMap.hpp">
+<area shape="rect" id="node2" href="$d6/d7e/BFieldMapUtils_8hpp.html" title="fun4all_acts/blob/master\l/Core/include/Acts/MagneticField\l/BFieldMapUtils.hpp" alt="" coords="927,121,1170,181"/>
+<area shape="rect" id="node5" href="$d7/d45/SolenoidFieldBenchmark_8cpp.html" title="fun4all_acts/blob/master\l/Tests/Benchmarks/SolenoidField\lBenchmark.cpp" alt="" coords="574,237,817,297"/>
+<area shape="rect" id="node6" href="$d2/dd8/InterpolatedSolenoidBFieldTest_8cpp.html" title="fun4all_acts/blob/master\l/Tests/IntegrationTests\l/InterpolatedSolenoidBFieldTest.cpp" alt="" coords="1297,237,1561,297"/>
+<area shape="rect" id="node7" href="$d2/d67/PropagationTestsAtlasField_8cpp.html" title="fun4all_acts/blob/master\l/Tests/IntegrationTests\l/PropagationTestsAtlasField.cpp" alt="" coords="1585,237,1821,297"/>
+<area shape="rect" id="node9" href="$df/d53/FittingAlgorithmFitterFunction_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Algorithms/Fitting\l/src/FittingAlgorithmFitterFunction.cpp" alt="" coords="1295,121,1575,181"/>
+<area shape="rect" id="node10" href="$d8/d74/BFieldUtils_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/MagneticField\l/include/ACTFW/Plugins/BField\l/BFieldUtils.hpp" alt="" coords="289,113,549,189"/>
+<area shape="rect" id="node11" href="$dc/da8/BFieldOptions_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/MagneticField\l/src/BFieldOptions.cpp" alt="" coords="5,237,265,297"/>
+<area shape="rect" id="node12" href="$d9/d7a/RootBFieldWriter_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Io/Root/include\l/ACTFW/Io/Root/RootBFieldWriter.hpp" alt="" coords="1599,121,1871,181"/>
+<area shape="rect" id="node15" href="$dc/da7/MaterialValidationBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Common/src\l/MaterialValidationBase.cpp" alt="" coords="1895,121,2107,181"/>
+<area shape="rect" id="node16" href="$d3/d32/PropagationExampleBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Common/src\l/PropagationExampleBase.cpp" alt="" coords="2131,121,2361,181"/>
+<area shape="rect" id="node17" href="$d8/d55/FatrasSimulationBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Fatras/Common\l/FatrasSimulationBase.cpp" alt="" coords="2385,121,2619,181"/>
+<area shape="rect" id="node18" href="$d2/d9c/BFieldAccessExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/MagneticField\l/BFieldAccessExample.cpp" alt="" coords="2643,121,2863,181"/>
+<area shape="rect" id="node19" href="$d4/dfb/InterpolatedBFieldMapTests_8cpp.html" title="fun4all_acts/blob/master\l/Tests/UnitTests/Core/Magnetic\lField/InterpolatedBFieldMapTests.cpp" alt="" coords="2887,121,3159,181"/>
+<area shape="rect" id="node20" href="$d8/d6f/MagneticFieldInterfaceConsistencyTests_8cpp.html" title="fun4all_acts/blob/master\l/Tests/UnitTests/Core/Magnetic\lField/MagneticFieldInterfaceConsistency\lTests.cpp" alt="" coords="3184,113,3476,189"/>
+<area shape="rect" id="node21" href="$d1/d49/PHActsInitialVertexFinder_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsInitial\lVertexFinder.cc" alt="" coords="3500,113,3747,189"/>
+<area shape="rect" id="node22" href="$d5/dfe/PHActsTrackProjection_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsTrack\lProjection.cc" alt="" coords="3771,113,4017,189"/>
+<area shape="rect" id="node23" href="$da/d99/PHActsVertexFinder_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsVertex\lFinder.cc" alt="" coords="4041,113,4294,189"/>
+<area shape="rect" id="node24" href="$de/d80/PHActsVertexFitter_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsVertex\lFitter.cc" alt="" coords="4318,113,4571,189"/>
+<area shape="rect" id="node25" href="$db/db7/PHTpcResiduals_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHTpcResiduals.cc" alt="" coords="4596,121,4885,181"/>
+<area shape="rect" id="node3" href="$d8/d30/BFieldMapUtils_8cpp.html" title="fun4all_acts/blob/master\l/Core/src/MagneticField\l/BFieldMapUtils.cpp" alt="" coords="841,237,1030,297"/>
+<area shape="rect" id="node4" href="$de/d5d/BFieldUtils_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/MagneticField\l/src/BFieldUtils.cpp" alt="" coords="289,237,549,297"/>
+<area shape="rect" id="node8" href="$dc/d57/BFieldMapUtilsTests_8cpp.html" title="fun4all_acts/blob/master\l/Tests/UnitTests/Core/Utilities\l/BFieldMapUtilsTests.cpp" alt="" coords="1055,237,1272,297"/>
+<area shape="rect" id="node13" href="$d6/d05/BFieldWritingBase_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Run/MagneticField\l/BFieldWritingBase.hpp" alt="" coords="1845,237,2065,297"/>
+<area shape="rect" id="node14" href="$dc/d47/BFieldExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/MagneticField\l/BFieldExample.cpp" alt="" coords="1845,345,2065,405"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CbmRichTrainAnnSelect::SetRecFlag" name="CbmRichTrainAnnSelect::SetRecFlag">
+<area shape="rect" id="node2" href="$d3/d78/classCbmTrackMatch.html#a16a940c85ccec06145cbbb810a7554c8" title="CbmTrackMatch::GetMCTrackId" alt="" coords="249,5,478,33"/>
+<area shape="rect" id="node3" href="$d0/d00/classCbmMCTrack.html#abd25ba063b46c886b488b6ae46a4f471" title="CbmMCTrack::GetMotherId" alt="" coords="263,57,464,85"/>
+<area shape="rect" id="node4" href="$d3/d78/classCbmTrackMatch.html#a3b1da503b722ebab1e868f20dcb4b48e" title="CbmTrackMatch::GetNofFakeHits" alt="" coords="243,109,484,137"/>
+<area shape="rect" id="node5" href="$d3/d78/classCbmTrackMatch.html#ab2f0545e880d03e977360186e5e8a4fa" title="CbmTrackMatch::GetNofTrueHits" alt="" coords="243,161,483,189"/>
+<area shape="rect" id="node6" href="$d3/d78/classCbmTrackMatch.html#a3bd5c8bc72962bb2cb04487215b4e771" title="CbmTrackMatch::GetNofWrongHits" alt="" coords="236,213,491,241"/>
+<area shape="rect" id="node7" href="$d0/d00/classCbmMCTrack.html#a108b6f955d89628794280f1c83489783" title="CbmMCTrack::GetPdgCode" alt="" coords="263,265,464,293"/>
+<area shape="rect" id="node8" href="$dc/d9e/classCbmRichRing.html#ab16bf330cbe3daa7cf6c2073cf7282cc" title="CbmRichRing::SetRecFlag" alt="" coords="266,317,461,345"/>
+</map>

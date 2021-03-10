@@ -1,0 +1,16 @@
+<map id="CbmRichRingSelectAnn::DoSelect" name="CbmRichRingSelectAnn::DoSelect">
+<area shape="rect" id="node2" href="$d1/dba/classCbmRichRingSelectImpl.html#adf3208d912cb3ace9bf440288a3aff25" title="CbmRichRingSelectImpl\l::GetAngle" alt="" coords="271,72,454,116"/>
+<area shape="rect" id="node3" href="$de/d89/classCbmRichRingLight.html#ad45c397b52a7882866e354cfcd2c1bd6" title="Return number of hits in ring." alt="" coords="543,20,771,48"/>
+<area shape="rect" id="node7" href="$de/d89/classCbmRichRingLight.html#a6c7593c19098c63540e9da1f06ac4076" title="CbmRichRingLight::GetAngle" alt="" coords="254,260,471,288"/>
+<area shape="rect" id="node8" href="$de/d89/classCbmRichRingLight.html#a78abf276ad9b4e81849afc5930602335" title="CbmRichRingLight::GetChi2" alt="" coords="259,312,467,340"/>
+<area shape="rect" id="node9" href="$de/d89/classCbmRichRingLight.html#af2caa2929d8cdbd9c4da8e5cd5bd66f3" title="CbmRichRingLight::GetNof\lHitsOnRing" alt="" coords="261,364,464,408"/>
+<area shape="rect" id="node10" href="$d1/dba/classCbmRichRingSelectImpl.html#ab5ef0bafb7726bc2f46bed37930b7ddf" title="CbmRichRingSelectImpl\l::GetNofHitsOnRingCircle" alt="" coords="267,140,458,184"/>
+<area shape="rect" id="node11" href="$de/d89/classCbmRichRingLight.html#a7075628216df426788b864369f6d9c61" title="CbmRichRingLight::GetRadius" alt="" coords="545,228,769,256"/>
+<area shape="rect" id="node12" href="$de/d89/classCbmRichRingLight.html#a6db1a3770fdf9a3c5281f0bfecd9efa6" title="Return radial position of the ring." alt="" coords="253,432,473,476"/>
+<area shape="rect" id="node13" href="$de/d89/classCbmRichRingLight.html#a70834302e2f7c2cf4fb407bd1a45943d" title="CbmRichRingLight::SetAngle" alt="" coords="255,500,470,528"/>
+<area shape="rect" id="node14" href="$de/d89/classCbmRichRingLight.html#a86ff8ff2942cd1ab1103179d5eb5c791" title="CbmRichRingLight::SetNof\lHitsOnRing" alt="" coords="262,552,463,596"/>
+<area shape="rect" id="node15" href="$de/d89/classCbmRichRingLight.html#a772e927fd4641eedbca0fe1ee299d7db" title="CbmRichRingLight::SetSelectionNN" alt="" coords="233,620,492,648"/>
+<area shape="rect" id="node4" href="$de/d89/classCbmRichRingLight.html#aa919c6cf5b852f0b89f0aee7ac8e1573" title="CbmRichRingLight::GetCenterX" alt="" coords="540,72,773,100"/>
+<area shape="rect" id="node5" href="$de/d89/classCbmRichRingLight.html#a410d6c9513ea5dde4f59660898139aa7" title="CbmRichRingLight::GetCenterY" alt="" coords="540,124,773,152"/>
+<area shape="rect" id="node6" href="$de/d89/classCbmRichRingLight.html#ac2451e7309a97a6ac4e8d49796e60ac9" title="Return hit by the index." alt="" coords="557,176,756,204"/>
+</map>

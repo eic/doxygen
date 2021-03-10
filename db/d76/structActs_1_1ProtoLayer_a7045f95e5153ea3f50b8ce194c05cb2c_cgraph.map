@@ -1,0 +1,22 @@
+<map id="Acts::ProtoLayer::measure" name="Acts::ProtoLayer::measure">
+<area shape="rect" id="node2" href="$d6/dd9/classActs_1_1CylinderSurface.html#ac0686708118f62c6f99967b864800f35" title="This method returns the CylinderBounds by reference." alt="" coords="274,5,442,49"/>
+<area shape="rect" id="node3" href="$de/d7d/classActs_1_1Surface.html#ae87d78911446cadd1c13f3172011c221" title="Acts::Surface::center" alt="" coords="276,73,440,101"/>
+<area shape="rect" id="node4" href="$da/d0a/classActs_1_1CylinderBounds.html#a87f7f0a9088eb074ac6c1e63862db251" title="Acts::CylinderBounds::get" alt="" coords="259,125,457,153"/>
+<area shape="rect" id="node5" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a9d0d7e35444d5f4a0ae7accb0a2c70db" title="Acts::VectorHelpers\l::perp" alt="" coords="281,177,435,221"/>
+<area shape="rect" id="node6" href="$dc/db4/classActs_1_1AnnulusBounds.html#ac1878d86f99ce38d7e483571ba557039" title="Returns the left angular edge of the module." alt="" coords="275,245,441,289"/>
+<area shape="rect" id="node7" href="$dc/db4/classActs_1_1AnnulusBounds.html#aedbb0ff112ed2d2d39e8265805774759" title="Returns the right angular edge of the module." alt="" coords="275,313,441,357"/>
+<area shape="rect" id="node8" href="$d6/dd9/classActs_1_1CylinderSurface.html#aed97f0dabdf0c3b1428e8c582fda6693" title="Acts::CylinderSurface\l::polyhedronRepresentation" alt="" coords="253,381,463,425"/>
+<area shape="rect" id="node15" href="$db/d76/structActs_1_1ProtoLayer.html#ad40ddfc0c7e4fde900ef4c1ad820c7d7" title="Acts::ProtoLayer::radial\lDistance" alt="" coords="269,449,447,493"/>
+<area shape="rect" id="node16" href="$dc/db4/classActs_1_1AnnulusBounds.html#ae125983dd6d6d7eb7c3eb8975e1bb08a" title="This method returns outer radius." alt="" coords="275,517,441,561"/>
+<area shape="rect" id="node17" href="$dc/db4/classActs_1_1AnnulusBounds.html#abc8ae96c4bfd53afe6d10e74b03d2b98" title="This method returns inner radius." alt="" coords="275,585,441,629"/>
+<area shape="rect" id="node18" href="$d7/de6/classActs_1_1DetectorElementBase.html#af320e4e3baf51fbd6a67aab984b9d3ad" title="Acts::DetectorElementBase\l::thickness" alt="" coords="255,653,461,697"/>
+<area shape="rect" id="node19" href="$de/d7d/classActs_1_1Surface.html#ace4cf8a84a10d848c64dfb5347af57d4" title="Acts::Surface::transform" alt="" coords="265,721,451,749"/>
+<area shape="rect" id="node20" href="$d1/d47/classActs_1_1PlanarBounds.html#aa74e714dcbcb1cd5bc966cea1977b1fe" title="Acts::PlanarBounds\l::vertices" alt="" coords="281,773,435,817"/>
+<area shape="rect" id="node21" href="$d5/dbe/EIC-IR1-XX-v00_8C.html#a888f39f7254b5b59976d577091d79a4e" title="vtx" alt="" coords="337,841,379,869"/>
+<area shape="rect" id="node9" href="$dc/dba/namespaceActs_1_1detail_1_1VerticesHelper.html#a3014827c242333f099b58502dbb60e44" title="Acts::detail::VerticesHelper\l::phiSegments" alt="" coords="511,313,717,357"/>
+<area shape="rect" id="node10" href="$dc/dba/namespaceActs_1_1detail_1_1VerticesHelper.html#a8ebff4d060d1d1fb3e53963c0182c938" title="Acts::detail::VerticesHelper\l::createSegment" alt="" coords="511,381,717,425"/>
+<area shape="rect" id="node14" href="$da/d6e/structActs_1_1detail_1_1FacesHelper.html#a1da2d66e5f92b146dd8105bc69bf28c2" title="This method works for all concentric type surface setups It includes :" alt="" coords="519,449,709,493"/>
+<area shape="rect" id="node11" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="765,364,876,392"/>
+<area shape="rect" id="node13" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="799,416,843,444"/>
+<area shape="rect" id="node12" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="924,364,1100,392"/>
+</map>

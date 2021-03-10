@@ -1,0 +1,12 @@
+<map id="PrimSelector::Exec" name="PrimSelector::Exec">
+<area shape="rect" id="node2" href="$d7/d82/classGFAbsTrackRep.html#a38cf14b05d28d6793437aee1c035ab90" title="This method is to extrapolate the track to point of closest approach to a point in space..." alt="" coords="200,5,411,49"/>
+<area shape="rect" id="node4" href="$d4/d33/classGFTrack.html#a3bb033751216b2463d67145a88b4ccf2" title="GFTrack::getCand" alt="" coords="235,73,375,101"/>
+<area shape="rect" id="node5" href="$d4/d33/classGFTrack.html#aae46ef98d58016b2c16ef5e7adaf1e23" title="Get cardinal track representation." alt="" coords="467,177,653,205"/>
+<area shape="rect" id="node6" href="$d4/d33/classGFTrack.html#abf3ff5de67d710d2419c9bebe45c34fb" title="Get charge from fit." alt="" coords="229,125,382,153"/>
+<area shape="rect" id="node8" href="$df/dd5/classGFTrackCand.html#aafd4c9f57e3223d51ac3e8faad462221" title="get the MCT track id, for MC simulations &#45; def. value &#45;1" alt="" coords="202,229,409,257"/>
+<area shape="rect" id="node9" href="$d7/d82/classGFAbsTrackRep.html#ac4a0cd0d548395cb7e1f5f13af52889b" title="GFAbsTrackRep::getMom" alt="" coords="466,307,654,335"/>
+<area shape="rect" id="node10" href="$d4/d33/classGFTrack.html#a5f98b4794727970e585e651e118aea1f" title="Get momentum at the present position." alt="" coords="236,281,375,309"/>
+<area shape="rect" id="node11" href="$df/d55/classGFException.html#a03021ecb7c2326e8dc1f0ac6e4017efa" title="standard error message handling for exceptions. use like &quot;std::cerr &lt;&lt; e.what();&quot;" alt="" coords="231,385,380,413"/>
+<area shape="rect" id="node3" href="$d7/d82/classGFAbsTrackRep.html#a3ca0fe759dc3dcd9cdc267d60dd0d5c4" title="GFAbsTrackRep::Abort" alt="" coords="475,13,645,41"/>
+<area shape="rect" id="node7" href="$d7/d82/classGFAbsTrackRep.html#aada8ada8cf3675303263e014726fc1d8" title="GFAbsTrackRep::getCharge" alt="" coords="459,125,661,153"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d1/d19/classFW_1_1IReader.html" title="FW::IReader" alt="" coords="5,109,108,137"/>
+<area shape="rect" id="node2" href="$d9/d78/exceptionFW_1_1CsvParticleReader.html" title="FW::CsvParticleReader" alt="" coords="190,5,363,33"/>
+<area shape="rect" id="node3" href="$de/d56/exceptionFW_1_1CsvPlanarClusterReader.html" title="FW::CsvPlanarClusterReader" alt="" coords="170,57,383,85"/>
+<area shape="rect" id="node4" href="$df/d0c/exceptionFW_1_1EventGenerator.html" title="FW::EventGenerator" alt="" coords="197,109,356,137"/>
+<area shape="rect" id="node5" href="$da/de5/classFW_1_1RootMaterialTrackReader.html" title="Reads in MaterialTrack information from a root file and fills it into a format to be understood by th..." alt="" coords="167,161,387,189"/>
+<area shape="rect" id="node6" href="$db/df6/exceptionFW_1_1RootVertexAndTracksReader.html" title="Reads in vertex and tracks information from a root file and fills it into a format to be understood b..." alt="" coords="156,213,397,241"/>
+</map>

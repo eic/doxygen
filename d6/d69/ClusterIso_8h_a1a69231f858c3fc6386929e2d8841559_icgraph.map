@@ -1,0 +1,17 @@
+<map id="deltaR" name="deltaR">
+<area shape="rect" id="node2" href="$df/dbf/Collins_8C.html#a09a6c4d46f058eef1fa6e20417b1912f" title="AnalyseEvents" alt="" coords="183,31,305,59"/>
+<area shape="rect" id="node5" href="$d4/db7/classActs_1_1ImpactPointEstimator.html#ab67fb36925cff54e28aeede85549e7e6" title="Calculates 3D distance between a track and a 3D point." alt="" coords="141,83,347,127"/>
+<area shape="rect" id="node7" href="$dc/d44/classActs_1_1Seedfinder.html#ae3d4b7ce10e1c8326c34fc80cff9b13a" title="Acts::Seedfinder::create\lSeedsForGroup" alt="" coords="151,219,337,263"/>
+<area shape="rect" id="node11" href="$d4/db7/classActs_1_1ImpactPointEstimator.html#aae67a291110d970c44021048b8bea918" title="Creates track parameters bound to plane at point of closest approach in 3d to given reference positio..." alt="" coords="128,151,360,195"/>
+<area shape="rect" id="node12" href="$d0/d25/classActs_1_1SeedFilter.html#a3a6a3f6933a53899e60a3239e25e9c26" title="Acts::SeedFilter::filter\lSeeds_2SpFixed" alt="" coords="160,287,328,331"/>
+<area shape="rect" id="node13" href="$de/d9b/namespaceFW_1_1Generic.html#afaa5cda4e6449ca7497b0c62a017731d" title="helper method for disc" alt="" coords="119,355,369,383"/>
+<area shape="rect" id="node15" href="$de/dcb/classClusterIso.html#a6aa03ee56ec17554e0603b71e741dfbd" title="ClusterIso::process\l_event" alt="" coords="169,407,319,451"/>
+<area shape="rect" id="node16" href="$da/dda/classSubtractTowersCS.html#ab15f45c558239c3cf38797472457e361" title="SubtractTowersCS::process\l_event" alt="" coords="142,475,346,519"/>
+<area shape="rect" id="node3" href="$df/dbf/Collins_8C.html#a14f3bd587cb481e3db6affebbee991c4" title="Collins" alt="" coords="487,5,553,33"/>
+<area shape="rect" id="node4" href="$dc/df1/zspectrum_8C.html#ab5e7e43666b95100f44eca895ce8b4a9" title="zspectrum" alt="" coords="474,57,566,85"/>
+<area shape="rect" id="node6" href="$dd/d7e/namespaceActs_1_1Test.html#ae0e8c35abfd86c233517325add7a66f5" title="Unit test for ImpactPointEstimator params and distance." alt="" coords="426,115,614,159"/>
+<area shape="rect" id="node8" href="$d2/d67/SeedfinderTest_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="493,195,547,223"/>
+<area shape="rect" id="node9" href="$d3/df0/classPHActsSiliconSeeding.html#aa9ab525f2b0cbc384a942cc487b67f13" title="PHActsSiliconSeeding\l::runSeeder" alt="" coords="437,247,603,291"/>
+<area shape="rect" id="node10" href="$d3/df0/classPHActsSiliconSeeding.html#a935b8799b5ff714a7e4ee82c740633be" title="PHActsSiliconSeeding\l::process_event" alt="" coords="671,247,837,291"/>
+<area shape="rect" id="node14" href="$de/d9b/namespaceFW_1_1Generic.html#ae44d0ffd2d79b410537700d640ed9177" title="FW::Generic::buildDetector" alt="" coords="417,355,623,383"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="FairGeoNode::calcLabTransform" name="FairGeoNode::calcLabTransform">
+<area shape="rect" id="node2" href="$de/d30/classFairGeoNode.html#a78bbd99691e8d9c3cea884972318e903" title="FairGeoNode::getLabTransform" alt="" coords="288,177,519,205"/>
+<area shape="rect" id="node9" href="$d4/d06/classFairModule.html#ac489f7e5ed92d2a4fdec5422d93bfa42" title="FairModule::ProcessNodes" alt="" coords="305,401,502,429"/>
+<area shape="rect" id="node3" href="$de/d30/classFairGeoNode.html#a5106874bd1c2658d5ee4775cc2d90613" title="FairGeoNode::setLabTransform" alt="" coords="589,5,817,33"/>
+<area shape="rect" id="node4" href="$da/d9f/classCbmRichHitProducer.html#aa215fb5147a6128031c8a2641166b95b" title="Inherited from FairTask." alt="" coords="623,57,784,101"/>
+<area shape="rect" id="node5" href="$d5/d75/classCbmRichGeoTest.html#a90129ff21b406bf395f93145ca864b0a" title="Inherited from FairTask." alt="" coords="620,125,787,153"/>
+<area shape="rect" id="node6" href="$d5/d49/classCbmRichTestHits.html#a94588b3c5b4787887e8a9953a4898d76" title="Inherited from FairTask." alt="" coords="621,177,786,205"/>
+<area shape="rect" id="node7" href="$d7/dad/classCbmRichTestSim.html#a3ca68ef9ed75782643fd30056b764211" title="Inherited from FairTask." alt="" coords="621,229,786,257"/>
+<area shape="rect" id="node8" href="$d6/d73/classCbmRichProjectionProducer.html#af55f38914e2befa81ca19d7b26610e51" title="Initialization of the task." alt="" coords="599,281,807,325"/>
+<area shape="rect" id="node10" href="$dd/dac/classEicDetector.html#a52d5d3a030ed4ab74e36989b4a563f73" title="EicDetector::ConstructGeometry" alt="" coords="583,349,823,377"/>
+<area shape="rect" id="node11" href="$df/d89/classPndMagnet.html#a24b61340759fdef8d1ab340f631f00b0" title="PndMagnet::ConstructASCIIGeometry" alt="" coords="567,401,840,429"/>
+<area shape="rect" id="node13" href="$d0/d81/classPndTarget.html#a663bbcf65595d98eab33cf402ddfe74f" title="PndTarget::ConstructGeometry" alt="" coords="589,453,818,481"/>
+<area shape="rect" id="node14" href="$d8/dd9/classCbmRich.html#a4da15c82f4256a1d985899fd00400299" title="Construct geometry from ASCII file. Supported structure for the mirrors are added on a fly..." alt="" coords="576,505,831,533"/>
+<area shape="rect" id="node12" href="$df/d89/classPndMagnet.html#aff982bc9f85e558cbd4552add14d811c" title="PndMagnet::ConstructGeometry" alt="" coords="888,401,1127,429"/>
+<area shape="rect" id="node15" href="$d8/dd9/classCbmRich.html#a3d1883ed88870fa1325c79d6c508242e" title="Construct geometry. Currently ROOT and ASCII formats are supported. The concrete method for geometry ..." alt="" coords="896,505,1119,533"/>
+</map>

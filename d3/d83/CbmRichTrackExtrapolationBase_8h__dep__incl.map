@@ -1,0 +1,9 @@
+<map id="EicRoot/blob/master/rich/tracks/CbmRichTrackExtrapolationBase.h" name="EicRoot/blob/master/rich/tracks/CbmRichTrackExtrapolationBase.h">
+<area shape="rect" id="node2" href="$dd/d2c/CbmRichReconstruction_8cxx.html" title="EicRoot/blob/master\l/rich/CbmRichReconstruction.cxx" alt="" coords="317,229,563,273"/>
+<area shape="rect" id="node3" href="$df/d50/CbmRichTrackExtrapolationIdeal_8h.html" title="This is the implementation of the TrackExtrapolation from MC points. It reads the STS track array..." alt="" coords="115,113,403,173"/>
+<area shape="rect" id="node5" href="$d3/ded/CbmRichTrackExtrapolationKF_8h.html" title="&quot;TrackExtrapolation&quot; from STS tracks (Kalman Fitter) It reads the track array form STS and extrapolat..." alt="" coords="477,121,792,165"/>
+<area shape="rect" id="node7" href="$d7/deb/CbmRichTrackExtrapolationMirrorIdeal_8h.html" title="This is the implementation of the TrackExtrapolation from MC points &#45; operating on points in the RICH..." alt="" coords="816,113,1104,173"/>
+<area shape="rect" id="node4" href="$d2/dad/CbmRichTrackExtrapolationIdeal_8cxx.html" title="EicRoot/blob/master\l/rich/tracks/CbmRichTrackExtrapolation\lIdeal.cxx" alt="" coords="5,221,293,281"/>
+<area shape="rect" id="node6" href="$dd/d3a/CbmRichTrackExtrapolationKF_8cxx.html" title="EicRoot/blob/master\l/rich/tracks/CbmRichTrackExtrapolation\lKF.cxx" alt="" coords="587,221,875,281"/>
+<area shape="rect" id="node8" href="$df/dd6/CbmRichTrackExtrapolationMirrorIdeal_8cxx.html" title="EicRoot/blob/master\l/rich/tracks/CbmRichTrackExtrapolation\lMirrorIdeal.cxx" alt="" coords="899,221,1187,281"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="PndSensorNamePar::GetSensorName" name="PndSensorNamePar::GetSensorName">
+<area shape="rect" id="node2" href="$d1/d76/classPndGeoHandling.html#ad5b4b201a78c7c563ec9fcb285daa96d" title="for a given shortID the path is returned" alt="" coords="325,220,521,248"/>
+<area shape="rect" id="node3" href="$d1/d76/classPndGeoHandling.html#a77fba6fd187fcce6583e0885773d92c4" title="as the cd command of TGeoManager just with the ID" alt="" coords="613,5,771,33"/>
+<area shape="rect" id="node4" href="$d1/d76/classPndGeoHandling.html#a5108443634bc93bd7daefb01aa973900" title="PndGeoHandling::GetMatrix\lShortId" alt="" coords="587,57,797,101"/>
+<area shape="rect" id="node5" href="$d1/d76/classPndGeoHandling.html#a3b643131b58ceb6b5bd478388ea67fc6" title="PndGeoHandling::GetOUVShortId" alt="" coords="569,125,815,153"/>
+<area shape="rect" id="node6" href="$d1/d76/classPndGeoHandling.html#a046beace25e6e82873d9fbca24b2dd1f" title="PndGeoHandling::GetSensor\lDimensionsShortId" alt="" coords="585,177,799,221"/>
+<area shape="rect" id="node7" href="$d1/d76/classPndGeoHandling.html#aadb915f09a97271ebff362a313f257f7" title="PndGeoHandling::LocalToMaster\lErrorsShortId" alt="" coords="573,245,811,289"/>
+<area shape="rect" id="node8" href="$d1/d76/classPndGeoHandling.html#a5865b98d5d8ba837b1c200c01df5c099" title="PndGeoHandling::LocalToMaster\lShortId" alt="" coords="573,313,811,357"/>
+<area shape="rect" id="node9" href="$d1/d76/classPndGeoHandling.html#a59691fff98e231a6a519b3e992540c54" title="PndGeoHandling::MasterTo\lLocalErrorsShortId" alt="" coords="591,381,793,425"/>
+<area shape="rect" id="node10" href="$d1/d76/classPndGeoHandling.html#a884eacdbb3e5d1b3c27727d7f7939b3e" title="PndGeoHandling::MasterTo\lLocalShortId" alt="" coords="591,449,793,493"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="EicStlMediaGroup" name="EicStlMediaGroup">
+<area shape="rect" id="node2" title="STL class." alt="" coords="160,90,297,118"/>
+<area shape="rect" id="node11" href="$d8/de7/classEicStlFacet.html" title="Three 3D vertices defining one of the facets in STL input file." alt="" coords="417,269,512,297"/>
+<area shape="rect" id="node12" href="$df/de5/classEicStlFacetEdge.html" title="A pair of 3D vertices defining one of the three facet edges in STL input file." alt="" coords="960,179,1088,207"/>
+<area shape="rect" id="node6" href="$de/dbc/classEicStlVertex.html" title="3D vertex defined in STL input file" alt="" coords="973,493,1075,521"/>
+<area shape="rect" id="node9" href="$d5/d40/classEicStlKey.html" title="Naive multi&#45;float&#45;value key used for ordering objects in CAD&#45;related classes;." alt="" coords="187,269,271,297"/>
+<area shape="rect" id="node15" href="$d8/d99/classEicStlAssembly.html" title="A collection of facets which compose a distinct solid object in the input STL file." alt="" coords="962,337,1086,365"/>
+</map>

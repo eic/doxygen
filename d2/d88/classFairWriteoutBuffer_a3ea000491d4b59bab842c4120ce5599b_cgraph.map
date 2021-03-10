@@ -1,0 +1,20 @@
+<map id="FairWriteoutBuffer::FillDataToDeadTimeMap" name="FairWriteoutBuffer::FillDataToDeadTimeMap">
+<area shape="rect" id="node2" href="$d2/d88/classFairWriteoutBuffer.html#ac780bba3fdda9195f1b649aabf9212e7" title="store the data from the FairTimeStamp pointer in a TClonesArray (you have to cast it to your type of ..." alt="" coords="245,5,467,49"/>
+<area shape="rect" id="node3" href="$d6/d15/classFairTimeStamp.html#a9ab44996330d66739af735a945c4cc00" title="FairTimeStamp::equal" alt="" coords="271,73,441,101"/>
+<area shape="rect" id="node6" href="$d2/d88/classFairWriteoutBuffer.html#a3cebde9e74425efcc86ad7fff364e9cb" title="delete the element from the search buffer (see PndSdsDigiPixelWriteoutBuffer)" alt="" coords="259,177,453,221"/>
+<area shape="rect" id="node7" href="$d2/d88/classFairWriteoutBuffer.html#a665c1f4bf1ac143447900bf4a8e1aad3" title="add a new element in the search buffer" alt="" coords="283,245,429,289"/>
+<area shape="rect" id="node8" href="$d2/d88/classFairWriteoutBuffer.html#a09f8ed4e43b8e82df03180217202feff" title="if the same data object (like a pad or a pixel) is already present in the buffer, the time of this ob..." alt="" coords="283,313,429,357"/>
+<area shape="rect" id="node9" href="$d2/d88/classFairWriteoutBuffer.html#a71a69c8a38660db87501cb01451dd0a4" title="FairWriteoutBuffer\l::Modify" alt="" coords="283,381,429,425"/>
+<area shape="rect" id="node10" href="$d6/d15/classFairTimeStamp.html#a779bc9107ff19c0a2ee5d533b4e7b57d" title="FairTimeStamp::Print" alt="" coords="275,125,437,153"/>
+<area shape="rect" id="node4" href="$d6/d15/classFairTimeStamp.html#ab6e85e58767d44a20c6e8f163e4d2f3c" title="FairTimeStamp::GetTimeStamp" alt="" coords="515,125,748,153"/>
+<area shape="rect" id="node5" href="$d6/d15/classFairTimeStamp.html#aaedf7c3bcd23e705c2aaffebed0c80b4" title="FairTimeStamp::GetTimeStamp\lError" alt="" coords="515,57,748,101"/>
+<area shape="rect" id="node11" href="$df/d10/classFairMultiLinkedData.html#ab6b421ef9b6cfdc4288adce5618d9463" title="Output." alt="" coords="555,177,708,221"/>
+<area shape="rect" id="node12" href="$df/d10/classFairMultiLinkedData.html#a780d4c67e1e44718825af90ed2fb8de7" title="returns the FairLink at the given position" alt="" coords="796,109,949,153"/>
+<area shape="rect" id="node13" href="$df/d10/classFairMultiLinkedData.html#a073907c634728321ec446dcc3081f86b" title="returns the number of stored links" alt="" coords="796,177,949,221"/>
+<area shape="rect" id="node14" href="$d6/da5/classFairLink.html#af6a8cc66f90e5f99b7ae61d1a2f80437" title="FairLink::Print" alt="" coords="816,245,929,273"/>
+<area shape="rect" id="node15" href="$d6/da5/classFairLink.html#a47a6546601502d6fcb2e6e25fd18d607" title="FairLink::GetEntry" alt="" coords="1004,141,1145,169"/>
+<area shape="rect" id="node16" href="$d6/da5/classFairLink.html#a02bd1ff9477e4ba6f0219a6c3499767b" title="FairLink::GetFile" alt="" coords="1011,193,1139,221"/>
+<area shape="rect" id="node17" href="$d6/da5/classFairLink.html#a0b804a2beb1f7cd11e7e1367f3de67ed" title="FairLink::GetIndex" alt="" coords="1003,245,1146,273"/>
+<area shape="rect" id="node18" href="$d6/da5/classFairLink.html#ac24acb72d164de213ecc15521127e672" title="FairLink::GetType" alt="" coords="1006,297,1143,325"/>
+<area shape="rect" id="node19" href="$d6/da5/classFairLink.html#a1d2581f4b79a434aacb932390dfa02a3" title="FairLink::GetWeight" alt="" coords="997,349,1152,377"/>
+</map>

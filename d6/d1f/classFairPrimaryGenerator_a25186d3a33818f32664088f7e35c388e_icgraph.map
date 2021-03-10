@@ -1,0 +1,10 @@
+<map id="FairPrimaryGenerator::GetTotPrimary" name="FairPrimaryGenerator::GetTotPrimary">
+<area shape="rect" id="node2" href="$d8/def/classFairMCApplication.html#a43c3923ae3bdacb4193d70f3bab05b0e" title="FairMCApplication::\lFinishRun" alt="" coords="220,40,371,84"/>
+<area shape="rect" id="node3" href="$d8/def/classFairMCApplication.html#a790690ef6a9d79727d4478417719be6b" title="FairMCApplication::\lRunMC" alt="" coords="419,5,569,49"/>
+<area shape="rect" id="node8" href="$d8/def/classFairMCApplication.html#af68192f3647a533c3fd9f59128982d58" title="FairMCApplication::\lStopRun" alt="" coords="419,73,569,117"/>
+<area shape="rect" id="node4" href="$dd/dbc/classFairRunSim.html#a406ff7a01a1686af46c1c85f8ac9a32d" title="FairRunSim::Run" alt="" coords="627,13,758,41"/>
+<area shape="rect" id="node5" href="$d3/d61/classEicRunSim.html#ac3dc4b7912f3a0d7c501a203617fe508" title="EicRunSim::RunCoreStart" alt="" coords="816,13,1008,41"/>
+<area shape="rect" id="node6" href="$d3/d61/classEicRunSim.html#a9f9cc62b3a055d135358f264709c6b7e" title="EicRunSim::Run" alt="" coords="1056,13,1183,41"/>
+<area shape="rect" id="node7" href="$d4/d1f/examples_2physics_2config_82_2simulation_8C.html#ac10f32ae478a1409f743cf125eeea582" title="simulation" alt="" coords="1231,13,1323,41"/>
+<area shape="rect" id="node9" href="$d8/def/classFairMCApplication.html#ac5d6ec0eb105cedb5870d8febe788847" title="FairMCApplication::\lGeneratePrimaries" alt="" coords="617,73,768,117"/>
+</map>

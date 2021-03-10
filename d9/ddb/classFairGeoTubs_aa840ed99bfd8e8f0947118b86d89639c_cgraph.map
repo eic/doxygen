@@ -1,0 +1,15 @@
+<map id="FairGeoTubs::calcVoluPosition" name="FairGeoTubs::calcVoluPosition">
+<area shape="rect" id="node2" href="$d1/d7a/classFairGeoTransform.html#abff631d03895ae2e4ccf9b478c47265f" title="FairGeoTransform::clear" alt="" coords="276,65,459,93"/>
+<area shape="rect" id="node5" href="$d2/d0a/classFairGeoVolume.html#a3219fb62b9add32ec18508a0500d3855" title="FairGeoVolume::getPoint" alt="" coords="273,240,461,268"/>
+<area shape="rect" id="node6" href="$dd/df8/classFairGeoBasicShape.html#a12bad13cd7dccc1a20b72fa26e5997d8" title="FairGeoBasicShape::\lposInMother" alt="" coords="288,292,447,336"/>
+<area shape="rect" id="node10" href="$d1/d7a/classFairGeoTransform.html#a9963973e4208518cfebd2a0754971fb3" title="FairGeoTransform::setTrans\lVector" alt="" coords="515,433,720,477"/>
+<area shape="rect" id="node3" href="$d3/d41/classFairGeoVector.html#a6f18851c129dd31c2aa0ff84c2d17eec" title="FairGeoVector::clear" alt="" coords="538,5,697,33"/>
+<area shape="rect" id="node4" href="$d0/d2a/classFairGeoRotation.html#aacd8adc2781a436d65fb7a8fec5f7c26" title="FairGeoRotation::setUnit\lMatrix" alt="" coords="524,57,711,101"/>
+<area shape="rect" id="node7" href="$d1/d7a/classFairGeoTransform.html#a1cbefc7c71f79c91e35a7144d1af16b9" title="FairGeoTransform::getRot\lMatrix" alt="" coords="521,125,714,169"/>
+<area shape="rect" id="node8" href="$d1/d7a/classFairGeoTransform.html#aff12104a1a6eabfd6c727556e38ae4fe" title="FairGeoTransform::getTrans\lVector" alt="" coords="514,193,721,237"/>
+<area shape="rect" id="node9" href="$d1/d7a/classFairGeoTransform.html#afd4fc8ead8babc8fc586a7d1429f589e" title="FairGeoTransform::setRot\lMatrix" alt="" coords="521,261,713,305"/>
+<area shape="rect" id="node11" href="$d1/d7a/classFairGeoTransform.html#ac8230a9ba3be4e65bd4f45584aeac4dc" title="FairGeoTransform::transFrom" alt="" coords="509,329,725,357"/>
+<area shape="rect" id="node12" href="$d1/d7a/classFairGeoTransform.html#adc64e75df8bda7498e9e25f09db0b8f5" title="FairGeoTransform::transTo" alt="" coords="519,381,716,409"/>
+<area shape="rect" id="node13" href="$d0/d2a/classFairGeoRotation.html#a7413809b28ebc95ec39d5ebde3c06094" title="FairGeoRotation::inverse" alt="" coords="773,381,960,409"/>
+<area shape="rect" id="node14" href="$d0/d2a/classFairGeoRotation.html#aaa6ae2a71049d3b922d30b08a01ca13c" title="FairGeoRotation::FairGeo\lRotation" alt="" coords="1008,373,1197,417"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="FairDetector::Initialize" name="FairDetector::Initialize">
+<area shape="rect" id="node2" href="$d8/def/classFairMCApplication.html#ae6ed46ec48c80c4db0483b98052e6a1a" title="FairMCApplication::\lInitGeometry" alt="" coords="229,5,380,49"/>
+<area shape="rect" id="node3" href="$d8/dd9/classCbmRich.html#acfdf36680457256fe9962edffa205582" title="Initialize detector. Stores volume IDs for RICH detector and mirror." alt="" coords="231,73,378,101"/>
+<area shape="rect" id="node4" href="$dd/dac/classEicDetector.html#a1fb3d652a749f66905313541b90d16d0" title="EicDetector::Initialize" alt="" coords="223,125,387,153"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CbmRichHitProducer::OnePhotonAmplitude" name="CbmRichHitProducer::OnePhotonAmplitude">
+<area shape="rect" id="node2" href="$da/d9f/classCbmRichHitProducer.html#a047f665a5fadc0afc3cf04c99e40113a" title="Generate randomly PMT amplitude according to probability density provided by OnePhotonAmplitude(x)." alt="" coords="228,21,389,65"/>
+<area shape="rect" id="node3" href="$da/d9f/classCbmRichHitProducer.html#a587c0db1e409265d8fbebdab293357a9" title="Add cross talk hits." alt="" coords="647,25,808,69"/>
+<area shape="rect" id="node4" href="$da/d9f/classCbmRichHitProducer.html#afe4f7cc5874368e44deb8ac6cd756e52" title="Inherited from FairTask." alt="" coords="856,25,1017,69"/>
+<area shape="rect" id="node5" href="$da/d9f/classCbmRichHitProducer.html#ae09a5880ed6c729e141561a628143178" title="Adds a RichHit to the HitCollection." alt="" coords="437,81,599,125"/>
+</map>

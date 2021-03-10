@@ -1,0 +1,30 @@
+<map id="beam::photonDensity" name="beam::photonDensity">
+<area shape="rect" id="node2" href="$da/d16/classtwoPhotonLuminosity.html#a6b8a42c5a302635ef3dc9ee5d7ac4fb0" title="twoPhotonLuminosity\l::D2LDMDY" alt="" coords="254,152,421,196"/>
+<area shape="rect" id="node3" href="$da/d92/classspectrum.html#a3983c7e00dcbfe0e99318911692c055b" title="spectrum::getTransformedNofe" alt="" coords="221,220,453,248"/>
+<area shape="rect" id="node8" href="$d0/d4e/classphotonNucleusCrossSection.html#a784942c17c3c7c68b7702e2488a5a780" title="photonNucleusCrossSection\l::photonFlux" alt="" coords="233,396,442,440"/>
+<area shape="rect" id="node29" href="$d2/dd2/classphotonNucleusLuminosity.html#af0311e60848553568d42b1a72837b297" title="photonNucleusLuminosity\l::pttablegen" alt="" coords="239,613,435,657"/>
+<area shape="rect" id="node4" href="$da/d92/classspectrum.html#a320152cc240d293c6905209b7ad3c6e1" title="spectrum::generateKsingle" alt="" coords="540,84,744,112"/>
+<area shape="rect" id="node7" href="$da/d92/classspectrum.html#aec00ebe9fd51a142ab98221beddd4286" title="spectrum::generateKdouble" alt="" coords="537,32,747,60"/>
+<area shape="rect" id="node5" href="$d4/d28/classstarlightDpmJet.html#a8399df8aebdefb7e8c355d31836edd59" title="starlightDpmJet::init" alt="" coords="897,57,1054,85"/>
+<area shape="rect" id="node6" href="$d6/d3f/classstarlightPythia.html#a5c9668ae381dd47570b8023d2f4faf05" title="starlightPythia::init" alt="" coords="900,5,1051,33"/>
+<area shape="rect" id="node9" href="$d0/ddd/classe__narrowResonanceCrossSection.html#a281332fb005db92ed9d5ce5cba018476" title="e_narrowResonanceCrossSection\l::crossSectionCalculation" alt="" coords="1191,520,1434,564"/>
+<area shape="rect" id="node11" href="$d0/ddd/classe__narrowResonanceCrossSection.html#a8fd71dda8939f9da5fc0ab3420ee0f85" title="e_narrowResonanceCrossSection\l::makeGammaPQ2dependence" alt="" coords="854,520,1097,564"/>
+<area shape="rect" id="node12" href="$d7/d04/classe__wideResonanceCrossSection.html#a255501641a00e132f833e31decd5c8c4" title="e_wideResonanceCrossSection\l::crossSectionCalculation" alt="" coords="861,213,1089,257"/>
+<area shape="rect" id="node14" href="$d2/dd2/classphotonNucleusLuminosity.html#a5362c768151bb5177d184f3acd4100b0" title="photonNucleusLuminosity\l::photonNucleusDifferentialLuminosity" alt="" coords="501,780,783,824"/>
+<area shape="rect" id="node16" href="$de/d1b/classincoherentPhotonNucleusLuminosity.html#aef0535a32d0e668f24b677341bfe0018" title="incoherentPhotonNucleusLuminosity\l::incoherentPhotonNucleusDifferential\lLuminosity" alt="" coords="503,628,781,688"/>
+<area shape="rect" id="node18" href="$d2/d14/classincoherentVMCrossSection.html#aa4ff17eabfef87031a6683774efce811" title="incoherentVMCrossSection\l::crossSectionCalculation" alt="" coords="541,712,743,756"/>
+<area shape="rect" id="node20" href="$d1/d77/classnarrowResonanceCrossSection.html#a66a9f4c62432bba5f2bd912c14a59fa9" title="narrowResonanceCrossSection\l::crossSectionCalculation" alt="" coords="528,137,756,181"/>
+<area shape="rect" id="node22" href="$d0/d4e/classphotonNucleusCrossSection.html#aef36e02c2010fd970db0c000b3b079b7" title="photonNucleusCrossSection\l::integrated_Q2_dep" alt="" coords="871,281,1080,325"/>
+<area shape="rect" id="node25" href="$d0/d4e/classphotonNucleusCrossSection.html#ab561ea1d1a06d269a550d724591915e9" title="photonNucleusCrossSection::g" alt="" coords="529,404,755,432"/>
+<area shape="rect" id="node27" href="$db/d89/classwideResonanceCrossSection.html#ab64cf7093521fe0c1fccd11a1b925789" title="wideResonanceCrossSection\l::crossSectionCalculation" alt="" coords="535,208,749,252"/>
+<area shape="rect" id="node10" href="$db/d3c/classe__Gammaanarrowvm.html#af99d4b9fd115e0bfaecb9feb0285ae8b" title="e_Gammaanarrowvm::e\l_Gammaanarrowvm" alt="" coords="1517,520,1700,564"/>
+<area shape="rect" id="node13" href="$d0/de3/classe__Gammaawidevm.html#aa74ea3a1c8ff5a6d8105061945f11f41" title="e_Gammaawidevm::e_Gammaawidevm" alt="" coords="1168,221,1457,249"/>
+<area shape="rect" id="node15" href="$d2/dd2/classphotonNucleusLuminosity.html#a2c5944e87350cbe73d7a87449a3a5178" title="photonNucleusLuminosity\l::photonNucleusLuminosity" alt="" coords="873,780,1078,824"/>
+<area shape="rect" id="node17" href="$de/d1b/classincoherentPhotonNucleusLuminosity.html#a50f0b71a84345d0d7816ce05e97ef44f" title="incoherentPhotonNucleusLuminosity\l::incoherentPhotonNucleusLuminosity" alt="" coords="837,640,1114,684"/>
+<area shape="rect" id="node19" href="$de/d28/classGammaaincoherentvm.html#a7f04b6847a69d9eb3c27259123bd6f36" title="Gammaaincoherentvm\l::Gammaaincoherentvm" alt="" coords="883,712,1068,756"/>
+<area shape="rect" id="node21" href="$db/d82/classGammaanarrowvm.html#a0b00f7cdee6583e3636f970a8fd6a092" title="Gammaanarrowvm::Gammaanarrowvm" alt="" coords="831,109,1120,137"/>
+<area shape="rect" id="node23" href="$de/d1f/classphotonElectronLuminosity.html#ad405f6bf675bf8f63483eeb8c33e1ad7" title="photonElectronLuminosity\l::photonNucleusDifferentialLuminosity" alt="" coords="1172,349,1453,393"/>
+<area shape="rect" id="node24" href="$de/d1f/classphotonElectronLuminosity.html#a710ececb91d7ddc2b9cf3f8ecea3009a" title="photonElectronLuminosity\l::photonElectronLuminosity" alt="" coords="1505,349,1712,393"/>
+<area shape="rect" id="node26" href="$d0/d4e/classphotonNucleusCrossSection.html#a1377cbf8c7b00c54592334118acc5987" title="photonNucleusCrossSection\l::Q2arraylimits" alt="" coords="871,349,1080,393"/>
+<area shape="rect" id="node28" href="$db/ddf/classGammaawidevm.html#acda53200bfce689ad12c838a28237dcb" title="Gammaawidevm::Gammaawidevm" alt="" coords="846,161,1105,189"/>
+</map>

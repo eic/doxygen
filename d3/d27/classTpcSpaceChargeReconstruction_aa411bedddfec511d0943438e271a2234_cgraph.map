@@ -1,0 +1,22 @@
+<map id="TpcSpaceChargeReconstruction::process_tracks" name="TpcSpaceChargeReconstruction::process_tracks">
+<area shape="rect" id="node2" href="$d3/d27/classTpcSpaceChargeReconstruction.html#a8b9adad3c29d626723c5913cab09b6d0" title="returns true if track fulfills basic requirement for distortion calculations" alt="" coords="291,76,528,120"/>
+<area shape="rect" id="node6" href="$d7/d8b/classSvtxTrackMap.html#a8c16bb47fdace6d5516d1803ffe54706" title="SvtxTrackMap::begin" alt="" coords="329,188,490,216"/>
+<area shape="rect" id="node7" href="$d7/d8b/classSvtxTrackMap.html#a1c7ae993700819b7d0a8e3f3d74fa99c" title="SvtxTrackMap::end" alt="" coords="335,240,484,268"/>
+<area shape="rect" id="node8" href="$d3/d27/classTpcSpaceChargeReconstruction.html#ad95026b08f73d009107d53576d1d729b" title="process track" alt="" coords="291,361,528,405"/>
+<area shape="rect" id="node3" href="$d2/db8/classSvtxTrack.html#a79f3af39b753ecee85dc1d4e3db08cdd" title="SvtxTrack::get_px" alt="" coords="624,5,765,33"/>
+<area shape="rect" id="node4" href="$d2/db8/classSvtxTrack.html#a5a9164fc95756dd9780755a55327fec5" title="SvtxTrack::get_py" alt="" coords="624,57,765,85"/>
+<area shape="rect" id="node5" href="$d1/d22/EllipseBounds_8cpp.html#ab14acda17eb07a638824bb5e3873c586" title="square" alt="" coords="661,109,728,137"/>
+<area shape="rect" id="node9" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="639,161,750,189"/>
+<area shape="rect" id="node11" href="$d2/db8/classSvtxTrack.html#a6d8dace95bd6d93aa08d66c5e2c3ad85" title="SvtxTrack::begin_cluster_keys" alt="" coords="583,213,807,241"/>
+<area shape="rect" id="node12" href="$d2/db8/classSvtxTrack.html#ab58cd75322e76233882ce8d4eac51c2d" title="SvtxTrack::begin_states" alt="" coords="604,265,785,293"/>
+<area shape="rect" id="node13" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="673,317,717,345"/>
+<area shape="rect" id="node14" href="$d8/d2b/namespaceQAG4Util.html#a6e1e25d78459f9a518ba04b97289f69d" title="angle difference between [&#45;pi, pi[" alt="" coords="618,369,771,397"/>
+<area shape="rect" id="node15" href="$d2/db8/classSvtxTrack.html#ac0e8c2214fa9f988c00a561ed22aa085" title="SvtxTrack::end_cluster_keys" alt="" coords="589,421,800,449"/>
+<area shape="rect" id="node16" href="$d2/db8/classSvtxTrack.html#a2c1a7863a506e3133e6bc0259c89c741" title="SvtxTrack::end_states" alt="" coords="610,473,779,501"/>
+<area shape="rect" id="node17" href="$d0/d2c/classTrkrClusterContainer.html#a2b2eea90672ac17f6439c932d2a144ad" title="TrkrClusterContainer\l::findCluster" alt="" coords="613,525,776,569"/>
+<area shape="rect" id="node18" href="$d3/d27/classTpcSpaceChargeReconstruction.html#a991e09778b2feb927f563cf0ca77d9b6" title="get cell from phi, r and z index" alt="" coords="576,593,813,637"/>
+<area shape="rect" id="node19" href="$d8/d2b/namespaceQAG4Util.html#a61d46189a0883ae4af122eb5ef596946" title="radius" alt="" coords="631,661,758,689"/>
+<area shape="rect" id="node21" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="621,713,768,741"/>
+<area shape="rect" id="node10" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="861,161,1037,189"/>
+<area shape="rect" id="node20" href="$d8/d2b/namespaceQAG4Util.html#acb654c77dcfa7a61ba444f92481283c1" title="square" alt="" coords="881,661,1018,689"/>
+</map>

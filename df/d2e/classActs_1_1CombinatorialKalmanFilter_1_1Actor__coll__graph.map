@@ -1,0 +1,25 @@
+<map id="Acts::CombinatorialKalmanFilter&lt; propagator_t, updater_t, smoother_t, source_link_selector_t, branch_stopper_t, calibrator_t, input_converter_t, output_converter_t &gt;::Actor&lt; source_link_t, parameters_t &gt;" name="Acts::CombinatorialKalmanFilter&lt; propagator_t, updater_t, smoother_t, source_link_selector_t, branch_stopper_t, calibrator_t, input_converter_t, output_converter_t &gt;::Actor&lt; source_link_t, parameters_t &gt;">
+<area shape="rect" id="node4" href="$de/d7d/classActs_1_1Surface.html" title="Abstract Base Class for tracking surfaces." alt="" coords="2416,306,2528,334"/>
+<area shape="rect" id="node5" href="$d3/d07/classActs_1_1GeometryObject.html" title="Acts::GeometryObject" alt="" coords="260,254,432,282"/>
+<area shape="rect" id="node8" href="$da/d28/classActs_1_1Layer.html" title="Acts::Layer" alt="" coords="3937,450,4036,478"/>
+<area shape="rect" id="node18" href="$d2/d65/classActs_1_1Volume.html" title="Acts::Volume" alt="" coords="601,458,712,486"/>
+<area shape="rect" id="node6" href="$d7/df5/classActs_1_1GeometryID.html" title="Acts::GeometryID" alt="" coords="5,254,147,282"/>
+<area shape="rect" id="node10" href="$d5/db4/classActs_1_1ApproachDescriptor.html" title="Acts::ApproachDescriptor" alt="" coords="3183,347,3377,375"/>
+<area shape="rect" id="node11" href="$d5/dcc/classActs_1_1BinUtility.html" title="Acts::BinUtility" alt="" coords="3582,450,3703,478"/>
+<area shape="rect" id="node13" href="$dd/ddd/classActs_1_1BinningData.html" title="Acts::BinningData" alt="" coords="2774,385,2917,413"/>
+<area shape="rect" id="node17" href="$dd/dcd/classActs_1_1TrackingVolume.html" title="Acts::TrackingVolume" alt="" coords="1937,735,2104,763"/>
+<area shape="rect" id="node19" href="$d4/d2a/classActs_1_1AxisAlignedBoundingBox.html" title="Acts::AxisAlignedBounding\lBox\&lt; Volume, double, 3 \&gt;" alt="" coords="1007,429,1211,473"/>
+<area shape="rect" id="node42" href="$d6/dae/classActs_1_1AbstractVolume.html" title="Acts::AbstractVolume" alt="" coords="1026,377,1193,405"/>
+<area shape="rect" id="node20" href="$d4/d2a/classActs_1_1AxisAlignedBoundingBox.html" title="Acts::AxisAlignedBounding\lBox\&lt; entity_t, value_t, DIM \&gt;" alt="" coords="547,677,766,721"/>
+<area shape="rect" id="node27" title="STL class." alt="" coords="1487,735,1576,763"/>
+<area shape="rect" id="node28" title="STL class." alt="" coords="1038,735,1181,779"/>
+<area shape="rect" id="node30" href="$d7/dc3/classActs_1_1GlueVolumesDescriptor.html" title="Acts::GlueVolumesDescriptor" alt="" coords="1421,855,1641,883"/>
+<area shape="rect" id="node34" href="$d5/d80/classActs_1_1BinnedArray.html" title="Acts::BinnedArray\&lt; T \&gt;" alt="" coords="1019,497,1200,525"/>
+<area shape="rect" id="node36" href="$d5/dd2/classActs_1_1SurfaceArray.html" title="Provides Surface binning in N dimensions." alt="" coords="3206,587,3354,615"/>
+<area shape="rect" id="node40" href="$d5/d67/structActs_1_1SurfaceArray_1_1ISurfaceGridLookup.html" title="Base interface for all surface lookups." alt="" coords="2391,573,2553,617"/>
+<area shape="rect" id="node44" href="$d7/de6/classActs_1_1DetectorElementBase.html" title="Acts::DetectorElementBase" alt="" coords="1917,306,2124,334"/>
+<area shape="rect" id="node45" href="$d3/d10/structActs_1_1SurfaceReached.html" title="Acts::SurfaceReached" alt="" coords="2761,254,2930,282"/>
+<area shape="rect" id="node46" href="$d4/d3e/classActs_1_1Logger.html" title="class for printing debug output" alt="" coords="2791,137,2899,165"/>
+<area shape="rect" id="node48" href="$d5/d5e/classActs_1_1Logging_1_1OutputFilterPolicy.html" title="abstract base class for filtering debug output" alt="" coords="1919,111,2123,155"/>
+<area shape="rect" id="node50" href="$df/dce/classActs_1_1Logging_1_1OutputPrintPolicy.html" title="abstract base class for printing debug output" alt="" coords="1920,179,2121,223"/>
+</map>

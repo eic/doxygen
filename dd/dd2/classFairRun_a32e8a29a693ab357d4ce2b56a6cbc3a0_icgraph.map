@@ -1,0 +1,51 @@
+<map id="FairRun::Instance" name="FairRun::Instance">
+<area shape="rect" id="node2" href="$d1/d18/classPndSensorNamePar.html#a2dcda641bc95cda77416389b5a7db2e8" title="PndSensorNamePar::AddSensorName" alt="" coords="191,13,465,41"/>
+<area shape="rect" id="node5" href="$d1/d75/PndCave_8cxx.html#a159adab26413f627a972bd6e43ae4765" title="ClassImp" alt="" coords="287,65,369,93"/>
+<area shape="rect" id="node6" href="$df/d89/classPndMagnet.html#a24b61340759fdef8d1ab340f631f00b0" title="PndMagnet::ConstructASCIIGeometry" alt="" coords="513,141,787,169"/>
+<area shape="rect" id="node8" href="$d8/dd9/classCbmRich.html#a4da15c82f4256a1d985899fd00400299" title="Construct geometry from ASCII file. Supported structure for the mirrors are added on a fly..." alt="" coords="523,200,777,228"/>
+<area shape="rect" id="node10" href="$d0/d81/classPndTarget.html#a663bbcf65595d98eab33cf402ddfe74f" title="PndTarget::ConstructGeometry" alt="" coords="535,264,765,292"/>
+<area shape="rect" id="node11" href="$d6/d57/classPndPipe.html#a28d594a278bba4911bc3bdb441007b69" title="PndPipe::ConstructGeometry" alt="" coords="220,375,436,403"/>
+<area shape="rect" id="node12" href="$dd/dac/classEicDetector.html#a52d5d3a030ed4ab74e36989b4a563f73" title="EicDetector::ConstructGeometry" alt="" coords="530,320,770,348"/>
+<area shape="rect" id="node13" href="$df/de0/classEicGeoParData.html#af8e11f1e854d2bbd845f030f659a5de2" title="EicGeoParData::EicGeoParData" alt="" coords="213,427,443,455"/>
+<area shape="rect" id="node14" href="$d9/dec/classFluxMonitorGrid.html#a237f67bd91cd9739ee6e4252458f5710" title="FluxMonitorGrid::FillOut\lHistograms" alt="" coords="237,479,419,523"/>
+<area shape="rect" id="node16" href="$d6/da5/classPndConstField.html#a5b018afd061f98ace09c7b6ffcc10bb4" title="PndConstField::FillParContainer" alt="" coords="213,547,443,575"/>
+<area shape="rect" id="node17" href="$d8/dba/classPndMultiField.html#ac69fa72af0f942762789a1051526fdd8" title="PndMultiField::FillParContainer" alt="" coords="537,625,763,653"/>
+<area shape="rect" id="node18" href="$d2/da7/classPndTransMap.html#aead6262f16318d69cf6e61848fed1ae2" title="PndTransMap::FillParContainer" alt="" coords="215,703,441,731"/>
+<area shape="rect" id="node19" href="$de/d84/classEicJEventProcessor.html#a29848815f408eaeef51149c4b67eac51" title="EicJEventProcessor\l::Finish" alt="" coords="253,755,403,799"/>
+<area shape="rect" id="node20" href="$dd/d8a/classEicIdealTrackingCode.html#a60d47902f9c114c1e927e0f24e6514a7" title="EicIdealTrackingCode\l::Finish" alt="" coords="245,823,411,867"/>
+<area shape="rect" id="node21" href="$d0/dd5/classEicCalorimeterReconstruction.html#af95bd9ff660679c0b0b1d7fca13ba839" title="EicCalorimeterReconstruction\l::Finish" alt="" coords="217,891,439,935"/>
+<area shape="rect" id="node22" href="$dd/df6/classEicCalorimeterDigiHitProducer.html#a3e04c9540ac79b05e69a3d0ebe98f7fc" title="EicCalorimeterDigiHitProducer\l::Finish" alt="" coords="215,959,441,1003"/>
+<area shape="rect" id="node23" href="$dd/dac/classEicDetector.html#a266e20045e4ac91b713ad76ed897a985" title="EicDetector::FinishRun" alt="" coords="242,1027,414,1055"/>
+<area shape="rect" id="node24" href="$d4/d04/classFwdTrackFinder.html#a2428681b9d6ebe37075aa4bd5066e5f1" title="FwdTrackFinder::FinishTask" alt="" coords="227,1079,429,1107"/>
+<area shape="rect" id="node25" href="$d9/d8f/classEicJEventSource.html#ad9d43da10bed6b037ae2ae5456419cd2" title="EicJEventSource::GetEvent" alt="" coords="227,1131,429,1159"/>
+<area shape="rect" id="node26" href="$da/d7a/classPndMcCloner.html#adb94736f7e73051c86c1ff110100a891" title="PndMcCloner::Init" alt="" coords="258,1183,398,1211"/>
+<area shape="rect" id="node27" href="$d8/dd9/classCbmRich.html#acfdf36680457256fe9962edffa205582" title="Initialize detector. Stores volume IDs for RICH detector and mirror." alt="" coords="255,1235,401,1263"/>
+<area shape="rect" id="node28" href="$df/d09/classEicMagneticField.html#ad7522bed0068bc8e33f3b18f382a3951" title="EicMagneticField::Initialize\lFieldMaps" alt="" coords="228,1287,428,1331"/>
+<area shape="rect" id="node33" href="$d4/dab/EicJanaPlugin_8cc.html#a71079bec03444b4f0f061d74f24baa91" title="InitPlugin" alt="" coords="286,1355,370,1383"/>
+<area shape="rect" id="node34" href="$d8/def/classFairMCApplication.html#a133ccaea6b49425a6e9a821dffbc6247" title="FairMCApplication::\lInitTasks" alt="" coords="253,1407,403,1451"/>
+<area shape="rect" id="node36" href="$df/d41/classEicDigiParData.html#afd7cefd533e0b57bcdf76a1e4af13f7c" title="EicDigiParData::mergeInto\lOutputFile" alt="" coords="229,1475,427,1519"/>
+<area shape="rect" id="node38" href="$d0/d6c/classFairRootManager.html#a21283977ac0826044f94845bcd94f4f5" title="FairRootManager::OpenOutFile" alt="" coords="215,1543,441,1571"/>
+<area shape="rect" id="node39" href="$d1/d76/classPndGeoHandling.html#a7ae043dd89b79afa0e82d8fdcf32a186" title="default constructor. Has to be called in SetParContainers if the support of shortId is needed..." alt="" coords="200,1595,456,1623"/>
+<area shape="rect" id="node42" href="$d4/d06/classFairModule.html#ac489f7e5ed92d2a4fdec5422d93bfa42" title="FairModule::ProcessNodes" alt="" coords="229,220,427,248"/>
+<area shape="rect" id="node43" href="$db/db6/classPndMultiFieldPar.html#a178a1628f11ed63edc45e6b19f69bbad" title="PndMultiFieldPar::SetParameters" alt="" coords="208,651,448,679"/>
+<area shape="rect" id="node44" href="$d1/d76/classPndGeoHandling.html#a53907ee1ff57d005165aab6806ced668" title="PndGeoHandling::SetParContainers" alt="" coords="198,1647,458,1675"/>
+<area shape="rect" id="node45" href="$dd/d8c/classPndPidCorrelator.html#a881a7bf36452bd1e6dda90459f7dc9c5" title="PndPidCorrelator::SetPar\lContainers" alt="" coords="235,1699,421,1743"/>
+<area shape="rect" id="node46" href="$d0/d68/classPndFieldCreator.html#a5d6b9bef1d25b125cc40fa3de4ae015f" title="PndFieldCreator::SetParm" alt="" coords="232,1767,424,1795"/>
+<area shape="rect" id="node47" href="$d8/def/classFairMCApplication.html#a804ba086e52f4330b90c34566c1e0544" title="FairMCApplication::\lSetParTask" alt="" coords="253,1819,403,1863"/>
+<area shape="rect" id="node49" href="$d2/df2/classFairRunInfo.html#a85132071d7c435b0ccce3aca2f2bfac3" title="FairRunInfo::WriteHistos\lToFile" alt="" coords="237,1887,419,1931"/>
+<area shape="rect" id="node3" href="$d1/d76/classPndGeoHandling.html#addef1b616a32444acbbb145009e9444f" title="PndGeoHandling::DiveDown\lToFillSensNamePar" alt="" coords="545,5,755,49"/>
+<area shape="rect" id="node4" href="$d1/d76/classPndGeoHandling.html#a97f03bcabe7e7baf20aaf75f6f83574b" title="Has to be called during simulation to create unique sensor id." alt="" coords="836,5,1072,49"/>
+<area shape="rect" id="node7" href="$df/d89/classPndMagnet.html#aff982bc9f85e558cbd4552add14d811c" title="PndMagnet::ConstructGeometry" alt="" coords="835,141,1073,169"/>
+<area shape="rect" id="node9" href="$d8/dd9/classCbmRich.html#a3d1883ed88870fa1325c79d6c508242e" title="Construct geometry. Currently ROOT and ASCII formats are supported. The concrete method for geometry ..." alt="" coords="843,200,1065,228"/>
+<area shape="rect" id="node15" href="$df/de0/classEicFluxMonitorTask.html#a7c56e2ba83c422c5e6a843908bcb04ce" title="EicFluxMonitorTask\l::FinishTask" alt="" coords="575,479,725,523"/>
+<area shape="rect" id="node29" href="$df/d09/classEicMagneticField.html#a7ea74a163febd5502dc5ee4c8758b8c1" title="EicMagneticField::GetField\lSumValue" alt="" coords="551,1256,749,1300"/>
+<area shape="rect" id="node32" href="$df/d09/classEicMagneticField.html#acf1dd78a0f585b69e1a46247233dbc3b" title="EicMagneticField::Init" alt="" coords="567,1324,733,1352"/>
+<area shape="rect" id="node30" href="$df/d09/classEicMagneticField.html#a7e49c8f8e4491af7b6f9adca17b2fb98" title="EicMagneticField::GetBxyz" alt="" coords="854,1239,1054,1267"/>
+<area shape="rect" id="node31" href="$df/d09/classEicMagneticField.html#a4373f06dcf11e6badf980d98d00ebea1" title="EicMagneticField::GetBxyzCore" alt="" coords="839,1291,1069,1319"/>
+<area shape="rect" id="node35" href="$d8/def/classFairMCApplication.html#ae6ed46ec48c80c4db0483b98052e6a1a" title="FairMCApplication::\lInitGeometry" alt="" coords="575,1407,725,1451"/>
+<area shape="rect" id="node37" href="$df/dca/classEicTrackingDigiHitProducer.html#a4adeff93b9d60817a191e4790753f019" title="EicTrackingDigiHitProducer\l::Finish" alt="" coords="548,1475,752,1519"/>
+<area shape="rect" id="node40" href="$d1/d76/classPndGeoHandling.html#ada66633b706490fa2d5c61d670243b06" title="PndGeoHandling::Instance" alt="" coords="550,1595,750,1623"/>
+<area shape="rect" id="node41" href="$df/d62/classPndRecoDafFit.html#a4a37385379d70e2d73c3c78366ad7601" title="PndRecoDafFit::PndRecoDafFit" alt="" coords="842,1595,1066,1623"/>
+<area shape="rect" id="node48" href="$d8/def/classFairMCApplication.html#a314d55dd24e9e44a65c7f216860edaa9" title="FairMCApplication::\lAddTask" alt="" coords="575,1819,725,1863"/>
+<area shape="rect" id="node50" href="$d2/df2/classFairRunInfo.html#aca2590d4bc8305311cdfb5e0b32ce8d6" title="FairRunInfo::WriteInfo" alt="" coords="567,1895,733,1923"/>
+</map>

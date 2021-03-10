@@ -1,0 +1,23 @@
+<map id="genfit::AbsTrackRep::getPDGCharge" name="genfit::AbsTrackRep::getPDGCharge">
+<area shape="rect" id="node2" href="$d2/d12/classgenfit_1_1RKTrackRep.html#aab0afe30c58690a78ecf965d9369998d" title="Get the (fitted) charge of a state. This is not always equal the pdg charge (e.g. if the charge sign ..." alt="" coords="209,396,357,440"/>
+<area shape="rect" id="node3" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a6fa3b420076b51065abc8e4ad2798364" title="Extrapolates the state to plane, and returns the extrapolation length and, via reference, the extrapolated state." alt="" coords="405,175,564,219"/>
+<area shape="rect" id="node4" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a9a6edc1b87e66769b5176f0d4b819620" title="Extrapolates the state to the POCA to a line, and returns the extrapolation length and..." alt="" coords="626,5,777,49"/>
+<area shape="rect" id="node5" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a2b012af1d874785a23622228e0781b82" title="genfit::RKTrackRep\l::extrapToPoint" alt="" coords="627,73,775,117"/>
+<area shape="rect" id="node7" href="$d2/d12/classgenfit_1_1RKTrackRep.html#ac657e5e597e2e2b0ecbc6b7ce5715516" title="Extrapolates the state to the cylinder surface, and returns the extrapolation length and..." alt="" coords="612,141,791,185"/>
+<area shape="rect" id="node8" href="$d2/d12/classgenfit_1_1RKTrackRep.html#ab0d889ad6a71d5ec7ed4307f694a706b" title="Extrapolates the state to the cone surface, and returns the extrapolation length and, via reference, the extrapolated state." alt="" coords="623,209,779,253"/>
+<area shape="rect" id="node9" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a34b93c791f6d8cac8a8f78b72fd19444" title="Extrapolates the state to the sphere surface, and returns the extrapolation length and..." alt="" coords="617,277,786,321"/>
+<area shape="rect" id="node10" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a2b198d7bbf24f6444e80ee03e8fa648e" title="Extrapolates the state by step (cm) and returns the extrapolation length and, via reference..." alt="" coords="627,345,775,389"/>
+<area shape="rect" id="node11" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a10d362c8f2b01b01546a4da2f4a519fa" title="Get the cartesian momentum vector of a state." alt="" coords="411,396,559,440"/>
+<area shape="rect" id="node12" href="$d2/d12/classgenfit_1_1RKTrackRep.html#aefd3a67b9876b4191ed71403bd2a389f" title="Get cartesian position and momentum vector of a state." alt="" coords="411,464,559,508"/>
+<area shape="rect" id="node14" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a7bad74359f320c07cbc89b4f19d0313a" title="get the magnitude of the momentum in GeV." alt="" coords="411,600,559,644"/>
+<area shape="rect" id="node15" href="$d2/d12/classgenfit_1_1RKTrackRep.html#aa906d1b7dbd8fa0ad5f38e75eae3822c" title="get the variance of the absolute value of the momentum ." alt="" coords="411,668,559,712"/>
+<area shape="rect" id="node16" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a955696339d729c67ed697f342ca4fafa" title="Set position and momentum of state." alt="" coords="411,788,559,832"/>
+<area shape="rect" id="node18" href="$d2/d12/classgenfit_1_1RKTrackRep.html#adb857468e7a6b4fde308a3c852d9d651" title="Set position and momentum and error of state." alt="" coords="627,720,775,764"/>
+<area shape="rect" id="node20" href="$d2/d12/classgenfit_1_1RKTrackRep.html#af4a4311fb9803c5c43a0e4f8b7349fd3" title="genfit::RKTrackRep\l::transformPM6" alt="" coords="411,532,559,576"/>
+<area shape="rect" id="node22" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a800a9eafe3f546ffa4d00bcc3a7dee6d" title="genfit::RKTrackRep\l::transformM6P" alt="" coords="411,856,559,900"/>
+<area shape="rect" id="node6" href="$d2/d12/classgenfit_1_1RKTrackRep.html#aff9f0db2e194bd9889386cc73ed2d0cd" title="Extrapolates the state to the POCA to a point, and returns the extrapolation length and..." alt="" coords="839,73,995,117"/>
+<area shape="rect" id="node13" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a309b05579fd66613967e98c872de2cf9" title="Translates MeasuredStateOnPlane into 3D position, momentum and 6x6 covariance." alt="" coords="627,464,775,508"/>
+<area shape="rect" id="node17" href="$d2/d12/classgenfit_1_1RKTrackRep.html#ad9838a818d3cebcd7830edb97b5af610" title="Set position and momentum of state." alt="" coords="627,788,775,832"/>
+<area shape="rect" id="node19" href="$d2/d12/classgenfit_1_1RKTrackRep.html#afd89bae90a13784b8ececc90cee438c3" title="Set position, momentum and covariance of state." alt="" coords="627,856,775,900"/>
+<area shape="rect" id="node21" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a06fe79d6cc6a1629e53e35da63c33264" title="Get the 6D covariance." alt="" coords="627,532,775,576"/>
+</map>

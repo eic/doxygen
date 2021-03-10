@@ -1,0 +1,10 @@
+<map id="PndHitRecoHit" name="PndHitRecoHit">
+<area shape="rect" id="node2" href="$dc/dd7/classGFRecoHitIfc.html" title="GFRecoHitIfc\&lt; GFSpacepoint\lHitPolicy \&gt;" alt="" coords="5,387,223,431"/>
+<area shape="rect" id="node3" href="$df/d1a/classGFAbsRecoHit.html" title="Base Class for representing a Hit in GENFIT." alt="" coords="21,151,137,179"/>
+<area shape="rect" id="node4" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="145,5,221,33"/>
+<area shape="rect" id="node5" href="$df/db9/classGFSpacepointHitPolicy.html" title="Policy class implementing a space point hit geometry." alt="" coords="145,295,318,323"/>
+<area shape="rect" id="node6" href="$d0/d4b/classGFDetPlane.html" title="Detector plane genfit geometry class." alt="" coords="196,203,296,231"/>
+<area shape="rect" id="node7" href="$d5/d62/classGFAbsFinitePlane.html" title="Abstract base class for implementing arbitrarily shaped finite detector planes." alt="" coords="247,91,384,119"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="377,203,467,231"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="408,83,551,127"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="PHG4mRICHDetector::build_holderBox" name="PHG4mRICHDetector::build_holderBox">
+<area shape="rect" id="node2" href="$d9/deb/classPHG4mRICHDetector.html#af4080565a5cf2aec2ea903619535d924" title="PHG4mRICHDetector::\lbuild_box" alt="" coords="245,229,416,273"/>
+<area shape="rect" id="node4" href="$db/d8a/classPHG4mRICHDetector_1_1mRichParameter.html#a4373c4fcf3110f14b3e30b4fed410b8a" title="PHG4mRICHDetector::\lmRichParameter::GetBoxPar" alt="" coords="224,297,437,341"/>
+<area shape="rect" id="node3" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="485,237,707,265"/>
+<area shape="rect" id="node5" href="$d1/d76/aerogel_8C.html#a56726089ae862a842963a7b0f01b5fc7" title="aerogel" alt="" coords="560,297,632,325"/>
+<area shape="rect" id="node28" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="567,349,625,377"/>
+<area shape="rect" id="node6" href="$dd/d0b/classEicNamePatternHub.html#a4506ad43e31ae3c2ff6ff50604682715" title="EicNamePatternHub::\lAddPrefixMatch" alt="" coords="810,5,974,49"/>
+<area shape="rect" id="node7" href="$df/de0/classEicGeoParData.html#aa10ef8f4aec5aebc0c2c043524c9382e" title="EicGeoParData::AttachSourceFile" alt="" coords="771,73,1013,101"/>
+<area shape="rect" id="node9" href="$df/de0/classEicGeoParData.html#a8342587c932c7003ea724dc479cbbd2f" title="EicGeoParData::Construct\lGeometry" alt="" coords="794,125,990,169"/>
+<area shape="rect" id="node10" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="869,193,915,221"/>
+<area shape="rect" id="node11" href="$df/de0/classEicGeoParData.html#a5464c1947d87d36569891ada6aafb22c" title="EicGeoParData::FinalizeOutput" alt="" coords="778,297,1006,325"/>
+<area shape="rect" id="node13" href="$df/de0/classEicGeoParData.html#a98e43e3d66fdb531cabaccd39f09ebc3" title="EicGeoParData::GetColorTable" alt="" coords="1087,117,1313,145"/>
+<area shape="rect" id="node20" href="$df/de0/classEicGeoParData.html#a75991633a97d0a9b3140ba103f225691" title="EicGeoParData::GetTransparency\lTable" alt="" coords="1077,357,1323,401"/>
+<area shape="rect" id="node22" href="$df/de0/classEicGeoParData.html#af50661ee10308b08071f9feb1b57493b" title="EicGeoParData::GetMedium" alt="" coords="788,401,996,429"/>
+<area shape="rect" id="node25" href="$df/de0/classEicGeoParData.html#a37c307a8b444e89fd125f6d273a1c894" title="EicGeoParData::GetTopVolume" alt="" coords="778,453,1006,481"/>
+<area shape="rect" id="node26" href="$df/de0/classEicGeoParData.html#a04f15471e3c546dbf50727aa61098434" title="EicGeoParData::SetTestGeometryFlag" alt="" coords="755,505,1029,533"/>
+<area shape="rect" id="node27" href="$df/de0/classEicGeoParData.html#ae993c5ff20194aa78ee7810d0e5ffa3a" title="EicGeoParData::SetTopVolume\lTransformation" alt="" coords="779,557,1005,601"/>
+<area shape="rect" id="node8" href="$de/d53/classSourceFile.html#ae7fa8d10936a333a8ae1252f3ab00d3d" title="SourceFile::IsOk" alt="" coords="1135,65,1265,93"/>
+<area shape="rect" id="node12" href="$dd/d0b/classEicNamePatternHub.html#a8baac9dd7e44ee789555cb040763f903" title="EicNamePatternHub::\lAnyMatch" alt="" coords="1118,169,1282,213"/>
+<area shape="rect" id="node14" href="$df/de0/classEicGeoParData.html#a24162311dd8c038e330afbee7a132352" title="EicGeoParData::GetGeometry\lFileName" alt="" coords="1089,237,1311,281"/>
+<area shape="rect" id="node21" href="$d0/d2f/classEicDetName.html#aef29cb1ffe2ea071a03f4aa098408595" title="EicDetName::Name" alt="" coords="1123,305,1277,333"/>
+<area shape="rect" id="node15" href="$df/de0/classEicGeoParData.html#a7f5db7c4ddc258264f0258a6d8d946b6" title="EicGeoParData::GetGeometryType" alt="" coords="1371,141,1623,169"/>
+<area shape="rect" id="node16" href="$df/de0/classEicGeoParData.html#ae6acf5e5d790c629031c2d7cf12718ef" title="EicGeoParData::GetSubVersion" alt="" coords="1382,193,1611,221"/>
+<area shape="rect" id="node17" href="$df/de0/classEicGeoParData.html#a27907f2aba8817ceb2d97e1a29ecaf40" title="EicGeoParData::GetVersion" alt="" coords="1395,245,1599,273"/>
+<area shape="rect" id="node18" href="$df/de0/classEicGeoParData.html#a09fe5b3481f26b4a771cb7c476d64a1f" title="EicGeoParData::IsTestGeometry" alt="" coords="1379,297,1614,325"/>
+<area shape="rect" id="node19" href="$d0/d2f/classEicDetName.html#afac87377442f69796e0e335e81b96067" title="EicDetName::name" alt="" coords="1421,349,1573,377"/>
+<area shape="rect" id="node23" href="$de/d6a/classFairGeoBuilder.html#a852b0d5861a7a6c1033aab59417d1c79" title="FairGeoBuilder::createMedium" alt="" coords="1087,425,1313,453"/>
+<area shape="rect" id="node24" href="$d9/d1e/classFairGeoMedia.html#a0dc27e89d61b8ff40498a48e39b2a2c0" title="FairGeoMedia::getMedium" alt="" coords="1101,477,1299,505"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="fun4all_acts/blob/master/Tests/CommonHelpers/Acts/Tests/CommonHelpers/DetectorElementStub.hpp" name="fun4all_acts/blob/master/Tests/CommonHelpers/Acts/Tests/CommonHelpers/DetectorElementStub.hpp">
+<area shape="rect" id="node2" href="$dc/d45/DetectorElementBase_8hpp.html" title="Acts/Geometry/DetectorElement\lBase.hpp" alt="" coords="3023,389,3265,433"/>
+<area shape="rect" id="node8" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="629,825,843,853"/>
+<area shape="rect" id="node10" href="$d9/dc6/PlanarBounds_8hpp.html" title="Acts/Surfaces/PlanarBounds.hpp" alt="" coords="2705,305,2948,333"/>
+<area shape="rect" id="node22" href="$d7/dec/PlaneSurface_8hpp.html" title="Acts/Surfaces/PlaneSurface.hpp" alt="" coords="1089,221,1327,249"/>
+<area shape="rect" id="node47" href="$d8/dd4/LineSurfaceStub_8hpp.html" title="Acts/Tests/CommonHelpers\l/LineSurfaceStub.hpp" alt="" coords="786,129,993,173"/>
+<area shape="rect" id="node3" href="$d3/dc6/DefaultDetectorElementBase_8hpp.html" title="detail/DefaultDetectorElement\lBase.hpp" alt="" coords="3030,481,3258,525"/>
+<area shape="rect" id="node6" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="571,573,848,601"/>
+<area shape="rect" id="node11" href="$da/ddb/SurfaceBounds_8hpp.html" title="Acts/Surfaces/SurfaceBounds.hpp" alt="" coords="245,573,496,601"/>
+<area shape="rect" id="node13" href="$d7/d50/BoundaryCheck_8hpp.html" title="Acts/Surfaces/BoundaryCheck.hpp" alt="" coords="953,649,1209,677"/>
+<area shape="rect" id="node17" href="$d4/d27/VerticesHelper_8hpp.html" title="Acts/Surfaces/detail\l/VerticesHelper.hpp" alt="" coords="1411,725,1567,769"/>
+<area shape="rect" id="node19" href="$d8/dfd/ParameterDefinitions_8hpp.html" title="Acts/Utilities/Parameter\lDefinitions.hpp" alt="" coords="1643,725,1824,769"/>
+<area shape="rect" id="node21" href="$d7/d46/ParameterTypes_8hpp.html" title="Acts/Utilities/Parameter\lTypes.hpp" alt="" coords="1617,817,1799,861"/>
+<area shape="rect" id="node24" href="$d5/dc6/GeometryStatics_8hpp.html" title="Acts/Geometry/GeometryStatics.hpp" alt="" coords="349,397,619,425"/>
+<area shape="rect" id="node25" href="$db/d40/Polyhedron_8hpp.html" title="Acts/Geometry/Polyhedron.hpp" alt="" coords="2194,489,2427,517"/>
+<area shape="rect" id="node37" href="$d9/d1e/InfiniteBounds_8hpp.html" title="Acts/Surfaces/InfiniteBounds.hpp" alt="" coords="143,305,390,333"/>
+<area shape="rect" id="node38" href="$d8/ddd/Surface_8hpp.html" title="Acts/Surfaces/Surface.hpp" alt="" coords="1224,305,1424,333"/>
+<area shape="rect" id="node45" href="$da/d71/PlanarHelper_8hpp.html" title="Acts/Surfaces/detail\l/PlanarHelper.hpp" alt="" coords="898,389,1054,433"/>
+<area shape="rect" id="node46" href="$d2/d4a/PlaneSurface_8ipp.html" title="Acts/Surfaces/detail\l/PlaneSurface.ipp" alt="" coords="1858,297,2014,341"/>
+<area shape="rect" id="node26" href="$dc/d2a/Extent_8hpp.html" title="Acts/Geometry/Extent.hpp" alt="" coords="1962,573,2163,601"/>
+<area shape="rect" id="node29" href="$d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html" title="Acts/Utilities/Helpers.hpp" alt="" coords="1966,649,2159,677"/>
+<area shape="rect" id="node27" href="$de/d09/BinningType_8hpp.html" title="Acts/Utilities/BinningType.hpp" alt="" coords="2560,733,2784,761"/>
+<area shape="rect" id="node34" href="$d0/d81/TypeTraits_8hpp.html" title="Acts/Utilities/TypeTraits.hpp" alt="" coords="2176,733,2384,761"/>
+<area shape="rect" id="node39" href="$da/de0/GeometryObject_8hpp.html" title="Acts/Geometry/GeometryObject.hpp" alt="" coords="1413,397,1681,425"/>
+<area shape="rect" id="node41" href="$d5/d50/BinnedArray_8hpp.html" title="Acts/Utilities/BinnedArray.hpp" alt="" coords="2577,573,2799,601"/>
+<area shape="rect" id="node43" href="$db/d8d/Intersection_8hpp.html" title="Acts/Utilities/Intersection.hpp" alt="" coords="897,489,1119,517"/>
+<area shape="rect" id="node44" href="$dd/d76/Surface_8ipp.html" title="Acts/Surfaces/detail\l/Surface.ipp" alt="" coords="1130,389,1286,433"/>
+<area shape="rect" id="node40" href="$d3/d69/GeometryID_8hpp.html" title="Acts/Geometry/GeometryID.hpp" alt="" coords="1126,573,1365,601"/>
+<area shape="rect" id="node42" href="$d2/d0a/BinUtility_8hpp.html" title="Acts/Utilities/BinUtility.hpp" alt="" coords="2587,649,2789,677"/>
+<area shape="rect" id="node48" href="$d5/d42/LineSurface_8hpp.html" title="Acts/Surfaces/LineSurface.hpp" alt="" coords="479,221,707,249"/>
+<area shape="rect" id="node49" href="$d0/db6/LineBounds_8hpp.html" title="Acts/Surfaces/LineBounds.hpp" alt="" coords="1942,489,2170,517"/>
+<area shape="rect" id="node50" href="$d7/d3c/LineSurface_8ipp.html" title="Acts/Surfaces/detail\l/LineSurface.ipp" alt="" coords="515,297,671,341"/>
+</map>

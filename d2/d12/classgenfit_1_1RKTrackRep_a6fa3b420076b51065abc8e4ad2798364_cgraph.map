@@ -1,0 +1,51 @@
+<map id="genfit::RKTrackRep::extrapolateToPlane" name="genfit::RKTrackRep::extrapolateToPlane">
+<area shape="rect" id="node2" href="$d2/d12/classgenfit_1_1RKTrackRep.html#aea12efe83cc25b7ec170936c56fabf28" title="genfit::RKTrackRep\l::checkCache" alt="" coords="219,403,367,447"/>
+<area shape="rect" id="node3" href="$de/dd5/classgenfit_1_1StateOnPlane.html#a30c7e8d87fa50205baa927d4ceccb594" title="genfit::StateOnPlane\l::getPlane" alt="" coords="920,199,1081,243"/>
+<area shape="rect" id="node5" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a3f0859a3f466cc9b3002db4c522fcd92" title="genfit::RKTrackRep\l::getState7" alt="" coords="673,382,821,426"/>
+<area shape="rect" id="node16" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a741b844d5f72a6df5d3597570b23c70d" title="Handles propagation and material effects." alt="" coords="428,1247,576,1291"/>
+<area shape="rect" id="node42" href="$d2/d12/classgenfit_1_1RKTrackRep.html#aab0afe30c58690a78ecf965d9369998d" title="Get the (fitted) charge of a state. This is not always equal the pdg charge (e.g. if the charge sign ..." alt="" coords="673,607,821,651"/>
+<area shape="rect" id="node44" href="$d1/d25/classgenfit_1_1AbsTrackRep.html#afb4f0936d051d04cca166545f3bdbb0a" title="Get tha particle mass in GeV/c^2." alt="" coords="215,879,371,923"/>
+<area shape="rect" id="node45" href="$d2/d12/classgenfit_1_1RKTrackRep.html#addfc2a48d467c9e127d0bc9dee81f0ab" title="genfit::RKTrackRep\l::getState5" alt="" coords="673,139,821,183"/>
+<area shape="rect" id="node47" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a6dc4f80b16dc26467cf17a1f5870d3d2" title="Get the time corresponding to the StateOnPlane. Extrapolation." alt="" coords="219,19,367,63"/>
+<area shape="rect" id="node48" href="$de/dd5/classgenfit_1_1StateOnPlane.html#a0123543a15df51f8beaa98660cfa89b7" title="genfit::StateOnPlane\l::setPlane" alt="" coords="212,947,373,991"/>
+<area shape="rect" id="node49" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a386f0facff59558037245e581e2f03c7" title="Set time at which the state was defined." alt="" coords="219,658,367,702"/>
+<area shape="rect" id="node4" href="$d2/d12/classgenfit_1_1RKTrackRep.html#ae3bdd8119d789c0775659d28c806490d" title="Get the cartesian position of a state." alt="" coords="428,436,576,480"/>
+<area shape="rect" id="node6" href="$d8/db3/classgenfit_1_1Exception.html#a13619975a1e1be5c1bd504b254e01f7a" title="Set fatal flag." alt="" coords="1171,607,1315,651"/>
+<area shape="rect" id="node7" href="$de/dd5/classgenfit_1_1StateOnPlane.html#a61a05215bec767cf6919b083808a37d2" title="genfit::StateOnPlane\l::getState" alt="" coords="920,267,1081,311"/>
+<area shape="rect" id="node10" href="$de/dd5/classgenfit_1_1StateOnPlane.html#a14f25e4575846dcb14bd91ddb2a534d2" title="genfit::StateOnPlane\l::getRep" alt="" coords="421,248,583,292"/>
+<area shape="rect" id="node11" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a66c664111604e429cdfe41883a2b844a" title="genfit::RKTrackRep\l::initArrays" alt="" coords="927,1187,1075,1231"/>
+<area shape="rect" id="node15" href="$de/dd5/classgenfit_1_1StateOnPlane.html#ae99cc4cd2f81ae8c848b4cb76f63389e" title="genfit::StateOnPlane\l::setStatePlane" alt="" coords="421,368,583,412"/>
+<area shape="rect" id="node8" href="$d2/d12/classgenfit_1_1RKTrackRep.html#af4db8fc58207f6e14e4174139ebe7f88" title="genfit::RKTrackRep\l::getSpu" alt="" coords="927,335,1075,379"/>
+<area shape="rect" id="node9" href="$de/dd5/classgenfit_1_1StateOnPlane.html#a2801bf4fa1196147472cc1807281e23d" title="genfit::StateOnPlane\l::getAuxInfo" alt="" coords="1163,335,1324,379"/>
+<area shape="rect" id="node12" href="$da/deb/structgenfit_1_1RKMatrix.html#ac9695391aa7f36f767a1e2f1d5df6b4d" title="genfit::RKMatrix::begin" alt="" coords="1155,1306,1332,1334"/>
+<area shape="rect" id="node13" href="$da/deb/structgenfit_1_1RKMatrix.html#ac6fc3a0073f4226279de37452f16d6d2" title="genfit::RKMatrix::end" alt="" coords="1161,1434,1325,1462"/>
+<area shape="rect" id="node14" href="$dc/dcc/classgenfit_1_1StepLimits.html#ada8640542f6d6fc3f9467bf08d8ad777" title="genfit::StepLimits\l::reset" alt="" coords="1173,918,1314,962"/>
+<area shape="rect" id="node17" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a5552763079b0d5e6d4799c1ae8a5ba3f" title="genfit::RKTrackRep\l::calcForwardJacobianAndNoise" alt="" coords="631,1658,863,1702"/>
+<area shape="rect" id="node20" href="$dd/d25/classgenfit_1_1DetPlane.html#a67147844a30d48c6d067e150d82a7e5a" title="genfit::DetPlane::getNormal" alt="" coords="1139,1786,1348,1814"/>
+<area shape="rect" id="node26" href="$dd/d25/classgenfit_1_1DetPlane.html#aba6fb5da51f1fd559753fdbb37245751" title="absolute distance from a point to the plane" alt="" coords="649,1894,845,1922"/>
+<area shape="rect" id="node27" href="$d1/d34/classgenfit_1_1MaterialEffects.html#ac11f0e9f0c47f9ae160e0e21cf846d01" title="Calculates energy loss in the traveled path, optional calculation of noise matrix." alt="" coords="661,896,832,940"/>
+<area shape="rect" id="node33" href="$d1/d34/classgenfit_1_1MaterialEffects.html#a15a93d367165ade368e6caec713d0934" title="genfit::MaterialEffects\l::getInstance" alt="" coords="661,1946,832,1990"/>
+<area shape="rect" id="node34" href="$dc/dcc/classgenfit_1_1StepLimits.html#ac48f142cf6ca99991dde6a0e23c20cbc" title="Get the lowest limit." alt="" coords="930,1358,1071,1402"/>
+<area shape="rect" id="node35" href="$dd/d25/classgenfit_1_1DetPlane.html#a8bfdd3ce2edf6682ca12ca4e74afcf95" title="genfit::DetPlane::getO" alt="" coords="661,2014,833,2042"/>
+<area shape="rect" id="node36" href="$dd/d25/classgenfit_1_1DetPlane.html#a7cc4455980d9ee114323396148670829" title="intersect in the active area? C.f. AbsFinitePlane" alt="" coords="645,844,849,872"/>
+<area shape="rect" id="node37" href="$dc/d16/namespacegenfit_1_1RKTools.html#a5ad8693b4b34e9d016b4bedc7a574800" title="genfit::RKTools::Np\l_N_NpT" alt="" coords="673,1067,821,1111"/>
+<area shape="rect" id="node38" href="$dd/d25/classgenfit_1_1DetPlane.html#aff18533874e67f4e1b63cb0927690a26" title="genfit::DetPlane::Print" alt="" coords="915,1494,1086,1522"/>
+<area shape="rect" id="node39" href="$dc/d16/namespacegenfit_1_1RKTools.html#a7842d42c75a8456ef78ccc4ddf08373f" title="genfit::RKTools::printDim" alt="" coords="653,1135,841,1163"/>
+<area shape="rect" id="node40" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a0c1ca8e5c61070e2684e03b4e7505762" title="Propagates the particle through the magnetic field." alt="" coords="673,1307,821,1351"/>
+<area shape="rect" id="node41" href="$dc/dcc/classgenfit_1_1StepLimits.html#a24a223a3dc45f881ff1dd9897cedd56b" title="absolute of value will be taken! If limit is already lower, it will be set to value anyway..." alt="" coords="676,1187,817,1231"/>
+<area shape="rect" id="node18" href="$d2/d12/classgenfit_1_1RKTrackRep.html#ab8c89300caa0c7b895a13d6d8194df37" title="genfit::RKTrackRep\l::calcJ_Mp_7x5" alt="" coords="927,1426,1075,1470"/>
+<area shape="rect" id="node19" href="$d2/d12/classgenfit_1_1RKTrackRep.html#ad1ef53e5c4265a1d45f84c9ae8d55694" title="genfit::RKTrackRep\l::calcJ_pM_5x7" alt="" coords="927,1546,1075,1590"/>
+<area shape="rect" id="node21" href="$dd/d25/classgenfit_1_1DetPlane.html#a5db05b306c88eb0da61a1f42a0b6b47d" title="genfit::DetPlane::getU" alt="" coords="915,1614,1086,1642"/>
+<area shape="rect" id="node22" href="$dd/d25/classgenfit_1_1DetPlane.html#ac118c9842f97d99861d40cba4d090f9a" title="genfit::DetPlane::getV" alt="" coords="915,1666,1086,1694"/>
+<area shape="rect" id="node23" href="$dc/d16/namespacegenfit_1_1RKTools.html#ad2530899a8df922d173c17f55ac590b9" title="genfit::RKTools::J\l_MpTxcov7xJ_Mp" alt="" coords="932,1718,1069,1762"/>
+<area shape="rect" id="node24" href="$dc/d16/namespacegenfit_1_1RKTools.html#a65fa58888e266d50b8857b6d098377a7" title="genfit::RKTools::J\l_pMTTxJ_MMTTxJ_MpTT" alt="" coords="911,1838,1091,1882"/>
+<area shape="rect" id="node25" href="$d5/de1/CbmLitMatrixMath_8cxx.html#a0b52506470e3aee8828f8ff47e107c64" title="Similarity" alt="" coords="958,1906,1043,1934"/>
+<area shape="rect" id="node28" href="$d7/dc7/namespacecheck__license.html#a5d6111870e0d2f540b9458f3674194ff" title="check_license.err" alt="" coords="931,1032,1070,1060"/>
+<area shape="rect" id="node29" href="$dc/dae/gamma_8F.html#a32168d135528557a384f114255d59f09" title="gamma" alt="" coords="1207,1060,1279,1088"/>
+<area shape="rect" id="node30" href="$d1/d34/classgenfit_1_1MaterialEffects.html#a2b0432d5492f34876561f0687de2343b" title="genfit::MaterialEffects\l::getMomGammaBeta" alt="" coords="915,828,1086,872"/>
+<area shape="rect" id="node31" href="$d1/d34/classgenfit_1_1MaterialEffects.html#a825e62c48c2385f4db21ae66541fcac2" title="sets charge_, mass_" alt="" coords="911,964,1090,1008"/>
+<area shape="rect" id="node32" href="$d1/d34/classgenfit_1_1MaterialEffects.html#ad7852f974405ca9831b7b2a304e8e553" title="Returns momentum loss." alt="" coords="915,896,1086,940"/>
+<area shape="rect" id="node43" href="$d1/d25/classgenfit_1_1AbsTrackRep.html#a6a0edfbf9193760cf666ff40e3ff3568" title="Get the charge of the particle of the pdg code." alt="" coords="923,607,1079,651"/>
+<area shape="rect" id="node46" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a5e038d8e713cdd0cb39092e85afef8f8" title="genfit::RKTrackRep\l::setSpu" alt="" coords="927,131,1075,175"/>
+<area shape="rect" id="node50" href="$df/da1/namespaceActs_1_1VectorHelpers.html#ab52a0c8023eda1c81cc9ddfe7f03b535" title="Access to the time component of input parameter." alt="" coords="425,658,579,702"/>
+</map>

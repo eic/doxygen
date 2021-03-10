@@ -1,0 +1,11 @@
+<map id="FairDbValidityRec::HasExpired" name="FairDbValidityRec::HasExpired">
+<area shape="rect" id="node2" href="$dd/d71/classValContext.html#a7245d43141de2fa31710883aa99f25e5" title="ValContext::GetDetector" alt="" coords="212,5,400,33"/>
+<area shape="rect" id="node3" href="$d9/df6/classValRange.html#a77667c1e38e7789b27b642bb907c8225" title="ValRange::GetDetectorMask" alt="" coords="200,57,412,85"/>
+<area shape="rect" id="node4" href="$dd/d71/classValContext.html#a5be59960e7b809fdcaab848767b85246" title="ValContext::GetSimFlag" alt="" coords="215,109,397,137"/>
+<area shape="rect" id="node5" href="$d9/df6/classValRange.html#a158a18ed3848b5c83d2677145f36dc4d" title="ValRange::GetSimMask" alt="" coords="216,161,396,189"/>
+<area shape="rect" id="node6" href="$dd/da1/classFairDbValidityRec.html#a1e20756c39a606f0cfe7d6963816c70c" title="FairDbValidityRec::\lGetTask" alt="" coords="233,213,379,257"/>
+<area shape="rect" id="node7" href="$d9/df6/classValRange.html#a0b489c5e3dab431b268469d0aadc7718" title="ValRange::GetTimeEnd" alt="" coords="217,281,395,309"/>
+<area shape="rect" id="node8" href="$dd/d71/classValContext.html#a7ed9b7e0653d2906ced11408472e3d88" title="ValContext::GetTimeStamp" alt="" coords="203,333,409,361"/>
+<area shape="rect" id="node9" href="$d9/df6/classValRange.html#af0136e7f8964a0d39a4df1b64f1d95cd" title="ValRange::GetTimeStart" alt="" coords="213,385,399,413"/>
+<area shape="rect" id="node10" href="$dd/da1/classFairDbValidityRec.html#ae56c62cc0c521287d484c53dd2d70f2a" title="FairDbValidityRec::\lGetValRange" alt="" coords="233,437,379,481"/>
+</map>

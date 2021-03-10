@@ -1,0 +1,11 @@
+<map id="EndCap_Hadron" name="EndCap_Hadron">
+<area shape="rect" id="node2" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="183,5,409,33"/>
+<area shape="rect" id="node3" href="$db/dc5/classPHG4CylinderSubsystem.html#a720cfcefbc8548018e28bbad59acaab3" title="PHG4CylinderSubsystem\l::set_color" alt="" coords="201,57,391,101"/>
+<area shape="rect" id="node4" href="$d5/d29/classPHG4DetectorSubsystem.html#a48e75fd1738dab9d0d66b174053ead8f" title="PHG4DetectorSubsystem\l::set_double_param" alt="" coords="200,125,392,169"/>
+<area shape="rect" id="node5" href="$d5/d29/classPHG4DetectorSubsystem.html#a82c122f8a80f34dc4ffba6675ce60c75" title="PHG4DetectorSubsystem\l::set_string_param" alt="" coords="200,193,392,237"/>
+<area shape="rect" id="node6" href="$d5/d29/classPHG4DetectorSubsystem.html#a06d7265cdb191528ced9e78e73ba0f0a" title="PHG4DetectorSubsystem\l::SetActive" alt="" coords="200,261,392,305"/>
+<area shape="rect" id="node7" href="$db/df7/classPHG4Subsystem.html#ac78574e8db50df21c354ebb23c779dab" title="PHG4Subsystem::SetMother\lSubsystem" alt="" coords="190,329,402,373"/>
+<area shape="rect" id="node10" href="$d5/d29/classPHG4DetectorSubsystem.html#aa0c11d415a70a207a3ea851b28932dfd" title="PHG4DetectorSubsystem\l::SuperDetector" alt="" coords="200,397,392,441"/>
+<area shape="rect" id="node8" href="$db/df7/classPHG4Subsystem.html#a46114ad1fae6087925acbc758430620e" title="PHG4Subsystem::CanBeMother\lSubsystem" alt="" coords="457,300,692,344"/>
+<area shape="rect" id="node9" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="498,368,651,396"/>
+</map>

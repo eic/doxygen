@@ -1,0 +1,7 @@
+<map id="Acts::TrackingVolume::confinedVolumes" name="Acts::TrackingVolume::confinedVolumes">
+<area shape="rect" id="node2" href="$db/dcf/classFW_1_1RootMaterialWriter.html#a6b7e88b31ecca669f19c5ef61923fd7a" title="FW::RootMaterialWriter\l::collectMaterial" alt="" coords="246,5,423,49"/>
+<area shape="rect" id="node3" href="$d8/d74/classActs_1_1JsonGeometryConverter.html#ad215289e3308e79e92b999b6e64f0814" title="Acts::JsonGeometryConverter\l::convertToRep" alt="" coords="223,73,446,117"/>
+<area shape="rect" id="node4" href="$d6/d42/classActs_1_1SurfaceMaterialMapper.html#aaebe46b04791dcf333fbda5b70584196" title="finds all surfaces with ProtoSurfaceMaterial of a volume" alt="" coords="225,141,444,185"/>
+<area shape="rect" id="node5" href="$d8/d7e/classActs_1_1VolumeMaterialMapper.html#a5c955eaecf2283ba387077447fc77ca8" title="finds all surfaces with ProtoVolumeMaterial of a volume" alt="" coords="226,209,443,253"/>
+<area shape="rect" id="node6" href="$d7/dd5/classFW_1_1Obj_1_1ObjTrackingGeometryWriter.html#a06899eb8e7790e39a266ed66e4ebedfe" title="process this volume" alt="" coords="220,277,449,321"/>
+</map>

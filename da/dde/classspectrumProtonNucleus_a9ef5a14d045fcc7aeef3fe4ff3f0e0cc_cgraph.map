@@ -1,0 +1,10 @@
+<map id="spectrumProtonNucleus::generateBreakupProbabilities" name="spectrumProtonNucleus::generateBreakupProbabilities">
+<area shape="rect" id="node2" href="$d1/d21/classbeamBeamSystem.html#ae788c7578711e2e7b146a45e405f0426" title="returns beam particle 1" alt="" coords="283,5,487,33"/>
+<area shape="rect" id="node3" href="$d1/d21/classbeamBeamSystem.html#a5c6e0d37ec7b688b606a4b83f327f1e4" title="returns beam particle 2" alt="" coords="283,57,487,85"/>
+<area shape="rect" id="node4" href="$da/dde/classspectrumProtonNucleus.html#af3486aace50ef1a72db9cf3dd21ddb7b" title="spectrumProtonNucleus\l::getNucleonNucleonSigma" alt="" coords="283,109,487,153"/>
+<area shape="rect" id="node5" href="$d4/d51/classnucleus.html#a625506ed8907970e3aea75ff925bfc9b" title="nucleus::thickness" alt="" coords="311,177,458,205"/>
+<area shape="rect" id="node9" href="$d4/d51/classnucleus.html#acd58b7873e7d2d42bbc31414e373b89d" title="returns atomic number of nucleus" alt="" coords="339,229,431,257"/>
+<area shape="rect" id="node6" href="$d4/d51/classnucleus.html#ad46c433008fa9451021f8614b126996a" title="nucleus::rws" alt="" coords="535,177,641,205"/>
+<area shape="rect" id="node7" href="$d4/d51/classnucleus.html#a31aecce251b8d61c0e36b46ccd3730d7" title="nucleus::nuclearRadius" alt="" coords="715,151,893,179"/>
+<area shape="rect" id="node8" href="$d4/d51/classnucleus.html#ab71f2da42e9f143940e727f7525076e2" title="nucleus::woodSaxonSkinDepth" alt="" coords="689,203,919,231"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="Acts::Test::BOOST_AUTO_TEST_CASE" name="Acts::Test::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d4/db7/classActs_1_1ImpactPointEstimator.html#ab67fb36925cff54e28aeede85549e7e6" title="Calculates 3D distance between a track and a 3D point." alt="" coords="255,5,460,49"/>
+<area shape="rect" id="node4" href="$dd/d7e/namespaceActs_1_1Test.html#a1a39f9035862f7175922721e11cc38a1" title="Acts::Test::d0Dist" alt="" coords="287,73,427,101"/>
+<area shape="rect" id="node5" href="$d4/db7/classActs_1_1ImpactPointEstimator.html#aae67a291110d970c44021048b8bea918" title="Creates track parameters bound to plane at point of closest approach in 3d to given reference positio..." alt="" coords="241,125,473,169"/>
+<area shape="rect" id="node6" href="$dd/d7e/namespaceActs_1_1Test.html#ac17fc6b397982fd0002d04601f2f57b4" title="Acts::Test::phiDist" alt="" coords="285,193,429,221"/>
+<area shape="rect" id="node7" href="$dd/d7e/namespaceActs_1_1Test.html#aad6ade984291907ea5c37f536c199d51" title="Acts::Test::pTDist" alt="" coords="287,245,427,273"/>
+<area shape="rect" id="node8" href="$dd/d7e/namespaceActs_1_1Test.html#af5b5c523db0bb9b43a3f7ff147d33e8a" title="Acts::Test::qDist" alt="" coords="291,297,423,325"/>
+<area shape="rect" id="node9" href="$dd/d7e/namespaceActs_1_1Test.html#a4c44f5b7cd5cf26cf97aab98f50589fe" title="Acts::Test::resAngDist" alt="" coords="273,349,442,377"/>
+<area shape="rect" id="node10" href="$dd/d7e/namespaceActs_1_1Test.html#a7f39fcb98916516cd7bfcff2cad085ca" title="Acts::Test::resIPDist" alt="" coords="280,401,435,429"/>
+<area shape="rect" id="node11" href="$dd/d7e/namespaceActs_1_1Test.html#ae6a0f7214ec673d4f32a5e5289a25d91" title="Acts::Test::resQoPDist" alt="" coords="272,453,443,481"/>
+<area shape="rect" id="node12" href="$dd/d7e/namespaceActs_1_1Test.html#ae0440540e467d1579f295150369c73b4" title="Acts::Test::thetaDist" alt="" coords="278,505,437,533"/>
+<area shape="rect" id="node13" href="$dd/d7e/namespaceActs_1_1Test.html#a7f4bfb2dc3e868932a6f87727a14750b" title="Acts::Test::z0Dist" alt="" coords="288,557,427,585"/>
+<area shape="rect" id="node3" href="$d6/d69/ClusterIso_8h.html#a1a69231f858c3fc6386929e2d8841559" title="deltaR" alt="" coords="521,73,587,101"/>
+</map>

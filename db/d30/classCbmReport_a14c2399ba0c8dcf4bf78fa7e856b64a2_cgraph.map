@@ -1,0 +1,5 @@
+<map id="CbmReport::PrintCanvases" name="CbmReport::PrintCanvases">
+<area shape="rect" id="node2" href="$da/d15/classCbmReportElement.html#a82435577e2edf31fba486f2cd5083b4b" title="Return string with image tags." alt="" coords="255,5,459,33"/>
+<area shape="rect" id="node3" href="$db/d30/classCbmReport.html#a31a147786fb2fef64325d2cd5cc39996" title="All text output goes to this stream." alt="" coords="291,57,422,85"/>
+<area shape="rect" id="node4" href="$db/d30/classCbmReport.html#ad55703c14508e93717ff6233ed947bea" title="Accessor to CbmReportElement object. User has to write the report using available tags from CbmReport..." alt="" coords="299,109,415,137"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="EicEventAssembler" name="EicEventAssembler">
+<area shape="rect" id="node2" href="$d2/d9e/classFairTask.html" title="FairTask" alt="" coords="1663,161,1737,189"/>
+<area shape="rect" id="node4" href="$db/da1/classFairLogger.html" title="FairLogger" alt="" coords="1225,85,1317,113"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="871,84,978,112"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="477,39,625,83"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="171,47,344,75"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="5,47,115,75"/>
+<area shape="rect" id="node11" href="$d2/d3b/classEicCalorimeterHub.html" title="EicCalorimeterHub" alt="" coords="851,159,999,187"/>
+<area shape="rect" id="node12" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="219,211,295,239"/>
+<area shape="rect" id="node13" href="$d0/d2f/classEicDetName.html" title="Detector name in all flavors like TPC, Tpc, tpc." alt="" coords="499,107,603,135"/>
+<area shape="rect" id="node14" href="$d9/ddb/classParticleMappingTable.html" title="ParticleMappingTable" alt="" coords="469,503,633,531"/>
+<area shape="rect" id="node18" href="$da/d46/classerhic_1_1VirtualEvent.html" title="Abstract base class for a physics event." alt="" coords="677,432,824,460"/>
+<area shape="rect" id="node22" href="$d0/d01/classerhic_1_1VirtualParticle.html" title="Abstract base class for a general particle." alt="" coords="472,399,629,427"/>
+<area shape="rect" id="node24" href="$d3/d2b/classEicRcCalorimeterHit.html" title="EicRcCalorimeterHit" alt="" coords="472,211,629,239"/>
+<area shape="rect" id="node16" href="$d6/dfb/classerhic_1_1EventMC.html" title="erhic::EventMC" alt="" coords="1639,412,1761,440"/>
+<area shape="rect" id="node17" href="$dc/db4/classerhic_1_1EventDis.html" title="erhic::EventDis" alt="" coords="1209,415,1333,443"/>
+<area shape="rect" id="node19" href="$d9/d66/classEicRcEvent.html" title="EicRcEvent" alt="" coords="1651,348,1749,376"/>
+<area shape="rect" id="node21" href="$dd/dcc/classEicRcParticle.html" title="EicRcParticle" alt="" coords="871,337,978,365"/>
+</map>

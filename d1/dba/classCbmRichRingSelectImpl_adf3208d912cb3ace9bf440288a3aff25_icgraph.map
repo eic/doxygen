@@ -1,0 +1,11 @@
+<map id="CbmRichRingSelectImpl::GetAngle" name="CbmRichRingSelectImpl::GetAngle">
+<area shape="rect" id="node2" href="$d7/d94/classCbmRichTrainAnnSelect.html#aa1b5db92eacf4588fca5794bc1451b2e" title="Fill ring selection parameters in array and histograms." alt="" coords="236,5,419,49"/>
+<area shape="rect" id="node4" href="$df/d59/classCbmRichRingSelectAnn.html#a460e67e14cc9ec9f614a02692e63aa3a" title="CbmRichRingSelectAnn\l::DoSelect" alt="" coords="237,73,417,117"/>
+<area shape="rect" id="node3" href="$d7/d94/classCbmRichTrainAnnSelect.html#a98a50fd7abb8180ae973349411cf0329" title="Inherited from FairTask." alt="" coords="489,5,671,49"/>
+<area shape="rect" id="node5" href="$d2/d30/classCbmRichRingFinderHoughImpl.html#a87444511c27f63a55d1110b55283df99" title="Find peak in the HT histograms." alt="" coords="467,73,693,117"/>
+<area shape="rect" id="node6" href="$de/de9/classCbmRichRingFinderHoughSimd.html#add22ea34fa0d1846781977e64396419c" title="Run HT for each hit." alt="" coords="741,39,984,83"/>
+<area shape="rect" id="node7" href="$d2/d30/classCbmRichRingFinderHoughImpl.html#aa7afbf8254e77d6b9ba5484e8eff5cd3" title="Run HT for each hit." alt="" coords="741,107,984,151"/>
+<area shape="rect" id="node8" href="$d2/d30/classCbmRichRingFinderHoughImpl.html#a4cb7c08d68834a72fcb74bc462b12d22" title="Start point to run algorithm." alt="" coords="1032,107,1259,151"/>
+<area shape="rect" id="node9" href="$d5/df9/classCbmRichRingFinderHough.html#a77a29a242a1a1a1e5ae5a07ec0ef7f56" title="CbmRichRingFinderHough\l::DoFind" alt="" coords="1307,76,1504,120"/>
+<area shape="rect" id="node10" href="$d7/d7b/classFinderTask.html#a641303dcb5be0c5f284a7402a736c8b4" title="FinderTask::operator()" alt="" coords="1321,144,1490,172"/>
+</map>

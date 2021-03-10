@@ -1,0 +1,11 @@
+<map id="Acts::MaterialProperties::thickness" name="Acts::MaterialProperties::thickness">
+<area shape="rect" id="node2" href="$d8/db5/classActs_1_1AccumulatedVolumeMaterial.html#a162cd40bcafee0cf911df641ec00e718" title="Add one entry with the given material properties." alt="" coords="236,57,489,101"/>
+<area shape="rect" id="node5" href="$d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a28e9e0c64fdcd2a904334c82c61568c0" title="this adds the material properties to event store" alt="" coords="261,125,464,169"/>
+<area shape="rect" id="node6" href="$dd/d7e/namespaceActs_1_1Test.html#a6a8a6a0191f42178156c363a22a80a88" title="Test the event averaging behavior." alt="" coords="552,156,740,200"/>
+<area shape="rect" id="node7" href="$db/dc8/MaterialPropertiesTests_8cpp.html#a69cb74af4fd420a8fcfa3b484e2cb842" title="BOOST_AUTO_TEST_CASE" alt="" coords="265,245,461,273"/>
+<area shape="rect" id="node8" href="$de/d46/classActs_1_1MaterialProperties.html#a91b6642f44a9c1ed74ce66b05b7883b5" title="Acts::MaterialProperties\l::MaterialProperties" alt="" coords="271,297,454,341"/>
+<area shape="rect" id="node9" href="$d9/d06/structActs_1_1MaterialCollector.html#a6eabd568c652b6d2da7c1de8482a6692" title="Acts::MaterialCollector\l::operator()" alt="" coords="275,365,451,409"/>
+<area shape="rect" id="node10" href="$da/d7b/namespaceActs.html#a034576b568d7bc4e0cb2fd3125914bc9" title="Acts::operator\&lt;\&lt;" alt="" coords="293,433,433,461"/>
+<area shape="rect" id="node3" href="$dd/d7e/namespaceActs_1_1Test.html#ae99dd1d4ac7e188fc034efb816b589ce" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="552,5,740,49"/>
+<area shape="rect" id="node4" href="$d8/d7e/classActs_1_1VolumeMaterialMapper.html#aef3b1deaca920e46f518cd05bc89e8a7" title="Method to finalize the maps." alt="" coords="537,73,755,117"/>
+</map>

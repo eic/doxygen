@@ -1,0 +1,22 @@
+<map id="TpcDefs::genClusKey" name="TpcDefs::genClusKey">
+<area shape="rect" id="node2" href="$d9/d24/classPHTruthClustering.html#a8fb52ae244819fcfc7e7530f2beaddc9" title="PHTruthClustering::\lall_truth_clusters" alt="" coords="221,69,371,113"/>
+<area shape="rect" id="node4" href="$d4/de4/classSvtxTruthEval.html#a10ce69fd37eb1db4dbc77cbfa7affc98" title="SvtxTruthEval::all\l_truth_clusters" alt="" coords="227,201,365,245"/>
+<area shape="rect" id="node20" href="$de/d25/classTpcClusterizer.html#ae918c6fcae58f6d69030931a4552a3ac" title="TpcClusterizer::calc\l_cluster_parameter" alt="" coords="219,333,373,377"/>
+<area shape="rect" id="node3" href="$d9/d24/classPHTruthClustering.html#a047adb6ab581cd996bb280ee82521752" title="PHTruthClustering::\lprocess_event" alt="" coords="444,5,595,49"/>
+<area shape="rect" id="node5" href="$d1/d1e/classSvtxClusterEval.html#af774b5eb2254c2427cd21fbd29b47b6f" title="SvtxClusterEval::all\l_truth_clusters" alt="" coords="443,141,595,185"/>
+<area shape="rect" id="node6" href="$df/db8/classQAG4SimulationTpc.html#aec3889f1254e0eec8b2b6f354e1375bd" title="evaluate clusters" alt="" coords="437,73,602,117"/>
+<area shape="rect" id="node8" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="925,239,1113,283"/>
+<area shape="rect" id="node10" href="$d1/d1e/classSvtxClusterEval.html#a7619937ca04fc86bf74e13a08b1d1959" title="SvtxClusterEval::max\l_truth_cluster_by_energy" alt="" coords="675,179,867,223"/>
+<area shape="rect" id="node16" href="$d1/d1e/classSvtxClusterEval.html#a71467fc0bd5e8af7a8d4ea2a0d124bc1" title="SvtxClusterEval::max\l_truth_particle_by_cluster\l_energy" alt="" coords="421,261,617,321"/>
+<area shape="rect" id="node7" href="$df/db8/classQAG4SimulationTpc.html#aaecb5e12b4083bd235ec7200368c58fc" title="QAG4SimulationTpc::\lprocess_event" alt="" coords="688,73,853,117"/>
+<area shape="rect" id="node9" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="1167,239,1343,283"/>
+<area shape="rect" id="node11" href="$d3/d32/classActsEvaluator.html#ab775f6e654ac9d42708ff5ba9945ce58" title="ActsEvaluator::getGlobal\lTruthHit" alt="" coords="924,171,1113,215"/>
+<area shape="rect" id="node12" href="$d3/d32/classActsEvaluator.html#ac077153dd095f809fbb109f1a9242571" title="ActsEvaluator::fillProto\lTrack" alt="" coords="1168,171,1343,215"/>
+<area shape="rect" id="node15" href="$d3/d32/classActsEvaluator.html#adfc0d467a2bfb926be361c88761b2667" title="ActsEvaluator::visitTrack\lStates" alt="" coords="1161,103,1349,147"/>
+<area shape="rect" id="node13" href="$d3/d32/classActsEvaluator.html#a1dcade956fd83a14249e38b5783b0f00" title="Function to evaluate Trajectories fit results from the KF." alt="" coords="1397,145,1639,173"/>
+<area shape="rect" id="node14" href="$d3/d32/classActsEvaluator.html#a9ce1e3818dfcd7709c5693087aa21df5" title="ActsEvaluator::process\l_event" alt="" coords="1687,137,1863,181"/>
+<area shape="rect" id="node17" href="$dd/de6/classKFParticle__truthAndDetTools.html#aacd7464b07f03f83a4d7e2de49e63a50" title="KFParticle_truthAndDetTools\l::fillTruthBranch" alt="" coords="665,299,876,343"/>
+<area shape="rect" id="node18" href="$d9/dae/classKFParticle__nTuple.html#ac32b873cf95657eb34d8b572ad692172" title="Fills required information for your selection, also requests truth and detector information if needed..." alt="" coords="945,307,1092,351"/>
+<area shape="rect" id="node19" href="$d5/d72/classKFParticle__sPHENIX.html#a7e5ad7cf075fbf8e68a781e7721fec81" title="KFParticle_sPHENIX\l::process_event" alt="" coords="1179,307,1331,351"/>
+<area shape="rect" id="node21" href="$de/d25/classTpcClusterizer.html#a8dd29d5451a29cd488440e096a9f53d1" title="TpcClusterizer::process\l_event" alt="" coords="429,419,609,463"/>
+</map>

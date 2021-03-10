@@ -1,0 +1,23 @@
+<map id="Acts::MaterialInteractor::operator()" name="Acts::MaterialInteractor::operator()">
+<area shape="rect" id="node2" href="$d0/d33/structActs_1_1MaterialInteractor.html#aa4f898282e83c4549923c7e8c305e9a9" title="Acts::MaterialInteractor\l::debugLog" alt="" coords="287,5,468,49"/>
+<area shape="rect" id="node3" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a15d7d0e97bf723997ddecb67e84f6a2a" title="This function evaluates the material properties to interact with." alt="" coords="235,73,520,117"/>
+<area shape="rect" id="node6" href="$d3/dea/structActs_1_1detail_1_1VolumeMaterialInteraction.html#a0823212b605e0aba7f0c6fcc5e5eb623" title="This function evaluates the material properties to interact with." alt="" coords="235,141,520,185"/>
+<area shape="rect" id="node7" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#af72a38a4955e14f3661b64fc038a5bdc" title="This function evaluate the material effects." alt="" coords="237,209,517,269"/>
+<area shape="rect" id="node15" href="$d0/d33/structActs_1_1MaterialInteractor.html#a8bfe113937d0be869a82816dc8209615" title="This function records the material effect." alt="" coords="287,293,468,337"/>
+<area shape="rect" id="node18" href="$de/d7d/classActs_1_1Surface.html#a1078beb10771d55a7b35d623eafcb6b5" title="Acts::Surface::surfaceMaterial" alt="" coords="265,361,490,389"/>
+<area shape="rect" id="node19" href="$d0/d33/structActs_1_1MaterialInteractor.html#ab117ae2aa0431e1e96cc02cb4d4ae2c4" title="This function update the previous material step." alt="" coords="287,413,468,457"/>
+<area shape="rect" id="node20" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a2fcdf3cae42e4294fcc1be0f0a1e40d3" title="Update the state." alt="" coords="265,481,490,525"/>
+<area shape="rect" id="node22" href="$dd/dcd/classActs_1_1TrackingVolume.html#a5c7983730f932b09045ebc3ea8e235c8" title="Return the material of the volume." alt="" coords="294,549,461,593"/>
+<area shape="rect" id="node4" href="$de/d7d/classActs_1_1Surface.html#a3d9443e5c01afd7f110ab492c20251c5" title="Acts::Surface::pathCorrection" alt="" coords="592,35,812,63"/>
+<area shape="rect" id="node5" href="$de/d46/classActs_1_1MaterialProperties.html#aa2d846213cad24137f66317b13e54088" title="Scale the material thickness by the given factor." alt="" coords="611,87,793,131"/>
+<area shape="rect" id="node8" href="$da/d7b/namespaceActs.html#a9fc90097203ac9df789419291414a5a0" title="Acts::computeEnergyLossBethe" alt="" coords="584,168,820,196"/>
+<area shape="rect" id="node9" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a852805642b7f5c67392359904233d7c7" title="Evaluates the contributions to the covariance matrix." alt="" coords="568,220,836,264"/>
+<area shape="rect" id="node10" href="$da/d7b/namespaceActs.html#ad7746afda7bc95e2a078c1ce4c0d2676" title="Acts::computeMultipleScattering\lTheta0" alt="" coords="885,152,1128,196"/>
+<area shape="rect" id="node13" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a9d0d7e35444d5f4a0ae7accb0a2c70db" title="Acts::VectorHelpers\l::perp" alt="" coords="929,220,1084,264"/>
+<area shape="rect" id="node14" href="$da/d7b/namespaceActs.html#a6a5206b2b98f8a2da212af6e53c11192" title="Acts::computeEnergyLossLandau\lSigmaQOverP" alt="" coords="884,288,1129,332"/>
+<area shape="rect" id="node11" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="1177,160,1288,188"/>
+<area shape="rect" id="node12" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1336,160,1512,188"/>
+<area shape="rect" id="node16" href="$de/d46/classActs_1_1MaterialProperties.html#a30ddaf0d30507bf15d7d44d917499e11" title="Return the radiation length fraction." alt="" coords="611,289,793,333"/>
+<area shape="rect" id="node17" href="$de/d46/classActs_1_1MaterialProperties.html#a5e37e73208c8ef7c324df82554723d3a" title="Return the nuclear interaction length fraction." alt="" coords="611,357,793,401"/>
+<area shape="rect" id="node21" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a3a05a84cb61c00e852e345a09767bdd8" title="Convenience method for better readability." alt="" coords="589,481,815,525"/>
+</map>

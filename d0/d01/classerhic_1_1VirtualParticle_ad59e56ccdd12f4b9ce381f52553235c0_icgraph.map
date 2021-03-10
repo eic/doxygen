@@ -1,0 +1,18 @@
+<map id="erhic::VirtualParticle::GetPz" name="erhic::VirtualParticle::GetPz">
+<area shape="rect" id="node2" href="$d9/dde/classerhic_1_1JacquetBlondelComputer.html#adfe97827e1bb885d506ba84311c61a17" title="erhic::JacquetBlondelComputer\l::ComputeY" alt="" coords="211,92,443,136"/>
+<area shape="rect" id="node12" href="$de/d88/classSmear_1_1Acceptance_1_1Zone.html#af532985cee1c2e8128abbc2d14eeff72" title="Smear::Acceptance::\lZone::Contains" alt="" coords="247,185,407,229"/>
+<area shape="rect" id="node13" href="$d9/dd8/namespaceSmear.html#a663bd2f272afd0427546f138d8dc6afb" title="Smear::GetVariable" alt="" coords="250,253,403,281"/>
+<area shape="rect" id="node17" href="$dd/df6/classEicEventGenerator.html#a40924445938964cff3db00bb4f59debe" title="EicEventGenerator::\lReadEvent" alt="" coords="249,305,405,349"/>
+<area shape="rect" id="node3" href="$d9/dde/classerhic_1_1JacquetBlondelComputer.html#acc0902af4ff35faaed3624a06a72d8b0" title="erhic::JacquetBlondelComputer\l::Calculate" alt="" coords="1051,73,1283,117"/>
+<area shape="rect" id="node10" href="$d9/dde/classerhic_1_1JacquetBlondelComputer.html#a7ede05d7772daaa0c189f35ccb08bb08" title="erhic::JacquetBlondelComputer\l::ComputeQSquared" alt="" coords="491,79,723,123"/>
+<area shape="rect" id="node11" href="$d9/dde/classerhic_1_1JacquetBlondelComputer.html#a8f1c36335d78d1b9fdc6841c8124ddab" title="erhic::JacquetBlondelComputer\l::ComputeX" alt="" coords="771,133,1003,177"/>
+<area shape="rect" id="node4" href="$db/d1e/classerhic_1_1Pythia6EventBuilder.html#ac97f6bf0d160fe3b6e4d6c7030c225e1" title="erhic::Pythia6EventBuilder\l::BuildEvent" alt="" coords="1338,5,1539,49"/>
+<area shape="rect" id="node7" href="$d2/d7d/classSmear_1_1Detector.html#a1f46fa238e78eca9726522e988ab2a20" title="Smear::Detector::FillEvent\lKinematics" alt="" coords="1339,73,1538,117"/>
+<area shape="rect" id="node9" href="$d7/d2d/classerhic_1_1EventFromAsciiFactory.html#a87f879311fa2aa356c6bc012c51c72ef" title="erhic::EventFromAsciiFactory\l::FinishEvent" alt="" coords="1331,141,1547,185"/>
+<area shape="rect" id="node5" href="$db/d1e/classerhic_1_1Pythia6EventBuilder.html#aa5e0e30aad8da53bea1611d16cee03bb" title="erhic::Pythia6EventBuilder\l::Create" alt="" coords="1595,5,1796,49"/>
+<area shape="rect" id="node6" href="$db/d1e/classerhic_1_1Pythia6EventBuilder.html#ab3445a82c3d944cbd8f39c1d5212c311" title="erhic::Pythia6EventBuilder\l::Fill" alt="" coords="1844,5,2045,49"/>
+<area shape="rect" id="node8" href="$d9/d1c/classSmear_1_1EventDisFactory.html#ad62ba3be7aea30c57cf6ccf41d7be91e" title="Smear::EventDisFactory\l::Create" alt="" coords="1604,73,1787,117"/>
+<area shape="rect" id="node14" href="$d2/d06/classSmear_1_1Acceptance_1_1CustomCut.html#a6a5768704901143c27cf752aa1290ec8" title="Smear::Acceptance::\lCustomCut::Contains" alt="" coords="525,199,689,243"/>
+<area shape="rect" id="node15" href="$d9/de1/classSmear_1_1Device.html#aeff74421cc6098556a73f48dbe80e540" title="Smear::Device::Smear" alt="" coords="520,267,693,295"/>
+<area shape="rect" id="node16" href="$d1/df3/classSmear_1_1Tracker.html#a81a81adda8d4d3a77f9e610851555c2c" title="Smear::Tracker::Smear" alt="" coords="519,319,695,347"/>
+</map>

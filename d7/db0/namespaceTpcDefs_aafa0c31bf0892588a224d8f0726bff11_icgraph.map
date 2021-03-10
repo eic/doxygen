@@ -1,0 +1,12 @@
+<map id="TpcDefs::getSide" name="TpcDefs::getSide">
+<area shape="rect" id="node2" href="$d1/dc5/classPHG4TpcDigitizer.html#a885fb5ebbc80c8a2ed915f762b90ad79" title="PHG4TpcDigitizer::Digitize\lCylinderCells" alt="" coords="197,5,395,49"/>
+<area shape="rect" id="node4" href="$dd/de6/classKFParticle__truthAndDetTools.html#a753df68f4ae1e50b41add756b07b4739" title="KFParticle_truthAndDetTools\l::fillDetectorBranch" alt="" coords="191,73,401,117"/>
+<area shape="rect" id="node7" href="$d7/db0/namespaceTpcDefs.html#a5f42c6b0f4cfea43db9931d43a62be77" title="Get the side id from cluskey." alt="" coords="227,141,365,169"/>
+<area shape="rect" id="node8" href="$d7/df2/classPHActsSourceLinks.html#a5a8d1102debed8f768e86f3999782f05" title="Same as above, except for TPC." alt="" coords="217,193,375,237"/>
+<area shape="rect" id="node10" href="$de/d25/classTpcClusterizer.html#a8dd29d5451a29cd488440e096a9f53d1" title="TpcClusterizer::process\l_event" alt="" coords="206,261,386,305"/>
+<area shape="rect" id="node11" href="$d7/ddb/classPHG4TpcElectronDrift.html#ab5238577dd79a8dc04c9ab7551da518d" title="PHG4TpcElectronDrift\l::process_event" alt="" coords="212,329,380,373"/>
+<area shape="rect" id="node3" href="$d1/dc5/classPHG4TpcDigitizer.html#a3a1281c04ddb169c704cc2c03a327e04" title="event processing" alt="" coords="449,5,649,49"/>
+<area shape="rect" id="node5" href="$d9/dae/classKFParticle__nTuple.html#ac32b873cf95657eb34d8b572ad692172" title="Fills required information for your selection, also requests truth and detector information if needed..." alt="" coords="476,73,623,117"/>
+<area shape="rect" id="node6" href="$d5/d72/classKFParticle__sPHENIX.html#a7e5ad7cf075fbf8e68a781e7721fec81" title="KFParticle_sPHENIX\l::process_event" alt="" coords="697,73,849,117"/>
+<area shape="rect" id="node9" href="$d7/df2/classPHActsSourceLinks.html#a6f9bd92adb0405e9b210bc1cd199f9dc" title="PHActsSourceLinks::\lprocess_event" alt="" coords="471,193,628,237"/>
+</map>

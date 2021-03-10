@@ -1,0 +1,33 @@
+<map id="fun4all_acts/blob/master/Plugins/TGeo/include/Acts/Plugins/TGeo/TGeoLayerBuilder.hpp" name="fun4all_acts/blob/master/Plugins/TGeo/include/Acts/Plugins/TGeo/TGeoLayerBuilder.hpp">
+<area shape="rect" id="node3" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="399,549,677,577"/>
+<area shape="rect" id="node5" href="$de/d2e/ILayerBuilder_8hpp.html" title="Acts/Geometry/ILayerBuilder.hpp" alt="" coords="2875,457,3121,485"/>
+<area shape="rect" id="node9" href="$db/d26/LayerCreator_8hpp.html" title="Acts/Geometry/LayerCreator.hpp" alt="" coords="556,121,800,149"/>
+<area shape="rect" id="node11" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="941,785,1154,813"/>
+<area shape="rect" id="node43" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="3698,709,3885,737"/>
+<area shape="rect" id="node47" href="$df/d6f/Units_8hpp.html" title="Acts/Utilities/Units.hpp" alt="" coords="2625,297,2801,325"/>
+<area shape="rect" id="node49" href="$dd/d5d/ITGeoIdentifierProvider_8hpp.html" title="Acts/Plugins/TGeo/ITGeoIdentifier\lProvider.hpp" alt="" coords="272,113,521,157"/>
+<area shape="rect" id="node10" href="$d1/d33/ApproachDescriptor_8hpp.html" title="Acts/Geometry/ApproachDescriptor.hpp" alt="" coords="906,457,1197,485"/>
+<area shape="rect" id="node15" href="$d8/d20/SurfaceArrayCreator_8hpp.html" title="Acts/Geometry/SurfaceArray\lCreator.hpp" alt="" coords="944,205,1159,249"/>
+<area shape="rect" id="node32" href="$d2/d0a/BinUtility_8hpp.html" title="Acts/Utilities/BinUtility.hpp" alt="" coords="2483,549,2684,577"/>
+<area shape="rect" id="node13" href="$db/d8d/Intersection_8hpp.html" title="Acts/Utilities/Intersection.hpp" alt="" coords="1827,549,2049,577"/>
+<area shape="rect" id="node16" href="$d0/d62/ProtoLayer_8hpp.html" title="Acts/Geometry/ProtoLayer.hpp" alt="" coords="1013,297,1241,325"/>
+<area shape="rect" id="node18" href="$d9/dc6/PlanarBounds_8hpp.html" title="Acts/Surfaces/PlanarBounds.hpp" alt="" coords="894,373,1137,401"/>
+<area shape="rect" id="node22" href="$d8/ddd/Surface_8hpp.html" title="Acts/Surfaces/Surface.hpp" alt="" coords="1589,373,1789,401"/>
+<area shape="rect" id="node38" href="$d3/de5/SurfaceArray_8hpp.html" title="Acts/Surfaces/SurfaceArray.hpp" alt="" coords="1297,297,1531,325"/>
+<area shape="rect" id="node19" href="$da/ddb/SurfaceBounds_8hpp.html" title="Acts/Surfaces/SurfaceBounds.hpp" alt="" coords="802,549,1053,577"/>
+<area shape="rect" id="node20" href="$d7/d50/BoundaryCheck_8hpp.html" title="Acts/Surfaces/BoundaryCheck.hpp" alt="" coords="1751,709,2007,737"/>
+<area shape="rect" id="node23" href="$dc/d45/DetectorElementBase_8hpp.html" title="Acts/Geometry/DetectorElement\lBase.hpp" alt="" coords="1603,449,1846,493"/>
+<area shape="rect" id="node24" href="$da/de0/GeometryObject_8hpp.html" title="Acts/Geometry/GeometryObject.hpp" alt="" coords="2348,457,2616,485"/>
+<area shape="rect" id="node25" href="$db/d40/Polyhedron_8hpp.html" title="Acts/Geometry/Polyhedron.hpp" alt="" coords="2225,549,2459,577"/>
+<area shape="rect" id="node28" href="$de/d09/BinningType_8hpp.html" title="Acts/Utilities/BinningType.hpp" alt="" coords="2921,785,3145,813"/>
+<area shape="rect" id="node30" href="$d5/dc6/GeometryStatics_8hpp.html" title="Acts/Geometry/GeometryStatics.hpp" alt="" coords="731,709,1001,737"/>
+<area shape="rect" id="node31" href="$d5/d50/BinnedArray_8hpp.html" title="Acts/Utilities/BinnedArray.hpp" alt="" coords="2101,457,2324,485"/>
+<area shape="rect" id="node37" href="$dd/d76/Surface_8ipp.html" title="Acts/Surfaces/detail\l/Surface.ipp" alt="" coords="1871,449,2027,493"/>
+<area shape="rect" id="node26" href="$d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html" title="Acts/Utilities/Helpers.hpp" alt="" coords="2724,709,2917,737"/>
+<area shape="rect" id="node33" href="$d3/d5e/BinningData_8hpp.html" title="Acts/Utilities/BinningData.hpp" alt="" coords="2569,633,2795,661"/>
+<area shape="rect" id="node35" href="$d8/db0/ThrowAssert_8hpp.html" title="Acts/Utilities/ThrowAssert.hpp" alt="" coords="3448,709,3673,737"/>
+<area shape="rect" id="node40" href="$d8/d7b/IAxis_8hpp.html" title="Acts/Utilities/IAxis.hpp" alt="" coords="1599,633,1773,661"/>
+<area shape="rect" id="node41" href="$de/d7d/Axis_8hpp.html" title="Acts/Utilities/detail\l/Axis.hpp" alt="" coords="1604,541,1752,585"/>
+<area shape="rect" id="node42" href="$db/d33/Grid_8hpp.html" title="Acts/Utilities/detail\l/Grid.hpp" alt="" coords="1432,541,1580,585"/>
+<area shape="rect" id="node50" href="$d9/dec/Identifier_8hpp.html" title="Acts/Plugins/Identification\l/Identifier.hpp" alt="" coords="298,205,495,249"/>
+</map>

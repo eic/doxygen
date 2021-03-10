@@ -1,0 +1,23 @@
+<map id="GFAbsRecoHit::getHMatrix" name="GFAbsRecoHit::getHMatrix">
+<area shape="rect" id="node2" href="$de/dc7/namespaceGFTools.html#ad0742700d3d71be9a86159212c83ae65" title="Get biased smoothed track covariance in plane coordinates." alt="" coords="252,5,496,33"/>
+<area shape="rect" id="node3" href="$de/dc7/namespaceGFTools.html#a62f67a852e90759fbbc1d260cf8d1420" title="Get biased smoothed track position in plane coordinates." alt="" coords="253,57,495,85"/>
+<area shape="rect" id="node9" href="$de/dc7/namespaceGFTools.html#ad8b1f30cfa44e8e6cdb85d74e4923cd4" title="GFTools::getBiasedSmoothed\lPosXYZ" alt="" coords="544,161,763,205"/>
+<area shape="rect" id="node12" href="$d0/de1/classGFKalman.html#acc724fe7b3b1538d5808c455d525b1c6" title="Calculates chi2 of a given hit with respect to a given track representation." alt="" coords="288,213,460,241"/>
+<area shape="rect" id="node13" href="$d4/d33/classGFTrack.html#a88c09537dc791d75150f39ce2c6df817" title="Get residuals." alt="" coords="289,265,459,293"/>
+<area shape="rect" id="node14" href="$de/dc7/namespaceGFTools.html#a53ff194048be98c35dc4bd93ec1c2c7c" title="Get smoothed chi2 for a specific hit (ihit)." alt="" coords="264,317,484,345"/>
+<area shape="rect" id="node15" href="$de/dc7/namespaceGFTools.html#a30132cf0bc199613439e3bb993f22638" title="Get smoothed track covariance in plane coordinates." alt="" coords="275,369,473,397"/>
+<area shape="rect" id="node16" href="$de/dc7/namespaceGFTools.html#a1e7a84898db70611f3d609edc77e6bb5" title="Get smoothed track position in plane coordinates." alt="" coords="276,421,472,449"/>
+<area shape="rect" id="node17" href="$de/dc7/namespaceGFTools.html#a44b006b5770704ffa5674c1e9eb94722" title="Get smoothed track position in global coordinates." alt="" coords="263,473,485,501"/>
+<area shape="rect" id="node19" href="$d0/de1/classGFKalman.html#a75a13f3e2a66f83503bafe2e7e4a3590" title="One Kalman step." alt="" coords="289,109,459,137"/>
+<area shape="rect" id="node4" href="$d1/dce/classGFDaf.html#a29568e85716d0ac4fd69d290f86ad98d" title="Calculate the weights for the next fitting pass." alt="" coords="827,57,981,85"/>
+<area shape="rect" id="node5" href="$d1/dce/classGFDaf.html#acae6182be114ea4c813d0bb8995343a4" title="Process a track using the DAF." alt="" coords="1051,57,1211,85"/>
+<area shape="rect" id="node6" href="$df/d62/classPndRecoDafFit.html#a71b624dff0fc50e252d2d2b9eed898ee" title="PndRecoDafFit::Fit" alt="" coords="1289,57,1433,85"/>
+<area shape="rect" id="node7" href="$d7/d87/classPndRecoKalmanTask.html#aa92916b999aeaf87e99fb08734ce368e" title="PndRecoKalmanTask::Exec" alt="" coords="1505,84,1705,112"/>
+<area shape="rect" id="node8" href="$d2/db6/classEicRecoKalmanTask.html#a10103a96af9664a82027040c505bfff1" title="EicRecoKalmanTask::Exec" alt="" coords="1753,84,1948,112"/>
+<area shape="rect" id="node10" href="$db/d6d/classPndRecoKalmanFit.html#af5a66632d2917c60057bd37109ec7364" title="PndRecoKalmanFit::Fit" alt="" coords="1045,165,1216,193"/>
+<area shape="rect" id="node11" href="$d2/d28/classPndRecoMultiKalmanTask.html#a79938b3ab7bca0cc183821c03520553a" title="PndRecoMultiKalmanTask\l::Exec" alt="" coords="1264,161,1457,205"/>
+<area shape="rect" id="node18" href="$de/dc7/namespaceGFTools.html#add6c55faefd02dca3257262feb8cf1b8" title="GFTools::getClosestHit" alt="" coords="567,473,740,501"/>
+<area shape="rect" id="node20" href="$d0/de1/classGFKalman.html#ad19563b99c556c39f3c00995741cda0c" title="Performs fit on a GFTrack beginning with the current hit." alt="" coords="569,109,738,137"/>
+<area shape="rect" id="node21" href="$d0/de1/classGFKalman.html#ae47486960d827df0e414e068dc6d25fb" title="Performs fit on a GFTrack." alt="" coords="811,109,997,137"/>
+<area shape="rect" id="node22" href="$d0/de1/classGFKalman.html#aff929179fdd81ad4eb7727bc75ce9b88" title="Operator for use with STL." alt="" coords="1047,109,1214,137"/>
+</map>

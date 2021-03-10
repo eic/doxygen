@@ -1,0 +1,12 @@
+<map id="TpcSpaceChargeReconstruction::calculate_distortions" name="TpcSpaceChargeReconstruction::calculate_distortions">
+<area shape="rect" id="node2" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#ad358344845d924487bf7aac85b03d5ad" title="TpcSpaceChargeReconstruction\lHelper::copy_histogram" alt="" coords="291,125,528,169"/>
+<area shape="rect" id="node3" href="$d1/d72/EIC-IR1-XX-v01a_8C.html#a3fd818ea23ff1d99b471adf13ea99242" title="ir" alt="" coords="675,133,714,161"/>
+<area shape="rect" id="node4" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#a594bcd9d7b19f073f6fcf7586fe4f8d9" title="first phi extrapolation" alt="" coords="291,5,528,49"/>
+<area shape="rect" id="node6" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#aadba00c7c59985c911340622722ced8a" title="second phi extrapolation" alt="" coords="291,193,528,237"/>
+<area shape="rect" id="node8" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#acaa4e69fe0e04a708011f342077ddf44" title="z extrapolation" alt="" coords="291,261,528,305"/>
+<area shape="rect" id="node9" href="$d3/d27/classTpcSpaceChargeReconstruction.html#a991e09778b2feb927f563cf0ca77d9b6" title="get cell from phi, r and z index" alt="" coords="291,329,528,373"/>
+<area shape="rect" id="node10" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#a200044900cddf5b63359d85e851daaff" title="separate positive and negative z histograms" alt="" coords="291,397,528,441"/>
+<area shape="rect" id="node11" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="321,465,497,493"/>
+<area shape="rect" id="node5" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#a7aea582870a04ab7d39aa0f45da9f4e9" title="get reference z range used for phi extrapolation normalization at a given radius" alt="" coords="576,5,813,49"/>
+<area shape="rect" id="node7" href="$d1/d22/EllipseBounds_8cpp.html#ab14acda17eb07a638824bb5e3873c586" title="square" alt="" coords="661,235,728,263"/>
+</map>

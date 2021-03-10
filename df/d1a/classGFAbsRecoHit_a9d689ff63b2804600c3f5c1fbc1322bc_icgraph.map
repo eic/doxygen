@@ -1,0 +1,8 @@
+<map id="GFAbsRecoHit::getRawHitCov" name="GFAbsRecoHit::getRawHitCov">
+<area shape="rect" id="node2" href="$de/dc7/namespaceGFTools.html#a53ff194048be98c35dc4bd93ec1c2c7c" title="Get smoothed chi2 for a specific hit (ihit)." alt="" coords="272,5,492,33"/>
+<area shape="rect" id="node3" href="$dd/d3c/classGFWirepointHitPolicy.html#a68208197947071aa94361ee84e1cce1f" title="Hit covariances in detector plane." alt="" coords="301,57,463,101"/>
+<area shape="rect" id="node4" href="$d7/df9/classGFWireHitPolicy.html#aaa6b3c53db13da753fb5578741b1bf05" title="Hit covariances in detector plane." alt="" coords="292,125,472,153"/>
+<area shape="rect" id="node5" href="$de/d6a/classGFPseudoSpacepointWireHitPolicy.html#a7237993e62b77673897e2ae86a9ab740" title="Hit covariances in detector plane." alt="" coords="275,177,489,221"/>
+<area shape="rect" id="node6" href="$df/db9/classGFSpacepointHitPolicy.html#a4c56d850615c0afc2de18090792e6326" title="Hit covariances in detector plane." alt="" coords="295,245,469,289"/>
+<area shape="rect" id="node7" href="$dc/de5/classGFPlanarHitPolicy.html#af216e15cd5cc7c003baefda5c922ef58" title="Hit covariances in detector plane." alt="" coords="308,313,456,357"/>
+</map>

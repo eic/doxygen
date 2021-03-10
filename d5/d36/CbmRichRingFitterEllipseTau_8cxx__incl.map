@@ -1,0 +1,5 @@
+<map id="EicRoot/blob/master/rich/fitter/CbmRichRingFitterEllipseTau.cxx" name="EicRoot/blob/master/rich/fitter/CbmRichRingFitterEllipseTau.cxx">
+<area shape="rect" id="node2" href="$d8/dc8/CbmRichRingFitterEllipseTau_8h.html" title="Here the ring is fitted with Taubin algorithm from A. Ayriyan, G. Ososkov, N. Chernov." alt="" coords="364,113,555,157"/>
+<area shape="rect" id="node4" href="$d0/dd0/CbmRichRingFitterEllipseBase_8h.html" title="Base class for concrete ellipse fitting algorithms. Each derived class must implement the method DoFi..." alt="" coords="95,205,285,249"/>
+<area shape="rect" id="node5" href="$d2/d05/CbmRichRingFitterBase_8h.html" title="Abstract base class for concrete Rich Ring fitting algorithms. Each derived class must implement the ..." alt="" coords="94,297,286,325"/>
+</map>

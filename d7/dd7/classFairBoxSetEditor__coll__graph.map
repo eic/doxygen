@@ -1,0 +1,24 @@
+<map id="FairBoxSetEditor" name="FairBoxSetEditor">
+<area shape="rect" id="node3" href="$d2/d63/classFairBoxSet.html" title="FairBoxSet" alt="" coords="2757,833,2851,861"/>
+<area shape="rect" id="node5" href="$d2/d33/classFairBoxSetDraw.html" title="FairBoxSetDraw" alt="" coords="3036,845,3164,873"/>
+<area shape="rect" id="node6" href="$d2/d9e/classFairTask.html" title="FairTask" alt="" coords="1993,1625,2068,1653"/>
+<area shape="rect" id="node45" href="$dd/dd2/classFairRun.html" title="FairRun" alt="" coords="2248,1393,2319,1421"/>
+<area shape="rect" id="node8" href="$db/da1/classFairLogger.html" title="FairLogger" alt="" coords="847,1508,939,1536"/>
+<area shape="rect" id="node15" href="$d0/d6c/classFairRootManager.html" title="FairRootManager" alt="" coords="1963,776,2099,804"/>
+<area shape="rect" id="node28" href="$d2/d88/classFairWriteoutBuffer.html" title="A container class to store digi data during events." alt="" coords="1205,493,1350,521"/>
+<area shape="rect" id="node46" href="$d7/d6f/classFairRuntimeDb.html" title="list of container factories" alt="" coords="1583,1479,1704,1507"/>
+<area shape="rect" id="node48" href="$d2/df2/classFairRunInfo.html" title="FairRunInfo" alt="" coords="1229,1713,1326,1741"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="473,1471,580,1499"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="228,1463,376,1507"/>
+<area shape="rect" id="node11" title="STL class." alt="" coords="5,1471,179,1499"/>
+<area shape="rect" id="node13" href="$d9/da4/classFairEventManager.html" title="FairEventManager" alt="" coords="2732,1100,2876,1128"/>
+<area shape="rect" id="node16" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="855,829,931,857"/>
+<area shape="rect" id="node23" href="$d8/d08/classFairTSBufferFunctional.html" title="A class to access time ordered data in a root branch." alt="" coords="1191,425,1364,453"/>
+<area shape="rect" id="node47" href="$d0/d2e/classFairParIo.html" title="FairParIo" alt="" coords="1238,1340,1317,1368"/>
+<area shape="rect" id="node24" href="$d1/d89/classBinaryFunctor.html" title="Base class for all functors which are used in the FairTSBufferFunctional." alt="" coords="835,219,951,247"/>
+<area shape="rect" id="node25" href="$d0/d09/classstd_1_1binary__function.html" title="std::binary_function\l\&lt; FairTimeStamp *,double,\l bool \&gt;" alt="" coords="425,203,628,263"/>
+<area shape="rect" id="node35" href="$d5/dc2/classFairFileHeader.html" title="FairFileHeader" alt="" coords="1584,1335,1703,1363"/>
+<area shape="rect" id="node37" href="$dd/db6/classFairEventHeader.html" title="FairEventHeader" alt="" coords="1576,1283,1711,1311"/>
+<area shape="rect" id="node43" href="$dd/d8f/classFairMCEventHeader.html" title="FairMCEventHeader" alt="" coords="1566,1231,1721,1259"/>
+<area shape="rect" id="node44" href="$de/da9/classFairRunAna.html" title="FairRunAna" alt="" coords="2497,1216,2594,1244"/>
+</map>

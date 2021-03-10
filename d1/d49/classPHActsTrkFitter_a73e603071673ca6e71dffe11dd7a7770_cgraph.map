@@ -1,0 +1,41 @@
+<map id="PHActsTrkFitter::loopTracks" name="PHActsTrkFitter::loopTracks">
+<area shape="rect" id="node2" href="$d7/d8b/classSvtxTrackMap.html#a15f80a007d4e598fd2da4609f6dac2d5" title="SvtxTrackMap::erase" alt="" coords="283,5,444,33"/>
+<area shape="rect" id="node3" href="$d1/d49/classPHActsTrkFitter.html#a1e5d8bf2903922225cb052e58364a32d" title="PHActsTrkFitter::fitTrack" alt="" coords="273,57,453,85"/>
+<area shape="rect" id="node4" href="$da/d7b/namespaceActs.html#a9b4dee934b0b193d57604b19bc8cd527" title="get default debug output logger" alt="" coords="274,109,453,137"/>
+<area shape="rect" id="node6" href="$da/d81/classActsTrack.html#a1a4c1d9d8f3aebd1de5ffadaede4b5e3" title="ActsTrack::getSourceLinks" alt="" coords="264,161,463,189"/>
+<area shape="rect" id="node7" href="$d1/d49/classPHActsTrkFitter.html#a592010218d4e76c4f0ea5db622d1f818" title="PHActsTrkFitter::getSurface\lVector" alt="" coords="261,333,465,377"/>
+<area shape="rect" id="node9" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="833,303,1009,331"/>
+<area shape="rect" id="node10" href="$d1/d49/classPHActsTrkFitter.html#aeb1f54f99ef839e900fb0490e45db5e4" title="PHActsTrkFitter::getTrack\lFitResult" alt="" coords="269,401,458,445"/>
+<area shape="rect" id="node35" href="$da/d81/classActsTrack.html#abb32bf427734cf34ea0b2424085384b2" title="ActsTrack::getTrackParams" alt="" coords="262,469,465,497"/>
+<area shape="rect" id="node36" href="$da/d81/classActsTrack.html#a18959cd08a9c278156ecaa3190545732" title="ActsTrack::getVertex" alt="" coords="283,521,444,549"/>
+<area shape="rect" id="node37" href="$d6/d71/classActs_1_1SingleTrackParameters.html#ac1bd158f8d4c527089f160c705339791" title="access position in global coordinate system" alt="" coords="256,573,471,617"/>
+<area shape="rect" id="node38" href="$d1/d49/classPHActsTrkFitter.html#a7a7cbe2bac87d6e9a9d1f23afcabc8fb" title="PHActsTrkFitter::setDefault\lCovariance" alt="" coords="263,641,464,685"/>
+<area shape="rect" id="node39" href="$d1/d49/classPHActsTrkFitter.html#a4260121e5477ea08361fe329a7061f6e" title="PHActsTrkFitter::updateActs\lProtoTrack" alt="" coords="260,265,467,309"/>
+<area shape="rect" id="node5" href="$dd/d94/fun4all__tutorials_2blob_2master_2materialscan_2matscan_8C.html#a388f572c62279f839ee138a9afbdeeb5" title="print" alt="" coords="615,109,668,137"/>
+<area shape="rect" id="node8" href="$d1/d49/classPHActsTrkFitter.html#a7e95dae8872eb8a1794c1e75a7c2e4bd" title="PHActsTrkFitter::checkSurfaceVec" alt="" coords="519,363,764,391"/>
+<area shape="rect" id="node11" href="$d1/d49/classPHActsTrkFitter.html#adb4fdc161353801b502e9d2055643f39" title="Convert the acts track fit result to an svtx track." alt="" coords="537,947,745,991"/>
+<area shape="rect" id="node12" href="$d7/d8b/classSvtxTrackMap.html#a3ee54a615443da184e8cfb267075fd34" title="SvtxTrackMap::find" alt="" coords="847,491,996,519"/>
+<area shape="rect" id="node13" href="$d2/db8/classSvtxTrack.html#a62d6cacd3af53d9dfea12d4c1468461a" title="SvtxTrack::identify" alt="" coords="848,543,995,571"/>
+<area shape="rect" id="node14" href="$d2/db8/classSvtxTrack.html#af80cbe431fc78760b0f5352fee9cd7be" title="SvtxTrack::size_cluster_keys" alt="" coords="815,595,1027,623"/>
+<area shape="rect" id="node15" href="$d2/db8/classSvtxTrack.html#a4b2e46378ac0037d212b9d88f806994b" title="SvtxTrack::clear_states" alt="" coords="833,647,1009,675"/>
+<area shape="rect" id="node16" href="$d2/db8/classSvtxTrack.html#a62c9ad59b222734b1cd2da16cb0e9850" title="SvtxTrack::clear_cluster_keys" alt="" coords="812,699,1031,727"/>
+<area shape="rect" id="node17" href="$d0/d6b/classSvtxTrackState__v1.html#a8815d4ed016c49132d6e187355651e27" title="SvtxTrackState_v1::\lset_x" alt="" coords="845,751,998,795"/>
+<area shape="rect" id="node18" href="$d0/d6b/classSvtxTrackState__v1.html#a6a1e3c69de08b684d4f489f7b4f49d10" title="SvtxTrackState_v1::\lset_y" alt="" coords="845,819,998,863"/>
+<area shape="rect" id="node19" href="$d0/d6b/classSvtxTrackState__v1.html#a5db3f41c1ea4d9216d19a4623720ea78" title="SvtxTrackState_v1::\lset_z" alt="" coords="845,887,998,931"/>
+<area shape="rect" id="node20" href="$d2/db8/classSvtxTrack.html#aeb781ba77d14d67d5ea048e72b69bcd4" title="SvtxTrack::insert_state" alt="" coords="834,955,1009,983"/>
+<area shape="rect" id="node21" href="$d2/db8/classSvtxTrack.html#a18c8f720eeedb9c674b54c8f52d3697f" title="SvtxTrack::set_x" alt="" coords="856,1007,987,1035"/>
+<area shape="rect" id="node22" href="$d2/db8/classSvtxTrack.html#ab0e48311fccbec6ef368a4a600831e18" title="SvtxTrack::set_y" alt="" coords="856,1059,987,1087"/>
+<area shape="rect" id="node23" href="$d2/db8/classSvtxTrack.html#a93a0bb7f2ef8cd3cdc54f288722c354d" title="SvtxTrack::set_z" alt="" coords="857,1111,986,1139"/>
+<area shape="rect" id="node24" href="$d2/db8/classSvtxTrack.html#aaa6c988d8858390af66a2d48c20163d8" title="SvtxTrack::set_px" alt="" coords="852,1163,991,1191"/>
+<area shape="rect" id="node25" href="$d2/db8/classSvtxTrack.html#adc6e666f9ce45ee387b8bdbd8dd7a073" title="SvtxTrack::set_py" alt="" coords="852,1215,991,1243"/>
+<area shape="rect" id="node26" href="$d2/db8/classSvtxTrack.html#ad8a65ae83ea1003983e03fe53bfd6a3c" title="SvtxTrack::set_pz" alt="" coords="852,1267,991,1295"/>
+<area shape="rect" id="node27" href="$d2/db8/classSvtxTrack.html#a92f6c8ea71a5f6c296add0685f485793" title="SvtxTrack::set_charge" alt="" coords="837,1319,1006,1347"/>
+<area shape="rect" id="node28" href="$d2/db8/classSvtxTrack.html#a2c871da20a59aac36175da6b95dac4c8" title="SvtxTrack::set_chisq" alt="" coords="843,1371,1000,1399"/>
+<area shape="rect" id="node29" href="$d2/db8/classSvtxTrack.html#a09a77e8979d620c1d764e377e6c2088e" title="SvtxTrack::set_ndf" alt="" coords="849,1423,994,1451"/>
+<area shape="rect" id="node30" href="$d2/db8/classSvtxTrack.html#a94452eb4bf544a0eb626a83dadc20e12" title="SvtxTrack::set_error" alt="" coords="843,1475,999,1503"/>
+<area shape="rect" id="node31" href="$d2/db8/classSvtxTrack.html#ab9151474e419bec4454dea58f1fc27ee" title="SvtxTrack::set_dca3d_xy" alt="" coords="828,1527,1015,1555"/>
+<area shape="rect" id="node32" href="$d2/db8/classSvtxTrack.html#abd2b7c260234cbb56a0c0dc38c6aa63a" title="SvtxTrack::set_dca3d_z" alt="" coords="832,1579,1011,1607"/>
+<area shape="rect" id="node33" href="$d2/db8/classSvtxTrack.html#ad67ac5094b48eb4b5d833d06e6527586" title="SvtxTrack::set_dca3d\l_xy_error" alt="" coords="839,355,1003,399"/>
+<area shape="rect" id="node34" href="$d2/db8/classSvtxTrack.html#a28dad8294aaa1f23b8aedac3fb22cf16" title="SvtxTrack::set_dca3d\l_z_error" alt="" coords="839,423,1003,467"/>
+<area shape="rect" id="node40" href="$df/da1/namespaceActs_1_1VectorHelpers.html#ac6f67f5c5ed3c1e890b77d8dac5e4a38" title="Access to the position components of input parameter." alt="" coords="564,295,719,339"/>
+</map>

@@ -1,0 +1,25 @@
+var classFairDbValidityRecBuilder =
+[
+    [ "kMAX_AGGREGATE_NO", "de/d9f/classFairDbValidityRecBuilder.html#a8d07a8736d02b86af005b7cc851f0ddda51da98c6ae23cddddfa50fc1d467074f", null ],
+    [ "FairDbValidityRecBuilder", "de/d9f/classFairDbValidityRecBuilder.html#a7a9ac47ddd1a540b8551f1ba8856fff0", null ],
+    [ "FairDbValidityRecBuilder", "de/d9f/classFairDbValidityRecBuilder.html#a6483cdcfcb9b720161a22f5eadbff227", null ],
+    [ "FairDbValidityRecBuilder", "de/d9f/classFairDbValidityRecBuilder.html#aa1f6158b40ca0566fd401f77d5220108", null ],
+    [ "~FairDbValidityRecBuilder", "de/d9f/classFairDbValidityRecBuilder.html#a5a9f6bab3b1a372471d8ca9d4efdae73", null ],
+    [ "AddNewAgg", "de/d9f/classFairDbValidityRecBuilder.html#a39f95d670a572f9235c79ac947afc0e7", null ],
+    [ "AddNewGap", "de/d9f/classFairDbValidityRecBuilder.html#af02fc56abb94a51e58989b3a507af477", null ],
+    [ "GetL2CacheName", "de/d9f/classFairDbValidityRecBuilder.html#a8cef61c8b075c3a43cefacdc94c12e7d", null ],
+    [ "GetNumValidityRec", "de/d9f/classFairDbValidityRecBuilder.html#a7bd9bcb6d1040036d007428447e268d1", null ],
+    [ "GetTask", "de/d9f/classFairDbValidityRecBuilder.html#a55ec233a9439905d23c9385a1d0a7db2", null ],
+    [ "GetValidityRec", "de/d9f/classFairDbValidityRecBuilder.html#adf659e89f2124665cc7df71c25b7c427", null ],
+    [ "GetValidityRecFromAggNo", "de/d9f/classFairDbValidityRecBuilder.html#afe0494227cd34032c8c6deac5d73050f", null ],
+    [ "GetValidityRecFromSeqNo", "de/d9f/classFairDbValidityRecBuilder.html#aaefe581d4ea9ee1943a7938a44ab813c", null ],
+    [ "IndexOfAggno", "de/d9f/classFairDbValidityRecBuilder.html#a628a27bcd74f78a94b08df90722ed179", null ],
+    [ "IsExtendedContext", "de/d9f/classFairDbValidityRecBuilder.html#a1d7bd76e72dd81dc7fb3ee5f2780e85e", null ],
+    [ "MakeGapRec", "de/d9f/classFairDbValidityRecBuilder.html#a947210458f6c8fdcef519286efae0fad", null ],
+    [ "NonAggregated", "de/d9f/classFairDbValidityRecBuilder.html#ab01718afbaff3781e2b93de1f611eed3", null ],
+    [ "fAggNoToIndex", "de/d9f/classFairDbValidityRecBuilder.html#a7fdb3ae6a8bee3ef127951fe067e65e5", null ],
+    [ "fGap", "de/d9f/classFairDbValidityRecBuilder.html#a2381b7bb18143b6446f9a40508bd5da4", null ],
+    [ "fIsExtendedContext", "de/d9f/classFairDbValidityRecBuilder.html#a280e230a524b84c09d65da08b649eb87", null ],
+    [ "fTask", "de/d9f/classFairDbValidityRecBuilder.html#a44a380470a07b790055d70ead566891b", null ],
+    [ "fVRecs", "de/d9f/classFairDbValidityRecBuilder.html#abd9ffbedc1c1141af342bd92f83825e8", null ]
+];

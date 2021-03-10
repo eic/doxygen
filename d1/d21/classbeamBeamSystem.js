@@ -1,0 +1,27 @@
+var classbeamBeamSystem =
+[
+    [ "beamBeamSystem", "d1/d21/classbeamBeamSystem.html#aac14ca0b0c51e0e8651451bcc747aefd", null ],
+    [ "beamBeamSystem", "d1/d21/classbeamBeamSystem.html#a83fb7a2b81fe36d5f524388a5c90499e", null ],
+    [ "~beamBeamSystem", "d1/d21/classbeamBeamSystem.html#aa4c0090be73563a51496add43bc500ca", null ],
+    [ "beam1", "d1/d21/classbeamBeamSystem.html#ae788c7578711e2e7b146a45e405f0426", null ],
+    [ "beam2", "d1/d21/classbeamBeamSystem.html#a5c6e0d37ec7b688b606a4b83f327f1e4", null ],
+    [ "beamLorentzGamma", "d1/d21/classbeamBeamSystem.html#aba7a66ef2c280d5effe7094d82334e1a", null ],
+    [ "cmsBoost", "d1/d21/classbeamBeamSystem.html#a7408ad410d6828890bb4dca1798a232e", null ],
+    [ "generateBreakupProbabilities", "d1/d21/classbeamBeamSystem.html#a1dc49bf0e642c7f195bab61365a8d68e", null ],
+    [ "init", "d1/d21/classbeamBeamSystem.html#a13163dd6ad71c1054e8a5c2fd6b1a84b", null ],
+    [ "probabilityOfBreakup", "d1/d21/classbeamBeamSystem.html#ac31d664ce09dda97e06c2cab564c1120", null ],
+    [ "probabilityOfHadronBreakup", "d1/d21/classbeamBeamSystem.html#a608ec29ae532e4b2028c43efa31fe8a9", null ],
+    [ "probabilityOfPhotonBreakup", "d1/d21/classbeamBeamSystem.html#a7e979186bb6eb7215364a3b4f62d8367", null ],
+    [ "_beam1", "d1/d21/classbeamBeamSystem.html#a2d46e6c855b0aa484ded5b1ce6cdae0b", null ],
+    [ "_beam2", "d1/d21/classbeamBeamSystem.html#a9be1cafc0b724be97be32def8f79a5bf", null ],
+    [ "_beamBreakupMode", "d1/d21/classbeamBeamSystem.html#a40a8ae495a6c33bb80bf44c727596e00", null ],
+    [ "_beamLorentzGamma", "d1/d21/classbeamBeamSystem.html#a35109373603c4a18cf3a344d0be1386c", null ],
+    [ "_beamLorentzGamma1", "d1/d21/classbeamBeamSystem.html#a597f53b32bbea1bd883837a972634965", null ],
+    [ "_beamLorentzGamma2", "d1/d21/classbeamBeamSystem.html#a041742913a831476d5937082d12914c5", null ],
+    [ "_breakupCutOff", "d1/d21/classbeamBeamSystem.html#aea35e77dea7330c1fb37deccfc206b5d", null ],
+    [ "_breakupImpactParameterStep", "d1/d21/classbeamBeamSystem.html#a525441631ca2eb82c48047d6b8b1d81d", null ],
+    [ "_breakupProbabilities", "d1/d21/classbeamBeamSystem.html#a00da218d262efd5d19a273ec6fcc774d", null ],
+    [ "_cmsBoost", "d1/d21/classbeamBeamSystem.html#a1f300adeaa3b950ba7069eb6f0864583", null ],
+    [ "_pHadronBreakup", "d1/d21/classbeamBeamSystem.html#ab63e99b6e4df5e1dbd36dae25e407f48", null ],
+    [ "_pPhotonBreakup", "d1/d21/classbeamBeamSystem.html#a051993ad24c1a145b90d7cbb21b670f3", null ]
+];

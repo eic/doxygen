@@ -1,0 +1,51 @@
+<map id="G4Setup" name="G4Setup">
+<area shape="rect" id="node2" href="$d7/d05/G4__Barrel__Hcal__JLeic_8C.html#aa4d93de43209f391e1b4d164a2c748b6" title="Barrel_Hcal" alt="" coords="210,508,307,536"/>
+<area shape="rect" id="node3" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="435,768,662,796"/>
+<area shape="rect" id="node8" href="$d4/de2/G4__BeamLine__JLeic_8C.html#a71a429d159497bb46f53bd5f0d948efb" title="BeamLine" alt="" coords="215,664,303,692"/>
+<area shape="rect" id="node11" href="$d4/dcd/G4__BlackHole_8C.html#a92bea2631f85d21edb1b7b8df67d0963" title="BlackHole" alt="" coords="215,1107,303,1135"/>
+<area shape="rect" id="node14" href="$d0/d45/G4__CTD__JLeic_8C.html#a8bdaece7dde005f5d6fc6d52b59c3dac" title="CTD" alt="" coords="234,716,283,744"/>
+<area shape="rect" id="node15" href="$d4/d98/G4__DRich__JLeic_8C.html#af9c6b6f8604aabb94c537a87edf7691e" title="DRich" alt="" coords="229,924,289,952"/>
+<area shape="rect" id="node16" href="$d1/d39/G4__EndCap__Electron__JLeic_8C.html#a7b5d8f3457ce83dc52ead881938c2ba2" title="EndCap_Electron" alt="" coords="191,560,326,588"/>
+<area shape="rect" id="node17" href="$d5/dc7/G4__EndCap__Hadron__JLeic_8C.html#a279edace215d74ef416e694b7541abd6" title="EndCap_Hadron" alt="" coords="194,984,323,1012"/>
+<area shape="rect" id="node20" href="$da/d7a/G4__Gem__JLeic_8C.html#a323850970b3ecebf04cf2329d8251422" title="Gem" alt="" coords="232,768,285,796"/>
+<area shape="rect" id="node22" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="458,2048,639,2076"/>
+<area shape="rect" id="node23" href="$d1/d48/G4__DIRC__JLeic_8C.html#aeb14b0e1331270e217893a53442fefe6" title="JLDIRC" alt="" coords="225,820,292,848"/>
+<area shape="rect" id="node25" href="$df/d68/G4__Magnet__Beast_8C.html#a83e97495646b8e137d52e66d486d9273" title="Magnet" alt="" coords="222,612,295,640"/>
+<area shape="rect" id="node26" href="$d1/df9/G4__Pipe_8C.html#a08cd22872149ee9d15a5b068c6aad7b4" title="Pipe" alt="" coords="234,1396,283,1424"/>
+<area shape="rect" id="node32" href="$da/d29/classFun4AllServer.html#a0a9947db0ede1e55622001eb7515f8c0" title="Fun4AllServer::registerSubsystem" alt="" coords="133,1950,384,1978"/>
+<area shape="rect" id="node38" href="$d0/d78/classPHG4Reco.html#af7a3ea8186b3f700913d0f0ab4a64535" title="set default magnetic field strength with a constant magnetic field. Only valid if set_field_map() is ..." alt="" coords="181,2002,337,2030"/>
+<area shape="rect" id="node39" href="$d0/d78/classPHG4Reco.html#a2b127807e9bccb2480da1e0493cc2bd1" title="PHG4Reco::set_field_map" alt="" coords="161,2054,356,2082"/>
+<area shape="rect" id="node40" href="$d0/d78/classPHG4Reco.html#a29cc7f3d84eb82b13e8425bc77e200e3" title="set default scaling factor for input magnetic field map. If available, Field map setting on DST take ..." alt="" coords="181,2106,337,2150"/>
+<area shape="rect" id="node41" href="$d0/d78/classPHG4Reco.html#a79765f3051dffcab10f2dd08c18e5f89" title="PHG4Reco::set_force\l_decay" alt="" coords="178,2174,339,2218"/>
+<area shape="rect" id="node42" href="$d0/d78/classPHG4Reco.html#a7f706bdb1798a3fb60c6cdfcca81600b" title="PHG4Reco::set_rapidity\l_coverage" alt="" coords="169,2242,349,2286"/>
+<area shape="rect" id="node45" href="$d1/dd8/G4__User_8C.html#a2cd25e21209f9ec3a852772c1b4725b5" title="UserDetector" alt="" coords="203,2310,314,2338"/>
+<area shape="rect" id="node46" href="$d1/ddd/G4__VTX__JLeic_8C.html#a251a27689a67b7b701f0bb38f7d0ce84" title="VTX" alt="" coords="234,1846,283,1874"/>
+<area shape="rect" id="node49" href="$d0/d40/G4__World_8C.html#aed74d88aca1521f12fd30916dbf7b686" title="WorldInit" alt="" coords="217,2362,300,2390"/>
+<area shape="rect" id="node50" href="$d0/d40/G4__World_8C.html#a06884d6c2d974776c4210d8c95ec8550" title="WorldSize" alt="" coords="215,2414,303,2442"/>
+<area shape="rect" id="node4" href="$d5/d29/classPHG4DetectorSubsystem.html#a48e75fd1738dab9d0d66b174053ead8f" title="PHG4DetectorSubsystem\l::set_double_param" alt="" coords="713,1034,905,1078"/>
+<area shape="rect" id="node5" href="$d5/d29/classPHG4DetectorSubsystem.html#a82c122f8a80f34dc4ffba6675ce60c75" title="PHG4DetectorSubsystem\l::set_string_param" alt="" coords="713,446,905,490"/>
+<area shape="rect" id="node6" href="$d5/d29/classPHG4DetectorSubsystem.html#a06d7265cdb191528ced9e78e73ba0f0a" title="PHG4DetectorSubsystem\l::SetActive" alt="" coords="453,700,645,744"/>
+<area shape="rect" id="node7" href="$d5/d29/classPHG4DetectorSubsystem.html#aa0c11d415a70a207a3ea851b28932dfd" title="PHG4DetectorSubsystem\l::SuperDetector" alt="" coords="453,632,645,676"/>
+<area shape="rect" id="node9" href="$d5/d29/classPHG4DetectorSubsystem.html#a5a52f44370d90e92bfb3ed0abf6dbb76" title="PHG4DetectorSubsystem\l::OverlapCheck" alt="" coords="453,1230,645,1274"/>
+<area shape="rect" id="node10" href="$d5/d29/classPHG4DetectorSubsystem.html#adf60f69cc9a72740cf39329f91a96451" title="PHG4DetectorSubsystem\l::SetAbsorberActive" alt="" coords="453,259,645,303"/>
+<area shape="rect" id="node12" href="$db/dc5/classPHG4CylinderSubsystem.html#a720cfcefbc8548018e28bbad59acaab3" title="PHG4CylinderSubsystem\l::set_color" alt="" coords="454,923,643,967"/>
+<area shape="rect" id="node13" href="$d5/d29/classPHG4DetectorSubsystem.html#a59a7a51adb7ebe0fdbc9d41e97ac8fd6" title="PHG4DetectorSubsystem\l::BlackHole" alt="" coords="453,1162,645,1206"/>
+<area shape="rect" id="node18" href="$db/df7/classPHG4Subsystem.html#ac78574e8db50df21c354ebb23c779dab" title="PHG4Subsystem::SetMother\lSubsystem" alt="" coords="443,1094,655,1138"/>
+<area shape="rect" id="node19" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="733,1602,886,1630"/>
+<area shape="rect" id="node21" href="$d5/d29/classPHG4DetectorSubsystem.html#a9c64b70e82272ef90f285ecaef1e50b4" title="PHG4DetectorSubsystem\l::set_int_param" alt="" coords="453,1298,645,1342"/>
+<area shape="rect" id="node24" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="525,1928,572,1956"/>
+<area shape="rect" id="node27" href="$d8/d6e/classPHG4ConeSubsystem.html#ab949c958f5a850ee5eb8c84164a650b5" title="set inner and outter radius1" alt="" coords="461,1588,637,1632"/>
+<area shape="rect" id="node28" href="$d8/d6e/classPHG4ConeSubsystem.html#ab8df6e0fc2d8a43dbfa63cb5a7611d61" title="set inner and outter radius2" alt="" coords="461,1656,637,1700"/>
+<area shape="rect" id="node29" href="$d8/d6e/classPHG4ConeSubsystem.html#a45e477e8cdc0c2d022451860c4887ab1" title="set length in Z" alt="" coords="461,1724,637,1768"/>
+<area shape="rect" id="node30" href="$d8/d6e/classPHG4ConeSubsystem.html#a8bcb0771f582cd5cfb1277ba363f84f2" title="PHG4ConeSubsystem::\lSetPlaceZ" alt="" coords="461,1792,637,1836"/>
+<area shape="rect" id="node31" href="$d8/d6e/classPHG4ConeSubsystem.html#af0ef2c815f2d67497b9eb6b9712482d5" title="PHG4ConeSubsystem::\lSetMaterial" alt="" coords="461,1418,637,1462"/>
+<area shape="rect" id="node33" href="$da/d29/classFun4AllServer.html#abcaf6825367e5db292ff795237bdcf62" title="Fun4AllServer::topNode" alt="" coords="458,2392,639,2420"/>
+<area shape="rect" id="node34" href="$d7/d96/classFun4AllMemoryTracker.html#a3841cc0bc6c4047da2b4868ba39dbb8c" title="Fun4AllMemoryTracker\l::Start" alt="" coords="461,2152,637,2196"/>
+<area shape="rect" id="node35" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="721,2228,897,2256"/>
+<area shape="rect" id="node36" href="$d0/d32/classSubsysReco.html#a6670c0a093dd2c2bdd44f8fc6f9ba8e8" title="SubsysReco::Init" alt="" coords="482,2288,615,2316"/>
+<area shape="rect" id="node37" href="$d7/d96/classFun4AllMemoryTracker.html#a766ac66dd36ffa4e3fbe6e622923565f" title="Fun4AllMemoryTracker\l::Stop" alt="" coords="461,2220,637,2264"/>
+<area shape="rect" id="node43" href="$df/da1/namespaceActs_1_1VectorHelpers.html#afc1703c2fa7adfd6517e5e16df2e5df4" title="Acts::VectorHelpers::eta" alt="" coords="717,2474,902,2502"/>
+<area shape="rect" id="node44" href="$df/d02/classPHG4Utils.html#a3f20349f7e3246c8c9161f65f36c5185" title="PHG4Utils::SetPseudoRapidity\lCoverage" alt="" coords="437,2496,661,2540"/>
+<area shape="rect" id="node47" href="$d7/d7f/classPHG4DetectorGroupSubsystem.html#a733a9f71c522dd7376ac44867b3d65fe" title="PHG4DetectorGroupSubsystem\l::SetActive" alt="" coords="432,1860,665,1904"/>
+<area shape="rect" id="node48" href="$d7/d7f/classPHG4DetectorGroupSubsystem.html#a8168d5dcbd8500614eabb4923ad4f8b2" title="PHG4DetectorGroupSubsystem\l::SuperDetector" alt="" coords="432,1980,665,2024"/>
+</map>

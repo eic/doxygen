@@ -1,0 +1,10 @@
+<map id="ActsFatras::ParticleSimulator::simulate" name="ActsFatras::ParticleSimulator::simulate">
+<area shape="rect" id="node2" href="$db/dfd/classActsFatras_1_1Particle.html#affd60965ee11f6a03a08e36fdc0e7851" title="Absolute momentum." alt="" coords="287,5,437,49"/>
+<area shape="rect" id="node3" href="$db/dfd/classActsFatras_1_1Particle.html#acf597772d569b8a942ba010e572b3af7" title="Particle charge." alt="" coords="287,73,437,117"/>
+<area shape="rect" id="node4" href="$dd/d7e/namespaceActs_1_1Test.html#adabd7b0a1454c86f076c8a465eb9e04b" title="Acts::Test::generator" alt="" coords="281,141,443,169"/>
+<area shape="rect" id="node5" href="$db/dfd/classActsFatras_1_1Particle.html#a9e136f344c2d49ee1220040c8be090c1" title="Particle mass." alt="" coords="287,193,437,237"/>
+<area shape="rect" id="node6" href="$db/dfd/classActsFatras_1_1Particle.html#afb30f8d2e20e1c91cb7160239e2e1c7f" title="PDG particle number that identifies the type." alt="" coords="269,261,455,289"/>
+<area shape="rect" id="node7" href="$db/dfd/classActsFatras_1_1Particle.html#a1086c72f8e0b531866be9e7046e61cfb" title="Three&#45;position, i.e. spatial coordinates without the time." alt="" coords="287,313,437,357"/>
+<area shape="rect" id="node8" href="$db/dfd/classActsFatras_1_1Particle.html#a39a6088fd371b8786d62d3c14f742248" title="Time coordinate." alt="" coords="287,381,437,425"/>
+<area shape="rect" id="node9" href="$db/dfd/classActsFatras_1_1Particle.html#a2b705dda0d1a118adb36f0ff15e614a9" title="Unit three&#45;direction, i.e. the normalized momentum three&#45;vector." alt="" coords="287,449,437,493"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="FW::makeRange" name="FW::makeRange">
+<area shape="rect" id="node2" href="$d7/dc4/exceptionFW_1_1TruthTrackFinder.html#a300b6c59d24ac2bb6ce86a2520e99892" title="FW::TruthTrackFinder\l::execute" alt="" coords="209,5,372,49"/>
+<area shape="rect" id="node3" href="$db/de1/classFW_1_1PrintHits.html#aeed4774fc40ef803395fe4a0b9944de0" title="FW::PrintHits::execute" alt="" coords="467,125,637,153"/>
+<area shape="rect" id="node4" href="$d1/d10/namespaceFW.html#a16c6523dbffbf3a30497e78695f49891" title="Identify all particles that contribute to the proto track and count hits." alt="" coords="198,281,383,325"/>
+<area shape="rect" id="node5" href="$d9/d05/structFW_1_1TrackFinderPerformanceWriter_1_1Impl.html#a4231c8126db542c5599aea49de73e989" title="FW::TrackFinderPerformance\lWriter::Impl::write" alt="" coords="445,311,659,355"/>
+<area shape="rect" id="node6" href="$df/d92/classFW_1_1GroupBy_1_1GroupIterator.html#ad78155a6143797a4691ddab7b12d3d5c" title="Derefence operator that returns the pointed&#45;to group of elements." alt="" coords="186,401,395,445"/>
+<area shape="rect" id="node7" href="$de/d56/exceptionFW_1_1CsvPlanarClusterReader.html#a488fac14b31c9db9059f202f28f54c1b" title="Read out data from the input stream." alt="" coords="184,469,397,513"/>
+<area shape="rect" id="node8" href="$d1/d10/namespaceFW.html#a195395d3a9c628d97aae95e47af4fd61" title="Select all elements within the given layer." alt="" coords="226,73,355,101"/>
+<area shape="rect" id="node10" href="$d1/d10/namespaceFW.html#ae56e91114613903df88fc95ebdebafcd" title="Select all elements for the given module / sensitive surface." alt="" coords="221,177,361,205"/>
+<area shape="rect" id="node12" href="$d1/d10/namespaceFW.html#a78182c356befea504eca254484bf18ca" title="Select all elements within the given volume." alt="" coords="220,229,361,257"/>
+<area shape="rect" id="node9" href="$d1/d10/namespaceFW.html#a418e7d5ac29cb83d57a42fcc8f6f1248" title="FW::selectLayer" alt="" coords="487,73,617,101"/>
+<area shape="rect" id="node11" href="$d1/d10/namespaceFW.html#a9a71fb6adb30c90581f5dd2ab69917b2" title="FW::selectModule" alt="" coords="482,177,622,205"/>
+<area shape="rect" id="node13" href="$d1/d10/namespaceFW.html#a0033c920ded64be4e4d4856ca102bf30" title="FW::selectVolume" alt="" coords="481,229,623,257"/>
+</map>

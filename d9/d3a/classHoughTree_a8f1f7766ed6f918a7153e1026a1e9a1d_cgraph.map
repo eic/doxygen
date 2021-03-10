@@ -1,0 +1,16 @@
+<map id="HoughTree::PurgeDuplicateTracks" name="HoughTree::PurgeDuplicateTracks">
+<area shape="rect" id="node2" href="$d1/da0/classMatchCandidate.html#ab227b0b2b084936c5184a927ebe6c195" title="MatchCandidate::IsActive" alt="" coords="270,35,463,63"/>
+<area shape="rect" id="node3" href="$d1/da0/classMatchCandidate.html#a3ecaec4eb43a0e6a513fc2fb7b8f1ea2" title="MatchCandidate::IsSubset" alt="" coords="267,87,466,115"/>
+<area shape="rect" id="node7" href="$d9/d3a/classHoughTree.html#aff3a1fc243f1913a042f16c6eec725e2" title="HoughTree::IsSubset" alt="" coords="286,323,447,351"/>
+<area shape="rect" id="node13" href="$d1/da0/classMatchCandidate.html#a2a0384503e3be6f4010cd67f6b7afd2e" title="MatchCandidate::SetInactive" alt="" coords="259,164,475,192"/>
+<area shape="rect" id="node4" href="$d9/d3a/classHoughTree.html#a7fbf35303e65f1fe340abdb1392b9183" title="HoughTree::GetGdim" alt="" coords="567,73,730,101"/>
+<area shape="rect" id="node5" href="$d1/da0/classMatchCandidate.html#a7b778ebd5c8190c9764dea7cb4914115" title="MatchCandidate::GetAlive\lMemberCount" alt="" coords="550,5,747,49"/>
+<area shape="rect" id="node6" href="$d1/da0/classMatchCandidate.html#afece449aac3c0e5cc449d14aba9414cf" title="MatchCandidate::GetGdim" alt="" coords="860,69,1060,97"/>
+<area shape="rect" id="node8" href="$d5/d55/classGroupMember.html#a5307f4e1dc08ec4432a9df33f5e2aafd" title="GroupMember::Begin" alt="" coords="566,297,731,325"/>
+<area shape="rect" id="node9" href="$d5/d55/classGroupMember.html#ab724bf17f7935d72c10a7792fd346d4a" title="GroupMember::End" alt="" coords="573,349,725,377"/>
+<area shape="rect" id="node10" href="$d1/da0/classMatchCandidate.html#aadb823b815939f421d965ad106f26f81" title="MatchCandidate::GetAlive\lMemberCount" alt="" coords="550,401,747,445"/>
+<area shape="rect" id="node11" href="$d1/da0/classMatchCandidate.html#a927280b1279d9e0647f71fe30517a7c8" title="MatchCandidate::GetLinear\lMemberCount" alt="" coords="545,229,752,273"/>
+<area shape="rect" id="node12" href="$d1/da0/classMatchCandidate.html#aca5b92473b36ee2f3b9e7d0e8cd0338e" title="MatchCandidate::GetSelMember" alt="" coords="839,349,1081,377"/>
+<area shape="rect" id="node14" href="$d1/da0/classMatchCandidate.html#a4bff28bad4c711c948599b37f70d75b5" title="MatchCandidate::ResetMemberPtr" alt="" coords="523,177,775,205"/>
+<area shape="rect" id="node15" href="$d5/d55/classGroupMember.html#ad41c6537fc73b27e04c520b276f9c26a" title="GroupMember::EraseMatchCandidate" alt="" coords="823,177,1097,205"/>
+</map>

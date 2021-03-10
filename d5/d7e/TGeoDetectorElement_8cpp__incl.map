@@ -1,0 +1,34 @@
+<map id="fun4all_acts/blob/master/Plugins/TGeo/src/TGeoDetectorElement.cpp" name="fun4all_acts/blob/master/Plugins/TGeo/src/TGeoDetectorElement.cpp">
+<area shape="rect" id="node6" href="$da/dd4/ISurfaceMaterial_8hpp.html" title="Acts/Material/ISurfaceMaterial.hpp" alt="" coords="3275,289,3530,317"/>
+<area shape="rect" id="node11" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="3279,557,3492,585"/>
+<area shape="rect" id="node12" href="$dd/d3e/TGeoDetectorElement_8hpp.html" title="Acts/Plugins/TGeo/TGeoDetector\lElement.hpp" alt="" coords="619,189,863,233"/>
+<area shape="rect" id="node17" href="$da/d17/TGeoPrimitivesHelpers_8hpp.html" title="Acts/Plugins/TGeo/TGeoPrimitives\lHelpers.hpp" alt="" coords="4377,465,4628,509"/>
+<area shape="rect" id="node18" href="$dc/db5/AnnulusBounds_8hpp.html" title="Acts/Surfaces/AnnulusBounds.hpp" alt="" coords="1947,289,2202,317"/>
+<area shape="rect" id="node26" href="$d8/d1e/CylinderBounds_8hpp.html" title="Acts/Surfaces/CylinderBounds.hpp" alt="" coords="1376,289,1632,317"/>
+<area shape="rect" id="node27" href="$d4/d17/CylinderSurface_8hpp.html" title="Acts/Surfaces/CylinderSurface.hpp" alt="" coords="1928,113,2184,141"/>
+<area shape="rect" id="node35" href="$d8/de8/DiscSurface_8hpp.html" title="Acts/Surfaces/DiscSurface.hpp" alt="" coords="2915,113,3144,141"/>
+<area shape="rect" id="node39" href="$d7/dec/PlaneSurface_8hpp.html" title="Acts/Surfaces/PlaneSurface.hpp" alt="" coords="3388,113,3625,141"/>
+<area shape="rect" id="node42" href="$d5/dfa/RadialBounds_8hpp.html" title="Acts/Surfaces/RadialBounds.hpp" alt="" coords="2246,289,2487,317"/>
+<area shape="rect" id="node43" href="$dc/d7d/RectangleBounds_8hpp.html" title="Acts/Surfaces/RectangleBounds.hpp" alt="" coords="1656,289,1923,317"/>
+<area shape="rect" id="node44" href="$da/d29/TrapezoidBounds_8hpp.html" title="Acts/Surfaces/TrapezoidBounds.hpp" alt="" coords="1163,197,1427,225"/>
+<area shape="rect" id="node9" href="$d3/d69/GeometryID_8hpp.html" title="Acts/Geometry/GeometryID.hpp" alt="" coords="3423,381,3662,409"/>
+<area shape="rect" id="node10" href="$d2/ddb/MaterialProperties_8hpp.html" title="Acts/Material/MaterialProperties.hpp" alt="" coords="3079,381,3347,409"/>
+<area shape="rect" id="node13" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="2613,289,2891,317"/>
+<area shape="rect" id="node14" href="$d4/db1/IdentifiedDetectorElement_8hpp.html" title="Acts/Plugins/Identification\l/IdentifiedDetectorElement.hpp" alt="" coords="446,281,682,325"/>
+<area shape="rect" id="node15" href="$d9/dec/Identifier_8hpp.html" title="Acts/Plugins/Identification\l/Identifier.hpp" alt="" coords="431,373,628,417"/>
+<area shape="rect" id="node19" href="$d2/dc0/DiscBounds_8hpp.html" title="Acts/Surfaces/DiscBounds.hpp" alt="" coords="2458,381,2686,409"/>
+<area shape="rect" id="node21" href="$d8/dfd/ParameterDefinitions_8hpp.html" title="Acts/Utilities/Parameter\lDefinitions.hpp" alt="" coords="1672,465,1853,509"/>
+<area shape="rect" id="node23" href="$da/d6d/periodic_8hpp.html" title="Acts/Utilities/detail\l/periodic.hpp" alt="" coords="1467,373,1615,417"/>
+<area shape="rect" id="node20" href="$da/ddb/SurfaceBounds_8hpp.html" title="Acts/Surfaces/SurfaceBounds.hpp" alt="" coords="3097,473,3348,501"/>
+<area shape="rect" id="node28" href="$d5/dc6/GeometryStatics_8hpp.html" title="Acts/Geometry/GeometryStatics.hpp" alt="" coords="3707,289,3978,317"/>
+<area shape="rect" id="node29" href="$db/d40/Polyhedron_8hpp.html" title="Acts/Geometry/Polyhedron.hpp" alt="" coords="2966,289,3199,317"/>
+<area shape="rect" id="node32" href="$d8/ddd/Surface_8hpp.html" title="Acts/Surfaces/Surface.hpp" alt="" coords="3117,197,3317,225"/>
+<area shape="rect" id="node33" href="$d6/d60/RealQuadraticEquation_8hpp.html" title="Acts/Utilities/detail\l/RealQuadraticEquation.hpp" alt="" coords="381,189,595,233"/>
+<area shape="rect" id="node34" href="$dc/d63/CylinderSurface_8ipp.html" title="Acts/Surfaces/detail\l/CylinderSurface.ipp" alt="" coords="1859,189,2019,233"/>
+<area shape="rect" id="node30" href="$d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html" title="Acts/Utilities/Helpers.hpp" alt="" coords="2037,381,2230,409"/>
+<area shape="rect" id="node36" href="$d9/d1e/InfiniteBounds_8hpp.html" title="Acts/Surfaces/InfiniteBounds.hpp" alt="" coords="3594,197,3841,225"/>
+<area shape="rect" id="node37" href="$da/d71/PlanarHelper_8hpp.html" title="Acts/Surfaces/detail\l/PlanarHelper.hpp" alt="" coords="3915,189,4071,233"/>
+<area shape="rect" id="node38" href="$d2/dc8/DiscSurface_8ipp.html" title="Acts/Surfaces/detail\l/DiscSurface.ipp" alt="" coords="2785,189,2941,233"/>
+<area shape="rect" id="node40" href="$d9/dc6/PlanarBounds_8hpp.html" title="Acts/Surfaces/PlanarBounds.hpp" alt="" coords="2711,381,2953,409"/>
+<area shape="rect" id="node41" href="$d2/d4a/PlaneSurface_8ipp.html" title="Acts/Surfaces/detail\l/PlaneSurface.ipp" alt="" coords="4095,189,4251,233"/>
+</map>

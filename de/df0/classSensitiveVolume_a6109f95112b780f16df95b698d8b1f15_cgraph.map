@@ -1,0 +1,12 @@
+<map id="SensitiveVolume::TrackToHitDistance" name="SensitiveVolume::TrackToHitDistance">
+<area shape="rect" id="node2" href="$d3/d78/classEicTrackingDigiHit.html#a581620d8d5649cf33217d526ee8b3202" title="EicTrackingDigiHit\l::_GetCoord" alt="" coords="262,5,406,49"/>
+<area shape="rect" id="node3" href="$d9/df2/3d_8cxx.html#ad7ca63a41ead959468bc87fb03cb7bbb" title="cross_p_l" alt="" coords="293,73,375,101"/>
+<area shape="rect" id="node4" href="$df/de7/classKalmanNodeWrapper.html#a44c423b76c6d0bd91f68fea92cda27a0" title="KalmanNodeWrapper::\lGetKfNode" alt="" coords="247,125,421,169"/>
+<area shape="rect" id="node5" href="$d3/d78/classEicTrackingDigiHit.html#a2c865a99f4ee04247ad6c71a0d8f9540" title="EicTrackingDigiHit\l::GetKfNodeID" alt="" coords="262,193,406,237"/>
+<area shape="rect" id="node6" href="$df/de7/classKalmanNodeWrapper.html#aeffb7ee86f450264e45417bc31c91759" title="KalmanNodeWrapper::\lGetKfNodeTemplate" alt="" coords="247,261,421,305"/>
+<area shape="rect" id="node7" href="$de/ddb/classKalmanNode.html#a5548694cac3566ca4e70a671341aa1e6" title="KalmanNode::GetMdim" alt="" coords="245,329,423,357"/>
+<area shape="rect" id="node8" href="$df/de7/classKalmanNodeWrapper.html#aee00a8622a53686a31aebc64234a1ef4" title="KalmanNodeWrapper::\lGetNodeToMasterMtx" alt="" coords="247,381,421,425"/>
+<area shape="rect" id="node9" href="$d7/d2a/classEicKfNodeTemplate.html#a46becc94e8835f5d46dd4bfadd0b7e26" title="EicKfNodeTemplate::\lThreeDeeToTemplate" alt="" coords="252,449,416,493"/>
+<area shape="rect" id="node11" href="$d5/dbe/EIC-IR1-XX-v00_8C.html#a888f39f7254b5b59976d577091d79a4e" title="vtx" alt="" coords="313,517,355,545"/>
+<area shape="rect" id="node10" href="$d7/d2a/classEicKfNodeTemplate.html#aa9a94d4d984f9d416722b5c912e11809" title="EicKfNodeTemplate::\lGetMdim" alt="" coords="471,449,631,493"/>
+</map>

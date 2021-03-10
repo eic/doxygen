@@ -1,0 +1,10 @@
+<map id="FairDbValidityRec::Trim" name="FairDbValidityRec::Trim">
+<area shape="rect" id="node2" href="$d9/df6/classValRange.html#a0b489c5e3dab431b268469d0aadc7718" title="ValRange::GetTimeEnd" alt="" coords="233,5,411,33"/>
+<area shape="rect" id="node3" href="$d9/df6/classValRange.html#af0136e7f8964a0d39a4df1b64f1d95cd" title="ValRange::GetTimeStart" alt="" coords="229,57,415,85"/>
+<area shape="rect" id="node4" href="$dd/da1/classFairDbValidityRec.html#ae56c62cc0c521287d484c53dd2d70f2a" title="FairDbValidityRec::\lGetValRange" alt="" coords="249,109,395,153"/>
+<area shape="rect" id="node5" href="$dd/da1/classFairDbValidityRec.html#a00174a75a9b771c842a9f823224bc36e" title="FairDbValidityRec::\lIsGap" alt="" coords="249,177,395,221"/>
+<area shape="rect" id="node6" href="$dd/da1/classFairDbValidityRec.html#abf2d776b082f64603ca0901547e5f259" title="FairDbValidityRec::\lSetTimeWindow" alt="" coords="249,245,395,289"/>
+<area shape="rect" id="node7" href="$d9/df6/classValRange.html#a502e56ba9ded1ffde74e1499170e43df" title="ValRange::GetDataSource" alt="" coords="470,201,667,229"/>
+<area shape="rect" id="node8" href="$d9/df6/classValRange.html#a77667c1e38e7789b27b642bb907c8225" title="ValRange::GetDetectorMask" alt="" coords="463,253,675,281"/>
+<area shape="rect" id="node9" href="$d9/df6/classValRange.html#a158a18ed3848b5c83d2677145f36dc4d" title="ValRange::GetSimMask" alt="" coords="479,305,659,333"/>
+</map>

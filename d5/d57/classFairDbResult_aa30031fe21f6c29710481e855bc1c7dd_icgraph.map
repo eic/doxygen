@@ -1,0 +1,14 @@
+<map id="FairDbResult::GetNumRows" name="FairDbResult::GetNumRows">
+<area shape="rect" id="node2" href="$d5/d57/classFairDbResult.html#a88dcb74bdf26184ce3f4688413742736" title="FairDbResult::BuildLookUp\lTable" alt="" coords="275,73,473,117"/>
+<area shape="rect" id="node5" href="$d9/d5d/classFairDbValRecSet.html#a0553df34b5b631494cb4a63bb49247d6" title="FairDbValRecSet::GetNumRows" alt="" coords="259,153,489,181"/>
+<area shape="rect" id="node7" href="$d5/d57/classFairDbResult.html#adf163350222ec15931728c08429d15e0" title="FairDbResult::RegisterKey" alt="" coords="277,209,471,237"/>
+<area shape="rect" id="node12" href="$da/dcf/classFairDbTableProxy.html#a02cbbec6c4efafb6bf12e5c17decdbac" title="FairDbTableProxy::SaveTo\lL2Cache" alt="" coords="785,269,977,313"/>
+<area shape="rect" id="node13" href="$d2/d4a/classFairDbCache.html#ad679b800df8f04bd925fe0ecd1784639" title="Secondary search." alt="" coords="293,313,455,341"/>
+<area shape="rect" id="node3" href="$d0/dfc/classFairDbResultNonAgg.html#a5ad57113fbd35d8428ac1a15c613b65d" title="FairDbResultNonAgg\l::GetTableRowByIndex" alt="" coords="551,5,723,49"/>
+<area shape="rect" id="node4" href="$d0/dfc/classFairDbResultNonAgg.html#a438e095d44a4161e554b45a3ff845489" title="FairDbResultNonAgg\l::Streamer" alt="" coords="557,73,716,117"/>
+<area shape="rect" id="node6" href="$d9/d5d/classFairDbValRecSet.html#abd95a606099abcc25784f85916558599" title="FairDbValRecSet::GetTable\lRowBySeqNo" alt="" coords="537,141,736,185"/>
+<area shape="rect" id="node8" href="$d2/d4a/classFairDbCache.html#a667e4ccf67f91abdcd51a101c36a656d" title="FairDbCache::Adopt" alt="" coords="559,209,715,237"/>
+<area shape="rect" id="node9" href="$da/dcf/classFairDbTableProxy.html#ad75a08a4e139462af72af1d3be9fd908" title="FairDbTableProxy::Query" alt="" coords="1027,209,1212,237"/>
+<area shape="rect" id="node11" href="$da/dcf/classFairDbTableProxy.html#a1acf2c61ce1e9b66caf0dd55f199363f" title="FairDbTableProxy::Restore\lFromL2Cache" alt="" coords="784,201,979,245"/>
+<area shape="rect" id="node10" href="$da/dcf/classFairDbTableProxy.html#a41685c7dbef8d48174f4483235bab4f9" title="FairDbTableProxy::Query" alt="" coords="1260,209,1445,237"/>
+</map>

@@ -1,0 +1,28 @@
+var classEicCalorimeterReconstruction =
+[
+    [ "EicCalorimeterReconstruction", "d0/dd5/classEicCalorimeterReconstruction.html#a4400dd7c6461c036937c638a9c048622", null ],
+    [ "EicCalorimeterReconstruction", "d0/dd5/classEicCalorimeterReconstruction.html#ab88a6e60f9bd779655896fb536c685f4", null ],
+    [ "~EicCalorimeterReconstruction", "d0/dd5/classEicCalorimeterReconstruction.html#a1c4b0312f9316aa90199a35e64cfcd9e", null ],
+    [ "AddNeighbors", "d0/dd5/classEicCalorimeterReconstruction.html#a3521f94ec1fe8edea87dfe9c5ad74d6d", null ],
+    [ "AreNeighbors", "d0/dd5/classEicCalorimeterReconstruction.html#a60fa8093cdb62a1707df38b8841e4c8a", null ],
+    [ "ClassDef", "d0/dd5/classEicCalorimeterReconstruction.html#a7a61fde070a205ddefd28432e10570e3", null ],
+    [ "Exec", "d0/dd5/classEicCalorimeterReconstruction.html#a0b08a8318b800fbe1152c282bc7d40b6", null ],
+    [ "Finish", "d0/dd5/classEicCalorimeterReconstruction.html#af95bd9ff660679c0b0b1d7fca13ba839", null ],
+    [ "Init", "d0/dd5/classEicCalorimeterReconstruction.html#a4e370cb1dcee2d8570124b7c9fcdd865", null ],
+    [ "RequestLightYieldPlot", "d0/dd5/classEicCalorimeterReconstruction.html#ad2b750191e8b77988335c3e6dceae7e4", null ],
+    [ "ResetVars", "d0/dd5/classEicCalorimeterReconstruction.html#a0df4ada66da80e58e36f2722561793b2", null ],
+    [ "SetClusterAlgorithmThresholds", "d0/dd5/classEicCalorimeterReconstruction.html#a7d954641715fe413ca2f56443393b590", null ],
+    [ "SetPhotonToEnergyConversionFactor", "d0/dd5/classEicCalorimeterReconstruction.html#ab1fbfe1b99c8a7a53b6733e5a428c097", null ],
+    [ "hmap", "d0/dd5/classEicCalorimeterReconstruction.html#a0edfeff2047d8c6755612b564869b8dc", null ],
+    [ "mCellGroups", "d0/dd5/classEicCalorimeterReconstruction.html#aa46a9c4658f934908b8bb8cec547980b", null ],
+    [ "mClusterGroupArray", "d0/dd5/classEicCalorimeterReconstruction.html#a70db8eda1a7fc1be4dd0e88b6337eae1", null ],
+    [ "mDetName", "d0/dd5/classEicCalorimeterReconstruction.html#a17d5edbf8d86c766108fef744acbee6e", null ],
+    [ "mDigi", "d0/dd5/classEicCalorimeterReconstruction.html#aa07c7e6d145d5379affc4c7085cd52ff", null ],
+    [ "mDigiHits", "d0/dd5/classEicCalorimeterReconstruction.html#ac2b28a7c2d05336b305a34ebe8558acf", null ],
+    [ "mGptr", "d0/dd5/classEicCalorimeterReconstruction.html#a48a555470ae54ccd75fe7dab01533c53", null ],
+    [ "mLightYieldPlot", "d0/dd5/classEicCalorimeterReconstruction.html#a6ec170a056e1dfc0d8b7474eaf48fb4e", null ],
+    [ "mLightYieldPlotMax", "d0/dd5/classEicCalorimeterReconstruction.html#a79d29af77510079148305b9d93330e15", null ],
+    [ "mLightYieldPlotNbins", "d0/dd5/classEicCalorimeterReconstruction.html#a3c8ad48cf0cc0954fcdd2c73140e36c5", null ],
+    [ "mLightYieldPlotRequested", "d0/dd5/classEicCalorimeterReconstruction.html#a90967b86cb5607ad9f21bc6e0f21e245", null ],
+    [ "mReco", "d0/dd5/classEicCalorimeterReconstruction.html#a28e0bb4714cc8d18c99e905358004f38", null ]
+];

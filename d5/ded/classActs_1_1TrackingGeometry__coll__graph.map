@@ -1,0 +1,12 @@
+<map id="Acts::TrackingGeometry" name="Acts::TrackingGeometry">
+<area shape="rect" id="node3" title="STL class." alt="" coords="1480,703,1569,731"/>
+<area shape="rect" id="node5" href="$dd/dcd/classActs_1_1TrackingVolume.html" title="Acts::TrackingVolume" alt="" coords="1899,487,2065,515"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="1031,695,1174,739"/>
+<area shape="rect" id="node6" href="$d2/d65/classActs_1_1Volume.html" title="Acts::Volume" alt="" coords="598,305,709,333"/>
+<area shape="rect" id="node9" href="$d4/d2a/classActs_1_1AxisAlignedBoundingBox.html" title="Acts::AxisAlignedBounding\lBox\&lt; Volume, double, 3 \&gt;" alt="" coords="1001,229,1205,273"/>
+<area shape="rect" id="node7" href="$d3/d07/classActs_1_1GeometryObject.html" title="Acts::GeometryObject" alt="" coords="260,305,432,333"/>
+<area shape="rect" id="node8" href="$d7/df5/classActs_1_1GeometryID.html" title="Acts::GeometryID" alt="" coords="5,305,147,333"/>
+<area shape="rect" id="node10" href="$d4/d2a/classActs_1_1AxisAlignedBoundingBox.html" title="Acts::AxisAlignedBounding\lBox\&lt; entity_t, value_t, DIM \&gt;" alt="" coords="544,103,763,147"/>
+<area shape="rect" id="node18" href="$d7/dc3/classActs_1_1GlueVolumesDescriptor.html" title="Acts::GlueVolumesDescriptor" alt="" coords="1415,583,1635,611"/>
+<area shape="rect" id="node22" href="$d5/d80/classActs_1_1BinnedArray.html" title="Acts::BinnedArray\&lt; T \&gt;" alt="" coords="1012,643,1193,671"/>
+</map>

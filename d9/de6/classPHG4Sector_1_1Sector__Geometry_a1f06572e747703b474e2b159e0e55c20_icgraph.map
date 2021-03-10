@@ -1,0 +1,18 @@
+<map id="PHG4Sector::Sector_Geometry::set_normal_start" name="PHG4Sector::Sector_Geometry::set_normal_start">
+<area shape="rect" id="node2" href="$de/d75/G4__Aerogel_8C.html#a400136ba4928234f7c9990b4065328f1" title="AerogelSetup" alt="" coords="536,5,649,33"/>
+<area shape="rect" id="node4" href="$d8/d50/G4__DIRC_8C.html#acbdf429e4e41a2057e053691cc0b4128" title="DIRCSetup" alt="" coords="333,57,426,85"/>
+<area shape="rect" id="node5" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html#ac44d1ef8dd3931eed6dd2ae0110ed8d1" title="FGEMSetup" alt="" coords="543,161,642,189"/>
+<area shape="rect" id="node9" href="$db/dd2/G4__TTL__EIC_8C.html#a1df938577e419daec28b17f4924541ed" title="make_forward_station" alt="" coords="295,265,464,293"/>
+<area shape="rect" id="node13" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html#a75ea364f15ac3286c935ec8dc4cc2830" title="make_GEM_station" alt="" coords="305,213,453,241"/>
+<area shape="rect" id="node15" href="$d1/db0/G4__FST__EIC_8C.html#a6eb2d721f9b0c95f5389d519290847a5" title="make_LANL_FST_station" alt="" coords="288,109,471,137"/>
+<area shape="rect" id="node17" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a9c6d5ef3b7cce30d922118e919daed8d" title="Intercept certain z point at certain polar angle." alt="" coords="271,317,488,361"/>
+<area shape="rect" id="node3" href="$dc/df3/fun4all__eic__qa_2blob_2master_2macros_2G4Setup__EICDetector_8C.html#a6b34584f88221280e9b276471822bd06" title="G4Setup" alt="" coords="777,67,857,95"/>
+<area shape="rect" id="node6" href="$db/dc2/Fun4All__G4__FastMom__GEM_8C.html#a1a327440b9a720678c12cb3ea194ad33" title="Fun4All_G4_FastMom_GEM" alt="" coords="717,239,918,267"/>
+<area shape="rect" id="node7" href="$d7/df9/Fun4All__G4__FastMom__GEM__RICH_8C.html#a836c38918acb22b3e8248037a93906fb" title="Fun4All_G4_FastMom\l_GEM_RICH" alt="" coords="735,171,899,215"/>
+<area shape="rect" id="node8" href="$d0/dd2/Fun4All__G4__simple__hadron__GEM_8C.html#a87dc5b61f33f769555984fa43a1cdff6" title="Fun4All_G4_simple_hadron_GEM" alt="" coords="697,119,937,147"/>
+<area shape="rect" id="node10" href="$db/dd2/G4__TTL__EIC_8C.html#a723ad093e7e67d81d3884242d5b53b00" title="ETTLSetup" alt="" coords="546,265,639,293"/>
+<area shape="rect" id="node12" href="$db/dd2/G4__TTL__EIC_8C.html#a5fbeba69a6b9ed5b6189ce6b8cb49a70" title="FTTLSetup" alt="" coords="547,317,639,345"/>
+<area shape="rect" id="node11" href="$d8/da0/G4Setup__ModularDetector_8C.html#a2f02606142212383317946c8ee8622a6" title="G4Setup" alt="" coords="777,300,857,328"/>
+<area shape="rect" id="node14" href="$de/d55/G4__GEM__EIC_8C.html#a04d0a097375d8e3f53970b906caf0d75" title="EGEMSetup" alt="" coords="543,213,643,241"/>
+<area shape="rect" id="node16" href="$d1/db0/G4__FST__EIC_8C.html#a9430db43e5bb79a306421c7b34580ac4" title="FSTSetup" alt="" coords="550,109,635,137"/>
+</map>

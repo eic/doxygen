@@ -1,0 +1,24 @@
+<map id="FW::WhiteBoard::get" name="FW::WhiteBoard::get">
+<area shape="rect" id="node2" href="$de/dec/classFW_1_1HelloLoggerAlgorithm.html#ab41c3b72fd1b7a735e3047223a295d60" title="FW::HelloLoggerAlgorithm\l::execute" alt="" coords="231,5,429,49"/>
+<area shape="rect" id="node3" href="$d1/d67/classFW_1_1PrintParticles.html#a71b69632719dcada9bac2618c6658856" title="FW::PrintParticles\l::execute" alt="" coords="261,73,399,117"/>
+<area shape="rect" id="node4" href="$d9/d08/exceptionFW_1_1FlattenEvent.html#a5d5c84e4de9357dcdf79a11ba1b52729" title="FW::FlattenEvent::execute" alt="" coords="231,141,429,169"/>
+<area shape="rect" id="node5" href="$dc/d4a/classFW_1_1HelloWhiteBoardAlgorithm.html#af3d1af2e7a853ec0e979b70dadaa59c0" title="Read input and copy to the output." alt="" coords="215,193,445,237"/>
+<area shape="rect" id="node6" href="$d7/dc4/exceptionFW_1_1TruthTrackFinder.html#a300b6c59d24ac2bb6ce86a2520e99892" title="FW::TruthTrackFinder\l::execute" alt="" coords="249,261,411,305"/>
+<area shape="rect" id="node7" href="$db/de1/classFW_1_1PrintHits.html#aeed4774fc40ef803395fe4a0b9944de0" title="FW::PrintHits::execute" alt="" coords="245,329,415,357"/>
+<area shape="rect" id="node8" href="$d7/dc0/classFWE_1_1VertexFindingAlgorithm.html#ab3301a6496e1063fd94be134301a6bb4" title="Algorithm that receives all selected tracks from an event and finds and fits its vertices." alt="" coords="221,381,439,425"/>
+<area shape="rect" id="node9" href="$d8/d01/exceptionFW_1_1TrackSelector.html#a9096584e0b38bba59d4b008265a5866e" title="FW::TrackSelector::\lexecute" alt="" coords="255,449,405,493"/>
+<area shape="rect" id="node10" href="$d9/dc3/classFWE_1_1VertexFitAlgorithm.html#a26478f3134d50a55c00cde82da893487" title="Algorithm that receives a set of tracks belonging to a common vertex and fits the associated vertex t..." alt="" coords="237,517,423,561"/>
+<area shape="rect" id="node11" href="$d6/d6d/exceptionFW_1_1HitSmearing.html#a057c519a30af6be7c5d79437a8a1b873" title="FW::HitSmearing::execute" alt="" coords="231,585,429,613"/>
+<area shape="rect" id="node12" href="$d3/d70/exceptionFW_1_1DigitizationAlgorithm.html#aa03b51246538d97eb3f9e6116e5eb39f" title="FW::DigitizationAlgorithm\l::execute" alt="" coords="233,637,427,681"/>
+<area shape="rect" id="node13" href="$d7/d52/exceptionFW_1_1ParticleSmearing.html#aafcabfc3de01c4c4b37801c58f191246" title="FW::ParticleSmearing\l::execute" alt="" coords="247,705,413,749"/>
+<area shape="rect" id="node14" href="$d3/d4c/classFW_1_1ParticleSelector.html#afd12ad74bcc7c1f065ee3dcec6eff915" title="FW::ParticleSelector\l::execute" alt="" coords="252,773,408,817"/>
+<area shape="rect" id="node15" href="$d1/df6/exceptionFW_1_1FittingAlgorithm.html#a67aaf223e0f1ed57802840140802becd" title="FW::FittingAlgorithm\l::execute" alt="" coords="251,841,409,885"/>
+<area shape="rect" id="node16" href="$df/d77/classFW_1_1TruthVerticesToTracksAlgorithm.html#a12677344d88c0282b69d80c7574dd527" title="FW::TruthVerticesToTracks\lAlgorithm::execute" alt="" coords="232,909,428,953"/>
+<area shape="rect" id="node17" href="$db/d3a/classFW_1_1MaterialMapping.html#ac2f4dd9f17cfbe8359289514933f89cf" title="FW::MaterialMapping\l::execute" alt="" coords="249,977,411,1021"/>
+<area shape="rect" id="node18" href="$d4/dd3/classFW_1_1WriterT.html#ab0b6153926cbe7e470b185d36e3ef4f3" title="Read the object and call the type&#45;specific member function." alt="" coords="259,1045,401,1073"/>
+<area shape="rect" id="node19" href="$d7/d01/exceptionFW_1_1TrackFinderPerformanceWriter.html#a10faace444e53d449929bbe3912df495" title="FW::TrackFinderPerformance\lWriter::writeT" alt="" coords="223,1097,437,1141"/>
+<area shape="rect" id="node20" href="$de/dbd/exceptionFW_1_1TrackFitterPerformanceWriter.html#a31716961ff0de1fe916797cc51292c39" title="FW::TrackFitterPerformance\lWriter::writeT" alt="" coords="227,1165,433,1209"/>
+<area shape="rect" id="node21" href="$d2/d48/exceptionFW_1_1CsvPlanarClusterWriter.html#a726e4a45606fa1d5eaac56bd3b3570c9" title="FW::CsvPlanarClusterWriter\l::writeT" alt="" coords="227,1233,433,1277"/>
+<area shape="rect" id="node22" href="$d7/d14/classFW_1_1RootPlanarClusterWriter.html#a397ae13725ef91e82985a8d83592b0cc" title="FW::RootPlanarClusterWriter\l::writeT" alt="" coords="223,1301,437,1345"/>
+<area shape="rect" id="node23" href="$d7/dc7/exceptionFW_1_1RootTrajectoryWriter.html#a3cd456dd5f2e39bf309bbb45568c1b85" title="Write method called by the base class." alt="" coords="235,1369,425,1413"/>
+</map>

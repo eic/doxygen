@@ -1,0 +1,425 @@
+\documentclass{article}
+\usepackage{epsfig}
+\pagestyle{empty}
+\begin{document}
+\[ \mathbf{m} = \mathbf{V} \cdot \sum_{i}p_{i}\cdot \mathbf{V}_{i}^{-1}\cdot \mathbf{m}_{i} \]
+\pagebreak
+
+$\mathbf{m_{i}}$
+\pagebreak
+
+$\mathbf{V}_{i}$
+\pagebreak
+
+$p_{i}$
+\pagebreak
+
+$\mathbf{V}$
+\pagebreak
+
+\[ \mathbf{V} = \frac{1}{p_{1}}\cdot\mathbf{V}_{1} \]
+\pagebreak
+
+\[ \mathbf{V} = \left( \sum_{i} p_{i} \cdot \left( \mathbf{V}_{i}\right)^{-1} \right)^{-1} \]
+\pagebreak
+
+\[ C_{k,\mbox{smooth}} = (C_{k,k-1,\rightarrow}^{-1}+C_{k,k+1,\leftarrow}^{-1})^{-1}. \\ \]
+\pagebreak
+
+\[ x_{k,\mbox{smooth}} = C_{k,\mbox{smooth}} \cdot ((C_{k,k-1,\rightarrow}^{-1}\cdot x_{k,k-1,\rightarrow} + C_{k,k+1,\leftarrow}^{-1}\cdot x_{k,k+1,\leftarrow}) \]
+\pagebreak
+
+\[ \left(\begin{array}{c} x'\\ y'\\ z'\\ a_{x}'\\ a_{y}'\\ a_{z}'\\ \frac{q}{p}'\end{array}\right)=\left(\begin{array}{ccccccc} \cos\psi & \sin\psi & 0\\ -\cos\vartheta\sin\psi & \cos\vartheta\cos\psi & \sin\psi\\ \sin\vartheta\sin\psi & -\sin\vartheta\cos\psi & \cos\vartheta\\ & & & \cos\psi & \sin\psi & 0\\ & & & -\cos\vartheta\sin\psi & \cos\vartheta\cos\psi & \sin\psi\\ & & & \sin\vartheta\sin\psi & -\sin\vartheta\cos\psi & \cos\vartheta\\ & & & & & & 1\end{array}\right)\left(\begin{array}{c} x\\ y\\ z\\ a_{x}\\ a_{y}\\ a_{z}\\ \frac{q}{p}\end{array}\right)=R^{T}\left(\begin{array}{c} x\\ y\\ z\\ a_{x}\\ a_{y}\\ a_{z}\\ \frac{q}{p}\end{array}\right)\]
+\pagebreak
+
+\[ \left(\begin{array}{c} x\\ y\\ z\\ a_{x}\\ a_{y}\\ a_{z}\\ \frac{q}{p}\end{array}\right)=\left(\begin{array}{ccccccc} \cos\psi & -\cos\vartheta\sin\psi & \sin\vartheta\sin\psi\\ \sin\psi & \cos\vartheta\cos\psi & -\sin\vartheta\cos\psi\\ 0 & \sin\psi & \cos\vartheta\\ & & & \cos\psi & -\cos\vartheta\sin\psi & \sin\vartheta\sin\psi\\ & & & \sin\psi & \cos\vartheta\cos\psi & -\sin\vartheta\cos\psi\\ & & & 0 & \sin\psi & \cos\vartheta\\ & & & & & & 1\end{array}\right)\left(\begin{array}{c} x'\\ y'\\ z'\\ a_{x}'\\ a_{y}'\\ a_{z}'\\ \frac{q}{p}'\end{array}\right)=R\left(\begin{array}{c} x'\\ y'\\ z'\\ a_{x}'\\ a_{y}'\\ a_{z}'\\ \frac{q}{p}'\end{array}\right) \]
+\pagebreak
+
+\begin{eqnarray*} \psi & = & \begin{cases} \begin{cases} \frac{\pi}{2} & a_{x} \geq 0 \\ \frac{3\pi}{2} & a_{x} < 0 \end{cases} & a_{y}=0 \mbox{ resp. } |a_{y}|<10^{-14} \\ - \arctan \frac{a_{x}}{a_{y}} & a_{y} < 0 \\ \pi - \arctan \frac{a_{x}}{a_{y}} & a_{y} > 0 \end{cases} \\ \vartheta & = & \arccos a_{z} \end{eqnarray*}
+\pagebreak
+
+$M$
+\pagebreak
+
+$\theta$
+\pagebreak
+
+$\theta_{1/2}=0$
+\pagebreak
+
+$N_{before}$
+\pagebreak
+
+$T$
+\pagebreak
+
+\[ M=\left(\begin{array}{cc} \sigma^{2} & 0\\ 0 & \sigma^{2}\end{array}\right)\]
+\pagebreak
+
+$\overline{M}$
+\pagebreak
+
+\begin{eqnarray*} x' & = & x'\\ y' & = & y'\\ z' & = & z'\\ a_{x}' & = & \sin\theta_{1}\\ a_{y}' & = & \sin\theta_{2}\\ a_{z}' & = & \sqrt{1-\sin^{2}\theta_{1}-\sin^{2}\theta_{2}}\\ \frac{q}{p}' & = & \frac{q}{p}'\end{eqnarray*}
+\pagebreak
+
+\[ J=\frac{\partial\left(x',y',z',a_{x}',a_{y}',a_{z}',\frac{q}{p}'\right)}{\partial\left(\theta_{1},\theta_{2}\right)}\]
+\pagebreak
+
+\[ J=\left(\begin{array}{cc} 0 & 0\\ 0 & 0\\ 0 & 0\\ \cos\theta_{1} & 0\\ 0 & \cos\theta_{2}\\ -\frac{\cos\theta_{1}\sin\theta_{1}}{\sqrt{\cos^{2}\theta_{1}-\sin^{2}\theta_{2}}} & -\frac{\cos\theta_{2}\sin\theta_{2}}{\sqrt{\cos^{2}\theta_{1}-\sin^{2}\theta_{2}}}\\ 0 & 0\end{array}\right) \overset{\theta_{1/2}=0}{=} \left(\begin{array}{cc} 0 & 0\\ 0 & 0\\ 0 & 0\\ 1 & 0\\ 0 & 1\\ 0 & 0\\ 0 & 0\end{array}\right)\]
+\pagebreak
+
+\[ \overline{M}=J\: M\: J^{T}=\left(\begin{array}{ccccccc} 0 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & \sigma^{2} & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & \sigma^{2} & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\end{array}\right)\]
+\pagebreak
+
+$N$
+\pagebreak
+
+\[ N=R\overline{M}R^{T}=\sigma^{2}\left(\begin{array}{ccccccc} 0 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & \cos^{2}\psi+\cos^{2}\theta-\cos^{2}\theta\cos^{2}\psi & \cos\psi\sin\psi\sin^{2}\theta & -\cos\theta\sin\psi\sin\theta & 0\\ 0 & 0 & 0 & \cos\psi\sin\psi\sin^{2}\theta & \sin^{2}\psi+\cos^{2}\theta\cos^{2}\psi & \cos\theta\cos\psi\sin\theta & 0\\ 0 & 0 & 0 & -\cos\theta\sin\psi\sin\theta & \cos\theta\cos\psi\sin\theta & \sin^{2}\theta & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\end{array}\right)\]
+\pagebreak
+
+$N_{after}$
+\pagebreak
+
+\begin{eqnarray*} C_{new} & = C_{old} + 0.5 \cdot T N_{before} T^{T} + 0.5 \cdot N_{after} \end{eqnarray*}
+\pagebreak
+
+\begin{eqnarray*} \boldsymbol{\mathbf{x}} & = \boldsymbol{\mathbf{O}}+u\boldsymbol{\mathbf{U}}+v\boldsymbol{\mathbf{V}} \\ \boldsymbol{\mathbf{a}} & = \frac{\boldsymbol{\mathbf{\widetilde{p}}}}{\widetilde{p}} \\ \frac{q}{p} & = \frac{q}{p} \end{eqnarray*}
+\pagebreak
+
+\begin{eqnarray*} \boldsymbol{\mathbf{\widetilde{p}}} & = spu \cdot \left(\boldsymbol{\mathbf{N}}+u^{\prime} \boldsymbol{\mathbf{U}} + v^{\prime} \boldsymbol{\mathbf{V}}\right) \\ \widetilde{p} & = \left| \boldsymbol{\mathbf{\widetilde{p}}} \right| \textrm{.} \end{eqnarray*}
+\pagebreak
+
+\begin{eqnarray*} \frac{q}{p} & = \frac{q}{p} \\ u^{\prime} & = \frac{\boldsymbol{\mathbf{a}} \boldsymbol{\mathbf{U}}}{\boldsymbol{\mathbf{a}} \boldsymbol{\mathbf{N}}} \\ v^{\prime} & = \frac{\boldsymbol{\mathbf{a}} \boldsymbol{\mathbf{V}}}{\boldsymbol{\mathbf{a}} \boldsymbol{\mathbf{N}}} \\ u & = \left(\boldsymbol{\mathbf{x}}-\boldsymbol{\mathbf{O}}\right)\boldsymbol{\mathbf{U}}\\ v & = \left(\boldsymbol{\mathbf{x}}-\boldsymbol{\mathbf{O}}\right)\boldsymbol{\mathbf{V}}\\ \end{eqnarray*}
+\pagebreak
+
+\begin{eqnarray*} spu & = \frac{\boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{N}}}{\left|\boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{N}} \right| }=\pm1 \textrm{.} \end{eqnarray*}
+\pagebreak
+
+\begin{eqnarray*} C_M & = J_{p,M} \, C_p \, J_{p,M}^T \\ J_{p,M} & = \begin{pmatrix} \frac{\partial x}{\partial\frac{q}{p}} & \frac{\partial x}{\partial u^{\prime}} & \frac{\partial x}{\partial v^{\prime}} & \frac{\partial x}{\partial u} & \frac{\partial x}{\partial v} \\ \frac{\partial y}{\partial\frac{q}{p}} & \frac{\partial y}{\partial u^{\prime}} & \frac{\partial y}{\partial v^{\prime}} & \frac{\partial y}{\partial u} & \frac{\partial y}{\partial v} \\ \frac{\partial z}{\partial\frac{q}{p}} & \frac{\partial z}{\partial u^{\prime}} & \frac{\partial z}{\partial v^{\prime}} & \frac{\partial z}{\partial u} & \frac{\partial z}{\partial v} \\ \frac{\partial a_{x}}{\partial\frac{q}{p}} & \frac{\partial a_{x}}{\partial u^{\prime}} & \frac{\partial a_{x}}{\partial v^{\prime}} & \frac{\partial a_{x}}{\partial u} & \frac{\partial a_{x}}{\partial v} \\ \frac{\partial a_{y}}{\partial\frac{q}{p}} & \frac{\partial a_{y}}{\partial u^{\prime}} & \frac{\partial a_{y}}{\partial v^{\prime}} & \frac{\partial a_{y}}{\partial u} & \frac{\partial a_{y}}{\partial v} \\ \frac{\partial a_{z}}{\partial\frac{q}{p}} & \frac{\partial a_{z}}{\partial u^{\prime}} & \frac{\partial a_{z}}{\partial v^{\prime}} & \frac{\partial a_{z}}{\partial u} & \frac{\partial a_{z}}{\partial v} \\ \frac{\partial\frac{q}{p}}{\partial\frac{q}{p}} & \frac{\partial\frac{q}{p}}{\partial u^{\prime}} & \frac{\partial\frac{q}{p}}{\partial v^{\prime}} & \frac{\partial\frac{q}{p}}{\partial u} & \frac{\partial\frac{q}{p}}{\partial v} \\ \end{pmatrix} \\ & = \begin{pmatrix} 0 & 0 & 0 & U_{x} & V_{x} \\ 0 & 0 & 0 & U_{y} & V_{y} \\ 0 & 0 & 0 & U_{z} & V_{z} \\ 0 & \frac{d}{\widetilde{p}} \left( U_{x} - \frac{\widetilde{p}_{x}}{\widetilde{p}^2} \boldsymbol{\mathbf{U}} \boldsymbol{\mathbf{\widetilde{p}}}\right) & \frac{d}{\widetilde{p}} \left( V_{x} - \frac{\widetilde{p}_{x}}{\widetilde{p}^2} \boldsymbol{\mathbf{V}} \boldsymbol{\mathbf{\widetilde{p}}}\right) & 0 & 0 \\ 0 & \frac{d}{\widetilde{p}} \left( U_{y} - \frac{\widetilde{p}_{x}}{\widetilde{p}^2} \boldsymbol{\mathbf{U}} \boldsymbol{\mathbf{\widetilde{p}}}\right) & \frac{d}{\widetilde{p}} \left( V_{y} - \frac{\widetilde{p}_{x}}{\widetilde{p}^2} \boldsymbol{\mathbf{V}} \boldsymbol{\mathbf{\widetilde{p}}}\right) & 0 & 0 \\ 0 & \frac{d}{\widetilde{p}} \left( U_{z} - \frac{\widetilde{p}_{x}}{\widetilde{p}^2} \boldsymbol{\mathbf{U}} \boldsymbol{\mathbf{\widetilde{p}}}\right) & \frac{d}{\widetilde{p}} \left( V_{z} - \frac{\widetilde{p}_{x}}{\widetilde{p}^2} \boldsymbol{\mathbf{V}} \boldsymbol{\mathbf{\widetilde{p}}}\right) & 0 & 0 \\ 1 & 0 & 0 & 0 & 0 \end{pmatrix} \\ C_p & = J_{M.p} \, C_M \, J_{M,p}^T \\ J_{M,p} & = \begin{pmatrix} \frac{\partial\frac{q}{p}}{\partial x} & \frac{\partial\frac{q}{p}}{\partial y} & \frac{\partial\frac{q}{p}}{\partial z} & \frac{\partial\frac{q}{p}}{\partial a_{x}} & \frac{\partial\frac{q}{p}}{\partial a_{y}} & \frac{\partial\frac{q}{p}}{\partial a_{z}} & \frac{\partial\frac{q}{p}}{\partial\frac{q}{p}} \\ \frac{\partial u^{\prime}}{\partial x} & \frac{\partial u^{\prime}}{\partial y} & \frac{\partial u^{\prime}}{\partial z} & \frac{\partial u^{\prime}}{\partial a_{x}} & \frac{\partial u^{\prime}}{\partial a_{y}} & \frac{\partial u^{\prime}}{\partial a_{z}} & \frac{\partial u^{\prime}}{\partial\frac{q}{p}} \\ \frac{\partial v^{\prime}}{\partial x} & \frac{\partial v^{\prime}}{\partial y} & \frac{\partial v^{\prime}}{\partial z} & \frac{\partial v^{\prime}}{\partial a_{x}} & \frac{\partial v^{\prime}}{\partial a_{y}} & \frac{\partial v^{\prime}}{\partial a_{z}} & \frac{\partial v^{\prime}}{\partial\frac{q}{p}} \\ \frac{\partial u}{\partial x} & \frac{\partial u}{\partial y} & \frac{\partial u}{\partial z} & \frac{\partial u}{\partial a_{x}} & \frac{\partial u}{\partial a_{y}} & \frac{\partial u}{\partial a_{z}} & \frac{\partial u}{\partial\frac{q}{p}} \\ \frac{\partial v}{\partial x} & \frac{\partial v}{\partial y} & \frac{\partial v}{\partial z} & \frac{\partial v}{\partial a_{x}} & \frac{\partial v}{\partial a_{y}} & \frac{\partial v}{\partial a_{z}} & \frac{\partial v}{\partial\frac{q}{p}} \\ \end{pmatrix} \\ & = \begin{pmatrix} 0 & 0 & 0 & 0 & 0 & 0 & 1\\ 0 & 0 & 0 & \frac{U_{x} \boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{N}} - N_{x} \boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{U}}}{\left(\boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{N}}\right)^{2}} & \frac{U_{y} \boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{N}} - N_{y} \boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{U}}}{\left(\boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{N}}\right)^{2}} & \frac{U_{z} \boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{N}} - N_{z} \boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{U}}}{\left(\boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{N}}\right)^{2}} & 0\\ 0 & 0 & 0 & \frac{V_{x} \boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{N}} - N_{x} \boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{V}}}{\left(\boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{N}}\right)^{2}} & \frac{V_{y} \boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{N}} - N_{y} \boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{V}}}{\left(\boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{N}}\right)^{2}} & \frac{V_{z} \boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{N}} - N_{z} \boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{V}}}{\left(\boldsymbol{\mathbf{a}}\boldsymbol{\mathbf{N}}\right)^{2}} & 0\\ U_{x} & U_{y} & U_{z} & 0 & 0 & 0 & 0\\ V_{x} & V_{y} & V_{z} & 0 & 0 & 0 & 0\\ \end{pmatrix} \end{eqnarray*}
+\pagebreak
+
+$\sigma \ge 0$
+\pagebreak
+
+$\phi$
+\pagebreak
+
+$ \left(p_1 \dots p_N \right)$
+\pagebreak
+
+$m$
+\pagebreak
+
+$ \left( p_{i_1} \dots p_{i_m} \right), i_1 < i_2 < \dots < i_m, m \le N, i_j \le N$
+\pagebreak
+
+$ \left(v^0_1 \dots v^0_N \right)$
+\pagebreak
+
+\[ \mathbb{R}^{N \times 1} \mapsto \mathbb{R}^{m \times 1} : \left( \begin{array}{c} v_1^0 \\ \vdots \\ v_N^0 \end{array} \right) \mapsto \left( \begin{array}{c} v_{i_1}^0 \\ \vdots \\ v_{i_m}^0 \end{array} \right) \]
+\pagebreak
+
+\[ \vec{r} = \left( \begin{array}{c} r_{i_1} \\ \vdots \\ r_{i_m} \end{array} \right) = \left( \begin{array}{c} v_{i_1} \\ \vdots \\ v_{i_m} \end{array} \right) - \mathrm{Proj} \left( \begin{array}{c} v^0_{1} \\ \vdots \\ v^0_{N} \end{array} \right) = \vec{v} - \mathrm{Proj} \left( \vec{v}^0 \right) \]
+\pagebreak
+
+$\mathrm{Proj}$
+\pagebreak
+
+$\vec{v}$
+\pagebreak
+
+$\vec{v}^0$
+\pagebreak
+
+\[ \vec{r} = \left( \begin{array}{c} r_{i_1} \\ \vdots \\ r_{i_m} \end{array} \right) = \left( \begin{array}{c} v_{i_1} \\ \vdots \\ v_{i_m} \end{array} \right) - \left( \begin{array}{c} v^0_{1} \\ \vdots \\ v^0_{N} \end{array} \right) = \vec{v} - \left( \vec{v}^0 \right) \]
+\pagebreak
+
+$ xy $
+\pagebreak
+
+$ z $
+\pagebreak
+
+$ yz $
+\pagebreak
+
+$ x $
+\pagebreak
+
+$ zx $
+\pagebreak
+
+$ y $
+\pagebreak
+
+$ r_{inner}=0 $
+\pagebreak
+
+$ z$
+\pagebreak
+
+$ r_{inner}>0 $
+\pagebreak
+
+$ r = r_{outer} $
+\pagebreak
+
+$ r = r_{inner} $
+\pagebreak
+
+$ r_{inner}>0$
+\pagebreak
+
+$ \phi < \pi $
+\pagebreak
+
+$z$
+\pagebreak
+
+$ r = r_{outer}$
+\pagebreak
+
+$ \phi $
+\pagebreak
+
+$x$
+\pagebreak
+
+$ x$
+\pagebreak
+
+$y$
+\pagebreak
+
+$ \tan(\alpha) $
+\pagebreak
+
+$ z_min $
+\pagebreak
+
+$ z_max $
+\pagebreak
+
+$x^2 + y^2 = z^2 \tan \alpha$
+\pagebreak
+
+$\alpha$
+\pagebreak
+
+$t$
+\pagebreak
+
+$x_1$
+\pagebreak
+
+$x_2$
+\pagebreak
+
+$(x,y,z) = \vec x_1 + (\vec x_2 - \vec x_2) t $
+\pagebreak
+
+$(x,y,z)$
+\pagebreak
+
+$ \vec x_d = \frac{\vec x_2 - \vec x_1}{|\vec x_2 - \vec x_1|} $
+\pagebreak
+
+$t^2 (x_d^2 + y_d^2 - z_d^2 \tan^2 \alpha) + 2 t (x_1 x_d + y_1 y_d - z_1 z_d \tan^2 \alpha) + (x_1^2 + y_1^2 - z_1^2 \tan^2 \alpha) = 0 $
+\pagebreak
+
+$x_d$
+\pagebreak
+
+$ 2\cdot\phi_{half}$
+\pagebreak
+
+$ \phi_{ave} $
+\pagebreak
+
+$ d_0 $
+\pagebreak
+
+$ \vec d = \vec m - \vec c $
+\pagebreak
+
+$ \vec d $
+\pagebreak
+
+$ \vec{measY}= \vec{Acts::eLOC_Z} $
+\pagebreak
+
+$ \vec{measX} = \vec{measY} \times \frac{\vec{p}}{|\vec{p}|} $
+\pagebreak
+
+$ d_{0} $
+\pagebreak
+
+$ \vec{d} $
+\pagebreak
+
+$ \vec{measX} $
+\pagebreak
+
+$ sign = -sign(\vec{d} \cdot \vec{measX}) $
+\pagebreak
+
+$ \vec l_{a}(\lambda) = \vec m_a + \lambda \cdot \vec e_{a} $
+\pagebreak
+
+$ \vec l_{b}(\mu) = \vec m_b + \mu \cdot \vec e_{b} $
+\pagebreak
+
+$ \vec s(\lambda, \mu) = \vec l_{b} - l_{a} = \vec m_{ab} + \mu \cdot \vec e_{b} - \lambda \cdot \vec e_{a} $
+\pagebreak
+
+$ \vec m_{ab} = \vec m_{b} - \vec m_{a} $
+\pagebreak
+
+$ \vec s(u, \mu_0) $
+\pagebreak
+
+$ \vec l_{a,0} = l_{a}(u) $
+\pagebreak
+
+$ \vec l_{b,0} = l_{b}(\mu_0) $
+\pagebreak
+
+$ \vec e_{a} $
+\pagebreak
+
+$ \vec e_{b} $
+\pagebreak
+
+$ 0 = \vec s(u, \mu_0) \cdot \vec e_a = \vec m_ab \cdot \vec e_a + \mu_0 \vec e_a \cdot \vec e_b - u $
+\pagebreak
+
+$ 0 = \vec s(u, \mu_0) \cdot \vec e_b = \vec m_ab \cdot \vec e_b + \mu_0 - u \vec e_b \cdot \vec e_a $
+\pagebreak
+
+$ u $
+\pagebreak
+
+$ \mu_0 $
+\pagebreak
+
+$ u = \frac{(\vec m_ab \cdot \vec e_a)-(\vec m_ab \cdot \vec e_b)(\vec e_a \cdot \vec e_b)}{1-(\vec e_a \cdot \vec e_b)^2} $
+\pagebreak
+
+$ \mu_0 = - \frac{(\vec m_ab \cdot \vec e_b)-(\vec m_ab \cdot \vec e_a)(\vec e_a \cdot \vec e_b)}{1-(\vec e_a \cdot \vec e_b)^2} $
+\pagebreak
+
+$ \vec n \cdot \vec x = \vec n \cdot \vec p,$
+\pagebreak
+
+$ \vec n = (n_{x}, n_{y}, n_{z})$
+\pagebreak
+
+$ \vec p = (p_{x}, p_{y}, p_{z})$
+\pagebreak
+
+$ \vec x = (x,y,z) $
+\pagebreak
+
+$ \vec l(u) = \vec l_{1} + u \cdot \vec v $
+\pagebreak
+
+$ u = \frac{\vec n (\vec p - \vec l_{1})}{\vec n \vec v}$
+\pagebreak
+
+$ eta $
+\pagebreak
+
+$ |x_{min}| $
+\pagebreak
+
+$ | x_{max} | $
+\pagebreak
+
+$ | y_{H} | $
+\pagebreak
+
+$ y = \kappa_{I} x + \delta_{I} $
+\pagebreak
+
+$ y = \kappa_{II} x + \delta_{II} $
+\pagebreak
+
+$ \kappa_{I} = - \kappa_{II} = 2 \frac{y_{H}}{x_{max} - x_{min}} $
+\pagebreak
+
+$ \delta_{I} = \delta_{II} = - \frac{1}{2}\kappa_{I}(x_{max} + x_{min}) $
+\pagebreak
+
+$[\text{xmin},\text{xmax})$
+\pagebreak
+
+$\text{nBins}$
+\pagebreak
+
+$l <= x < u$
+\pagebreak
+
+$1 \le \text{bin} \le \text{nBins} + 1$
+\pagebreak
+
+$0 \le \text{bin} \le \text{nBins}$
+\pagebreak
+
+$1 \le \text{bin} \le \text{nBins}$
+\pagebreak
+
+$\text{xmin} \le x < \text{xmax}$
+\pagebreak
+
+$\text{xmin_i} \le x_i < \text{xmax}_i \forall i=0, \dots, d-1$
+\pagebreak
+
+$2 \times \text{size}+1$
+\pagebreak
+
+$2^d$
+\pagebreak
+
+$d$
+\pagebreak
+
+$2^d = N $
+\pagebreak
+
+$ \alpha x^{2} + \beta x + \gamma = 0 $
+\pagebreak
+
+$ x_{1, 2} = - \frac{\beta \pm \sqrt{\beta^{2}-4\alpha\gamma}}{2\alpha}$
+\pagebreak
+
+$ \beta > 0 $
+\pagebreak
+
+$ x_{1} = - \frac{\beta + \sqrt{\beta^{2}-4\alpha\gamma}}{2\alpha} := \frac{q}{\alpha}$
+\pagebreak
+
+$ q= -\frac{1}{2}(\beta+sqrt{\beta^{2}-4\alpha\gamma})$
+\pagebreak
+
+$ x_{2} $
+\pagebreak
+
+$ x_{2} = \frac{\gamma}{q} = -\frac{2\gamma}{\beta+sqrt{\beta^{2}-4\alpha\gamma}}$
+\pagebreak
+
+$ -\frac{2\gamma}{\beta+sqrt{\beta^{2}-4\alpha\gamma}} = -\frac{2\gamma}{\beta}\frac{1}{1+\sqrt{1-4\alpha\gamma/\beta^{2}}}$
+\pagebreak
+
+$ x_{2}\frac{1}{1-\sqrt{1-4\alpha\gamma/\beta^{2}}} = -\frac{2\gamma}{\beta}\frac{1}{1-1+4\alpha\gamma/\beta^{2}}=-\frac{\beta}{2\alpha}.$
+\pagebreak
+
+$ -\frac{\beta(1-\sqrt{1-4\alpha\gamma/\beta^{2}}}{2\alpha} = - \frac{\beta - \sqrt{\beta^{2}-4\alpha\gamma}}{2\alpha} $
+\pagebreak
+
+$\text{lowerCorner}[i] \le \text{position}[i] \le \text{upperCorner}[i] \quad \forall i=0, \dots, d-1$
+\pagebreak
+
+$[-2^{53}+1, 2^{53}-1]$
+\pagebreak
+
+\end{document}

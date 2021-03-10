@@ -1,0 +1,51 @@
+<map id="VertexFitFunc::calcValGradHessian" name="VertexFitFunc::calcValGradHessian">
+<area shape="rect" id="node2" href="$d6/dd9/classHelixDCAFunc.html#aeb59379b149e6aa57762a8c460caed82" title="HelixDCAFunc::calcValGrad\lHessian" alt="" coords="281,149,487,193"/>
+<area shape="rect" id="node4" href="$df/de1/g_8f.html#ab66fda597951401eedd2aa690ea3efb3" title="g" alt="" coords="365,368,403,396"/>
+<area shape="rect" id="node41" href="$d6/dd9/classHelixDCAFunc.html#aca6a707dff1febc1e532ccc4e555d183" title="HelixDCAFunc::getPoint" alt="" coords="293,456,475,484"/>
+<area shape="rect" id="node42" href="$d6/dd9/classHelixDCAFunc.html#ae85932b9d2b664a9bd7d9aaacdb69176" title="HelixDCAFunc::getPointCovariance" alt="" coords="256,508,512,536"/>
+<area shape="rect" id="node43" href="$d6/dd9/classHelixDCAFunc.html#a15e1b68328f2c715b77e3d59098be2bc" title="HelixDCAFunc::getTangent" alt="" coords="283,560,485,588"/>
+<area shape="rect" id="node44" href="$d1/d34/classFitNewton_1_1NewtonMinimizerGradHessian.html#a9e8e1f25d3e9a1721cf3d784fd954143" title="FitNewton::NewtonMinimizer\lGradHessian::minimize" alt="" coords="277,680,491,724"/>
+<area shape="rect" id="node48" href="$d6/dd9/classHelixDCAFunc.html#abcc07d4231ce0cdaa60b667342c3eed4" title="HelixDCAFunc::setCovariance" alt="" coords="273,748,495,776"/>
+<area shape="rect" id="node49" href="$d2/d79/classFitNewton_1_1FunctionGradHessian.html#a5561d8485787ff8c8c1fd4054c3bf453" title="FitNewton::FunctionGradHessian\l::setFixedPar" alt="" coords="263,800,505,844"/>
+<area shape="rect" id="node50" href="$d1/d34/classFitNewton_1_1NewtonMinimizerGradHessian.html#a825721155cad1b3168b07b9eb6ace984" title="FitNewton::NewtonMinimizer\lGradHessian::setFunction" alt="" coords="277,612,491,656"/>
+<area shape="rect" id="node3" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="659,5,703,33"/>
+<area shape="rect" id="node5" href="$db/da1/classHiParnt.html#ac653b598baeeca89d06693fdf4688f38" title="HiParnt::hint1" alt="" coords="866,505,979,533"/>
+<area shape="rect" id="node9" href="$db/da1/classHiParnt.html#a28a5a24ec376a6790e610d7fcc0f5b8e" title="HiParnt::hipr1" alt="" coords="866,609,979,637"/>
+<area shape="rect" id="node11" href="$db/da1/classHiParnt.html#a0d759f134daae3226a7744c9920bd769" title="HiParnt::ihnt2" alt="" coords="866,401,979,429"/>
+<area shape="rect" id="node13" href="$db/da1/classHiParnt.html#a1c6a5924524a08fe9641adc64095c0b9" title="HiParnt::ihpr2" alt="" coords="866,453,979,481"/>
+<area shape="rect" id="node15" href="$db/d20/parton_8f.html#aa0edf2e3bc4c9634a0c0e2ee25615ad2" title="parton" alt="" coords="648,576,713,604"/>
+<area shape="rect" id="node34" href="$df/dbd/subcrs1_8f.html#a80ed92a4b950b1bc7a4645a50f2fe238" title="subcrs1" alt="" coords="644,160,717,188"/>
+<area shape="rect" id="node35" href="$d9/d3c/subcrs2_8f.html#a8675bc8ab9d784589f12a921083febd0" title="subcrs2" alt="" coords="644,212,717,240"/>
+<area shape="rect" id="node36" href="$da/d28/subcrs3_8f.html#ad007962b7dec45c1f9f82b40049e322a" title="subcrs3" alt="" coords="644,264,717,292"/>
+<area shape="rect" id="node37" href="$db/d57/subcrs4_8f.html#a5469d7fcc2d0d225eb5498e6e0f22593" title="subcrs4" alt="" coords="643,316,718,344"/>
+<area shape="rect" id="node38" href="$dc/d30/subcrs5_8f.html#aa74d858d6a64c2fb995cb5de6b200077" title="subcrs5" alt="" coords="644,368,717,396"/>
+<area shape="rect" id="node39" href="$d8/db8/subcrs6_8f.html#a613c668506b47494c9b8e2dc5c8d2b37" title="subcrs6" alt="" coords="643,420,718,448"/>
+<area shape="rect" id="node40" href="$d5/d6a/subcrs7_8f.html#a19bfa2f005cd1007a31c5279f9d80fc0" title="subcrs7" alt="" coords="644,472,717,500"/>
+<area shape="rect" id="node6" href="$db/da1/classHiParnt.html#aec7bbf54e836c6b58a40be4e79292972" title="HiParnt::init" alt="" coords="1102,505,1203,533"/>
+<area shape="rect" id="node8" href="$db/da1/classHiParnt.html#a1074072a5774a085cecf879899a44ab3" title="HiParnt::lenHint1" alt="" coords="1085,557,1221,585"/>
+<area shape="rect" id="node7" href="$d4/d0f/HiParnt_8h.html#ae387711cf1ed2f3d5908e93a113f27e7" title="hiparnt_address_" alt="" coords="1341,505,1478,533"/>
+<area shape="rect" id="node10" href="$db/da1/classHiParnt.html#a976a341872dd6ef684a319c5e262be46" title="HiParnt::lenHipr1" alt="" coords="1085,609,1221,637"/>
+<area shape="rect" id="node12" href="$db/da1/classHiParnt.html#a2583f210ac7e15c429d879a65e9626b2" title="HiParnt::lenIhnt2" alt="" coords="1085,401,1220,429"/>
+<area shape="rect" id="node14" href="$db/da1/classHiParnt.html#aa2f216c88e3e9ec0634df4755e281c85" title="HiParnt::lenIhpr2" alt="" coords="1085,453,1220,481"/>
+<area shape="rect" id="node16" href="$de/dd7/exceptiondfe_1_1Variable.html#ad546b80a148ce91384638a73e6293e3f" title="dfe::Variable::as" alt="" coords="857,557,989,585"/>
+<area shape="rect" id="node17" href="$dc/dc6/gmre_8f.html#aa6e860c7d81623b3000169df288e5688" title="gmre" alt="" coords="895,661,951,689"/>
+<area shape="rect" id="node18" href="$d3/df2/classgenfit_1_1GFRavePropagator.html#a0534e516b69488120356d8bfa53f6f5b" title="genfit::GFRavePropagator::to" alt="" coords="1044,688,1261,716"/>
+<area shape="rect" id="node19" href="$dc/d22/namespacegenfit.html#aec5c8cb927a354edfb23af80108b69d4" title="genfit::PlaneToGFDetPlane" alt="" coords="1309,623,1509,651"/>
+<area shape="rect" id="node22" href="$dc/d22/namespacegenfit.html#a16248965fc33843bb4f2d9bd8b0a7ce7" title="genfit::GFTrackToTrack" alt="" coords="1323,853,1496,881"/>
+<area shape="rect" id="node20" href="$dc/d22/namespacegenfit.html#ad8550f9eaa6237f8ddf48aefd57dfe58" title="genfit::Point3DToTVector3" alt="" coords="1573,571,1769,599"/>
+<area shape="rect" id="node21" href="$dc/d22/namespacegenfit.html#ad3ecb92a152c9ea7f5290e3653910473" title="genfit::Vector3DToTVector3" alt="" coords="1568,623,1773,651"/>
+<area shape="rect" id="node23" href="$d6/d8a/classgenfit_1_1Track.html#ad06e7a012624bdb03960826b5c9fcd93" title="Get FitStatus for a AbsTrackRep. Per default, return FitStatus for cardinalRep." alt="" coords="1835,887,2029,915"/>
+<area shape="rect" id="node25" href="$d0/d8d/classgenfit_1_1FitStatus.html#a56371ce504bee72fcf2f9324ddcb91a8" title="Did the fit converge (in all Points or only partially)?" alt="" coords="1603,1067,1739,1111"/>
+<area shape="rect" id="node26" href="$d6/d8a/classgenfit_1_1Track.html#abf156957d701a9a10a02fef8ac54e4d9" title="Shortcut to get FittedStates." alt="" coords="1584,999,1757,1043"/>
+<area shape="rect" id="node30" href="$d2/d74/classgenfit_1_1MeasuredStateOnPlane.html#a3aab44a6c7155b8258fa34469bc45bc0" title="genfit::MeasuredStateOnPlane\l::getPosMomCov" alt="" coords="1557,675,1784,719"/>
+<area shape="rect" id="node31" href="$d0/d8d/classgenfit_1_1FitStatus.html#a7e8ed1d97eec3e3164dc2dd782f5cb85" title="Get the fitted charge." alt="" coords="1603,743,1739,787"/>
+<area shape="rect" id="node32" href="$d0/d8d/classgenfit_1_1FitStatus.html#abbeeda61574c284f1d762088b3644770" title="Get chi^2 of the fit." alt="" coords="1603,811,1739,855"/>
+<area shape="rect" id="node33" href="$d0/d8d/classgenfit_1_1FitStatus.html#aa73b3566657ea37bf8ab5102d465025d" title="Get the degrees of freedom of the fit." alt="" coords="1603,879,1739,923"/>
+<area shape="rect" id="node24" href="$d6/d8a/classgenfit_1_1Track.html#a402b35300e81a48c7f0b9eb082b1cf24" title="Get cardinal track representation." alt="" coords="2080,977,2297,1005"/>
+<area shape="rect" id="node27" href="$d6/d8a/classgenfit_1_1Track.html#ad8961b1ff4809ccde5f6f100ffbccb9d" title="genfit::Track::getPointWith\lFitterInfo" alt="" coords="1832,1127,2032,1171"/>
+<area shape="rect" id="node28" href="$d8/db3/classgenfit_1_1Exception.html#a13619975a1e1be5c1bd504b254e01f7a" title="Set fatal flag." alt="" coords="1860,1059,2004,1103"/>
+<area shape="rect" id="node29" href="$db/d40/classgenfit_1_1TrackPoint.html#ae8b3e743fb436dd6689e0dad4c35ffd9" title="Get fitterInfo for rep. Per default, use cardinal rep." alt="" coords="1863,939,2001,983"/>
+<area shape="rect" id="node45" href="$d2/d79/classFitNewton_1_1FunctionGradHessian.html#ad82e029bd80fa1356954ae15e87c1936" title="FitNewton::FunctionGradHessian\l::nPars" alt="" coords="560,680,801,724"/>
+<area shape="rect" id="node46" href="$d4/da9/namespaceboost.html#a630945877437d477612e4419562161cc" title="boost::swap" alt="" coords="629,765,732,793"/>
+<area shape="rect" id="node47" href="$d1/d96/classboost_1_1array.html#a342ef866ed696b18ce803b5c9aba4b2e" title="boost::array::swap" alt="" coords="849,765,996,793"/>
+</map>

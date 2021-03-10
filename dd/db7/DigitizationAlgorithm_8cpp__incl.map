@@ -1,0 +1,35 @@
+<map id="fun4all_acts/blob/master/Examples/Algorithms/Digitization/src/DigitizationAlgorithm.cpp" name="fun4all_acts/blob/master/Examples/Algorithms/Digitization/src/DigitizationAlgorithm.cpp">
+<area shape="rect" id="node2" href="$d6/df6/DigitizationAlgorithm_8hpp.html" title="ACTFW/Digitization\l/DigitizationAlgorithm.hpp" alt="" coords="364,297,564,341"/>
+<area shape="rect" id="node12" href="$d3/d69/GeometryID_8hpp.html" title="Acts/Geometry/GeometryID.hpp" alt="" coords="3655,489,3894,517"/>
+<area shape="rect" id="node15" href="$d7/dab/GeometryContainers_8hpp.html" title="ACTFW/EventData/Geometry\lContainers.hpp" alt="" coords="3199,297,3417,341"/>
+<area shape="rect" id="node23" href="$dc/d24/SimHit_8hpp.html" title="ACTFW/EventData/SimHit.hpp" alt="" coords="3402,213,3627,241"/>
+<area shape="rect" id="node26" href="$de/df0/SimParticle_8hpp.html" title="ACTFW/EventData/SimParticle.hpp" alt="" coords="3552,305,3808,333"/>
+<area shape="rect" id="node29" href="$d4/ddd/SimVertex_8hpp.html" title="ACTFW/EventData/SimVertex.hpp" alt="" coords="3909,305,4158,333"/>
+<area shape="rect" id="node31" href="$d0/d18/WhiteBoard_8hpp.html" title="ACTFW/Framework/WhiteBoard.hpp" alt="" coords="553,397,815,425"/>
+<area shape="rect" id="node34" href="$d8/d81/TrackParameters_8hpp.html" title="Acts/EventData/TrackParameters.hpp" alt="" coords="2275,121,2549,149"/>
+<area shape="rect" id="node38" href="$d8/ddd/Surface_8hpp.html" title="Acts/Surfaces/Surface.hpp" alt="" coords="1635,305,1835,333"/>
+<area shape="rect" id="node39" href="$dc/d45/DetectorElementBase_8hpp.html" title="Acts/Geometry/DetectorElement\lBase.hpp" alt="" coords="1428,389,1671,433"/>
+<area shape="rect" id="node43" href="$dd/d24/TrackingGeometry_8hpp.html" title="Acts/Geometry/TrackingGeometry.hpp" alt="" coords="2002,397,2281,425"/>
+<area shape="rect" id="node44" href="$d5/dda/DigitizationModule_8hpp.html" title="Acts/Plugins/Digitization\l/DigitizationModule.hpp" alt="" coords="1117,389,1302,433"/>
+<area shape="rect" id="node45" href="$d5/d96/Segmentation_8hpp.html" title="Acts/Plugins/Digitization\l/Segmentation.hpp" alt="" coords="1370,481,1555,525"/>
+<area shape="rect" id="node46" href="$d7/dd4/PlanarModuleCluster_8hpp.html" title="Acts/Plugins/Digitization\l/PlanarModuleCluster.hpp" alt="" coords="1106,297,1302,341"/>
+<area shape="rect" id="node47" href="$d8/dfd/ParameterDefinitions_8hpp.html" title="Acts/Utilities/Parameter\lDefinitions.hpp" alt="" coords="1745,389,1927,433"/>
+<area shape="rect" id="node48" href="$d5/d50/PlanarModuleStepper_8hpp.html" title="Acts/Plugins/Digitization\l/PlanarModuleStepper.hpp" alt="" coords="891,389,1093,433"/>
+<area shape="rect" id="node49" href="$d4/db1/IdentifiedDetectorElement_8hpp.html" title="Acts/Plugins/Identification\l/IdentifiedDetectorElement.hpp" alt="" coords="1427,113,1663,157"/>
+<area shape="rect" id="node50" href="$df/d6f/Units_8hpp.html" title="Acts/Utilities/Units.hpp" alt="" coords="3752,121,3928,149"/>
+<area shape="rect" id="node6" href="$dd/d9b/BareAlgorithm_8hpp.html" title="ACTFW/Framework/BareAlgorithm.hpp" alt="" coords="94,397,375,425"/>
+<area shape="rect" id="node10" href="$d8/d1b/RandomNumbers_8hpp.html" title="ACTFW/Framework/RandomNumbers.hpp" alt="" coords="3279,489,3580,517"/>
+<area shape="rect" id="node7" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="591,489,777,517"/>
+<area shape="rect" id="node21" href="$d3/d78/GroupBy_8hpp.html" title="ACTFW/Utilities/GroupBy.hpp" alt="" coords="2778,397,2995,425"/>
+<area shape="rect" id="node22" href="$d9/dc8/Range_8hpp.html" title="ACTFW/Utilities/Range.hpp" alt="" coords="2970,489,3174,517"/>
+<area shape="rect" id="node24" href="$d8/d71/Hit_8hpp.html" title="ActsFatras/EventData\l/Hit.hpp" alt="" coords="3829,389,3995,433"/>
+<area shape="rect" id="node25" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="2212,573,2425,601"/>
+<area shape="rect" id="node27" href="$d3/d65/Particle_8hpp.html" title="ActsFatras/EventData\l/Particle.hpp" alt="" coords="4071,389,4238,433"/>
+<area shape="rect" id="node28" href="$d9/d53/ProcessType_8hpp.html" title="ActsFatras/EventData\l/ProcessType.hpp" alt="" coords="4173,481,4339,525"/>
+<area shape="rect" id="node35" href="$d2/dc3/ChargePolicy_8hpp.html" title="Acts/EventData/ChargePolicy.hpp" alt="" coords="2406,397,2653,425"/>
+<area shape="rect" id="node36" href="$dd/d8e/SingleBoundTrackParameters_8hpp.html" title="Acts/EventData/SingleBound\lTrackParameters.hpp" alt="" coords="2231,205,2447,249"/>
+<area shape="rect" id="node37" href="$d9/d77/SingleTrackParameters_8hpp.html" title="Acts/EventData/SingleTrack\lParameters.hpp" alt="" coords="2247,297,2457,341"/>
+<area shape="rect" id="node41" href="$d6/dee/SingleCurvilinearTrackParameters_8hpp.html" title="Acts/EventData/SingleCurvilinear\lTrackParameters.hpp" alt="" coords="1959,205,2206,249"/>
+<area shape="rect" id="node42" href="$df/d16/SingleFreeParameters_8hpp.html" title="Acts/EventData/SingleFree\lParameters.hpp" alt="" coords="2578,205,2779,249"/>
+<area shape="rect" id="node40" href="$d3/dc6/DefaultDetectorElementBase_8hpp.html" title="detail/DefaultDetectorElement\lBase.hpp" alt="" coords="1749,481,1977,525"/>
+</map>

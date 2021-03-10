@@ -1,0 +1,12 @@
+<map id="Acts::Test::BOOST_AUTO_TEST_CASE" name="Acts::Test::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d6/deb/structActs_1_1detail_1_1Extendable.html#a30bf48ea76b15b9e97e24cf7a9f98d0f" title="Acts::detail::Extendable\l\&lt; aborters_t::::::\&gt;::get" alt="" coords="265,5,449,49"/>
+<area shape="rect" id="node3" href="$d1/d48/classActs_1_1CuboidVolumeBuilder.html#a2aae32c1b8fc364a40999467560fcb7b" title="Setter of the config." alt="" coords="254,73,461,117"/>
+<area shape="rect" id="node4" href="$df/d54/classActs_1_1TrackingGeometryBuilder.html#a65a50311a2828d5ec4c6883318925733" title="Acts::TrackingGeometryBuilder\l::trackingGeometry" alt="" coords="241,141,473,185"/>
+<area shape="rect" id="node8" href="$d1/d48/classActs_1_1CuboidVolumeBuilder.html#aa10844c2fbce315118faf19cc4c53425" title="This function builds a world TrackingVolume based on a given configuration." alt="" coords="254,209,461,253"/>
+<area shape="rect" id="node5" href="$da/d7b/namespaceActs.html#a84c41c54771dc4d8fc38a477f9d250c8" title="create a small tracking geometry to map some dummy material on" alt="" coords="521,149,704,177"/>
+<area shape="rect" id="node6" href="$da/d7b/namespaceActs.html#a9b4dee934b0b193d57604b19bc8cd527" title="get default debug output logger" alt="" coords="752,149,931,177"/>
+<area shape="rect" id="node7" href="$dd/d94/fun4all__tutorials_2blob_2master_2materialscan_2matscan_8C.html#a388f572c62279f839ee138a9afbdeeb5" title="print" alt="" coords="979,149,1032,177"/>
+<area shape="rect" id="node9" href="$dd/dcd/classActs_1_1TrackingVolume.html#a619bf14d9146fec28d1dd7919cb1f9fc" title="Acts::TrackingVolume\l::create" alt="" coords="529,209,696,253"/>
+<area shape="rect" id="node10" href="$dd/dcd/classActs_1_1TrackingVolume.html#a6b8a3971e5afbd3379b5ea36b3395714" title="Default constructor." alt="" coords="758,205,925,249"/>
+<area shape="rect" id="node11" href="$dd/dcd/classActs_1_1TrackingVolume.html#a1666fb4658bed4b3f46103ac33f0e966" title="Returns the VolumeName &#45; for debug reason, might be depreciated later." alt="" coords="758,273,925,317"/>
+</map>

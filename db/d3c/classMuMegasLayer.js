@@ -1,0 +1,27 @@
+var classMuMegasLayer =
+[
+    [ "MuMegasLayer", "db/d3c/classMuMegasLayer.html#aba0d705e2660e137257b238e47ea83c9", null ],
+    [ "MuMegasLayer", "db/d3c/classMuMegasLayer.html#aecade20b1ce05760ba032e122df05e57", null ],
+    [ "~MuMegasLayer", "db/d3c/classMuMegasLayer.html#afd17188aa41674266dc2ed0df995d1bf", null ],
+    [ "MuMegasLayer", "db/d3c/classMuMegasLayer.html#aba0d705e2660e137257b238e47ea83c9", null ],
+    [ "MuMegasLayer", "db/d3c/classMuMegasLayer.html#aecade20b1ce05760ba032e122df05e57", null ],
+    [ "~MuMegasLayer", "db/d3c/classMuMegasLayer.html#afd17188aa41674266dc2ed0df995d1bf", null ],
+    [ "ClassDef", "db/d3c/classMuMegasLayer.html#affd9bd1725c7ba08069ca6210aedf3f6", null ],
+    [ "ClassDef", "db/d3c/classMuMegasLayer.html#affd9bd1725c7ba08069ca6210aedf3f6", null ],
+    [ "ResetVars", "db/d3c/classMuMegasLayer.html#a00ade58fd7f7c01ea313f6ff485b6273", null ],
+    [ "MuMegasGeoParData", "db/d3c/classMuMegasLayer.html#a8653c7799116c9fc16485bfb18188ee0", null ],
+    [ "mAmplificationRegionLength", "db/d3c/classMuMegasLayer.html#a907a60190d8f0ad0d58a7ae265d2188a", null ],
+    [ "mAmplificationRegionLength", "db/d3c/classMuMegasLayer.html#a72c699b1935c748267c5d81a84dcf271", null ],
+    [ "mConversionRegionLength", "db/d3c/classMuMegasLayer.html#ae5d7fe647beba6a206a2c85933c6d72f", null ],
+    [ "mCopperStripThickness", "db/d3c/classMuMegasLayer.html#a52057ed7325e54d42ad8bda4c2c726e4", null ],
+    [ "mExitWindowMaterial", "db/d3c/classMuMegasLayer.html#a561e7624dea696366b3c8f953253724d", null ],
+    [ "mExitWindowThickness", "db/d3c/classMuMegasLayer.html#a76d028b1eb44ddd9886b40e329d7eba5", null ],
+    [ "mGasMixture", "db/d3c/classMuMegasLayer.html#a677e4b9e25f69bc61ab228e1b450d84f", null ],
+    [ "mInnerFrameThickness", "db/d3c/classMuMegasLayer.html#a8244c27d22851cc630117d6c44157e3e", null ],
+    [ "mInnerFrameWidth", "db/d3c/classMuMegasLayer.html#a540e4f4e7395811311eebf16b78076c5", null ],
+    [ "mOuterFrameThickness", "db/d3c/classMuMegasLayer.html#a028e2ed0e04d4b6410860b1e2ada9880", null ],
+    [ "mOuterFrameWidth", "db/d3c/classMuMegasLayer.html#a74c55b114151e2f8f2fb4ea086a5ee6c", null ],
+    [ "mReadoutPcbMaterial", "db/d3c/classMuMegasLayer.html#a0d7cf6b70a796d76c95a5a48bebcb9e3", null ],
+    [ "mReadoutPcbThickness", "db/d3c/classMuMegasLayer.html#ab7ec1681e3e6618948d8115844820db1", null ],
+    [ "mSteelMeshThickness", "db/d3c/classMuMegasLayer.html#a89ac0915d7ced82e4e6380e3649bb21f", null ]
+];

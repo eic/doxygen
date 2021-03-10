@@ -1,0 +1,32 @@
+<map id="e_starlightStandalone::init" name="e_starlightStandalone::init">
+<area shape="rect" id="node2" href="$d0/d94/classinputParameters.html#aa885d2d2b46648ad1e9e88797e495268" title="inputParameters::baseFileName" alt="" coords="505,678,741,706"/>
+<area shape="rect" id="node4" href="$d0/d94/classinputParameters.html#a1246872f8f4f9c96527e8ffa612eae1f" title="inputParameters::configure\lFromFile" alt="" coords="237,728,442,772"/>
+<area shape="rect" id="node8" href="$d9/da4/classe__starlight.html#a060d9c1b5de906b4ebbb6840aca87cbf" title="e_starlight::init" alt="" coords="277,347,401,375"/>
+<area shape="rect" id="node22" href="$d0/d94/classinputParameters.html#a88f6a3b57e8356cd002f3f592e693369" title="returns total number of events to generate" alt="" coords="514,56,733,84"/>
+<area shape="rect" id="node23" href="$d0/d94/classinputParameters.html#a58b0e346b58ef1a26a228f5c5c298e55" title="inputParameters::init" alt="" coords="541,626,705,654"/>
+<area shape="rect" id="node31" href="$d9/da4/classe__starlight.html#a253ae2aeb2592fb40e5d6d1617d52df9" title="e_starlight::setInputParameters" alt="" coords="223,796,456,824"/>
+<area shape="rect" id="node3" href="$d5/d4e/classparameter.html#ad05f8343240b7ef936d426fb0ce4854a" title="parameter::value" alt="" coords="1143,591,1281,619"/>
+<area shape="rect" id="node5" href="$dd/d86/classinputParser.html#a17035c8963703d187141bf7d21aca5fa" title="inputParser::parseFile" alt="" coords="540,926,707,954"/>
+<area shape="rect" id="node7" href="$dd/d86/classinputParser.html#a9c31e8ae429aecf31e6863323be39b50" title="inputParser::validateParameters" alt="" coords="504,736,743,764"/>
+<area shape="rect" id="node6" href="$dd/d86/classinputParser.html#adf84e04d914a56a078ea6d91bc3de512" title="inputParser::parseString" alt="" coords="832,1064,1016,1092"/>
+<area shape="rect" id="node9" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="568,176,679,204"/>
+<area shape="rect" id="node11" href="$d0/d94/classinputParameters.html#a4fd477d9f23f34bf56061d934b7ac10c" title="returns atomic mass number of beam particle 1" alt="" coords="825,394,1023,422"/>
+<area shape="rect" id="node12" href="$d0/d94/classinputParameters.html#a92006d12d6921a7711029d03e531deb6" title="returns atomic number of beam particle 1" alt="" coords="825,446,1023,474"/>
+<area shape="rect" id="node13" href="$d0/d94/classinputParameters.html#a8601c2146f76151f69c63a5881baf4c5" title="returns atomic mass number of beam particle 2" alt="" coords="825,498,1023,526"/>
+<area shape="rect" id="node14" href="$d0/d94/classinputParameters.html#a2061619e6334c16a2e421d5b22cf7f91" title="returns atomic number of beam particle 2" alt="" coords="825,342,1023,370"/>
+<area shape="rect" id="node15" href="$d9/da4/classe__starlight.html#aaff107b366e96a2b309f3c341171544e" title="e_starlight::createEvent\lChannel" alt="" coords="531,228,715,272"/>
+<area shape="rect" id="node16" href="$d0/d94/classinputParameters.html#ab921b9604ccbc48e36280fa47ab0e559" title="returns interaction type" alt="" coords="801,290,1047,318"/>
+<area shape="rect" id="node18" href="$d9/da4/classe__starlight.html#a31b69d707dbceecdb3b381b0c6b96e9b" title="e_starlight::luminosityTable\lIsValid" alt="" coords="520,108,727,152"/>
+<area shape="rect" id="node10" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="836,186,1012,214"/>
+<area shape="rect" id="node17" href="$d0/d94/classinputParameters.html#a1deffd1d92d4d493cca3a73f29f858e2" title="returns type of produced particle" alt="" coords="797,238,1051,266"/>
+<area shape="rect" id="node19" href="$d0/d94/classinputParameters.html#a0ac257fd803f44ac99f97604e4c4905b" title="Generates key for the current parameters." alt="" coords="817,66,1031,110"/>
+<area shape="rect" id="node21" href="$d0/d94/classinputParameters.html#ae1efbe6f523d29cd185815be5a70ec1e" title="returns seed for random number generator" alt="" coords="810,134,1038,162"/>
+<area shape="rect" id="node20" href="$d4/d46/classparameterlist.html#af8d328d3313ddcbee42ae49d9ea0c326" title="parameterlist::validationKey" alt="" coords="1105,74,1319,102"/>
+<area shape="rect" id="node24" href="$d0/d94/classinputParameters.html#a0544fc589119311b9238e6ccda8c397e" title="returns Lorentz gamma factor of beam 1 in collider frame" alt="" coords="805,550,1043,594"/>
+<area shape="rect" id="node25" href="$d0/d94/classinputParameters.html#a85a234ee4c002524953d08047b43826d" title="returns Lorentz gamma factor of beam 2 in collider frame" alt="" coords="805,618,1043,662"/>
+<area shape="rect" id="node26" href="$d0/d94/classinputParameters.html#a72a83454bc0499de4ff4857ad6a613d2" title="returns maximum p_T for interference calculation [GeV/c]" alt="" coords="791,686,1057,714"/>
+<area shape="rect" id="node27" href="$d0/d94/classinputParameters.html#afbd86e6ebe5766cdb0d039df8de970aa" title="returns number of p_T bins for interference calculation" alt="" coords="817,738,1031,782"/>
+<area shape="rect" id="node28" href="$d0/d94/classinputParameters.html#ae3286f42046ff3738e2bdff84fd62504" title="returns production mode" alt="" coords="799,806,1049,834"/>
+<area shape="rect" id="node29" href="$d4/dad/eicroot_8C.html#a9392a90f93e785e9ed60558fddd33359" title="width" alt="" coords="895,910,953,938"/>
+<area shape="rect" id="node30" href="$d0/d94/classinputParameters.html#abc9b8f1ced9f07b15ba857d08a218304" title="returns PDG particle ID of produced particle" alt="" coords="807,858,1041,886"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="EventEvaluator::process_event" name="EventEvaluator::process_event">
+<area shape="rect" id="node2" href="$db/d22/classEventEvaluator.html#ada437671569f41f49d8efe8235d569ab" title="dump the evaluator information into ntuple for external analysis" alt="" coords="259,1109,456,1153"/>
+<area shape="rect" id="node43" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="548,73,724,101"/>
+<area shape="rect" id="node44" href="$db/d10/classCaloEvalStack.html#a6d60a0a1ce8c1e26075065ea725e5351" title="CaloEvalStack::next\l_event" alt="" coords="279,1177,435,1221"/>
+<area shape="rect" id="node46" href="$db/d22/classEventEvaluator.html#adf1af4ec8a3535d37397f99e63e42310" title="print out the input object information (debugging upstream components)" alt="" coords="245,164,470,192"/>
+<area shape="rect" id="node48" href="$db/d22/classEventEvaluator.html#a7c006895465ed851ca9ef516ca648e10" title="print out the ancestry information for detailed diagnosis" alt="" coords="239,528,476,556"/>
+<area shape="rect" id="node49" href="$db/d10/classCaloEvalStack.html#a392c5b157d0f80dc996f07a0241cec8e" title="CaloEvalStack::set\l_strict" alt="" coords="284,1245,431,1289"/>
+<area shape="rect" id="node50" href="$db/d10/classCaloEvalStack.html#af628e33e76a6c98f8a94e974d007fb3b" title="CaloEvalStack::set\l_verbosity" alt="" coords="284,1313,431,1357"/>
+<area shape="rect" id="node3" href="$d5/dc4/classGlobalVertexMap.html#a4b7a2bf3821e4d9ad1ec931c5c89b2cb" title="GlobalVertexMap::begin" alt="" coords="545,557,727,585"/>
+<area shape="rect" id="node4" href="$d7/d8b/classSvtxTrackMap.html#a8c16bb47fdace6d5516d1803ffe54706" title="SvtxTrackMap::begin" alt="" coords="555,1585,717,1613"/>
+<area shape="rect" id="node5" href="$db/de4/classSvtxTrack__v1.html#af63fcfcbc499c64e1c9cb566d564577a" title="SvtxTrack_v1::begin\l_states" alt="" coords="558,1637,714,1681"/>
+<area shape="rect" id="node6" href="$d5/dc4/classGlobalVertexMap.html#a80c3c9063cfd435589959fae05d80660" title="GlobalVertexMap::empty" alt="" coords="541,609,731,637"/>
+<area shape="rect" id="node7" href="$d7/d8b/classSvtxTrackMap.html#a1c7ae993700819b7d0a8e3f3d74fa99c" title="SvtxTrackMap::end" alt="" coords="561,1705,711,1733"/>
+<area shape="rect" id="node8" href="$db/de4/classSvtxTrack__v1.html#a3621d3b3c69c1a38d48a000d128662d7" title="SvtxTrack_v1::end_states" alt="" coords="540,1757,732,1785"/>
+<area shape="rect" id="node9" href="$d9/dd8/classRawTower.html#a684d193cfa6e173242edecbf7b69d64a" title="RawTower::get_bineta" alt="" coords="552,1809,720,1837"/>
+<area shape="rect" id="node10" href="$d9/dd8/classRawTower.html#ad7b821b149c79c752ffda34821982383" title="RawTower::get_binphi" alt="" coords="552,1861,720,1889"/>
+<area shape="rect" id="node11" href="$de/dc9/classPHG4Particle.html#ac4a56068140437bf45a67dae571cae48" title="PHG4Particle::get_e" alt="" coords="559,661,713,689"/>
+<area shape="rect" id="node12" href="$d6/dc7/group__getters.html#gaeb5c6c01b9f2f1d716e9ddaf89f64c91" title="total energy" alt="" coords="545,713,727,741"/>
+<area shape="rect" id="node13" href="$d9/dd8/classRawTower.html#ab23195d58fefabd9162115afa96707cc" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="549,1913,723,1941"/>
+<area shape="rect" id="node14" href="$db/de4/classSvtxTrack__v1.html#ace234d63ab40217fda3432d4df773045" title="SvtxTrack_v1::get_id" alt="" coords="556,1965,716,1993"/>
+<area shape="rect" id="node15" href="$de/dc9/classPHG4Particle.html#aefb22aefc07d013f8ec9bee4f02fb7b2" title="PHG4Particle::get_parent_id" alt="" coords="531,2017,741,2045"/>
+<area shape="rect" id="node16" href="$d6/dc7/group__getters.html#ga01beaccbc8f598673db35c68f5a73609" title="access to intrinsic cylindrical coordinate system" alt="" coords="559,765,713,793"/>
+<area shape="rect" id="node17" href="$de/dc9/classPHG4Particle.html#a474033dbd058eea155c71fc4d17aaf4d" title="PHG4Particle::get_pid" alt="" coords="553,125,719,153"/>
+<area shape="rect" id="node18" href="$de/dc9/classPHG4Particle.html#a44b98bfd72a04825791d1e4c4cb150a1" title="PHG4Particle::get_px" alt="" coords="555,177,717,205"/>
+<area shape="rect" id="node19" href="$db/de4/classSvtxTrack__v1.html#a5281fc0601e5bc6c3482ed0b7f789a14" title="SvtxTrack_v1::get_px" alt="" coords="554,2069,718,2097"/>
+<area shape="rect" id="node20" href="$de/dc9/classPHG4Particle.html#a3df4379f9e46224a8cca7f86c11e99e5" title="PHG4Particle::get_py" alt="" coords="555,229,717,257"/>
+<area shape="rect" id="node21" href="$db/de4/classSvtxTrack__v1.html#ad63f8757691e674774701d00bfce7def" title="SvtxTrack_v1::get_py" alt="" coords="554,2121,718,2149"/>
+<area shape="rect" id="node22" href="$de/dc9/classPHG4Particle.html#a533e9bda40b15f62802b187e6a743e74" title="PHG4Particle::get_pz" alt="" coords="555,817,717,845"/>
+<area shape="rect" id="node23" href="$db/de4/classSvtxTrack__v1.html#af9f746f3d728de5c747f2d6524588f5f" title="SvtxTrack_v1::get_pz" alt="" coords="555,2173,717,2201"/>
+<area shape="rect" id="node24" href="$db/d10/classCaloEvalStack.html#a23ea229b0fa0b23ed1ddb6902590e56d" title="CaloEvalStack::get\l_rawcluster_eval" alt="" coords="561,869,711,913"/>
+<area shape="rect" id="node25" href="$db/d10/classCaloEvalStack.html#a3b9436fd89a31b81522961a2ea467e5c" title="CaloEvalStack::get\l_rawtower_eval" alt="" coords="561,2225,711,2269"/>
+<area shape="rect" id="node26" href="$de/dc9/classPHG4Particle.html#ac29b72a8cdeebc0754b6dd42b0cfab86" title="PHG4Particle::get_track_id" alt="" coords="537,937,735,965"/>
+<area shape="rect" id="node27" href="$d9/da8/classSvtxTrack__FastSim.html#af1b86b45118d363b82feb567c314bdd7" title="SvtxTrack_FastSim::\lget_truth_track_id" alt="" coords="559,2293,713,2337"/>
+<area shape="rect" id="node28" href="$d1/d39/classGlobalVertex.html#a97493c07f81f703dd545fe3409be10a4" title="GlobalVertex::get_x" alt="" coords="559,281,713,309"/>
+<area shape="rect" id="node29" href="$d1/d39/classGlobalVertex.html#a13edb1c021409c4a7c53bd29e6ff05e5" title="GlobalVertex::get_y" alt="" coords="559,333,713,361"/>
+<area shape="rect" id="node30" href="$d1/d39/classGlobalVertex.html#a46b4a0bd3afc9c251899dce7c4a0f001" title="GlobalVertex::get_z" alt="" coords="559,385,713,413"/>
+<area shape="rect" id="node31" href="$d6/d12/classRawClusterContainer.html#a0e6e107bd231fd090d5a42cf36db041a" title="RawClusterContainer\l::getClustersMap" alt="" coords="554,2361,718,2405"/>
+<area shape="rect" id="node32" href="$d4/d30/classPHG4HitContainer.html#aec01041c4b9347f93832704e142b2439" title="return all hits matching a given detid" alt="" coords="535,989,737,1017"/>
+<area shape="rect" id="node33" href="$d6/dc7/group__getters.html#gafd02768fff27512707c9e893c98dcc97" title="Tower operations." alt="" coords="544,437,728,465"/>
+<area shape="rect" id="node34" href="$da/d6c/classPHG4TruthInfoContainer.html#a2817b4438bb80cacb28f457975342cf2" title="PHG4TruthInfoContainer\l::GetPrimaryParticleRange" alt="" coords="537,489,735,533"/>
+<area shape="rect" id="node35" href="$db/d22/classEventEvaluator.html#af6db35aa5e7c73438fe0b0de60efc747" title="return track projection index for given track projection layer" alt="" coords="524,1041,748,1085"/>
+<area shape="rect" id="node36" href="$db/d22/classEventEvaluator.html#a643c7a6d376c588996d91b2259f195d2" title="return track projection layer name from projection index (see GetProjectionIndex)" alt="" coords="524,1109,748,1153"/>
+<area shape="rect" id="node37" href="$d0/d0e/classRawClusterUtility.html#aa3749ddedc2ebe5d12394650d89aa704" title="Pseudorapidity of cluster with respect to given vertex position." alt="" coords="563,1177,709,1221"/>
+<area shape="rect" id="node38" href="$d3/dc7/classRawTowerContainer.html#a570f017dc793182557b3382e07374491" title="return all towers" alt="" coords="555,1245,717,1289"/>
+<area shape="rect" id="node39" href="$de/d0b/classCaloRawTowerEval.html#a28c7d49b96e05bc33d3ee6bef2a5f6a8" title="which particle contributed the most energy to this tower?" alt="" coords="543,1313,729,1373"/>
+<area shape="rect" id="node40" href="$da/d7e/classCaloRawClusterEval.html#acf8fb6e0c09e48569dc1a6d3a6f2a065" title="which particle contributed the most energy to this cluster?" alt="" coords="557,1397,715,1457"/>
+<area shape="rect" id="node41" href="$db/d22/classEventEvaluator.html#a7446959e5e331f4022208daf5c648b14" title="reset the tree variables before filling for a new event" alt="" coords="531,1481,741,1509"/>
+<area shape="rect" id="node42" href="$d4/d30/classPHG4HitContainer.html#a516cd69a4ce8570252cd9bd7dafcc35a" title="PHG4HitContainer::size" alt="" coords="547,1533,725,1561"/>
+<area shape="rect" id="node45" href="$da/d7e/classCaloRawClusterEval.html#a05ef076f8d5fd83f1ff552eb839f5689" title="reinitialize the eval for a new event" alt="" coords="559,2429,713,2473"/>
+<area shape="rect" id="node47" href="$da/d6c/classPHG4TruthInfoContainer.html#a1ee31482bc1d9463f16bf4de90273c41" title="Get a range of iterators covering the entire container." alt="" coords="543,5,729,49"/>
+</map>

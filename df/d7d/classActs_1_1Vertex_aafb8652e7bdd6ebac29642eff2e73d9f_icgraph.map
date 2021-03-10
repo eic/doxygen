@@ -1,0 +1,6 @@
+<map id="Acts::Vertex::setCovariance" name="Acts::Vertex::setCovariance">
+<area shape="rect" id="node2" href="$dd/d7e/namespaceActs_1_1Test.html#a1f784668214a458d044835e9a39226ca" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="262,5,450,49"/>
+<area shape="rect" id="node3" href="$d9/dc3/classFWE_1_1VertexFitAlgorithm.html#a26478f3134d50a55c00cde82da893487" title="Algorithm that receives a set of tracks belonging to a common vertex and fits the associated vertex t..." alt="" coords="263,73,449,117"/>
+<area shape="rect" id="node4" href="$d1/d9d/classActs_1_1TrackDensityVertexFinder.html#ac893dd4ac1fe0e1a0ac212bff3f5b1d4" title="Function that finds single vertex candidate." alt="" coords="261,141,451,185"/>
+<area shape="rect" id="node5" href="$dd/d7e/namespaceActs_1_1Test.html#a48a45f60260ea8fb89887e455698c791" title="Unit test for TrackDensityVertexFinder using same configuration and values as VertexSeedFinderTestAlg..." alt="" coords="499,141,687,185"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="erhic::DoubleAngleComputer::Calculate" name="erhic::DoubleAngleComputer::Calculate">
+<area shape="rect" id="node2" href="$dc/db4/classerhic_1_1EventDis.html#aa4ebf7dfa7fab891703df3ee8a5972d1" title="erhic::EventDis::BeamHadron" alt="" coords="539,5,759,33"/>
+<area shape="rect" id="node3" href="$d1/d6c/classerhic_1_1DoubleAngleComputer.html#a04eccca16b527c78065a94c768c0c814" title="erhic::DoubleAngleComputer\l::ComputeQSquared" alt="" coords="539,177,758,221"/>
+<area shape="rect" id="node12" href="$d1/d6c/classerhic_1_1DoubleAngleComputer.html#a656f949a5ad907cd087820fae62c6c10" title="erhic::DoubleAngleComputer\l::ComputeX" alt="" coords="272,111,491,155"/>
+<area shape="rect" id="node14" href="$d1/d6c/classerhic_1_1DoubleAngleComputer.html#ab1643cf83ad78c5546e74265ab32a6d6" title="erhic::DoubleAngleComputer\l::ComputeY" alt="" coords="539,245,758,289"/>
+<area shape="rect" id="node15" href="$d0/d01/classerhic_1_1VirtualParticle.html#a48c2cab76721464e51ac6d59efa4ed0d" title="erhic::VirtualParticle\l::GetM" alt="" coords="303,285,460,329"/>
+<area shape="rect" id="node4" href="$dc/db4/classerhic_1_1EventDis.html#a5ab36c7902b9cad660a418eb4d39cfe4" title="erhic::EventDis::BeamLepton" alt="" coords="807,57,1025,85"/>
+<area shape="rect" id="node5" href="$dc/db4/classerhic_1_1EventDis.html#a7a9f44cb4df4b3d02d3dd80bc7f3ae25" title="erhic::EventDis::Scattered\lLepton" alt="" coords="817,177,1015,221"/>
+<area shape="rect" id="node6" href="$d0/d01/classerhic_1_1VirtualParticle.html#acd388402e6902edd484e9479d9026427" title="erhic::VirtualParticle\l::GetTheta" alt="" coords="837,245,995,289"/>
+<area shape="rect" id="node7" href="$dc/dae/gamma_8F.html#a32168d135528557a384f114255d59f09" title="gamma" alt="" coords="880,313,952,341"/>
+<area shape="rect" id="node10" href="$d1/d6c/classerhic_1_1DoubleAngleComputer.html#a443e71a9251072a5021dc44eccde92eb" title="erhic::DoubleAngleComputer\l::ComputeQuarkAngle" alt="" coords="807,365,1025,409"/>
+<area shape="rect" id="node11" href="$d0/d01/classerhic_1_1VirtualParticle.html#a1075f27c126e87e558493734a7d5bb28" title="erhic::VirtualParticle\l::GetE" alt="" coords="837,109,995,153"/>
+<area shape="rect" id="node8" href="$d4/d3e/classActs_1_1Logger.html#aee9e687247532b5175713e66b2d2121e" title="create output stream object with internal cache" alt="" coords="1073,313,1209,341"/>
+<area shape="rect" id="node9" href="$df/dce/classActs_1_1Logging_1_1OutputPrintPolicy.html#ab113823970013e1e7f310b36509136ac" title="handle output of debug message" alt="" coords="1257,305,1459,349"/>
+<area shape="rect" id="node13" href="$d0/d01/classerhic_1_1VirtualParticle.html#a7d46e954c6e9268533181cfec1648b30" title="erhic::VirtualParticle\l::Get4Vector" alt="" coords="570,109,727,153"/>
+</map>

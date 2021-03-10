@@ -1,0 +1,20 @@
+<map id="G4JLeicBeamLineMagnetSubsystem" name="G4JLeicBeamLineMagnetSubsystem">
+<area shape="rect" id="node2" href="$d5/d29/classPHG4DetectorSubsystem.html" title="PHG4DetectorSubsystem" alt="" coords="2068,444,2260,472"/>
+<area shape="rect" id="node3" href="$db/df7/classPHG4Subsystem.html" title="PHG4Subsystem" alt="" coords="1333,747,1467,775"/>
+<area shape="rect" id="node20" href="$d3/de7/classPHG4Detector.html" title="base class for phenix detector creation" alt="" coords="1721,747,1838,775"/>
+<area shape="rect" id="node4" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="959,744,1061,772"/>
+<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="496,747,600,775"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="197,607,287,635"/>
+<area shape="rect" id="node10" href="$dd/dae/classPHParameters.html" title="PHParameters" alt="" coords="952,240,1068,268"/>
+<area shape="rect" id="node14" href="$d7/d6b/classPHParametersContainer.html" title="PHParametersContainer" alt="" coords="1688,155,1871,183"/>
+<area shape="rect" id="node17" href="$dc/d82/classPHNode.html" title="PHNode" alt="" coords="511,577,585,605"/>
+<area shape="rect" id="node19" href="$db/d20/classG4JLeicBeamLineMagnetDetector.html" title="G4JLeicBeamLineMagnetDetector" alt="" coords="2040,747,2288,775"/>
+<area shape="rect" id="node22" href="$d2/d44/classPHG4DisplayAction.html" title="PHG4DisplayAction" alt="" coords="473,1021,623,1049"/>
+<area shape="rect" id="node25" href="$df/d3f/classPHG4SteppingAction.html" title="PHG4SteppingAction" alt="" coords="929,655,1091,683"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="5,599,148,643"/>
+<area shape="rect" id="node11" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="506,21,590,49"/>
+<area shape="rect" id="node12" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="204,21,280,49"/>
+<area shape="rect" id="node16" href="$d5/dca/classPHCompositeNode.html" title="PHCompositeNode" alt="" coords="1327,571,1473,599"/>
+<area shape="rect" id="node18" href="$d6/d86/classPHPointerList.html" title="PHPointerList\&lt; PHNode \&gt;" alt="" coords="913,600,1107,628"/>
+<area shape="rect" id="node21" href="$d2/d3f/classG4JLeicBeamLineMagnetDisplayAction.html" title="G4JLeicBeamLineMagnetDisplay\lAction" alt="" coords="891,931,1129,975"/>
+</map>

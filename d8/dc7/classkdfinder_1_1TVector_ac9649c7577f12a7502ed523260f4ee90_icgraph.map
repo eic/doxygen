@@ -1,0 +1,51 @@
+<map id="kdfinder::TVector::mag" name="kdfinder::TVector::mag">
+<area shape="rect" id="node2" href="$d8/dc7/classkdfinder_1_1TVector.html#ae7b3c7a063ba41bc17fef5e2e9e0ab6a" title="kdfinder::TVector::abs" alt="" coords="231,1240,401,1268"/>
+<area shape="rect" id="node3" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="261,1292,371,1320"/>
+<area shape="rect" id="node48" href="$d8/dc7/classkdfinder_1_1TVector.html#a1d5459987e67f7836a909c14dbb9cb77" title="kdfinder::TVector::\lcosTheta" alt="" coords="243,1344,389,1388"/>
+<area shape="rect" id="node49" href="$d8/dc7/classkdfinder_1_1TVector.html#a81eae343108272a1f4450e057740ad74" title="kdfinder::TVector::\lmagnitude" alt="" coords="243,1412,389,1456"/>
+<area shape="rect" id="node50" href="$d8/dc7/classkdfinder_1_1TVector.html#a43df24b54fc42e034041a4cc71f96b8a" title="kdfinder::TVector::unit" alt="" coords="229,1480,403,1508"/>
+<area shape="rect" id="node4" href="$d9/d04/classEmcCluster.html#aa7a15cfe3a8d3216d001e205e1001151" title="EmcCluster::ABS" alt="" coords="523,5,657,33"/>
+<area shape="rect" id="node5" href="$dc/d49/structnanoflann_1_1L1__Adaptor.html#af566ef076542ccd63f9b83b1e6264a43" title="nanoflann::L1_Adaptor\l::accum_dist" alt="" coords="502,57,678,101"/>
+<area shape="rect" id="node6" href="$d8/de8/classActs_1_1AdaptiveMultiVertexFinder.html#af4639ee4b205c0e67dc4567dde1bcacc" title="Adds compatible track to vertex candidate." alt="" coords="453,125,727,169"/>
+<area shape="rect" id="node7" href="$d4/d25/auxiliary__studies_2hadron__phi__asymmetry_2G4__GEM_8C.html#a02a852a94f88d87c4f284787fd699823" title="addPassiveMaterial" alt="" coords="515,193,665,221"/>
+<area shape="rect" id="node8" href="$df/dbf/Collins_8C.html#a09a6c4d46f058eef1fa6e20417b1912f" title="AnalyseEvents" alt="" coords="529,245,651,273"/>
+<area shape="rect" id="node9" href="$d3/dad/analysis__resolution_8C.html#ac92c825abaf05bbf41eca5af14788713" title="analysis_resolution" alt="" coords="515,297,665,325"/>
+<area shape="rect" id="node10" href="$d9/d78/classPHSartreParticleTrigger.html#aa843cf45b68f8422e740769ff6c6ddf1" title="PHSartreParticleTrigger\l::Apply" alt="" coords="501,349,679,393"/>
+<area shape="rect" id="node11" href="$d2/d7b/classPHPy6JetTrigger.html#ad94893917cac0ab497f5c22809e09c29" title="PHPy6JetTrigger::Apply" alt="" coords="502,417,678,445"/>
+<area shape="rect" id="node12" href="$d7/d30/classPHPy8JetTrigger.html#acaf40813fe5634434bf56986738b1d6e" title="PHPy8JetTrigger::Apply" alt="" coords="502,469,678,497"/>
+<area shape="rect" id="node13" href="$d9/d8b/classPHPy8ParticleTrigger.html#a310a967ad158bf270b6ceaf8f6b0183c" title="PHPy8ParticleTrigger\l::Apply" alt="" coords="509,521,671,565"/>
+<area shape="rect" id="node14" href="$d4/d32/classPHPy6ForwardElectronTrig.html#a5f716377ff5f753fd8d9d9fca98bc66d" title="PHPy6ForwardElectronTrig\l::Apply" alt="" coords="491,589,689,633"/>
+<area shape="rect" id="node15" href="$d3/d26/classPHPy6ParticleTrigger.html#aab9e14c10e477ce9ab4fcbbfa7b4c115" title="PHPy6ParticleTrigger\l::Apply" alt="" coords="509,657,671,701"/>
+<area shape="rect" id="node16" href="$dd/d7e/namespaceActs_1_1Test.html#ad3a80b391f55c4ac1025d15411c390a1" title="Acts::Test::approximately\lEqual" alt="" coords="493,725,687,769"/>
+<area shape="rect" id="node17" href="$df/de0/classEicGeoParData.html#a07f30516eccd1fd80001bfbe42cb73df" title="EicGeoParData::AreNeighbours" alt="" coords="475,793,705,821"/>
+<area shape="rect" id="node18" href="$de/deb/structODDModuleHelper.html#a513af05759b26aea8962dd4510a8a6bb" title="ODDModuleHelper::assemble\lRectangularModule" alt="" coords="480,845,700,889"/>
+<area shape="rect" id="node19" href="$da/dec/classActs_1_1SolenoidBField.html#a3c93c8a3c18780c8702d2fcf05a29da6" title="Acts::SolenoidBField::B_r" alt="" coords="495,913,685,941"/>
+<area shape="rect" id="node20" href="$da/dec/classActs_1_1SolenoidBField.html#a92bf695e787ca6870f6b3b9532e48b65" title="Acts::SolenoidBField::B_z" alt="" coords="494,965,686,993"/>
+<area shape="rect" id="node21" href="$de/d52/classkdfinder_1_1Helix.html#a26ee0b349b7da3f1b5d80e04f9514bc8" title="kdfinder::Helix::bad" alt="" coords="513,1017,667,1045"/>
+<area shape="rect" id="node22" href="$dd/d7e/namespaceActs_1_1Test.html#adacd2872e2c23427c7ca5efa8cf6107c" title="Unit test for residuals between different ParameterSet objects." alt="" coords="496,1069,684,1113"/>
+<area shape="rect" id="node23" href="$d4/d4a/PropagationTestBase_8hpp.html#a50276bbcaca7f0d847379b57d486d826" title="test consistency of propagators when approaching a cylinder" alt="" coords="493,1137,687,1165"/>
+<area shape="rect" id="node24" href="$d4/d0e/namespaceActs_1_1IntegrationTest.html#a82343e2e02f2f7baabb9e7ef320fbdad" title="Acts::IntegrationTest\l::BOOST_DATA_TEST_CASE" alt="" coords="489,1189,691,1233"/>
+<area shape="rect" id="node25" href="$d6/d06/namespaceActs_1_1detail.html#a200a5a5c203e6ea1fd27aefcda86fbd8" title="Acts::detail::boundState" alt="" coords="497,1257,683,1285"/>
+<area shape="rect" id="node26" href="$da/d33/classActs_1_1AtlasStepper.html#a2ac47189e9bd62413593c0fbbc760d3b" title="Acts::AtlasStepper\l\&lt; ConstantBField \&gt;::\lboundState" alt="" coords="509,1309,671,1369"/>
+<area shape="rect" id="node27" href="$dd/d91/ODDServiceHelper_8hpp.html#a3c5ec46d234ccb70a39f6e34fdee5830" title="buildEndcapRouting" alt="" coords="512,1393,668,1421"/>
+<area shape="rect" id="node28" href="$d7/df8/classActs_1_1TGeoLayerBuilder.html#aaa48eac97c511f2742fd9cce8d87cbd7" title="Acts::TGeoLayerBuilder\l::buildLayers" alt="" coords="499,1445,681,1489"/>
+<area shape="rect" id="node29" href="$da/d3b/classKFParticle__Tools.html#a1238205f963879e86873dad342a3d133" title="KFParticle_Tools::buildMother" alt="" coords="481,1513,699,1541"/>
+<area shape="rect" id="node30" href="$d9/d1e/classActs_1_1CylinderVolumeBounds.html#ae1bbfe0045f5e45fdd04ac419a4e4711" title="Acts::CylinderVolumeBounds\l::buildSurfaceBounds" alt="" coords="481,1565,699,1609"/>
+<area shape="rect" id="node31" href="$de/d74/classKFParticle__DST.html#adff4dd261ce00546f81c3a647673a90e" title="KFParticle_DST::buildSvtx\lTrack" alt="" coords="494,1633,686,1677"/>
+<area shape="rect" id="node32" href="$da/d3b/classKFParticle__Tools.html#ae3f50466163a5d78a6ef7777e8776ed1" title="KFParticle_Tools::calculate\lEllipsoidRadius" alt="" coords="491,1701,689,1745"/>
+<area shape="rect" id="node33" href="$da/d3b/classKFParticle__Tools.html#aabaf9a7d6be91c2835ce6dffec12657f" title="KFParticle_Tools::calculate\lEllipsoidVolume" alt="" coords="491,1769,689,1813"/>
+<area shape="rect" id="node34" href="$d5/d55/classPHTpcResiduals.html#ac08b1a481cac7d0e7f0aafab6c780445" title="PHTpcResiduals::calculate\lTpcResiduals" alt="" coords="491,1837,689,1881"/>
+<area shape="rect" id="node35" href="$d8/de8/classActs_1_1AdaptiveMultiVertexFinder.html#ab153b9367a6a67b0fd0b50cee6866021" title="Method that tries to recover from cases where no tracks were added to the vertex candidate after seed..." alt="" coords="451,1905,729,1965"/>
+<area shape="rect" id="node36" href="$d8/de8/classActs_1_1AdaptiveMultiVertexFinder.html#a6218688afa3e2741a0a881bc35f77462" title="Method that tries to remove a non&#45;compatible track from seed tracks after removing a compatible track..." alt="" coords="463,1989,717,2049"/>
+<area shape="rect" id="node37" href="$da/d80/classActs_1_1DD4hepLayerBuilder.html#a3e9b95eb52edad9d0e919f0b2b7d1d9d" title="Acts::DD4hepLayerBuilder\l::centralLayers" alt="" coords="489,2073,691,2117"/>
+<area shape="rect" id="node38" href="$d3/d5f/classCylinderGeomMicromegas.html#ac736e8b2dff358973cd210ba37f9932d" title="CylinderGeomMicromegas\l::check_radius" alt="" coords="490,2141,690,2185"/>
+<area shape="rect" id="node39" href="$dd/d7e/namespaceActs_1_1Test.html#ae93fd8b856bca059fbd909902f86b520" title="Acts::Test::checkCloseCovariance" alt="" coords="466,2209,714,2237"/>
+<area shape="rect" id="node40" href="$d3/de3/classActs_1_1ConeBounds.html#aec2b4e41181dbeb32d3f042b56324e61" title="Acts::ConeBounds::checkConsistency" alt="" coords="452,2261,728,2289"/>
+<area shape="rect" id="node41" href="$dc/db4/classActs_1_1AnnulusBounds.html#a14680a23eea4c284a58dc78107e936e7" title="Acts::AnnulusBounds\l::checkConsistency" alt="" coords="507,2313,673,2357"/>
+<area shape="rect" id="node42" href="$d4/d60/classGPUTPCTrackParam.html#a0b5da9f5709ab74aca734bd4601810d2" title="GPUTPCTrackParam::CheckNumerical\lQuality" alt="" coords="454,2381,726,2425"/>
+<area shape="rect" id="node43" href="$dd/ddd/classActs_1_1BinningData.html#acc8354827913b8d54b8f17e675780900" title="function pointer" alt="" coords="514,2449,666,2493"/>
+<area shape="rect" id="node44" href="$d0/dff/classkdfinder_1_1CircleFit.html#a835a078c098739cdb3e74ba44bafad4b" title="kdfinder::CircleFit\l::CircleFitByChernovHoussam" alt="" coords="480,2517,700,2561"/>
+<area shape="rect" id="node45" href="$d0/dff/classkdfinder_1_1CircleFit.html#ae54b507f0db0b996002c2a2c9be4fc6f" title="kdfinder::CircleFit\l::CircleFitByHyper" alt="" coords="519,2585,661,2629"/>
+<area shape="rect" id="node46" href="$d0/dff/classkdfinder_1_1CircleFit.html#a077460e488c7f7e9798b70766bb0f2d7" title="kdfinder::CircleFit\l::CircleFitByPratt" alt="" coords="520,2653,660,2697"/>
+<area shape="rect" id="node47" href="$d0/dff/classkdfinder_1_1CircleFit.html#ac134f05bc3faadccb312898f708086da" title="kdfinder::CircleFit\l::CircleFitByTaubin" alt="" coords="517,2721,663,2765"/>
+</map>

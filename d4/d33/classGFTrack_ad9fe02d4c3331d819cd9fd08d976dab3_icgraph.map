@@ -1,0 +1,25 @@
+<map id="GFTrack::getNumHits" name="GFTrack::getNumHits">
+<area shape="rect" id="node2" href="$d1/dce/classGFDaf.html#a29568e85716d0ac4fd69d290f86ad98d" title="Calculate the weights for the next fitting pass." alt="" coords="531,172,685,200"/>
+<area shape="rect" id="node3" href="$d1/dce/classGFDaf.html#acae6182be114ea4c813d0bb8995343a4" title="Process a track using the DAF." alt="" coords="755,224,915,252"/>
+<area shape="rect" id="node4" href="$df/d62/classPndRecoDafFit.html#a71b624dff0fc50e252d2d2b9eed898ee" title="PndRecoDafFit::Fit" alt="" coords="993,224,1137,252"/>
+<area shape="rect" id="node7" href="$d1/dce/classGFDaf.html#a8b2c71a01ea071c6188e583cade7c789" title="Copy the smoothing matrices from the source track to the target." alt="" coords="519,276,697,304"/>
+<area shape="rect" id="node8" href="$db/d6d/classPndRecoKalmanFit.html#af5a66632d2917c60057bd37109ec7364" title="PndRecoKalmanFit::Fit" alt="" coords="749,87,920,115"/>
+<area shape="rect" id="node10" href="$d0/de1/classGFKalman.html#ad19563b99c556c39f3c00995741cda0c" title="Performs fit on a GFTrack beginning with the current hit." alt="" coords="257,121,427,149"/>
+<area shape="rect" id="node11" href="$d0/de1/classGFKalman.html#ae47486960d827df0e414e068dc6d25fb" title="Performs fit on a GFTrack." alt="" coords="515,120,701,148"/>
+<area shape="rect" id="node13" href="$de/dc7/namespaceGFTools.html#a3bb6a2b23bfa5575c48ef8c30d19d1af" title="Get biased smoothed state vector, state covariance and smoothing plane." alt="" coords="217,377,467,405"/>
+<area shape="rect" id="node14" href="$de/dc7/namespaceGFTools.html#add6c55faefd02dca3257262feb8cf1b8" title="GFTools::getClosestHit" alt="" coords="255,429,429,457"/>
+<area shape="rect" id="node15" href="$d4/d33/classGFTrack.html#a9fd83867603ddc99b5a895ed58b5d5c5" title="GFTrack::getHitMap" alt="" coords="265,481,419,509"/>
+<area shape="rect" id="node16" href="$d4/d33/classGFTrack.html#a88c09537dc791d75150f39ce2c6df817" title="Get residuals." alt="" coords="257,533,427,561"/>
+<area shape="rect" id="node17" href="$de/dc7/namespaceGFTools.html#aa7388665cdcb0aae3d32dc095b017d6c" title="Get smoothed state vector, state covariance and smoothing plane." alt="" coords="240,585,444,613"/>
+<area shape="rect" id="node18" href="$de/dc7/namespaceGFTools.html#a2f1438ce10c5a491aa4e285af61ed8c7" title="GFTools::getTrackLength" alt="" coords="249,637,435,665"/>
+<area shape="rect" id="node19" href="$d4/d33/classGFTrack.html#a53d88ffa51ce82c984cd8266f678a98f" title="Copy constructor." alt="" coords="273,689,411,717"/>
+<area shape="rect" id="node20" href="$d4/d33/classGFTrack.html#a4156a1cee8569832479b7aea59511818" title="Merge two GFTracks. Only hits will be merged." alt="" coords="265,741,419,769"/>
+<area shape="rect" id="node21" href="$d4/d33/classGFTrack.html#a6f7429db6fe500807a3d53eb45ded508" title="assignement operator" alt="" coords="266,793,418,821"/>
+<area shape="rect" id="node22" href="$d4/d33/classGFTrack.html#aa60d3836d58a44ece5479f22e2e90783" title="GFTrack::Print" alt="" coords="285,845,399,873"/>
+<area shape="rect" id="node23" href="$d1/dce/classGFDaf.html#ac02cac0c97bc5217baaea7b90adfef47" title="GFDaf::saveWeights" alt="" coords="529,328,687,356"/>
+<area shape="rect" id="node24" href="$d4/d33/classGFTrack.html#a1c7e38807d8decdf23e01f90fd252481" title="GFTrack::sortHits" alt="" coords="274,949,410,977"/>
+<area shape="rect" id="node5" href="$d7/d87/classPndRecoKalmanTask.html#aa92916b999aeaf87e99fb08734ce368e" title="PndRecoKalmanTask::Exec" alt="" coords="1209,164,1409,192"/>
+<area shape="rect" id="node6" href="$d2/db6/classEicRecoKalmanTask.html#a10103a96af9664a82027040c505bfff1" title="EicRecoKalmanTask::Exec" alt="" coords="1457,164,1652,192"/>
+<area shape="rect" id="node9" href="$d2/d28/classPndRecoMultiKalmanTask.html#a79938b3ab7bca0cc183821c03520553a" title="PndRecoMultiKalmanTask\l::Exec" alt="" coords="968,139,1161,183"/>
+<area shape="rect" id="node12" href="$d0/de1/classGFKalman.html#aff929179fdd81ad4eb7727bc75ce9b88" title="Operator for use with STL." alt="" coords="751,139,918,167"/>
+</map>

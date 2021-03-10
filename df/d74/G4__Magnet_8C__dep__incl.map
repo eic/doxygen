@@ -1,0 +1,27 @@
+<map id="fun4all_macros/blob/master/common/G4_Magnet.C" name="fun4all_macros/blob/master/common/G4_Magnet.C">
+<area shape="rect" id="node2" href="$d7/d09/G4__DSTReader__LBLDetector_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_DSTReader\l_LBLDetector.C" alt="" coords="5,97,249,157"/>
+<area shape="rect" id="node4" href="$df/d34/G4Setup__LBLDetector_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/AllSilicon\l/G4Setup_LBLDetector.C" alt="" coords="274,97,482,157"/>
+<area shape="rect" id="node5" href="$d8/da0/G4Setup__ModularDetector_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/Modular\l/G4Setup_ModularDetector.C" alt="" coords="507,97,724,157"/>
+<area shape="rect" id="node7" href="$dc/df3/fun4all__eic__qa_2blob_2master_2macros_2G4Setup__EICDetector_8C.html" title="fun4all_eic_qa/blob\l/master/macros/G4Setup\l_EICDetector.C" alt="" coords="1017,97,1209,157"/>
+<area shape="rect" id="node9" href="$df/d4b/G4Setup__Babar_8C.html" title="fun4all_eic_tutorials\l/blob/master/detectors\l/Babar/G4Setup_Babar.C" alt="" coords="1486,97,1675,157"/>
+<area shape="rect" id="node11" href="$d4/de8/G4__DSTReader__Babar_8C.html" title="fun4all_eic_tutorials\l/blob/master/detectors\l/Babar/G4_DSTReader_Babar.C" alt="" coords="1699,97,1931,157"/>
+<area shape="rect" id="node12" href="$d1/d05/G4__DSTReader_8C.html" title="Convert DST to human command readable TTree for quick poke around the outputs." alt="" coords="2410,105,2666,149"/>
+<area shape="rect" id="node18" href="$d0/d9a/G4__DSTReader__EICDetector_8C.html" title="fun4all_macros/blob\l/master/common/G4_DSTReader\l_EICDetector.C" alt="" coords="748,97,992,157"/>
+<area shape="rect" id="node20" href="$d7/dfd/G4__DSTReader__fsPHENIX_8C.html" title="fun4all_macros/blob\l/master/common/G4_DSTReader\l_fsPHENIX.C" alt="" coords="2944,97,3188,157"/>
+<area shape="rect" id="node22" href="$d5/d14/fun4all__macros_2blob_2master_2detectors_2EICDetector_2G4Setup__EICDetector_8C.html" title="fun4all_macros/blob\l/master/detectors/EICDetector\l/G4Setup_EICDetector.C" alt="" coords="1233,97,1461,157"/>
+<area shape="rect" id="node23" href="$d6/d41/G4Setup__fsPHENIX_8C.html" title="fun4all_macros/blob\l/master/detectors/fsPHENIX\l/G4Setup_fsPHENIX.C" alt="" coords="3212,97,3421,157"/>
+<area shape="rect" id="node24" href="$d4/daf/fun4all__macros_2blob_2master_2detectors_2sPHENIX_2G4Setup__sPHENIX_8C.html" title="fun4all_macros/blob\l/master/detectors/sPHENIX\l/G4Setup_sPHENIX.C" alt="" coords="1956,97,2160,157"/>
+<area shape="rect" id="node25" href="$d9/d0b/fun4all__tutorials_2blob_2master_2AnaTutorial_2macro_2G4Setup__sPHENIX_8C.html" title="fun4all_tutorials/blob\l/master/AnaTutorial/macro\l/G4Setup_sPHENIX.C" alt="" coords="2184,97,2385,157"/>
+<area shape="rect" id="node26" href="$d3/dee/fun4all__tutorials_2blob_2master_2materialscan_2G4Setup__sPHENIX_8C.html" title="fun4all_tutorials/blob\l/master/materialscan/G4Setup\l_sPHENIX.C" alt="" coords="2690,97,2919,157"/>
+<area shape="rect" id="node3" href="$d9/d18/Fun4All__G4__LBLDetector_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/AllSilicon\l/Fun4All_G4_LBLDetector.C" alt="" coords="143,205,351,265"/>
+<area shape="rect" id="node6" href="$d5/d97/Fun4All__G4__FullDetectorModular_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/Modular\l/Fun4All_G4_FullDetectorModular.C" alt="" coords="490,205,749,265"/>
+<area shape="rect" id="node8" href="$d6/d79/fun4all__eic__qa_2blob_2master_2macros_2Fun4All__G4__EICDetector_8C.html" title="fun4all_eic_qa/blob\l/master/macros/Fun4All\l_G4_EICDetector.C" alt="" coords="839,205,1021,265"/>
+<area shape="rect" id="node10" href="$d8/d14/Fun4All__G4__Babar_8C.html" title="fun4all_eic_tutorials\l/blob/master/detectors\l/Babar/Fun4All_G4_Babar.C" alt="" coords="1541,205,1748,265"/>
+<area shape="rect" id="node13" href="$d9/d73/fun4all__macros_2blob_2master_2detectors_2sPHENIX_2Fun4All__G4__sPHENIX_8C.html" title="fun4all_macros/blob\l/master/detectors/sPHENIX\l/Fun4All_G4_sPHENIX.C" alt="" coords="1955,205,2159,265"/>
+<area shape="rect" id="node14" href="$db/dc0/Fun4All__AnaTutorial_8C.html" title="fun4all_tutorials/blob\l/master/AnaTutorial/macro\l/Fun4All_AnaTutorial.C" alt="" coords="2411,205,2612,265"/>
+<area shape="rect" id="node15" href="$dd/d28/Fun4All__AnaTutorial__Jets_8C.html" title="fun4all_tutorials/blob\l/master/AnaTutorial/macro\l/Fun4All_AnaTutorial_Jets.C" alt="" coords="2183,205,2387,265"/>
+<area shape="rect" id="node16" href="$d2/dbf/fun4all__tutorials_2blob_2master_2materialscan_2Fun4All__G4__sPHENIX_8C.html" title="fun4all_tutorials/blob\l/master/materialscan/Fun4All\l_G4_sPHENIX.C" alt="" coords="2877,205,3097,265"/>
+<area shape="rect" id="node17" href="$d3/d2b/Fun4All__G4__sPHENIX__particle__gen_8C.html" title="g4lblvtx/blob/master\l/other_codes/Fun4All\l_G4_sPHENIX_particle_gen.C" alt="" coords="2637,205,2853,265"/>
+<area shape="rect" id="node19" href="$d4/d91/fun4all__macros_2blob_2master_2detectors_2EICDetector_2Fun4All__G4__EICDetector_8C.html" title="fun4all_macros/blob\l/master/detectors/EICDetector\l/Fun4All_G4_EICDetector.C" alt="" coords="1169,205,1397,265"/>
+<area shape="rect" id="node21" href="$d7/d9e/Fun4All__G4__fsPHENIX_8C.html" title="fun4all_macros/blob\l/master/detectors/fsPHENIX\l/Fun4All_G4_fsPHENIX.C" alt="" coords="3167,205,3376,265"/>
+</map>

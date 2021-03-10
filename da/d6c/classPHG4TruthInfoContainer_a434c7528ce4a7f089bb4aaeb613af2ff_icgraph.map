@@ -1,0 +1,36 @@
+<map id="PHG4TruthInfoContainer::isEmbededVtx" name="PHG4TruthInfoContainer::isEmbededVtx">
+<area shape="rect" id="node2" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="249,241,437,285"/>
+<area shape="rect" id="node4" href="$da/d6c/classPHG4TruthInfoContainer.html#a77051a88c6708ed10465eca6b73c2272" title="PHG4TruthInfoContainer\l::GetPrimaryVertexIndex" alt="" coords="249,467,436,511"/>
+<area shape="rect" id="node33" href="$db/d07/classPHTruthVertexing.html#a9c11845b84b07f6c25633052dd09ede4" title="PHTruthVertexing::Process" alt="" coords="243,535,442,563"/>
+<area shape="rect" id="node34" href="$d7/dd6/classPHSiliconTruthTrackSeeding.html#ac9ded997e4f8f07f2bd103e9fa294d27" title="PHSiliconTruthTrackSeeding\l::Process" alt="" coords="239,587,447,631"/>
+<area shape="rect" id="node35" href="$d1/d05/classQAG4SimulationVertex.html#a5d6b9df173a4094d3744572a9e2410d0" title="QAG4SimulationVertex\l::process_event" alt="" coords="255,655,431,699"/>
+<area shape="rect" id="node3" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="525,83,701,127"/>
+<area shape="rect" id="node5" href="$dd/d59/classCaloEvaluator.html#a5298ee9646d361a4960fc0e20f83c880" title="dump the evaluator information into ntuple for external analysis" alt="" coords="519,355,707,399"/>
+<area shape="rect" id="node7" href="$da/d6c/classPHG4TruthInfoContainer.html#a349601fb176f9c6a2b2910831870cb81" title="PHG4TruthInfoContainer\l::identify" alt="" coords="521,219,706,263"/>
+<area shape="rect" id="node21" href="$de/d25/classPHGenFitTrkFitter.html#a99d09d612858e8b8d146c26bb764e62a" title="Make SvtxTrack from PHGenFit::Track and SvtxTrack." alt="" coords="541,287,686,331"/>
+<area shape="rect" id="node23" href="$d6/d11/classSvtxEvaluator.html#aef548ddeafdf0ebc949f29e88a741db8" title="print out the ancestry information for detailed diagnosis" alt="" coords="499,423,727,451"/>
+<area shape="rect" id="node24" href="$dd/d59/classCaloEvaluator.html#ab7e09466d57c5b93274f09f61c0f321e" title="print out the ancestry information for detailed diagnosis" alt="" coords="499,475,727,503"/>
+<area shape="rect" id="node25" href="$db/d22/classEventEvaluator.html#a7c006895465ed851ca9ef516ca648e10" title="print out the ancestry information for detailed diagnosis" alt="" coords="495,527,732,555"/>
+<area shape="rect" id="node27" href="$d8/dc7/classMomentumEvaluator.html#a19c5f2c6d74578feea3513322e9f1fe3" title="MomentumEvaluator::\lprocess_event" alt="" coords="528,579,699,623"/>
+<area shape="rect" id="node28" href="$de/d86/classG4VtxNtuple.html#a5b8b206432f62642daaa6b29c9b50cba" title="event processing method" alt="" coords="529,647,697,691"/>
+<area shape="rect" id="node29" href="$d1/d89/classBbcVertexFastSimReco.html#acbf212b1bebbe61876b533e0cf5a2eab" title="BbcVertexFastSimReco\l::process_event" alt="" coords="526,715,701,759"/>
+<area shape="rect" id="node30" href="$da/d12/classGlobalVertexFastSimReco.html#aa847bedea594b6493608177209e39ddf" title="GlobalVertexFastSimReco\l::process_event" alt="" coords="517,783,710,827"/>
+<area shape="rect" id="node31" href="$d4/d0c/classEvalRootTTreeReco.html#aa52e071262119526aec5ea0dfdbc13d2" title="EvalRootTTreeReco::\lprocess_event" alt="" coords="535,851,692,895"/>
+<area shape="rect" id="node32" href="$d9/d91/classPHG4TrackFastSim.html#a8bb22ab279c5f433069774bd2ab0a7ae" title="Process Event, called for each event." alt="" coords="509,151,717,195"/>
+<area shape="rect" id="node6" href="$dd/d59/classCaloEvaluator.html#a936967e98c89ec58e7851b0661b838c0" title="CaloEvaluator::process\l_event" alt="" coords="797,403,973,447"/>
+<area shape="rect" id="node8" href="$da/d6c/classPHG4TruthInfoContainer.html#a6413d92f20399d8bf2c6d8d19092e236" title="Add a shower that the user has created." alt="" coords="792,5,977,49"/>
+<area shape="rect" id="node10" href="$da/d6c/classPHG4TruthInfoContainer.html#ac3800b9c5d96062db80120f2dfcfb44a" title="Add a vertex and return an iterator to the user." alt="" coords="792,73,977,117"/>
+<area shape="rect" id="node14" href="$d8/d78/classPHG4ParticleGeneratorBase.html#a1c8fb7b3cb97ad9c0eb85468be4f0f1b" title="PHG4ParticleGeneratorBase\l::ReuseExistingVertex" alt="" coords="780,243,989,287"/>
+<area shape="rect" id="node9" href="$db/d5c/classPHG4TruthTrackingAction.html#a22bc2cb2f4cdd07e12eee38c1a43f586" title="tracking action" alt="" coords="1052,5,1243,49"/>
+<area shape="rect" id="node11" href="$d4/db6/exceptionFun4AllDstPileupMerger.html#aff74804be47480038d862e90001e8e8f" title="time&#45;shift and copy content of source nodes to destination" alt="" coords="1050,73,1245,117"/>
+<area shape="rect" id="node12" href="$dd/d8c/classFun4AllDstPileupInputManager.html#aef764d010943119087c60e7c845fbb49" title="Fun4AllDstPileupInputManager::run" alt="" coords="1305,52,1565,80"/>
+<area shape="rect" id="node13" href="$d5/d00/classFun4AllSingleDstPileupInputManager.html#a01149fa86dc066e4413d6b02e94df581" title="Fun4AllSingleDstPileupInput\lManager::run" alt="" coords="1329,104,1541,148"/>
+<area shape="rect" id="node15" href="$dd/d13/classPHG4ParticleGun.html#a6a76fa0b061c94d8ce36da48fd41d274" title="PHG4ParticleGun::process\l_event" alt="" coords="1049,277,1246,321"/>
+<area shape="rect" id="node16" href="$da/ddc/classPHG4IonGun.html#a5a16c52574396043551b429962256e43" title="PHG4IonGun::process\l_event" alt="" coords="1063,345,1231,389"/>
+<area shape="rect" id="node17" href="$dd/d68/classPHG4ParticleGenerator.html#a1292dcb1c73496ea30769a4b8c355780" title="PHG4ParticleGenerator\l::process_event" alt="" coords="1059,413,1236,457"/>
+<area shape="rect" id="node18" href="$d9/d78/classPHG4ParticleGeneratorD0.html#a0d5fb0589e341d72f767844ead51039a" title="PHG4ParticleGeneratorD0\l::process_event" alt="" coords="1049,481,1245,525"/>
+<area shape="rect" id="node19" href="$d7/dc3/classPHG4ParticleGeneratorVectorMeson.html#abd61007655fd3b068d1ab5b53828532a" title="PHG4ParticleGeneratorVector\lMeson::process_event" alt="" coords="1037,141,1257,185"/>
+<area shape="rect" id="node20" href="$d5/df3/classPHG4SimpleEventGenerator.html#a4a7065a5083bd5b21c3743f8e224065b" title="PHG4SimpleEventGenerator\l::process_event" alt="" coords="1041,209,1254,253"/>
+<area shape="rect" id="node22" href="$de/d25/classPHGenFitTrkFitter.html#a2e088a68ab24c5b89b902205f877f9d6" title="Process Event, called for each event." alt="" coords="812,311,957,355"/>
+<area shape="rect" id="node26" href="$db/d22/classEventEvaluator.html#a02eade2e99934373a00453bd3c1dd1dd" title="EventEvaluator::process\l_event" alt="" coords="792,519,977,563"/>
+</map>

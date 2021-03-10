@@ -1,0 +1,9 @@
+<map id="Acts::detail::PointwiseMaterialInteraction::evaluatePointwiseMaterialInteraction" name="Acts::detail::PointwiseMaterialInteraction::evaluatePointwiseMaterialInteraction">
+<area shape="rect" id="node2" href="$da/d7b/namespaceActs.html#a9fc90097203ac9df789419291414a5a0" title="Acts::computeEnergyLossBethe" alt="" coords="349,21,585,49"/>
+<area shape="rect" id="node3" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a852805642b7f5c67392359904233d7c7" title="Evaluates the contributions to the covariance matrix." alt="" coords="333,73,601,117"/>
+<area shape="rect" id="node4" href="$da/d7b/namespaceActs.html#a6a5206b2b98f8a2da212af6e53c11192" title="Acts::computeEnergyLossLandau\lSigmaQOverP" alt="" coords="649,5,895,49"/>
+<area shape="rect" id="node5" href="$da/d7b/namespaceActs.html#ad7746afda7bc95e2a078c1ce4c0d2676" title="Acts::computeMultipleScattering\lTheta0" alt="" coords="651,73,893,117"/>
+<area shape="rect" id="node8" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a9d0d7e35444d5f4a0ae7accb0a2c70db" title="Acts::VectorHelpers\l::perp" alt="" coords="695,141,849,185"/>
+<area shape="rect" id="node6" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="943,81,1053,109"/>
+<area shape="rect" id="node7" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1101,81,1277,109"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="fun4all_coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4SectorConstructor.h" name="fun4all_coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4SectorConstructor.h">
+<area shape="rect" id="node2" href="$d4/d18/PHG4SectorConstructor_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/PHG4SectorConstructor.cc" alt="" coords="143,129,347,205"/>
+<area shape="rect" id="node3" href="$da/d41/PHG4SectorDetector_8h.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/PHG4SectorDetector.h" alt="" coords="371,129,573,205"/>
+<area shape="rect" id="node7" href="$d6/d6c/PHG4SectorSubsystem_8h.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/PHG4SectorSubsystem.h" alt="" coords="1206,129,1407,205"/>
+<area shape="rect" id="node4" href="$d8/d30/PHG4SectorDetector_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/PHG4SectorDetector.cc" alt="" coords="259,253,461,329"/>
+<area shape="rect" id="node5" href="$d3/da0/PHG4SectorSteppingAction_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/PHG4SectorSteppingAction.cc" alt="" coords="5,253,235,329"/>
+<area shape="rect" id="node6" href="$da/d31/PHG4SectorSubsystem_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/PHG4SectorSubsystem.cc" alt="" coords="485,253,686,329"/>
+<area shape="rect" id="node8" href="$db/dd2/G4__TTL__EIC_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_TTL_EIC.C" alt="" coords="711,269,945,313"/>
+<area shape="rect" id="node14" href="$de/d75/G4__Aerogel_8C.html" title="Aerogel RICH for EIC detector." alt="" coords="869,393,1102,437"/>
+<area shape="rect" id="node21" href="$d8/d50/G4__DIRC_8C.html" title="Macro setting up the barrel DIRC." alt="" coords="1127,393,1340,437"/>
+<area shape="rect" id="node23" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html" title="fun4all_macros/blob\l/master/common/G4_FGEM\l_fsPHENIX.C" alt="" coords="2815,261,3022,321"/>
+<area shape="rect" id="node27" href="$d1/db0/G4__FST__EIC_8C.html" title="fun4all_macros/blob\l/master/common/G4_FST_EIC.C" alt="" coords="1364,393,1599,437"/>
+<area shape="rect" id="node28" href="$de/d55/G4__GEM__EIC_8C.html" title="fun4all_macros/blob\l/master/common/G4_GEM_EIC.C" alt="" coords="1419,269,1661,313"/>
+<area shape="rect" id="node30" href="$d4/d25/auxiliary__studies_2hadron__phi__asymmetry_2G4__GEM_8C.html" title="g4lblvtx/blob/master\l/macros/auxiliary_studies\l/hadron_phi_asymmetry/G4_GEM.C" alt="" coords="1853,261,2113,321"/>
+<area shape="rect" id="node32" href="$d4/da7/G4__GEM_8C.html" title="g4lblvtx/blob/master\l/macros/G4_GEM.C" alt="" coords="2329,269,2492,313"/>
+<area shape="rect" id="node9" href="$d3/d11/G4__Tracking__Modular_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_Tracking\l_Modular.C" alt="" coords="468,385,692,445"/>
+<area shape="rect" id="node10" href="$d8/da0/G4Setup__ModularDetector_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/Modular\l/G4Setup_ModularDetector.C" alt="" coords="766,501,983,561"/>
+<area shape="rect" id="node12" href="$df/d13/G4Setup__ModularDetectorBeast_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/ModularBeast\l/G4Setup_ModularDetectorBeast.C" alt="" coords="485,501,742,561"/>
+<area shape="rect" id="node11" href="$d5/d97/Fun4All__G4__FullDetectorModular_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/Modular\l/Fun4All_G4_FullDetectorModular.C" alt="" coords="1231,609,1489,669"/>
+<area shape="rect" id="node13" href="$d0/dce/Fun4All__G4__FullDetectorModularBeast_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/ModularBeast\l/Fun4All_G4_FullDetectorModularBeast.C" alt="" coords="465,609,762,669"/>
+<area shape="rect" id="node15" href="$df/d34/G4Setup__LBLDetector_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/AllSilicon\l/G4Setup_LBLDetector.C" alt="" coords="1008,501,1216,561"/>
+<area shape="rect" id="node17" href="$dc/df3/fun4all__eic__qa_2blob_2master_2macros_2G4Setup__EICDetector_8C.html" title="fun4all_eic_qa/blob\l/master/macros/G4Setup\l_EICDetector.C" alt="" coords="1509,501,1701,561"/>
+<area shape="rect" id="node19" href="$d5/d14/fun4all__macros_2blob_2master_2detectors_2EICDetector_2G4Setup__EICDetector_8C.html" title="fun4all_macros/blob\l/master/detectors/EICDetector\l/G4Setup_EICDetector.C" alt="" coords="1726,501,1954,561"/>
+<area shape="rect" id="node16" href="$d9/d18/Fun4All__G4__LBLDetector_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/AllSilicon\l/Fun4All_G4_LBLDetector.C" alt="" coords="999,609,1207,669"/>
+<area shape="rect" id="node18" href="$d6/d79/fun4all__eic__qa_2blob_2master_2macros_2Fun4All__G4__EICDetector_8C.html" title="fun4all_eic_qa/blob\l/master/macros/Fun4All\l_G4_EICDetector.C" alt="" coords="1514,609,1697,669"/>
+<area shape="rect" id="node20" href="$d4/d91/fun4all__macros_2blob_2master_2detectors_2EICDetector_2Fun4All__G4__EICDetector_8C.html" title="fun4all_macros/blob\l/master/detectors/EICDetector\l/Fun4All_G4_EICDetector.C" alt="" coords="1723,609,1951,669"/>
+<area shape="rect" id="node22" href="$d0/d9a/G4__DSTReader__EICDetector_8C.html" title="fun4all_macros/blob\l/master/common/G4_DSTReader\l_EICDetector.C" alt="" coords="1241,501,1485,561"/>
+<area shape="rect" id="node24" href="$d7/dfd/G4__DSTReader__fsPHENIX_8C.html" title="fun4all_macros/blob\l/master/common/G4_DSTReader\l_fsPHENIX.C" alt="" coords="2797,385,3041,445"/>
+<area shape="rect" id="node26" href="$d6/d41/G4Setup__fsPHENIX_8C.html" title="fun4all_macros/blob\l/master/detectors/fsPHENIX\l/G4Setup_fsPHENIX.C" alt="" coords="3065,385,3274,445"/>
+<area shape="rect" id="node25" href="$d7/d9e/Fun4All__G4__fsPHENIX_8C.html" title="fun4all_macros/blob\l/master/detectors/fsPHENIX\l/Fun4All_G4_fsPHENIX.C" alt="" coords="2939,501,3149,561"/>
+<area shape="rect" id="node29" href="$d1/d31/G4__Tracking__EIC_8C.html" title="fun4all_macros/blob\l/master/common/G4_Tracking_\lEIC.C" alt="" coords="1724,385,1956,445"/>
+<area shape="rect" id="node31" href="$d0/dd2/Fun4All__G4__simple__hadron__GEM_8C.html" title="g4lblvtx/blob/master\l/macros/auxiliary_studies\l/hadron_phi_asymmetry/Fun4All\l_G4_simple_hadron_GEM.C" alt="" coords="2031,377,2271,453"/>
+<area shape="rect" id="node33" href="$db/dc2/Fun4All__G4__FastMom__GEM_8C.html" title="g4lblvtx/blob/master\l/macros/Fun4All_G4_FastMom_\lGEM.C" alt="" coords="2295,385,2526,445"/>
+<area shape="rect" id="node34" href="$d7/df9/Fun4All__G4__FastMom__GEM__RICH_8C.html" title="g4lblvtx/blob/master\l/macros/Fun4All_G4_FastMom\l_GEM_RICH.C" alt="" coords="2550,385,2773,445"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="AllSiliconTrackerSteppingAction::UserSteppingAction" name="AllSiliconTrackerSteppingAction::UserSteppingAction">
+<area shape="rect" id="node2" href="$d4/d30/classPHG4HitContainer.html#a4df3ca68ecff69c9d7976b84fcc82e93" title="PHG4HitContainer::AddHit" alt="" coords="260,5,459,33"/>
+<area shape="rect" id="node3" href="$d3/d9e/classPHG4Hit.html#acea6b2f3763d899e4de3765b9b5c6e51" title="PHG4Hit::get_hit_id" alt="" coords="507,32,659,60"/>
+<area shape="rect" id="node4" href="$d6/dca/classAllSiliconTrackerDetector.html#a391aa8f1548cd8da9bf23c1e373009cb" title="AllSiliconTrackerDetector\l::get_detid" alt="" coords="263,109,455,153"/>
+<area shape="rect" id="node5" href="$d6/dca/classAllSiliconTrackerDetector.html#af9e20bdfc97828f5baf33aabdae5610c" title="AllSiliconTrackerDetector\l::get_hitcontainer" alt="" coords="263,177,455,221"/>
+<area shape="rect" id="node7" href="$d3/d9e/classPHG4Hit.html#a69cc7aee827e3da7cf86e87418f9211b" title="PHG4Hit::get_x" alt="" coords="297,245,421,273"/>
+<area shape="rect" id="node8" href="$d4/d30/classPHG4HitContainer.html#a5073671e6d35969dc3d421e2278229af" title="PHG4HitContainer::GetID" alt="" coords="264,297,455,325"/>
+<area shape="rect" id="node9" href="$df/d3f/classPHG4SteppingAction.html#a88ff50956245a2b72d459bad2004e1ca" title="PHG4SteppingAction\l::GetName" alt="" coords="279,349,440,393"/>
+<area shape="rect" id="node10" href="$d2/df6/namespacePHG4StepStatusDecode.html#aeadff043ba4ca96f6011a5a8d7e803bf" title="PHG4StepStatusDecode\l::GetStepStatus" alt="" coords="267,417,451,461"/>
+<area shape="rect" id="node11" href="$d6/dca/classAllSiliconTrackerDetector.html#ab93262e810b9eb9663cb84337e455342" title="AllSiliconTrackerDetector\l::IsInDetector" alt="" coords="263,485,455,529"/>
+<area shape="rect" id="node12" href="$d3/d9e/classPHG4Hit.html#a73b21baa3e6de2ae4c8101ca5293a9ed" title="Clear Event." alt="" coords="297,553,422,581"/>
+<area shape="rect" id="node13" href="$d3/d9e/classPHG4Hit.html#ad97bbe7fcf81822a93654afe0e540143" title="PHG4Hit::set_edep" alt="" coords="285,605,433,633"/>
+<area shape="rect" id="node14" href="$d3/d9e/classPHG4Hit.html#a164f860f2c74482d5d26c220f19be1f1" title="PHG4Hit::set_layer" alt="" coords="285,657,434,685"/>
+<area shape="rect" id="node15" href="$d3/d9e/classPHG4Hit.html#a5cced855d1a85cb380f993417f1e5b1a" title="PHG4Hit::set_t" alt="" coords="299,709,419,737"/>
+<area shape="rect" id="node16" href="$d3/d9e/classPHG4Hit.html#ac4e7f18a0d54ec275128651928e69531" title="PHG4Hit::set_trkid" alt="" coords="287,761,431,789"/>
+<area shape="rect" id="node17" href="$d3/d9e/classPHG4Hit.html#aa91398b4546e9d099443217e1577f79b" title="PHG4Hit::set_x" alt="" coords="298,813,421,841"/>
+<area shape="rect" id="node18" href="$d3/d9e/classPHG4Hit.html#a3ab7971f354374b005f9a11fd761b53e" title="PHG4Hit::set_y" alt="" coords="298,865,421,893"/>
+<area shape="rect" id="node19" href="$d3/d9e/classPHG4Hit.html#a896d7a45139f9cbc2e429127baa61715" title="PHG4Hit::set_z" alt="" coords="299,917,420,945"/>
+<area shape="rect" id="node6" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="559,185,606,213"/>
+</map>

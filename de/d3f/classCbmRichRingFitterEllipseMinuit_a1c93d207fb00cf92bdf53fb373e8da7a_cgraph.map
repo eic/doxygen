@@ -1,0 +1,16 @@
+<map id="CbmRichRingFitterEllipseMinuit::DoFit" name="CbmRichRingFitterEllipseMinuit::DoFit">
+<area shape="rect" id="node2" href="$dd/d22/classCbmRichRingFitterEllipseBase.html#a7bff3502ea2108f09d5d918036add14d" title="Calculate chi2 of the ellipse fit." alt="" coords="255,232,445,276"/>
+<area shape="rect" id="node5" href="$de/d89/classCbmRichRingLight.html#ac2451e7309a97a6ac4e8d49796e60ac9" title="Return hit by the index." alt="" coords="519,5,717,33"/>
+<area shape="rect" id="node6" href="$de/d89/classCbmRichRingLight.html#ad45c397b52a7882866e354cfcd2c1bd6" title="Return number of hits in ring." alt="" coords="504,421,732,449"/>
+<area shape="rect" id="node13" href="$de/d89/classCbmRichRingLight.html#a2a6ea7d670ef6c3ddc4f4039f09434d6" title="CbmRichRingLight::SetRadius" alt="" coords="507,473,729,501"/>
+<area shape="rect" id="node14" href="$de/d89/classCbmRichRingLight.html#a29939563c2ed0ed2cdd4fc950884f4f6" title="Set all 5 ellipse parameters." alt="" coords="508,529,728,557"/>
+<area shape="rect" id="node15" href="$de/d3f/classCbmRichRingFitterEllipseMinuit.html#aee7b099a7352d31b80266511a6b135f0" title="Transform obtained parameters from MINUIT to CbmRichRingLight." alt="" coords="244,465,456,509"/>
+<area shape="rect" id="node3" href="$de/d89/classCbmRichRingLight.html#a7bea967c0a79889d5547fd6ad762ddac" title="CbmRichRingLight::GetAaxis" alt="" coords="511,57,725,85"/>
+<area shape="rect" id="node4" href="$de/d89/classCbmRichRingLight.html#a354eba46248ef5a37d2ac0fba10331ad" title="CbmRichRingLight::GetBaxis" alt="" coords="511,109,725,137"/>
+<area shape="rect" id="node7" href="$de/d89/classCbmRichRingLight.html#ac0fa155c88ede1746bd735d68eb646c5" title="Calculate and return X coordinate of the first focus." alt="" coords="517,161,719,189"/>
+<area shape="rect" id="node9" href="$de/d89/classCbmRichRingLight.html#af711a75557e1bc7058a09c1e5d91a8b3" title="Calculate and return X coordinate of the second focus." alt="" coords="517,213,719,241"/>
+<area shape="rect" id="node10" href="$de/d89/classCbmRichRingLight.html#ac17e5b8f215a121157fd5bffa9d437c8" title="Calculate and return Y coordinate of the first focus." alt="" coords="517,265,719,293"/>
+<area shape="rect" id="node11" href="$de/d89/classCbmRichRingLight.html#a8787893aa46bbd07a4711de609272771" title="Calculate and return Y coordinate of the second focus." alt="" coords="517,317,719,345"/>
+<area shape="rect" id="node12" href="$de/d89/classCbmRichRingLight.html#af50910fe561505395f7bb4b12777e75a" title="CbmRichRingLight::SetChi2" alt="" coords="515,369,721,397"/>
+<area shape="rect" id="node8" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="780,188,824,216"/>
+</map>

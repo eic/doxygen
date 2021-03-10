@@ -1,0 +1,35 @@
+<map id="FairMultiLinkedData::SetLink" name="FairMultiLinkedData::SetLink">
+<area shape="rect" id="node2" href="$df/d10/classFairMultiLinkedData.html#a6021b6584834def64d405d52c5f49429" title="Adds a FairLink link at the end of fLinks. If multi is kTRUE a link is allowed more than once otherwi..." alt="" coords="207,301,360,345"/>
+<area shape="rect" id="node5" href="$d6/da5/classFairLink.html#a1d2581f4b79a434aacb932390dfa02a3" title="FairLink::GetWeight" alt="" coords="753,315,907,343"/>
+<area shape="rect" id="node6" href="$d6/da5/classFairLink.html#a7b9238bb9a934c83c1129c282a4c6057" title="FairLink::SetWeight" alt="" coords="754,5,906,33"/>
+<area shape="rect" id="node3" href="$df/d10/classFairMultiLinkedData.html#a265eac63eef64bca1588f529c2fed859" title="Adds a List of FairLinks (FairMultiLinkedData) to fLinks." alt="" coords="459,108,612,152"/>
+<area shape="rect" id="node7" href="$d0/d6c/classFairRootManager.html#a7f2e8554087a63ad638c4fb80a87b320" title="FairRootManager::CheckBranch" alt="" coords="419,624,651,652"/>
+<area shape="rect" id="node11" href="$d0/d6c/classFairRootManager.html#a84a39c70b28a5b7ddb59c737cdee2709" title="FairRootManager::GetBranchId" alt="" coords="422,176,649,204"/>
+<area shape="rect" id="node12" href="$d0/d6c/classFairRootManager.html#a5ba9bc4dd1ea16cc2ef999a78aac0498" title="FairRootManager::GetBranchName" alt="" coords="408,228,663,256"/>
+<area shape="rect" id="node13" href="$d6/da5/classFairLink.html#a0b804a2beb1f7cd11e7e1367f3de67ed" title="FairLink::GetIndex" alt="" coords="464,280,607,308"/>
+<area shape="rect" id="node14" href="$df/d10/classFairMultiLinkedData.html#a073907c634728321ec446dcc3081f86b" title="returns the number of stored links" alt="" coords="459,332,612,376"/>
+<area shape="rect" id="node15" href="$d0/d6c/classFairRootManager.html#abbbec76c83bcd0e1b78bef3c54e178eb" title="FairRootManager::GetObject" alt="" coords="724,704,936,732"/>
+<area shape="rect" id="node31" href="$d6/da5/classFairLink.html#ac24acb72d164de213ecc15521127e672" title="FairLink::GetType" alt="" coords="467,400,604,428"/>
+<area shape="rect" id="node32" href="$df/d10/classFairMultiLinkedData.html#ac2865b824ebdfa83404b34c028aceb50" title="Inserts a link into the list of links without persistance checking." alt="" coords="459,556,612,600"/>
+<area shape="rect" id="node34" href="$d0/d6c/classFairRootManager.html#a830b7803b29e7424a75f2dc374dcc96b" title="FairRootManager::Instance" alt="" coords="435,504,636,532"/>
+<area shape="rect" id="node4" href="$df/d10/classFairMultiLinkedData.html#aa07f66692e0d0395427407b42aa91638" title="returns stored links as FairLinks" alt="" coords="753,108,907,152"/>
+<area shape="rect" id="node8" href="$d0/d6c/classFairRootManager.html#a04b41ff94b887472752605bbc3282a67" title="FairRootManager::CreatePerMap" alt="" coords="711,645,949,673"/>
+<area shape="rect" id="node9" href="$d0/d6c/classFairRootManager.html#a6290139c7d60628625c0c0ff8a9c4b73" title="FairRootManager::CheckBranchSt" alt="" coords="997,593,1244,621"/>
+<area shape="rect" id="node10" href="$d0/d6c/classFairRootManager.html#a6135b9b9cc49e5e778b81b566f75e0e8" title="FairRootManager::GetMemory\lBranch" alt="" coords="1293,584,1516,628"/>
+<area shape="rect" id="node16" href="$db/da1/classFairLogger.html#a60bd2d39c9b6c2be4d5c8893a7d6921e" title="FairLogger::Debug2" alt="" coords="1328,824,1481,852"/>
+<area shape="rect" id="node27" href="$d0/d6c/classFairRootManager.html#a62ae3b6bdfdb86e3c710ae18ebe67367" title="FairRootManager::Activate\lBranch" alt="" coords="1021,703,1220,747"/>
+<area shape="rect" id="node17" href="$db/da1/classFairLogger.html#ae5a926d95789678b453cbb45e0a9a46e" title="FairLogger::IsLogNeeded" alt="" coords="1565,799,1752,827"/>
+<area shape="rect" id="node18" href="$db/da1/classFairLogger.html#aa9d98b58fab95abcf553dfefe1e572f5" title="FairLogger::Log" alt="" coords="1597,747,1721,775"/>
+<area shape="rect" id="node19" href="$db/da1/classFairLogger.html#a496d9b3f72963d24a58abc5a023b74b0" title="End of the line." alt="" coords="1845,695,1975,723"/>
+<area shape="rect" id="node24" href="$db/da1/classFairLogger.html#aeb76e4a75fe913ebdf1c07b5d1f3ac1b" title="FairLogger::GetOutputStream" alt="" coords="1800,747,2020,775"/>
+<area shape="rect" id="node25" href="$db/da1/classFairLogger.html#a5529c6ab25bc075aff767f30a743e616" title="FairLogger::OpenLogFile" alt="" coords="2085,799,2267,827"/>
+<area shape="rect" id="node20" href="$db/da1/classFairLogger.html#aca7a4fd0af5e622c9635f62996a7334d" title="Flush the streams." alt="" coords="2357,656,2491,684"/>
+<area shape="rect" id="node21" href="$db/da1/classFairLogger.html#a9848989e18afa7144b47ecc38b7bfe0e" title="FairLogger::LogFatalMessage" alt="" coords="2068,695,2284,723"/>
+<area shape="rect" id="node22" href="$db/da1/classFairLogger.html#a6fe59f109418f1331c91c39d0ea33c1d" title="FairLogger::GetTime" alt="" coords="2345,721,2503,749"/>
+<area shape="rect" id="node23" href="$df/da1/namespaceActs_1_1VectorHelpers.html#ab52a0c8023eda1c81cc9ddfe7f03b535" title="Access to the time component of input parameter." alt="" coords="2564,713,2719,757"/>
+<area shape="rect" id="node26" href="$db/da1/classFairLogger.html#a80d1ac93eff9a9b6d52f8118b8b796aa" title="FairLogger::CloseLogFile" alt="" coords="2332,799,2516,827"/>
+<area shape="rect" id="node28" href="$db/da1/classFairLogger.html#a710e562aaff33766e424013a77d9cb77" title="FairLogger::Debug" alt="" coords="1333,652,1477,680"/>
+<area shape="rect" id="node29" href="$db/da1/classFairLogger.html#a3ebc5751836771a50a11e0e2491a9f68" title="FairLogger::Info" alt="" coords="1342,772,1467,800"/>
+<area shape="rect" id="node30" href="$d0/d6c/classFairRootManager.html#ae01e51ec943e7e829002b077cf50792d" title="FairRootManager::AddMemory\lBranch" alt="" coords="1292,704,1517,748"/>
+<area shape="rect" id="node33" href="$d6/da5/classFairLink.html#a9901f437889507bae3db3577078bc8ae" title="FairLink::AddWeight" alt="" coords="752,541,908,569"/>
+</map>

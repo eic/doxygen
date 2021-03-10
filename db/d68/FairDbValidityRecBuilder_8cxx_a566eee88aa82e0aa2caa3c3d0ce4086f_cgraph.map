@@ -1,0 +1,25 @@
+<map id="ClassImp" name="ClassImp">
+<area shape="rect" id="node2" href="$de/d5c/namespaceSimFlag.html#a6632a9141f0b9fd08f75b0642eed8d67" title="SimFlag::AsString" alt="" coords="181,5,321,33"/>
+<area shape="rect" id="node3" href="$d4/d1d/classFairDbSimFlagAssociation.html#a8fc6b6d5686f207401af701b212d84be" title="FairDbSimFlagAssociation::Get" alt="" coords="136,57,365,85"/>
+<area shape="rect" id="node4" href="$dd/da1/classFairDbValidityRec.html#a5da26f8f3debf45ef674235f03bb3eed" title="FairDbValidityRec::\lGetAggregateNo" alt="" coords="177,109,324,153"/>
+<area shape="rect" id="node5" href="$dd/da1/classFairDbValidityRec.html#ae6ea497640052a18c2f44a79f151d022" title="FairDbValidityRec::\lGetCreationDate" alt="" coords="177,177,324,221"/>
+<area shape="rect" id="node6" href="$d0/dfc/classFairDbResultNonAgg.html#ae1f52ba66453d286f327150fddafee22" title="FairDbResultNonAgg\l::GetNumRows" alt="" coords="171,245,330,289"/>
+<area shape="rect" id="node7" href="$d2/d87/classValTimeStamp.html#a5c282fbab835f86d8a8d6a91b62162d1" title="Get (integral) seconds after the EPOCH." alt="" coords="162,313,339,341"/>
+<area shape="rect" id="node8" href="$dd/da1/classFairDbValidityRec.html#a1985f7dce99fe8c695409c5bda03039c" title="FairDbValidityRec::\lGetSeqNo" alt="" coords="177,365,324,409"/>
+<area shape="rect" id="node9" href="$d0/dfc/classFairDbResultNonAgg.html#a7f0025513532a748ee58bc3b8d6a42f1" title="FairDbResultNonAgg\l::GetTableRow" alt="" coords="171,433,330,477"/>
+<area shape="rect" id="node10" href="$d9/df6/classValRange.html#a0b489c5e3dab431b268469d0aadc7718" title="ValRange::GetTimeEnd" alt="" coords="427,492,604,520"/>
+<area shape="rect" id="node11" href="$d5/dcb/namespaceFairDb.html#ac1ee17448e5df87fc7bbe741d6dad01e" title="FairDb::GetTimeGate" alt="" coords="169,809,332,837"/>
+<area shape="rect" id="node12" href="$d5/dcb/namespaceFairDb.html#a83273bdd1df5e66bb44c81cb1236dcf7" title="FairDb::SetTimeGate" alt="" coords="435,804,596,832"/>
+<area shape="rect" id="node13" href="$d9/df6/classValRange.html#af0136e7f8964a0d39a4df1b64f1d95cd" title="ValRange::GetTimeStart" alt="" coords="423,544,608,572"/>
+<area shape="rect" id="node14" href="$dd/da1/classFairDbValidityRec.html#ae56c62cc0c521287d484c53dd2d70f2a" title="FairDbValidityRec::\lGetValRange" alt="" coords="442,664,589,708"/>
+<area shape="rect" id="node15" href="$d4/d1d/classFairDbSimFlagAssociation.html#a32da778cc6c59806b8d74527b29d9688" title="Get access to the one and only instance." alt="" coords="153,861,348,905"/>
+<area shape="rect" id="node17" href="$dd/da1/classFairDbValidityRec.html#a00174a75a9b771c842a9f823224bc36e" title="FairDbValidityRec::\lIsGap" alt="" coords="442,732,589,776"/>
+<area shape="rect" id="node18" href="$dd/da1/classFairDbValidityRec.html#adf027897e829189edf5151d7842a5bfe" title="FairDbValidityRec::\lSetDbNo" alt="" coords="177,929,324,973"/>
+<area shape="rect" id="node19" href="$dd/da1/classFairDbValidityRec.html#ad01b37e6101459721307c288067b1a39" title="FairDbValidityRec::\lSetValRange" alt="" coords="177,997,324,1041"/>
+<area shape="rect" id="node20" href="$dd/da1/classFairDbValidityRec.html#ad4107b277c452ee03cd653b8f3f46126" title="FairDbValidityRec::Trim" alt="" coords="163,604,339,632"/>
+<area shape="rect" id="node16" href="$d4/d1d/classFairDbSimFlagAssociation.html#af79b65d2a0ee63b1329dffcb41cab0c7" title="FairDbSimFlagAssociation\l::FairDbSimFlagAssociation" alt="" coords="413,861,617,905"/>
+<area shape="rect" id="node21" href="$dd/da1/classFairDbValidityRec.html#abf2d776b082f64603ca0901547e5f259" title="FairDbValidityRec::\lSetTimeWindow" alt="" coords="442,596,589,640"/>
+<area shape="rect" id="node22" href="$d9/df6/classValRange.html#a77667c1e38e7789b27b642bb907c8225" title="ValRange::GetDetectorMask" alt="" coords="665,552,877,580"/>
+<area shape="rect" id="node23" href="$d9/df6/classValRange.html#a158a18ed3848b5c83d2677145f36dc4d" title="ValRange::GetSimMask" alt="" coords="681,604,861,632"/>
+<area shape="rect" id="node24" href="$d9/df6/classValRange.html#a502e56ba9ded1ffde74e1499170e43df" title="ValRange::GetDataSource" alt="" coords="673,656,870,684"/>
+</map>

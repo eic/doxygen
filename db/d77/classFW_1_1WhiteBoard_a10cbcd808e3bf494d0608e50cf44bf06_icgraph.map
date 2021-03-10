@@ -1,0 +1,21 @@
+<map id="FW::WhiteBoard::add" name="FW::WhiteBoard::add">
+<area shape="rect" id="node2" href="$d9/d08/exceptionFW_1_1FlattenEvent.html#a5d5c84e4de9357dcdf79a11ba1b52729" title="FW::FlattenEvent::execute" alt="" coords="239,5,437,33"/>
+<area shape="rect" id="node3" href="$dc/d4a/classFW_1_1HelloWhiteBoardAlgorithm.html#af3d1af2e7a853ec0e979b70dadaa59c0" title="Read input and copy to the output." alt="" coords="223,57,453,101"/>
+<area shape="rect" id="node4" href="$d7/dc4/exceptionFW_1_1TruthTrackFinder.html#a300b6c59d24ac2bb6ce86a2520e99892" title="FW::TruthTrackFinder\l::execute" alt="" coords="257,125,419,169"/>
+<area shape="rect" id="node5" href="$d0/d4b/classFW_1_1HelloRandomAlgorithm.html#a98691efcb411a9b6d45e40deb4ef69df" title="FW::HelloRandomAlgorithm\l::execute" alt="" coords="234,193,442,237"/>
+<area shape="rect" id="node6" href="$d8/d01/exceptionFW_1_1TrackSelector.html#a9096584e0b38bba59d4b008265a5866e" title="FW::TrackSelector::\lexecute" alt="" coords="263,261,413,305"/>
+<area shape="rect" id="node7" href="$d6/d6d/exceptionFW_1_1HitSmearing.html#a057c519a30af6be7c5d79437a8a1b873" title="FW::HitSmearing::execute" alt="" coords="239,329,437,357"/>
+<area shape="rect" id="node8" href="$d3/d70/exceptionFW_1_1DigitizationAlgorithm.html#aa03b51246538d97eb3f9e6116e5eb39f" title="FW::DigitizationAlgorithm\l::execute" alt="" coords="241,381,435,425"/>
+<area shape="rect" id="node9" href="$d7/d52/exceptionFW_1_1ParticleSmearing.html#aafcabfc3de01c4c4b37801c58f191246" title="FW::ParticleSmearing\l::execute" alt="" coords="255,449,421,493"/>
+<area shape="rect" id="node10" href="$d3/d4c/classFW_1_1ParticleSelector.html#afd12ad74bcc7c1f065ee3dcec6eff915" title="FW::ParticleSelector\l::execute" alt="" coords="260,517,416,561"/>
+<area shape="rect" id="node11" href="$d1/df6/exceptionFW_1_1FittingAlgorithm.html#a67aaf223e0f1ed57802840140802becd" title="FW::FittingAlgorithm\l::execute" alt="" coords="259,585,417,629"/>
+<area shape="rect" id="node12" href="$dc/d88/classFW_1_1GeantinoRecording.html#a014be439ecaa0bbd4fcb646cf62a66b4" title="FW::GeantinoRecording\l::execute" alt="" coords="248,653,428,697"/>
+<area shape="rect" id="node13" href="$df/d77/classFW_1_1TruthVerticesToTracksAlgorithm.html#a12677344d88c0282b69d80c7574dd527" title="FW::TruthVerticesToTracks\lAlgorithm::execute" alt="" coords="240,721,436,765"/>
+<area shape="rect" id="node14" href="$db/d3a/classFW_1_1MaterialMapping.html#ac2f4dd9f17cfbe8359289514933f89cf" title="FW::MaterialMapping\l::execute" alt="" coords="257,789,419,833"/>
+<area shape="rect" id="node15" href="$d2/d7d/classFW_1_1HelloService.html#a7d127457f20e347dfda1683d8904302a" title="Default noop implementation for the per&#45;event prepare hook." alt="" coords="240,857,436,885"/>
+<area shape="rect" id="node16" href="$d9/d78/exceptionFW_1_1CsvParticleReader.html#ac411c7050084181c38486aa964c8f19a" title="Read out data from the input stream." alt="" coords="251,909,425,953"/>
+<area shape="rect" id="node17" href="$db/df6/exceptionFW_1_1RootVertexAndTracksReader.html#a1b67b2682473f7dae052e1e805b605b9" title="FW::RootVertexAndTracksReader\l::read" alt="" coords="217,977,459,1021"/>
+<area shape="rect" id="node18" href="$de/d56/exceptionFW_1_1CsvPlanarClusterReader.html#a488fac14b31c9db9059f202f28f54c1b" title="Read out data from the input stream." alt="" coords="231,1045,445,1089"/>
+<area shape="rect" id="node19" href="$da/de5/classFW_1_1RootMaterialTrackReader.html#a8e04d3d194a282dd05dacbcbe2f09755" title="FW::RootMaterialTrackReader\l::read" alt="" coords="228,1113,448,1157"/>
+<area shape="rect" id="node20" href="$df/d0c/exceptionFW_1_1EventGenerator.html#ad14661eb61c0b162c024ef7a16a60fef" title="Generate an event." alt="" coords="259,1181,417,1225"/>
+</map>

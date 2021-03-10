@@ -1,0 +1,13 @@
+<map id="erhic::EventDis::ScatteredLepton" name="erhic::EventDis::ScatteredLepton">
+<area shape="rect" id="node2" href="$d1/d6c/classerhic_1_1DoubleAngleComputer.html#a04eccca16b527c78065a94c768c0c814" title="erhic::DoubleAngleComputer\l::ComputeQSquared" alt="" coords="267,73,486,117"/>
+<area shape="rect" id="node9" href="$d9/d1c/classSmear_1_1EventDisFactory.html#ad62ba3be7aea30c57cf6ccf41d7be91e" title="Smear::EventDisFactory\l::Create" alt="" coords="1357,171,1540,215"/>
+<area shape="rect" id="node11" href="$d1/d6c/classerhic_1_1DoubleAngleComputer.html#ab1643cf83ad78c5546e74265ab32a6d6" title="erhic::DoubleAngleComputer\l::ComputeY" alt="" coords="267,141,486,185"/>
+<area shape="rect" id="node12" href="$d3/d2c/classerhic_1_1LeptonKinematicsComputer.html#a5c3038c79827dbee8329824af784ef9f" title="erhic::LeptonKinematicsComputer\l::LeptonKinematicsComputer" alt="" coords="251,261,503,305"/>
+<area shape="rect" id="node3" href="$d1/d6c/classerhic_1_1DoubleAngleComputer.html#a3b0ca0a86f4f8c2bcddbe6ecf4c351d1" title="erhic::DoubleAngleComputer\l::Calculate" alt="" coords="817,77,1036,121"/>
+<area shape="rect" id="node10" href="$d1/d6c/classerhic_1_1DoubleAngleComputer.html#a656f949a5ad907cd087820fae62c6c10" title="erhic::DoubleAngleComputer\l::ComputeX" alt="" coords="551,81,769,125"/>
+<area shape="rect" id="node4" href="$d7/d2d/classerhic_1_1EventFromAsciiFactory.html#a87f879311fa2aa356c6bc012c51c72ef" title="erhic::EventFromAsciiFactory\l::FinishEvent" alt="" coords="1084,5,1300,49"/>
+<area shape="rect" id="node5" href="$db/d1e/classerhic_1_1Pythia6EventBuilder.html#ac97f6bf0d160fe3b6e4d6c7030c225e1" title="erhic::Pythia6EventBuilder\l::BuildEvent" alt="" coords="1091,73,1293,117"/>
+<area shape="rect" id="node8" href="$d2/d7d/classSmear_1_1Detector.html#a1f46fa238e78eca9726522e988ab2a20" title="Smear::Detector::FillEvent\lKinematics" alt="" coords="1093,141,1291,185"/>
+<area shape="rect" id="node6" href="$db/d1e/classerhic_1_1Pythia6EventBuilder.html#aa5e0e30aad8da53bea1611d16cee03bb" title="erhic::Pythia6EventBuilder\l::Create" alt="" coords="1348,73,1549,117"/>
+<area shape="rect" id="node7" href="$db/d1e/classerhic_1_1Pythia6EventBuilder.html#ab3445a82c3d944cbd8f39c1d5212c311" title="erhic::Pythia6EventBuilder\l::Fill" alt="" coords="1597,73,1799,117"/>
+</map>

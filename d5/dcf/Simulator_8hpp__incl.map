@@ -1,0 +1,36 @@
+<map id="fun4all_acts/blob/master/Fatras/include/ActsFatras/Kernel/Simulator.hpp" name="fun4all_acts/blob/master/Fatras/include/ActsFatras/Kernel/Simulator.hpp">
+<area shape="rect" id="node7" href="$d2/dc3/ChargePolicy_8hpp.html" title="Acts/EventData/ChargePolicy.hpp" alt="" coords="1630,313,1877,341"/>
+<area shape="rect" id="node8" href="$d6/dee/SingleCurvilinearTrackParameters_8hpp.html" title="Acts/EventData/SingleCurvilinear\lTrackParameters.hpp" alt="" coords="1985,113,2232,157"/>
+<area shape="rect" id="node11" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="2002,313,2279,341"/>
+<area shape="rect" id="node16" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="2251,205,2454,249"/>
+<area shape="rect" id="node17" href="$dc/dfe/AbortList_8hpp.html" title="Acts/Propagator/AbortList.hpp" alt="" coords="551,213,775,241"/>
+<area shape="rect" id="node26" href="$d1/da9/ActionList_8hpp.html" title="Acts/Propagator/ActionList.hpp" alt="" coords="1236,213,1466,241"/>
+<area shape="rect" id="node29" href="$db/da3/DebugOutputActor_8hpp.html" title="Acts/Propagator/DebugOutput\lActor.hpp" alt="" coords="5372,113,5599,157"/>
+<area shape="rect" id="node30" href="$d5/d20/Propagator_8hpp.html" title="Acts/Propagator/Propagator.hpp" alt="" coords="3039,121,3276,149"/>
+<area shape="rect" id="node37" href="$dc/d81/StandardAborters_8hpp.html" title="Acts/Propagator/Standard\lAborters.hpp" alt="" coords="4139,205,4334,249"/>
+<area shape="rect" id="node43" href="$d3/db2/Result_8hpp.html" title="Acts/Utilities/Result.hpp" alt="" coords="2478,213,2661,241"/>
+<area shape="rect" id="node46" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="4559,121,4746,149"/>
+<area shape="rect" id="node47" href="$d8/d71/Hit_8hpp.html" title="ActsFatras/EventData\l/Hit.hpp" alt="" coords="5150,205,5317,249"/>
+<area shape="rect" id="node48" href="$d3/d65/Particle_8hpp.html" title="ActsFatras/EventData\l/Particle.hpp" alt="" coords="4908,205,5074,249"/>
+<area shape="rect" id="node49" href="$de/d25/Interactor_8hpp.html" title="ActsFatras/Kernel/Interactor.hpp" alt="" coords="4872,121,5110,149"/>
+<area shape="rect" id="node50" href="$d5/d18/SimulatorError_8hpp.html" title="ActsFatras/Kernel/detail\l/SimulatorError.hpp" alt="" coords="5623,113,5804,157"/>
+<area shape="rect" id="node9" href="$d9/d77/SingleTrackParameters_8hpp.html" title="Acts/EventData/SingleTrack\lParameters.hpp" alt="" coords="1604,205,1813,249"/>
+<area shape="rect" id="node14" href="$d7/dec/PlaneSurface_8hpp.html" title="Acts/Surfaces/PlaneSurface.hpp" alt="" coords="1990,213,2227,241"/>
+<area shape="rect" id="node13" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="2988,413,3202,441"/>
+<area shape="rect" id="node18" href="$d2/ddf/abort__condition__signature__check_8hpp.html" title="Acts/Propagator/detail\l/abort_condition_signature\l_check.hpp" alt="" coords="346,297,548,357"/>
+<area shape="rect" id="node19" href="$d0/d70/type__collector_8hpp.html" title="Acts/Utilities/detail\l/MPL/type_collector.hpp" alt="" coords="356,405,538,449"/>
+<area shape="rect" id="node21" href="$dd/dac/abort__list__implementation_8hpp.html" title="Acts/Propagator/detail\l/abort_list_implementation.hpp" alt="" coords="37,305,270,349"/>
+<area shape="rect" id="node22" href="$d2/dbe/Extendable_8hpp.html" title="Acts/Utilities/detail\l/Extendable.hpp" alt="" coords="1357,305,1505,349"/>
+<area shape="rect" id="node24" href="$d3/d32/has__duplicates_8hpp.html" title="Acts/Utilities/detail\l/MPL/has_duplicates.hpp" alt="" coords="778,305,967,349"/>
+<area shape="rect" id="node23" href="$d9/df2/all__of_8hpp.html" title="Acts/Utilities/detail\l/MPL/all_of.hpp" alt="" coords="1469,405,1617,449"/>
+<area shape="rect" id="node27" href="$d6/d4e/action__list__implementation_8hpp.html" title="Acts/Propagator/detail\l/action_list_implementation.hpp" alt="" coords="991,305,1231,349"/>
+<area shape="rect" id="node28" href="$d6/dcc/action__signature__check_8hpp.html" title="Acts/Propagator/detail\l/action_signature_check.hpp" alt="" coords="1651,405,1867,449"/>
+<area shape="rect" id="node31" href="$d0/d75/ReferenceWrapperAnyCompat_8hpp.html" title="Acts/Utilities/detail\l/ReferenceWrapperAnyCompat.hpp" alt="" coords="2703,405,2964,449"/>
+<area shape="rect" id="node35" href="$d4/d37/PropagatorError_8hpp.html" title="Acts/Propagator/Propagator\lError.hpp" alt="" coords="4358,205,4568,249"/>
+<area shape="rect" id="node40" href="$d8/d4a/StepperConcept_8hpp.html" title="Acts/Propagator/StepperConcept.hpp" alt="" coords="2889,213,3162,241"/>
+<area shape="rect" id="node41" href="$d2/da2/LoopProtection_8hpp.html" title="Acts/Propagator/detail\l/LoopProtection.hpp" alt="" coords="2849,305,3021,349"/>
+<area shape="rect" id="node42" href="$d0/d9a/VoidPropagatorComponents_8hpp.html" title="Acts/Propagator/detail\l/VoidPropagatorComponents.hpp" alt="" coords="3414,205,3659,249"/>
+<area shape="rect" id="node44" href="$df/d6f/Units_8hpp.html" title="Acts/Utilities/Units.hpp" alt="" coords="3683,213,3859,241"/>
+<area shape="rect" id="node45" href="$d3/ded/Propagator_8ipp.html" title="Acts/Propagator/Propagator.ipp" alt="" coords="3883,213,4115,241"/>
+<area shape="rect" id="node39" href="$dc/d18/ConstrainedStep_8hpp.html" title="Acts/Propagator/Constrained\lStep.hpp" alt="" coords="3157,305,3372,349"/>
+</map>

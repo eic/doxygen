@@ -1,0 +1,14 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d6/d55/namespaceFW_1_1Options.html#a4de04c7095cf34079cb7eaa38d7965b2" title="Add common output&#45;related options." alt="" coords="120,5,356,33"/>
+<area shape="rect" id="node3" href="$d6/d55/namespaceFW_1_1Options.html#a2d8dc13caedfc99d0e60230e63401332" title="FW::Options::addPythia8Options" alt="" coords="118,57,358,85"/>
+<area shape="rect" id="node4" href="$d6/d55/namespaceFW_1_1Options.html#a381d0843c942fda2c29766f1fdcb3f04" title="Add random number options such as the global seed." alt="" coords="111,109,365,153"/>
+<area shape="rect" id="node5" href="$d6/d55/namespaceFW_1_1Options.html#a0ae9979a970816c96e848f3b6747807e" title="Add sequencer options, e.g. number of events." alt="" coords="133,177,343,221"/>
+<area shape="rect" id="node6" href="$d1/d10/namespaceFW.html#a72fd6a251e31024c922d7a8f0ffdf3d5" title="FW::ensureWritableDirectory" alt="" coords="131,245,345,273"/>
+<area shape="rect" id="node7" href="$d1/d10/namespaceFW.html#aa0a7029b31d8e9dcfc8ab9f81dfc88ab" title="Join dir and name into one path with correct handling of empty dirs." alt="" coords="182,297,294,325"/>
+<area shape="rect" id="node8" href="$d6/d55/namespaceFW_1_1Options.html#aff334d85da454b0e8ba3582ed31f9359" title="FW::Options::makeDefault\lOptions" alt="" coords="139,349,337,393"/>
+<area shape="rect" id="node9" href="$d6/d55/namespaceFW_1_1Options.html#a03e9eee9ace87849f52983a2ef11dab6" title="FW::Options::parse" alt="" coords="163,417,313,445"/>
+<area shape="rect" id="node10" href="$d6/d55/namespaceFW_1_1Options.html#a3eae7e1ac725beadd756591da42d30cf" title="Read the log level." alt="" coords="416,568,617,596"/>
+<area shape="rect" id="node11" href="$d6/d55/namespaceFW_1_1Options.html#a320594dd087d2539b67f88ddc9407734" title="FW::Options::readPythia8\lOptions" alt="" coords="141,521,335,565"/>
+<area shape="rect" id="node12" href="$d6/d55/namespaceFW_1_1Options.html#aa483f08757600026c84ce3815b63ee05" title="FW::Options::readRandomNumbers\lConfig" alt="" coords="108,589,368,633"/>
+<area shape="rect" id="node13" href="$d6/d55/namespaceFW_1_1Options.html#a32198973bcbd21e22db51ac57472e58a" title="Read the sequencer config." alt="" coords="130,657,346,701"/>
+</map>

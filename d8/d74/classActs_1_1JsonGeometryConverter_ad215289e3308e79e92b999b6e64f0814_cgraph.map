@@ -1,0 +1,15 @@
+<map id="Acts::JsonGeometryConverter::convertToRep" name="Acts::JsonGeometryConverter::convertToRep">
+<area shape="rect" id="node2" href="$d5/d80/classActs_1_1BinnedArray.html#a05ad33fedadf1c400cac3c93a54672d7" title="Acts::BinnedArray::\larrayObjects" alt="" coords="308,5,459,49"/>
+<area shape="rect" id="node3" href="$d7/df5/classActs_1_1GeometryID.html#a1b77c23ce0f7e1be43ae242c86076e27" title="Return the boundary identifier." alt="" coords="276,73,491,101"/>
+<area shape="rect" id="node6" href="$dd/dcd/classActs_1_1TrackingVolume.html#a3838d3401260790e2e3935b7d047aaa3" title="Method to return the BoundarySurfaces." alt="" coords="300,125,467,169"/>
+<area shape="rect" id="node7" href="$dd/dcd/classActs_1_1TrackingVolume.html#a478a7195a48eefad61ed2a6b60b877cc" title="Acts::TrackingVolume\l::confinedLayers" alt="" coords="300,193,467,237"/>
+<area shape="rect" id="node8" href="$dd/dcd/classActs_1_1TrackingVolume.html#abb23b97df1ebed6dc6a2ce88a627691a" title="Return the confined volumes of this container array &#45; if it exists." alt="" coords="300,261,467,305"/>
+<area shape="rect" id="node9" href="$dd/dcd/classActs_1_1TrackingVolume.html#a48c5ea424ee26ed65f9d4ee2b75de26f" title="Return the confined dense volumes." alt="" coords="300,329,467,373"/>
+<area shape="rect" id="node10" href="$d3/d07/classActs_1_1GeometryObject.html#a522d50b743aeae1663808425a72777f2" title="Acts::GeometryObject\l::geoID" alt="" coords="297,397,469,441"/>
+<area shape="rect" id="node11" href="$d7/df5/classActs_1_1GeometryID.html#a268404ac56829142187afca578c3a020" title="Return the layer identifier." alt="" coords="291,465,476,493"/>
+<area shape="rect" id="node12" href="$d7/df5/classActs_1_1GeometryID.html#afc3e80e6fd2589caedb565b9bf09608c" title="Return the volume identifier." alt="" coords="283,517,483,545"/>
+<area shape="rect" id="node13" href="$dd/dcd/classActs_1_1TrackingVolume.html#a5c7983730f932b09045ebc3ea8e235c8" title="Return the material of the volume." alt="" coords="300,569,467,613"/>
+<area shape="rect" id="node14" href="$dd/dcd/classActs_1_1TrackingVolume.html#a1666fb4658bed4b3f46103ac33f0e966" title="Returns the VolumeName &#45; for debug reason, might be depreciated later." alt="" coords="300,637,467,681"/>
+<area shape="rect" id="node4" href="$d7/df5/classActs_1_1GeometryID.html#ab6954bf2b23af68dee687abff2541e65" title="Extract the masked bits from the encoded value." alt="" coords="539,465,736,493"/>
+<area shape="rect" id="node5" href="$d7/df5/classActs_1_1GeometryID.html#acd6ca6e930d0adfefd72283464038a11" title="Extract the bit shift necessary to access the masked values." alt="" coords="784,457,983,501"/>
+</map>

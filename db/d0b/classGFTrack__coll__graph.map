@@ -1,0 +1,10 @@
+<map id="GFTrack" name="GFTrack">
+<area shape="rect" id="node2" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="5,155,81,183"/>
+<area shape="rect" id="node3" href="$df/dd5/classGFTrackCand.html" title="Track candidate – a list of cluster indices." alt="" coords="1102,343,1211,371"/>
+<area shape="rect" id="node7" href="$df/d1a/classGFAbsRecoHit.html" title="Base Class for representing a Hit in GENFIT." alt="" coords="144,43,260,71"/>
+<area shape="rect" id="node10" href="$d6/deb/classGFBookkeeping.html" title="GFBookkeeping" alt="" coords="1093,147,1220,175"/>
+<area shape="rect" id="node15" href="$d0/d4b/classGFDetPlane.html" title="Detector plane genfit geometry class." alt="" coords="405,249,505,277"/>
+<area shape="rect" id="node16" href="$d5/d62/classGFAbsFinitePlane.html" title="Abstract base class for implementing arbitrarily shaped finite detector planes." alt="" coords="133,267,271,295"/>
+<area shape="rect" id="node12" title="STL class." alt="" coords="411,155,500,183"/>
+<area shape="rect" id="node13" title="STL class." alt="" coords="131,147,273,191"/>
+</map>

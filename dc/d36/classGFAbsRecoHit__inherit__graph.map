@@ -1,0 +1,11 @@
+<map id="GFAbsRecoHit" name="GFAbsRecoHit">
+<area shape="rect" id="node3" href="$d0/d62/classGFDafHit.html" title="Wrapper class for use with GFDaf." alt="" coords="361,5,443,33"/>
+<area shape="rect" id="node4" href="$dc/dd7/classGFRecoHitIfc.html" title="RecoHit interface template class. Provides comfortable interface to create RecoHits." alt="" coords="304,57,500,85"/>
+<area shape="rect" id="node5" href="$dc/dd7/classGFRecoHitIfc.html" title="GFRecoHitIfc\&lt; GFPlanarHit\lPolicy \&gt;" alt="" coords="300,109,504,153"/>
+<area shape="rect" id="node7" href="$dc/dd7/classGFRecoHitIfc.html" title="GFRecoHitIfc\&lt; GFSpacepoint\lHitPolicy \&gt;" alt="" coords="293,187,511,231"/>
+<area shape="rect" id="node2" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="5,88,81,116"/>
+<area shape="rect" id="node6" href="$db/d95/classEicPlanarRecoHit.html" title="EicPlanarRecoHit" alt="" coords="577,108,713,136"/>
+<area shape="rect" id="node8" href="$de/d45/classEicSpaceRecoHit.html" title="EicSpaceRecoHit" alt="" coords="578,160,713,188"/>
+<area shape="rect" id="node9" href="$d4/d00/classPndHitRecoHit.html" title="A planar (x,y) reco hit &amp; its sensor plane." alt="" coords="586,212,705,240"/>
+<area shape="rect" id="node10" href="$d2/d8b/classVirtSpacePointRecoHit.html" title="A basic space point reco hit. Uses a TVector3 for initialization." alt="" coords="559,264,732,292"/>
+</map>

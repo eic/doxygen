@@ -1,0 +1,47 @@
+<map id="EicDigiHitProducer::Init" name="EicDigiHitProducer::Init">
+<area shape="rect" id="node2" href="$dd/d0b/classEicNamePatternHub.html#a8baac9dd7e44ee789555cb040763f903" title="EicNamePatternHub::\lAnyMatch" alt="" coords="262,21,426,65"/>
+<area shape="rect" id="node3" href="$de/d93/classEicDigiHitProducer.html#a38aa4aaf385bfc05bcd14551e3b151e3" title="EicDigiHitProducer\l::ExtraInit" alt="" coords="271,89,417,133"/>
+<area shape="rect" id="node4" href="$d0/d6c/classFairRootManager.html#a283e22d85becc8f82c3ca7e49d80b4b3" title="FairRootManager::GetInFile" alt="" coords="243,157,445,185"/>
+<area shape="rect" id="node5" href="$da/d86/classEicGeoMap.html#ac0152c039ec595deee7e120aaa382664" title="EicGeoMap::GetInnermostVolumeName" alt="" coords="200,209,488,237"/>
+<area shape="rect" id="node8" href="$df/de0/classEicGeoParData.html#ac5ee460259e462acf7502ddbac2bcd33" title="EicGeoParData::GetMapNum" alt="" coords="237,381,451,409"/>
+<area shape="rect" id="node9" href="$df/de0/classEicGeoParData.html#a910b3df559c36e4a30a981f62372f013" title="EicGeoParData::GetMapPtr\lViaMapID" alt="" coords="571,125,773,169"/>
+<area shape="rect" id="node10" href="$d0/d6c/classFairRootManager.html#abbbec76c83bcd0e1b78bef3c54e178eb" title="FairRootManager::GetObject" alt="" coords="238,433,450,461"/>
+<area shape="rect" id="node27" href="$df/de0/classEicGeoParData.html#a0a125429fc6a74a052da4792a73e3953" title="EicGeoParData::Initialize\lLookupTables" alt="" coords="251,313,437,357"/>
+<area shape="rect" id="node43" href="$d0/d6c/classFairRootManager.html#a830b7803b29e7424a75f2dc374dcc96b" title="FairRootManager::Instance" alt="" coords="243,485,445,513"/>
+<area shape="rect" id="node44" href="$dd/d0b/classEicNamePatternHub.html#a91f59dbcd6f29770a2bce2ba21b6fc57" title="EicNamePatternHub::\lIsEmpty" alt="" coords="262,537,426,581"/>
+<area shape="rect" id="node45" href="$d0/d2f/classEicDetName.html#aef29cb1ffe2ea071a03f4aa098408595" title="EicDetName::Name" alt="" coords="267,605,421,633"/>
+<area shape="rect" id="node46" href="$da/d86/classEicGeoMap.html#a1968836399685192059dbaa188d23ee7" title="EicGeoMap::SetSensitivityFlag" alt="" coords="231,657,457,685"/>
+<area shape="rect" id="node6" href="$da/d86/classEicGeoMap.html#a4f2a01b122b88ccce37f2354eeda7d01" title="EicGeoMap::GetGeantVolume\lLevelPtr" alt="" coords="561,5,783,49"/>
+<area shape="rect" id="node7" href="$d1/d24/classGeantVolumeLevel.html#a4aba5288354c7287b6fc03cd9d30b2a2" title="GeantVolumeLevel::GetVolumeName" alt="" coords="536,73,808,101"/>
+<area shape="rect" id="node11" href="$db/da1/classFairLogger.html#a60bd2d39c9b6c2be4d5c8893a7d6921e" title="FairLogger::Debug2" alt="" coords="892,653,1045,681"/>
+<area shape="rect" id="node22" href="$d0/d6c/classFairRootManager.html#a6135b9b9cc49e5e778b81b566f75e0e8" title="FairRootManager::GetMemory\lBranch" alt="" coords="857,877,1080,921"/>
+<area shape="rect" id="node23" href="$d0/d6c/classFairRootManager.html#a62ae3b6bdfdb86e3c710ae18ebe67367" title="FairRootManager::Activate\lBranch" alt="" coords="573,729,771,773"/>
+<area shape="rect" id="node12" href="$db/da1/classFairLogger.html#ae5a926d95789678b453cbb45e0a9a46e" title="FairLogger::IsLogNeeded" alt="" coords="1137,705,1323,733"/>
+<area shape="rect" id="node13" href="$db/da1/classFairLogger.html#aa9d98b58fab95abcf553dfefe1e572f5" title="FairLogger::Log" alt="" coords="1168,757,1292,785"/>
+<area shape="rect" id="node14" href="$db/da1/classFairLogger.html#a5529c6ab25bc075aff767f30a743e616" title="FairLogger::OpenLogFile" alt="" coords="1663,705,1846,733"/>
+<area shape="rect" id="node16" href="$db/da1/classFairLogger.html#aeb76e4a75fe913ebdf1c07b5d1f3ac1b" title="FairLogger::GetOutputStream" alt="" coords="1379,757,1599,785"/>
+<area shape="rect" id="node19" href="$db/da1/classFairLogger.html#a496d9b3f72963d24a58abc5a023b74b0" title="End of the line." alt="" coords="1424,809,1553,837"/>
+<area shape="rect" id="node15" href="$db/da1/classFairLogger.html#a80d1ac93eff9a9b6d52f8118b8b796aa" title="FairLogger::CloseLogFile" alt="" coords="1911,705,2095,733"/>
+<area shape="rect" id="node17" href="$db/da1/classFairLogger.html#a6fe59f109418f1331c91c39d0ea33c1d" title="FairLogger::GetTime" alt="" coords="1924,771,2081,799"/>
+<area shape="rect" id="node18" href="$df/da1/namespaceActs_1_1VectorHelpers.html#ab52a0c8023eda1c81cc9ddfe7f03b535" title="Access to the time component of input parameter." alt="" coords="2143,763,2297,807"/>
+<area shape="rect" id="node20" href="$db/da1/classFairLogger.html#aca7a4fd0af5e622c9635f62996a7334d" title="Flush the streams." alt="" coords="1936,848,2069,876"/>
+<area shape="rect" id="node21" href="$db/da1/classFairLogger.html#a9848989e18afa7144b47ecc38b7bfe0e" title="FairLogger::LogFatalMessage" alt="" coords="1647,809,1863,837"/>
+<area shape="rect" id="node24" href="$db/da1/classFairLogger.html#a710e562aaff33766e424013a77d9cb77" title="FairLogger::Debug" alt="" coords="897,705,1041,733"/>
+<area shape="rect" id="node25" href="$db/da1/classFairLogger.html#a3ebc5751836771a50a11e0e2491a9f68" title="FairLogger::Info" alt="" coords="906,757,1031,785"/>
+<area shape="rect" id="node26" href="$d0/d6c/classFairRootManager.html#ae01e51ec943e7e829002b077cf50792d" title="FairRootManager::AddMemory\lBranch" alt="" coords="856,809,1081,853"/>
+<area shape="rect" id="node28" href="$df/de0/classEicGeoParData.html#aed0d58801aed7eb8c902fd2fc5eaab42" title="EicGeoParData::GetDim" alt="" coords="581,193,763,221"/>
+<area shape="rect" id="node30" href="$da/d86/classEicGeoMap.html#a9be2d78ddbaff57a95feb4c390fb87a7" title="EicGeoMap::GetSingleSensor\lContainerVolumeName" alt="" coords="563,245,781,289"/>
+<area shape="rect" id="node31" href="$da/d86/classEicGeoMap.html#a2e3122827d74a9df01ad364f704a6038" title="EicGeoMap::GetGeantVolume\lLevelNum" alt="" coords="561,313,783,357"/>
+<area shape="rect" id="node32" href="$da/d86/classEicGeoMap.html#ab14e58770c6ef3808df122666fe28ff4" title="EicGeoMap::GetBaseVolumePath" alt="" coords="551,381,793,409"/>
+<area shape="rect" id="node33" href="$da/d86/classEicGeoMap.html#a32e7ea9ceef7285cb8a4a273ba659d6b" title="EicGeoMap::GetMappingTableDim" alt="" coords="547,433,797,461"/>
+<area shape="rect" id="node34" href="$da/d86/classEicGeoMap.html#a2c182c1beed769682146322fe7c2781c" title="EicGeoMap::GetMappingTable" alt="" coords="561,485,783,513"/>
+<area shape="rect" id="node35" href="$d1/d24/classGeantVolumeLevel.html#a0789878c04f27864126f9df866f9021e" title="GeantVolumeLevel::GetMaskedBits" alt="" coords="543,537,801,565"/>
+<area shape="rect" id="node37" href="$df/de0/classEicGeoParData.html#a37f7821581240c40416dd325e4a6265a" title="EicGeoParData::GetLookup\lTableNode" alt="" coords="571,589,773,633"/>
+<area shape="rect" id="node29" href="$df/de0/classEicGeoParData.html#a0acbefbe53affdf66e8dd9348314d247" title="EicGeoParData::GetDimCore" alt="" coords="863,193,1075,221"/>
+<area shape="rect" id="node36" href="$dd/d20/classEicBitMask.html#a84b76ea63b10f66bff93bbb5dc0f1cca" title="EicBitMask::GetMaskedBits" alt="" coords="867,497,1071,525"/>
+<area shape="rect" id="node38" href="$df/de0/classEicGeoParData.html#a27049617983cca3fbbda63b921df26f2" title="EicGeoParData::GetGroup" alt="" coords="1391,549,1587,577"/>
+<area shape="rect" id="node39" href="$df/de0/classEicGeoParData.html#ad2bffe47f02337f608d399ae351d930e" title="EicGeoParData::GetCoord" alt="" coords="872,601,1065,629"/>
+<area shape="rect" id="node40" href="$df/de0/classEicGeoParData.html#a8b828b92a0c614ac23bb6d827570ee27" title="EicGeoParData::GetLogical\lCoordCore" alt="" coords="1129,601,1331,645"/>
+<area shape="rect" id="node41" href="$dd/d20/classEicBitMask.html#a862ce5875cf47f78ff18aaed935966d9" title="EicBitMask::GetShift" alt="" coords="1409,601,1568,629"/>
+<area shape="rect" id="node42" href="$dd/d20/classEicBitMask.html#aba6083955032532d7dfc95069338dd27" title="EicBitMask::GetBitMask" alt="" coords="1399,653,1579,681"/>
+</map>

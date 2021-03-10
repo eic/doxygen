@@ -1,0 +1,4 @@
+<map id="EicTrackingRecoHit::getHMatrix" name="EicTrackingRecoHit::getHMatrix">
+<area shape="rect" id="node2" href="$db/d95/classEicPlanarRecoHit.html#a8e23f5982e7ed54c351110942679be02" title="Get transformation matrix. Transformation between hit coordinates and track representation coordinate..." alt="" coords="204,5,423,33"/>
+<area shape="rect" id="node3" href="$de/d45/classEicSpaceRecoHit.html#a666826d8240de67da76c22989f1f24c3" title="Get transformation matrix. Transformation between hit coordinates and track representation coordinate..." alt="" coords="204,57,423,85"/>
+</map>

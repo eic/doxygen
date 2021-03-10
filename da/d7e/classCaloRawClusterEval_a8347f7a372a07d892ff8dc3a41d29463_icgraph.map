@@ -1,0 +1,39 @@
+<map id="CaloRawClusterEval::has_reduced_node_pointers" name="CaloRawClusterEval::has_reduced_node_pointers">
+<area shape="rect" id="node2" href="$da/d7e/classCaloRawClusterEval.html#a238c2f6f0ae23af51fcc56d1dd968eb4" title="what clusters did this primary truth shower contribute energy to?" alt="" coords="535,209,689,253"/>
+<area shape="rect" id="node4" href="$da/d7e/classCaloRawClusterEval.html#aadd6df22b452d89c41139c157fe9d14e" title="which cluster did this primary truth shower contribute the most energy to?" alt="" coords="799,213,953,257"/>
+<area shape="rect" id="node15" href="$da/d7e/classCaloRawClusterEval.html#a7eb3923a9351902ac451910b71068d19" title="what particles contributed energy to this cluster?" alt="" coords="535,5,689,65"/>
+<area shape="rect" id="node30" href="$da/d7e/classCaloRawClusterEval.html#aa317364a6b44d67d5295250c6419d3bf" title="what primary showers contributed energy to this cluster?" alt="" coords="292,147,447,207"/>
+<area shape="rect" id="node32" href="$da/d7e/classCaloRawClusterEval.html#ac0e58d7e3a9311943294ce4a7ac4d290" title="which primary shower contributed the most energy to this cluster?" alt="" coords="533,277,691,337"/>
+<area shape="rect" id="node33" href="$da/d7e/classCaloRawClusterEval.html#acf8fb6e0c09e48569dc1a6d3a6f2a065" title="which particle contributed the most energy to this cluster?" alt="" coords="797,548,955,608"/>
+<area shape="rect" id="node35" href="$da/d7e/classCaloRawClusterEval.html#a1df87a8403be2e5146a922554953c4e7" title="how much energy did this primary truth shower contribute to this cluster" alt="" coords="272,447,467,491"/>
+<area shape="rect" id="node3" href="$da/d7e/classCaloRawClusterEval.html#af15ece01456a660bd38b305c50ab9699" title="what clusters did this primary truth particle contribute energy to?" alt="" coords="799,281,953,325"/>
+<area shape="rect" id="node12" href="$dd/d59/classCaloEvaluator.html#ab7e09466d57c5b93274f09f61c0f321e" title="print out the ancestry information for detailed diagnosis" alt="" coords="762,376,990,404"/>
+<area shape="rect" id="node13" href="$db/d22/classEventEvaluator.html#a7c006895465ed851ca9ef516ca648e10" title="print out the ancestry information for detailed diagnosis" alt="" coords="757,436,995,464"/>
+<area shape="rect" id="node5" href="$da/d7e/classCaloRawClusterEval.html#a88fec8e70a64c5cb4986bcc4ad519470" title="which cluster did this primary truth particle contribute the most energy to?" alt="" coords="1081,149,1236,193"/>
+<area shape="rect" id="node6" href="$dd/d59/classCaloEvaluator.html#a5298ee9646d361a4960fc0e20f83c880" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1065,488,1253,532"/>
+<area shape="rect" id="node8" href="$dc/df2/classQAG4SimulationEicCalorimeter.html#ae324814389c53c1d175c32c018b830a1" title="QAG4SimulationEicCalorimeter\l::process_event_Cluster" alt="" coords="1043,217,1275,261"/>
+<area shape="rect" id="node10" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a208fd8c361982115126f11b88541e071" title="QAG4SimulationCalorimeter\l::process_event_Cluster" alt="" coords="1053,285,1265,329"/>
+<area shape="rect" id="node7" href="$dd/d59/classCaloEvaluator.html#a936967e98c89ec58e7851b0661b838c0" title="CaloEvaluator::process\l_event" alt="" coords="1351,368,1527,412"/>
+<area shape="rect" id="node9" href="$dc/df2/classQAG4SimulationEicCalorimeter.html#a3220ddd743e97de1c108e1fc42692427" title="QAG4SimulationEicCalorimeter\l::process_event" alt="" coords="1323,217,1555,261"/>
+<area shape="rect" id="node11" href="$d9/d7b/classQAG4SimulationCalorimeter.html#aa3467829c4182ba4e09f74fd8198cb28" title="QAG4SimulationCalorimeter\l::process_event" alt="" coords="1333,285,1545,329"/>
+<area shape="rect" id="node14" href="$db/d22/classEventEvaluator.html#a02eade2e99934373a00453bd3c1dd1dd" title="EventEvaluator::process\l_event" alt="" coords="1346,436,1531,480"/>
+<area shape="rect" id="node16" href="$dd/d75/classJetRecoEval.html#a35d98fcca277d5034d66e06d7e832e87" title="what truth particles contributed to this reconstructed jet?" alt="" coords="793,52,959,96"/>
+<area shape="rect" id="node17" href="$dd/d75/classJetRecoEval.html#a277ecc26833b4e3e16f96018aa921702" title="what truth jets contributed to this reconstructed jet?" alt="" coords="1060,97,1257,125"/>
+<area shape="rect" id="node18" href="$dd/d75/classJetRecoEval.html#af4bff244a32d216f097c7fab76c9b95a" title="which truth jet contributed the most energy to this reconstructed jet?" alt="" coords="1614,256,1793,300"/>
+<area shape="rect" id="node28" href="$dd/d75/classJetRecoEval.html#aaa6df5bbed40bd8cf789d997c348d12f" title="what reconstructed jets had contributions from this truth jet?" alt="" coords="1341,157,1537,185"/>
+<area shape="rect" id="node19" href="$d4/d28/classQAG4SimulationJet.html#a3e5c5fe2e5e5cee7fca6173ef6e6bfa2" title="QAG4SimulationJet::\lprocess_TruthMatching" alt="" coords="2152,353,2328,397"/>
+<area shape="rect" id="node21" href="$d1/df4/classJetEvaluator.html#a0c608411c03ff1de3fca80d64e93ae5d" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1889,473,2067,517"/>
+<area shape="rect" id="node23" href="$dd/d75/classJetRecoEval.html#a9775ea4a0c6e28f22da7997f4886f195" title="JetRecoEval::unique\l_reco_jet_from_truth" alt="" coords="1898,353,2058,397"/>
+<area shape="rect" id="node24" href="$dd/d75/classJetRecoEval.html#ac6030b2b14c885e19e35f86ec828d8d8" title="JetRecoEval::unique\l_truth_jet_from_reco" alt="" coords="1898,285,2058,329"/>
+<area shape="rect" id="node25" href="$d0/da9/classAnaTutorial.html#a9068984e2eafee47f54de4c802d23168" title="AnaTutorial::getReconstructedJets" alt="" coords="1852,181,2104,209"/>
+<area shape="rect" id="node27" href="$d5/d1f/classMyJetAnalysis.html#a309e9a46394353251b673514d6eb28ac" title="MyJetAnalysis::process\l_event" alt="" coords="1891,113,2065,157"/>
+<area shape="rect" id="node20" href="$d4/d28/classQAG4SimulationJet.html#a98c3c0fb4d213ada3475e8fb9895bc29" title="QAG4SimulationJet::\lprocess_event" alt="" coords="2376,444,2533,488"/>
+<area shape="rect" id="node22" href="$d1/df4/classJetEvaluator.html#ad83508ae828d1f2e4a83a948465a0cd2" title="JetEvaluator::process\l_event" alt="" coords="2157,473,2323,517"/>
+<area shape="rect" id="node26" href="$d0/da9/classAnaTutorial.html#a3b64c061aaffaf4a42631434fb7eb6f9" title="SubsysReco event processing method." alt="" coords="2160,173,2320,217"/>
+<area shape="rect" id="node29" href="$dd/d75/classJetRecoEval.html#a631b92837e600fbdb6b966a556fc9077" title="which reconstructed jet had the largest energy contribution from this truth jet?" alt="" coords="1603,392,1804,420"/>
+<area shape="rect" id="node31" href="$dd/d75/classJetRecoEval.html#a2b04ad28662aae87324971bb37e70bac" title="what truth showers contributed to this reconstructed jet?" alt="" coords="529,141,695,185"/>
+<area shape="rect" id="node34" href="$db/d22/classEventEvaluator.html#ada437671569f41f49d8efe8235d569ab" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1060,556,1257,600"/>
+<area shape="rect" id="node36" href="$da/d7e/classCaloRawClusterEval.html#a7a286115cba7a692a7a6da4cdfaf1fca" title="how much energy did this primary truth particle contribute to this cluster" alt="" coords="515,361,709,405"/>
+<area shape="rect" id="node37" href="$dd/d75/classJetRecoEval.html#af6356d19d3ff0ee9c9849348466e7d0e" title="what was the energy contribution to this reconstructed jet from this truth jet?" alt="" coords="1345,504,1532,548"/>
+<area shape="rect" id="node38" href="$d4/d28/classQAG4SimulationJet.html#ac2803dd2fafe7d6131f3311c9f1e4e27" title="QAG4SimulationJet::\lprocess_Spectrum" alt="" coords="1625,533,1782,577"/>
+</map>

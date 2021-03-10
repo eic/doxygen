@@ -1,0 +1,29 @@
+<map id="FW::DigitizationAlgorithm" name="FW::DigitizationAlgorithm">
+<area shape="rect" id="node2" href="$d2/dfa/classFW_1_1BareAlgorithm.html" title="FW::BareAlgorithm" alt="" coords="2027,92,2175,120"/>
+<area shape="rect" id="node3" href="$da/dbd/classFW_1_1IAlgorithm.html" title="FW::IAlgorithm" alt="" coords="1551,91,1672,119"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="1567,267,1656,295"/>
+<area shape="rect" id="node12" href="$d6/d0e/structFW_1_1DigitizationAlgorithm_1_1Config.html" title="FW::DigitizationAlgorithm\l::Config" alt="" coords="2233,259,2427,303"/>
+<area shape="rect" id="node30" href="$dd/dcd/classActs_1_1TrackingVolume.html" title="Acts::TrackingVolume" alt="" coords="2017,688,2184,716"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="1063,259,1206,303"/>
+<area shape="rect" id="node7" href="$d4/d3e/classActs_1_1Logger.html" title="class for printing debug output" alt="" coords="1081,31,1189,59"/>
+<area shape="rect" id="node9" href="$d5/d5e/classActs_1_1Logging_1_1OutputFilterPolicy.html" title="abstract base class for filtering debug output" alt="" coords="260,73,464,117"/>
+<area shape="rect" id="node11" href="$df/dce/classActs_1_1Logging_1_1OutputPrintPolicy.html" title="abstract base class for printing debug output" alt="" coords="261,5,463,49"/>
+<area shape="rect" id="node14" href="$d6/d86/structFW_1_1DigitizationAlgorithm_1_1Digitizable.html" title="FW::DigitizationAlgorithm\l::Digitizable" alt="" coords="2809,301,3003,345"/>
+<area shape="rect" id="node15" href="$d7/d41/classActs_1_1IdentifiedDetectorElement.html" title="The identified detector element." alt="" coords="2458,301,2641,345"/>
+<area shape="rect" id="node16" href="$d7/de6/classActs_1_1DetectorElementBase.html" title="Acts::DetectorElementBase" alt="" coords="1997,415,2204,443"/>
+<area shape="rect" id="node19" href="$de/d7d/classActs_1_1Surface.html" title="Abstract Base Class for tracking surfaces." alt="" coords="2493,475,2605,503"/>
+<area shape="rect" id="node17" href="$d7/d77/classActs_1_1DigitizationModule.html" title="Acts::DigitizationModule" alt="" coords="2456,197,2643,225"/>
+<area shape="rect" id="node20" href="$d3/d07/classActs_1_1GeometryObject.html" title="Acts::GeometryObject" alt="" coords="276,388,448,416"/>
+<area shape="rect" id="node23" href="$da/d28/classActs_1_1Layer.html" title="Acts::Layer" alt="" coords="3979,552,4077,580"/>
+<area shape="rect" id="node31" href="$d2/d65/classActs_1_1Volume.html" title="Acts::Volume" alt="" coords="630,737,741,765"/>
+<area shape="rect" id="node21" href="$d7/df5/classActs_1_1GeometryID.html" title="Acts::GeometryID" alt="" coords="5,268,147,296"/>
+<area shape="rect" id="node25" href="$d5/db4/classActs_1_1ApproachDescriptor.html" title="Acts::ApproachDescriptor" alt="" coords="3222,537,3417,565"/>
+<area shape="rect" id="node26" href="$d5/dcc/classActs_1_1BinUtility.html" title="Acts::BinUtility" alt="" coords="3615,612,3736,640"/>
+<area shape="rect" id="node28" href="$dd/ddd/classActs_1_1BinningData.html" title="Acts::BinningData" alt="" coords="2835,589,2977,617"/>
+<area shape="rect" id="node32" href="$d4/d2a/classActs_1_1AxisAlignedBoundingBox.html" title="Acts::AxisAlignedBounding\lBox\&lt; Volume, double, 3 \&gt;" alt="" coords="1033,756,1237,800"/>
+<area shape="rect" id="node50" href="$d6/dae/classActs_1_1AbstractVolume.html" title="Acts::AbstractVolume" alt="" coords="1279,900,1445,928"/>
+<area shape="rect" id="node33" href="$d4/d2a/classActs_1_1AxisAlignedBoundingBox.html" title="Acts::AxisAlignedBounding\lBox\&lt; entity_t, value_t, DIM \&gt;" alt="" coords="576,968,795,1012"/>
+<area shape="rect" id="node41" href="$d7/dc3/classActs_1_1GlueVolumesDescriptor.html" title="Acts::GlueVolumesDescriptor" alt="" coords="1501,688,1721,716"/>
+<area shape="rect" id="node45" href="$d5/d80/classActs_1_1BinnedArray.html" title="Acts::BinnedArray\&lt; T \&gt;" alt="" coords="1044,704,1225,732"/>
+<area shape="rect" id="node47" href="$d5/dd2/classActs_1_1SurfaceArray.html" title="Provides Surface binning in N dimensions." alt="" coords="3245,485,3393,513"/>
+</map>

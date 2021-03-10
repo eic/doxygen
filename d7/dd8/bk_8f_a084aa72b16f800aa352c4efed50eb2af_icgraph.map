@@ -1,0 +1,51 @@
+<map id="bk" name="bk">
+<area shape="rect" id="node2" href="$dc/d22/namespacegenfit.html#ab9be5ccf8961ab01c0401d938a1f628f" title="Calculate weighted average between two MeasuredStateOnPlanes." alt="" coords="613,566,801,594"/>
+<area shape="rect" id="node21" href="$df/d9e/fv_8F.html#a348f1db876b776eb46668701b6a206e4" title="fv" alt="" coords="166,879,205,907"/>
+<area shape="rect" id="node31" href="$de/db5/fw_8F.html#aee6d8ef112bf3dd290de181562566c6c" title="fw" alt="" coords="166,983,205,1011"/>
+<area shape="rect" id="node33" href="$d1/d45/omg0_8f.html#a8172eb0cfd4e2c4371654a02192d8958" title="omg0" alt="" coords="155,1234,215,1262"/>
+<area shape="rect" id="node40" href="$d6/dcf/pythia6425mod_8f.html#aa24b26bd99e9077506224df51d31969a" title="pygrvv" alt="" coords="151,1467,219,1495"/>
+<area shape="rect" id="node44" href="$d6/dcf/pythia6425mod_8f.html#a62fd74a25057f05b80687923b03c660e" title="pygrvw" alt="" coords="149,1415,221,1443"/>
+<area shape="rect" id="node45" href="$db/d45/namespacegenfit_1_1tools.html#a94e877d9e3a71e2a9b120361ec4e9035" title="Replaces A with an upper right matrix connected to A by an orthongonal transformation. I.e., it computes R from a QR decomposition of A = QR, replacing A. Also replaces b by Q&#39;b where Q&#39; is the transposed of Q." alt="" coords="119,1519,251,1547"/>
+<area shape="rect" id="node46" href="$d1/dce/classGFDaf.html#ac02cac0c97bc5217baaea7b90adfef47" title="GFDaf::saveWeights" alt="" coords="107,1571,264,1599"/>
+<area shape="rect" id="node48" href="$db/d45/namespacegenfit_1_1tools.html#a97e35224c7d7ec5d63f23ffda85aef4c" title="Solves R^t x = b, replacing b with the solution for x. R is assumed to be upper diagonal." alt="" coords="92,647,279,691"/>
+<area shape="rect" id="node3" href="$de/d25/classPHGenFitTrkFitter.html#a99d09d612858e8b8d146c26bb764e62a" title="Make SvtxTrack from PHGenFit::Track and SvtxTrack." alt="" coords="1111,981,1257,1025"/>
+<area shape="rect" id="node5" href="$d3/d03/classgenfit_1_1KalmanFitterInfo.html#a2076ecca63ef159ab37fae40a38c0ea0" title="Get unbiased or biased (default) smoothed state." alt="" coords="849,505,1029,549"/>
+<area shape="rect" id="node4" href="$de/d25/classPHGenFitTrkFitter.html#a2e088a68ab24c5b89b902205f877f9d6" title="Process Event, called for each event." alt="" coords="1373,981,1518,1025"/>
+<area shape="rect" id="node6" href="$d7/dd5/classPHGenFit_1_1Track.html#ac24ac1591f867e1e0641112d6e12f6aa" title="PHGenFit::Track::updateOne\lMeasurementKalman" alt="" coords="1079,129,1289,173"/>
+<area shape="rect" id="node7" href="$d7/dd5/classPHGenFit_1_1Track.html#a2e02a0f394b0cfe0057f2472c095f45b" title="PHGenFit::Track::get\l_charge" alt="" coords="1105,197,1263,241"/>
+<area shape="rect" id="node8" href="$d7/dd5/classPHGenFit_1_1Track.html#a44e533bbe040f465aaaa1032785b543f" title="PHGenFit::Track::get_mom" alt="" coords="1085,265,1283,293"/>
+<area shape="rect" id="node9" href="$d5/d1b/classPHGenFit2_1_1Track.html#ae5f535943fef0b20500c65ef1b020bd0" title="PHGenFit2::Track::update\lOneMeasurementKalman" alt="" coords="1088,317,1280,361"/>
+<area shape="rect" id="node10" href="$d5/d1b/classPHGenFit2_1_1Track.html#a58834d073911a83c695055c8c66d96a5" title="PHGenFit2::Track::get\l_charge" alt="" coords="1100,385,1268,429"/>
+<area shape="rect" id="node11" href="$d5/d1b/classPHGenFit2_1_1Track.html#a0bc5bb4690da6abc1495bf555d957be4" title="PHGenFit2::Track::get_mom" alt="" coords="1080,453,1288,481"/>
+<area shape="rect" id="node12" href="$d5/d1b/classPHGenFit2_1_1Track.html#a98ad41066783048c00dccdfaa53ecd67" title="PHGenFit2::Track::get\l_track_info" alt="" coords="1100,505,1268,549"/>
+<area shape="rect" id="node13" href="$d6/df6/classPHTpcTrackFollower.html#ae5673b19751dc2b5dda9851c31a80f8e" title="PHTpcTrackFollower\l::get_track_layer" alt="" coords="1106,573,1262,617"/>
+<area shape="rect" id="node14" href="$d6/df6/classPHTpcTrackFollower.html#a70bab64e85da952cf935c5fa64b5022e" title="PHTpcTrackFollower\l::get_projected_coordinate" alt="" coords="1083,641,1285,685"/>
+<area shape="rect" id="node15" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a294470305559030667e010db718d3f3a" title="Draw an event." alt="" coords="1105,709,1263,753"/>
+<area shape="rect" id="node16" href="$d4/db7/classgenfit_1_1KalmanFitter.html#aa44364f202ab52ca2f8fa2000e29a534" title="Hit resorting currently NOT supported." alt="" coords="1097,777,1271,821"/>
+<area shape="rect" id="node17" href="$d4/db7/classgenfit_1_1KalmanFitter.html#a003f370d672562e1e5c2b345d61f211c" title="genfit::KalmanFitter\l::processTrackPartially" alt="" coords="1098,845,1270,889"/>
+<area shape="rect" id="node18" href="$d3/d03/classgenfit_1_1KalmanFitterInfo.html#a6f8067ff3ebb42f7957fbde01d5c6f49" title="Get unbiased (default) or biased residual from ith measurement." alt="" coords="1094,913,1274,957"/>
+<area shape="rect" id="node19" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#ab28798fe239a0577ef7a9c254c235491" title="Prepare the track." alt="" coords="1339,31,1552,75"/>
+<area shape="rect" id="node20" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#a6112774ee2e5b98aa7592038ea49a52a" title="Remove referenceStates if they are too far from smoothed states." alt="" coords="1077,61,1291,105"/>
+<area shape="rect" id="node22" href="$d8/def/classFairMCApplication.html#ae6ed46ec48c80c4db0483b98052e6a1a" title="FairMCApplication::\lInitGeometry" alt="" coords="371,707,521,751"/>
+<area shape="rect" id="node23" href="$d4/d06/classFairModule.html#a9514d3691ecbbd37e8b0495100006c59" title="FairModule::getFairVolume" alt="" coords="346,775,546,803"/>
+<area shape="rect" id="node24" href="$d6/dcf/pythia6425mod_8f.html#aeceae4435f53744a1fd6d16580b88e9b" title="pypdfl" alt="" coords="414,827,478,855"/>
+<area shape="rect" id="node28" href="$d6/da1/grv94di_8F.html#ae9316822bf38bbb4d73b1f893bbf1e62" title="grv94di" alt="" coords="409,879,483,907"/>
+<area shape="rect" id="node29" href="$d1/d9e/grv94ho_8F.html#a5cf1c4c7f3996a1ee8f4332aac26168f" title="grv94ho" alt="" coords="407,931,485,959"/>
+<area shape="rect" id="node30" href="$d1/dfa/grv94lo_8F.html#a5a7b1f97eb6b9635e61f608e336d2312" title="grv94lo" alt="" coords="409,983,483,1011"/>
+<area shape="rect" id="node25" href="$d6/dcf/pythia6425mod_8f.html#a2d74d5dd64881524212b3720af2696de" title="pyrand" alt="" coords="905,801,973,829"/>
+<area shape="rect" id="node26" href="$d6/dcf/pythia6425mod_8f.html#a9f8a08b43157ca5aa62d84247ff26109" title="pysspa" alt="" coords="673,879,741,907"/>
+<area shape="rect" id="node27" href="$d6/dcf/pythia6425mod_8f.html#a3ccdee32be69df9daf5605283165a012" title="pysigh" alt="" coords="675,827,740,855"/>
+<area shape="rect" id="node32" href="$da/de2/structFW_1_1HepMC3Particle.html#aefd7d4ae39ab24aa87985df5f91410b0" title="Returns the particle translated into Acts." alt="" coords="367,1035,525,1079"/>
+<area shape="rect" id="node34" href="$d2/dc8/fhin_8f.html#a3854e12cc7c8249c40ac95e3ea1beda4" title="fhin" alt="" coords="423,1103,469,1131"/>
+<area shape="rect" id="node35" href="$de/de9/fnjet_8f.html#adc93b7a3062068727b193b5171351ea6" title="fnjet" alt="" coords="419,1155,473,1183"/>
+<area shape="rect" id="node36" href="$d1/d56/ftot_8f.html#a522ebca12394d0d2e29a844de6f05c30" title="ftot" alt="" coords="423,1207,469,1235"/>
+<area shape="rect" id="node37" href="$dd/daa/ftotjet_8f.html#a6ff5a5dc8a9e861e6e75ecd085970fc5" title="ftotjet" alt="" coords="415,1259,477,1287"/>
+<area shape="rect" id="node38" href="$d0/dc6/ftotrig_8f.html#a14374e9f2a31df17d79dda6bdaa674de" title="ftotrig" alt="" coords="415,1311,477,1339"/>
+<area shape="rect" id="node39" href="$dc/d34/romg_8f.html#a1d4dd14a9a58c9757be2874ff7c36313" title="romg" alt="" coords="418,1363,474,1391"/>
+<area shape="rect" id="node41" href="$d6/dcf/pythia6425mod_8f.html#a9536da5c1a25003eb2b4660ee140aae3" title="pygrvl" alt="" coords="414,1415,478,1443"/>
+<area shape="rect" id="node42" href="$d6/dcf/pythia6425mod_8f.html#a74cd930f8d1b849e1d3411d2a0f7513a" title="pygrvm" alt="" coords="409,1467,483,1495"/>
+<area shape="rect" id="node43" href="$d6/dcf/pythia6425mod_8f.html#a09a7ba7614c769f663607fa14028547f" title="pygrvd" alt="" coords="412,1519,480,1547"/>
+<area shape="rect" id="node47" href="$d1/dce/classGFDaf.html#acae6182be114ea4c813d0bb8995343a4" title="Process a track using the DAF." alt="" coords="366,1571,526,1599"/>
+<area shape="rect" id="node49" href="$db/d45/namespacegenfit_1_1tools.html#a98e2c1ec0611289beb34a8bfb13980a7" title="Inverts the transpose of the upper right matrix R into inv." alt="" coords="353,587,539,631"/>
+<area shape="rect" id="node50" href="$db/d45/namespacegenfit_1_1tools.html#adc2bca594b70cc0ade79777b79e4f8ed" title="Calculate the Kalman measurement update with no transport. x, S : state prediction, covariance square root res, R, H : residual, measurement covariance square root, H matrix of the measurement." alt="" coords="327,655,565,683"/>
+</map>

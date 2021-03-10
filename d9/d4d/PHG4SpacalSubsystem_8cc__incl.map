@@ -1,0 +1,35 @@
+<map id="fun4all_coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4SpacalSubsystem.cc" name="fun4all_coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4SpacalSubsystem.cc">
+<area shape="rect" id="node2" href="$d1/d1f/PHG4SpacalSubsystem_8h.html" title="PHG4SpacalSubsystem.h" alt="" coords="1986,137,2176,165"/>
+<area shape="rect" id="node10" href="$df/d32/PHG4SpacalDisplayAction_8h.html" title="PHG4SpacalDisplayAction.h" alt="" coords="1140,297,1348,325"/>
+<area shape="rect" id="node11" href="$df/dad/PHG4DisplayAction_8h.html" title="g4main/PHG4DisplayAction.h" alt="" coords="1196,373,1414,401"/>
+<area shape="rect" id="node13" href="$d4/d16/PHG4CylinderGeom__Spacalv1_8h.html" title="PHG4CylinderGeom_Spacalv1.h" alt="" coords="266,373,502,401"/>
+<area shape="rect" id="node16" href="$d3/dd0/PHG4FullProjSpacalDetector_8h.html" title="PHG4FullProjSpacalDetector.h" alt="" coords="1078,137,1300,165"/>
+<area shape="rect" id="node20" href="$d1/da4/PHG4SpacalDetector_8h.html" title="PHG4SpacalDetector.h" alt="" coords="261,221,434,249"/>
+<area shape="rect" id="node26" href="$d8/d76/PHG4FullProjTiltedSpacalDetector_8h.html" title="PHG4FullProjTiltedSpacal\lDetector.h" alt="" coords="865,129,1054,173"/>
+<area shape="rect" id="node27" href="$d4/df7/PHG4SpacalSteppingAction_8h.html" title="PHG4SpacalSteppingAction.h" alt="" coords="2368,137,2586,165"/>
+<area shape="rect" id="node28" href="$d0/d55/PHG4SteppingAction_8h.html" title="g4main/PHG4SteppingAction.h" alt="" coords="2353,221,2582,249"/>
+<area shape="rect" id="node31" href="$d3/d08/PHG4HitContainer_8h.html" title="g4main/PHG4HitContainer.h" alt="" coords="2118,221,2329,249"/>
+<area shape="rect" id="node33" href="$df/d32/PHObject_8h.html" title="phool/PHObject.h" alt="" coords="2716,297,2854,325"/>
+<area shape="rect" id="node35" href="$d8/d30/PHCompositeNode_8h.html" title="phool/PHCompositeNode.h" alt="" coords="2439,297,2640,325"/>
+<area shape="rect" id="node36" href="$d3/d62/PHNode_8h.html" title="PHNode.h" alt="" coords="2632,373,2719,401"/>
+<area shape="rect" id="node39" href="$d3/d79/PHIODataNode_8h.html" title="phool/PHIODataNode.h" alt="" coords="3100,221,3276,249"/>
+<area shape="rect" id="node46" href="$d8/dfd/PHNodeIterator_8h.html" title="PHNodeIterator.h" alt="" coords="3517,373,3653,401"/>
+<area shape="rect" id="node48" href="$dd/dd4/getClass_8h.html" title="phool/getClass.h" alt="" coords="2876,137,3009,165"/>
+<area shape="rect" id="node3" href="$d8/d3a/PHG4DetectorSubsystem_8h.html" title="PHG4DetectorSubsystem.h" alt="" coords="1511,221,1715,249"/>
+<area shape="rect" id="node4" href="$df/d1c/PHG4Subsystem_8h.html" title="g4main/PHG4Subsystem.h" alt="" coords="1600,297,1802,325"/>
+<area shape="rect" id="node5" href="$da/dc1/Fun4AllReturnCodes_8h.html" title="fun4all/Fun4AllReturnCodes.h" alt="" coords="1590,373,1812,401"/>
+<area shape="rect" id="node6" href="$d5/dc2/SubsysReco_8h.html" title="fun4all/SubsysReco.h" alt="" coords="1937,373,2102,401"/>
+<area shape="rect" id="node14" href="$dd/d2d/PHG4CylinderGeomv2_8h.html" title="PHG4CylinderGeomv2.h" alt="" coords="301,449,485,477"/>
+<area shape="rect" id="node15" href="$df/ddc/PHG4CylinderGeomv1_8h.html" title="PHG4CylinderGeomv1.h" alt="" coords="390,525,574,553"/>
+<area shape="rect" id="node17" href="$df/d6b/PHG4CylinderGeom__Spacalv3_8h.html" title="PHG4CylinderGeom_Spacalv3.h" alt="" coords="694,221,930,249"/>
+<area shape="rect" id="node18" href="$da/d31/PHG4CylinderGeom__Spacalv2_8h.html" title="PHG4CylinderGeom_Spacalv2.h" alt="" coords="542,297,778,325"/>
+<area shape="rect" id="node21" href="$dd/dcc/PHG4Detector_8h.html" title="g4main/PHG4Detector.h" alt="" coords="46,373,230,401"/>
+<area shape="rect" id="node32" href="$d2/d92/PHG4HitDefs_8h.html" title="PHG4HitDefs.h" alt="" coords="2228,373,2350,401"/>
+<area shape="rect" id="node38" href="$db/dd5/PHPointerList_8h.html" title="PHPointerList.h" alt="" coords="2581,449,2704,477"/>
+<area shape="rect" id="node40" href="$dd/d9b/PHDataNode_8h.html" title="PHDataNode.h" alt="" coords="2980,297,3099,325"/>
+<area shape="rect" id="node41" href="$d9/d53/PHIOManager_8h.html" title="PHIOManager.h" alt="" coords="3318,373,3442,401"/>
+<area shape="rect" id="node43" href="$dd/de7/PHNodeIOManager_8h.html" title="PHNodeIOManager.h" alt="" coords="3276,297,3436,325"/>
+<area shape="rect" id="node45" href="$db/d17/PHTypedNodeIterator_8h.html" title="PHTypedNodeIterator.h" alt="" coords="3612,297,3788,325"/>
+<area shape="rect" id="node47" href="$de/da7/phooldefs_8h.html" title="phooldefs.h" alt="" coords="3091,373,3191,401"/>
+<area shape="rect" id="node44" href="$d5/d6f/phool_8h.html" title="phool/phool.h" alt="" coords="3107,525,3220,553"/>
+</map>

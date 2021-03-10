@@ -1,0 +1,11 @@
+<map id="PHG4Detector::GetMySubsystem" name="PHG4Detector::GetMySubsystem">
+<area shape="rect" id="node2" href="$d5/d9a/classEicRootDetector.html#a226759bff4e7c061ea2068b9071962cc" title="EicRootDetector::ConstructMe" alt="" coords="311,5,534,33"/>
+<area shape="rect" id="node3" href="$d6/d41/classPHG4ConeDetector.html#a412ef104ac98b1f41ccf1d273b3d7118" title="construct" alt="" coords="300,57,545,85"/>
+<area shape="rect" id="node4" href="$d3/d95/classPHG4CylinderDetector.html#a41c5cf8440085201958fe2ca403500a0" title="construct" alt="" coords="336,109,509,153"/>
+<area shape="rect" id="node5" href="$dc/d36/classPHG4BlockDetector.html#a2caa8fb9a09ae821083b3033196ac14b" title="construct" alt="" coords="342,177,503,221"/>
+<area shape="rect" id="node6" href="$d6/dca/classAllSiliconTrackerDetector.html#a6b4413604648bd0349e9250dd14e2dd6" title="construct" alt="" coords="327,245,519,289"/>
+<area shape="rect" id="node7" href="$d4/d16/classG4LBLVtxDetector.html#a277a0f000854a5ae480f15fd1e688306" title="construct" alt="" coords="304,313,541,341"/>
+<area shape="rect" id="node8" href="$df/d0d/classPHG4GDMLDetector.html#a6ca6be89e2f2ee1d92e862115981fd0e" title="construct" alt="" coords="297,365,548,393"/>
+<area shape="rect" id="node9" href="$d5/d9a/classEicRootDetector.html#a1af5329a1589e96a942c11a5558a29a2" title="EicRootDetector::IsInDetector" alt="" coords="312,417,533,445"/>
+<area shape="rect" id="node10" href="$db/d42/classGdmlImportDetectorSteppingAction.html#ae5851f3744b5008338caedff27338372" title="stepping action" alt="" coords="596,409,816,453"/>
+</map>

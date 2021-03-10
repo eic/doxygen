@@ -1,0 +1,6 @@
+<map id="FW::selectVolume" name="FW::selectVolume">
+<area shape="rect" id="node2" href="$d1/d10/namespaceFW.html#a678eea6ca5e231d3861775ba71fffd49" title="FW::makeRange" alt="" coords="240,5,371,33"/>
+<area shape="rect" id="node3" href="$d7/df5/classActs_1_1GeometryID.html#af398c76772a835a6392d8316cc3521db" title="Set the volume identifier." alt="" coords="195,57,416,85"/>
+<area shape="rect" id="node4" href="$d7/df5/classActs_1_1GeometryID.html#a58a26ff78512631792caf827f7e842ef" title="Set the masked bits to id in the encoded value." alt="" coords="464,57,660,85"/>
+<area shape="rect" id="node5" href="$d7/df5/classActs_1_1GeometryID.html#acd6ca6e930d0adfefd72283464038a11" title="Extract the bit shift necessary to access the masked values." alt="" coords="708,49,907,93"/>
+</map>

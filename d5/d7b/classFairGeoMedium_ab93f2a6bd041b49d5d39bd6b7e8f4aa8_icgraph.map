@@ -1,0 +1,5 @@
+<map id="FairGeoMedium::getSensitivityFlag" name="FairGeoMedium::getSensitivityFlag">
+<area shape="rect" id="node2" href="$d8/dd9/classCbmRich.html#a7a04c2f3124c138d4a8b01a83d4d445a" title="Assign materials by taking description from medoa.geo and not from GDML for a certain node..." alt="" coords="309,5,543,33"/>
+<area shape="rect" id="node3" href="$d8/dd9/classCbmRich.html#a35cf8e11a842a80859575120f7cd9b40" title="Construct geometry from GDML file." alt="" coords="591,5,849,33"/>
+<area shape="rect" id="node4" href="$d8/dd9/classCbmRich.html#a3d1883ed88870fa1325c79d6c508242e" title="Construct geometry. Currently ROOT and ASCII formats are supported. The concrete method for geometry ..." alt="" coords="897,5,1120,33"/>
+</map>

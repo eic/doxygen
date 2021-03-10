@@ -1,0 +1,10 @@
+<map id="PHG4ConeDetector::ConstructMe" name="PHG4ConeDetector::ConstructMe">
+<area shape="rect" id="node2" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="591,52,637,80"/>
+<area shape="rect" id="node3" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="321,44,521,88"/>
+<area shape="rect" id="node4" href="$dd/dae/classPHParameters.html#ab1c503fe2e3136bdd3e5a75bc55ead13" title="PHParameters::get_string\l_param" alt="" coords="325,112,517,156"/>
+<area shape="rect" id="node5" href="$d3/de7/classPHG4Detector.html#a5f7650922e846c686ed03252a4735653" title="PHG4Detector::GetMySubsystem" alt="" coords="299,180,543,208"/>
+<area shape="rect" id="node6" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="326,232,515,260"/>
+<area shape="rect" id="node7" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="310,284,531,312"/>
+<area shape="rect" id="node8" href="$db/df7/classPHG4Subsystem.html#a9fe882e6e1b1adb71ea3eff5e5eab5fe" title="PHG4Subsystem::SetLogical\lVolume" alt="" coords="315,336,526,380"/>
+<area shape="rect" id="node9" href="$dc/de2/classPHG4ConeDisplayAction.html#ad6a80915b0acbb033bf8f437f63585d4" title="PHG4ConeDisplayAction\l::SetMyVolume" alt="" coords="328,404,513,448"/>
+</map>

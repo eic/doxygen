@@ -1,0 +1,16 @@
+<map id="GFAbsRecoHit::getRawHitCoord" name="GFAbsRecoHit::getRawHitCoord">
+<area shape="rect" id="node2" href="$dd/d3c/classGFWirepointHitPolicy.html#ae89deed2219d789a5d27ffd647065dd9" title="Check if the detector plane is valid." alt="" coords="315,71,478,115"/>
+<area shape="rect" id="node3" href="$dd/d3c/classGFWirepointHitPolicy.html#a309316bcf1c0eb1537c7969d36d2fe40" title="Hit coordinates in detector plane." alt="" coords="570,5,733,49"/>
+<area shape="rect" id="node5" href="$d7/df9/classGFWireHitPolicy.html#a7e07045a7fbc76ab1aa2bcc8cadfe3d2" title="Check if the detector plane is valid." alt="" coords="291,191,503,219"/>
+<area shape="rect" id="node6" href="$d7/df9/classGFWireHitPolicy.html#a0dad3012c26a81e37d6471c5e7e37db4" title="Hit coordinates in detector plane." alt="" coords="555,141,748,169"/>
+<area shape="rect" id="node8" href="$dd/d3c/classGFWirepointHitPolicy.html#ad688c2c4ec884c7a216ed6b3674a5268" title="Get detector plane." alt="" coords="315,243,478,287"/>
+<area shape="rect" id="node9" href="$d7/df9/classGFWireHitPolicy.html#ab64d853ca871b120cbb276b1448fbec2" title="Get detector plane Calls GFAbsTrackRep::extrapolateToLine for POCA." alt="" coords="299,311,494,339"/>
+<area shape="rect" id="node10" href="$de/d6a/classGFPseudoSpacepointWireHitPolicy.html#a3c6159d51f9d7901187462953eb7dfaa" title="Get detector plane perpendicular to track." alt="" coords="289,363,504,407"/>
+<area shape="rect" id="node11" href="$df/db9/classGFSpacepointHitPolicy.html#aaaec664ee63d1ba794e0089e2307a2ea" title="Get detector plane perpendicular to track." alt="" coords="310,431,483,475"/>
+<area shape="rect" id="node12" href="$de/dc7/namespaceGFTools.html#a53ff194048be98c35dc4bd93ec1c2c7c" title="Get smoothed chi2 for a specific hit (ihit)." alt="" coords="287,499,507,527"/>
+<area shape="rect" id="node13" href="$de/d6a/classGFPseudoSpacepointWireHitPolicy.html#a21645817a8b0ea49b9c936ae9b9dfcba" title="Hit coordinates in detector plane." alt="" coords="289,551,504,595"/>
+<area shape="rect" id="node14" href="$df/db9/classGFSpacepointHitPolicy.html#ab0ac373dcc81177437e20f1524c3dfb2" title="Hit coordinates in detector plane." alt="" coords="310,619,483,663"/>
+<area shape="rect" id="node15" href="$dc/de5/classGFPlanarHitPolicy.html#a434b33068eefc665ba985330002c78a0" title="Hit coordinates in detector plane." alt="" coords="323,687,471,731"/>
+<area shape="rect" id="node4" href="$dd/d3c/classGFWirepointHitPolicy.html#a68208197947071aa94361ee84e1cce1f" title="Hit covariances in detector plane." alt="" coords="570,73,733,117"/>
+<area shape="rect" id="node7" href="$d7/df9/classGFWireHitPolicy.html#aaa6b3c53db13da753fb5578741b1bf05" title="Hit covariances in detector plane." alt="" coords="561,193,741,221"/>
+</map>

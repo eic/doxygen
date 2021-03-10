@@ -1,0 +1,14 @@
+<map id="RKTrackRep::estimateStep" name="RKTrackRep::estimateStep">
+<area shape="rect" id="node2" href="$d0/d7d/classGFMaterialEffects.html#a44a25eae0203e5ba605b9390454b0e02" title="GFMaterialEffects::\lgetInstance" alt="" coords="259,9,407,53"/>
+<area shape="rect" id="node4" href="$d0/d4b/classGFDetPlane.html#a495c4fd7b1e7a33e1b079b499617f633" title="intersect in the active area? C.f. GFAbsFinitePlane" alt="" coords="252,81,415,109"/>
+<area shape="rect" id="node8" href="$d0/d7d/classGFMaterialEffects.html#a8599def2e59a062e09520f58d3903ef1" title="Returns maximum length so that a specified momentum loss will not be exceeded." alt="" coords="259,209,407,253"/>
+<area shape="rect" id="node3" href="$d0/d7d/classGFMaterialEffects.html#a0e398635b2241e167128670010d6452b" title="GFMaterialEffects::\lGFMaterialEffects" alt="" coords="483,5,631,49"/>
+<area shape="rect" id="node5" href="$d0/d4b/classGFDetPlane.html#a580408bb7e2e1280a55384815510326e" title="gives u,v coordinates of the intersection point of a straight line with plane" alt="" coords="463,73,652,117"/>
+<area shape="rect" id="node6" href="$d0/d4b/classGFDetPlane.html#a3a7f63a8a4f819531fc9722747113405" title="GFDetPlane::getNormal" alt="" coords="700,56,880,84"/>
+<area shape="rect" id="node7" href="$d0/d4b/classGFDetPlane.html#aaf5ac9b6f1be6bf351f7ebb4a4ae7c4e" title="projecting a direction onto the plane:" alt="" coords="711,108,869,136"/>
+<area shape="rect" id="node9" href="$d0/d7d/classGFMaterialEffects.html#af5704340e8a8a7a53d92662591f86f8a" title="Returns energy loss." alt="" coords="470,141,645,185"/>
+<area shape="rect" id="node10" href="$d0/d7d/classGFMaterialEffects.html#a8694ead08e533ca11c80575368e8a42b" title="Returns energy loss." alt="" coords="483,209,631,253"/>
+<area shape="rect" id="node11" href="$d0/d7d/classGFMaterialEffects.html#a7950699428f1820b63b811bbfeab517f" title="sets fmatDensity, fmatZ, fmatA, fradiationLength, fmEE;" alt="" coords="470,277,645,321"/>
+<area shape="rect" id="node13" href="$d0/d7d/classGFMaterialEffects.html#a217616b14c8610e42ef48b5031676483" title="sets fcharge, fmass and calculates fbeta, fgamma, fgammasquare;" alt="" coords="472,345,643,389"/>
+<area shape="rect" id="node12" href="$d2/d1d/GFMaterialEffects_8cxx.html#ace10d16e9b96a185e23ee046a18e3a28" title="MeanExcEnergy_get" alt="" coords="711,285,869,313"/>
+</map>

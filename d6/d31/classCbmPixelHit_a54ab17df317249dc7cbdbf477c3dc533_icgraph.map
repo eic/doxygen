@@ -1,0 +1,19 @@
+<map id="CbmPixelHit::GetY" name="CbmPixelHit::GetY">
+<area shape="rect" id="node2" href="$d5/d99/classCbmRichConverter.html#ac656c5037798f232d3b92e44c8ab4176" title="Copy hits from CbmRichRing to CbmRichRingLight." alt="" coords="199,100,416,144"/>
+<area shape="rect" id="node9" href="$d9/dcb/classCbmRichEventDisplay.html#a93e05bb2535ddd090548959e5baa952a" title="CbmRichEventDisplay\l::DrawOnePmtPlane" alt="" coords="222,245,393,289"/>
+<area shape="rect" id="node12" href="$d5/d75/classCbmRichGeoTest.html#ac4e85945a0e59eb8e5b24852dec35e2d" title="Calculate residuals between hits and MC points and fill histograms." alt="" coords="471,193,709,221"/>
+<area shape="rect" id="node13" href="$d9/de4/classCbmRichUrqmdTest.html#a68aa8da48fe1fefb6d24f28c905037bb" title="CbmRichUrqmdTest::NofHits" alt="" coords="201,313,413,341"/>
+<area shape="rect" id="node15" href="$d6/d31/classCbmPixelHit.html#ac143215a8bd5ef5321475f9e71ef836e" title="Copies hit position to pos." alt="" coords="225,365,389,393"/>
+<area shape="rect" id="node17" href="$de/dfd/classCbmRichHit.html#a8252bed29bbf341318881077b7b7ec48" title="Inherited from CbmBaseHit." alt="" coords="225,417,389,445"/>
+<area shape="rect" id="node18" href="$d6/d31/classCbmPixelHit.html#a1d5e7e57619226bebb1f0cbdb8f81019" title="Inherited from CbmBaseHit." alt="" coords="224,469,391,497"/>
+<area shape="rect" id="node3" href="$d5/dcf/classCbmRichReconstruction.html#ae90c91a3975fc059aac7a20e216ef0e9" title="CbmRichReconstruction\l::RunFitter" alt="" coords="499,5,681,49"/>
+<area shape="rect" id="node5" href="$d7/d94/classCbmRichTrainAnnSelect.html#aa1b5db92eacf4588fca5794bc1451b2e" title="Fill ring selection parameters in array and histograms." alt="" coords="499,73,681,117"/>
+<area shape="rect" id="node7" href="$d5/d75/classCbmRichGeoTest.html#a3877e9706c0d5764a48e943b355830cf" title="Loop over all rings in array and fill ring parameters histograms." alt="" coords="464,141,716,169"/>
+<area shape="rect" id="node4" href="$d5/dcf/classCbmRichReconstruction.html#ae6cd4acbe204540aa154d76f7dc13ace" title="Inherited from FairTask." alt="" coords="765,5,946,49"/>
+<area shape="rect" id="node6" href="$d7/d94/classCbmRichTrainAnnSelect.html#a98a50fd7abb8180ae973349411cf0329" title="Inherited from FairTask." alt="" coords="764,73,947,117"/>
+<area shape="rect" id="node8" href="$d5/d75/classCbmRichGeoTest.html#a9d5e890887411e04eb97219b7fa6c191" title="Inherited from FairTask." alt="" coords="767,168,943,196"/>
+<area shape="rect" id="node10" href="$d9/dcb/classCbmRichEventDisplay.html#a9ced80a3bce35d394e11acc64548d651" title="CbmRichEventDisplay\l::DrawOneEvent" alt="" coords="505,245,675,289"/>
+<area shape="rect" id="node11" href="$d9/dcb/classCbmRichEventDisplay.html#ab83a29f54a55a8a03921e74de6f1ea44" title="Inherited from FairTask." alt="" coords="770,245,941,289"/>
+<area shape="rect" id="node14" href="$d9/de4/classCbmRichUrqmdTest.html#a2c26d3f87bd1862e9b250ad5d4975a5a" title="Inherited from FairTask." alt="" coords="493,313,687,341"/>
+<area shape="rect" id="node16" href="$d5/d49/classCbmRichTestHits.html#a1c63ae7f8d0a69f5d785556a463050ee" title="Inherited from FairTask." alt="" coords="503,365,677,393"/>
+</map>

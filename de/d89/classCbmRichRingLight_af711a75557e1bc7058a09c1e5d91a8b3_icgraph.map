@@ -1,0 +1,10 @@
+<map id="CbmRichRingLight::GetXF2" name="CbmRichRingLight::GetXF2">
+<area shape="rect" id="node2" href="$dd/d22/classCbmRichRingFitterEllipseBase.html#a7bff3502ea2108f09d5d918036add14d" title="Calculate chi2 of the ellipse fit." alt="" coords="256,36,447,80"/>
+<area shape="rect" id="node3" href="$d2/d8f/classCbmRichRingFitterEllipseTau.html#a2cb8f2f8f011d5eda54dc7c2b9902f4a" title="Inherited from CbmRichRingFitterBase." alt="" coords="733,40,924,84"/>
+<area shape="rect" id="node8" href="$de/d3f/classCbmRichRingFitterEllipseMinuit.html#a1c93d207fb00cf92bdf53fb373e8da7a" title="Inherited from CbmRichRingFitterBase." alt="" coords="495,36,685,80"/>
+<area shape="rect" id="node9" href="$d2/d8f/classCbmRichRingFitterEllipseTau.html#a7cefee0020af3461cd61ae4468fecd13" title="Transform fitted curve to ellipse parameters." alt="" coords="495,104,685,148"/>
+<area shape="rect" id="node4" href="$d5/d75/classCbmRichGeoTest.html#abbc0d8b45eab85acbc07506987dfbb4e" title="Fit ring using ellipse fitter and fill histograms." alt="" coords="972,5,1176,49"/>
+<area shape="rect" id="node7" href="$df/d44/classCbmRichRingFitterQa.html#a3312359c4adaa1788105cc6d60b5b4b2" title="Generate ellipse." alt="" coords="992,73,1156,117"/>
+<area shape="rect" id="node5" href="$d5/d75/classCbmRichGeoTest.html#a3877e9706c0d5764a48e943b355830cf" title="Loop over all rings in array and fill ring parameters histograms." alt="" coords="1224,13,1476,41"/>
+<area shape="rect" id="node6" href="$d5/d75/classCbmRichGeoTest.html#a9d5e890887411e04eb97219b7fa6c191" title="Inherited from FairTask." alt="" coords="1524,13,1700,41"/>
+</map>

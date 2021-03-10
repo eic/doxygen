@@ -1,0 +1,5 @@
+<map id="GFKalman::chi2Increment" name="GFKalman::chi2Increment">
+<area shape="rect" id="node2" href="$de/dc7/namespaceGFTools.html#a91584ea29490044c1bdd8270f39400e6" title="Invert a matrix, throwing GFException when inversion fails." alt="" coords="265,5,429,33"/>
+<area shape="rect" id="node3" href="$df/d55/classGFException.html#a886ef3de22cdff9ceee36449be8643c2" title="set fatal flag. if this is true, the fit stops for this current track repr." alt="" coords="492,32,659,60"/>
+<area shape="rect" id="node4" href="$df/d55/classGFException.html#a25f97a580a7a3c4e65415e08323da4c0" title="set list of matrices with description" alt="" coords="251,109,444,137"/>
+</map>

@@ -1,0 +1,48 @@
+<map id="PHG4Detector" name="PHG4Detector">
+<area shape="rect" id="node2" href="$d6/dca/classAllSiliconTrackerDetector.html" title="AllSiliconTrackerDetector" alt="" coords="199,5,391,33"/>
+<area shape="rect" id="node3" href="$df/d95/classBeamLineMagnetDetector.html" title="BeamLineMagnetDetector" alt="" coords="195,57,394,85"/>
+<area shape="rect" id="node4" href="$d4/d6b/classBeastMagnetDetector.html" title="BeastMagnetDetector" alt="" coords="210,109,379,137"/>
+<area shape="rect" id="node5" href="$df/d6a/classEicFRichDetector.html" title="EicFRichDetector" alt="" coords="226,161,363,189"/>
+<area shape="rect" id="node6" href="$d5/d9a/classEicRootDetector.html" title="EicRootDetector" alt="" coords="229,213,360,241"/>
+<area shape="rect" id="node7" href="$d6/db4/classEicToyModelDetector.html" title="EicToyModelDetector" alt="" coords="213,265,376,293"/>
+<area shape="rect" id="node8" href="$d9/d6f/classG4Example01Detector.html" title="G4Example01Detector" alt="" coords="207,317,383,345"/>
+<area shape="rect" id="node9" href="$d9/d5d/classG4Example02Detector.html" title="G4Example02Detector" alt="" coords="207,369,383,397"/>
+<area shape="rect" id="node10" href="$dd/d7d/classG4Example03Detector.html" title="G4Example03Detector" alt="" coords="207,421,383,449"/>
+<area shape="rect" id="node11" href="$db/d20/classG4JLeicBeamLineMagnetDetector.html" title="G4JLeicBeamLineMagnetDetector" alt="" coords="171,473,419,501"/>
+<area shape="rect" id="node12" href="$dd/d9e/classG4JLeicDIRCDetector.html" title="G4JLeicDIRCDetector" alt="" coords="213,525,376,553"/>
+<area shape="rect" id="node13" href="$d4/d65/classG4JLeicVTXDetector.html" title="G4JLeicVTXDetector" alt="" coords="217,577,373,605"/>
+<area shape="rect" id="node14" href="$d4/d16/classG4LBLVtxDetector.html" title="G4LBLVtxDetector is a generic detector built from a GDML import." alt="" coords="223,629,367,657"/>
+<area shape="rect" id="node15" href="$dd/dd0/classG4LmonDetector.html" title="G4LmonDetector" alt="" coords="226,681,363,709"/>
+<area shape="rect" id="node16" href="$d3/d22/classPHG4BbcDetector.html" title="PHG4BbcDetector" alt="" coords="223,733,366,761"/>
+<area shape="rect" id="node17" href="$de/ddc/classPHG4BeamlineMagnetDetector.html" title="PHG4BeamlineMagnetDetector" alt="" coords="179,785,411,813"/>
+<area shape="rect" id="node18" href="$dc/d36/classPHG4BlockDetector.html" title="PHG4BlockDetector" alt="" coords="217,837,372,865"/>
+<area shape="rect" id="node19" href="$d5/da7/classPHG4CEmcTestBeamDetector.html" title="PHG4CEmcTestBeamDetector" alt="" coords="184,889,405,917"/>
+<area shape="rect" id="node20" href="$d6/d41/classPHG4ConeDetector.html" title="PHG4ConeDetector" alt="" coords="219,941,371,969"/>
+<area shape="rect" id="node21" href="$d1/deb/classPHG4CrystalCalorimeterDetector.html" title="PHG4CrystalCalorimeterDetector" alt="" coords="173,993,417,1021"/>
+<area shape="rect" id="node23" href="$d3/d95/classPHG4CylinderDetector.html" title="PHG4CylinderDetector" alt="" coords="208,1045,381,1073"/>
+<area shape="rect" id="node24" href="$df/dfc/classPHG4EICMvtxDetector.html" title="PHG4EICMvtxDetector" alt="" coords="209,1097,381,1125"/>
+<area shape="rect" id="node25" href="$d6/df3/classPHG4EnvelopeDetector.html" title="PHG4EnvelopeDetector" alt="" coords="205,1149,385,1177"/>
+<area shape="rect" id="node26" href="$dc/dbf/classPHG4EPDetector.html" title="PHG4EPDetector" alt="" coords="227,1201,362,1229"/>
+<area shape="rect" id="node27" href="$de/d99/classPHG4FCalDetector.html" title="PHG4FCalDetector" alt="" coords="221,1253,368,1281"/>
+<area shape="rect" id="node28" href="$d8/d23/classPHG4ForwardEcalDetector.html" title="PHG4ForwardEcalDetector" alt="" coords="195,1305,395,1333"/>
+<area shape="rect" id="node30" href="$d9/d50/classPHG4ForwardHcalDetector.html" title="PHG4ForwardHcalDetector" alt="" coords="194,1357,395,1385"/>
+<area shape="rect" id="node31" href="$d4/df0/classPHG4FPbScDetector.html" title="PHG4FPbScDetector" alt="" coords="215,1409,374,1437"/>
+<area shape="rect" id="node32" href="$df/d0d/classPHG4GDMLDetector.html" title="PHG4GDMLDetector is a generic detector built from a GDML import." alt="" coords="216,1461,373,1489"/>
+<area shape="rect" id="node33" href="$de/d1f/classPHG4HcalDetector.html" title="PHG4HcalDetector" alt="" coords="221,1513,369,1541"/>
+<area shape="rect" id="node34" href="$d5/d80/classPHG4InnerHcalDetector.html" title="PHG4InnerHcalDetector" alt="" coords="203,1565,386,1593"/>
+<area shape="rect" id="node35" href="$dc/de8/classPHG4InttDetector.html" title="PHG4InttDetector" alt="" coords="225,1617,365,1645"/>
+<area shape="rect" id="node36" href="$d9/d5c/classPHG4MicromegasDetector.html" title="PHG4MicromegasDetector" alt="" coords="195,1669,395,1697"/>
+<area shape="rect" id="node37" href="$d9/deb/classPHG4mRICHDetector.html" title="PHG4mRICHDetector" alt="" coords="213,1721,377,1749"/>
+<area shape="rect" id="node38" href="$d4/dc1/classPHG4MvtxDetector.html" title="PHG4MvtxDetector" alt="" coords="219,1773,370,1801"/>
+<area shape="rect" id="node39" href="$df/d74/classPHG4OuterHcalDetector.html" title="PHG4OuterHcalDetector" alt="" coords="202,1825,387,1853"/>
+<area shape="rect" id="node40" href="$d4/d9a/classPHG4PSTOFDetector.html" title="PHG4PSTOFDetector" alt="" coords="214,1877,375,1905"/>
+<area shape="rect" id="node41" href="$dc/d30/classPHG4RICHDetector.html" title="This class creates the ePHENIX RICH volumes for Geant4 within Fun4All via ePHENIXRICH::ePHENIXRICHCon..." alt="" coords="219,1929,370,1957"/>
+<area shape="rect" id="node42" href="$d5/d5e/classPHG4SectorDetector.html" title="PHG4SectorDetector" alt="" coords="214,1981,375,2009"/>
+<area shape="rect" id="node43" href="$d0/da4/classPHG4SpacalDetector.html" title="PHG4SpacalDetector" alt="" coords="213,2033,376,2061"/>
+<area shape="rect" id="node46" href="$de/d81/classPHG4TpcDetector.html" title="PHG4TpcDetector" alt="" coords="223,2085,366,2113"/>
+<area shape="rect" id="node47" href="$dd/d5a/classPHG4TpcEndCapDetector.html" title="PHG4TpcEndCapDetector" alt="" coords="197,2137,392,2165"/>
+<area shape="rect" id="node22" href="$dd/d60/classPHG4ProjCrystalCalorimeterDetector.html" title="PHG4ProjCrystalCalorimeter\lDetector" alt="" coords="472,985,683,1029"/>
+<area shape="rect" id="node29" href="$d8/d19/classPHG4EICForwardEcalDetector.html" title="PHG4EICForwardEcalDetector" alt="" coords="467,1305,688,1333"/>
+<area shape="rect" id="node44" href="$d1/d05/classPHG4FullProjSpacalDetector.html" title="PHG4FullProjSpacalDetector" alt="" coords="472,2003,683,2031"/>
+<area shape="rect" id="node45" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html" title="Fully projective SPACAL built from 2D tapered modules and allow azimuthal tilts." alt="" coords="483,2055,672,2099"/>
+</map>

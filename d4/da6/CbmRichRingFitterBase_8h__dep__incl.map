@@ -1,0 +1,21 @@
+<map id="EicRoot/blob/master/rich/fitter/CbmRichRingFitterBase.h" name="EicRoot/blob/master/rich/fitter/CbmRichRingFitterBase.h">
+<area shape="rect" id="node2" href="$df/d67/CbmRichRingFitterCircle_8h.html" title="Implementation of a ring fitting algorithm with equation of a circle. Algorithm from F77 subroutine o..." alt="" coords="1589,113,1809,173"/>
+<area shape="rect" id="node5" href="$db/da6/CbmRichRingFitterCOP_8h.html" title="Here the ring is fitted with the COP algorithm from A. Ayriyan/G. Ososkov." alt="" coords="689,221,909,281"/>
+<area shape="rect" id="node12" href="$d0/dd0/CbmRichRingFitterEllipseBase_8h.html" title="Base class for concrete ellipse fitting algorithms. Each derived class must implement the method DoFi..." alt="" coords="1345,113,1565,173"/>
+<area shape="rect" id="node17" href="$d2/d6c/CbmRichRingFitterRobustCOP_8h.html" title="Here the ring is fitted with the RobustCOP algorithm from A. Ayriyan/G. Ososkov." alt="" coords="1833,113,2053,173"/>
+<area shape="rect" id="node19" href="$d6/d8a/CbmRichRingFitterTAU_8h.html" title="Here the ring is fitted with the TAU algorithm from A. Ayriyan/ G. Ososkov." alt="" coords="2084,113,2304,173"/>
+<area shape="rect" id="node3" href="$dd/d2c/CbmRichReconstruction_8cxx.html" title="EicRoot/blob/master\l/rich/CbmRichReconstruction.cxx" alt="" coords="1775,337,2021,381"/>
+<area shape="rect" id="node4" href="$de/d14/CbmRichRingFitterCircle_8cxx.html" title="EicRoot/blob/master\l/rich/fitter/CbmRichRingFitter\lCircle.cxx" alt="" coords="1589,221,1809,281"/>
+<area shape="rect" id="node6" href="$d1/d6b/CbmRichTrainAnnSelect_8h.html" title="Train ANN for fake rejection." alt="" coords="249,337,480,381"/>
+<area shape="rect" id="node7" href="$de/d5e/CbmRichTrainAnnSelect_8cxx.html" title="EicRoot/blob/master\l/rich/CbmRichTrainAnnSelect.cxx" alt="" coords="318,437,563,481"/>
+<area shape="rect" id="node8" href="$dc/d51/finder_2CbmRichRingFinderHoughImpl_8cxx.html" title="EicRoot/blob/master\l/rich/finder/CbmRichRingFinder\lHoughImpl.cxx" alt="" coords="555,329,790,389"/>
+<area shape="rect" id="node9" href="$d7/dfd/CbmRichRingFitterCOP_8cxx.html" title="EicRoot/blob/master\l/rich/fitter/CbmRichRingFitter\lCOP.cxx" alt="" coords="5,329,225,389"/>
+<area shape="rect" id="node10" href="$de/da9/CbmRichGeoTest_8cxx.html" title="EicRoot/blob/master\l/rich/qa/CbmRichGeoTest.cxx" alt="" coords="815,337,1035,381"/>
+<area shape="rect" id="node11" href="$d6/de0/CbmRichRingFitterQa_8cxx.html" title="EicRoot/blob/master\l/rich/qa/CbmRichRingFitter\lQa.cxx" alt="" coords="1303,329,1507,389"/>
+<area shape="rect" id="node13" href="$db/d40/CbmRichRingFitterEllipseMinuit_8h.html" title="This is the implementation of ellipse fitting using MINUIT." alt="" coords="1345,221,1565,281"/>
+<area shape="rect" id="node15" href="$d8/dc8/CbmRichRingFitterEllipseTau_8h.html" title="Here the ring is fitted with Taubin algorithm from A. Ayriyan, G. Ososkov, N. Chernov." alt="" coords="1101,221,1321,281"/>
+<area shape="rect" id="node14" href="$d1/d05/CbmRichRingFitterEllipseMinuit_8cxx.html" title="EicRoot/blob/master\l/rich/fitter/CbmRichRingFitter\lEllipseMinuit.cxx" alt="" coords="1531,329,1751,389"/>
+<area shape="rect" id="node16" href="$da/de4/CbmRichRingFitterEllipseTau_8cxx.html" title="EicRoot/blob/master\l/rich/fitter/CbmRichRingFitter\lEllipseTau.cxx" alt="" coords="1059,329,1279,389"/>
+<area shape="rect" id="node18" href="$d2/da9/CbmRichRingFitterRobustCOP_8cxx.html" title="Here the ring is fitted with the RobustCOP algorithm from A. Ayriyan/ G. Ososkov." alt="" coords="1936,221,2156,281"/>
+<area shape="rect" id="node20" href="$de/daf/CbmRichRingFitterTAU_8cxx.html" title="EicRoot/blob/master\l/rich/fitter/CbmRichRingFitter\lTAU.cxx" alt="" coords="2232,221,2452,281"/>
+</map>

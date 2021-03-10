@@ -1,0 +1,51 @@
+<map id="CbmRich::ConstructGdmlGeometry" name="CbmRich::ConstructGdmlGeometry">
+<area shape="rect" id="node2" href="$d1/d76/aerogel_8C.html#a56726089ae862a842963a7b0f01b5fc7" title="aerogel" alt="" coords="405,324,477,352"/>
+<area shape="rect" id="node20" href="$d9/d1e/classFairGeoMedia.html#a0dc27e89d61b8ff40498a48e39b2a2c0" title="FairGeoMedia::getMedium" alt="" coords="963,624,1162,652"/>
+<area shape="rect" id="node21" href="$de/d6a/classFairGeoBuilder.html#a852b0d5861a7a6c1033aab59417d1c79" title="FairGeoBuilder::createMedium" alt="" coords="950,676,1175,704"/>
+<area shape="rect" id="node25" href="$d8/dd9/classCbmRich.html#a7a04c2f3124c138d4a8b01a83d4d445a" title="Assign materials by taking description from medoa.geo and not from GDML for a certain node..." alt="" coords="324,871,557,899"/>
+<area shape="rect" id="node26" href="$d2/dc4/classFairGeoLoader.html#a79a550879ea6baf59396ef180765e320" title="FairGeoLoader::Instance" alt="" coords="663,728,847,756"/>
+<area shape="rect" id="node27" href="$d2/dc4/classFairGeoLoader.html#a0230b0ab35dd70a16544ef652f5fdde0" title="FairGeoLoader::getGeoInterface" alt="" coords="637,780,873,808"/>
+<area shape="rect" id="node28" href="$dc/dc3/classFairGeoInterface.html#a43b4da4297f7ace4056c957af90d52de" title="FairGeoInterface::getMedia" alt="" coords="653,1107,857,1135"/>
+<area shape="rect" id="node29" href="$d2/dc4/classFairGeoLoader.html#a4ffcb1c037e678ab7ec321cb8cfeed21" title="FairGeoLoader::getGeoBuilder" alt="" coords="642,1159,867,1187"/>
+<area shape="rect" id="node48" href="$d6/d25/classEicGDMLParse.html#aef82dc63f42a2c5b6f9106036f01505d" title="EicGDMLParse::GDMLReadFile" alt="" coords="329,1025,552,1053"/>
+<area shape="rect" id="node49" href="$d8/dd9/classCbmRich.html#a89af65bf3ecdc487d999d0e2609e6052" title="CbmRich::GetGasVolume" alt="" coords="345,1077,536,1105"/>
+<area shape="rect" id="node50" href="$d4/d06/classFairModule.html#ab37b69b7380269835902e621826ed79e" title="FairModule::GetGeometryFileName" alt="" coords="312,1129,569,1157"/>
+<area shape="rect" id="node3" href="$dd/d0b/classEicNamePatternHub.html#a4506ad43e31ae3c2ff6ff50604682715" title="EicNamePatternHub::\lAddPrefixMatch" alt="" coords="673,5,837,49"/>
+<area shape="rect" id="node4" href="$df/de0/classEicGeoParData.html#aa10ef8f4aec5aebc0c2c043524c9382e" title="EicGeoParData::AttachSourceFile" alt="" coords="633,73,876,101"/>
+<area shape="rect" id="node6" href="$df/de0/classEicGeoParData.html#a8342587c932c7003ea724dc479cbbd2f" title="EicGeoParData::Construct\lGeometry" alt="" coords="657,125,853,169"/>
+<area shape="rect" id="node7" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="731,193,778,221"/>
+<area shape="rect" id="node8" href="$df/de0/classEicGeoParData.html#a5464c1947d87d36569891ada6aafb22c" title="EicGeoParData::FinalizeOutput" alt="" coords="641,297,869,325"/>
+<area shape="rect" id="node9" href="$df/de0/classEicGeoParData.html#a98e43e3d66fdb531cabaccd39f09ebc3" title="EicGeoParData::GetColorTable" alt="" coords="950,185,1175,213"/>
+<area shape="rect" id="node11" href="$df/de0/classEicGeoParData.html#a75991633a97d0a9b3140ba103f225691" title="EicGeoParData::GetTransparency\lTable" alt="" coords="940,425,1185,469"/>
+<area shape="rect" id="node19" href="$df/de0/classEicGeoParData.html#af50661ee10308b08071f9feb1b57493b" title="EicGeoParData::GetMedium" alt="" coords="651,401,859,429"/>
+<area shape="rect" id="node22" href="$df/de0/classEicGeoParData.html#a37c307a8b444e89fd125f6d273a1c894" title="EicGeoParData::GetTopVolume" alt="" coords="641,453,869,481"/>
+<area shape="rect" id="node23" href="$df/de0/classEicGeoParData.html#a04f15471e3c546dbf50727aa61098434" title="EicGeoParData::SetTestGeometryFlag" alt="" coords="617,505,892,533"/>
+<area shape="rect" id="node24" href="$df/de0/classEicGeoParData.html#ae993c5ff20194aa78ee7810d0e5ffa3a" title="EicGeoParData::SetTopVolume\lTransformation" alt="" coords="641,557,868,601"/>
+<area shape="rect" id="node5" href="$de/d53/classSourceFile.html#ae7fa8d10936a333a8ae1252f3ab00d3d" title="SourceFile::IsOk" alt="" coords="998,73,1127,101"/>
+<area shape="rect" id="node10" href="$dd/d0b/classEicNamePatternHub.html#a8baac9dd7e44ee789555cb040763f903" title="EicNamePatternHub::\lAnyMatch" alt="" coords="981,289,1145,333"/>
+<area shape="rect" id="node12" href="$df/de0/classEicGeoParData.html#a24162311dd8c038e330afbee7a132352" title="EicGeoParData::GetGeometry\lFileName" alt="" coords="952,357,1173,401"/>
+<area shape="rect" id="node18" href="$d0/d2f/classEicDetName.html#aef29cb1ffe2ea071a03f4aa098408595" title="EicDetName::Name" alt="" coords="986,237,1139,265"/>
+<area shape="rect" id="node13" href="$df/de0/classEicGeoParData.html#a27907f2aba8817ceb2d97e1a29ecaf40" title="EicGeoParData::GetVersion" alt="" coords="1257,469,1461,497"/>
+<area shape="rect" id="node14" href="$df/de0/classEicGeoParData.html#ae6acf5e5d790c629031c2d7cf12718ef" title="EicGeoParData::GetSubVersion" alt="" coords="1245,261,1474,289"/>
+<area shape="rect" id="node15" href="$df/de0/classEicGeoParData.html#a09fe5b3481f26b4a771cb7c476d64a1f" title="EicGeoParData::IsTestGeometry" alt="" coords="1242,313,1477,341"/>
+<area shape="rect" id="node16" href="$d0/d2f/classEicDetName.html#afac87377442f69796e0e335e81b96067" title="EicDetName::name" alt="" coords="1283,365,1435,393"/>
+<area shape="rect" id="node17" href="$df/de0/classEicGeoParData.html#a7f5db7c4ddc258264f0258a6d8d946b6" title="EicGeoParData::GetGeometryType" alt="" coords="1233,417,1485,445"/>
+<area shape="rect" id="node30" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="725,832,784,860"/>
+<area shape="rect" id="node31" href="$d5/d7b/classFairGeoMedium.html#ab93f2a6bd041b49d5d39bd6b7e8f4aa8" title="FairGeoMedium::getSensitivityFlag" alt="" coords="627,884,883,912"/>
+<area shape="rect" id="node32" href="$d4/d06/classFairModule.html#a4a0bc0404305fb835b7c7112b9ca7b04" title="FairModule::AddSensitive\lVolume" alt="" coords="659,1039,851,1083"/>
+<area shape="rect" id="node33" href="$db/da1/classFairLogger.html#a60bd2d39c9b6c2be4d5c8893a7d6921e" title="FairLogger::Debug2" alt="" coords="986,1151,1139,1179"/>
+<area shape="rect" id="node43" href="$d5/df0/classFairVolumeList.html#acd852df26c15f15e1de3421817a3aaf4" title="FairVolumeList::findObject" alt="" coords="1260,1033,1459,1061"/>
+<area shape="rect" id="node44" href="$d5/df0/classFairVolumeList.html#a0da45b14a8e326fb1ff55c87f765b13c" title="FairVolumeList::addVolume" alt="" coords="961,943,1165,971"/>
+<area shape="rect" id="node46" href="$d6/d90/classFairVolume.html#a48cfddcede49f79a75ad712b0b06abf8" title="FairVolume::setModId" alt="" coords="980,995,1145,1023"/>
+<area shape="rect" id="node47" href="$d6/d90/classFairVolume.html#aa8538b0decd3bf3f2fd6c3cf06c199fc" title="FairVolume::SetModule" alt="" coords="975,1047,1151,1075"/>
+<area shape="rect" id="node34" href="$db/da1/classFairLogger.html#ae5a926d95789678b453cbb45e0a9a46e" title="FairLogger::IsLogNeeded" alt="" coords="1266,1176,1453,1204"/>
+<area shape="rect" id="node35" href="$db/da1/classFairLogger.html#aa9d98b58fab95abcf553dfefe1e572f5" title="FairLogger::Log" alt="" coords="1297,1124,1421,1152"/>
+<area shape="rect" id="node36" href="$db/da1/classFairLogger.html#a5529c6ab25bc075aff767f30a743e616" title="FairLogger::OpenLogFile" alt="" coords="1818,1072,2001,1100"/>
+<area shape="rect" id="node38" href="$db/da1/classFairLogger.html#aeb76e4a75fe913ebdf1c07b5d1f3ac1b" title="FairLogger::GetOutputStream" alt="" coords="1533,1124,1753,1152"/>
+<area shape="rect" id="node40" href="$db/da1/classFairLogger.html#a496d9b3f72963d24a58abc5a023b74b0" title="End of the line." alt="" coords="1579,1176,1708,1204"/>
+<area shape="rect" id="node37" href="$db/da1/classFairLogger.html#a80d1ac93eff9a9b6d52f8118b8b796aa" title="FairLogger::CloseLogFile" alt="" coords="2065,1072,2249,1100"/>
+<area shape="rect" id="node39" href="$db/da1/classFairLogger.html#a6fe59f109418f1331c91c39d0ea33c1d" title="FairLogger::GetTime" alt="" coords="2079,1137,2236,1165"/>
+<area shape="rect" id="node41" href="$db/da1/classFairLogger.html#aca7a4fd0af5e622c9635f62996a7334d" title="Flush the streams." alt="" coords="2091,1215,2224,1243"/>
+<area shape="rect" id="node42" href="$db/da1/classFairLogger.html#a9848989e18afa7144b47ecc38b7bfe0e" title="FairLogger::LogFatalMessage" alt="" coords="1801,1176,2017,1204"/>
+<area shape="rect" id="node45" href="$d6/d90/classFairVolume.html#a3d4eac7c3ec5945476aad14fea6bac81" title="FairVolume::getVolumeId" alt="" coords="1265,943,1454,971"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="EicRoot/blob/master/rich/qa/CbmRichRingFitterQa.cxx" name="EicRoot/blob/master/rich/qa/CbmRichRingFitterQa.cxx">
+<area shape="rect" id="node2" href="$da/d34/CbmRichRingFitterQa_8h.html" title="Test ellipse and circle fitting on toy model." alt="" coords="205,121,383,149"/>
+<area shape="rect" id="node6" href="$d8/dc8/CbmRichRingFitterEllipseTau_8h.html" title="Here the ring is fitted with Taubin algorithm from A. Ayriyan, G. Ososkov, N. Chernov." alt="" coords="676,113,867,157"/>
+<area shape="rect" id="node14" href="$db/d40/CbmRichRingFitterEllipseMinuit_8h.html" title="This is the implementation of ellipse fitting using MINUIT." alt="" coords="461,113,652,157"/>
+<area shape="rect" id="node16" href="$db/da6/CbmRichRingFitterCOP_8h.html" title="Here the ring is fitted with the COP algorithm from A. Ayriyan/G. Ososkov." alt="" coords="993,121,1177,149"/>
+<area shape="rect" id="node19" href="$d2/dad/CbmRichRing_8h.html" title="CbmRichRing.h" alt="" coords="5,121,129,149"/>
+<area shape="rect" id="node7" href="$d0/dd0/CbmRichRingFitterEllipseBase_8h.html" title="Base class for concrete ellipse fitting algorithms. Each derived class must implement the method DoFi..." alt="" coords="489,205,680,249"/>
+<area shape="rect" id="node8" href="$d2/d05/CbmRichRingFitterBase_8h.html" title="Abstract base class for concrete Rich Ring fitting algorithms. Each derived class must implement the ..." alt="" coords="797,297,989,325"/>
+</map>

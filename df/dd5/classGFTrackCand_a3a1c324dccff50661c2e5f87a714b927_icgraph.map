@@ -1,0 +1,14 @@
+<map id="GFTrackCand::getHit" name="GFTrackCand::getHit">
+<area shape="rect" id="node2" href="$df/dd5/classGFTrackCand.html#a1e40b275ba39a5ac81702791e7cc148b" title="GFTrackCand::append" alt="" coords="247,5,416,33"/>
+<area shape="rect" id="node3" href="$d6/d85/classGFRecoHitFactory.html#a7beec7015c13a2248078ced170eb0f3f" title="Creat a collection of RecoHits." alt="" coords="497,57,725,85"/>
+<area shape="rect" id="node9" href="$d4/d84/PndGenfitAdapters_8h.html#a2b50106c9e92368e2a7246a833b60fb0" title="GenfitTrackCand2PndTrackCand" alt="" coords="213,109,449,137"/>
+<area shape="rect" id="node12" href="$d4/d33/classGFTrack.html#a88c09537dc791d75150f39ce2c6df817" title="Get residuals." alt="" coords="246,161,417,189"/>
+<area shape="rect" id="node13" href="$d4/d33/classGFTrack.html#a4156a1cee8569832479b7aea59511818" title="Merge two GFTracks. Only hits will be merged." alt="" coords="255,213,408,241"/>
+<area shape="rect" id="node4" href="$df/d62/classPndRecoDafFit.html#a71b624dff0fc50e252d2d2b9eed898ee" title="PndRecoDafFit::Fit" alt="" coords="822,109,966,137"/>
+<area shape="rect" id="node7" href="$db/d6d/classPndRecoKalmanFit.html#af5a66632d2917c60057bd37109ec7364" title="PndRecoKalmanFit::Fit" alt="" coords="809,57,979,85"/>
+<area shape="rect" id="node5" href="$d7/d87/classPndRecoKalmanTask.html#aa92916b999aeaf87e99fb08734ce368e" title="PndRecoKalmanTask::Exec" alt="" coords="1063,109,1263,137"/>
+<area shape="rect" id="node6" href="$d2/db6/classEicRecoKalmanTask.html#a10103a96af9664a82027040c505bfff1" title="EicRecoKalmanTask::Exec" alt="" coords="1311,109,1505,137"/>
+<area shape="rect" id="node8" href="$d2/d28/classPndRecoMultiKalmanTask.html#a79938b3ab7bca0cc183821c03520553a" title="PndRecoMultiKalmanTask\l::Exec" alt="" coords="1066,41,1259,85"/>
+<area shape="rect" id="node10" href="$d4/d84/PndGenfitAdapters_8h.html#a4fc5873675ef9aa9938d296b9779387d" title="GenfitTrack2PndTrack" alt="" coords="527,109,695,137"/>
+<area shape="rect" id="node11" href="$de/d85/classPndGFTrackToPndTrackConvertorTask.html#a2e5496d4e39aefde3476bedca2d55a57" title="PndGFTrackToPndTrackConvertor\lTask::Exec" alt="" coords="773,161,1015,205"/>
+</map>

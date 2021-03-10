@@ -1,0 +1,12 @@
+<map id="PHG4DetectorSubsystem::GetLayer" name="PHG4DetectorSubsystem::GetLayer">
+<area shape="rect" id="node2" href="$dd/d2a/classBeamLineMagnetSubsystem.html#a2fb02ea4813b6d0fbbcff6ea4f5e4c61" title="init runwise stuff" alt="" coords="270,5,483,49"/>
+<area shape="rect" id="node3" href="$d8/d65/classG4JLeicBeamLineMagnetSubsystem.html#af1a01315ac6f33f76c549b1c499fcd09" title="init runwise stuff" alt="" coords="245,73,508,117"/>
+<area shape="rect" id="node4" href="$dc/d10/classPHG4CrystalCalorimeterSubsystem.html#a06876d88e04f0d4579fad3610144ac85" title="PHG4CrystalCalorimeterSubsystem\l::InitRunSubsystem" alt="" coords="247,141,507,185"/>
+<area shape="rect" id="node5" href="$d8/d6e/classPHG4ConeSubsystem.html#ae1e54cdc2185dc1a123791f5de667148" title="init runwise stuff" alt="" coords="289,209,465,253"/>
+<area shape="rect" id="node6" href="$d5/de1/classPHG4BeamlineMagnetSubsystem.html#a54906b8bb44fe6534c169418891100c3" title="init runwise stuff" alt="" coords="253,277,501,321"/>
+<area shape="rect" id="node7" href="$db/dc5/classPHG4CylinderSubsystem.html#a36e9fe9b69b4314846e245a1c6119cf3" title="init runwise stuff" alt="" coords="282,345,471,389"/>
+<area shape="rect" id="node8" href="$df/d14/classPHG4BlockSubsystem.html#ac0d173351f388609274a5105753746c3" title="InitRunSubsystem." alt="" coords="292,413,461,457"/>
+<area shape="rect" id="node9" href="$dc/df8/classPHG4MicromegasSubsystem.html#a9cf5b66379db8e3bf8261079aaa20b23" title="PHG4MicromegasSubsystem\l::InitRunSubsystem" alt="" coords="269,481,484,525"/>
+<area shape="rect" id="node10" href="$d7/d58/classPHG4mRICHSubsystem.html#a228a3aef199e3b37118c6e199418468d" title="InitRunSubsystem." alt="" coords="287,549,466,593"/>
+<area shape="rect" id="node11" href="$d6/dca/classPHG4SpacalSubsystem.html#a90194add98a02adc7715f79919371211" title="init" alt="" coords="287,617,466,661"/>
+</map>

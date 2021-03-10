@@ -1,0 +1,6 @@
+<map id="breakupMomentum" name="breakupMomentum">
+<area shape="rect" id="node2" href="$d8/df9/classnBodyPhaseSpaceGen.html#a0d5f25800af3f7327d85259a6ca9c363" title="computes event weight and breakup momenta operates on vector of intermediate two&#45;body masses prepared..." alt="" coords="207,73,380,117"/>
+<area shape="rect" id="node3" href="$d8/df9/classnBodyPhaseSpaceGen.html#ad40d545a890692e5b9ff09ae10728203" title="generates full event with certain n&#45;body mass and momentum and returns event weight" alt="" coords="439,5,613,49"/>
+<area shape="rect" id="node4" href="$d8/df9/classnBodyPhaseSpaceGen.html#a093630768258cd3d19d21231ede68f65" title="generates full event with certain n&#45;body mass and momentum only when event is accepted (return value ..." alt="" coords="428,73,624,117"/>
+<area shape="rect" id="node5" href="$d8/df9/classnBodyPhaseSpaceGen.html#a95f62e22e1f35752cdaaa9df0674e220" title="estimates maximum weight for given n&#45;body mass" alt="" coords="439,141,613,185"/>
+</map>

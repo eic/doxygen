@@ -1,0 +1,40 @@
+<map id="genfit::Track::trackHasChanged" name="genfit::Track::trackHasChanged">
+<area shape="rect" id="node2" href="$d6/d8a/classgenfit_1_1Track.html#a409abb47dc8fb5134031f8af1ce9b44a" title="genfit::Track::deleteBackwardInfo" alt="" coords="300,596,548,624"/>
+<area shape="rect" id="node3" href="$d6/d8a/classgenfit_1_1Track.html#a1ea13a2c39bc51c7b583b41d0371dd1a" title="genfit::Track::deletePoint" alt="" coords="627,681,818,709"/>
+<area shape="rect" id="node7" href="$d6/d8a/classgenfit_1_1Track.html#a7e61ada0d84db561ede923db92c4ab01" title="Insert TrackPoint BEFORE TrackPoint with position id, if id &gt;= 0." alt="" coords="629,297,816,325"/>
+<area shape="rect" id="node34" href="$d6/d8a/classgenfit_1_1Track.html#acd5e754e83c67f7dfa2c48613e61dc2a" title="Sort TrackPoint and according to their sorting parameters." alt="" coords="653,624,793,652"/>
+<area shape="rect" id="node36" href="$d6/d8a/classgenfit_1_1Track.html#ac4c53a7fa4854adbf1f83ccb9c44039a" title="genfit::Track::deleteFitterInfo" alt="" coords="316,544,532,572"/>
+<area shape="rect" id="node37" href="$d6/d8a/classgenfit_1_1Track.html#ad6ac9e44842a18fbba2577a887f008c5" title="genfit::Track::deleteForwardInfo" alt="" coords="306,492,542,520"/>
+<area shape="rect" id="node38" href="$d6/d8a/classgenfit_1_1Track.html#abf807ee9dfc59de82f959d877e139496" title="genfit::Track::deleteMeasurementInfo" alt="" coords="287,388,561,416"/>
+<area shape="rect" id="node39" href="$d6/d8a/classgenfit_1_1Track.html#aef6313a66e86853f9eef2e38f519bc37" title="genfit::Track::deleteReferenceInfo" alt="" coords="299,440,549,468"/>
+<area shape="rect" id="node23" href="$d6/d8a/classgenfit_1_1Track.html#a7f6d492fe5163ea636030fde354b63bd" title="Insert TrackPoints BEFORE TrackPoint with position id, if id &gt;= 0." alt="" coords="918,401,1111,429"/>
+<area shape="rect" id="node28" href="$d6/d8a/classgenfit_1_1Track.html#a542f6bc2f82c89f2559adb3551641531" title="Delete unneeded information from the Track." alt="" coords="646,452,799,480"/>
+<area shape="rect" id="node29" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#a28422a9e34569bd4d3db497ed326e202" title="If refitAll_, remove all information." alt="" coords="609,733,836,777"/>
+<area shape="rect" id="node32" href="$d6/d8a/classgenfit_1_1Track.html#a20e8861b9b00d3de75c8794344ef5d1b" title="Flip the ordering of the TrackPoints." alt="" coords="623,504,823,548"/>
+<area shape="rect" id="node4" href="$d1/dc8/classgenfit_1_1GblFitter.html#a224cad1dcba8a38a34650fea7bfad61e" title="Remove all previous gbl fitter data from track Also removes trackpoints without measurement." alt="" coords="947,745,1082,789"/>
+<area shape="rect" id="node5" href="$d7/dd5/classPHGenFit_1_1Track.html#a8dfb1640ab500e1a69f5d920fed7936f" title="PHGenFit::Track::deleteLast\lMeasurement" alt="" coords="911,813,1118,857"/>
+<area shape="rect" id="node6" href="$d5/d1b/classPHGenFit2_1_1Track.html#ab13c3beb79d5e7835a904c738ad6d637" title="PHGenFit2::Track::delete\lLastMeasurement" alt="" coords="921,677,1108,721"/>
+<area shape="rect" id="node8" href="$d7/dd5/classPHGenFit_1_1Track.html#a88666b0914fa412f3c139c6acb07a55b" title="Add measurement." alt="" coords="887,73,1142,101"/>
+<area shape="rect" id="node9" href="$d7/dd5/classPHGenFit_1_1Track.html#a3c6639bba6584ef0fd2581150947b85f" title="PHGenFit::Track::addMeasurements" alt="" coords="884,177,1145,205"/>
+<area shape="rect" id="node12" href="$d1/dc8/classgenfit_1_1GblFitter.html#a5da35921dc77781efca0650aefff823a" title="Propagate seed, populate track with scatterers and GblFitterInfos with reference state set..." alt="" coords="947,229,1082,273"/>
+<area shape="rect" id="node13" href="$d6/d8a/classgenfit_1_1Track.html#a73f9e05be44d2d677b4293f57d5fb004" title="genfit::Track::createMeasurements" alt="" coords="887,297,1143,325"/>
+<area shape="rect" id="node15" href="$d6/d8a/classgenfit_1_1Track.html#a3f78a9f2e938a40d4a51b6ce6d09bb26" title="Creates a new TrackPoint containing the measurement, and adds it to the track." alt="" coords="892,125,1137,153"/>
+<area shape="rect" id="node25" href="$dc/d6c/fun4all__GenFit_2blob_2master_2test_2fitterTests_2main_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="1613,401,1667,429"/>
+<area shape="rect" id="node26" href="$d5/daa/classPHRaveVertexing.html#af3ca2c60b8b69efdf6fdaf781f19948c" title="PHRaveVertexing::Translate\lSvtxToGenFitTrack" alt="" coords="911,5,1119,49"/>
+<area shape="rect" id="node10" href="$d2/d38/minimumTestPHGenFit_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1298,237,1353,265"/>
+<area shape="rect" id="node11" href="$d9/d91/classPHG4TrackFastSim.html#a8bb22ab279c5f433069774bd2ab0a7ae" title="Process Event, called for each event." alt="" coords="1221,169,1429,213"/>
+<area shape="rect" id="node14" href="$d6/d8a/classgenfit_1_1Track.html#a9b8776fee4ae9f578ab16a30ebcb4ac8" title="genfit::Track::Track" alt="" coords="1251,297,1400,325"/>
+<area shape="rect" id="node16" href="$d5/d1b/classPHGenFit2_1_1Track.html#a4069e4976a16537ba2d8016b538a0582" title="Add measurement." alt="" coords="1193,117,1457,145"/>
+<area shape="rect" id="node17" href="$d5/d1b/classPHGenFit2_1_1Track.html#ac47db5f66d8300af4d83e45b12a35888" title="PHGenFit2::Track::addMeasurements" alt="" coords="1505,88,1775,116"/>
+<area shape="rect" id="node22" href="$d6/df6/classPHTpcTrackFollower.html#ae738d5e252b993cecb9fa6578f539d98" title="PHTpcTrackFollower\l::followTrack" alt="" coords="1827,144,1983,188"/>
+<area shape="rect" id="node18" href="$d6/df6/classPHTpcTrackFollower.html#a8f383b9ad95665173bf66f3b7e6bd8e2" title="PHTpcTrackFollower\l::candidate_to_genfit" alt="" coords="1823,76,1987,120"/>
+<area shape="rect" id="node19" href="$d6/df6/classPHTpcTrackFollower.html#ab2bef4a182d944601566b365cfa8ab53" title="PHTpcTrackFollower\l::propagateTrack" alt="" coords="2035,111,2191,155"/>
+<area shape="rect" id="node20" href="$d6/df6/classPHTpcTrackFollower.html#ad398a4c62c8425b444d3a49bcd346dd9" title="PHTpcTrackFollower\l::followTracks" alt="" coords="2239,111,2395,155"/>
+<area shape="rect" id="node21" href="$dd/d22/classPHTpcTracker.html#aa579cb8953a6aa2d57a99dc2c2e91df7" title="PHTpcTracker::Process" alt="" coords="2443,119,2615,147"/>
+<area shape="rect" id="node24" href="$d6/d8a/classgenfit_1_1Track.html#ab13a5076fe0b011dcde604846cd89d9e" title="Merge two tracks." alt="" coords="1229,401,1422,429"/>
+<area shape="rect" id="node27" href="$d5/daa/classPHRaveVertexing.html#afefcb6ce27ac34016e62172d8519fae8" title="Process Event, called for each event." alt="" coords="1226,5,1425,49"/>
+<area shape="rect" id="node30" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#ab28798fe239a0577ef7a9c254c235491" title="Prepare the track." alt="" coords="908,881,1121,925"/>
+<area shape="rect" id="node31" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#ad3a24181b5370cc95f01f49ea148c011" title="genfit::KalmanFitterRefTrack\l::processTrackWithRep" alt="" coords="1219,715,1432,759"/>
+<area shape="rect" id="node33" href="$d6/d8a/classgenfit_1_1Track.html#af7557944de667f7bb312c3f960d09096" title="Make track ready to be fitted in reverse direction." alt="" coords="915,505,1115,533"/>
+<area shape="rect" id="node35" href="$d1/dc8/classgenfit_1_1GblFitter.html#a3f041e8b52448d6e55992a6c0e3136d7" title="Sort hits in track by arc&#45;len using extrapolation." alt="" coords="947,609,1082,653"/>
+</map>

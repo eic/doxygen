@@ -1,0 +1,46 @@
+<map id="fun4all_acts/blob/master/Examples/Framework/include/ACTFW/Framework/IService.hpp" name="fun4all_acts/blob/master/Examples/Framework/include/ACTFW/Framework/IService.hpp">
+<area shape="rect" id="node2" href="$d7/df2/BareService_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Framework/include\l/ACTFW/Framework/BareService.hpp" alt="" coords="858,121,1127,181"/>
+<area shape="rect" id="node16" href="$d7/d32/Sequencer_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Framework/include\l/ACTFW/Framework/Sequencer.hpp" alt="" coords="3935,121,4195,181"/>
+<area shape="rect" id="node38" href="$d9/d7a/RootBFieldWriter_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Io/Root/include\l/ACTFW/Io/Root/RootBFieldWriter.hpp" alt="" coords="5261,121,5533,181"/>
+<area shape="rect" id="node40" href="$d4/d9d/RootMaterialTrackReader_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Io/Root/include\l/ACTFW/Io/Root/RootMaterialTrack\lReader.hpp" alt="" coords="5853,113,6105,189"/>
+<area shape="rect" id="node42" href="$d8/daa/RootMaterialTrackWriter_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Io/Root/include\l/ACTFW/Io/Root/RootMaterialTrack\lWriter.hpp" alt="" coords="6297,237,6549,313"/>
+<area shape="rect" id="node44" href="$d7/d97/RootVertexAndTracksReader_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Io/Root/include\l/ACTFW/Io/Root/RootVertexAndTracks\lReader.hpp" alt="" coords="5556,113,5829,189"/>
+<area shape="rect" id="node3" href="$d4/d7f/DD4hepGeometryService_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/DD4hepDetector\l/include/ACTFW/DD4hepDetector\l/DD4hepGeometryService.hpp" alt="" coords="693,237,975,313"/>
+<area shape="rect" id="node12" href="$dd/daf/BareService_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Framework/src\l/Framework/BareService.cpp" alt="" coords="453,245,669,305"/>
+<area shape="rect" id="node13" href="$d8/de2/HelloService_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Run/HelloWorld\l/HelloService.hpp" alt="" coords="1051,245,1252,305"/>
+<area shape="rect" id="node4" href="$d8/dc2/DD4hepToG4Svc_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Algorithms/DD4hepG4\l/include/ACTFW/Plugins/DD4hepG4\l/DD4hepToG4Svc.hpp" alt="" coords="52,361,312,437"/>
+<area shape="rect" id="node8" href="$d9/da3/GeantinoRecordingExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/MaterialMapping\l/GeantinoRecording/GeantinoRecording\lExample.cpp" alt="" coords="868,609,1157,685"/>
+<area shape="rect" id="node9" href="$d1/df1/DD4hepDetectorOptions_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/DD4hepDetector\l/include/ACTFW/DD4hepDetector\l/DD4hepDetectorOptions.hpp" alt="" coords="693,361,975,437"/>
+<area shape="rect" id="node10" href="$d3/db2/DD4hepDetector_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/DD4hepDetector\l/src/DD4hepDetector.cpp" alt="" coords="643,493,924,553"/>
+<area shape="rect" id="node11" href="$de/d21/DD4hepGeometryService_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/DD4hepDetector\l/src/DD4hepGeometryService.cpp" alt="" coords="336,369,617,429"/>
+<area shape="rect" id="node5" href="$d8/db9/DD4hepToG4Svc_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Algorithms/DD4hepG4\l/src/DD4hepToG4Svc.cpp" alt="" coords="5,493,255,553"/>
+<area shape="rect" id="node6" href="$d6/dbb/GeantinoRecording_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Algorithms/MaterialMapping\l/include/ACTFW/MaterialMapping\l/GeantinoRecording.hpp" alt="" coords="279,485,567,561"/>
+<area shape="rect" id="node7" href="$db/d15/GeantinoRecording_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Algorithms/MaterialMapping\l/src/GeantinoRecording.cpp" alt="" coords="279,617,567,677"/>
+<area shape="rect" id="node14" href="$df/d54/HelloService_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/HelloWorld\l/HelloService.cpp" alt="" coords="1051,369,1252,429"/>
+<area shape="rect" id="node15" href="$d4/dc7/HelloWorld_8cpp.html" title="An example tools that shows the sequencer functionality." alt="" coords="1328,369,1529,429"/>
+<area shape="rect" id="node17" href="$d3/d2f/Sequencer_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Framework/src\l/Framework/Sequencer.cpp" alt="" coords="4330,245,4535,305"/>
+<area shape="rect" id="node18" href="$d7/d2b/CommonOptions_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Common/include\l/ACTFW/Options/CommonOptions.hpp" alt="" coords="3696,245,3975,305"/>
+<area shape="rect" id="node21" href="$de/d20/MaterialMappingBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Common/src\l/MaterialMappingBase.cpp" alt="" coords="6175,369,6387,429"/>
+<area shape="rect" id="node22" href="$dc/da7/MaterialValidationBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Common/src\l/MaterialValidationBase.cpp" alt="" coords="5939,369,6151,429"/>
+<area shape="rect" id="node23" href="$d3/d32/PropagationExampleBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Common/src\l/PropagationExampleBase.cpp" alt="" coords="4382,369,4611,429"/>
+<area shape="rect" id="node24" href="$de/d42/ParticleGun_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/EventGenerator\l/ParticleGun.cpp" alt="" coords="4636,369,4872,429"/>
+<area shape="rect" id="node25" href="$d9/d60/Pythia8_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/EventGenerator\l/Pythia8/Pythia8.cpp" alt="" coords="4896,369,5132,429"/>
+<area shape="rect" id="node26" href="$d4/d5f/FatrasDigitizationBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Fatras/Common\l/FatrasDigitizationBase.cpp" alt="" coords="5156,369,5389,429"/>
+<area shape="rect" id="node27" href="$d3/d77/FatrasEvgenBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Fatras/Common\l/FatrasEvgenBase.cpp" alt="" coords="1553,369,1787,429"/>
+<area shape="rect" id="node28" href="$d1/d71/FatrasMain_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Fatras/Common\l/FatrasMain.cpp" alt="" coords="1811,369,2044,429"/>
+<area shape="rect" id="node29" href="$d8/d55/FatrasSimulationBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Fatras/Common\l/FatrasSimulationBase.cpp" alt="" coords="2068,369,2301,429"/>
+<area shape="rect" id="node30" href="$d2/d9c/BFieldAccessExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/MagneticField\l/BFieldAccessExample.cpp" alt="" coords="2325,369,2545,429"/>
+<area shape="rect" id="node31" href="$dc/d47/BFieldExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/MagneticField\l/BFieldExample.cpp" alt="" coords="5413,369,5633,429"/>
+<area shape="rect" id="node32" href="$da/dc9/GenericReadCsvExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/ReadCsv/GenericRead\lCsvExample.cpp" alt="" coords="2569,369,2845,429"/>
+<area shape="rect" id="node33" href="$de/dcb/RecTruthTracks_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Reconstruction\l/RecTruthTracks.cpp" alt="" coords="2869,369,3097,429"/>
+<area shape="rect" id="node34" href="$da/de2/VertexAndTracksReaderAndFinderExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Vertexing\l/VertexAndTracksReaderAndFinder\lExample.cpp" alt="" coords="5658,361,5914,437"/>
+<area shape="rect" id="node35" href="$dc/d7e/VertexAndTracksWriterExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Vertexing\l/VertexAndTracksWriterExample.cpp" alt="" coords="3121,369,3389,429"/>
+<area shape="rect" id="node36" href="$d2/d79/VertexFinderExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Vertexing\l/VertexFinderExample.cpp" alt="" coords="3939,369,4139,429"/>
+<area shape="rect" id="node37" href="$d3/d0a/VertexFitterExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Vertexing\l/VertexFitterExample.cpp" alt="" coords="4164,369,4357,429"/>
+<area shape="rect" id="node19" href="$d4/dc0/CommonOptions_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Common/src\l/CommonOptions.cpp" alt="" coords="3704,369,3916,429"/>
+<area shape="rect" id="node20" href="$d0/d8e/GeometryExampleBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Common/src\l/GeometryExampleBase.cpp" alt="" coords="3465,369,3680,429"/>
+<area shape="rect" id="node39" href="$d6/d05/BFieldWritingBase_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Run/MagneticField\l/BFieldWritingBase.hpp" alt="" coords="5288,245,5508,305"/>
+<area shape="rect" id="node41" href="$db/dd2/RootMaterialTrackReader_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Io/Root/src/RootMaterial\lTrackReader.cpp" alt="" coords="6016,245,6273,305"/>
+<area shape="rect" id="node43" href="$da/d64/RootMaterialTrackWriter_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Io/Root/src/RootMaterial\lTrackWriter.cpp" alt="" coords="6461,369,6719,429"/>
+<area shape="rect" id="node45" href="$d0/df7/RootVertexAndTracksReader_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Io/Root/src/RootVertex\lAndTracksReader.cpp" alt="" coords="5695,245,5941,305"/>
+</map>

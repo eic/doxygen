@@ -1,0 +1,7 @@
+<map id="FairVolume::getGeoNode" name="FairVolume::getGeoNode">
+<area shape="rect" id="node2" href="$d4/d06/classFairModule.html#a9514d3691ecbbd37e8b0495100006c59" title="FairModule::getFairVolume" alt="" coords="243,5,443,33"/>
+<area shape="rect" id="node3" href="$d8/def/classFairMCApplication.html#ae6ed46ec48c80c4db0483b98052e6a1a" title="FairMCApplication::\lInitGeometry" alt="" coords="497,47,648,91"/>
+<area shape="rect" id="node4" href="$d6/d0c/classFairDetector.html#a859532cf1d8fcbe2db31826e25372c2c" title="FairDetector::Initialize" alt="" coords="258,111,427,139"/>
+<area shape="rect" id="node5" href="$d8/dd9/classCbmRich.html#acfdf36680457256fe9962edffa205582" title="Initialize detector. Stores volume IDs for RICH detector and mirror." alt="" coords="499,115,646,143"/>
+<area shape="rect" id="node6" href="$dd/dac/classEicDetector.html#a1fb3d652a749f66905313541b90d16d0" title="EicDetector::Initialize" alt="" coords="491,167,655,195"/>
+</map>

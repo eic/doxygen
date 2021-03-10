@@ -1,0 +1,25 @@
+<map id="EicEventAssembler::AssignScatteredLepton" name="EicEventAssembler::AssignScatteredLepton">
+<area shape="rect" id="node2" href="$d9/d66/classEicRcEvent.html#a4c0f395678fa89f1f7714138754da56c" title="EicRcEvent::BeamLepton" alt="" coords="231,181,421,209"/>
+<area shape="rect" id="node11" href="$dd/dcc/classEicRcParticle.html#a656de8fea1924b25758cf133fbec046c" title="EicRcParticle::GetE" alt="" coords="251,349,401,377"/>
+<area shape="rect" id="node15" href="$db/d68/classerhic_1_1Pid.html#a4a4dd9cd3ee2edb5efa945bd9499839b" title="erhic::Pid::Info" alt="" coords="787,401,905,429"/>
+<area shape="rect" id="node17" href="$dd/dcc/classEicRcParticle.html#a40e9a164d8233b8c1a2f89d74c8ac302" title="EicRcParticle::GetMcPdgCode" alt="" coords="469,245,688,273"/>
+<area shape="rect" id="node22" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a33b38996faa1c81295941c5205383db2" title="erhic::ParticleMCbase\l::GetPdgCode" alt="" coords="243,453,409,497"/>
+<area shape="rect" id="node24" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="297,521,355,549"/>
+<area shape="rect" id="node3" href="$d9/d66/classEicRcEvent.html#a1e6ae9b19f89f6119a67ffbf9acf9907" title="EicRcEvent::GetGenMcEvent" alt="" coords="471,181,687,209"/>
+<area shape="rect" id="node9" href="$d6/dfb/classerhic_1_1EventMC.html#a9819eb5e58b2a4c38a3d04054e48272b" title="erhic::EventMC::BeamLepton" alt="" coords="470,96,687,124"/>
+<area shape="rect" id="node4" href="$de/de2/classEicRootManager.html#a6b41c4d5fe81d4f2d5d6a038e0cc77d2" title="EicRootManager::Instance" alt="" coords="1025,193,1221,221"/>
+<area shape="rect" id="node5" href="$de/de2/classEicRootManager.html#a634e3cd438ca330c8d1836ff6bbcc651" title="EicRootManager::GetGenMc\lEvent" alt="" coords="741,125,951,169"/>
+<area shape="rect" id="node6" href="$de/de2/classEicRootManager.html#afb6c323e38be0d8b4918268d300a23f4" title="EicRootManager::GetGenerator\lEventPtr" alt="" coords="1007,57,1240,101"/>
+<area shape="rect" id="node7" href="$de/de2/classEicRootManager.html#a44f91c2cf1dde2979013d012aada841b" title="EicRootManager::Synchronize\lBranch" alt="" coords="1013,125,1234,169"/>
+<area shape="rect" id="node8" href="$de/de2/classEicRootManager.html#a134d9299cf238baa39645fd282f65adf" title="EicRootManager::GetGenBranch" alt="" coords="1004,5,1243,33"/>
+<area shape="rect" id="node10" href="$d6/dfb/classerhic_1_1EventMC.html#a45bb79e814c5c5b62a9ba6a3e8929bd1" title="erhic::EventMC::GetTrack" alt="" coords="750,73,942,101"/>
+<area shape="rect" id="node12" href="$dd/dcc/classEicRcParticle.html#a2c47f35ead44d82a83b0dad49234533c" title="EicRcParticle::GetP" alt="" coords="504,349,653,377"/>
+<area shape="rect" id="node13" href="$dd/dcc/classEicRcParticle.html#aaafd2faa33b60e893eaf4de79d2357c6" title="EicRcParticle::GetM" alt="" coords="503,297,655,325"/>
+<area shape="rect" id="node14" href="$dd/dcc/classEicRcParticle.html#af1e4f28296b5bb2024527394d357375c" title="EicRcParticle::Id" alt="" coords="782,349,910,377"/>
+<area shape="rect" id="node16" href="$db/d68/classerhic_1_1Pid.html#afa77845c721598487da9617966253439" title="erhic::Pid::Code" alt="" coords="1060,401,1187,429"/>
+<area shape="rect" id="node18" href="$dd/dcc/classEicRcParticle.html#a39d04245e9f26a0a7a37fbcd1e8ff3df" title="EicRcParticle::GetPndMcTrack" alt="" coords="736,245,956,273"/>
+<area shape="rect" id="node21" href="$df/d16/classPndMCTrack.html#ae7020957cb139f60e8b25753509947c5" title="PndMCTrack::GetPdgCode" alt="" coords="749,297,943,325"/>
+<area shape="rect" id="node19" href="$de/de2/classEicRootManager.html#a4a0a60710dcc8ea086b037007e91ee01" title="EicRootManager::GetPndMc\lTracks" alt="" coords="1020,313,1227,357"/>
+<area shape="rect" id="node20" href="$de/de2/classEicRootManager.html#a67af0fffdc2ab48be1829c727b2913d0" title="EicRootManager::GetPndMc\lBranch" alt="" coords="1020,245,1227,289"/>
+<area shape="rect" id="node23" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a0c85145c4eda948f67bc96fa78b4e69e" title="erhic::ParticleMCbase::Id" alt="" coords="485,461,672,489"/>
+</map>

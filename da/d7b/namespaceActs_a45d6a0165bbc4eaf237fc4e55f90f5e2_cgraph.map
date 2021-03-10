@@ -1,0 +1,9 @@
+<map id="Acts::addLayerProtoMaterial" name="Acts::addLayerProtoMaterial">
+<area shape="rect" id="node2" href="$da/d28/classActs_1_1Layer.html#a60dfe967e40e13f1fda38471c2a244a3" title="Return method for the approach descriptor, can be nullptr." alt="" coords="275,5,515,33"/>
+<area shape="rect" id="node3" href="$de/d7d/classActs_1_1Surface.html#a2c407033dabd78d61e285d36c5364709" title="Acts::Surface::assignSurface\lMaterial" alt="" coords="287,57,503,101"/>
+<area shape="rect" id="node4" href="$d5/db4/classActs_1_1ApproachDescriptor.html#ace7cc582d550b3d94d2c5eba54436bdb" title="Acts::ApproachDescriptor\l::containedSurfaces" alt="" coords="297,125,492,169"/>
+<area shape="rect" id="node5" href="$da/d7b/namespaceActs.html#a693543dd8a2af53cd5922f050fdf4087" title="Acts::createProtoMaterial" alt="" coords="299,193,491,221"/>
+<area shape="rect" id="node7" href="$d8/d8a/classActs_1_1ActsExtension.html#a5b0e63d41420f9f891c9bd7a4d123e65" title="Acts::ActsExtension\l::hasValue" alt="" coords="317,245,472,289"/>
+<area shape="rect" id="node8" href="$da/d28/classActs_1_1Layer.html#a43b7c36c2aac940f5bd8fd89d4a2fa89" title="Acts::Layer::surfaceRepresentation" alt="" coords="265,313,524,341"/>
+<area shape="rect" id="node6" href="$d8/d8a/classActs_1_1ActsExtension.html#a12f18877ba2af75635b326a2f4a96177" title="Acts::ActsExtension\l::getValue" alt="" coords="572,185,727,229"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="FairGeoInterface::createGeometry" name="FairGeoInterface::createGeometry">
+<area shape="rect" id="node2" href="$dc/dc3/classFairGeoInterface.html#a1350680adf337d4fbc7b537f04133099" title="FairGeoInterface::addInputFile" alt="" coords="242,213,467,241"/>
+<area shape="rect" id="node3" href="$d0/d7b/classFairGeoSet.html#a368c6a14b11c2c06c2a9310f8c85382c" title="FairGeoSet::create" alt="" coords="281,265,428,293"/>
+<area shape="rect" id="node13" href="$de/d6a/classFairGeoBuilder.html#ab207d5c84404f1a33857c947696e702a" title="FairGeoBuilder::finalize" alt="" coords="266,399,443,427"/>
+<area shape="rect" id="node14" href="$d3/d1b/classFairGeoIo.html#a6fdc818ca6c907ba386508d800269acf" title="FairGeoIo::readGeomConfig" alt="" coords="251,451,459,479"/>
+<area shape="rect" id="node15" href="$dc/dc3/classFairGeoInterface.html#a8f007a06d077ea51d66e5c269f64fa01" title="FairGeoInterface::readMedia" alt="" coords="249,555,461,583"/>
+<area shape="rect" id="node21" href="$dc/dc3/classFairGeoInterface.html#a542c17b45b8b9f259fb03e73484435b5" title="FairGeoInterface::readSet" alt="" coords="257,503,452,531"/>
+<area shape="rect" id="node23" href="$dc/dc3/classFairGeoInterface.html#a77f62e2d43c222d07971400e73a38831" title="FairGeoInterface::readSetupFile" alt="" coords="237,607,472,635"/>
+<area shape="rect" id="node4" href="$de/d30/classFairGeoNode.html#a16e3702b362dee5459492f0bdc94c59f" title="FairGeoNode::isActive" alt="" coords="553,317,723,345"/>
+<area shape="rect" id="node5" href="$de/d6a/classFairGeoBuilder.html#afcada4db246f87a07f2354ac4943f8dc" title="FairGeoBuilder::createNode" alt="" coords="535,369,741,397"/>
+<area shape="rect" id="node6" href="$de/d30/classFairGeoNode.html#a70c85d99793e3db7c83d801e3a946fe8" title="FairGeoNode::isTopNode" alt="" coords="545,421,731,449"/>
+<area shape="rect" id="node7" href="$de/d30/classFairGeoNode.html#a481af3c27a5d7c7fcaed74685bdc7b7c" title="FairGeoNode::isRefNode" alt="" coords="546,5,730,33"/>
+<area shape="rect" id="node8" href="$d0/d7b/classFairGeoSet.html#a112055dd5add80b83132307f26207fbd" title="FairGeoSet::getMasterNode" alt="" coords="535,57,741,85"/>
+<area shape="rect" id="node9" href="$de/d30/classFairGeoNode.html#abbeb3f27b665e3897acd91088cdda439" title="FairGeoNode::setCenterPosition" alt="" coords="521,109,755,137"/>
+<area shape="rect" id="node10" href="$de/d30/classFairGeoNode.html#a17f53a80b27fdd0fa617a838af58918b" title="FairGeoNode::getCenterPosition" alt="" coords="520,161,756,189"/>
+<area shape="rect" id="node11" href="$de/d30/classFairGeoNode.html#a8ff575d33b3fa8882ab084bfd9f00883" title="FairGeoNode::setRootVolume" alt="" coords="529,213,747,241"/>
+<area shape="rect" id="node12" href="$de/d30/classFairGeoNode.html#a569edba6d9504e5e6623369065a9bdfc" title="FairGeoNode::getRootVolume" alt="" coords="528,265,748,293"/>
+<area shape="rect" id="node16" href="$dc/dc3/classFairGeoInterface.html#ae304d454b06f34df84355280a3ff6954" title="FairGeoInterface::connect\lInput" alt="" coords="540,577,736,621"/>
+<area shape="rect" id="node19" href="$d9/d1e/classFairGeoMedia.html#a74be61a43220be1c2d74ad908e07a00e" title="FairGeoMedia::getInputFile" alt="" coords="537,645,739,673"/>
+<area shape="rect" id="node20" href="$d3/d1b/classFairGeoIo.html#a7ae08a2ed9e1ccdb1eec0c241b387ca3" title="FairGeoIo::read" alt="" coords="576,525,700,553"/>
+<area shape="rect" id="node17" href="$d3/d1b/classFairGeoIo.html#a79f4edf95e1e6b6454d1b74cd8670e12" title="FairGeoIo::isOpen" alt="" coords="839,593,979,621"/>
+<area shape="rect" id="node18" href="$d3/d1b/classFairGeoIo.html#acedad2f2ae27e2bcc7a2dcb24a4e136e" title="FairGeoIo::open" alt="" coords="846,541,973,569"/>
+<area shape="rect" id="node22" href="$d0/d7b/classFairGeoSet.html#a5cd70894f27de89898ddda3df159c9e7" title="FairGeoSet::getGeomFile" alt="" coords="544,473,732,501"/>
+<area shape="rect" id="node24" href="$d4/d79/classFairGeoAsciiIo.html#af89e0a86478b13ce7bc8fda88bb98ae5" title="FairGeoAsciiIo::readDetector\lSetup" alt="" coords="531,697,745,741"/>
+<area shape="rect" id="node25" href="$dc/dc3/classFairGeoInterface.html#a0e04bbbfb4c1b8a27e2bb5e3c5a89159" title="FairGeoInterface::findSet" alt="" coords="814,653,1005,681"/>
+<area shape="rect" id="node26" href="$d0/d7b/classFairGeoSet.html#a4c21e8cdde73d406c4c139a83be46171" title="FairGeoSet::getMaxModules" alt="" coords="804,705,1015,733"/>
+<area shape="rect" id="node27" href="$d4/d79/classFairGeoAsciiIo.html#a992d80107480b266e8f4166016d6d959" title="FairGeoAsciiIo::isOpen" alt="" coords="823,757,995,785"/>
+</map>

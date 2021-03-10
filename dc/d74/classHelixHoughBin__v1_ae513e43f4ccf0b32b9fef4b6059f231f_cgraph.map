@@ -1,0 +1,14 @@
+<map id="HelixHoughBin_v1::set_bins" name="HelixHoughBin_v1::set_bins">
+<area shape="rect" id="node2" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="327,5,374,33"/>
+<area shape="rect" id="node3" href="$d3/d0a/classHelixHoughSpace.html#aa63070d7c23e23c04f082ae73dac7d1b" title="HelixHoughSpace::get\l_n_d_bins" alt="" coords="487,24,660,68"/>
+<area shape="rect" id="node4" href="$d3/d0a/classHelixHoughSpace.html#a23043bffadab63037d568c7dde828f23" title="HelixHoughSpace::get\l_n_dzdl_bins" alt="" coords="487,92,660,136"/>
+<area shape="rect" id="node5" href="$d3/d0a/classHelixHoughSpace.html#a1582eab9546806cf97cd2598554bfa20" title="HelixHoughSpace::get\l_n_kappa_bins" alt="" coords="487,228,660,272"/>
+<area shape="rect" id="node6" href="$d3/d0a/classHelixHoughSpace.html#ac44a69f6dad12f3f04d436585e70a447" title="HelixHoughSpace::get\l_n_phi_bins" alt="" coords="487,296,660,340"/>
+<area shape="rect" id="node7" href="$dc/d74/classHelixHoughBin__v1.html#a73d43e20f28026cec7f59bcfe141060d" title="HelixHoughBin_v1::set\l_d_bin" alt="" coords="263,331,439,375"/>
+<area shape="rect" id="node8" href="$dc/d74/classHelixHoughBin__v1.html#a4ac30b109e1bc37db7a8461598c1404b" title="HelixHoughBin_v1::set\l_dzdl_bin" alt="" coords="263,399,439,443"/>
+<area shape="rect" id="node9" href="$dc/d74/classHelixHoughBin__v1.html#a7864408ac17a48d87cad8144aa12f922" title="HelixHoughBin_v1::set\l_global_bin" alt="" coords="263,160,439,204"/>
+<area shape="rect" id="node11" href="$dc/d74/classHelixHoughBin__v1.html#afa1c670a62d412cc10dba08c104d1423" title="HelixHoughBin_v1::set\l_kappa_bin" alt="" coords="263,467,439,511"/>
+<area shape="rect" id="node12" href="$dc/d74/classHelixHoughBin__v1.html#a0d34f7fc9e31e3142efa5b80000c5b54" title="HelixHoughBin_v1::set\l_phi_bin" alt="" coords="263,535,439,579"/>
+<area shape="rect" id="node13" href="$dc/d74/classHelixHoughBin__v1.html#a21246b7fa8995c9e9da328d65a363498" title="HelixHoughBin_v1::set\l_z0_bin" alt="" coords="263,603,439,647"/>
+<area shape="rect" id="node10" href="$d3/d0a/classHelixHoughSpace.html#a165f877513788cf7f2346f2d4459bdff" title="HelixHoughSpace::get\l_n_z0_bins" alt="" coords="487,160,660,204"/>
+</map>

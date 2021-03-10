@@ -1,0 +1,27 @@
+<map id="PHG4MicromegasHitReco::process_event" name="PHG4MicromegasHitReco::process_event">
+<area shape="rect" id="node2" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="1024,464,1135,492"/>
+<area shape="rect" id="node4" href="$da/d9b/classTrkrHit.html#a909983335d59e47756e33de3122cc147" title="TrkrHit::addEnergy" alt="" coords="288,125,437,153"/>
+<area shape="rect" id="node5" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="854,268,898,296"/>
+<area shape="rect" id="node6" href="$d6/d5c/classPHG4MicromegasHitReco.html#aed671ee8eca875fc2efa498d12283fc8" title="distribute a Gaussian charge across adjacent strips" alt="" coords="267,380,459,424"/>
+<area shape="rect" id="node9" href="$d1/d22/EllipseBounds_8cpp.html#ab14acda17eb07a638824bb5e3873c586" title="square" alt="" coords="1046,553,1113,581"/>
+<area shape="rect" id="node15" href="$d6/d5c/classPHG4MicromegasHitReco.html#a29cd966d37fd9136474a4acaec034a06" title="return full geo node name, that also contains tile information" alt="" coords="267,576,459,620"/>
+<area shape="rect" id="node16" href="$d2/ddf/namespaceMicromegasDefs.html#abb46b041cd5b77579e63b102c6d42b15" title="Generate a hitkey from strip index inside tile." alt="" coords="257,644,469,672"/>
+<area shape="rect" id="node17" href="$d2/ddf/namespaceMicromegasDefs.html#a2909143d348383083b9c12cb810a8c04" title="Generate a hitsetkey for the micromegas." alt="" coords="245,696,480,724"/>
+<area shape="rect" id="node19" href="$d6/d5c/classPHG4MicromegasHitReco.html#a2528d4b276efb1e0eff4980ec6c4356b" title="get total number of electrons collected for a give g4hit" alt="" coords="267,748,459,792"/>
+<area shape="rect" id="node21" href="$d6/d5c/classPHG4MicromegasHitReco.html#a223a570117ec0843bb6b4e9497f2f562" title="get single electron amplification" alt="" coords="267,816,459,876"/>
+<area shape="rect" id="node22" href="$d3/d9e/classPHG4Hit.html#ab4444b6e2a6b022535d9d6204c0b70d5" title="PHG4Hit::get_t" alt="" coords="302,900,423,928"/>
+<area shape="rect" id="node23" href="$d3/d9e/classPHG4Hit.html#a69cc7aee827e3da7cf86e87418f9211b" title="PHG4Hit::get_x" alt="" coords="301,952,425,980"/>
+<area shape="rect" id="node24" href="$d3/d9e/classPHG4Hit.html#a17de3a9c9dc84ce4a50fc89082689d55" title="PHG4Hit::get_y" alt="" coords="301,1004,425,1032"/>
+<area shape="rect" id="node25" href="$d3/d9e/classPHG4Hit.html#a06fcf6b2cbcc8413ca3d6a172458e94e" title="PHG4Hit::get_z" alt="" coords="301,1056,424,1084"/>
+<area shape="rect" id="node26" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="275,1108,451,1136"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1183,464,1359,492"/>
+<area shape="rect" id="node7" href="$d3/d5f/classCylinderGeomMicromegas.html#a75154fdbb43c8c3c91d493dfd47a2621" title="get tile and strip for a give world location" alt="" coords="528,516,728,560"/>
+<area shape="rect" id="node10" href="$d3/d5f/classCylinderGeomMicromegas.html#a6b84738c087274e1a140623d983ba8fc" title="CylinderGeomMicromegas\l::get_pitch" alt="" coords="528,176,728,220"/>
+<area shape="rect" id="node11" href="$d3/d5f/classCylinderGeomMicromegas.html#a70e6ca1363feade3955c8718c83d4a68" title="CylinderGeomMicromegas\l::get_radius" alt="" coords="528,244,728,288"/>
+<area shape="rect" id="node12" href="$d3/d5f/classCylinderGeomMicromegas.html#a7f4b63d4944c69d93146b1b1041faa84" title="segmentation type" alt="" coords="528,312,728,356"/>
+<area shape="rect" id="node13" href="$d3/d5f/classCylinderGeomMicromegas.html#a7ff6df45e3a5ead1431d107d8dbf9d3e" title="get number of strips" alt="" coords="528,380,728,424"/>
+<area shape="rect" id="node14" href="$d3/d5f/classCylinderGeomMicromegas.html#a5eb0716b73b66ece6d98f48febb84d2a" title="get world location for a given tile and strip" alt="" coords="528,448,728,492"/>
+<area shape="rect" id="node8" href="$d3/d5f/classCylinderGeomMicromegas.html#ac736e8b2dff358973cd210ba37f9932d" title="CylinderGeomMicromegas\l::check_radius" alt="" coords="776,516,976,560"/>
+<area shape="rect" id="node18" href="$d6/d3f/namespaceTrkrDefs.html#a418e306477093b8d17d587be70b908a3" title="generate the common upper 16 bits for hitsetkey" alt="" coords="539,696,717,724"/>
+<area shape="rect" id="node20" href="$d3/d9e/classPHG4Hit.html#ab8db2cb7bc978a58777600b2bd7a22ac" title="PHG4Hit::get_eion" alt="" coords="556,756,700,784"/>
+</map>

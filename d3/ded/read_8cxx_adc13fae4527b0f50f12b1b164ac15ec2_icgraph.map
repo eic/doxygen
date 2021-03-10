@@ -1,0 +1,33 @@
+<map id="read" name="read">
+<area shape="rect" id="node2" href="$d6/dd3/classFairRunIdGenerator.html#a8f627dd39314a094c551520e03879587" title="FairRunIdGenerator\l::get_random_bytes" alt="" coords="138,85,294,129"/>
+<area shape="rect" id="node23" href="$d6/d02/prdf2prdf_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="189,153,243,181"/>
+<area shape="rect" id="node24" href="$da/dae/classdfe_1_1io__dsv__impl_1_1NamedTupleDsvReader.html#a518bc562ce63752cbae6867d8dcc174c" title="dfe::io_dsv_impl::NamedTuple\lDsvReader::read" alt="" coords="104,205,328,249"/>
+<area shape="rect" id="node25" href="$da/d35/classoncsEventiterator.html#a1b6f10b1829c89ede385cd660c1eb9fb" title="oncsEventiterator::\lread_next_buffer" alt="" coords="141,273,291,317"/>
+<area shape="rect" id="node27" href="$d8/dc3/classfileEventiterator.html#aec0bb7ea4c827747ace5f592fd48b365" title="fileEventiterator::\lread_next_buffer" alt="" coords="147,341,285,385"/>
+<area shape="rect" id="node29" href="$de/ddb/classoamlBuffer.html#ad809b8855012ce8fd2022beaa2258915" title="oamlBuffer::readn" alt="" coords="144,435,288,463"/>
+<area shape="rect" id="node3" href="$d6/dd3/classFairRunIdGenerator.html#ae1fcb6057b321c08c6dd388c42240134" title="FairRunIdGenerator\l::get_clock" alt="" coords="385,25,539,69"/>
+<area shape="rect" id="node4" href="$d6/dd3/classFairRunIdGenerator.html#a2e2cfb92ce82e81fae1ece7cf9f02d24" title="FairRunIdGenerator\l::uuid_generate_time" alt="" coords="607,68,772,112"/>
+<area shape="rect" id="node22" href="$d6/dd3/classFairRunIdGenerator.html#abe570c36746acf15e67e225cb077dce8" title="FairRunIdGenerator\l::uuid_generate_random" alt="" coords="596,136,783,180"/>
+<area shape="rect" id="node5" href="$d6/dd3/classFairRunIdGenerator.html#a168d8168fddff0d94da7573767bd5595" title="FairRunIdGenerator\l::uuid_generate" alt="" coords="850,103,1003,147"/>
+<area shape="rect" id="node6" href="$d6/dd3/classFairRunIdGenerator.html#a79b48284ee5437a5c56e37896d0b6f1e" title="FairRunIdGenerator\l::generateId" alt="" coords="1071,103,1224,147"/>
+<area shape="rect" id="node7" href="$de/da9/classFairRunAna.html#a52f4d86d087d13855edc6bd567373144" title="FairRunAna::Init" alt="" coords="1272,84,1401,112"/>
+<area shape="rect" id="node17" href="$dd/dbc/classFairRunSim.html#ad054abd046776cbc896d264a4e62376f" title="FairRunSim::Init" alt="" coords="1273,136,1401,164"/>
+<area shape="rect" id="node8" href="$dc/db9/classEicEventManager.html#a9d62fa56c5683f8af8fd9cefc54028a0" title="EicEventManager::Init" alt="" coords="1683,5,1854,33"/>
+<area shape="rect" id="node11" href="$d4/dc9/classEicRunAna.html#a40d043c91b72d8f50eb850be50fd06c1" title="EicRunAna::Init" alt="" coords="1475,57,1599,85"/>
+<area shape="rect" id="node16" href="$d9/da4/classFairEventManager.html#a781b12eb73b7c8175373776c6d5ac34e" title="FairEventManager::Init" alt="" coords="1449,109,1624,137"/>
+<area shape="rect" id="node9" href="$dc/db9/classEicEventManager.html#a395b5cf24061c5057ec29682319debf1" title="EicEventManager::Run" alt="" coords="1913,5,2087,33"/>
+<area shape="rect" id="node10" href="$d4/dc8/examples_2physics_2config_82_2eventDisplay_8C.html#a0dea102c5707fa0bc64fcf379ce890a5" title="eventDisplay" alt="" coords="2139,5,2249,33"/>
+<area shape="rect" id="node12" href="$d4/dc9/classEicRunAna.html#ae75870f13b97d83ea5f7f7218e94d6b5" title="EicRunAna::RunCoreStart" alt="" coords="1672,57,1865,85"/>
+<area shape="rect" id="node13" href="$d4/dc9/classEicRunAna.html#a1e307dd82a86ffe6a742148b388a0bab" title="EicRunAna::Run" alt="" coords="1936,57,2064,85"/>
+<area shape="rect" id="node14" href="$d8/d11/examples_2physics_2config_82_2digitization_8C.html#afd97e93afdacaf415631892fe39fdf2c" title="digitization" alt="" coords="2146,57,2242,85"/>
+<area shape="rect" id="node15" href="$de/d0b/examples_2physics_2config_82_2reconstruction_8C.html#a3d26f5f344cf2281e72b22d404fd8c51" title="reconstruction" alt="" coords="2135,109,2253,137"/>
+<area shape="rect" id="node18" href="$d3/d61/classEicRunSim.html#a8753bc74b79c1b5c0c3dce2419672271" title="EicRunSim::Init" alt="" coords="1475,161,1599,189"/>
+<area shape="rect" id="node19" href="$d3/d61/classEicRunSim.html#ac3dc4b7912f3a0d7c501a203617fe508" title="EicRunSim::RunCoreStart" alt="" coords="1673,148,1865,176"/>
+<area shape="rect" id="node21" href="$d4/d1f/examples_2physics_2config_82_2simulation_8C.html#ac10f32ae478a1409f743cf125eeea582" title="simulation" alt="" coords="2148,175,2240,203"/>
+<area shape="rect" id="node20" href="$d3/d61/classEicRunSim.html#a9f9cc62b3a055d135358f264709c6b7e" title="EicRunSim::Run" alt="" coords="1937,148,2063,176"/>
+<area shape="rect" id="node26" href="$da/d35/classoncsEventiterator.html#a619bef99f7e3ef4978df51aa6dc8f764" title="oncsEventiterator::\lgetNextEvent" alt="" coords="387,273,537,317"/>
+<area shape="rect" id="node28" href="$d8/dc3/classfileEventiterator.html#acf32e5a708dafc84a9def17b6e4d9736" title="fileEventiterator::\lgetNextEvent" alt="" coords="393,341,531,385"/>
+<area shape="rect" id="node30" href="$de/ddb/classoamlBuffer.html#a6ed87599760cb8528507e4e79ad03b30" title="oamlBuffer::begin_run" alt="" coords="376,409,548,437"/>
+<area shape="rect" id="node31" href="$de/ddb/classoamlBuffer.html#a51c326749131aa79ac885758ac4c1eac" title="oamlBuffer::writeout" alt="" coords="609,460,770,488"/>
+<area shape="rect" id="node32" href="$de/ddb/classoamlBuffer.html#afcb81469f06d2846dacbb3508e413d5e" title="oamlBuffer::~oamlBuffer" alt="" coords="831,485,1023,513"/>
+</map>

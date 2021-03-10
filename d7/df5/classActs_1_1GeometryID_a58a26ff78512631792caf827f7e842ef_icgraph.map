@@ -1,0 +1,20 @@
+<map id="Acts::GeometryID::setBits" name="Acts::GeometryID::setBits">
+<area shape="rect" id="node2" href="$d7/df5/classActs_1_1GeometryID.html#a66293632da863133b974fac013ca37db" title="Set the approach identifier." alt="" coords="250,177,485,205"/>
+<area shape="rect" id="node10" href="$d7/df5/classActs_1_1GeometryID.html#a9589c6ee3194a72543cdeaf888ad97be" title="Set the boundary identifier." alt="" coords="249,125,485,153"/>
+<area shape="rect" id="node11" href="$d7/df5/classActs_1_1GeometryID.html#ac27abfcaf9479ccd3365c87c3531cfa4" title="Set the layer identifier." alt="" coords="263,285,472,313"/>
+<area shape="rect" id="node16" href="$d7/df5/classActs_1_1GeometryID.html#ad772b19c6d545948b509cd5f2ccdd871" title="Set the sensitive identifier." alt="" coords="251,230,483,258"/>
+<area shape="rect" id="node17" href="$d7/df5/classActs_1_1GeometryID.html#af398c76772a835a6392d8316cc3521db" title="Set the volume identifier." alt="" coords="257,378,478,406"/>
+<area shape="rect" id="node3" href="$da/d28/classActs_1_1Layer.html#a6d7c4eda787136d27ff33fcf7a8a6ce1" title="Acts::Layer::closeGeometry" alt="" coords="541,46,749,74"/>
+<area shape="rect" id="node5" href="$d8/d74/classActs_1_1JsonGeometryConverter.html#a68254cbd7d6e434e247c76221c5d14e2" title="Acts::JsonGeometryConverter\l::jsonToMaterialMaps" alt="" coords="533,337,756,381"/>
+<area shape="rect" id="node8" href="$df/da6/classFW_1_1RootMaterialDecorator.html#ad82c62792870202b2c70fe476b6e359e" title="FW::RootMaterialDecorator\l::RootMaterialDecorator" alt="" coords="543,166,747,210"/>
+<area shape="rect" id="node9" href="$da/de5/classFW_1_1RootMaterialTrackWriter.html#ac4a29034e9434a68a76eced7859424c8" title="FW::RootMaterialTrackWriter\l::writeT" alt="" coords="538,98,751,142"/>
+<area shape="rect" id="node4" href="$dd/dcd/classActs_1_1TrackingVolume.html#ac6de1d95c699a6b3540a660de7467395" title="Acts::TrackingVolume\l::closeGeometry" alt="" coords="826,226,993,270"/>
+<area shape="rect" id="node6" href="$d7/db9/classActs_1_1JsonMaterialDecorator.html#a79ab506f5c49a643394182f7395d4a93" title="Acts::JsonMaterialDecorator\l::JsonMaterialDecorator" alt="" coords="804,383,1015,427"/>
+<area shape="rect" id="node7" href="$dd/d7e/namespaceActs_1_1Test.html#ada8fbe51450c9d1ddcf446065a5ec5c1" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="815,315,1003,359"/>
+<area shape="rect" id="node12" href="$d1/d10/namespaceFW.html#a195395d3a9c628d97aae95e47af4fd61" title="Select all elements within the given layer." alt="" coords="580,525,709,553"/>
+<area shape="rect" id="node15" href="$dd/d7e/namespaceActs_1_1Test.html#a1e7d1638b5b4549abbb43f8422d9f6aa" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="551,405,739,449"/>
+<area shape="rect" id="node13" href="$db/de1/classFW_1_1PrintHits.html#aeed4774fc40ef803395fe4a0b9944de0" title="FW::PrintHits::execute" alt="" coords="824,550,995,578"/>
+<area shape="rect" id="node14" href="$d1/d10/namespaceFW.html#a418e7d5ac29cb83d57a42fcc8f6f1248" title="FW::selectLayer" alt="" coords="845,498,974,526"/>
+<area shape="rect" id="node18" href="$d1/d10/namespaceFW.html#a78182c356befea504eca254484bf18ca" title="Select all elements within the given volume." alt="" coords="574,577,715,605"/>
+<area shape="rect" id="node19" href="$d1/d10/namespaceFW.html#a0033c920ded64be4e4d4856ca102bf30" title="FW::selectVolume" alt="" coords="839,602,980,630"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="EicRootVstSubsystem" name="EicRootVstSubsystem">
+<area shape="rect" id="node2" href="$d2/de6/classEicRootSubsystem.html" title="EicRootSubsystem" alt="" coords="2600,750,2747,778"/>
+<area shape="rect" id="node3" href="$d5/d29/classPHG4DetectorSubsystem.html" title="PHG4DetectorSubsystem" alt="" coords="2276,413,2468,441"/>
+<area shape="rect" id="node4" href="$db/df7/classPHG4Subsystem.html" title="PHG4Subsystem" alt="" coords="1455,673,1588,701"/>
+<area shape="rect" id="node22" href="$d3/de7/classPHG4Detector.html" title="base class for phenix detector creation" alt="" coords="1957,699,2074,727"/>
+<area shape="rect" id="node5" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="945,673,1046,701"/>
+<area shape="rect" id="node10" href="$dd/dae/classPHParameters.html" title="PHParameters" alt="" coords="937,275,1053,303"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="213,406,303,434"/>
+<area shape="rect" id="node14" href="$d7/d6b/classPHParametersContainer.html" title="PHParametersContainer" alt="" coords="1924,413,2107,441"/>
+<area shape="rect" id="node17" href="$dc/d82/classPHNode.html" title="PHNode" alt="" coords="501,615,576,643"/>
+<area shape="rect" id="node19" href="$df/d3f/classPHG4SteppingAction.html" title="PHG4SteppingAction" alt="" coords="915,842,1076,870"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="5,398,148,442"/>
+<area shape="rect" id="node11" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="497,523,581,551"/>
+<area shape="rect" id="node23" href="$d4/d30/classPHG4HitContainer.html" title="PHG4HitContainer" alt="" coords="923,790,1068,818"/>
+<area shape="rect" id="node12" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="220,1406,296,1434"/>
+<area shape="rect" id="node28" href="$df/de0/classEicGeoParData.html" title="EicGeoParData" alt="" coords="1461,1469,1582,1497"/>
+<area shape="rect" id="node31" href="$dc/dc3/classFairGeoInterface.html" title="FairGeoInterface" alt="" coords="473,1995,605,2023"/>
+<area shape="rect" id="node39" href="$d0/d2f/classEicDetName.html" title="Detector name in all flavors like TPC, Tpc, tpc." alt="" coords="487,1466,591,1494"/>
+<area shape="rect" id="node41" href="$dd/d0b/classEicNamePatternHub.html" title="EicNamePatternHub\&lt;\l Char_t \&gt;" alt="" coords="455,1398,622,1442"/>
+<area shape="rect" id="node44" href="$dd/d0b/classEicNamePatternHub.html" title="EicNamePatternHub\&lt;\l Color_t \&gt;" alt="" coords="455,1518,622,1562"/>
+<area shape="rect" id="node49" href="$d4/d52/classVstBarrelLayer.html" title="VstBarrelLayer" alt="" coords="934,894,1057,922"/>
+<area shape="rect" id="node50" href="$d6/dee/classMapsMimosaAssembly.html" title="MapsMimosaAssembly" alt="" coords="451,1138,626,1166"/>
+<area shape="rect" id="node16" href="$d5/dca/classPHCompositeNode.html" title="PHCompositeNode" alt="" coords="1448,577,1595,605"/>
+<area shape="rect" id="node18" href="$d6/d86/classPHPointerList.html" title="PHPointerList\&lt; PHNode \&gt;" alt="" coords="899,569,1092,597"/>
+<area shape="rect" id="node21" href="$d5/d9a/classEicRootDetector.html" title="EicRootDetector" alt="" coords="2307,750,2437,778"/>
+<area shape="rect" id="node26" href="$d8/d4a/classVstGeoParData.html" title="VstGeoParData" alt="" coords="2310,930,2434,958"/>
+<area shape="rect" id="node27" href="$de/d86/classMapsGeoParData.html" title="MapsGeoParData" alt="" coords="1947,1225,2083,1253"/>
+<area shape="rect" id="node29" href="$d7/df9/classEicGeoMedia.html" title="EicGeoMedia" alt="" coords="941,1938,1049,1966"/>
+<area shape="rect" id="node30" href="$d2/dc4/classFairGeoLoader.html" title="FairGeoLoader" alt="" coords="935,2030,1055,2058"/>
+<area shape="rect" id="node32" href="$d9/d1e/classFairGeoMedia.html" title="FairGeoMedia" alt="" coords="202,1921,314,1949"/>
+<area shape="rect" id="node33" href="$de/d6a/classFairGeoBuilder.html" title="FairGeoBuilder" alt="" coords="197,2050,319,2078"/>
+</map>

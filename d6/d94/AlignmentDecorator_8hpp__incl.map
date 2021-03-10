@@ -1,0 +1,31 @@
+<map id="fun4all_acts/blob/master/Examples/Detectors/ContextualDetector/include/ACTFW/ContextualDetector/AlignmentDecorator.hpp" name="fun4all_acts/blob/master/Examples/Detectors/ContextualDetector/include/ACTFW/ContextualDetector/AlignmentDecorator.hpp">
+<area shape="rect" id="node4" href="$d9/d4b/AlignedDetectorElement_8hpp.html" title="ACTFW/ContextualDetector\l/AlignedDetectorElement.hpp" alt="" coords="2207,129,2430,173"/>
+<area shape="rect" id="node11" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="985,681,1199,709"/>
+<area shape="rect" id="node40" href="$de/d37/AlgorithmContext_8hpp.html" title="ACTFW/Framework/Algorithm\lContext.hpp" alt="" coords="3067,497,3287,541"/>
+<area shape="rect" id="node43" href="$db/d42/IContextDecorator_8hpp.html" title="ACTFW/Framework/IContext\lDecorator.hpp" alt="" coords="3324,405,3535,449"/>
+<area shape="rect" id="node45" href="$d8/d1b/RandomNumbers_8hpp.html" title="ACTFW/Framework/RandomNumbers.hpp" alt="" coords="2948,413,3249,441"/>
+<area shape="rect" id="node47" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="2247,597,2433,625"/>
+<area shape="rect" id="node6" href="$d0/d2f/GenericDetectorElement_8hpp.html" title="ACTFW/GenericDetector\l/GenericDetectorElement.hpp" alt="" coords="2356,221,2580,265"/>
+<area shape="rect" id="node9" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="2567,597,2844,625"/>
+<area shape="rect" id="node13" href="$d4/db1/IdentifiedDetectorElement_8hpp.html" title="Acts/Plugins/Identification\l/IdentifiedDetectorElement.hpp" alt="" coords="2350,313,2586,357"/>
+<area shape="rect" id="node14" href="$d9/dec/Identifier_8hpp.html" title="Acts/Plugins/Identification\l/Identifier.hpp" alt="" coords="2575,405,2772,449"/>
+<area shape="rect" id="node15" href="$d3/d69/GeometryID_8hpp.html" title="Acts/Geometry/GeometryID.hpp" alt="" coords="1994,413,2233,441"/>
+<area shape="rect" id="node19" href="$d8/ddd/Surface_8hpp.html" title="Acts/Surfaces/Surface.hpp" alt="" coords="1199,229,1399,257"/>
+<area shape="rect" id="node7" href="$dc/d45/DetectorElementBase_8hpp.html" title="Acts/Geometry/DetectorElement\lBase.hpp" alt="" coords="2308,405,2551,449"/>
+<area shape="rect" id="node8" href="$d3/dc6/DefaultDetectorElementBase_8hpp.html" title="detail/DefaultDetectorElement\lBase.hpp" alt="" coords="1943,497,2171,541"/>
+<area shape="rect" id="node20" href="$da/de0/GeometryObject_8hpp.html" title="Acts/Geometry/GeometryObject.hpp" alt="" coords="1549,321,1817,349"/>
+<area shape="rect" id="node21" href="$db/d40/Polyhedron_8hpp.html" title="Acts/Geometry/Polyhedron.hpp" alt="" coords="818,413,1051,441"/>
+<area shape="rect" id="node23" href="$de/d09/BinningType_8hpp.html" title="Acts/Utilities/BinningType.hpp" alt="" coords="1444,681,1668,709"/>
+<area shape="rect" id="node29" href="$d7/d50/BoundaryCheck_8hpp.html" title="Acts/Surfaces/BoundaryCheck.hpp" alt="" coords="481,505,737,533"/>
+<area shape="rect" id="node35" href="$d5/dc6/GeometryStatics_8hpp.html" title="Acts/Geometry/GeometryStatics.hpp" alt="" coords="1077,321,1347,349"/>
+<area shape="rect" id="node36" href="$da/ddb/SurfaceBounds_8hpp.html" title="Acts/Surfaces/SurfaceBounds.hpp" alt="" coords="543,413,793,441"/>
+<area shape="rect" id="node37" href="$d5/d50/BinnedArray_8hpp.html" title="Acts/Utilities/BinnedArray.hpp" alt="" coords="295,413,518,441"/>
+<area shape="rect" id="node38" href="$db/d8d/Intersection_8hpp.html" title="Acts/Utilities/Intersection.hpp" alt="" coords="1076,413,1297,441"/>
+<area shape="rect" id="node39" href="$dd/d76/Surface_8ipp.html" title="Acts/Surfaces/detail\l/Surface.ipp" alt="" coords="845,313,1001,357"/>
+<area shape="rect" id="node25" href="$d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html" title="Acts/Utilities/Helpers.hpp" alt="" coords="1725,597,1918,625"/>
+<area shape="rect" id="node22" href="$dc/d2a/Extent_8hpp.html" title="Acts/Geometry/Extent.hpp" alt="" coords="1333,505,1534,533"/>
+<area shape="rect" id="node32" href="$d4/d27/VerticesHelper_8hpp.html" title="Acts/Surfaces/detail\l/VerticesHelper.hpp" alt="" coords="398,589,554,633"/>
+<area shape="rect" id="node41" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="2868,589,3071,633"/>
+<area shape="rect" id="node42" href="$d0/d28/CalibrationContext_8hpp.html" title="Acts/Utilities/Calibration\lContext.hpp" alt="" coords="3095,589,3279,633"/>
+<area shape="rect" id="node44" href="$d1/d06/ProcessCode_8hpp.html" title="ACTFW/Framework/ProcessCode.hpp" alt="" coords="3363,505,3632,533"/>
+</map>

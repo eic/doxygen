@@ -1,0 +1,27 @@
+var classFairDbCache =
+[
+    [ "ResultList_t", "d2/d4a/classFairDbCache.html#a5dac638724123c4b5bf645f11d985eca", null ],
+    [ "FairDbCache", "d2/d4a/classFairDbCache.html#a13439f3af62652fe00351455c1b85fd1", null ],
+    [ "~FairDbCache", "d2/d4a/classFairDbCache.html#a71ef52eef65f8442557b8c32032cc4fa", null ],
+    [ "FairDbCache", "d2/d4a/classFairDbCache.html#a8fe24c82c145e3c2e418885a75aaf946", null ],
+    [ "Adopt", "d2/d4a/classFairDbCache.html#a667e4ccf67f91abdcd51a101c36a656d", null ],
+    [ "GetCurSize", "d2/d4a/classFairDbCache.html#ac66cb6d03dab07879563b9601293c378", null ],
+    [ "GetMaxSize", "d2/d4a/classFairDbCache.html#a0e4d4571047134738ea9f50f5fc64d49", null ],
+    [ "GetNumAdopted", "d2/d4a/classFairDbCache.html#a70f365d3feeebc2b53456ca688bf5f56", null ],
+    [ "GetNumReused", "d2/d4a/classFairDbCache.html#a55211795bea0098a3498b71d98ec999c", null ],
+    [ "GetSubCache", "d2/d4a/classFairDbCache.html#ab72da4c3267fc1d7834799e451423c97", null ],
+    [ "operator=", "d2/d4a/classFairDbCache.html#a66397586a8d263d41792d1337fffcaec", null ],
+    [ "Purge", "d2/d4a/classFairDbCache.html#a05f5e9b983a57fc0577fedeb4eddff94", null ],
+    [ "Purge", "d2/d4a/classFairDbCache.html#a23be190ddc5ea12118c017cdc33d23da", null ],
+    [ "Search", "d2/d4a/classFairDbCache.html#a3557a151241e39c85be9543fdcc290b4", null ],
+    [ "Search", "d2/d4a/classFairDbCache.html#ae7337ae216396cb6df61785ce533d39c", null ],
+    [ "Search", "d2/d4a/classFairDbCache.html#ad679b800df8f04bd925fe0ecd1784639", null ],
+    [ "SetStale", "d2/d4a/classFairDbCache.html#a9565ff190d737dc954a16b187bca693a", null ],
+    [ "fCache", "d2/d4a/classFairDbCache.html#ac5db1568ebffde37067c7fe5a07fdef1", null ],
+    [ "fCurSize", "d2/d4a/classFairDbCache.html#ac51860edfadcf2e759cabc26c448f2b1", null ],
+    [ "fMaxSize", "d2/d4a/classFairDbCache.html#ab8975b9344524aaab037f2eddd33657c", null ],
+    [ "fNumAdopted", "d2/d4a/classFairDbCache.html#a89be751685d8d60f1bf1d6e7abf45b72", null ],
+    [ "fNumReused", "d2/d4a/classFairDbCache.html#a3bd541024e19c99fbdc74ce39b9d0e42", null ],
+    [ "fTableName", "d2/d4a/classFairDbCache.html#adaf1b51e9090e8381828ded4dcacaefe", null ],
+    [ "fTableProxy", "d2/d4a/classFairDbCache.html#ad95e6b8e09ba9c7dcb2ab741188b60c1", null ]
+];

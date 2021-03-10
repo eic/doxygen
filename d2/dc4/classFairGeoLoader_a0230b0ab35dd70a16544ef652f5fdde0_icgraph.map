@@ -1,0 +1,37 @@
+<map id="FairGeoLoader::getGeoInterface" name="FairGeoLoader::getGeoInterface">
+<area shape="rect" id="node2" href="$d4/d06/classFairModule.html#ad01c5b285d27bb124439ad2a6de3c9e3" title="FairModule::AssignMedium\lAtImport" alt="" coords="305,202,507,246"/>
+<area shape="rect" id="node4" href="$dd/dac/classEicDetector.html#a52d5d3a030ed4ab74e36989b4a563f73" title="EicDetector::ConstructGeometry" alt="" coords="1199,85,1439,113"/>
+<area shape="rect" id="node6" href="$d6/d57/classPndPipe.html#a28d594a278bba4911bc3bdb441007b69" title="PndPipe::ConstructGeometry" alt="" coords="1211,240,1427,268"/>
+<area shape="rect" id="node9" href="$d1/d75/PndCave_8cxx.html#a159adab26413f627a972bd6e43ae4765" title="ClassImp" alt="" coords="365,477,447,505"/>
+<area shape="rect" id="node10" href="$df/d89/classPndMagnet.html#a24b61340759fdef8d1ab340f631f00b0" title="PndMagnet::ConstructASCIIGeometry" alt="" coords="877,125,1151,153"/>
+<area shape="rect" id="node11" href="$d8/dd9/classCbmRich.html#a4da15c82f4256a1d985899fd00400299" title="Construct geometry from ASCII file. Supported structure for the mirrors are added on a fly..." alt="" coords="887,400,1141,428"/>
+<area shape="rect" id="node12" href="$d8/dd9/classCbmRich.html#a35cf8e11a842a80859575120f7cd9b40" title="Construct geometry from GDML file." alt="" coords="571,348,829,376"/>
+<area shape="rect" id="node13" href="$d0/d81/classPndTarget.html#a663bbcf65595d98eab33cf402ddfe74f" title="PndTarget::ConstructGeometry" alt="" coords="291,529,521,557"/>
+<area shape="rect" id="node14" href="$d8/def/classFairMCApplication.html#a5f18bcec413ca11f81f07f1f0eec28f9" title="FairMCApplication::\lConstructOpGeometry" alt="" coords="319,581,493,625"/>
+<area shape="rect" id="node15" href="$de/dff/classPndGeoPipe.html#ae9c86e7d40edfd32b86164f4fb09daef" title="PndGeoPipe::create" alt="" coords="329,649,483,677"/>
+<area shape="rect" id="node16" href="$df/de0/classEicGeoParData.html#af8e11f1e854d2bbd845f030f659a5de2" title="EicGeoParData::EicGeoParData" alt="" coords="291,701,521,729"/>
+<area shape="rect" id="node17" href="$d8/dd9/classCbmRich.html#a7a04c2f3124c138d4a8b01a83d4d445a" title="Assign materials by taking description from medoa.geo and not from GDML for a certain node..." alt="" coords="289,322,523,350"/>
+<area shape="rect" id="node18" href="$de/dd6/classEicMediaHub.html#a636258f5d2ed79810741b82724945302" title="EicMediaHub::Init" alt="" coords="336,753,476,781"/>
+<area shape="rect" id="node32" href="$dd/dbc/classFairRunSim.html#ad054abd046776cbc896d264a4e62376f" title="FairRunSim::Init" alt="" coords="342,877,470,905"/>
+<area shape="rect" id="node3" href="$d4/d06/classFairModule.html#a59c72f749fdc3bfbcb1505732936ae89" title="FairModule::ConstructRoot\lGeometry" alt="" coords="914,186,1114,230"/>
+<area shape="rect" id="node8" href="$d4/d06/classFairModule.html#a703a2ae06f62ae87b43a332c913526e3" title="FairModule::ExpandNode" alt="" coords="605,218,795,246"/>
+<area shape="rect" id="node5" href="$df/d89/classPndMagnet.html#aff982bc9f85e558cbd4552add14d811c" title="PndMagnet::ConstructGeometry" alt="" coords="1199,176,1438,204"/>
+<area shape="rect" id="node7" href="$d8/dd9/classCbmRich.html#a3d1883ed88870fa1325c79d6c508242e" title="Construct geometry. Currently ROOT and ASCII formats are supported. The concrete method for geometry ..." alt="" coords="1207,348,1430,376"/>
+<area shape="rect" id="node19" href="$d3/d74/classEicCadWizard.html#a9460bc1e33f37cde74228402569b31b8" title="EicCadWizard::AssembleRoot\lFiles" alt="" coords="591,769,809,813"/>
+<area shape="rect" id="node20" href="$d6/dbc/classEicBeamLineElementMap.html#a2757470ea50fd55ac8fb552f7a6dee9d" title="EicBeamLineElementMap\l::ConstructGeometry" alt="" coords="603,837,797,881"/>
+<area shape="rect" id="node21" href="$d0/d93/classEicBeamLineElementGrad.html#aeba5efba31abc7f8014aad083b727808" title="EicBeamLineElementGrad\l::ConstructGeometry" alt="" coords="601,905,799,949"/>
+<area shape="rect" id="node22" href="$d8/d7b/classEicCadFile.html#a8e8bf4dd75c81efa51b8bc49696ff960" title="EicCadFile::ConstructGeometry" alt="" coords="584,513,816,541"/>
+<area shape="rect" id="node23" href="$d3/d74/classEicCadWizard.html#a49e48737f82f804deb1834754213f6c0" title="EicCadWizard::CreateBoolean\lSolidRootFile" alt="" coords="589,633,811,677"/>
+<area shape="rect" id="node30" href="$d3/d74/classEicCadWizard.html#a2c043cddfa85265bc3d030b949a9255f" title="EicCadWizard::CreateGhost\lSolidRootFile" alt="" coords="596,565,804,609"/>
+<area shape="rect" id="node31" href="$d3/d74/classEicCadWizard.html#aa3d8913ceadf362918c9dfa6e5768fa5" title="EicCadWizard::CreateStlSolid\lRootFile" alt="" coords="591,701,809,745"/>
+<area shape="rect" id="node24" href="$d3/d74/classEicCadWizard.html#a934e44248a9b831031244e8f677192ab" title="EicCadWizard::FaceGuided\lSplit" alt="" coords="913,633,1115,677"/>
+<area shape="rect" id="node25" href="$d3/d74/classEicCadWizard.html#ae20efc31d935163c847571a258d9f5da" title="EicCadWizard::ConvertSource\lFileToRoot" alt="" coords="1208,633,1429,677"/>
+<area shape="rect" id="node26" href="$d3/d74/classEicCadWizard.html#a755802c1852cc16497c285ffff5f9ed9" title="EicCadWizard::ConvertSource\lDirectoryToRoot" alt="" coords="1487,693,1708,737"/>
+<area shape="rect" id="node27" href="$d3/d74/classEicCadWizard.html#a006a3271b204498a10bb4b15e45c5a61" title="EicCadWizard::FlatSurface\lSplit" alt="" coords="1756,664,1955,708"/>
+<area shape="rect" id="node28" href="$d3/d74/classEicCadWizard.html#a96164b69291586bf689c5e002a1257d2" title="EicCadWizard::ConvertSource\lFilesToRoot" alt="" coords="1487,505,1708,549"/>
+<area shape="rect" id="node29" href="$d3/d74/classEicCadWizard.html#a8c9200680c7b255518246d67c872309b" title="EicCadWizard::ConvertSource\lFileToRoot" alt="" coords="1487,573,1708,617"/>
+<area shape="rect" id="node33" href="$d3/d61/classEicRunSim.html#a8753bc74b79c1b5c0c3dce2419672271" title="EicRunSim::Init" alt="" coords="638,973,762,1001"/>
+<area shape="rect" id="node34" href="$d3/d61/classEicRunSim.html#ac3dc4b7912f3a0d7c501a203617fe508" title="EicRunSim::RunCoreStart" alt="" coords="918,946,1110,974"/>
+<area shape="rect" id="node36" href="$d4/d1f/examples_2physics_2config_82_2simulation_8C.html#ac10f32ae478a1409f743cf125eeea582" title="simulation" alt="" coords="1551,972,1643,1000"/>
+<area shape="rect" id="node35" href="$d3/d61/classEicRunSim.html#a9f9cc62b3a055d135358f264709c6b7e" title="EicRunSim::Run" alt="" coords="1255,946,1382,974"/>
+</map>

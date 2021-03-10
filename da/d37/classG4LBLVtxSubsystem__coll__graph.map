@@ -1,0 +1,20 @@
+<map id="G4LBLVtxSubsystem" name="G4LBLVtxSubsystem">
+<area shape="rect" id="node2" href="$d5/d29/classPHG4DetectorSubsystem.html" title="PHG4DetectorSubsystem" alt="" coords="2072,397,2264,425"/>
+<area shape="rect" id="node3" href="$db/df7/classPHG4Subsystem.html" title="PHG4Subsystem" alt="" coords="1241,613,1375,641"/>
+<area shape="rect" id="node23" href="$d3/de7/classPHG4Detector.html" title="base class for phenix detector creation" alt="" coords="1661,653,1778,681"/>
+<area shape="rect" id="node4" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="867,613,969,641"/>
+<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="461,609,565,637"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="197,552,287,580"/>
+<area shape="rect" id="node10" href="$dd/dae/classPHParameters.html" title="PHParameters" alt="" coords="860,168,976,196"/>
+<area shape="rect" id="node14" href="$d7/d6b/classPHParametersContainer.html" title="PHParametersContainer" alt="" coords="1628,91,1811,119"/>
+<area shape="rect" id="node17" href="$dc/d82/classPHNode.html" title="PHNode" alt="" coords="476,552,551,580"/>
+<area shape="rect" id="node19" href="$d2/d44/classPHG4DisplayAction.html" title="PHG4DisplayAction" alt="" coords="1233,999,1383,1027"/>
+<area shape="rect" id="node20" href="$df/d3f/classPHG4SteppingAction.html" title="PHG4SteppingAction" alt="" coords="837,851,999,879"/>
+<area shape="rect" id="node22" href="$d4/d16/classG4LBLVtxDetector.html" title="G4LBLVtxDetector is a generic detector built from a GDML import." alt="" coords="2096,813,2240,841"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="5,544,148,588"/>
+<area shape="rect" id="node11" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="471,5,555,33"/>
+<area shape="rect" id="node12" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="204,5,280,33"/>
+<area shape="rect" id="node16" href="$d5/dca/classPHCompositeNode.html" title="PHCompositeNode" alt="" coords="1235,513,1381,541"/>
+<area shape="rect" id="node18" href="$d6/d86/classPHPointerList.html" title="PHPointerList\&lt; PHNode \&gt;" alt="" coords="821,509,1015,537"/>
+<area shape="rect" id="node24" href="$da/da2/classG4LBLVtxDisplayAction.html" title="G4LBLVtxDisplayAction" alt="" coords="1631,892,1808,920"/>
+</map>

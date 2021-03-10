@@ -1,0 +1,8 @@
+<map id="GFTrack::mergeHits" name="GFTrack::mergeHits">
+<area shape="rect" id="node2" href="$d4/d33/classGFTrack.html#aaf10716dba6c11a31faa51d7581a3b5a" title="deprecated!" alt="" coords="224,5,353,33"/>
+<area shape="rect" id="node3" href="$d4/d33/classGFTrack.html#a3bb033751216b2463d67145a88b4ccf2" title="GFTrack::getCand" alt="" coords="219,57,359,85"/>
+<area shape="rect" id="node4" href="$df/dd5/classGFTrackCand.html#a3a1c324dccff50661c2e5f87a714b927" title="Get detector ID and cluster index (hitId) for hit number i." alt="" coords="209,109,369,137"/>
+<area shape="rect" id="node6" href="$d4/d33/classGFTrack.html#a736fa5128d9414c62a1e2f19390588d1" title="GFTrack::getHit" alt="" coords="226,161,351,189"/>
+<area shape="rect" id="node7" href="$d4/d33/classGFTrack.html#ad9fe02d4c3331d819cd9fd08d976dab3" title="GFTrack::getNumHits" alt="" coords="207,213,371,241"/>
+<area shape="rect" id="node5" href="$df/dd5/classGFTrackCand.html#a1ae64a005180091a17081c597c45ddf1" title="GFTrackCand::getNHits" alt="" coords="419,109,596,137"/>
+</map>

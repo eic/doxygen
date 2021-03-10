@@ -1,0 +1,17 @@
+<map id="PndTrackCand2GenfitTrackCand" name="PndTrackCand2GenfitTrackCand">
+<area shape="rect" id="node2" href="$df/dd5/classGFTrackCand.html#a2438cfd6dd3027ed6828f4b6c703c010" title="GFTrackCand::addHit" alt="" coords="322,5,486,33"/>
+<area shape="rect" id="node3" href="$dd/d26/classPndTrackCand.html#a3ed2f27111eaa4f0c7080303605a3432" title="PndTrackCand::getChargeSeed" alt="" coords="289,57,519,85"/>
+<area shape="rect" id="node4" href="$d2/d4a/classPndTrackCandHit.html#ae235be08f7942f786bfc7f5cd7639938" title="PndTrackCandHit::GetDetId" alt="" coords="302,109,506,137"/>
+<area shape="rect" id="node6" href="$d2/d4a/classPndTrackCandHit.html#adf2e4780ada0b369eddca9016303e61b" title="PndTrackCandHit::GetHitId" alt="" coords="304,161,504,189"/>
+<area shape="rect" id="node8" href="$dd/d26/classPndTrackCand.html#a2df31bef7d8b6ace75cc631cc3738b9e" title="PndTrackCand::getMcTrackId" alt="" coords="297,213,511,241"/>
+<area shape="rect" id="node9" href="$dd/d26/classPndTrackCand.html#a823fc0c561678d997ed5f18d8fe88a10" title="PndTrackCand::getMomSeed" alt="" coords="297,265,511,293"/>
+<area shape="rect" id="node10" href="$dd/d26/classPndTrackCand.html#af45df145bdc2811875def520feb2b78c" title="PndTrackCand::GetNHits" alt="" coords="311,317,497,345"/>
+<area shape="rect" id="node11" href="$dd/d26/classPndTrackCand.html#ae91ee0778f1e853057d071894cdb9d93" title="PndTrackCand::getPosSeed" alt="" coords="302,369,506,397"/>
+<area shape="rect" id="node12" href="$d2/d4a/classPndTrackCandHit.html#a796c6cc74d7fc9b592a15725a35fc3a0" title="PndTrackCandHit::GetRho" alt="" coords="307,421,501,449"/>
+<area shape="rect" id="node13" href="$dd/d26/classPndTrackCand.html#a9d566f18b7157368fc40c7c18b44a943" title="PndTrackCand::GetSortedHit" alt="" coords="297,473,511,501"/>
+<area shape="rect" id="node15" href="$df/dd5/classGFTrackCand.html#a5e24b2d342d0261f062fcc5c6714158d" title="set the MCT track id, for MC simulations" alt="" coords="301,525,507,553"/>
+<area shape="rect" id="node16" href="$df/dd5/classGFTrackCand.html#a759af6b7ebdf28bdec1d7e8bdf1480f8" title="sets the state to seed the track fitting. State has to be a TVector3 for position and a TVector3 for ..." alt="" coords="290,577,518,605"/>
+<area shape="rect" id="node5" href="$d6/da5/classFairLink.html#ac24acb72d164de213ecc15521127e672" title="FairLink::GetType" alt="" coords="575,109,712,137"/>
+<area shape="rect" id="node7" href="$d6/da5/classFairLink.html#a0b804a2beb1f7cd11e7e1367f3de67ed" title="FairLink::GetIndex" alt="" coords="572,161,715,189"/>
+<area shape="rect" id="node14" href="$dd/d26/classPndTrackCand.html#a92784bfcaf041665b02c39469e6341a2" title="PndTrackCand::Sort" alt="" coords="567,473,720,501"/>
+</map>

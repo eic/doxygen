@@ -1,0 +1,11 @@
+<map id="GFBookkeeping::getDetPlane" name="GFBookkeeping::getDetPlane">
+<area shape="rect" id="node2" href="$d1/dce/classGFDaf.html#a8b2c71a01ea071c6188e583cade7c789" title="Copy the smoothing matrices from the source track to the target." alt="" coords="308,5,485,33"/>
+<area shape="rect" id="node7" href="$de/dc7/namespaceGFTools.html#a3bb6a2b23bfa5575c48ef8c30d19d1af" title="Get biased smoothed state vector, state covariance and smoothing plane." alt="" coords="272,57,521,85"/>
+<area shape="rect" id="node8" href="$de/dc7/namespaceGFTools.html#aa7388665cdcb0aae3d32dc095b017d6c" title="Get smoothed state vector, state covariance and smoothing plane." alt="" coords="295,109,499,137"/>
+<area shape="rect" id="node9" href="$de/dc7/namespaceGFTools.html#afb44de5896e1d2c713c5277b793e836c" title="Get smoothing plane." alt="" coords="289,161,504,189"/>
+<area shape="rect" id="node10" href="$d6/deb/classGFBookkeeping.html#aea5f24bbeefe7a189658aa56261cb6df" title="GFBookkeeping::Print" alt="" coords="313,213,481,241"/>
+<area shape="rect" id="node3" href="$d1/dce/classGFDaf.html#acae6182be114ea4c813d0bb8995343a4" title="Process a track using the DAF." alt="" coords="569,5,729,33"/>
+<area shape="rect" id="node4" href="$df/d62/classPndRecoDafFit.html#a71b624dff0fc50e252d2d2b9eed898ee" title="PndRecoDafFit::Fit" alt="" coords="777,5,921,33"/>
+<area shape="rect" id="node5" href="$d7/d87/classPndRecoKalmanTask.html#aa92916b999aeaf87e99fb08734ce368e" title="PndRecoKalmanTask::Exec" alt="" coords="969,5,1169,33"/>
+<area shape="rect" id="node6" href="$d2/db6/classEicRecoKalmanTask.html#a10103a96af9664a82027040c505bfff1" title="EicRecoKalmanTask::Exec" alt="" coords="1217,5,1412,33"/>
+</map>

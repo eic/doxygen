@@ -1,0 +1,6 @@
+<map id="FW::HepMC3Vertex::processVertex" name="FW::HepMC3Vertex::processVertex">
+<area shape="rect" id="node2" href="$da/de2/structFW_1_1HepMC3Particle.html#a9f4000da06a225324377d538f6bfb583" title="Returns the end vertex of the particle translated into Acts." alt="" coords="291,5,449,49"/>
+<area shape="rect" id="node3" href="$da/de2/structFW_1_1HepMC3Particle.html#ab66640d565f084be3d110a1882af8111" title="Returns the production vertex of the particle translated into Acts." alt="" coords="291,73,449,117"/>
+<area shape="rect" id="node4" href="$d7/d8d/structFW_1_1HepMC3Event.html#aa2064ed2745a3234067736715fcf5870" title="Get list of vertices." alt="" coords="265,141,475,169"/>
+<area shape="rect" id="node5" href="$db/d38/HepMC3Example_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="523,141,577,169"/>
+</map>

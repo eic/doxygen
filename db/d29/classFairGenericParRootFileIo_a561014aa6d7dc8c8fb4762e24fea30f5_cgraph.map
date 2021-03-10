@@ -1,0 +1,14 @@
+<map id="FairGenericParRootFileIo::init" name="FairGenericParRootFileIo::init">
+<area shape="rect" id="node2" href="$d1/db3/classFairDetParRootFileIo.html#a71b42d086f88453acb1f788cf99fbe1e" title="FairDetParRootFileIo\l::read" alt="" coords="237,203,392,247"/>
+<area shape="rect" id="node3" href="$d5/d43/classFairParSet.html#ad991fefbd805f56bcc576c56cfc0d211" title="FairParSet::clear" alt="" coords="476,91,608,119"/>
+<area shape="rect" id="node4" href="$d1/db3/classFairDetParRootFileIo.html#a7965cc2f3074744b600078782cf61994" title="FairDetParRootFileIo\l::findInputVersion" alt="" coords="465,143,619,187"/>
+<area shape="rect" id="node11" href="$d5/d43/classFairParSet.html#a45dc25195b0189db5bdb77853bb1f728" title="FairParSet::getInputVersion" alt="" coords="440,211,644,239"/>
+<area shape="rect" id="node12" href="$d5/d43/classFairParSet.html#a2400276a84a3873ae7dd7473cc36e7a5" title="FairParSet::setChanged" alt="" coords="453,263,631,291"/>
+<area shape="rect" id="node13" href="$d5/d43/classFairParSet.html#adcb7a7631899e6b79e6c742cdcf7b9cf" title="FairParSet::setInputVersion" alt="" coords="441,315,643,343"/>
+<area shape="rect" id="node5" href="$d7/d6f/classFairRuntimeDb.html#af14ab43468016601cc001506ad2d6bf8" title="FairRuntimeDb::getCurrentRun" alt="" coords="692,5,919,33"/>
+<area shape="rect" id="node6" href="$d0/d69/classFairParVersion.html#a00946ef314b160b20f1261c11995a2bb" title="FairParVersion::getInput\lVersion" alt="" coords="714,57,897,101"/>
+<area shape="rect" id="node7" href="$d6/de1/classFairRtdbRun.html#a0112134795f28b40a14b34f59822b40e" title="FairRtdbRun::getParVersion" alt="" coords="703,125,907,153"/>
+<area shape="rect" id="node8" href="$d0/d69/classFairParVersion.html#abd571251f3a7bffaf72c135872968fb1" title="FairParVersion::getRootVersion" alt="" coords="692,177,919,205"/>
+<area shape="rect" id="node9" href="$df/d13/classFairParRootFile.html#a2f13d8735080ca7af258cedb0a5e31c7" title="FairParRootFile::getRun" alt="" coords="717,229,893,257"/>
+<area shape="rect" id="node10" href="$d7/d6f/classFairRuntimeDb.html#a77b7484aa1515d1155dc2cf0654676ad" title="FairRuntimeDb::instance" alt="" coords="712,281,899,309"/>
+</map>

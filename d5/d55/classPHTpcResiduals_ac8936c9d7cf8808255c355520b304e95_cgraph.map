@@ -1,0 +1,15 @@
+<map id="PHTpcResiduals::processTracks" name="PHTpcResiduals::processTracks">
+<area shape="rect" id="node2" href="$d5/d55/classPHTpcResiduals.html#a6e163d71760e48576a4c57c90679dfed" title="PHTpcResiduals::processTrack" alt="" coords="285,169,511,197"/>
+<area shape="rect" id="node3" href="$d5/d55/classPHTpcResiduals.html#ac08b1a481cac7d0e7f0aafab6c780445" title="PHTpcResiduals::calculate\lTpcResiduals" alt="" coords="563,49,761,93"/>
+<area shape="rect" id="node9" href="$da/d81/classActsTrack.html#a1a4c1d9d8f3aebd1de5ffadaede4b5e3" title="ActsTrack::getSourceLinks" alt="" coords="563,117,761,145"/>
+<area shape="rect" id="node10" href="$da/d81/classActsTrack.html#abb32bf427734cf34ea0b2424085384b2" title="ActsTrack::getTrackParams" alt="" coords="561,169,763,197"/>
+<area shape="rect" id="node11" href="$d5/d55/classPHTpcResiduals.html#ab6b2ec3bf35f3301aa4dc631217ab449" title="PHTpcResiduals::propagate\lTrackState" alt="" coords="559,273,765,317"/>
+<area shape="rect" id="node12" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="817,225,993,253"/>
+<area shape="rect" id="node4" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="850,5,961,33"/>
+<area shape="rect" id="node6" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="883,57,927,85"/>
+<area shape="rect" id="node7" href="$d5/d55/classPHTpcResiduals.html#a4e197a7a2cb08907aca5bbfd63546366" title="Gets distortion cell for identifying bins in TPC." alt="" coords="813,109,997,137"/>
+<area shape="rect" id="node5" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1045,5,1221,33"/>
+<area shape="rect" id="node8" href="$d1/d72/EIC-IR1-XX-v01a_8C.html#a3fd818ea23ff1d99b471adf13ea99242" title="ir" alt="" coords="1114,109,1153,137"/>
+<area shape="rect" id="node13" href="$da/d7b/namespaceActs.html#a9b4dee934b0b193d57604b19bc8cd527" title="get default debug output logger" alt="" coords="816,281,995,309"/>
+<area shape="rect" id="node14" href="$dd/d94/fun4all__tutorials_2blob_2master_2materialscan_2matscan_8C.html#a388f572c62279f839ee138a9afbdeeb5" title="print" alt="" coords="1107,281,1160,309"/>
+</map>

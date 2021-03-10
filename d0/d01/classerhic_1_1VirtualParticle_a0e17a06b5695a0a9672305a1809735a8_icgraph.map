@@ -1,0 +1,12 @@
+<map id="erhic::VirtualParticle::GetVertex" name="erhic::VirtualParticle::GetVertex">
+<area shape="rect" id="node2" href="$d0/dec/classSmear_1_1PlanarTracker.html#ad535e2c22f8f02466450a8304a07d429" title="Smear::PlanarTracker\l::ComputeIntersectionWithPlane" alt="" coords="215,5,455,49"/>
+<area shape="rect" id="node3" href="$d5/d39/classSmear_1_1RadialTracker.html#a4791bec8d7f268f70ec0812a539bdebb" title="Smear::RadialTracker\l::ComputeIntersectionWithPlane" alt="" coords="215,73,455,117"/>
+<area shape="rect" id="node9" href="$d5/d39/classSmear_1_1RadialTracker.html#af1e1b3a13ea0e23aafd2122138fbd623" title="Smear::RadialTracker\l::ComputeIntersectionWithRadius" alt="" coords="211,141,459,185"/>
+<area shape="rect" id="node10" href="$d0/dec/classSmear_1_1PlanarTracker.html#a93d41c67214230bcd9e3c3ba839d0255" title="Smear::PlanarTracker\l::ComputeIntersectionWithRadius" alt="" coords="211,209,459,253"/>
+<area shape="rect" id="node11" href="$dd/df6/classEicEventGenerator.html#a40924445938964cff3db00bb4f59debe" title="EicEventGenerator::\lReadEvent" alt="" coords="257,277,413,321"/>
+<area shape="rect" id="node4" href="$d5/d39/classSmear_1_1RadialTracker.html#aeabeed6d9bd2ffce5fa48e77c59d7e20" title="Smear::RadialTracker\l::ComputePath" alt="" coords="507,108,672,152"/>
+<area shape="rect" id="node5" href="$d5/d39/classSmear_1_1RadialTracker.html#a18c56903bc8f7edcf7b1b6aa09a553aa" title="Smear::RadialTracker::L" alt="" coords="720,56,901,84"/>
+<area shape="rect" id="node6" href="$d5/d39/classSmear_1_1RadialTracker.html#a534f63c6a4360cf72d64313209b3a19e" title="Smear::RadialTracker\l::LPrime" alt="" coords="728,108,893,152"/>
+<area shape="rect" id="node7" href="$d5/d39/classSmear_1_1RadialTracker.html#a6577e19e4e72812d145e7ae1ad210f23" title="Smear::RadialTracker\l::NPoints" alt="" coords="949,139,1115,183"/>
+<area shape="rect" id="node8" href="$d5/d39/classSmear_1_1RadialTracker.html#accbb0594f48ef39a9b7297c98d18a735" title="Smear::RadialTracker\l::Accepts" alt="" coords="1163,139,1328,183"/>
+</map>

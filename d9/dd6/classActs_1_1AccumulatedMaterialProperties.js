@@ -1,0 +1,25 @@
+var classActs_1_1AccumulatedMaterialProperties =
+[
+    [ "AccumulatedMaterialProperties", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#acb8515c6ca179db97dea15ffcfc54158", null ],
+    [ "~AccumulatedMaterialProperties", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a8584c786bb86101ad0aeeac121a7f59d", null ],
+    [ "AccumulatedMaterialProperties", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a24d6699b40eb8453baa126a934c4f5fd", null ],
+    [ "AccumulatedMaterialProperties", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#aeac3d4e87a51d76cd7632214baea489f", null ],
+    [ "accumulate", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a28e9e0c64fdcd2a904334c82c61568c0", null ],
+    [ "operator=", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a83663ed85d0a3ea80dbeee4d25df781e", null ],
+    [ "operator=", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a99746f524af7ec8fa9684933029c8d7a", null ],
+    [ "totalAverage", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a64d8e5ae46a4ac53db90ce5ae428b021", null ],
+    [ "trackAverage", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a06084dacae4a2326f8aaf345dd8321da", null ],
+    [ "m_eventAr", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a8478f50ca4b1e9f6c56877e26dd5938d", null ],
+    [ "m_eventPath", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a257e81660ac2ca91221b5069b6c51a99", null ],
+    [ "m_eventPathCorrection", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a87021a629cf6947e44c469324727b802", null ],
+    [ "m_eventPathInL0", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#adee1d4b1a7a8b50b1efafad35a139a93", null ],
+    [ "m_eventPathInX0", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a5030a9fb6132a64de9d6fe075ca9ca6d", null ],
+    [ "m_eventRho", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#ad60c8229322a72a09aa778f1e4255225", null ],
+    [ "m_eventZ", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#ae1353784939108ae9ec00c1b37ec83ad", null ],
+    [ "m_totalAr", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a799ec93dc0be7411eae1bcbdad78815b", null ],
+    [ "m_totalEvents", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#add1ead683a45309fc3bf69cbdfc987de", null ],
+    [ "m_totalPathInL0", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#ad03e2139006ed350cd19b6f4f6476bc2", null ],
+    [ "m_totalPathInX0", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#aa91263bd9e6dce281db0aa6a76b5cea1", null ],
+    [ "m_totalRho", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a8425c74a5e9f2ccaad627f52aacee4a8", null ],
+    [ "m_totalZ", "d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a80a639f310ed89a6470b9aa297e4b6aa", null ]
+];

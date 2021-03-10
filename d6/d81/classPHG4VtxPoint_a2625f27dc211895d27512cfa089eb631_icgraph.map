@@ -1,0 +1,16 @@
+<map id="PHG4VtxPoint::get_t" name="PHG4VtxPoint::get_t">
+<area shape="rect" id="node2" href="$d8/d97/classTrackFastSimEval.html#a028f8bc89f4762789e280d64e7fcfe62" title="TrackFastSimEval::fill\l_track_tree" alt="" coords="246,5,410,49"/>
+<area shape="rect" id="node3" href="$d0/d71/classPHG4TrackFastSimEval.html#a52a746bdc6e84dc7886b5bae0b608e68" title="PHG4TrackFastSimEval\l::fill_track_tree" alt="" coords="241,73,415,117"/>
+<area shape="rect" id="node5" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="234,141,422,185"/>
+<area shape="rect" id="node7" href="$d6/d81/classPHG4VtxPoint.html#a77a792f28bd75c230a9539e0377e6dc5" title="comparison of vertex value only, not on the id, per algorithm requirement in PHG4TruthInfoContainer::..." alt="" coords="227,209,429,237"/>
+<area shape="rect" id="node8" href="$d1/d05/classQAG4SimulationVertex.html#a5d6b9df173a4094d3744572a9e2410d0" title="QAG4SimulationVertex\l::process_event" alt="" coords="240,261,416,305"/>
+<area shape="rect" id="node9" href="$d1/d89/classBbcVertexFastSimReco.html#acbf212b1bebbe61876b533e0cf5a2eab" title="BbcVertexFastSimReco\l::process_event" alt="" coords="241,329,415,373"/>
+<area shape="rect" id="node10" href="$da/d12/classGlobalVertexFastSimReco.html#aa847bedea594b6493608177209e39ddf" title="GlobalVertexFastSimReco\l::process_event" alt="" coords="231,397,425,441"/>
+<area shape="rect" id="node11" href="$d4/dc9/classPHG4DSTReader.html#aa32c5027cd9c3e4d667a0e84d7243412" title="event processing method" alt="" coords="231,465,425,509"/>
+<area shape="rect" id="node12" href="$dc/df2/classQAG4SimulationEicCalorimeter.html#ade1686e561df4333993efddce41c2953" title="QAG4SimulationEicCalorimeter\l::process_event_G4Hit" alt="" coords="212,533,444,577"/>
+<area shape="rect" id="node14" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a5b70cca03633b9708a6aea0b57e21272" title="QAG4SimulationCalorimeter\l::process_event_G4Hit" alt="" coords="222,601,434,645"/>
+<area shape="rect" id="node4" href="$d0/d71/classPHG4TrackFastSimEval.html#ab0136bd1d81150679effd3e148c3cfc4" title="PHG4TrackFastSimEval\l::process_event" alt="" coords="521,73,695,117"/>
+<area shape="rect" id="node6" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="520,141,696,185"/>
+<area shape="rect" id="node13" href="$dc/df2/classQAG4SimulationEicCalorimeter.html#a3220ddd743e97de1c108e1fc42692427" title="QAG4SimulationEicCalorimeter\l::process_event" alt="" coords="492,533,724,577"/>
+<area shape="rect" id="node15" href="$d9/d7b/classQAG4SimulationCalorimeter.html#aa3467829c4182ba4e09f74fd8198cb28" title="QAG4SimulationCalorimeter\l::process_event" alt="" coords="502,601,714,645"/>
+</map>

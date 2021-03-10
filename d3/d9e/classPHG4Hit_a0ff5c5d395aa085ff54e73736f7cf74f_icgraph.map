@@ -1,0 +1,7 @@
+<map id="PHG4Hit::set_local_x" name="PHG4Hit::set_local_x">
+<area shape="rect" id="node2" href="$df/d3f/classPHG4SteppingAction.html#aea99a3121d5ff333ed1a6e7cfd7a0645" title="Extract local coordinate of the hit and save to PHG4Hit." alt="" coords="215,108,389,152"/>
+<area shape="rect" id="node3" href="$de/dea/classPHG4SpacalSteppingAction.html#a1c2df9729591e53ff47876e8e9359375" title="stepping action" alt="" coords="442,5,649,49"/>
+<area shape="rect" id="node4" href="$d4/d7a/classPHG4InttSteppingAction.html#acec226c7e487b48b0477e47f18560552" title="stepping action. This defines processing of a single step in a given volume" alt="" coords="453,73,637,117"/>
+<area shape="rect" id="node5" href="$d8/d10/classPHG4EICMvtxSteppingAction.html#ab3c497977619323e39bd4e1e1a6fe654" title="stepping action" alt="" coords="437,141,653,185"/>
+<area shape="rect" id="node6" href="$d1/d77/classPHG4MvtxSteppingAction.html#ac3767340e8508dc30b0eea8bc3620c15" title="stepping action" alt="" coords="449,209,642,253"/>
+</map>

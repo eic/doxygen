@@ -1,0 +1,51 @@
+<map id="MakeActsGeometry::buildAllGeometry" name="MakeActsGeometry::buildAllGeometry">
+<area shape="rect" id="node2" href="$da/db1/classMakeActsGeometry.html#a6f8433331336def2c6ea713b281da9ed" title="Silicon layers made by BuildSiliconLayers and its helper functions." alt="" coords="268,764,491,808"/>
+<area shape="rect" id="node16" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="1240,1000,1416,1028"/>
+<area shape="rect" id="node17" href="$da/db1/classMakeActsGeometry.html#a4cfa8e984738b3d31fabe776eef7366e" title="Create New nodes." alt="" coords="908,1876,1111,1920"/>
+<area shape="rect" id="node24" href="$da/db1/classMakeActsGeometry.html#af83635dc26165004c52f8bc8260a4b88" title="MakeActsGeometry::editTPCGeometry" alt="" coords="543,1444,823,1472"/>
+<area shape="rect" id="node41" href="$d2/da1/classPHGeomUtility.html#aaa34b2cff253bbdae62673e7f68e091c" title="DST node &#45;&gt; TGeoManager &#45;&gt; export files, like gdml, .root or .C formats." alt="" coords="264,1600,495,1628"/>
+<area shape="rect" id="node42" href="$da/db1/classMakeActsGeometry.html#ae7edb37e3cecad3ff0a12590a7ad1ac0" title="Get all the nodes." alt="" coords="267,1431,492,1459"/>
+<area shape="rect" id="node46" href="$da/db1/classMakeActsGeometry.html#a4fd2c0ddf3ddceb36ae2418a310adc63" title="Makes map of TrkrHitSetKey&lt;–&gt;TGeoNode." alt="" coords="566,852,799,896"/>
+<area shape="rect" id="node3" href="$da/db1/classMakeActsGeometry.html#a0a3e4f327303d53117efefac7463c669" title="Function that mimics ActsFW::GeometryExampleBase." alt="" coords="550,381,815,409"/>
+<area shape="rect" id="node14" href="$d3/d9b/namespacenlohmann.html#a6ce645a0b8717757e096a5b5773b7a16" title="user&#45;defined to_string function for JSON values" alt="" coords="931,657,1088,685"/>
+<area shape="rect" id="node4" href="$d6/d55/namespaceFW_1_1Options.html#aff334d85da454b0e8ba3582ed31f9359" title="FW::Options::makeDefault\lOptions" alt="" coords="910,57,1109,101"/>
+<area shape="rect" id="node5" href="$d6/d55/namespaceFW_1_1Options.html#ae1ce2e4db604849fc520012e78d8a476" title="Add common geometry&#45;related options." alt="" coords="907,125,1112,169"/>
+<area shape="rect" id="node6" href="$d6/d55/namespaceFW_1_1Options.html#a61db487f0d3c98c0ce3d60454bd8996d" title="Add common material&#45;related options." alt="" coords="913,193,1105,237"/>
+<area shape="rect" id="node7" href="$d6/d55/namespaceFW_1_1Options.html#af94cc4c2dc19dbd7ebed2a39a131edbe" title="FW::Options::addObjWriter\lOptions" alt="" coords="908,261,1111,305"/>
+<area shape="rect" id="node8" href="$d6/d55/namespaceFW_1_1Options.html#a4de04c7095cf34079cb7eaa38d7965b2" title="Add common output&#45;related options." alt="" coords="891,329,1127,357"/>
+<area shape="rect" id="node9" href="$d6/d55/namespaceFW_1_1Options.html#ac891c6fc87677a259412d298a991c641" title="FW::Options::addBFieldOptions" alt="" coords="894,381,1125,409"/>
+<area shape="rect" id="node10" href="$df/d4b/namespaceeicpy_1_1build.html#ae8d61caea5ec1f184431e08df6b981b4" title="eicpy.build.parse" alt="" coords="942,433,1077,461"/>
+<area shape="rect" id="node11" href="$d9/d8b/build_8cxx.html#a7e405971f86730952f175f9d706988dc" title="build" alt="" coords="982,485,1037,513"/>
+<area shape="rect" id="node12" href="$d6/d55/namespaceFW_1_1Options.html#a776cec7f66a21c691727a431a56e8e7a" title="FW::Options::readBField" alt="" coords="918,537,1101,565"/>
+<area shape="rect" id="node13" href="$da/d7b/namespaceActs.html#a9b4dee934b0b193d57604b19bc8cd527" title="get default debug output logger" alt="" coords="920,5,1099,33"/>
+<area shape="rect" id="node15" href="$da/db1/classMakeActsGeometry.html#a6c06c33bcf0b960a5848047dfc80e54e" title="MakeActsGeometry::unpack\lVolumes" alt="" coords="904,589,1115,633"/>
+<area shape="rect" id="node18" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="1234,1803,1422,1831"/>
+<area shape="rect" id="node21" href="$d5/dca/classPHCompositeNode.html#a15a0c4804399a9de4267647f05bd1ba4" title="PHCompositeNode::addNode" alt="" coords="1220,1884,1436,1912"/>
+<area shape="rect" id="node19" href="$dc/d82/classPHNode.html#a4ab1f90aed955a652813bfe377087bda" title="PHNode::getType" alt="" coords="1531,1780,1668,1808"/>
+<area shape="rect" id="node20" href="$dc/d82/classPHNode.html#aca3576f926a4401eddc3d88bf0ce0de3" title="PHNode::getName" alt="" coords="1527,1832,1672,1860"/>
+<area shape="rect" id="node22" href="$dc/d82/classPHNode.html#adda2bd6cef2d5067bbe3016a990b7198" title="PHNode::setParent" alt="" coords="1525,1936,1673,1964"/>
+<area shape="rect" id="node23" href="$d6/d86/classPHPointerList.html#ac2176735e9d046a034f1686fd2c477eb" title="PHPointerList::append" alt="" coords="1514,1884,1685,1912"/>
+<area shape="rect" id="node25" href="$d2/da1/classPHGeomUtility.html#a93ec483f3447fdefc3a471601fc8587b" title="Get non&#45;persistent PHGeomTGeo from DST nodes. If not found, make a new one." alt="" coords="878,1720,1141,1748"/>
+<area shape="rect" id="node26" href="$d7/d6d/classPHGeomTGeo.html#a69190f7dbaee394d90516bce19e224a0" title="isValid returns non zero if object contains vailid data" alt="" coords="925,1392,1093,1420"/>
+<area shape="rect" id="node29" href="$d7/d6d/classPHGeomTGeo.html#af0772491188524c7674c1ef004d49ad5" title="Clear Event." alt="" coords="928,1444,1091,1472"/>
+<area shape="rect" id="node30" href="$d2/da1/classPHGeomUtility.html#a66cd62a2044016ba39bcb70730ef1985" title="Get persistent PHGeomIOTGeo from DST nodes. If not found, make a new one." alt="" coords="871,1772,1148,1800"/>
+<area shape="rect" id="node31" href="$de/de3/classPHGeomIOTGeo.html#a5157ac79fb48b855569c1da185511568" title="isValid returns non zero if object contains vailid data" alt="" coords="1508,1599,1691,1627"/>
+<area shape="rect" id="node32" href="$de/de3/classPHGeomIOTGeo.html#a62a04582c3dd54b46ce9a9814d078ba9" title="Construct TGeoManager. The result TGeoManager is not yet closed and open for further editing..." alt="" coords="890,1600,1129,1644"/>
+<area shape="rect" id="node34" href="$d7/d6d/classPHGeomTGeo.html#a8b2df41583e27a653458c6aae76a2926" title="PHGeomTGeo::SetGeometry" alt="" coords="903,1496,1116,1524"/>
+<area shape="rect" id="node36" href="$da/db1/classMakeActsGeometry.html#acc43e7ba20a2f7818596516f015624ef" title="MakeActsGeometry::addActs\lTpcSurfaces" alt="" coords="902,1272,1117,1316"/>
+<area shape="rect" id="node38" href="$da/db1/classMakeActsGeometry.html#a76b26a32d38dc1dd23c73c4feb05780f" title="MakeActsGeometry::addActs\lMicromegasSurfaces" alt="" coords="902,1204,1117,1248"/>
+<area shape="rect" id="node39" href="$d2/da1/classPHGeomUtility.html#a086be41b0d15f1b2e2c50836a5d73728" title="PHGeomUtility::UpdateIONode" alt="" coords="896,1668,1123,1696"/>
+<area shape="rect" id="node27" href="$d7/d6d/classPHGeomTGeo.html#af37739b87530fe2bbd5d8d03098c1821" title="PHGeomTGeo::ConsistencyCheck" alt="" coords="1204,1392,1452,1420"/>
+<area shape="rect" id="node28" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="1576,980,1623,1008"/>
+<area shape="rect" id="node33" href="$de/de3/classPHGeomIOTGeo.html#adce46bab9f88201797e891b51292e9ae" title="PHGeomIOTGeo::GetGeometryCopy" alt="" coords="1196,1651,1460,1679"/>
+<area shape="rect" id="node35" href="$df/de1/g_8f.html#ab66fda597951401eedd2aa690ea3efb3" title="g" alt="" coords="1309,1496,1347,1524"/>
+<area shape="rect" id="node37" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="1306,1247,1350,1275"/>
+<area shape="rect" id="node40" href="$de/de3/classPHGeomIOTGeo.html#a780a0b071aee001508b1dffffdbf078d" title="PHGeomIOTGeo do NOT own this TGeoVolume * g. Internally, it will use g to make a copy which PHGeomIOT..." alt="" coords="1214,1703,1442,1731"/>
+<area shape="rect" id="node43" href="$d2/da1/classPHGeomUtility.html#aa80925b14430021ea70d0b906af8e885" title="Main user interface: DST node &#45;&gt; TGeoManager for downstream use." alt="" coords="559,1365,806,1393"/>
+<area shape="rect" id="node45" href="$da/dc3/namespacefindNode.html#af4793f47e215cb6b0d51e0a9303a4382" title="findNode::getClass" alt="" coords="608,1496,757,1524"/>
+<area shape="rect" id="node44" href="$d7/d6d/classPHGeomTGeo.html#a3e111f6229f7ce6392b14a98fdf5bea9" title="PHGeomTGeo::GetGeometry" alt="" coords="901,1340,1117,1368"/>
+<area shape="rect" id="node47" href="$d9/d66/tpc_8C.html#ab423a18ea04a750c739676903c95ff3a" title="tpc" alt="" coords="1307,759,1349,787"/>
+<area shape="rect" id="node48" href="$da/db1/classMakeActsGeometry.html#a6a0df6f2c9c54155c51979f2a11dc2db" title="MakeActsGeometry::getMvtx\lKeyFromNode" alt="" coords="901,881,1117,925"/>
+<area shape="rect" id="node49" href="$da/db1/classMakeActsGeometry.html#aaa76791eb3537091abf15be6d1eb58dc" title="Get hitsetkey from TGeoNode for each detector geometry." alt="" coords="906,761,1113,805"/>
+<area shape="rect" id="node50" href="$da/db1/classMakeActsGeometry.html#a88a0041b4b28fb24ba16ecbc6f78b098" title="Helper diagnostic function for identifying active layers in subdetectors." alt="" coords="903,829,1116,857"/>
+</map>

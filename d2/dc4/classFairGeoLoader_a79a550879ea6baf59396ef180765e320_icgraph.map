@@ -1,0 +1,32 @@
+<map id="FairGeoLoader::Instance" name="FairGeoLoader::Instance">
+<area shape="rect" id="node2" href="$d4/d06/classFairModule.html#ad01c5b285d27bb124439ad2a6de3c9e3" title="FairModule::AssignMedium\lAtImport" alt="" coords="253,193,455,237"/>
+<area shape="rect" id="node4" href="$dd/dac/classEicDetector.html#a52d5d3a030ed4ab74e36989b4a563f73" title="EicDetector::ConstructGeometry" alt="" coords="1147,77,1387,105"/>
+<area shape="rect" id="node6" href="$d6/d57/classPndPipe.html#a28d594a278bba4911bc3bdb441007b69" title="PndPipe::ConstructGeometry" alt="" coords="1159,231,1375,259"/>
+<area shape="rect" id="node9" href="$d1/d75/PndCave_8cxx.html#a159adab26413f627a972bd6e43ae4765" title="ClassImp" alt="" coords="313,468,395,496"/>
+<area shape="rect" id="node10" href="$df/d89/classPndMagnet.html#a24b61340759fdef8d1ab340f631f00b0" title="PndMagnet::ConstructASCIIGeometry" alt="" coords="825,116,1099,144"/>
+<area shape="rect" id="node11" href="$d8/dd9/classCbmRich.html#a4da15c82f4256a1d985899fd00400299" title="Construct geometry from ASCII file. Supported structure for the mirrors are added on a fly..." alt="" coords="835,403,1089,431"/>
+<area shape="rect" id="node12" href="$d8/dd9/classCbmRich.html#a35cf8e11a842a80859575120f7cd9b40" title="Construct geometry from GDML file." alt="" coords="519,339,777,367"/>
+<area shape="rect" id="node13" href="$d0/d81/classPndTarget.html#a663bbcf65595d98eab33cf402ddfe74f" title="PndTarget::ConstructGeometry" alt="" coords="239,520,469,548"/>
+<area shape="rect" id="node14" href="$d8/def/classFairMCApplication.html#a5f18bcec413ca11f81f07f1f0eec28f9" title="FairMCApplication::\lConstructOpGeometry" alt="" coords="267,572,441,616"/>
+<area shape="rect" id="node15" href="$de/dff/classPndGeoPipe.html#ae9c86e7d40edfd32b86164f4fb09daef" title="PndGeoPipe::create" alt="" coords="277,640,431,668"/>
+<area shape="rect" id="node16" href="$df/de0/classEicGeoParData.html#af8e11f1e854d2bbd845f030f659a5de2" title="EicGeoParData::EicGeoParData" alt="" coords="239,692,469,720"/>
+<area shape="rect" id="node17" href="$d8/dd9/classCbmRich.html#a7a04c2f3124c138d4a8b01a83d4d445a" title="Assign materials by taking description from medoa.geo and not from GDML for a certain node..." alt="" coords="237,364,471,392"/>
+<area shape="rect" id="node18" href="$de/dd6/classEicMediaHub.html#a636258f5d2ed79810741b82724945302" title="EicMediaHub::Init" alt="" coords="284,744,424,772"/>
+<area shape="rect" id="node3" href="$d4/d06/classFairModule.html#a59c72f749fdc3bfbcb1505732936ae89" title="FairModule::ConstructRoot\lGeometry" alt="" coords="862,184,1062,228"/>
+<area shape="rect" id="node8" href="$d4/d06/classFairModule.html#a703a2ae06f62ae87b43a332c913526e3" title="FairModule::ExpandNode" alt="" coords="553,159,743,187"/>
+<area shape="rect" id="node5" href="$df/d89/classPndMagnet.html#aff982bc9f85e558cbd4552add14d811c" title="PndMagnet::ConstructGeometry" alt="" coords="1147,171,1386,199"/>
+<area shape="rect" id="node7" href="$d8/dd9/classCbmRich.html#a3d1883ed88870fa1325c79d6c508242e" title="Construct geometry. Currently ROOT and ASCII formats are supported. The concrete method for geometry ..." alt="" coords="1155,339,1378,367"/>
+<area shape="rect" id="node19" href="$d3/d74/classEicCadWizard.html#a9460bc1e33f37cde74228402569b31b8" title="EicCadWizard::AssembleRoot\lFiles" alt="" coords="539,540,757,584"/>
+<area shape="rect" id="node20" href="$d6/dbc/classEicBeamLineElementMap.html#a2757470ea50fd55ac8fb552f7a6dee9d" title="EicBeamLineElementMap\l::ConstructGeometry" alt="" coords="551,608,745,652"/>
+<area shape="rect" id="node21" href="$d0/d93/classEicBeamLineElementGrad.html#aeba5efba31abc7f8014aad083b727808" title="EicBeamLineElementGrad\l::ConstructGeometry" alt="" coords="549,676,747,720"/>
+<area shape="rect" id="node22" href="$d8/d7b/classEicCadFile.html#a8e8bf4dd75c81efa51b8bc49696ff960" title="EicCadFile::ConstructGeometry" alt="" coords="532,744,764,772"/>
+<area shape="rect" id="node23" href="$d3/d74/classEicCadWizard.html#a49e48737f82f804deb1834754213f6c0" title="EicCadWizard::CreateBoolean\lSolidRootFile" alt="" coords="537,864,759,908"/>
+<area shape="rect" id="node30" href="$d3/d74/classEicCadWizard.html#a2c043cddfa85265bc3d030b949a9255f" title="EicCadWizard::CreateGhost\lSolidRootFile" alt="" coords="544,932,752,976"/>
+<area shape="rect" id="node31" href="$d3/d74/classEicCadWizard.html#aa3d8913ceadf362918c9dfa6e5768fa5" title="EicCadWizard::CreateStlSolid\lRootFile" alt="" coords="539,796,757,840"/>
+<area shape="rect" id="node24" href="$d3/d74/classEicCadWizard.html#a934e44248a9b831031244e8f677192ab" title="EicCadWizard::FaceGuided\lSplit" alt="" coords="861,864,1063,908"/>
+<area shape="rect" id="node25" href="$d3/d74/classEicCadWizard.html#ae20efc31d935163c847571a258d9f5da" title="EicCadWizard::ConvertSource\lFileToRoot" alt="" coords="1156,864,1377,908"/>
+<area shape="rect" id="node26" href="$d3/d74/classEicCadWizard.html#a755802c1852cc16497c285ffff5f9ed9" title="EicCadWizard::ConvertSource\lDirectoryToRoot" alt="" coords="1435,796,1656,840"/>
+<area shape="rect" id="node27" href="$d3/d74/classEicCadWizard.html#a006a3271b204498a10bb4b15e45c5a61" title="EicCadWizard::FlatSurface\lSplit" alt="" coords="1704,895,1903,939"/>
+<area shape="rect" id="node28" href="$d3/d74/classEicCadWizard.html#a96164b69291586bf689c5e002a1257d2" title="EicCadWizard::ConvertSource\lFilesToRoot" alt="" coords="1435,932,1656,976"/>
+<area shape="rect" id="node29" href="$d3/d74/classEicCadWizard.html#a8c9200680c7b255518246d67c872309b" title="EicCadWizard::ConvertSource\lFileToRoot" alt="" coords="1435,864,1656,908"/>
+</map>

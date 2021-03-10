@@ -1,0 +1,25 @@
+var classThreeDeePolySpace =
+[
+    [ "ThreeDeePolySpace", "d0/d93/classThreeDeePolySpace.html#a89d30a37ae6e89888a8a86e845d385a6", null ],
+    [ "buildBasisGradients", "d0/d93/classThreeDeePolySpace.html#a01ef7e1bb0d8fbd89009a8f5b0b775b1", null ],
+    [ "buildOrthogonalPolynomials", "d0/d93/classThreeDeePolySpace.html#ae0f23a3610b604f0a10cb60b99c86bda", null ],
+    [ "calculateFittingPolynomial", "d0/d93/classThreeDeePolySpace.html#a20f9cfdc0b9d9d829928bd621509f2e0", null ],
+    [ "getNaivePolyFitError", "d0/d93/classThreeDeePolySpace.html#a540bb62459a23c3470dce4d163526a5d", null ],
+    [ "getNDF", "d0/d93/classThreeDeePolySpace.html#a1e04e3d9ddf96c0b042a87d228fd646b", null ],
+    [ "getPolyFitChiSquare", "d0/d93/classThreeDeePolySpace.html#a53b9e8bbc55b3fbcadd27e33834f7b35", null ],
+    [ "getRealisticPolyFitError", "d0/d93/classThreeDeePolySpace.html#ab8d9090904b0ac149af4bc7ddf80e37d", null ],
+    [ "polyCopy", "d0/d93/classThreeDeePolySpace.html#aa015c18361d0a659df25d4b130a4c395", null ],
+    [ "polyProduct", "d0/d93/classThreeDeePolySpace.html#a923d8e3dd60f4b49cab0a5a7151b8fde", null ],
+    [ "polyProjection", "d0/d93/classThreeDeePolySpace.html#ad02a54c7106ba9dcf577f953c7c0ee45", null ],
+    [ "ThreeDeePolynomial", "d0/d93/classThreeDeePolySpace.html#af658ccfe438b5d1f75b4acc6529dd296", null ],
+    [ "_max_power", "d0/d93/classThreeDeePolySpace.html#aa4268a877062202c232ef1cb47b22d49", null ],
+    [ "basis", "d0/d93/classThreeDeePolySpace.html#a704812ad3714839468c708609c023e8b", null ],
+    [ "buffer", "d0/d93/classThreeDeePolySpace.html#ae8dfedffd1601784d73b1dd20edc748c", null ],
+    [ "dbasis", "d0/d93/classThreeDeePolySpace.html#a574f4057599e7ff2ffe6e21fb7293c8b", null ],
+    [ "degrees_of_freedom", "d0/d93/classThreeDeePolySpace.html#add19fbe888fa99a313d1fd8ee6f2d45e", null ],
+    [ "dim", "d0/d93/classThreeDeePolySpace.html#aee84a81e84c593bcbb18d84f3fc3ee7b", null ],
+    [ "norm_cutoff", "d0/d93/classThreeDeePolySpace.html#a7c9c2465d8f36f862d9c083fead33142", null ],
+    [ "parity", "d0/d93/classThreeDeePolySpace.html#a44eeb4158274edd3a45cedbd4262f36a", null ],
+    [ "point_num", "d0/d93/classThreeDeePolySpace.html#a2d9bf2943d6cff77702c4d696b00aafc", null ],
+    [ "points", "d0/d93/classThreeDeePolySpace.html#a7e9475c1ba848189896460fd2c535007", null ]
+];

@@ -1,0 +1,34 @@
+<map id="FairRuntimeDb::saveOutput" name="FairRuntimeDb::saveOutput">
+<area shape="rect" id="node2" href="$d7/d6f/classFairRuntimeDb.html#a48842d20d929a6250109fe043b9ed0b1" title="FairRuntimeDb::writeContainers" alt="" coords="263,580,499,608"/>
+<area shape="rect" id="node33" href="$d7/d6f/classFairRuntimeDb.html#a966b9d7531a955ae1fe353868385fe7d" title="FairRuntimeDb::writeVersions" alt="" coords="551,733,771,761"/>
+<area shape="rect" id="node3" href="$d6/de1/classFairRtdbRun.html#a84e9fd0bcf803f44bdc0ebe27b8319fb" title="FairRtdbRun::getRefRun" alt="" coords="571,580,752,608"/>
+<area shape="rect" id="node4" href="$d7/d6f/classFairRuntimeDb.html#afbdff6a74bc3fd8ea277f201c86c070e" title="FairRuntimeDb::writeContainer" alt="" coords="547,400,776,428"/>
+<area shape="rect" id="node5" href="$db/da1/classFairLogger.html#a710e562aaff33766e424013a77d9cb77" title="FairLogger::Debug" alt="" coords="1139,652,1283,680"/>
+<area shape="rect" id="node16" href="$d6/de1/classFairRtdbRun.html#a0112134795f28b40a14b34f59822b40e" title="FairRtdbRun::getParVersion" alt="" coords="1109,177,1313,205"/>
+<area shape="rect" id="node17" href="$d7/d6f/classFairRuntimeDb.html#a27bd2cdac008185e2bd75138c2693c4b" title="FairRuntimeDb::getOutput" alt="" coords="1111,728,1310,756"/>
+<area shape="rect" id="node19" href="$d0/d2e/classFairParIo.html#a30f3934a6f240e885923eab5f6ffbad0" title="FairParIo::check" alt="" coords="873,708,1001,736"/>
+<area shape="rect" id="node20" href="$d0/d2e/classFairParIo.html#a7b02d6df86044bfa4c7a0ba00e126cc2" title="FairParIo::isAutoWritable" alt="" coords="843,348,1030,376"/>
+<area shape="rect" id="node21" href="$d5/d43/classFairParSet.html#a151af5f70ca4c6d3d0adfa9f9d39d47b" title="FairParSet::hasChanged" alt="" coords="1120,229,1301,257"/>
+<area shape="rect" id="node22" href="$d7/d6f/classFairRuntimeDb.html#aef597e0d883da0605eef5f4e5ae79cc0" title="FairRuntimeDb::findOutput\lVersion" alt="" coords="835,280,1038,324"/>
+<area shape="rect" id="node24" href="$d5/d43/classFairParSet.html#a45dc25195b0189db5bdb77853bb1f728" title="FairParSet::getInputVersion" alt="" coords="1109,361,1313,389"/>
+<area shape="rect" id="node25" href="$d0/d69/classFairParVersion.html#abd571251f3a7bffaf72c135872968fb1" title="FairParVersion::getRootVersion" alt="" coords="1097,437,1324,465"/>
+<area shape="rect" id="node26" href="$d5/d43/classFairParSet.html#aeae4eb257e3dbbd834bec68f1c5260bd" title="FairParSet::write" alt="" coords="871,553,1002,581"/>
+<area shape="rect" id="node29" href="$db/da1/classFairLogger.html#a3ebc5751836771a50a11e0e2491a9f68" title="FairLogger::Info" alt="" coords="1148,496,1273,524"/>
+<area shape="rect" id="node30" href="$d0/d69/classFairParVersion.html#a84cd69ecc424fb78cb5c347e79d95635" title="FairParVersion::setRootVersion" alt="" coords="824,5,1049,33"/>
+<area shape="rect" id="node31" href="$d0/d69/classFairParVersion.html#ac2c4f60b46203b4aca783c9730649db5" title="FairParVersion::setInput\lVersion" alt="" coords="846,57,1027,101"/>
+<area shape="rect" id="node32" href="$d5/d43/classFairParSet.html#a2400276a84a3873ae7dd7473cc36e7a5" title="FairParSet::setChanged" alt="" coords="847,125,1026,153"/>
+<area shape="rect" id="node6" href="$db/da1/classFairLogger.html#ae5a926d95789678b453cbb45e0a9a46e" title="FairLogger::IsLogNeeded" alt="" coords="1372,575,1559,603"/>
+<area shape="rect" id="node7" href="$db/da1/classFairLogger.html#aa9d98b58fab95abcf553dfefe1e572f5" title="FairLogger::Log" alt="" coords="1403,523,1527,551"/>
+<area shape="rect" id="node8" href="$db/da1/classFairLogger.html#a496d9b3f72963d24a58abc5a023b74b0" title="End of the line." alt="" coords="1652,471,1781,499"/>
+<area shape="rect" id="node13" href="$db/da1/classFairLogger.html#aeb76e4a75fe913ebdf1c07b5d1f3ac1b" title="FairLogger::GetOutputStream" alt="" coords="1607,523,1827,551"/>
+<area shape="rect" id="node14" href="$db/da1/classFairLogger.html#a5529c6ab25bc075aff767f30a743e616" title="FairLogger::OpenLogFile" alt="" coords="1891,575,2074,603"/>
+<area shape="rect" id="node9" href="$db/da1/classFairLogger.html#aca7a4fd0af5e622c9635f62996a7334d" title="Flush the streams." alt="" coords="2164,432,2297,460"/>
+<area shape="rect" id="node10" href="$db/da1/classFairLogger.html#a9848989e18afa7144b47ecc38b7bfe0e" title="FairLogger::LogFatalMessage" alt="" coords="1875,471,2091,499"/>
+<area shape="rect" id="node11" href="$db/da1/classFairLogger.html#a6fe59f109418f1331c91c39d0ea33c1d" title="FairLogger::GetTime" alt="" coords="2152,497,2309,525"/>
+<area shape="rect" id="node12" href="$df/da1/namespaceActs_1_1VectorHelpers.html#ab52a0c8023eda1c81cc9ddfe7f03b535" title="Access to the time component of input parameter." alt="" coords="2371,489,2525,533"/>
+<area shape="rect" id="node15" href="$db/da1/classFairLogger.html#a80d1ac93eff9a9b6d52f8118b8b796aa" title="FairLogger::CloseLogFile" alt="" coords="2139,575,2323,603"/>
+<area shape="rect" id="node18" href="$d0/d2e/classFairParIo.html#ab19a59d55983305c697e1ed88fa67c81" title="FairParIo::cd" alt="" coords="1414,767,1517,795"/>
+<area shape="rect" id="node23" href="$d0/d69/classFairParVersion.html#a00946ef314b160b20f1261c11995a2bb" title="FairParVersion::getInput\lVersion" alt="" coords="1119,281,1302,325"/>
+<area shape="rect" id="node27" href="$db/da1/classFairLogger.html#a739a5be0c6bd7cca187b192ae97353e4" title="FairLogger::Error" alt="" coords="1144,548,1277,576"/>
+<area shape="rect" id="node28" href="$d7/d6f/classFairRuntimeDb.html#a77b7484aa1515d1155dc2cf0654676ad" title="FairRuntimeDb::instance" alt="" coords="1117,600,1304,628"/>
+</map>

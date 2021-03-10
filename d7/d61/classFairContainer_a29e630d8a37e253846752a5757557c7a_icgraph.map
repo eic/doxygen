@@ -1,0 +1,51 @@
+<map id="FairContainer::getDefaultContext" name="FairContainer::getDefaultContext">
+<area shape="rect" id="node2" href="$df/db3/classFairContFact.html#ae0998ead179f3785429aede0de4f48b1" title="FairContFact::getContainer" alt="" coords="245,932,447,960"/>
+<area shape="rect" id="node43" href="$d7/d61/classFairContainer.html#a42b455939a5608740040ccf59b8f9cde" title="FairContainer::getContext" alt="" coords="249,1193,443,1221"/>
+<area shape="rect" id="node3" href="$d7/d6f/classFairRuntimeDb.html#abba88b5b8c7dc22de5a5d1136f0074fb" title="FairRuntimeDb::getContainer" alt="" coords="515,721,733,749"/>
+<area shape="rect" id="node4" href="$d4/d06/classFairModule.html#ac489f7e5ed92d2a4fdec5422d93bfa42" title="FairModule::ProcessNodes" alt="" coords="833,280,1030,308"/>
+<area shape="rect" id="node5" href="$dd/dac/classEicDetector.html#a52d5d3a030ed4ab74e36989b4a563f73" title="EicDetector::ConstructGeometry" alt="" coords="1126,176,1366,204"/>
+<area shape="rect" id="node6" href="$df/d89/classPndMagnet.html#a24b61340759fdef8d1ab340f631f00b0" title="PndMagnet::ConstructASCIIGeometry" alt="" coords="1109,228,1383,256"/>
+<area shape="rect" id="node8" href="$d0/d81/classPndTarget.html#a663bbcf65595d98eab33cf402ddfe74f" title="PndTarget::ConstructGeometry" alt="" coords="1131,280,1361,308"/>
+<area shape="rect" id="node9" href="$d8/dd9/classCbmRich.html#a4da15c82f4256a1d985899fd00400299" title="Construct geometry from ASCII file. Supported structure for the mirrors are added on a fly..." alt="" coords="1119,332,1373,360"/>
+<area shape="rect" id="node11" href="$de/da9/classFairRunAna.html#a52f4d86d087d13855edc6bd567373144" title="FairRunAna::Init" alt="" coords="867,435,996,463"/>
+<area shape="rect" id="node17" href="$de/da9/classFairRunAna.html#a28d7fa489d6f976721eb991c485dd8bf" title="FairRunAna::InitContainers" alt="" coords="831,487,1032,515"/>
+<area shape="rect" id="node19" href="$dd/dbc/classFairRunSim.html#ad054abd046776cbc896d264a4e62376f" title="FairRunSim::Init" alt="" coords="867,539,995,567"/>
+<area shape="rect" id="node23" href="$d6/da5/classPndConstField.html#a5b018afd061f98ace09c7b6ffcc10bb4" title="PndConstField::FillParContainer" alt="" coords="816,591,1047,619"/>
+<area shape="rect" id="node24" href="$d0/d68/classPndFieldCreator.html#a5d6b9bef1d25b125cc40fa3de4ae015f" title="PndFieldCreator::SetParm" alt="" coords="835,643,1027,671"/>
+<area shape="rect" id="node25" href="$d8/dba/classPndMultiField.html#ac69fa72af0f942762789a1051526fdd8" title="PndMultiField::FillParContainer" alt="" coords="1133,721,1359,749"/>
+<area shape="rect" id="node26" href="$db/db6/classPndMultiFieldPar.html#a178a1628f11ed63edc45e6b19f69bbad" title="PndMultiFieldPar::SetParameters" alt="" coords="811,747,1051,775"/>
+<area shape="rect" id="node27" href="$d2/da7/classPndTransMap.html#aead6262f16318d69cf6e61848fed1ae2" title="PndTransMap::FillParContainer" alt="" coords="819,799,1044,827"/>
+<area shape="rect" id="node28" href="$d7/d87/classPndRecoKalmanTask.html#a45c590c2e39d22c9081c99ac05608969" title="PndRecoKalmanTask::\lSetParContainers" alt="" coords="848,851,1015,895"/>
+<area shape="rect" id="node29" href="$d2/d28/classPndRecoMultiKalmanTask.html#a3dd7c6834316a08ff5476ab5e6b02a1f" title="PndRecoMultiKalmanTask\l::SetParContainers" alt="" coords="835,919,1028,963"/>
+<area shape="rect" id="node30" href="$d1/d75/PndCave_8cxx.html#a159adab26413f627a972bd6e43ae4765" title="ClassImp" alt="" coords="890,987,973,1015"/>
+<area shape="rect" id="node31" href="$d6/d57/classPndPipe.html#a28d594a278bba4911bc3bdb441007b69" title="PndPipe::ConstructGeometry" alt="" coords="823,1039,1039,1067"/>
+<area shape="rect" id="node32" href="$dd/d8c/classPndPidCorrelator.html#a881a7bf36452bd1e6dda90459f7dc9c5" title="PndPidCorrelator::SetPar\lContainers" alt="" coords="838,1091,1025,1135"/>
+<area shape="rect" id="node33" href="$d1/d76/classPndGeoHandling.html#a53907ee1ff57d005165aab6806ced668" title="PndGeoHandling::SetParContainers" alt="" coords="801,1159,1061,1187"/>
+<area shape="rect" id="node34" href="$d1/d76/classPndGeoHandling.html#ae9602cd2547aadf98a6a5ff07facabdc" title="PndGeoHandling::GetSensor\lNamePar" alt="" coords="824,1211,1039,1255"/>
+<area shape="rect" id="node36" href="$d1/d76/classPndGeoHandling.html#a515c1e905a19954fe4fa412f0a5670c3" title="PndGeoHandling::GetGeoManager" alt="" coords="804,1279,1059,1307"/>
+<area shape="rect" id="node37" href="$d8/dd9/classCbmRich.html#acfdf36680457256fe9962edffa205582" title="Initialize detector. Stores volume IDs for RICH detector and mirror." alt="" coords="858,1331,1005,1359"/>
+<area shape="rect" id="node38" href="$da/d9f/classCbmRichHitProducer.html#a75a24760a4caf3a4376c7c6e25a2603d" title="Inherited from FairTask." alt="" coords="851,1383,1012,1427"/>
+<area shape="rect" id="node39" href="$d5/d75/classCbmRichGeoTest.html#a605aae43befd4fe00d3c66f634d9efc0" title="SetParContainers." alt="" coords="801,1451,1061,1479"/>
+<area shape="rect" id="node40" href="$d5/d49/classCbmRichTestHits.html#a51cab36c52f50a736df3a2ea48338110" title="Inherited from FairTask." alt="" coords="801,5,1061,33"/>
+<area shape="rect" id="node41" href="$d7/dad/classCbmRichTestSim.html#a24bee8e3e3c46dbb16967e17b1c21480" title="Inherited from FairTask." alt="" coords="802,57,1061,85"/>
+<area shape="rect" id="node42" href="$d6/d73/classCbmRichProjectionProducer.html#a0740797455a2a45bb49c93daca1ecd35" title="Initialization of Parameter Containers." alt="" coords="827,109,1035,153"/>
+<area shape="rect" id="node7" href="$df/d89/classPndMagnet.html#aff982bc9f85e558cbd4552add14d811c" title="PndMagnet::ConstructGeometry" alt="" coords="1431,228,1669,256"/>
+<area shape="rect" id="node10" href="$d8/dd9/classCbmRich.html#a3d1883ed88870fa1325c79d6c508242e" title="Construct geometry. Currently ROOT and ASCII formats are supported. The concrete method for geometry ..." alt="" coords="1439,332,1661,360"/>
+<area shape="rect" id="node12" href="$dc/db9/classEicEventManager.html#a9d62fa56c5683f8af8fd9cefc54028a0" title="EicEventManager::Init" alt="" coords="1465,384,1635,412"/>
+<area shape="rect" id="node14" href="$d4/dc9/classEicRunAna.html#a40d043c91b72d8f50eb850be50fd06c1" title="EicRunAna::Init" alt="" coords="1184,436,1308,464"/>
+<area shape="rect" id="node16" href="$d9/da4/classFairEventManager.html#a781b12eb73b7c8175373776c6d5ac34e" title="FairEventManager::Init" alt="" coords="1159,488,1333,516"/>
+<area shape="rect" id="node13" href="$dc/db9/classEicEventManager.html#a395b5cf24061c5057ec29682319debf1" title="EicEventManager::Run" alt="" coords="1717,384,1891,412"/>
+<area shape="rect" id="node15" href="$d4/dc9/classEicRunAna.html#ae75870f13b97d83ea5f7f7218e94d6b5" title="EicRunAna::RunCoreStart" alt="" coords="1453,436,1647,464"/>
+<area shape="rect" id="node18" href="$d8/da7/classFairAnaSelector.html#ae4cc7c114a2ae1a59b3e3e8d7a078832" title="FairAnaSelector::Init" alt="" coords="1167,540,1325,568"/>
+<area shape="rect" id="node20" href="$d3/d61/classEicRunSim.html#a8753bc74b79c1b5c0c3dce2419672271" title="EicRunSim::Init" alt="" coords="1184,592,1308,620"/>
+<area shape="rect" id="node21" href="$d3/d61/classEicRunSim.html#ac3dc4b7912f3a0d7c501a203617fe508" title="EicRunSim::RunCoreStart" alt="" coords="1454,565,1646,593"/>
+<area shape="rect" id="node22" href="$d4/d1f/examples_2physics_2config_82_2simulation_8C.html#ac10f32ae478a1409f743cf125eeea582" title="simulation" alt="" coords="1504,617,1596,645"/>
+<area shape="rect" id="node35" href="$d1/d76/classPndGeoHandling.html#ab203f2bdaef048006850c0123480d3db" title="PndGeoHandling::PndGeoHandling" alt="" coords="1118,1248,1374,1276"/>
+<area shape="rect" id="node44" href="$db/d9b/classPndPassiveContFact.html#ac1aec2c0b957f1456dd557db136cd657" title="PndPassiveContFact\l::createContainer" alt="" coords="546,1245,702,1289"/>
+<area shape="rect" id="node45" href="$dd/dea/classCbmRichContFact.html#a0623d48b401da40b59b0312eb0bb116c" title="CbmRichContFact::createContainer" alt="" coords="495,1313,753,1341"/>
+<area shape="rect" id="node46" href="$d8/d24/classPndSensorNameContFact.html#acb507513928736c84522979da8b248eb" title="PndSensorNameContFact\l::createContainer" alt="" coords="528,1365,720,1409"/>
+<area shape="rect" id="node47" href="$d2/db3/classFairBaseContFact.html#aa4588a2e17d7bea461928ab43f344f53" title="FairBaseContFact::create\lContainer" alt="" coords="530,1057,718,1101"/>
+<area shape="rect" id="node48" href="$d4/d10/classPndFieldContFact.html#aec369cde2c8b11c02f3eacac76d03910" title="PndFieldContFact::create\lContainer" alt="" coords="530,1125,718,1169"/>
+<area shape="rect" id="node49" href="$dd/dac/classEicDetector.html#a752d4b9750405d9da8bb934accbf6acf" title="EicDetector::EicGeoParAllocator" alt="" coords="505,1193,743,1221"/>
+<area shape="rect" id="node50" href="$dc/d39/classEicContFact.html#a2f75e113cf702535d6fd04a34a5c8788" title="EicContFact::createContainer" alt="" coords="822,1503,1041,1531"/>
+</map>

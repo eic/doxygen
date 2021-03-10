@@ -1,0 +1,16 @@
+<map id="PHG4TpcElectronDrift" name="PHG4TpcElectronDrift">
+<area shape="rect" id="node2" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="1437,636,1539,664"/>
+<area shape="rect" id="node20" href="$da/d18/classPHG4TpcPadPlane.html" title="PHG4TpcPadPlane" alt="" coords="1786,569,1930,597"/>
+<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="947,671,1051,699"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="497,592,587,620"/>
+<area shape="rect" id="node9" href="$dd/dae/classPHParameters.html" title="PHParameters" alt="" coords="1119,320,1235,348"/>
+<area shape="rect" id="node26" href="$da/de9/classPHG4TpcDistortion.html" title="handle distortions (static and time&#45;ordered)" alt="" coords="1784,741,1932,769"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="178,584,321,628"/>
+<area shape="rect" id="node6" href="$d4/d31/classPHParameterInterface.html" title="PHParameterInterface" alt="" coords="1403,475,1573,503"/>
+<area shape="rect" id="node10" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="207,157,291,185"/>
+<area shape="rect" id="node14" href="$d5/d76/classTrkrHitSetContainer.html" title="TrkrHitSetContainer" alt="" coords="1780,245,1936,273"/>
+<area shape="rect" id="node16" href="$d9/dc1/classTrkrHitSet.html" title="Container for storing TrkrHit&#39;s." alt="" coords="1132,217,1221,245"/>
+<area shape="rect" id="node18" href="$da/d9b/classTrkrHit.html" title="Base class for hit object." alt="" coords="508,213,576,241"/>
+<area shape="rect" id="node22" href="$d7/d8d/classTrkrHitTruthAssoc.html" title="Association object for PHG4Cells contributiong to TrkrHits." alt="" coords="472,45,612,73"/>
+<area shape="rect" id="node11" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="5,157,81,185"/>
+</map>

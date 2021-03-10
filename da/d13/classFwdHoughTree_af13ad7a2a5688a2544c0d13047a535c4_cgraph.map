@@ -1,0 +1,5 @@
+<map id="FwdHoughTree::SetupTrackQualityIteration" name="FwdHoughTree::SetupTrackQualityIteration">
+<area shape="rect" id="node2" href="$d7/d9f/classEicHtcTask.html#a0940adb0b77c65cda4ce8086317a580f" title="EicHtcTask::GetKalmanFilter" alt="" coords="259,5,469,33"/>
+<area shape="rect" id="node3" href="$d4/d04/classFwdTrackFinder.html#aec4820a0faccce0750bd8ff380f47f6e" title="FwdTrackFinder::GetStored\lMinFilterChiSquareCCDF" alt="" coords="263,57,465,101"/>
+<area shape="rect" id="node4" href="$d6/d2a/classKalmanFilter.html#a384e01ba1145ed3b1754158c887bf755" title="KalmanFilter::SetMinFilter\lChiSquareCCDF" alt="" coords="267,125,461,169"/>
+</map>

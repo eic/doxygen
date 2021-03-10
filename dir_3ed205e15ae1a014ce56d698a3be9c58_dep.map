@@ -1,0 +1,40 @@
+<map id="fun4all_acts/blob/master/Examples/Detectors" name="fun4all_acts/blob/master/Examples/Detectors">
+<area shape="rect" id="node2" href="dir_29b09744e25000be1d1b9b6da7bd60ec.html" title="Common" alt="" coords="437,256,518,304"/>
+<area shape="rect" id="node9" href="dir_c65eeb9aac82dab5763821d9492b29c0.html" title="Framework" alt="" coords="817,256,913,304"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000305_000229.html" title="1" alt="" coords="795,264,803,280"/>
+<area shape="rect" id="node3" href="dir_3ca77a7510bc3321b3e0583beea5a23a.html" title="ContextualDetector" alt="" coords="521,64,674,112"/>
+<area shape="rect" id="edge23-headlabel" href="dir_000309_000305.html" title="2" alt="" coords="415,259,423,275"/>
+<area shape="rect" id="node6" href="dir_fc4cd61113844db28dc98e28df6b26a7.html" title="GenericDetector" alt="" coords="372,160,505,208"/>
+<area shape="rect" id="edge21-headlabel" href="dir_000309_000330.html" title="6" alt="" coords="495,150,503,166"/>
+<area shape="rect" id="node7" href="dir_f13c8ac091049d8b2cb4b168386bf7f6.html" title="MagneticField" alt="" coords="671,160,785,208"/>
+<area shape="rect" id="edge25-headlabel" href="dir_000309_000335.html" title="6" alt="" coords="681,134,689,150"/>
+<area shape="rect" id="edge22-headlabel" href="dir_000309_000229.html" title="9" alt="" coords="855,228,863,244"/>
+<area shape="rect" id="node10" href="dir_9f1c200d5219d842a9d73693b28d2ee6.html" title="Plugins" alt="" coords="937,256,1009,304"/>
+<area shape="rect" id="edge24-headlabel" href="dir_000309_000433.html" title="4" alt="" coords="941,229,949,245"/>
+<area shape="rect" id="node11" href="dir_edb9e86a382853b528ab6d291cec6611.html" title="Core" alt="" coords="883,352,955,400"/>
+<area shape="rect" id="edge26-headlabel" href="dir_000309_000207.html" title="20" alt="" coords="966,368,983,384"/>
+<area shape="rect" id="node4" href="dir_f809a56073a9e09dcf5ce17e6817c7ca.html" title="DD4hepDetector" alt="" coords="213,160,347,208"/>
+<area shape="rect" id="edge18-headlabel" href="dir_000314_000305.html" title="1" alt="" coords="420,236,428,252"/>
+<area shape="rect" id="edge17-headlabel" href="dir_000314_000229.html" title="5" alt="" coords="798,239,806,255"/>
+<area shape="rect" id="edge19-headlabel" href="dir_000314_000433.html" title="31" alt="" coords="913,239,931,255"/>
+<area shape="rect" id="edge20-headlabel" href="dir_000314_000207.html" title="22" alt="" coords="856,356,873,372"/>
+<area shape="rect" id="node5" href="dir_b341f271255ad560d88fe17a91dfffe5.html" title="EmptyDetector" alt="" coords="37,160,161,208"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000325_000305.html" title="1" alt="" coords="417,250,425,266"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000325_000229.html" title="2" alt="" coords="798,239,806,255"/>
+<area shape="rect" id="edge16-headlabel" href="dir_000325_000207.html" title="5" alt="" coords="861,358,869,374"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000330_000305.html" title="1" alt="" coords="465,227,473,243"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000330_000229.html" title="3" alt="" coords="798,239,806,255"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000330_000433.html" title="4" alt="" coords="918,239,926,255"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000330_000207.html" title="55" alt="" coords="856,358,873,374"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000335_000229.html" title="4" alt="" coords="817,230,825,246"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000335_000207.html" title="20" alt="" coords="966,365,983,381"/>
+<area shape="rect" id="node8" href="dir_53a0d4ad3d47b2620deafe0e7723723f.html" title="TGeoDetector" alt="" coords="529,160,647,208"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000341_000305.html" title="1" alt="" coords="520,242,528,258"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000341_000229.html" title="3" alt="" coords="799,240,807,256"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000341_000433.html" title="3" alt="" coords="919,239,927,255"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000341_000207.html" title="15" alt="" coords="966,363,983,379"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000229_000207.html" title="27" alt="" coords="895,323,912,339"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000433_000207.html" title="143" alt="" coords="936,332,962,348"/>
+<area shape="rect" id="clust2" href="dir_3ed205e15ae1a014ce56d698a3be9c58.html" alt="" coords="27,53,796,315"/>
+<area shape="rect" id="clust1" href="dir_93b3099a250e6c19c5354b90a704730c.html" title="Examples" alt="" coords="16,16,807,325"/>
+</map>

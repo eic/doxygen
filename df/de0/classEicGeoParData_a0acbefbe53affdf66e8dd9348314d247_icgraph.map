@@ -1,0 +1,14 @@
+<map id="EicGeoParData::GetDimCore" name="EicGeoParData::GetDimCore">
+<area shape="rect" id="node2" href="$df/de0/classEicGeoParData.html#aed0d58801aed7eb8c902fd2fc5eaab42" title="EicGeoParData::GetDim" alt="" coords="270,52,451,80"/>
+<area shape="rect" id="node7" href="$df/de0/classEicGeoParData.html#a843b72573096b22a19fd8d7745e26e79" title="EicGeoParData::GetDimX" alt="" coords="265,104,456,132"/>
+<area shape="rect" id="node12" href="$df/de0/classEicGeoParData.html#a318ae3fb437d7999163bfa8a9b7190d1" title="EicGeoParData::GetDimY" alt="" coords="265,156,456,184"/>
+<area shape="rect" id="node13" href="$df/de0/classEicGeoParData.html#a5c08aa3eeb01aa49c9006b73e6311b17" title="EicGeoParData::GetDimZ" alt="" coords="265,208,456,236"/>
+<area shape="rect" id="node3" href="$df/de0/classEicGeoParData.html#a0a125429fc6a74a052da4792a73e3953" title="EicGeoParData::Initialize\lLookupTables" alt="" coords="526,44,713,88"/>
+<area shape="rect" id="node4" href="$de/d93/classEicDigiHitProducer.html#a09862b32b794944e02723bdce363a565" title="EicDigiHitProducer\l::Init" alt="" coords="820,5,967,49"/>
+<area shape="rect" id="node5" href="$d7/d9f/classEicHtcTask.html#a87172e2c8a22bbee83d4624f2e131034" title="EicHtcTask::Init" alt="" coords="831,73,955,101"/>
+<area shape="rect" id="node6" href="$d4/d04/classFwdTrackFinder.html#aede5d387f06d05b801e76f3c977fce68" title="FwdTrackFinder::Init" alt="" coords="1085,73,1241,101"/>
+<area shape="rect" id="node8" href="$df/de0/classEicGeoParData.html#a07f30516eccd1fd80001bfbe42cb73df" title="EicGeoParData::AreNeighbours" alt="" coords="504,156,735,184"/>
+<area shape="rect" id="node9" href="$d0/dd5/classEicCalorimeterReconstruction.html#a60fa8093cdb62a1707df38b8841e4c8a" title="EicCalorimeterReconstruction\l::AreNeighbors" alt="" coords="783,148,1004,192"/>
+<area shape="rect" id="node10" href="$d0/dd5/classEicCalorimeterReconstruction.html#a3521f94ec1fe8edea87dfe9c5ad74d6d" title="EicCalorimeterReconstruction\l::AddNeighbors" alt="" coords="1052,148,1273,192"/>
+<area shape="rect" id="node11" href="$d0/dd5/classEicCalorimeterReconstruction.html#a0b08a8318b800fbe1152c282bc7d40b6" title="EicCalorimeterReconstruction\l::Exec" alt="" coords="1321,148,1543,192"/>
+</map>

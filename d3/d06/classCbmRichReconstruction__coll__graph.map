@@ -1,0 +1,16 @@
+<map id="CbmRichReconstruction" name="CbmRichReconstruction">
+<area shape="rect" id="node2" href="$d2/d9e/classFairTask.html" title="FairTask" alt="" coords="1228,7,1303,35"/>
+<area shape="rect" id="node4" href="$db/da1/classFairLogger.html" title="FairLogger" alt="" coords="923,97,1015,125"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="607,61,714,89"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="387,53,535,97"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="164,61,337,89"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="5,61,115,89"/>
+<area shape="rect" id="node10" href="$dc/d48/classCbmRichTrackExtrapolationBase.html" title="CbmRichTrackExtrapolationBase" alt="" coords="1145,59,1385,87"/>
+<area shape="rect" id="node11" title="STL class." alt="" coords="1221,160,1310,188"/>
+<area shape="rect" id="node12" title="STL class." alt="" coords="897,152,1040,196"/>
+<area shape="rect" id="node13" href="$d6/d72/classCbmRichRingTrackAssignBase.html" title="Base class for RICH rings &#45; STS tracks matching algorithms." alt="" coords="1153,212,1377,240"/>
+<area shape="rect" id="node14" href="$d9/d04/classCbmRichRingFitterBase.html" title="Abstract base class for concrete Rich Ring fitting algorithms. Each derived class must implement the ..." alt="" coords="1176,264,1355,292"/>
+<area shape="rect" id="node15" href="$d0/d8e/classCbmRichProjectionProducerBase.html" title="Base class for STS track projections onto the photodetector plane." alt="" coords="1145,316,1385,344"/>
+<area shape="rect" id="node16" href="$d1/ded/classCbmRichRingFinder.html" title="CbmRichRingFinder" alt="" coords="1188,368,1343,396"/>
+<area shape="rect" id="node17" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="931,368,1007,396"/>
+</map>

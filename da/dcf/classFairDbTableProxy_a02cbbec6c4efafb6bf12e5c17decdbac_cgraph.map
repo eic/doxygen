@@ -1,0 +1,12 @@
+<map id="FairDbTableProxy::SaveToL2Cache" name="FairDbTableProxy::SaveToL2Cache">
+<area shape="rect" id="node2" href="$d5/d57/classFairDbResult.html#acfa2e912dc13cccd497d78062d176159" title="FairDbResult::CanSave" alt="" coords="279,5,454,33"/>
+<area shape="rect" id="node3" href="$da/dcf/classFairDbTableProxy.html#aab4ca8d840492bf3f0daa3fec2a7b523" title="FairDbTableProxy::CanWrite\lL2Cache" alt="" coords="264,57,469,101"/>
+<area shape="rect" id="node5" href="$d5/d57/classFairDbResult.html#aa30031fe21f6c29710481e855bc1c7dd" title="FairDbResult::GetNumRows" alt="" coords="264,125,469,153"/>
+<area shape="rect" id="node6" href="$da/dcf/classFairDbTableProxy.html#a229dcabf06bc6e5ef5a04aba09129291" title="FairDbTableProxy::GetRowName" alt="" coords="249,177,485,205"/>
+<area shape="rect" id="node7" href="$da/dcf/classFairDbTableProxy.html#ac9e59cab34968d866a42af50df938932" title="FairDbTableProxy::GetTableName" alt="" coords="245,229,488,257"/>
+<area shape="rect" id="node8" href="$da/d03/classFairDbTimerManager.html#ade463c33eac0a7593f0170163e407448" title="FairDbTimerManager\l::RecMainQuery" alt="" coords="285,281,448,325"/>
+<area shape="rect" id="node11" href="$d5/d57/classFairDbResult.html#a33765e6cb653bdd3e4d3e948df21e67a" title="FairDbResult::ResultsFromDb" alt="" coords="259,349,475,377"/>
+<area shape="rect" id="node4" href="$dd/d63/classFairDbBinaryFile.html#aa14af3a6ce1be41690addcde87d776fc" title="FairDbBinaryFile::CanWrite\lL2Cache" alt="" coords="540,57,741,101"/>
+<area shape="rect" id="node9" href="$da/d03/classFairDbTimerManager.html#ab1751f80d461fae4280dccde481d238a" title="FairDbTimerManager\l::GetCurrent" alt="" coords="559,251,722,295"/>
+<area shape="rect" id="node10" href="$d0/d89/classFairDbTimer.html#a89d9e32ddbe4d9ec584622c8810a77a7" title="FairDbTimer::RecMainQuery" alt="" coords="536,319,745,347"/>
+</map>

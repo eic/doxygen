@@ -1,0 +1,10 @@
+<map id="CbmRichGeoTest::HitsAndPoints" name="CbmRichGeoTest::HitsAndPoints">
+<area shape="rect" id="node2" href="$de/dfd/classCbmRichHit.html#a332ae4f4f49472640deec9469b1ffeb1" title="CbmRichHit::GetNPhotons" alt="" coords="291,5,488,33"/>
+<area shape="rect" id="node3" href="$d4/d02/classCbmBaseHit.html#abf12d8e40edbcafbe42e9754d6bdbb18" title="CbmBaseHit::GetRefId" alt="" coords="304,57,475,85"/>
+<area shape="rect" id="node4" href="$dc/d28/classFairMCPoint.html#a93cef25f5d617ac6dac4c57a23f94fad" title="FairMCPoint::GetX" alt="" coords="318,109,461,137"/>
+<area shape="rect" id="node5" href="$d6/d31/classCbmPixelHit.html#a69fc4f8f6a1fd9009f2232f86cacbf97" title="CbmPixelHit::GetX" alt="" coords="317,161,462,189"/>
+<area shape="rect" id="node6" href="$dc/d28/classFairMCPoint.html#a8a6f3e24b6bf26ccecfae358a1e1774c" title="FairMCPoint::GetY" alt="" coords="319,213,460,241"/>
+<area shape="rect" id="node7" href="$d6/d31/classCbmPixelHit.html#a54ab17df317249dc7cbdbf477c3dc533" title="CbmPixelHit::GetY" alt="" coords="317,265,462,293"/>
+<area shape="rect" id="node8" href="$dc/d28/classFairMCPoint.html#af7da1a103d9655c3f84834d655954e97" title="FairMCPoint::GetZ" alt="" coords="318,317,461,345"/>
+<area shape="rect" id="node9" href="$da/d9f/classCbmRichHitProducer.html#afac25abb4f242aab98833b1d60049094" title="CbmRichHitProducer\l::TiltPoint" alt="" coords="309,369,470,413"/>
+</map>

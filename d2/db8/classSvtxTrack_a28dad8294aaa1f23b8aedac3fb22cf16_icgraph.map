@@ -1,0 +1,10 @@
+<map id="SvtxTrack::set_dca3d_z_error" name="SvtxTrack::set_dca3d_z_error">
+<area shape="rect" id="node2" href="$d0/df3/classPHActsToSvtxTracks.html#a1fe79836ef5e1aee38c844f5894f1262" title="PHActsToSvtxTracks\l::createSvtxTrack" alt="" coords="244,5,399,49"/>
+<area shape="rect" id="node4" href="$d1/d49/classPHActsTrkFitter.html#adb4fdc161353801b502e9d2055643f39" title="Convert the acts track fit result to an svtx track." alt="" coords="217,73,425,117"/>
+<area shape="rect" id="node8" href="$df/d76/classPHActsTrkProp.html#abbb60d027bda2a807cf8af9f0b84b558" title="Wipe and recreate the SvtxTrackMap with Acts output." alt="" coords="219,141,423,185"/>
+<area shape="rect" id="node3" href="$d0/df3/classPHActsToSvtxTracks.html#a866467885b17507557524812e9aceb42" title="PHActsToSvtxTracks\l::process_event" alt="" coords="491,5,645,49"/>
+<area shape="rect" id="node5" href="$d1/d49/classPHActsTrkFitter.html#aeb1f54f99ef839e900fb0490e45db5e4" title="PHActsTrkFitter::getTrack\lFitResult" alt="" coords="473,73,663,117"/>
+<area shape="rect" id="node6" href="$d1/d49/classPHActsTrkFitter.html#a73e603071673ca6e71dffe11dd7a7770" title="PHActsTrkFitter::loopTracks" alt="" coords="711,81,913,109"/>
+<area shape="rect" id="node7" href="$d1/d49/classPHActsTrkFitter.html#ae131c42164fb6bd25da8240e5eedda7f" title="Process each event by calling the fitter." alt="" coords="961,81,1143,109"/>
+<area shape="rect" id="node9" href="$df/d76/classPHActsTrkProp.html#ae274ea4fd9d52834cbbfd1c3aca72476" title="Process each event by calling the fitter." alt="" coords="479,149,657,177"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="SvtxClusterEval::next_event" name="SvtxClusterEval::next_event">
+<area shape="rect" id="node2" href="$df/dad/classSvtxTrackEval.html#aff069c6fdb0f6d80147b65a98878d90f" title="SvtxTrackEval::next\l_event" alt="" coords="225,141,379,185"/>
+<area shape="rect" id="node18" href="$d5/da2/classPHTruthTrackSeeding.html#a37f708048770642f57f15675683c2cac" title="PHTruthTrackSeeding\l::Process" alt="" coords="220,209,384,253"/>
+<area shape="rect" id="node3" href="$d4/d21/classSvtxVertexEval.html#ad872cdf8407f2f483af522aed6786a40" title="SvtxVertexEval::next\l_event" alt="" coords="432,141,595,185"/>
+<area shape="rect" id="node4" href="$d3/ded/classSvtxEvalStack.html#a8a929a1f521c9e8596ecb1ca108281cf" title="SvtxEvalStack::next\l_event" alt="" coords="643,141,799,185"/>
+<area shape="rect" id="node5" href="$dd/de6/classKFParticle__truthAndDetTools.html#aacd7464b07f03f83a4d7e2de49e63a50" title="KFParticle_truthAndDetTools\l::fillTruthBranch" alt="" coords="847,5,1057,49"/>
+<area shape="rect" id="node8" href="$d3/d32/classActsEvaluator.html#a9ce1e3818dfcd7709c5693087aa21df5" title="ActsEvaluator::process\l_event" alt="" coords="864,73,1040,117"/>
+<area shape="rect" id="node9" href="$d3/d22/classJetTruthEval.html#ac29b8d18ee116903ed233388eb253256" title="reinitialize the eval for a new event" alt="" coords="881,141,1023,185"/>
+<area shape="rect" id="node16" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="864,209,1040,253"/>
+<area shape="rect" id="node17" href="$d0/da9/classAnaTutorial.html#a54c32a62e705c4464d9652e91c7d46fa" title="Methods for grabbing the data." alt="" coords="1113,276,1285,304"/>
+<area shape="rect" id="node6" href="$d9/dae/classKFParticle__nTuple.html#ac32b873cf95657eb34d8b572ad692172" title="Fills required information for your selection, also requests truth and detector information if needed..." alt="" coords="1125,5,1272,49"/>
+<area shape="rect" id="node7" href="$d5/d72/classKFParticle__sPHENIX.html#a7e5ad7cf075fbf8e68a781e7721fec81" title="KFParticle_sPHENIX\l::process_event" alt="" coords="1340,5,1492,49"/>
+<area shape="rect" id="node10" href="$dd/d75/classJetRecoEval.html#ae02e058aa7f403d5853482b5d06c01c9" title="reinitialize the eval for a new event" alt="" coords="1105,153,1292,181"/>
+<area shape="rect" id="node11" href="$dd/df3/classJetEvalStack.html#ab85ba05ab4fea5909c8faa238ba5f8e6" title="JetEvalStack::next\l_event" alt="" coords="1343,145,1489,189"/>
+<area shape="rect" id="node12" href="$d0/da9/classAnaTutorial.html#a9068984e2eafee47f54de4c802d23168" title="AnaTutorial::getReconstructedJets" alt="" coords="1540,101,1792,129"/>
+<area shape="rect" id="node14" href="$d0/da9/classAnaTutorial.html#af69547260745ac326654881490df1cb0" title="AnaTutorial::getTruthJets" alt="" coords="1572,153,1760,181"/>
+<area shape="rect" id="node15" href="$d1/df4/classJetEvaluator.html#ad83508ae828d1f2e4a83a948465a0cd2" title="JetEvaluator::process\l_event" alt="" coords="1583,205,1749,249"/>
+<area shape="rect" id="node13" href="$d0/da9/classAnaTutorial.html#a3b64c061aaffaf4a42631434fb7eb6f9" title="SubsysReco event processing method." alt="" coords="1840,145,2000,189"/>
+</map>

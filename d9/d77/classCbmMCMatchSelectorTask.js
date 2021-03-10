@@ -1,0 +1,26 @@
+var classCbmMCMatchSelectorTask =
+[
+    [ "CbmMCMatchSelectorTask", "d9/d77/classCbmMCMatchSelectorTask.html#a0de21ad64f4bccd937b4e19f51fc0ee3", null ],
+    [ "CbmMCMatchSelectorTask", "d9/d77/classCbmMCMatchSelectorTask.html#aa11abbd1ae324a6f756a3dc095e81275", null ],
+    [ "~CbmMCMatchSelectorTask", "d9/d77/classCbmMCMatchSelectorTask.html#a9f87276e1a192057f61f54779147a9f7", null ],
+    [ "CbmMCMatchSelectorTask", "d9/d77/classCbmMCMatchSelectorTask.html#a6e8f0cb31193f23476e4dfe427e59674", null ],
+    [ "ClassDef", "d9/d77/classCbmMCMatchSelectorTask.html#adac8275effc1e5a2abebacf16fd865a4", null ],
+    [ "Exec", "d9/d77/classCbmMCMatchSelectorTask.html#a08fdab318f202137010a768d52b08c74", null ],
+    [ "Finish", "d9/d77/classCbmMCMatchSelectorTask.html#a240d2190992b147dc2edb33bb0f0820d", null ],
+    [ "Init", "d9/d77/classCbmMCMatchSelectorTask.html#ac5e55641eec493fce11756c1330b0720", null ],
+    [ "operator=", "d9/d77/classCbmMCMatchSelectorTask.html#a97d3829243f23c036341740eb029445d", null ],
+    [ "ProduceHits", "d9/d77/classCbmMCMatchSelectorTask.html#a86ccefd0e872684608d82a3820e10f4d", null ],
+    [ "Register", "d9/d77/classCbmMCMatchSelectorTask.html#a63d7b6b8b0c04a3997c741b19b9a63aa", null ],
+    [ "Reset", "d9/d77/classCbmMCMatchSelectorTask.html#a4bc89f713850985c771ba997f9eea820", null ],
+    [ "SetAllWeights", "d9/d77/classCbmMCMatchSelectorTask.html#a20d4a011070e7a214c3cf70aed969ea0", null ],
+    [ "SetParContainers", "d9/d77/classCbmMCMatchSelectorTask.html#a74d5fb3fc8ed359e2ce23af068ff9a45", null ],
+    [ "SetStart", "d9/d77/classCbmMCMatchSelectorTask.html#acb5d1a38ec80d8ae9013e3400ccd3b1e", null ],
+    [ "SetStop", "d9/d77/classCbmMCMatchSelectorTask.html#a449fe99697b144a2fedc213a2e120a13", null ],
+    [ "SetWeights", "d9/d77/classCbmMCMatchSelectorTask.html#abcf982883eb6f392d49ee8e978a58d27", null ],
+    [ "SetWeightStage", "d9/d77/classCbmMCMatchSelectorTask.html#abe2ccbc00453abb1fc750ec93e5feccf", null ],
+    [ "fCommonWeight", "d9/d77/classCbmMCMatchSelectorTask.html#afdb0d1f041485f759248dd433b88e4db", null ],
+    [ "fMCMatch", "d9/d77/classCbmMCMatchSelectorTask.html#af373cccccfa65ca08ef5560e25d2ce80", null ],
+    [ "fStageWeights", "d9/d77/classCbmMCMatchSelectorTask.html#ad562676fd37549c61c6f0ec5cef5f626", null ],
+    [ "fStart", "d9/d77/classCbmMCMatchSelectorTask.html#a0734d8830325a7bb08c2b32bb3568a18", null ],
+    [ "fStop", "d9/d77/classCbmMCMatchSelectorTask.html#a6fa0a36770df806580faa75a38a2c5f2", null ]
+];

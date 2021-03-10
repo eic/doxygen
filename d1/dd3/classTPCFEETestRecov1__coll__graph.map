@@ -1,0 +1,13 @@
+<map id="TPCFEETestRecov1" name="TPCFEETestRecov1">
+<area shape="rect" id="node2" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="1269,69,1371,97"/>
+<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="729,65,833,93"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="357,35,447,63"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="19,27,162,71"/>
+<area shape="rect" id="node6" href="$d5/df6/classTPCFEETestRecov1_1_1PadPlaneData.html" title="buffer for full event data" alt="" coords="1195,125,1445,153"/>
+<area shape="rect" id="node8" href="$db/d22/structTPCFEETestRecov1_1_1PadPlaneData_1_1SampleID.html" title="TPCFEETestRecov1::PadPlane\lData::SampleID" alt="" coords="292,117,512,161"/>
+<area shape="rect" id="node11" href="$d6/d45/classTPCFEETestRecov1_1_1EventHeader.html" title="simple event header class for ROOT file IO" alt="" coords="924,250,1171,278"/>
+<area shape="rect" id="node12" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="364,303,440,331"/>
+<area shape="rect" id="node14" href="$d2/d0a/classTPCFEETestRecov1_1_1ChannelHeader.html" title="simple channel header class for ROOT file IO" alt="" coords="941,307,1154,351"/>
+<area shape="rect" id="node16" href="$d8/d05/classTPCFEETestRecov1_1_1ClusterData.html" title="buffer for a cluster&#39;s data" alt="" coords="663,406,900,434"/>
+<area shape="rect" id="node13" href="$df/d91/classTPCDaqDefs_1_1FEEv1_1_1SampleFit__PowerLawDoubleExp__PDFMaker.html" title="TPCDaqDefs::FEEv1::\lSampleFit_PowerLawDoubleExp\l_PDFMaker" alt="" coords="1203,442,1437,502"/>
+</map>

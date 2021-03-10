@@ -1,0 +1,18 @@
+<map id="FairRootManager" name="FairRootManager">
+<area shape="rect" id="node2" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="277,119,353,147"/>
+<area shape="rect" id="node9" href="$d8/d08/classFairTSBufferFunctional.html" title="A class to access time ordered data in a root branch." alt="" coords="521,319,695,347"/>
+<area shape="rect" id="node14" href="$d2/d88/classFairWriteoutBuffer.html" title="A container class to store digi data during events." alt="" coords="2166,186,2311,214"/>
+<area shape="rect" id="node17" href="$df/d10/classFairMultiLinkedData.html" title="FairMultiLinkedData" alt="" coords="1236,145,1389,173"/>
+<area shape="rect" id="node19" href="$d6/da5/classFairLink.html" title="FairLink" alt="" coords="571,119,645,147"/>
+<area shape="rect" id="node10" href="$d1/d89/classBinaryFunctor.html" title="Base class for all functors which are used in the FairTSBufferFunctional." alt="" coords="257,319,373,347"/>
+<area shape="rect" id="node11" href="$d0/d09/classstd_1_1binary__function.html" title="std::binary_function\l\&lt; FairTimeStamp *,double,\l bool \&gt;" alt="" coords="5,303,208,363"/>
+<area shape="rect" id="node16" href="$d6/d15/classFairTimeStamp.html" title="FairTimeStamp" alt="" coords="1454,133,1577,161"/>
+<area shape="rect" id="node21" href="$db/da1/classFairLogger.html" title="FairLogger" alt="" coords="1811,286,1903,314"/>
+<area shape="rect" id="node22" title="STL class." alt="" coords="1462,266,1569,294"/>
+<area shape="rect" id="node23" title="STL class." alt="" coords="1239,258,1387,302"/>
+<area shape="rect" id="node24" title="STL class." alt="" coords="811,266,984,294"/>
+<area shape="rect" id="node25" title="STL class." alt="" coords="553,266,663,294"/>
+<area shape="rect" id="node31" href="$d5/dc2/classFairFileHeader.html" title="FairFileHeader" alt="" coords="2529,1122,2648,1150"/>
+<area shape="rect" id="node33" href="$dd/db6/classFairEventHeader.html" title="FairEventHeader" alt="" coords="2521,1018,2656,1046"/>
+<area shape="rect" id="node39" href="$dd/d8f/classFairMCEventHeader.html" title="FairMCEventHeader" alt="" coords="2511,1070,2666,1098"/>
+</map>

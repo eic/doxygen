@@ -1,0 +1,19 @@
+<map id="Acts::Test::BOOST_AUTO_TEST_CASE" name="Acts::Test::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d4/db7/classActs_1_1ImpactPointEstimator.html#ab67fb36925cff54e28aeede85549e7e6" title="Calculates 3D distance between a track and a 3D point." alt="" coords="255,5,460,49"/>
+<area shape="rect" id="node4" href="$dd/d7e/namespaceActs_1_1Test.html#a1a39f9035862f7175922721e11cc38a1" title="Acts::Test::d0Dist" alt="" coords="287,73,427,101"/>
+<area shape="rect" id="node5" href="$d4/db7/classActs_1_1ImpactPointEstimator.html#aae67a291110d970c44021048b8bea918" title="Creates track parameters bound to plane at point of closest approach in 3d to given reference positio..." alt="" coords="241,125,473,169"/>
+<area shape="rect" id="node6" href="$d4/db7/classActs_1_1ImpactPointEstimator.html#a55d85ec18af91c0c080fefeb4018fc8c" title="Estimates the compatibility of a track to a vertex position based on the 3d distance between the trac..." alt="" coords="255,193,460,237"/>
+<area shape="rect" id="node11" href="$dd/d7e/namespaceActs_1_1Test.html#ac17fc6b397982fd0002d04601f2f57b4" title="Acts::Test::phiDist" alt="" coords="285,261,429,289"/>
+<area shape="rect" id="node12" href="$dd/d7e/namespaceActs_1_1Test.html#aad6ade984291907ea5c37f536c199d51" title="Acts::Test::pTDist" alt="" coords="287,313,427,341"/>
+<area shape="rect" id="node13" href="$dd/d7e/namespaceActs_1_1Test.html#af5b5c523db0bb9b43a3f7ff147d33e8a" title="Acts::Test::qDist" alt="" coords="291,365,423,393"/>
+<area shape="rect" id="node14" href="$dd/d7e/namespaceActs_1_1Test.html#a4c44f5b7cd5cf26cf97aab98f50589fe" title="Acts::Test::resAngDist" alt="" coords="273,417,442,445"/>
+<area shape="rect" id="node15" href="$dd/d7e/namespaceActs_1_1Test.html#a7f39fcb98916516cd7bfcff2cad085ca" title="Acts::Test::resIPDist" alt="" coords="280,469,435,497"/>
+<area shape="rect" id="node16" href="$dd/d7e/namespaceActs_1_1Test.html#ae6a0f7214ec673d4f32a5e5289a25d91" title="Acts::Test::resQoPDist" alt="" coords="272,521,443,549"/>
+<area shape="rect" id="node17" href="$dd/d7e/namespaceActs_1_1Test.html#ae0440540e467d1579f295150369c73b4" title="Acts::Test::thetaDist" alt="" coords="278,573,437,601"/>
+<area shape="rect" id="node18" href="$dd/d7e/namespaceActs_1_1Test.html#a7f4bfb2dc3e868932a6f87727a14750b" title="Acts::Test::z0Dist" alt="" coords="288,625,427,653"/>
+<area shape="rect" id="node3" href="$d6/d69/ClusterIso_8h.html#a1a69231f858c3fc6386929e2d8841559" title="deltaR" alt="" coords="617,29,683,57"/>
+<area shape="rect" id="node7" href="$d6/d71/classActs_1_1SingleTrackParameters.html#a41514c7a55f33937e07f63fde0584801" title="access covariance matrix of track parameters" alt="" coords="543,96,757,140"/>
+<area shape="rect" id="node8" href="$d6/d71/classActs_1_1SingleTrackParameters.html#a4def6d0407272a1045b3c5577d9d0ae4" title="access track parameters" alt="" coords="543,164,757,208"/>
+<area shape="rect" id="node9" href="$d5/dbb/classActs_1_1SingleBoundTrackParameters.html#a5b17ef6f3e7fbaa2dfd3113b26d9afe1" title="access method to the reference surface" alt="" coords="521,232,779,276"/>
+<area shape="rect" id="node10" href="$de/d7d/classActs_1_1Surface.html#ace4cf8a84a10d848c64dfb5347af57d4" title="Acts::Surface::transform" alt="" coords="557,300,743,328"/>
+</map>

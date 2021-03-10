@@ -1,0 +1,14 @@
+<map id="Acts::convertDD4hepDetector" name="Acts::convertDD4hepDetector">
+<area shape="rect" id="node2" href="$da/d7b/namespaceActs.html#a983e51c4b4d9d52a571d121b3c809f5e" title="Acts::collectSubDetectors\l_dd4hep" alt="" coords="279,396,475,440"/>
+<area shape="rect" id="node4" href="$da/d7b/namespaceActs.html#ad68906a04a4c9f5422513cc3a65ea72c" title="Acts::cylinderVolumeHelper\l_dd4hep" alt="" coords="523,28,733,72"/>
+<area shape="rect" id="node5" href="$da/d7b/namespaceActs.html#a9b4dee934b0b193d57604b19bc8cd527" title="get default debug output logger" alt="" coords="781,36,960,64"/>
+<area shape="rect" id="node7" href="$da/d7b/namespaceActs.html#a273eb1d45963a32a9463dbf54c4ab912" title="Method internally used to create an Acts::CylinderVolumeBuilder." alt="" coords="297,208,456,252"/>
+<area shape="rect" id="node3" href="$d8/d8a/classActs_1_1ActsExtension.html#a0e7e352bb174edaec81192990a9cae18" title="Acts::ActsExtension\l::hasType" alt="" coords="793,396,948,440"/>
+<area shape="rect" id="node6" href="$dd/d94/fun4all__tutorials_2blob_2master_2materialscan_2matscan_8C.html#a388f572c62279f839ee138a9afbdeeb5" title="print" alt="" coords="1008,36,1061,64"/>
+<area shape="rect" id="node8" href="$da/d7b/namespaceActs.html#af8532cc85800421aa16386b0d0e88109" title="Acts::collectCompounds\l_dd4hep" alt="" coords="535,456,721,500"/>
+<area shape="rect" id="node9" href="$da/d7b/namespaceActs.html#a4de8550a35fe42f79d32a452843ace4e" title="Acts::collectLayers\l_dd4hep" alt="" coords="553,268,703,312"/>
+<area shape="rect" id="node10" href="$d8/d8a/classActs_1_1ActsExtension.html#a5b0e63d41420f9f891c9bd7a4d123e65" title="Acts::ActsExtension\l::hasValue" alt="" coords="551,148,705,192"/>
+<area shape="rect" id="node11" href="$da/d7b/namespaceActs.html#a693543dd8a2af53cd5922f050fdf4087" title="Acts::createProtoMaterial" alt="" coords="532,216,724,244"/>
+<area shape="rect" id="node13" href="$da/d7b/namespaceActs.html#a30c4db9bce420a4bf987df0add5db225" title="Acts::collectVolumes\l_dd4hep" alt="" coords="547,336,709,380"/>
+<area shape="rect" id="node12" href="$d8/d8a/classActs_1_1ActsExtension.html#a12f18877ba2af75635b326a2f4a96177" title="Acts::ActsExtension\l::getValue" alt="" coords="793,208,948,252"/>
+</map>

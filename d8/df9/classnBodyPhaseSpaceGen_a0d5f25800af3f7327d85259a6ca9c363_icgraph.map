@@ -1,0 +1,5 @@
+<map id="nBodyPhaseSpaceGen::calcWeight" name="nBodyPhaseSpaceGen::calcWeight">
+<area shape="rect" id="node2" href="$d8/df9/classnBodyPhaseSpaceGen.html#a95f62e22e1f35752cdaaa9df0674e220" title="estimates maximum weight for given n&#45;body mass" alt="" coords="238,5,411,49"/>
+<area shape="rect" id="node3" href="$d8/df9/classnBodyPhaseSpaceGen.html#ad40d545a890692e5b9ff09ae10728203" title="generates full event with certain n&#45;body mass and momentum and returns event weight" alt="" coords="238,73,411,117"/>
+<area shape="rect" id="node4" href="$d8/df9/classnBodyPhaseSpaceGen.html#a093630768258cd3d19d21231ede68f65" title="generates full event with certain n&#45;body mass and momentum only when event is accepted (return value ..." alt="" coords="227,141,423,185"/>
+</map>

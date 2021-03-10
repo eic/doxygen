@@ -1,0 +1,31 @@
+<map id="kdfinder::TVector::x" name="kdfinder::TVector::x">
+<area shape="rect" id="node2" href="$de/d51/classeicpy_1_1qaplots_1_1LogAxis.html#a3b68db44b60912ea93dd5c822e3b3beb" title="eicpy.qaplots.LogAxis.apply" alt="" coords="208,5,416,33"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#a97ca6671ef32513a6dfbad941c12dc24" title="kdfinder::TVector::\lcross" alt="" coords="239,57,385,101"/>
+<area shape="rect" id="node5" href="$de/d52/classkdfinder_1_1Helix.html#a1df9cbf3ecb114307941bd9a43b07a7f" title="kdfinder::Helix::curvature\lSignedDistance" alt="" coords="1225,188,1420,232"/>
+<area shape="rect" id="node6" href="$d8/dc7/classkdfinder_1_1TVector.html#a299548b9cb7caf24986b5a26ecdd66ef" title="kdfinder::TVector::dot" alt="" coords="227,177,397,205"/>
+<area shape="rect" id="node8" href="$df/d28/namespacekdfinder.html#a23ddbb228301e80fe604c80f5d44584a" title="kdfinder::find_vertex\l_seeds" alt="" coords="231,229,393,273"/>
+<area shape="rect" id="node9" href="$de/d52/classkdfinder_1_1Helix.html#a8cace3730278e217a31f45080fc03fd6" title="value of S where distance in x&#45;y plane is minimal" alt="" coords="213,297,411,341"/>
+<area shape="rect" id="node10" href="$de/d52/classkdfinder_1_1Helix.html#a12c469862c3f07a24c429ade81c2e48d" title="path length at distance of closest approach to a given point" alt="" coords="473,335,678,363"/>
+<area shape="rect" id="node11" href="$de/d52/classkdfinder_1_1Helix.html#af70b4a8a95157c01c22a6a6ddadc654e" title="kdfinder::Helix::geometric\lSignedDistance" alt="" coords="735,408,932,452"/>
+<area shape="rect" id="node14" href="$d8/d48/classkdfinder_1_1TrackCandidate.html#aeaf9a40c0589c8e93a168cd4e497c286" title="kdfinder::TrackCandidate\l::getPosForHit" alt="" coords="217,572,407,616"/>
+<area shape="rect" id="node21" href="$de/d52/classkdfinder_1_1Helix.html#a64b8dbda2033072f9a71892eab57add4" title="kdfinder::Helix::Helix" alt="" coords="230,520,394,548"/>
+<area shape="rect" id="node22" href="$de/d52/classkdfinder_1_1Helix.html#aea7551d3a5f92374f543f3d4ee214e94" title="move the origin along the helix to s which becomes then s=0" alt="" coords="208,468,416,496"/>
+<area shape="rect" id="node24" href="$d8/dc7/classkdfinder_1_1TVector.html#af4fab7397f16b441977acb0f51f5d2ef" title="kdfinder::TVector::\loperator+=" alt="" coords="239,640,385,684"/>
+<area shape="rect" id="node25" href="$d8/dc7/classkdfinder_1_1TVector.html#ab3e82778daf7752f3f5831132a391dbf" title="kdfinder::TVector::\loperator&#45;=" alt="" coords="239,708,385,752"/>
+<area shape="rect" id="node26" href="$d8/dc7/classkdfinder_1_1TVector.html#adccfeaa21cbcc15d0aa6bbfb0e24b608" title="kdfinder::TVector::\loperator=" alt="" coords="239,776,385,820"/>
+<area shape="rect" id="node27" href="$d8/dc7/classkdfinder_1_1TVector.html#af0685701f3e93ea4a7b57b512fad611e" title="kdfinder::TVector::\loperator==" alt="" coords="239,844,385,888"/>
+<area shape="rect" id="node28" href="$d8/dc7/classkdfinder_1_1TVector.html#ac0319a07facead2fc84661e3187dd13f" title="kdfinder::TVector::\lpseudoProduct" alt="" coords="239,912,385,956"/>
+<area shape="rect" id="node29" href="$de/d51/classeicpy_1_1qaplots_1_1LogAxis.html#a69299b376ed08b7de048f3f432a104cc" title="eicpy.qaplots.LogAxis.rebin" alt="" coords="210,980,414,1008"/>
+<area shape="rect" id="node30" href="$d8/dc7/classkdfinder_1_1TVector.html#ae278db826187359843cf8f836e52dc3f" title="kdfinder::TVector::setX" alt="" coords="224,1032,400,1060"/>
+<area shape="rect" id="node4" href="$df/d28/namespacekdfinder.html#ac5fe58583f50ed5d0cb86a93765c51c7" title="kdfinder::cross_product" alt="" coords="485,65,665,93"/>
+<area shape="rect" id="node7" href="$d8/dc7/classkdfinder_1_1TVector.html#add46f30a0b4d0fc4bd2b91c057ae2323" title="kdfinder::TVector::\langle" alt="" coords="503,177,648,221"/>
+<area shape="rect" id="node12" href="$de/d52/classkdfinder_1_1Helix.html#aeec237486dbf2bb6412377364fafa2d3" title="kdfinder::Helix::curvature\lSignedDistance" alt="" coords="981,259,1176,303"/>
+<area shape="rect" id="node13" href="$de/d52/classkdfinder_1_1Helix.html#a9032562bc551d1d02e264844510be15c" title="kdfinder::Helix::geometric\lSignedDistance" alt="" coords="980,408,1177,452"/>
+<area shape="rect" id="node15" href="$d8/d48/classkdfinder_1_1TrackCandidate.html#ad914ab0fb9d9a158631fd675e2f06ff1" title="kdfinder::TrackCandidate\l::approxLength" alt="" coords="480,520,671,564"/>
+<area shape="rect" id="node17" href="$d6/df6/classPHTpcTrackFollower.html#ab2bef4a182d944601566b365cfa8ab53" title="PHTpcTrackFollower\l::propagateTrack" alt="" coords="755,613,911,657"/>
+<area shape="rect" id="node20" href="$d6/df6/classPHTpcTrackFollower.html#a8f383b9ad95665173bf66f3b7e6bd8e2" title="PHTpcTrackFollower\l::candidate_to_genfit" alt="" coords="493,640,657,684"/>
+<area shape="rect" id="node16" href="$d8/d48/classkdfinder_1_1TrackCandidate.html#ac641edf6d9b2a56bfb4716be83233fd9" title="kdfinder::TrackCandidate\l::print" alt="" coords="738,520,929,564"/>
+<area shape="rect" id="node18" href="$d6/df6/classPHTpcTrackFollower.html#ad398a4c62c8425b444d3a49bcd346dd9" title="PHTpcTrackFollower\l::followTracks" alt="" coords="1001,613,1157,657"/>
+<area shape="rect" id="node19" href="$dd/d22/classPHTpcTracker.html#aa579cb8953a6aa2d57a99dc2c2e91df7" title="PHTpcTracker::Process" alt="" coords="1237,621,1409,649"/>
+<area shape="rect" id="node23" href="$de/d52/classkdfinder_1_1Helix.html#ad49f8830fc80130672704f64bf2ed7b0" title="kdfinder::Helix::momentumAt" alt="" coords="464,468,687,496"/>
+</map>

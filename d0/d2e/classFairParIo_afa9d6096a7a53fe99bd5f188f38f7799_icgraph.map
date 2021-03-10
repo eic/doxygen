@@ -1,0 +1,22 @@
+<map id="FairParIo::getDetParIo" name="FairParIo::getDetParIo">
+<area shape="rect" id="node2" href="$d7/d6f/classFairRuntimeDb.html#a69203bcc0bba68d05161c6eba0498914" title="FairRuntimeDb::activateParIo" alt="" coords="220,113,437,141"/>
+<area shape="rect" id="node21" href="$d7/dbb/classFairParGenericSet.html#a9066e308a7a9bf18ebea737d1437f4aa" title="FairParGenericSet::\lwrite" alt="" coords="254,165,403,209"/>
+<area shape="rect" id="node3" href="$d1/d95/classFairParAsciiFileIo.html#ade967fe3135a3457c9c2cc3eef42de3c" title="FairParAsciiFileIo\l::open" alt="" coords="507,65,639,109"/>
+<area shape="rect" id="node6" href="$d5/d03/classFairParRootFileIo.html#addaef2e4c178592258c3b1b0324c1549" title="FairParRootFileIo::open" alt="" coords="485,155,660,183"/>
+<area shape="rect" id="node4" href="$d8/da7/classFairAnaSelector.html#ae4cc7c114a2ae1a59b3e3e8d7a078832" title="FairAnaSelector::Init" alt="" coords="749,73,907,101"/>
+<area shape="rect" id="node5" href="$d1/d95/classFairParAsciiFileIo.html#a22b42eeecee09fc6eb6f19ee591a4f35" title="FairParAsciiFileIo\l::open" alt="" coords="762,5,894,49"/>
+<area shape="rect" id="node7" href="$d4/dc9/classEicRunAna.html#a40d043c91b72d8f50eb850be50fd06c1" title="EicRunAna::Init" alt="" coords="766,125,890,153"/>
+<area shape="rect" id="node15" href="$d3/d61/classEicRunSim.html#ac3dc4b7912f3a0d7c501a203617fe508" title="EicRunSim::RunCoreStart" alt="" coords="732,177,924,205"/>
+<area shape="rect" id="node18" href="$d5/d03/classFairParRootFileIo.html#a8b6eca4859741a436edb52ea5e903a41" title="FairParRootFileIo::open" alt="" coords="741,229,915,257"/>
+<area shape="rect" id="node19" href="$d1/d76/classPndGeoHandling.html#a818f209f0b2dd985e2a2e55adc458b37" title="PndGeoHandling::InitRuntimeDb" alt="" coords="708,281,948,309"/>
+<area shape="rect" id="node8" href="$dc/db9/classEicEventManager.html#a9d62fa56c5683f8af8fd9cefc54028a0" title="EicEventManager::Init" alt="" coords="1039,73,1209,101"/>
+<area shape="rect" id="node11" href="$d4/dc9/classEicRunAna.html#ae75870f13b97d83ea5f7f7218e94d6b5" title="EicRunAna::RunCoreStart" alt="" coords="1027,125,1221,153"/>
+<area shape="rect" id="node9" href="$dc/db9/classEicEventManager.html#a395b5cf24061c5057ec29682319debf1" title="EicEventManager::Run" alt="" coords="1300,73,1473,101"/>
+<area shape="rect" id="node10" href="$d4/dc8/examples_2physics_2config_82_2eventDisplay_8C.html#a0dea102c5707fa0bc64fcf379ce890a5" title="eventDisplay" alt="" coords="1526,73,1635,101"/>
+<area shape="rect" id="node12" href="$d4/dc9/classEicRunAna.html#a1e307dd82a86ffe6a742148b388a0bab" title="EicRunAna::Run" alt="" coords="1323,125,1451,153"/>
+<area shape="rect" id="node13" href="$d8/d11/examples_2physics_2config_82_2digitization_8C.html#afd97e93afdacaf415631892fe39fdf2c" title="digitization" alt="" coords="1533,125,1629,153"/>
+<area shape="rect" id="node14" href="$de/d0b/examples_2physics_2config_82_2reconstruction_8C.html#a3d26f5f344cf2281e72b22d404fd8c51" title="reconstruction" alt="" coords="1521,177,1640,205"/>
+<area shape="rect" id="node16" href="$d3/d61/classEicRunSim.html#a9f9cc62b3a055d135358f264709c6b7e" title="EicRunSim::Run" alt="" coords="1061,177,1187,205"/>
+<area shape="rect" id="node17" href="$d4/d1f/examples_2physics_2config_82_2simulation_8C.html#ac10f32ae478a1409f743cf125eeea582" title="simulation" alt="" coords="1341,177,1433,205"/>
+<area shape="rect" id="node20" href="$d1/d76/classPndGeoHandling.html#ab203f2bdaef048006850c0123480d3db" title="PndGeoHandling::PndGeoHandling" alt="" coords="996,281,1252,309"/>
+</map>

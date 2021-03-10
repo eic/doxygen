@@ -1,0 +1,10 @@
+<map id="EicNamePatternHub::AddExactMatch" name="EicNamePatternHub::AddExactMatch">
+<area shape="rect" id="node2" href="$dd/dac/classEicDetector.html#a002f20ab4c7aa156da6a73afb3d03325" title="EicDetector::AddKillerVolume" alt="" coords="218,108,437,136"/>
+<area shape="rect" id="node6" href="$de/d93/classEicDigiHitProducer.html#ae1b4bd58a63b1b8714f29e26c39471cb" title="EicDigiHitProducer\l::DeclareDigiSensitiveVolume" alt="" coords="217,177,437,221"/>
+<area shape="rect" id="node8" href="$dd/dac/classEicDetector.html#a5b80f2b263fc6d9486f5e41ac2dcf0f8" title="EicDetector::DeclareGeant\lSensitiveVolume" alt="" coords="227,245,428,289"/>
+<area shape="rect" id="node3" href="$de/ddf/classEicFieldGradDetector.html#a0f9bb4fa0ab85b1d619f5767a44b789e" title="EicFieldGradDetector\l::ConstructGeometry" alt="" coords="523,5,687,49"/>
+<area shape="rect" id="node4" href="$d9/d73/classEicFieldMapDetector.html#ac47c11120ef7d3ae1d3655a2b5a86581" title="EicFieldMapDetector\l::ConstructGeometry" alt="" coords="524,73,687,117"/>
+<area shape="rect" id="node5" href="$d8/d7b/classEicCadFile.html#a8e8bf4dd75c81efa51b8bc49696ff960" title="EicCadFile::ConstructGeometry" alt="" coords="489,141,721,169"/>
+<area shape="rect" id="node7" href="$d8/d11/examples_2physics_2config_82_2digitization_8C.html#afd97e93afdacaf415631892fe39fdf2c" title="digitization" alt="" coords="557,193,653,221"/>
+<area shape="rect" id="node9" href="$dd/dac/classEicDetector.html#a52d5d3a030ed4ab74e36989b4a563f73" title="EicDetector::ConstructGeometry" alt="" coords="485,253,725,281"/>
+</map>

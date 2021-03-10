@@ -1,0 +1,13 @@
+<map id="FW::PrintHits::execute" name="FW::PrintHits::execute">
+<area shape="rect" id="node2" href="$d3/dd5/classActs_1_1PlanarModuleCluster.html#a54a5e915a2803ce86a0c7f569d16488e" title="Acts::PlanarModuleCluster\l::digitizationCells" alt="" coords="224,5,424,49"/>
+<area shape="rect" id="node3" href="$db/d77/classFW_1_1WhiteBoard.html#a4d1ec4604d2f3530a5bcafc9b40a045e" title="FW::WhiteBoard::get" alt="" coords="243,73,405,101"/>
+<area shape="rect" id="node5" href="$d1/d10/namespaceFW.html#a678eea6ca5e231d3861775ba71fffd49" title="FW::makeRange" alt="" coords="517,177,648,205"/>
+<area shape="rect" id="node6" href="$d1/d10/namespaceFW.html#a195395d3a9c628d97aae95e47af4fd61" title="Select all elements within the given layer." alt="" coords="259,281,389,309"/>
+<area shape="rect" id="node11" href="$d1/d10/namespaceFW.html#ae56e91114613903df88fc95ebdebafcd" title="Select all elements for the given module / sensitive surface." alt="" coords="254,177,394,205"/>
+<area shape="rect" id="node12" href="$d1/d10/namespaceFW.html#a78182c356befea504eca254484bf18ca" title="Select all elements within the given volume." alt="" coords="253,229,395,257"/>
+<area shape="rect" id="node4" href="$d8/d86/structFW_1_1WhiteBoard_1_1IHolder.html#a0f84605eb4db2398e70d2fcbc545ca8a" title="FW::WhiteBoard::IHolder\l::type" alt="" coords="489,65,677,109"/>
+<area shape="rect" id="node7" href="$d7/df5/classActs_1_1GeometryID.html#ac27abfcaf9479ccd3365c87c3531cfa4" title="Set the layer identifier." alt="" coords="478,281,687,309"/>
+<area shape="rect" id="node10" href="$d7/df5/classActs_1_1GeometryID.html#af398c76772a835a6392d8316cc3521db" title="Set the volume identifier." alt="" coords="472,229,693,257"/>
+<area shape="rect" id="node8" href="$d7/df5/classActs_1_1GeometryID.html#a58a26ff78512631792caf827f7e842ef" title="Set the masked bits to id in the encoded value." alt="" coords="741,256,937,284"/>
+<area shape="rect" id="node9" href="$d7/df5/classActs_1_1GeometryID.html#acd6ca6e930d0adfefd72283464038a11" title="Extract the bit shift necessary to access the masked values." alt="" coords="985,248,1184,292"/>
+</map>

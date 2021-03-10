@@ -1,0 +1,21 @@
+<map id="Acts::DiscLayer" name="Acts::DiscLayer">
+<area shape="rect" id="node3" href="$da/d28/classActs_1_1Layer.html" title="Acts::Layer" alt="" coords="2354,357,2453,385"/>
+<area shape="rect" id="node35" href="$de/d7d/classActs_1_1Surface.html" title="Abstract Base Class for tracking surfaces." alt="" coords="2759,479,2871,507"/>
+<area shape="rect" id="node4" href="$d3/d07/classActs_1_1GeometryObject.html" title="Acts::GeometryObject" alt="" coords="260,349,432,377"/>
+<area shape="rect" id="node15" href="$d2/d65/classActs_1_1Volume.html" title="Acts::Volume" alt="" coords="601,481,712,509"/>
+<area shape="rect" id="node5" href="$d7/df5/classActs_1_1GeometryID.html" title="Acts::GeometryID" alt="" coords="5,349,147,377"/>
+<area shape="rect" id="node7" href="$d5/db4/classActs_1_1ApproachDescriptor.html" title="Acts::ApproachDescriptor" alt="" coords="1434,109,1629,137"/>
+<area shape="rect" id="node8" href="$d5/dcc/classActs_1_1BinUtility.html" title="Acts::BinUtility" alt="" coords="1945,297,2066,325"/>
+<area shape="rect" id="node10" href="$dd/ddd/classActs_1_1BinningData.html" title="Acts::BinningData" alt="" coords="1038,216,1181,244"/>
+<area shape="rect" id="node14" href="$dd/dcd/classActs_1_1TrackingVolume.html" title="Acts::TrackingVolume" alt="" coords="1922,648,2089,676"/>
+<area shape="rect" id="node16" href="$d4/d2a/classActs_1_1AxisAlignedBoundingBox.html" title="Acts::AxisAlignedBounding\lBox\&lt; Volume, double, 3 \&gt;" alt="" coords="1007,872,1211,916"/>
+<area shape="rect" id="node42" href="$d6/dae/classActs_1_1AbstractVolume.html" title="Acts::AbstractVolume" alt="" coords="1026,548,1193,576"/>
+<area shape="rect" id="node17" href="$d4/d2a/classActs_1_1AxisAlignedBoundingBox.html" title="Acts::AxisAlignedBounding\lBox\&lt; entity_t, value_t, DIM \&gt;" alt="" coords="547,932,766,976"/>
+<area shape="rect" id="node24" title="STL class." alt="" coords="1487,708,1576,736"/>
+<area shape="rect" id="node25" title="STL class." alt="" coords="1038,600,1181,644"/>
+<area shape="rect" id="node27" href="$d7/dc3/classActs_1_1GlueVolumesDescriptor.html" title="Acts::GlueVolumesDescriptor" alt="" coords="1421,760,1641,788"/>
+<area shape="rect" id="node31" href="$d5/d80/classActs_1_1BinnedArray.html" title="Acts::BinnedArray\&lt; T \&gt;" alt="" coords="1019,820,1200,848"/>
+<area shape="rect" id="node33" href="$d5/dd2/classActs_1_1SurfaceArray.html" title="Provides Surface binning in N dimensions." alt="" coords="3420,499,3568,527"/>
+<area shape="rect" id="node37" href="$d7/de6/classActs_1_1DetectorElementBase.html" title="Acts::DetectorElementBase" alt="" coords="2300,613,2507,641"/>
+<area shape="rect" id="node40" href="$d5/d67/structActs_1_1SurfaceArray_1_1ISurfaceGridLookup.html" title="Base interface for all surface lookups." alt="" coords="2733,588,2896,632"/>
+</map>

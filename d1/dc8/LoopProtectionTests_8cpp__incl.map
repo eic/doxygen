@@ -1,0 +1,37 @@
+<map id="fun4all_acts/blob/master/Tests/UnitTests/Core/Propagator/LoopProtectionTests.cpp" name="fun4all_acts/blob/master/Tests/UnitTests/Core/Propagator/LoopProtectionTests.cpp">
+<area shape="rect" id="node5" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="2185,397,2463,425"/>
+<area shape="rect" id="node7" href="$de/d07/ConstantBField_8hpp.html" title="Acts/MagneticField\l/ConstantBField.hpp" alt="" coords="1303,297,1462,341"/>
+<area shape="rect" id="node8" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="1959,389,2161,433"/>
+<area shape="rect" id="node9" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="803,597,1016,625"/>
+<area shape="rect" id="node10" href="$dc/dfe/AbortList_8hpp.html" title="Acts/Propagator/AbortList.hpp" alt="" coords="4479,397,4703,425"/>
+<area shape="rect" id="node19" href="$db/da3/DebugOutputActor_8hpp.html" title="Acts/Propagator/DebugOutput\lActor.hpp" alt="" coords="4473,113,4700,157"/>
+<area shape="rect" id="node20" href="$dd/d18/EigenStepper_8hpp.html" title="Acts/Propagator/EigenStepper.hpp" alt="" coords="2671,121,2926,149"/>
+<area shape="rect" id="node27" href="$d5/d20/Propagator_8hpp.html" title="Acts/Propagator/Propagator.hpp" alt="" coords="2988,305,3225,333"/>
+<area shape="rect" id="node34" href="$dc/d81/StandardAborters_8hpp.html" title="Acts/Propagator/Standard\lAborters.hpp" alt="" coords="1639,389,1833,433"/>
+<area shape="rect" id="node40" href="$d2/da2/LoopProtection_8hpp.html" title="Acts/Propagator/detail\l/LoopProtection.hpp" alt="" coords="795,389,967,433"/>
+<area shape="rect" id="node43" href="$df/d6f/Units_8hpp.html" title="Acts/Utilities/Units.hpp" alt="" coords="4727,397,4903,425"/>
+<area shape="rect" id="node50" href="$d4/d47/FloatComparisons_8hpp.html" title="Acts/Tests/CommonHelpers\l/FloatComparisons.hpp" alt="" coords="585,113,791,157"/>
+<area shape="rect" id="node11" href="$d2/ddf/abort__condition__signature__check_8hpp.html" title="Acts/Propagator/detail\l/abort_condition_signature\l_check.hpp" alt="" coords="4756,481,4959,541"/>
+<area shape="rect" id="node13" href="$d0/d70/type__collector_8hpp.html" title="Acts/Utilities/detail\l/MPL/type_collector.hpp" alt="" coords="4887,589,5070,633"/>
+<area shape="rect" id="node15" href="$dd/dac/abort__list__implementation_8hpp.html" title="Acts/Propagator/detail\l/abort_list_implementation.hpp" alt="" coords="4983,489,5217,533"/>
+<area shape="rect" id="node16" href="$d2/dbe/Extendable_8hpp.html" title="Acts/Utilities/detail\l/Extendable.hpp" alt="" coords="4063,489,4211,533"/>
+<area shape="rect" id="node17" href="$d3/d32/has__duplicates_8hpp.html" title="Acts/Utilities/detail\l/MPL/has_duplicates.hpp" alt="" coords="4287,489,4476,533"/>
+<area shape="rect" id="node24" href="$d8/d81/TrackParameters_8hpp.html" title="Acts/EventData/TrackParameters.hpp" alt="" coords="1763,497,2037,525"/>
+<area shape="rect" id="node25" href="$d3/df3/DefaultExtension_8hpp.html" title="Acts/Propagator/DefaultExtension.hpp" alt="" coords="2659,213,2939,241"/>
+<area shape="rect" id="node26" href="$d6/d44/DenseEnvironmentExtension_8hpp.html" title="Acts/Propagator/DenseEnvironment\lExtension.hpp" alt="" coords="2320,205,2584,249"/>
+<area shape="rect" id="node38" href="$db/d8d/Intersection_8hpp.html" title="Acts/Utilities/Intersection.hpp" alt="" coords="997,497,1219,525"/>
+<area shape="rect" id="node42" href="$d3/db2/Result_8hpp.html" title="Acts/Utilities/Result.hpp" alt="" coords="4271,397,4454,425"/>
+<area shape="rect" id="node45" href="$da/d5a/EigenStepperError_8hpp.html" title="Acts/Propagator/EigenStepper\lError.hpp" alt="" coords="1740,297,1967,341"/>
+<area shape="rect" id="node46" href="$dc/d81/StepperExtensionList_8hpp.html" title="Acts/Propagator/StepperExtension\lList.hpp" alt="" coords="3787,205,4040,249"/>
+<area shape="rect" id="node47" href="$d7/d69/Auctioneer_8hpp.html" title="Acts/Propagator/detail\l/Auctioneer.hpp" alt="" coords="3719,297,3891,341"/>
+<area shape="rect" id="node48" href="$de/dba/SteppingHelper_8hpp.html" title="Acts/Propagator/detail\l/SteppingHelper.hpp" alt="" coords="1094,389,1266,433"/>
+<area shape="rect" id="node49" href="$d4/d52/EigenStepper_8ipp.html" title="Acts/Propagator/EigenStepper.ipp" alt="" coords="2963,213,3213,241"/>
+<area shape="rect" id="node28" href="$d0/d75/ReferenceWrapperAnyCompat_8hpp.html" title="Acts/Utilities/detail\l/ReferenceWrapperAnyCompat.hpp" alt="" coords="3727,489,3988,533"/>
+<area shape="rect" id="node31" href="$d1/da9/ActionList_8hpp.html" title="Acts/Propagator/ActionList.hpp" alt="" coords="3967,397,4196,425"/>
+<area shape="rect" id="node32" href="$d4/d37/PropagatorError_8hpp.html" title="Acts/Propagator/Propagator\lError.hpp" alt="" coords="2487,389,2697,433"/>
+<area shape="rect" id="node39" href="$d8/d4a/StepperConcept_8hpp.html" title="Acts/Propagator/StepperConcept.hpp" alt="" coords="1290,397,1563,425"/>
+<area shape="rect" id="node41" href="$d0/d9a/VoidPropagatorComponents_8hpp.html" title="Acts/Propagator/detail\l/VoidPropagatorComponents.hpp" alt="" coords="2721,389,2967,433"/>
+<area shape="rect" id="node44" href="$d3/ded/Propagator_8ipp.html" title="Acts/Propagator/Propagator.ipp" alt="" coords="2991,397,3223,425"/>
+<area shape="rect" id="node36" href="$dc/d18/ConstrainedStep_8hpp.html" title="Acts/Propagator/Constrained\lStep.hpp" alt="" coords="1243,489,1458,533"/>
+<area shape="rect" id="node37" href="$d7/d50/BoundaryCheck_8hpp.html" title="Acts/Surfaces/BoundaryCheck.hpp" alt="" coords="1483,497,1739,525"/>
+</map>

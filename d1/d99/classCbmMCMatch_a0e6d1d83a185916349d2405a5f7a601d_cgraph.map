@@ -1,0 +1,49 @@
+<map id="CbmMCMatch::GetMCInfoForward" name="CbmMCMatch::GetMCInfoForward">
+<area shape="rect" id="node2" href="$d1/d99/classCbmMCMatch.html#ac8af14ff118e54c2b36603f613cfc250" title="CbmMCMatch::GetMCInfoForward\lSingle" alt="" coords="300,293,547,337"/>
+<area shape="rect" id="node44" href="$d1/d24/classCbmMCObject.html#af924c6b4229e80c5654ee78a81ee2303" title="CbmMCObject::GetNEntries" alt="" coords="320,535,527,563"/>
+<area shape="rect" id="node45" href="$d1/d24/classCbmMCObject.html#affc27eeecf72a58d87198bc1ad92d845" title="CbmMCObject::GetStageId" alt="" coords="323,587,524,615"/>
+<area shape="rect" id="node46" href="$d1/d24/classCbmMCObject.html#a290298d2443f08ee9443472d88adccf8" title="CbmMCObject::SetEntry" alt="" coords="331,431,515,459"/>
+<area shape="rect" id="node47" href="$dd/df9/classCbmMCEntry.html#a3ed662ef37015036a9df356a85f3db3e" title="CbmMCEntry::SetPos" alt="" coords="639,483,801,511"/>
+<area shape="rect" id="node48" href="$dd/df9/classCbmMCEntry.html#a565c5560506baaa94398338cd79880ce" title="CbmMCEntry::SetSource" alt="" coords="331,639,516,667"/>
+<area shape="rect" id="node3" href="$d1/d99/classCbmMCMatch.html#ac87afaf5bebaefa1e6217bc69f16d8ef" title="CbmMCMatch::ClearFinalStage" alt="" coords="606,99,834,127"/>
+<area shape="rect" id="node6" href="$df/d10/classFairMultiLinkedData.html#a6021b6584834def64d405d52c5f49429" title="Adds a FairLink link at the end of fLinks. If multi is kTRUE a link is allowed more than once otherwi..." alt="" coords="942,429,1095,473"/>
+<area shape="rect" id="node39" href="$d1/d99/classCbmMCMatch.html#af4b68bc903014aabb3e12ea4099e71a0" title="CbmMCMatch::FindStagesPointing\lToLinks" alt="" coords="595,293,845,337"/>
+<area shape="rect" id="node42" href="$df/d10/classFairMultiLinkedData.html#ae437a25eda24cab96a493fb63d3a9386" title="Sets the links as vector of FairLink." alt="" coords="942,123,1095,167"/>
+<area shape="rect" id="node4" href="$df/d10/classFairMultiLinkedData.html#ac25c7d1d20bee2908dc1a610487437f5" title="FairMultiLinkedData\l::Reset" alt="" coords="942,29,1095,73"/>
+<area shape="rect" id="node5" href="$df/d10/classFairMultiLinkedData.html#a2c1fbd86a029dda5631f1a570f291d2b" title="Clears fLinks." alt="" coords="1243,5,1396,49"/>
+<area shape="rect" id="node7" href="$d6/da5/classFairLink.html#a1d2581f4b79a434aacb932390dfa02a3" title="FairLink::GetWeight" alt="" coords="1537,456,1691,484"/>
+<area shape="rect" id="node8" href="$d6/da5/classFairLink.html#a7b9238bb9a934c83c1129c282a4c6057" title="FairLink::SetWeight" alt="" coords="1538,321,1690,349"/>
+<area shape="rect" id="node9" href="$d0/d6c/classFairRootManager.html#a830b7803b29e7424a75f2dc374dcc96b" title="FairRootManager::Instance" alt="" coords="1219,433,1420,461"/>
+<area shape="rect" id="node10" href="$d6/da5/classFairLink.html#a0b804a2beb1f7cd11e7e1367f3de67ed" title="FairLink::GetIndex" alt="" coords="1248,485,1391,513"/>
+<area shape="rect" id="node11" href="$d0/d6c/classFairRootManager.html#a7f2e8554087a63ad638c4fb80a87b320" title="FairRootManager::CheckBranch" alt="" coords="1203,657,1435,685"/>
+<area shape="rect" id="node15" href="$d0/d6c/classFairRootManager.html#a5ba9bc4dd1ea16cc2ef999a78aac0498" title="FairRootManager::GetBranchName" alt="" coords="1192,761,1447,789"/>
+<area shape="rect" id="node16" href="$d6/da5/classFairLink.html#ac24acb72d164de213ecc15521127e672" title="FairLink::GetType" alt="" coords="1251,261,1388,289"/>
+<area shape="rect" id="node17" href="$df/d10/classFairMultiLinkedData.html#ac2865b824ebdfa83404b34c028aceb50" title="Inserts a link into the list of links without persistance checking." alt="" coords="1243,589,1396,633"/>
+<area shape="rect" id="node19" href="$d0/d6c/classFairRootManager.html#a84a39c70b28a5b7ddb59c737cdee2709" title="FairRootManager::GetBranchId" alt="" coords="1206,813,1433,841"/>
+<area shape="rect" id="node20" href="$d0/d6c/classFairRootManager.html#abbbec76c83bcd0e1b78bef3c54e178eb" title="FairRootManager::GetObject" alt="" coords="1508,736,1720,764"/>
+<area shape="rect" id="node36" href="$df/d10/classFairMultiLinkedData.html#a073907c634728321ec446dcc3081f86b" title="returns the number of stored links" alt="" coords="1243,193,1396,237"/>
+<area shape="rect" id="node37" href="$df/d10/classFairMultiLinkedData.html#a265eac63eef64bca1588f529c2fed859" title="Adds a List of FairLinks (FairMultiLinkedData) to fLinks." alt="" coords="1243,313,1396,357"/>
+<area shape="rect" id="node12" href="$d0/d6c/classFairRootManager.html#a04b41ff94b887472752605bbc3282a67" title="FairRootManager::CreatePerMap" alt="" coords="1495,680,1733,708"/>
+<area shape="rect" id="node13" href="$d0/d6c/classFairRootManager.html#a6290139c7d60628625c0c0ff8a9c4b73" title="FairRootManager::CheckBranchSt" alt="" coords="1781,628,2028,656"/>
+<area shape="rect" id="node14" href="$d0/d6c/classFairRootManager.html#a6135b9b9cc49e5e778b81b566f75e0e8" title="FairRootManager::GetMemory\lBranch" alt="" coords="2077,620,2300,664"/>
+<area shape="rect" id="node18" href="$d6/da5/classFairLink.html#a9901f437889507bae3db3577078bc8ae" title="FairLink::AddWeight" alt="" coords="1536,576,1692,604"/>
+<area shape="rect" id="node21" href="$db/da1/classFairLogger.html#a60bd2d39c9b6c2be4d5c8893a7d6921e" title="FairLogger::Debug2" alt="" coords="2112,860,2265,888"/>
+<area shape="rect" id="node32" href="$d0/d6c/classFairRootManager.html#a62ae3b6bdfdb86e3c710ae18ebe67367" title="FairRootManager::Activate\lBranch" alt="" coords="1805,732,2004,776"/>
+<area shape="rect" id="node22" href="$db/da1/classFairLogger.html#ae5a926d95789678b453cbb45e0a9a46e" title="FairLogger::IsLogNeeded" alt="" coords="2349,715,2536,743"/>
+<area shape="rect" id="node23" href="$db/da1/classFairLogger.html#aa9d98b58fab95abcf553dfefe1e572f5" title="FairLogger::Log" alt="" coords="2381,767,2505,795"/>
+<area shape="rect" id="node24" href="$db/da1/classFairLogger.html#a5529c6ab25bc075aff767f30a743e616" title="FairLogger::OpenLogFile" alt="" coords="2869,715,3051,743"/>
+<area shape="rect" id="node26" href="$db/da1/classFairLogger.html#aeb76e4a75fe913ebdf1c07b5d1f3ac1b" title="FairLogger::GetOutputStream" alt="" coords="2584,767,2804,795"/>
+<area shape="rect" id="node29" href="$db/da1/classFairLogger.html#a496d9b3f72963d24a58abc5a023b74b0" title="End of the line." alt="" coords="2629,819,2759,847"/>
+<area shape="rect" id="node25" href="$db/da1/classFairLogger.html#a80d1ac93eff9a9b6d52f8118b8b796aa" title="FairLogger::CloseLogFile" alt="" coords="3116,715,3300,743"/>
+<area shape="rect" id="node27" href="$db/da1/classFairLogger.html#a6fe59f109418f1331c91c39d0ea33c1d" title="FairLogger::GetTime" alt="" coords="3129,780,3287,808"/>
+<area shape="rect" id="node28" href="$df/da1/namespaceActs_1_1VectorHelpers.html#ab52a0c8023eda1c81cc9ddfe7f03b535" title="Access to the time component of input parameter." alt="" coords="3348,772,3503,816"/>
+<area shape="rect" id="node30" href="$db/da1/classFairLogger.html#aca7a4fd0af5e622c9635f62996a7334d" title="Flush the streams." alt="" coords="3141,857,3275,885"/>
+<area shape="rect" id="node31" href="$db/da1/classFairLogger.html#a9848989e18afa7144b47ecc38b7bfe0e" title="FairLogger::LogFatalMessage" alt="" coords="2852,819,3068,847"/>
+<area shape="rect" id="node33" href="$db/da1/classFairLogger.html#a710e562aaff33766e424013a77d9cb77" title="FairLogger::Debug" alt="" coords="2117,688,2261,716"/>
+<area shape="rect" id="node34" href="$db/da1/classFairLogger.html#a3ebc5751836771a50a11e0e2491a9f68" title="FairLogger::Info" alt="" coords="2126,740,2251,768"/>
+<area shape="rect" id="node35" href="$d0/d6c/classFairRootManager.html#ae01e51ec943e7e829002b077cf50792d" title="FairRootManager::AddMemory\lBranch" alt="" coords="2076,792,2301,836"/>
+<area shape="rect" id="node38" href="$df/d10/classFairMultiLinkedData.html#aa07f66692e0d0395427407b42aa91638" title="returns stored links as FairLinks" alt="" coords="1537,160,1691,204"/>
+<area shape="rect" id="node40" href="$d1/d99/classCbmMCMatch.html#ab52043f33eb7c8f16d42dd323c011f46" title="CbmMCMatch::FindStagesPointing\lToLink" alt="" coords="893,361,1144,405"/>
+<area shape="rect" id="node41" href="$df/d10/classFairMultiLinkedData.html#a780d4c67e1e44718825af90ed2fb8de7" title="returns the FairLink at the given position" alt="" coords="942,293,1095,337"/>
+<area shape="rect" id="node43" href="$df/d10/classFairMultiLinkedData.html#a429111ed142e6f5d1bfaa58a034c70ac" title="Multiplies all Links with weight." alt="" coords="1242,125,1397,169"/>
+</map>

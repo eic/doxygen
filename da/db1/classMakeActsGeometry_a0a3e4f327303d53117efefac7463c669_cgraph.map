@@ -1,0 +1,51 @@
+<map id="MakeActsGeometry::makeGeometry" name="MakeActsGeometry::makeGeometry">
+<area shape="rect" id="node2" href="$d6/d55/namespaceFW_1_1Options.html#ac891c6fc87677a259412d298a991c641" title="FW::Options::addBFieldOptions" alt="" coords="321,324,552,352"/>
+<area shape="rect" id="node3" href="$d6/d55/namespaceFW_1_1Options.html#ae1ce2e4db604849fc520012e78d8a476" title="Add common geometry&#45;related options." alt="" coords="334,376,539,420"/>
+<area shape="rect" id="node4" href="$d6/d55/namespaceFW_1_1Options.html#a61db487f0d3c98c0ce3d60454bd8996d" title="Add common material&#45;related options." alt="" coords="341,444,533,488"/>
+<area shape="rect" id="node5" href="$d6/d55/namespaceFW_1_1Options.html#af94cc4c2dc19dbd7ebed2a39a131edbe" title="FW::Options::addObjWriter\lOptions" alt="" coords="335,512,538,556"/>
+<area shape="rect" id="node6" href="$d6/d55/namespaceFW_1_1Options.html#a4de04c7095cf34079cb7eaa38d7965b2" title="Add common output&#45;related options." alt="" coords="319,580,555,608"/>
+<area shape="rect" id="node7" href="$d9/d8b/build_8cxx.html#a7e405971f86730952f175f9d706988dc" title="build" alt="" coords="409,632,464,660"/>
+<area shape="rect" id="node25" href="$da/d7b/namespaceActs.html#a9b4dee934b0b193d57604b19bc8cd527" title="get default debug output logger" alt="" coords="347,684,526,712"/>
+<area shape="rect" id="node27" href="$d6/d55/namespaceFW_1_1Options.html#aff334d85da454b0e8ba3582ed31f9359" title="FW::Options::makeDefault\lOptions" alt="" coords="337,736,536,780"/>
+<area shape="rect" id="node28" href="$df/d4b/namespaceeicpy_1_1build.html#ae8d61caea5ec1f184431e08df6b981b4" title="eicpy.build.parse" alt="" coords="369,804,504,832"/>
+<area shape="rect" id="node29" href="$d6/d55/namespaceFW_1_1Options.html#a776cec7f66a21c691727a431a56e8e7a" title="FW::Options::readBField" alt="" coords="345,856,528,884"/>
+<area shape="rect" id="node36" href="$d3/d9b/namespacenlohmann.html#a6ce645a0b8717757e096a5b5773b7a16" title="user&#45;defined to_string function for JSON values" alt="" coords="358,908,515,936"/>
+<area shape="rect" id="node37" href="$da/db1/classMakeActsGeometry.html#a6c06c33bcf0b960a5848047dfc80e54e" title="MakeActsGeometry::unpack\lVolumes" alt="" coords="331,1148,542,1192"/>
+<area shape="rect" id="node8" href="$d8/d5c/functions_8h.html#a1e5909df3bf9092f8962488e43bb1542" title="BuildTree" alt="" coords="682,417,766,445"/>
+<area shape="rect" id="node9" href="$d0/d81/classerhic_1_1FileType.html#aba3fa9a0835498036beeb2c8e46cf1e6" title="erhic::FileType::CreateLog\lReader" alt="" coords="914,5,1109,49"/>
+<area shape="rect" id="node10" href="$dc/dad/classerhic_1_1LogReader.html#ae2a0aef19ee689886ee50a448cf63f0a" title="erhic::LogReader::Extract" alt="" coords="915,73,1108,101"/>
+<area shape="rect" id="node11" href="$da/d40/classerhic_1_1Forester.html#a61ca2e2d6c33bc3fbb286b86ff9bd950" title="erhic::Forester::GetFileType" alt="" coords="909,125,1114,153"/>
+<area shape="rect" id="node12" href="$df/d10/classerhic_1_1LogReaderFactory.html#a9596c8f9e24bb6c475e8ac091328a7fb" title="erhic::LogReaderFactory\l::GetInstance" alt="" coords="919,177,1103,221"/>
+<area shape="rect" id="node13" href="$df/d10/classerhic_1_1LogReaderFactory.html#ab30cde075979f13c9920e1587bed0f61" title="erhic::LogReaderFactory\l::Locate" alt="" coords="919,245,1103,289"/>
+<area shape="rect" id="node14" href="$da/d40/classerhic_1_1Forester.html#a8d3040ffb1d358e9cb097e95c9ac2618" title="erhic::Forester::Plant" alt="" coords="930,313,1093,341"/>
+<area shape="rect" id="node17" href="$d0/dfa/reader_8C.html#a262d195bd786506862f9ad0d1aeb76cf" title="reader" alt="" coords="978,365,1045,393"/>
+<area shape="rect" id="node18" href="$dc/dad/classerhic_1_1LogReader.html#a1104ca51c8aa8794b960bf46d602e3ac" title="erhic::LogReader::Save" alt="" coords="923,417,1100,445"/>
+<area shape="rect" id="node19" href="$da/d40/classerhic_1_1Forester.html#a992b222623b8dec510ade59f7415cb47" title="erhic::Forester::SetBeVerbose" alt="" coords="901,469,1122,497"/>
+<area shape="rect" id="node20" href="$da/d40/classerhic_1_1Forester.html#afbab88215f5c998e7df6d4c3b8536ab0" title="erhic::Forester::SetBranchName" alt="" coords="893,521,1129,549"/>
+<area shape="rect" id="node21" href="$da/d40/classerhic_1_1Forester.html#ab776909a015ba2273d1bccd4975b1ebe" title="erhic::Forester::SetInput\lFileName" alt="" coords="919,573,1104,617"/>
+<area shape="rect" id="node22" href="$da/d40/classerhic_1_1Forester.html#a28aa0d9c0ee9b5c5f5ad03753958abb6" title="erhic::Forester::SetMaxNEvents" alt="" coords="895,641,1128,669"/>
+<area shape="rect" id="node23" href="$da/d40/classerhic_1_1Forester.html#ae46cde7a821d3bbff4741063fa64811b" title="erhic::Forester::SetMessage\lInterval" alt="" coords="907,693,1115,737"/>
+<area shape="rect" id="node24" href="$da/d40/classerhic_1_1Forester.html#ad8adf0d1358b13683600596f33723e3c" title="erhic::Forester::SetOutput\lFileName" alt="" coords="913,761,1110,805"/>
+<area shape="rect" id="node15" href="$da/d40/classerhic_1_1Forester.html#a968a154a17b9fcc6f385c8ea0fc0394b" title="erhic::Forester::OpenInput" alt="" coords="1185,288,1384,316"/>
+<area shape="rect" id="node16" href="$da/d40/classerhic_1_1Forester.html#acb9d5da7354570cd4b9f69c6f2dd7d13" title="erhic::Forester::SetupOutput" alt="" coords="1177,340,1392,368"/>
+<area shape="rect" id="node26" href="$dd/d94/fun4all__tutorials_2blob_2master_2materialscan_2matscan_8C.html#a388f572c62279f839ee138a9afbdeeb5" title="print" alt="" coords="697,684,751,712"/>
+<area shape="rect" id="node30" href="$d2/d76/namespaceFW_1_1BField_1_1root.html#a7ccc94f9735056c1d3b408138d8c5af0" title="FW::BField::root::fieldMapperRZ" alt="" coords="607,777,841,805"/>
+<area shape="rect" id="node32" href="$d2/d76/namespaceFW_1_1BField_1_1root.html#aba0ff67f5a12cb4ad9296f85fc631427" title="FW::BField::root::fieldMapperXYZ" alt="" coords="603,881,845,909"/>
+<area shape="rect" id="node34" href="$dc/dbe/namespaceFW_1_1BField_1_1txt.html#a0c0a6561fcc20c432a0c9f3df0053ac5" title="FW::BField::txt::fieldMapperRZ" alt="" coords="611,829,837,857"/>
+<area shape="rect" id="node35" href="$dc/dbe/namespaceFW_1_1BField_1_1txt.html#abdaabf29e920c6c2631627db40d641f1" title="FW::BField::txt::fieldMapperXYZ" alt="" coords="607,933,841,961"/>
+<area shape="rect" id="node31" href="$da/d7b/namespaceActs.html#aa46031ee88f77bb14022872f010d897a" title="Acts::fieldMapperRZ" alt="" coords="932,829,1091,857"/>
+<area shape="rect" id="node33" href="$da/d7b/namespaceActs.html#a4a08a66d4382d4519b6373d6fbd1991d" title="Acts::fieldMapperXYZ" alt="" coords="928,907,1095,935"/>
+<area shape="rect" id="node38" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="1197,1156,1373,1184"/>
+<area shape="rect" id="node39" href="$da/db1/classMakeActsGeometry.html#a703340410b4232c39800ede2f3bb1ff9" title="MakeActsGeometry::makeMm\lMapPairs" alt="" coords="613,1088,835,1132"/>
+<area shape="rect" id="node41" href="$da/db1/classMakeActsGeometry.html#ab9b4afbf5dfd3c6f7fa38830a6560377" title="MakeActsGeometry::makeMvtx\lMapPairs" alt="" coords="609,1208,839,1252"/>
+<area shape="rect" id="node45" href="$da/db1/classMakeActsGeometry.html#a1a27c0b3d2775dc4b48913ab77a8927a" title="MakeActsGeometry::makeIntt\lMapPairs" alt="" coords="613,1432,835,1476"/>
+<area shape="rect" id="node49" href="$da/db1/classMakeActsGeometry.html#adfd719c4ad9ad3b4f1cb962f1718d4a8" title="MakeActsGeometry::makeTpc\lMapPairs" alt="" coords="613,1596,835,1640"/>
+<area shape="rect" id="node40" href="$da/db1/classMakeActsGeometry.html#aa230d9ccbaf4076ac479c08623a9608e" title="MakeActsGeometry::getMmHit\lSetKeyFromCoords" alt="" coords="898,1088,1125,1132"/>
+<area shape="rect" id="node42" href="$da/db1/classMakeActsGeometry.html#ad1297a652617e697364fc272f4d5a2e6" title="Get subdetector hitsetkey from the local sensor unit coordinates." alt="" coords="903,1208,1119,1252"/>
+<area shape="rect" id="node43" href="$d8/df1/namespaceMvtxDefs.html#a0d6fee920baed2f17bed6f7990bb88c3" title="Get the stave id from hitsetkey." alt="" coords="929,1276,1094,1304"/>
+<area shape="rect" id="node44" href="$d8/df1/namespaceMvtxDefs.html#abfd7b6c5fe579370c360924854579283" title="Get the chip id from hitsetkey." alt="" coords="933,1328,1090,1356"/>
+<area shape="rect" id="node46" href="$da/db1/classMakeActsGeometry.html#af74b4bf4b1279e8a92921bfe162a16c3" title="MakeActsGeometry::getIntt\lHitSetKeyFromCoords" alt="" coords="908,1432,1115,1476"/>
+<area shape="rect" id="node47" href="$d6/d9e/namespaceInttDefs.html#a28461d6132ff9373b4529e5c0d20c962" title="Get the sensor id from hitsetkey." alt="" coords="919,1500,1104,1528"/>
+<area shape="rect" id="node48" href="$d6/d9e/namespaceInttDefs.html#aeb0f2c2a834c11791925bdffc211526d" title="Get the ladder id from hitsetkey." alt="" coords="925,1552,1098,1580"/>
+<area shape="rect" id="node50" href="$da/db1/classMakeActsGeometry.html#aadffa77ea1344700447ca41d68bef29c" title="MakeActsGeometry::getTpc\lHitSetKeyFromCoords" alt="" coords="908,1656,1115,1700"/>
+</map>

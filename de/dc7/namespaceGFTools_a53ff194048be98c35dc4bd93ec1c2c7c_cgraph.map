@@ -1,0 +1,10 @@
+<map id="GFTools::getSmoothedChiSqu" name="GFTools::getSmoothedChiSqu">
+<area shape="rect" id="node2" href="$de/dc7/namespaceGFTools.html#ab533295683598a16f0831aa6eea7b614" title="Get biased smoothed state vector and state covariance." alt="" coords="273,5,523,33"/>
+<area shape="rect" id="node3" href="$d4/d33/classGFTrack.html#a736fa5128d9414c62a1e2f19390588d1" title="GFTrack::getHit" alt="" coords="335,57,461,85"/>
+<area shape="rect" id="node4" href="$df/d1a/classGFAbsRecoHit.html#a65ea7b2c69b91cc42d749b1625e9eeba" title="Get transformation matrix. Transformation between hit coordinates and track representation coordinate..." alt="" coords="299,109,497,137"/>
+<area shape="rect" id="node5" href="$df/d1a/classGFAbsRecoHit.html#a64b8a6232dc2659bf17630fc39bf6fa3" title="Get raw hit coordinates." alt="" coords="281,161,515,189"/>
+<area shape="rect" id="node6" href="$df/d1a/classGFAbsRecoHit.html#a9d689ff63b2804600c3f5c1fbc1322bc" title="Get raw hit covariances." alt="" coords="289,213,507,241"/>
+<area shape="rect" id="node7" href="$d4/d33/classGFTrack.html#a47b1c90bd5fb51333b11958d94411b6f" title="Accessor for track representations." alt="" coords="315,265,481,293"/>
+<area shape="rect" id="node8" href="$de/dc7/namespaceGFTools.html#a91584ea29490044c1bdd8270f39400e6" title="Invert a matrix, throwing GFException when inversion fails." alt="" coords="316,317,480,345"/>
+<area shape="rect" id="node9" href="$df/d55/classGFException.html#a886ef3de22cdff9ceee36449be8643c2" title="set fatal flag. if this is true, the fit stops for this current track repr." alt="" coords="571,317,737,345"/>
+</map>

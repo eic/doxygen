@@ -1,0 +1,10 @@
+<map id="FW::IBaseDetector::addOptions" name="FW::IBaseDetector::addOptions">
+<area shape="rect" id="node2" href="$de/d20/MaterialMappingBase_8cpp.html#a560c2553d11fb0b8b7b0edd87b9a4bbb" title="The material validation example, it runs a propagation and then writes out the material information..." alt="" coords="211,5,406,33"/>
+<area shape="rect" id="node4" href="$dc/da7/MaterialValidationBase_8cpp.html#a7344033c3c1eb54fe314517795fa1b4f" title="The material validation example, it runs a propagation and then writes out the material information..." alt="" coords="207,57,411,85"/>
+<area shape="rect" id="node6" href="$d0/d8e/GeometryExampleBase_8cpp.html#a0c147d9528d5e6369e76b632acddb834" title="method to process a geometry" alt="" coords="239,109,379,137"/>
+<area shape="rect" id="node8" href="$d3/d32/PropagationExampleBase_8cpp.html#a547a2dbde1cd0681a15d22bdfaa29b07" title="propagationExample" alt="" coords="227,161,390,189"/>
+<area shape="rect" id="node3" href="$d2/d9d/DD4hepMaterialMapping_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main executable" alt="" coords="459,5,513,33"/>
+<area shape="rect" id="node5" href="$d4/d63/DD4hepMaterialValidation_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main executable" alt="" coords="459,57,513,85"/>
+<area shape="rect" id="node7" href="$db/d1f/AlignedGeometryExample_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main executable" alt="" coords="459,109,513,137"/>
+<area shape="rect" id="node9" href="$df/d8a/AlignedPropagationExample_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main executable" alt="" coords="459,161,513,189"/>
+</map>

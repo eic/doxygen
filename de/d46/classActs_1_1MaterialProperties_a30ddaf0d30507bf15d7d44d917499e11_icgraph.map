@@ -1,0 +1,14 @@
+<map id="Acts::MaterialProperties::thicknessInX0" name="Acts::MaterialProperties::thicknessInX0">
+<area shape="rect" id="node2" href="$d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a28e9e0c64fdcd2a904334c82c61568c0" title="this adds the material properties to event store" alt="" coords="245,5,447,49"/>
+<area shape="rect" id="node3" href="$dd/d7e/namespaceActs_1_1Test.html#a6a8a6a0191f42178156c363a22a80a88" title="Test the event averaging behavior." alt="" coords="504,36,692,80"/>
+<area shape="rect" id="node4" href="$db/dc8/MaterialPropertiesTests_8cpp.html#a69cb74af4fd420a8fcfa3b484e2cb842" title="BOOST_AUTO_TEST_CASE" alt="" coords="248,125,444,153"/>
+<area shape="rect" id="node5" href="$de/d46/classActs_1_1MaterialProperties.html#a91b6642f44a9c1ed74ce66b05b7883b5" title="Acts::MaterialProperties\l::MaterialProperties" alt="" coords="255,177,437,221"/>
+<area shape="rect" id="node6" href="$dd/d91/structActsFatras_1_1PathLimitX0.html#a0eb8c4c97209cd0ddcc62e5228246835" title="ActsFatras::PathLimitX0\l::operator()" alt="" coords="255,245,437,289"/>
+<area shape="rect" id="node7" href="$d5/db5/structActsFatras_1_1BetheHeitler.html#a1d0ae87312c935007c8c388408d64dc6" title="ActsFatras::BetheHeitler\l::operator()" alt="" coords="253,313,439,357"/>
+<area shape="rect" id="node8" href="$d3/dc9/structActsFatras_1_1detail_1_1GeneralMixture.html#a62a7f22e51e9117bd4191aed447d795a" title="ActsFatras::detail\l::GeneralMixture::operator()" alt="" coords="241,381,451,425"/>
+<area shape="rect" id="node9" href="$d6/d94/structActsFatras_1_1detail_1_1GaussianMixture.html#a607acae344c8ee6de058f32620fd0612" title="ActsFatras::detail\l::GaussianMixture::operator()" alt="" coords="236,449,456,493"/>
+<area shape="rect" id="node10" href="$d9/d06/structActs_1_1MaterialCollector.html#a6eabd568c652b6d2da7c1de8482a6692" title="Acts::MaterialCollector\l::operator()" alt="" coords="258,517,434,561"/>
+<area shape="rect" id="node11" href="$dd/d5c/structActsFatras_1_1Interactor.html#ab673fdf3cb8fe921cc6d96f27d86f18c" title="ActsFatras::Interactor\l::operator()" alt="" coords="262,585,430,629"/>
+<area shape="rect" id="node12" href="$d0/d33/structActs_1_1MaterialInteractor.html#a8bfe113937d0be869a82816dc8209615" title="This function records the material effect." alt="" coords="255,653,437,697"/>
+<area shape="rect" id="node13" href="$d0/d33/structActs_1_1MaterialInteractor.html#a4486d15eab43bcb28d9e7f9d4eb12584" title="Interaction with detector material for the ActionList of the Propagator." alt="" coords="507,653,689,697"/>
+</map>

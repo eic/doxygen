@@ -1,0 +1,30 @@
+<map id="fun4all_acts/blob/master/Examples/Algorithms/MaterialMapping/src/MaterialMapping.cpp" name="fun4all_acts/blob/master/Examples/Algorithms/MaterialMapping/src/MaterialMapping.cpp">
+<area shape="rect" id="node2" href="$d7/d5e/MaterialMapping_8hpp.html" title="ACTFW/MaterialMapping\l/MaterialMapping.hpp" alt="" coords="3328,113,3516,157"/>
+<area shape="rect" id="node48" href="$d0/d18/WhiteBoard_8hpp.html" title="ACTFW/Framework/WhiteBoard.hpp" alt="" coords="4107,397,4369,425"/>
+<area shape="rect" id="node3" href="$d1/df0/SurfaceMaterialMapper_8hpp.html" title="Acts/Material/SurfaceMaterial\lMapper.hpp" alt="" coords="2145,205,2365,249"/>
+<area shape="rect" id="node38" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="3178,489,3365,517"/>
+<area shape="rect" id="node43" href="$dd/d9b/BareAlgorithm_8hpp.html" title="ACTFW/Framework/BareAlgorithm.hpp" alt="" coords="3468,397,3749,425"/>
+<area shape="rect" id="node46" href="$d4/dcf/IMaterialWriter_8hpp.html" title="ACTFW/MaterialMapping\l/IMaterialWriter.hpp" alt="" coords="56,481,244,525"/>
+<area shape="rect" id="node4" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="1933,665,2210,693"/>
+<area shape="rect" id="node6" href="$d3/d69/GeometryID_8hpp.html" title="Acts/Geometry/GeometryID.hpp" alt="" coords="5,581,244,609"/>
+<area shape="rect" id="node10" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="2258,573,2461,617"/>
+<area shape="rect" id="node11" href="$d8/dc7/AccumulatedSurfaceMaterial_8hpp.html" title="Acts/Material/Accumulated\lSurfaceMaterial.hpp" alt="" coords="585,389,787,433"/>
+<area shape="rect" id="node16" href="$da/dd4/ISurfaceMaterial_8hpp.html" title="Acts/Material/ISurfaceMaterial.hpp" alt="" coords="1077,489,1332,517"/>
+<area shape="rect" id="node21" href="$d2/d56/MaterialInteractor_8hpp.html" title="Acts/Propagator/Material\lInteractor.hpp" alt="" coords="1503,297,1691,341"/>
+<area shape="rect" id="node26" href="$d8/ddd/Surface_8hpp.html" title="Acts/Surfaces/Surface.hpp" alt="" coords="1733,581,1933,609"/>
+<area shape="rect" id="node30" href="$d2/de2/Navigator_8hpp.html" title="Acts/Propagator/Navigator.hpp" alt="" coords="2931,397,3161,425"/>
+<area shape="rect" id="node33" href="$d5/d20/Propagator_8hpp.html" title="Acts/Propagator/Propagator.hpp" alt="" coords="2714,489,2951,517"/>
+<area shape="rect" id="node35" href="$db/d9e/StraightLineStepper_8hpp.html" title="Acts/Propagator/Straight\lLineStepper.hpp" alt="" coords="2451,481,2639,525"/>
+<area shape="rect" id="node36" href="$d9/d30/SurfaceCollector_8hpp.html" title="Acts/Propagator/SurfaceCollector.hpp" alt="" coords="1999,489,2274,517"/>
+<area shape="rect" id="node37" href="$d1/de2/VolumeCollector_8hpp.html" title="Acts/Propagator/VolumeCollector.hpp" alt="" coords="1660,397,1933,425"/>
+<area shape="rect" id="node14" href="$d7/d93/AccumulatedMaterialProperties_8hpp.html" title="Acts/Material/Accumulated\lMaterialProperties.hpp" alt="" coords="698,481,901,525"/>
+<area shape="rect" id="node15" href="$d2/ddb/MaterialProperties_8hpp.html" title="Acts/Material/MaterialProperties.hpp" alt="" coords="855,581,1123,609"/>
+<area shape="rect" id="node18" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="1433,665,1646,693"/>
+<area shape="rect" id="node19" href="$d2/d0a/BinUtility_8hpp.html" title="Acts/Utilities/BinUtility.hpp" alt="" coords="472,489,673,517"/>
+<area shape="rect" id="node23" href="$df/d37/TrackingVolume_8hpp.html" title="Acts/Geometry/TrackingVolume.hpp" alt="" coords="1407,489,1671,517"/>
+<area shape="rect" id="node27" href="$d3/dc1/PointwiseMaterialInteraction_8hpp.html" title="Acts/Propagator/detail\l/PointwiseMaterialInteraction.hpp" alt="" coords="1285,389,1535,433"/>
+<area shape="rect" id="node28" href="$db/dfa/VolumeMaterialInteraction_8hpp.html" title="Acts/Propagator/detail\l/VolumeMaterialInteraction.hpp" alt="" coords="1025,389,1261,433"/>
+<area shape="rect" id="node29" href="$df/d6f/Units_8hpp.html" title="Acts/Utilities/Units.hpp" alt="" coords="2687,581,2863,609"/>
+<area shape="rect" id="node44" href="$d3/d98/IAlgorithm_8hpp.html" title="ACTFW/Framework/IAlgorithm.hpp" alt="" coords="3490,489,3743,517"/>
+<area shape="rect" id="node45" href="$d1/d06/ProcessCode_8hpp.html" title="ACTFW/Framework/ProcessCode.hpp" alt="" coords="3575,581,3845,609"/>
+</map>

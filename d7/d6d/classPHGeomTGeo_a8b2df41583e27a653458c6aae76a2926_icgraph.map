@@ -1,0 +1,29 @@
+<map id="PHGeomTGeo::SetGeometry" name="PHGeomTGeo::SetGeometry">
+<area shape="rect" id="node2" href="$da/db1/classMakeActsGeometry.html#af83635dc26165004c52f8bc8260a4b88" title="MakeActsGeometry::editTPCGeometry" alt="" coords="267,245,547,273"/>
+<area shape="rect" id="node5" href="$d2/da1/classPHGeomUtility.html#ae053065752b1bff9f63f585b6fefc68b" title="gGeoManager &#45;&gt; DST node" alt="" coords="295,304,518,348"/>
+<area shape="rect" id="node6" href="$d2/da1/classPHGeomUtility.html#a4a80252bedb22198d011065e41aa669e" title="TGeo ROOT/GDML/Macro file &#45;&gt; DST node with automatic file type discrimination based on file names..." alt="" coords="289,372,524,400"/>
+<area shape="rect" id="node28" href="$d2/da1/classPHGeomUtility.html#ae062424701e91fed6173ca3aa29779e4" title="PHGeomUtility::LoadFromIONode" alt="" coords="285,424,528,452"/>
+<area shape="rect" id="node3" href="$da/db1/classMakeActsGeometry.html#aa809a1c2b47d8c089a0dc4a6a96d1cc8" title="Main function to build all acts geometry for use in the fitting modules." alt="" coords="595,235,805,279"/>
+<area shape="rect" id="node4" href="$da/db1/classMakeActsGeometry.html#ad9671cebebf0ab5a605941df542ad66b" title="MakeActsGeometry::InitRun" alt="" coords="853,239,1061,267"/>
+<area shape="rect" id="node7" href="$de/d0f/classPHGeomFileImport.html#aec25f7186f832f7d3bf4c5cce29fcd3b" title="PHGeomFileImport::InitRun" alt="" coords="599,372,801,400"/>
+<area shape="rect" id="node8" href="$d0/d78/classPHG4Reco.html#a9d8228ce8682c19cd6be2f6b44ec847b" title="PHG4Reco::InitRun" alt="" coords="627,437,773,465"/>
+<area shape="rect" id="node9" href="$d6/db7/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2DisplayOn_8C.html#a8ac4d6fb78f920957b354f88d6195f54" title="DisplayOn" alt="" coords="912,291,1003,319"/>
+<area shape="rect" id="node22" href="$d5/df2/Fun4All__EIC__Generator__Display_8C.html#a276181099936efe81415286b29f36e51" title="Fun4All_EIC_Generator\l_Display" alt="" coords="869,343,1045,387"/>
+<area shape="rect" id="node23" href="$d3/d42/Fun4All__G4__QtDisplay_8C.html#a7fc9d96420ef1de5f1fc43a1657ac8bf" title="Fun4All_G4_QtDisplay" alt="" coords="873,411,1042,439"/>
+<area shape="rect" id="node24" href="$d7/da9/Fun4All__G4__Tracking_8C.html#acaee55add6a4a54eb182c6120db9649a" title="Fun4All_G4_Tracking" alt="" coords="877,463,1037,491"/>
+<area shape="rect" id="node25" href="$d4/dfa/Fun4All__Generator__Display_8C.html#af87924a94b22e18901f0d64805565f09" title="Fun4All_Generator_Display" alt="" coords="856,515,1059,543"/>
+<area shape="rect" id="node26" href="$dd/d94/fun4all__tutorials_2blob_2master_2materialscan_2matscan_8C.html#a98ccbc6135fead542f3c4d1dd6882d63" title="matscan" alt="" coords="918,567,997,595"/>
+<area shape="rect" id="node27" href="$d6/db7/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2DisplayOn_8C.html#a36f5cc4ebb7cd23dac7e492d5c38fbc0" title="QTGui" alt="" coords="926,619,989,647"/>
+<area shape="rect" id="node10" href="$db/dc0/Fun4All__AnaTutorial_8C.html#aeb927fc74810ef9bc0c056302f1fbe69" title="Fun4All_AnaTutorial" alt="" coords="1153,5,1307,33"/>
+<area shape="rect" id="node11" href="$dd/d28/Fun4All__AnaTutorial__Jets_8C.html#a49f0c60dbca7146b42abc2eedf173722" title="Fun4All_AnaTutorial_Jets" alt="" coords="1137,57,1323,85"/>
+<area shape="rect" id="node12" href="$d8/d14/Fun4All__G4__Babar_8C.html#ae3babc7f493f8a671f129ef3084ebc23" title="Fun4All_G4_Babar" alt="" coords="1157,109,1303,137"/>
+<area shape="rect" id="node13" href="$df/d9d/fun4all__eicmacros_2blob_2master_2detectors_2Beast_2Fun4All__G4__Beast_8C.html#aa12a55b170fc12d7549cea7cc497eb38" title="Fun4All_G4_Beast" alt="" coords="1159,161,1301,189"/>
+<area shape="rect" id="node14" href="$de/dcc/Fun4All__G4__Cleo_8C.html#ae4d584d6f7864ddc358a5cb1bf03bfa5" title="Fun4All_G4_Cleo" alt="" coords="1163,213,1297,241"/>
+<area shape="rect" id="node15" href="$d4/d91/fun4all__macros_2blob_2master_2detectors_2EICDetector_2Fun4All__G4__EICDetector_8C.html#add9dee08cdb08b59c0b3870bb04994d9" title="Fun4All_G4_EICDetector" alt="" coords="1137,265,1323,293"/>
+<area shape="rect" id="node16" href="$d7/d9e/Fun4All__G4__fsPHENIX_8C.html#a75e8ef26e92f882a865536a3e16244c5" title="Fun4All_G4_fsPHENIX" alt="" coords="1147,317,1313,345"/>
+<area shape="rect" id="node17" href="$d5/d97/Fun4All__G4__FullDetectorModular_8C.html#a3718da6a9c8edc72f231ee413c514dad" title="Fun4All_G4_FullDetectorModular" alt="" coords="1109,369,1351,397"/>
+<area shape="rect" id="node18" href="$d0/dce/Fun4All__G4__FullDetectorModularBeast_8C.html#a0f10ba4ce157df87369cfd776fc132d3" title="Fun4All_G4_FullDetectorModular\lBeast" alt="" coords="1109,421,1351,465"/>
+<area shape="rect" id="node19" href="$d0/d87/Fun4All__G4__JLeic_8C.html#a7a87d035cddeb1ed64bf376560381994" title="Fun4All_G4_JLeic" alt="" coords="1163,489,1297,517"/>
+<area shape="rect" id="node20" href="$d9/d73/fun4all__macros_2blob_2master_2detectors_2sPHENIX_2Fun4All__G4__sPHENIX_8C.html#a4102cd3e195333de974409428a2e6dae" title="Fun4All_G4_sPHENIX" alt="" coords="1149,541,1311,569"/>
+<area shape="rect" id="node21" href="$d3/d2b/Fun4All__G4__sPHENIX__particle__gen_8C.html#a381adc702b7bfb99356660cdb6407e70" title="Fun4All_G4_sPHENIX\l_particle_gen" alt="" coords="1149,593,1311,637"/>
+</map>

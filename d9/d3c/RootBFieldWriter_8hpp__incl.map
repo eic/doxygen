@@ -1,0 +1,25 @@
+<map id="fun4all_acts/blob/master/Examples/Io/Root/include/ACTFW/Io/Root/RootBFieldWriter.hpp" name="fun4all_acts/blob/master/Examples/Io/Root/include/ACTFW/Io/Root/RootBFieldWriter.hpp">
+<area shape="rect" id="node2" href="$de/d07/ConstantBField_8hpp.html" title="Acts/MagneticField\l/ConstantBField.hpp" alt="" coords="3102,205,3261,249"/>
+<area shape="rect" id="node7" href="$d5/d5a/InterpolatedBFieldMap_8hpp.html" title="Acts/MagneticField\l/InterpolatedBFieldMap.hpp" alt="" coords="1214,113,1423,157"/>
+<area shape="rect" id="node22" href="$d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html" title="Acts/Utilities/Helpers.hpp" alt="" coords="1837,213,2030,241"/>
+<area shape="rect" id="node34" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="2469,213,2656,241"/>
+<area shape="rect" id="node38" href="$df/d6f/Units_8hpp.html" title="Acts/Utilities/Units.hpp" alt="" coords="1887,121,2063,149"/>
+<area shape="rect" id="node45" href="$da/d0c/IService_8hpp.html" title="ACTFW/Framework/IService.hpp" alt="" coords="2711,121,2948,149"/>
+<area shape="rect" id="node49" href="$d1/d06/ProcessCode_8hpp.html" title="ACTFW/Framework/ProcessCode.hpp" alt="" coords="2972,121,3241,149"/>
+<area shape="rect" id="node50" href="$dc/d88/ScalableBField_8hpp.html" title="ACTFW/Plugins/BField\l/ScalableBField.hpp" alt="" coords="2909,205,3077,249"/>
+<area shape="rect" id="node3" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="3008,297,3211,341"/>
+<area shape="rect" id="node5" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="1648,397,1861,425"/>
+<area shape="rect" id="node11" href="$d8/d1d/Interpolation_8hpp.html" title="Acts/Utilities/Interpolation.hpp" alt="" coords="759,305,987,333"/>
+<area shape="rect" id="node15" href="$db/d33/Grid_8hpp.html" title="Acts/Utilities/detail\l/Grid.hpp" alt="" coords="505,205,653,249"/>
+<area shape="rect" id="node14" href="$d5/d1a/interpolation__impl_8hpp.html" title="Acts/Utilities/detail\l/interpolation_impl.hpp" alt="" coords="655,389,835,433"/>
+<area shape="rect" id="node16" href="$d6/d96/GridFwd_8hpp.html" title="Acts/Utilities/detail\l/GridFwd.hpp" alt="" coords="369,297,517,341"/>
+<area shape="rect" id="node20" href="$d8/d7b/IAxis_8hpp.html" title="Acts/Utilities/IAxis.hpp" alt="" coords="457,397,631,425"/>
+<area shape="rect" id="node21" href="$d1/d1a/grid__helper_8hpp.html" title="Acts/Utilities/detail\l/grid_helper.hpp" alt="" coords="145,297,293,341"/>
+<area shape="rect" id="node30" href="$de/d09/BinningType_8hpp.html" title="Acts/Utilities/BinningType.hpp" alt="" coords="1497,305,1721,333"/>
+<area shape="rect" id="node31" href="$d8/dfd/ParameterDefinitions_8hpp.html" title="Acts/Utilities/Parameter\lDefinitions.hpp" alt="" coords="1971,297,2152,341"/>
+<area shape="rect" id="node33" href="$d0/d81/TypeTraits_8hpp.html" title="Acts/Utilities/TypeTraits.hpp" alt="" coords="1215,305,1423,333"/>
+<area shape="rect" id="node32" href="$d7/d46/ParameterTypes_8hpp.html" title="Acts/Utilities/Parameter\lTypes.hpp" alt="" coords="1885,389,2067,433"/>
+<area shape="rect" id="node46" href="$de/d37/AlgorithmContext_8hpp.html" title="ACTFW/Framework/Algorithm\lContext.hpp" alt="" coords="3337,205,3557,249"/>
+<area shape="rect" id="node47" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="3544,305,3821,333"/>
+<area shape="rect" id="node48" href="$d0/d28/CalibrationContext_8hpp.html" title="Acts/Utilities/Calibration\lContext.hpp" alt="" coords="3336,297,3520,341"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Acts::IntegrationTest::BOOST_DATA_TEST_CASE" name="Acts::IntegrationTest::BOOST_DATA_TEST_CASE">
+<area shape="rect" id="node2" href="$d1/d48/classActs_1_1CuboidVolumeBuilder.html#aa10844c2fbce315118faf19cc4c53425" title="This function builds a world TrackingVolume based on a given configuration." alt="" coords="256,40,463,84"/>
+<area shape="rect" id="node3" href="$dd/dcd/classActs_1_1TrackingVolume.html#a619bf14d9146fec28d1dd7919cb1f9fc" title="Acts::TrackingVolume\l::create" alt="" coords="511,40,677,84"/>
+<area shape="rect" id="node4" href="$dd/dcd/classActs_1_1TrackingVolume.html#a6b8a3971e5afbd3379b5ea36b3395714" title="Default constructor." alt="" coords="725,5,892,49"/>
+<area shape="rect" id="node5" href="$dd/dcd/classActs_1_1TrackingVolume.html#a1666fb4658bed4b3f46103ac33f0e966" title="Returns the VolumeName &#45; for debug reason, might be depreciated later." alt="" coords="725,73,892,117"/>
+</map>

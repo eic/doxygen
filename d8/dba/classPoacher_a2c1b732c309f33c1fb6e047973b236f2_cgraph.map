@@ -1,0 +1,19 @@
+<map id="Poacher::GetNextEvent" name="Poacher::GetNextEvent">
+<area shape="rect" id="node2" href="$d6/dfb/classerhic_1_1EventMC.html#a180c8febd4a10aea7da0489cfcde9bc1" title="erhic::EventMC::AddLast" alt="" coords="237,5,423,33"/>
+<area shape="rect" id="node3" href="$d6/dfb/classerhic_1_1EventMC.html#a3a9dd0a615074751cce91e671a46c30d" title="erhic::EventMC::Clear" alt="" coords="246,57,414,85"/>
+<area shape="rect" id="node5" href="$da/d91/classerhic_1_1VirtualEventFactory.html#a3e4644f24f6d516ad6fac1743ac49582" title="erhic::VirtualEventFactory\l::Create" alt="" coords="232,109,428,153"/>
+<area shape="rect" id="node6" href="$de/d3c/classerhic_1_1ParticleMCbase.html#af3dbf2a11907f0057b6cfc1af30e5b75" title="erhic::ParticleMCbase\l::Set4Vector" alt="" coords="247,177,413,221"/>
+<area shape="rect" id="node13" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a917fdf3bb70c74a5219951867e6adfba" title="erhic::ParticleMCbase\l::SetChild1Index" alt="" coords="247,245,413,289"/>
+<area shape="rect" id="node14" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a30311135037ad4ed40dd171d0cc803d2" title="erhic::ParticleMCbase\l::SetChildNIndex" alt="" coords="247,313,413,357"/>
+<area shape="rect" id="node15" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a7d1f67920283b17e4bf61b35ea513c82" title="erhic::ParticleMCbase\l::SetId" alt="" coords="247,381,413,425"/>
+<area shape="rect" id="node16" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a9feffa003cd90488b46f5bee8106761e" title="erhic::ParticleMCbase\l::SetParentIndex" alt="" coords="247,449,413,493"/>
+<area shape="rect" id="node17" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a623b39b03206ecdd44e8e3f14664c342" title="erhic::ParticleMCbase\l::SetStatus" alt="" coords="247,517,413,561"/>
+<area shape="rect" id="node18" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a72a8e62968d27cc591dbd1b03c8436e9" title="erhic::ParticleMCbase\l::SetVertex" alt="" coords="247,585,413,629"/>
+<area shape="rect" id="node4" href="$d6/dfb/classerhic_1_1EventMC.html#a43d698d005238328ebb2fd213864e977" title="erhic::EventMC::Reset" alt="" coords="528,57,699,85"/>
+<area shape="rect" id="node7" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a2aa0d72eeb2d16912348084513d9c78e" title="erhic::ParticleMCbase\l::ComputeDerivedQuantities" alt="" coords="506,143,721,187"/>
+<area shape="rect" id="node8" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a125e0b24d1d6b1bcf440f3265d4f60a5" title="erhic::ParticleMCbase\l::ComputeEventDependentQuantities" alt="" coords="476,211,751,255"/>
+<area shape="rect" id="node9" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a5a2d65df0a991dba4645ec2b8da399e0" title="erhic::ParticleMCbase\l::Get4Vector" alt="" coords="819,124,986,168"/>
+<area shape="rect" id="node10" href="$d8/d5c/functions_8h.html#a5f645a6689940a1ad8500ba581abeb1e" title="computeHermesPhiH" alt="" coords="821,192,984,220"/>
+<area shape="rect" id="node11" href="$dc/db4/classerhic_1_1EventDis.html#a644d1c348131c2909cbb2bb3c78e9040" title="erhic::EventDis::GetW2" alt="" coords="813,244,992,272"/>
+<area shape="rect" id="node12" href="$d6/dfb/classerhic_1_1EventMC.html#a03767ae486e1e024696c1166640fd575" title="erhic::EventMC::GetNTracks" alt="" coords="799,296,1007,324"/>
+</map>

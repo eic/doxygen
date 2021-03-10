@@ -1,0 +1,31 @@
+<map id="TrkrCluster::getClusKey" name="TrkrCluster::getClusKey">
+<area shape="rect" id="node2" href="$d0/d2c/classTrkrClusterContainer.html#af68a7cf65808da7d90889216adc8a9f0" title="TrkrClusterContainer\l::addCluster" alt="" coords="276,83,439,127"/>
+<area shape="rect" id="node3" href="$d9/d24/classPHTruthClustering.html#a047adb6ab581cd996bb280ee82521752" title="PHTruthClustering::\lprocess_event" alt="" coords="561,7,712,51"/>
+<area shape="rect" id="node4" href="$d0/d22/classPHGenFitTrkProp.html#a67bd83fe6ec05c737ab96b4486df2ecc" title="KalmanTrkProp Call." alt="" coords="251,903,464,947"/>
+<area shape="rect" id="node7" href="$d7/d3c/PHRTreeSeeding_8cc.html#a19c9dad5d1fcbb2fd62c8c3dc39d72f4" title="comparing" alt="" coords="311,172,404,200"/>
+<area shape="rect" id="node12" href="$d9/dc0/namespacePHTpcTrackerUtil.html#a3200481d488cc772381f85bdeec0dd93" title="PHTpcTrackerUtil::convert\l_clusters_to_hits" alt="" coords="259,286,455,330"/>
+<area shape="rect" id="node17" href="$df/db8/classQAG4SimulationTpc.html#aec3889f1254e0eec8b2b6f354e1375bd" title="evaluate clusters" alt="" coords="275,375,440,419"/>
+<area shape="rect" id="node19" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="263,443,451,487"/>
+<area shape="rect" id="node21" href="$d9/d69/classPHSimpleKFProp.html#a2aff92e492c56d4675f522a412857079" title="PHSimpleKFProp::PrepareKDTrees" alt="" coords="233,579,481,607"/>
+<area shape="rect" id="node23" href="$d7/dd6/classPHSiliconTruthTrackSeeding.html#ac9ded997e4f8f07f2bd103e9fa294d27" title="PHSiliconTruthTrackSeeding\l::Process" alt="" coords="253,631,461,675"/>
+<area shape="rect" id="node24" href="$d5/da2/classPHTruthTrackSeeding.html#a37f708048770642f57f15675683c2cac" title="PHTruthTrackSeeding\l::Process" alt="" coords="275,699,439,743"/>
+<area shape="rect" id="node25" href="$d8/dea/classTpcClusterCleaner.html#a6bb1a62075b6a726af9a60631a41b388" title="TpcClusterCleaner::\lprocess_event" alt="" coords="280,767,435,811"/>
+<area shape="rect" id="node26" href="$d8/dd4/classPHHoughSeeding.html#a4204cf7d0291bbdbfd0d299e8435512e" title="fetch node pointers" alt="" coords="253,835,461,879"/>
+<area shape="rect" id="node28" href="$d0/d22/classPHGenFitTrkProp.html#a203b7ffdfbb9841ea1f10baa7ba7b59f" title="PHGenFitTrkProp::TrkrCluster\lToPHGenFitMeasurement" alt="" coords="250,511,465,555"/>
+<area shape="rect" id="node5" href="$d0/d22/classPHGenFitTrkProp.html#ab11c2e61a1b78278fa4af7cf624c2538" title="Main function." alt="" coords="792,599,1033,627"/>
+<area shape="rect" id="node6" href="$d0/d22/classPHGenFitTrkProp.html#affb38f83e68a715da6a937c1e82dabd4" title="PHGenFitTrkProp::Process" alt="" coords="1081,599,1273,627"/>
+<area shape="rect" id="node8" href="$d7/d3c/PHRTreeSeeding_8cc.html#a9f4ca3431c4a8748b96ab07e19ad4da4" title="issuperset" alt="" coords="591,179,683,207"/>
+<area shape="rect" id="node9" href="$d7/d3c/PHRTreeSeeding_8cc.html#ad7ac42510db9aaed7f254269817fb220" title="largeintersection" alt="" coords="569,127,704,155"/>
+<area shape="rect" id="node10" href="$d7/d3c/PHRTreeSeeding_8cc.html#a52fd5fc1bb57e8ddd15fa629154c459f" title="yunion" alt="" coords="603,75,670,103"/>
+<area shape="rect" id="node11" href="$d7/d3c/PHRTreeSeeding_8cc.html#aaed66cea306f6b77d68780290c1084f2" title="changetounion" alt="" coords="851,75,974,103"/>
+<area shape="rect" id="node13" href="$d2/da5/classPHTpcLookup.html#a50837816b6d331d4a38f595581bfefe3" title="PHTpcLookup::init" alt="" coords="565,283,709,311"/>
+<area shape="rect" id="node15" href="$da/d59/classPHTpcSeedFinder.html#a8cc15c2c7633ccd174b434741759694c" title="PHTpcSeedFinder::findSeeds" alt="" coords="529,231,744,259"/>
+<area shape="rect" id="node16" href="$d4/d4e/classPHHybridSeeding.html#aec196a7ecb2a0dddd848a8f97eca015f" title="PHHybridSeeding::Process" alt="" coords="537,335,737,363"/>
+<area shape="rect" id="node14" href="$dd/d22/classPHTpcTracker.html#aa579cb8953a6aa2d57a99dc2c2e91df7" title="PHTpcTracker::Process" alt="" coords="827,258,999,286"/>
+<area shape="rect" id="node18" href="$df/db8/classQAG4SimulationTpc.html#aaecb5e12b4083bd235ec7200368c58fc" title="QAG4SimulationTpc::\lprocess_event" alt="" coords="554,387,719,431"/>
+<area shape="rect" id="node20" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="549,455,725,499"/>
+<area shape="rect" id="node22" href="$d9/d69/classPHSimpleKFProp.html#a136dcc93e867e01b138a7cdd6dbcf008" title="PHSimpleKFProp::Process" alt="" coords="541,659,733,687"/>
+<area shape="rect" id="node27" href="$d8/dd4/classPHHoughSeeding.html#a8b2c7b85b2bcbe054e071dd6ff624f7d" title="PHHoughSeeding::Process" alt="" coords="537,843,736,871"/>
+<area shape="rect" id="node29" href="$d0/d22/classPHGenFitTrkProp.html#ac159ce1352f6004a2f51a520c287c339" title="KalmanTrkProp Call." alt="" coords="533,591,740,635"/>
+<area shape="rect" id="node30" href="$d0/d22/classPHGenFitTrkProp.html#a8de33eaa04103e00006e98f15ba808a0" title="PHGenFitTrkProp::TrackProp\lPatRec" alt="" coords="533,523,740,567"/>
+</map>

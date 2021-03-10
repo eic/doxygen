@@ -1,0 +1,9 @@
+<map id="Acts::TrackingGeometry::highestTrackingVolume" name="Acts::TrackingGeometry::highestTrackingVolume">
+<area shape="rect" id="node2" href="$d8/d7e/classActs_1_1VolumeMaterialMapper.html#aa6950ebddeb724794f7691f374998992" title="helper method that creates the cache for the mapping" alt="" coords="246,5,463,49"/>
+<area shape="rect" id="node3" href="$d6/d42/classActs_1_1SurfaceMaterialMapper.html#a8d220fbfd62378bca2926ec929dad295" title="helper method that creates the cache for the mapping" alt="" coords="245,73,464,117"/>
+<area shape="rect" id="node5" href="$d8/d74/classActs_1_1JsonGeometryConverter.html#a453b545d8cea5e05d71db5758f5e7514" title="Acts::JsonGeometryConverter\l::trackingGeometryToJson" alt="" coords="243,141,466,185"/>
+<area shape="rect" id="node7" href="$d7/dd5/classFW_1_1Obj_1_1ObjTrackingGeometryWriter.html#a19e290c30c31d3d6a6f0cd5bc465584a" title="FW::Obj::ObjTrackingGeometry\lWriter::write" alt="" coords="240,209,469,253"/>
+<area shape="rect" id="node8" href="$db/dcf/classFW_1_1RootMaterialWriter.html#a77f4a1f621546e42c0db95dc5fdef306" title="FW::RootMaterialWriter\l::write" alt="" coords="266,277,443,321"/>
+<area shape="rect" id="node4" href="$dd/d7e/namespaceActs_1_1Test.html#a1bb0cfc050eb0529e498277fdcafe0a3" title="Test the filling and conversion." alt="" coords="529,73,717,117"/>
+<area shape="rect" id="node6" href="$d5/d8a/classFW_1_1Json_1_1JsonMaterialWriter.html#a7f2f5a77dead50f8f9f074663efe268b" title="FW::Json::JsonMaterialWriter\l::write" alt="" coords="517,141,729,185"/>
+</map>

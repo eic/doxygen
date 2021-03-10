@@ -1,0 +1,14 @@
+<map id="FW::RootMaterialWriter::write" name="FW::RootMaterialWriter::write">
+<area shape="rect" id="node2" href="$d7/df5/classActs_1_1GeometryID.html#a8dba3041f9414abe3d8e1e8d47198b89" title="Return the approach identifier." alt="" coords="231,5,445,33"/>
+<area shape="rect" id="node5" href="$d5/dcc/classActs_1_1BinUtility.html#a32c9c639c2752e8620a9fa6c11e3d51b" title="return the binning data vector" alt="" coords="232,57,444,85"/>
+<area shape="rect" id="node6" href="$d5/dcc/classActs_1_1BinUtility.html#a2bd6d72816da4503e387d39fbb2f5c9f" title="Return the total number of bins." alt="" coords="259,133,417,161"/>
+<area shape="rect" id="node7" href="$da/dc2/classActs_1_1BinnedSurfaceMaterial.html#adc87cfc113c79fad925a1becedc29f1c" title="Return the BinUtility." alt="" coords="231,185,445,229"/>
+<area shape="rect" id="node8" href="$d7/df5/classActs_1_1GeometryID.html#a1b77c23ce0f7e1be43ae242c86076e27" title="Return the boundary identifier." alt="" coords="231,253,445,281"/>
+<area shape="rect" id="node9" href="$d7/df5/classActs_1_1GeometryID.html#a268404ac56829142187afca578c3a020" title="Return the layer identifier." alt="" coords="245,305,431,333"/>
+<area shape="rect" id="node10" href="$d0/d54/classActs_1_1ISurfaceMaterial.html#a8aebe1c4930b1c72b1c46b20d34baf98" title="Acts::ISurfaceMaterial\l::materialProperties" alt="" coords="253,357,423,401"/>
+<area shape="rect" id="node11" href="$d7/df5/classActs_1_1GeometryID.html#aa3c3e52a188a6655ff25a1e88a1ee76e" title="Return the sensitive identifier." alt="" coords="233,425,443,453"/>
+<area shape="rect" id="node12" href="$d3/d9b/namespacenlohmann.html#a6ce645a0b8717757e096a5b5773b7a16" title="user&#45;defined to_string function for JSON values" alt="" coords="259,477,417,505"/>
+<area shape="rect" id="node13" href="$d7/df5/classActs_1_1GeometryID.html#afc3e80e6fd2589caedb565b9bf09608c" title="Return the volume identifier." alt="" coords="238,529,438,557"/>
+<area shape="rect" id="node3" href="$d7/df5/classActs_1_1GeometryID.html#ab6954bf2b23af68dee687abff2541e65" title="Extract the masked bits from the encoded value." alt="" coords="493,305,691,333"/>
+<area shape="rect" id="node4" href="$d7/df5/classActs_1_1GeometryID.html#acd6ca6e930d0adfefd72283464038a11" title="Extract the bit shift necessary to access the masked values." alt="" coords="739,297,937,341"/>
+</map>

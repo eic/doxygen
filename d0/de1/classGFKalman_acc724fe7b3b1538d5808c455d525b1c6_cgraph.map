@@ -1,0 +1,11 @@
+<map id="GFKalman::getChi2Hit" name="GFKalman::getChi2Hit">
+<area shape="rect" id="node2" href="$d0/de1/classGFKalman.html#afa014bc2eed916599a549991771143da" title="this returns the reduced chi2 increment for a hit" alt="" coords="247,57,444,85"/>
+<area shape="rect" id="node6" href="$d7/d82/classGFAbsTrackRep.html#a182cb174b330c92e7855e7a5d95dad8f" title="returns the tracklength spanned in this extrapolation" alt="" coords="240,109,451,137"/>
+<area shape="rect" id="node7" href="$df/d1a/classGFAbsRecoHit.html#aaa20d4c69a79eba87290f767d6f63dab" title="Get detector plane for a given track representation." alt="" coords="242,161,449,189"/>
+<area shape="rect" id="node8" href="$d7/d82/classGFAbsTrackRep.html#a0282f8bfeac2c15df26bb94bfa377bbe" title="returns dimension of state vector" alt="" coords="254,213,437,241"/>
+<area shape="rect" id="node9" href="$df/d1a/classGFAbsRecoHit.html#a65ea7b2c69b91cc42d749b1625e9eeba" title="Get transformation matrix. Transformation between hit coordinates and track representation coordinate..." alt="" coords="246,265,445,293"/>
+<area shape="rect" id="node10" href="$df/d1a/classGFAbsRecoHit.html#ac64dc8dbe7daceb013a7f02a9c1deccc" title="get measurement vector and hit covariance" alt="" coords="225,317,465,345"/>
+<area shape="rect" id="node3" href="$de/dc7/namespaceGFTools.html#a91584ea29490044c1bdd8270f39400e6" title="Invert a matrix, throwing GFException when inversion fails." alt="" coords="528,5,692,33"/>
+<area shape="rect" id="node4" href="$df/d55/classGFException.html#a886ef3de22cdff9ceee36449be8643c2" title="set fatal flag. if this is true, the fit stops for this current track repr." alt="" coords="755,32,921,60"/>
+<area shape="rect" id="node5" href="$df/d55/classGFException.html#a25f97a580a7a3c4e65415e08323da4c0" title="set list of matrices with description" alt="" coords="513,109,707,137"/>
+</map>

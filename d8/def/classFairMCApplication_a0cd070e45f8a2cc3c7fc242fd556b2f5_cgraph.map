@@ -1,0 +1,23 @@
+<map id="FairMCApplication::AddParticles" name="FairMCApplication::AddParticles">
+<area shape="rect" id="node2" href="$d8/def/classFairMCApplication.html#af98fc227f39110f6efe662f76c8ac40c" title="FairMCApplication::\lAddDecayModes" alt="" coords="249,5,400,49"/>
+<area shape="rect" id="node3" href="$d5/de2/classFairParticle.html#ac456df9893f6f8eb52c7f57f0986f68c" title="FairParticle::GetBaryon" alt="" coords="237,73,413,101"/>
+<area shape="rect" id="node4" href="$d5/de2/classFairParticle.html#a3c0c17495af309d397fa476bcfd294a1" title="FairParticle::GetCharge" alt="" coords="237,125,413,153"/>
+<area shape="rect" id="node5" href="$d5/de2/classFairParticle.html#aa7f3c3ff032070a651c08ea3bbfd26ce" title="FairParticle::GetConjugation" alt="" coords="220,177,429,205"/>
+<area shape="rect" id="node6" href="$d5/de2/classFairParticle.html#aae6e0a89eef78c9838b42586103ca551" title="FairParticle::GetDecayTime" alt="" coords="223,229,426,257"/>
+<area shape="rect" id="node7" href="$d5/de2/classFairParticle.html#a96fe9c3dc72eeb7e6cf6b769c5d44e92" title="FairParticle::GetgParity" alt="" coords="237,281,412,309"/>
+<area shape="rect" id="node8" href="$d5/de2/classFairParticle.html#a8c2e1ba33b9a68ce9364606d58eefa06" title="FairParticle::GetiParity" alt="" coords="239,333,410,361"/>
+<area shape="rect" id="node9" href="$d5/de2/classFairParticle.html#a03803a1b08f1409c3fef562550acee30" title="FairParticle::GetIsospin" alt="" coords="237,385,412,413"/>
+<area shape="rect" id="node10" href="$d5/de2/classFairParticle.html#af68e0f336dc5d8d322dcc72d73f6b7a2" title="FairParticle::GetIsospinZ" alt="" coords="232,437,417,465"/>
+<area shape="rect" id="node11" href="$d5/de2/classFairParticle.html#aab1ddfe2aad5a1d6978b9dc21955b25f" title="FairParticle::GetLepton" alt="" coords="238,489,411,517"/>
+<area shape="rect" id="node12" href="$d5/de2/classFairParticle.html#a2ddb4f32f159090d9d9f7aad447ee480" title="FairParticle::GetMass" alt="" coords="243,541,406,569"/>
+<area shape="rect" id="node13" href="$d5/de2/classFairParticle.html#a6b30e3de6270641caa84f6513d170e6c" title="FairParticle::GetMCType" alt="" coords="235,593,415,621"/>
+<area shape="rect" id="node14" href="$d5/de2/classFairParticle.html#a593109a18d0f509ac19102550799d5cd" title="FairParticle::GetName" alt="" coords="241,645,409,673"/>
+<area shape="rect" id="node15" href="$d5/de2/classFairParticle.html#a24fa9aea157dc7395f757cfe0cf6c83c" title="FairParticle::GetPDG" alt="" coords="247,697,403,725"/>
+<area shape="rect" id="node16" href="$d5/de2/classFairParticle.html#a8478d6f97bd63f0201bfa46780a8cf92" title="FairParticle::GetPType" alt="" coords="241,749,408,777"/>
+<area shape="rect" id="node17" href="$d5/de2/classFairParticle.html#accd3778c1a6e2742a6391ce9c4bdde1f" title="FairParticle::GetSpin" alt="" coords="246,801,403,829"/>
+<area shape="rect" id="node18" href="$dd/dbc/classFairRunSim.html#a00b635c51638d4134d29d23c9db2eb6e" title="FairRunSim::GetUserDefIons" alt="" coords="219,853,431,881"/>
+<area shape="rect" id="node19" href="$dd/dbc/classFairRunSim.html#a9433e9f7e5e450dba1896ad5cdb7f9c5" title="FairRunSim::GetUserDefParticles" alt="" coords="204,905,445,933"/>
+<area shape="rect" id="node20" href="$d5/de2/classFairParticle.html#a0b5802653c45b48f1ea5e9b9a74b5307" title="FairParticle::GetWidth" alt="" coords="241,957,408,985"/>
+<area shape="rect" id="node21" href="$dd/dbc/classFairRunSim.html#a733dc616669bd5e542b5c05f6470c744" title="FairRunSim::Instance" alt="" coords="243,1009,406,1037"/>
+<area shape="rect" id="node22" href="$d5/de2/classFairParticle.html#a407c06a46ef14f6454711e236327fb92" title="FairParticle::IsStable" alt="" coords="246,1061,403,1089"/>
+</map>

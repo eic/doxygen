@@ -1,0 +1,8 @@
+<map id="PndRecoKalmanFit::Init" name="PndRecoKalmanFit::Init">
+<area shape="rect" id="node2" href="$df/dfb/classGFFieldManager.html#a37f080fded2857f0a6213085a8db2d9f" title="GFFieldManager::getInstance" alt="" coords="231,5,449,33"/>
+<area shape="rect" id="node4" href="$df/dfb/classGFFieldManager.html#a272264d71ece04af029990970c625779" title="set the magntic field here. Magnetic field classes must be derived from GFAbsBField" alt="" coords="259,57,421,85"/>
+<area shape="rect" id="node5" href="$d0/d6c/classFairRootManager.html#a830b7803b29e7424a75f2dc374dcc96b" title="FairRootManager::Instance" alt="" coords="239,109,441,137"/>
+<area shape="rect" id="node6" href="$df/d55/classGFException.html#afc01b3548d472d4e7135c1302dfb0939" title="GFException::quiet" alt="" coords="265,161,415,189"/>
+<area shape="rect" id="node7" href="$d0/de1/classGFKalman.html#a567016852034d8948fe90c982840d204" title="Set number of iterations for Kalman Filter." alt="" coords="232,213,448,241"/>
+<area shape="rect" id="node3" href="$df/dfb/classGFFieldManager.html#ad268a561b90d236432c7fd01e750a008" title="GFFieldManager::GFFieldManager" alt="" coords="497,5,745,33"/>
+</map>

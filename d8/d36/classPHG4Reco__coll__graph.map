@@ -1,0 +1,30 @@
+<map id="PHG4Reco" name="PHG4Reco">
+<area shape="rect" id="node2" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="938,510,1039,538"/>
+<area shape="rect" id="node14" href="$db/df7/classPHG4Subsystem.html" title="PHG4Subsystem" alt="" coords="1266,587,1399,615"/>
+<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="496,510,600,538"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="197,605,287,633"/>
+<area shape="rect" id="node6" href="$d1/d13/classPHG4PhenixDetector.html" title="this is the main detector construction class, passed to geant to construct the entire phenix detector..." alt="" coords="2592,727,2755,755"/>
+<area shape="rect" id="node9" href="$d2/d44/classPHG4DisplayAction.html" title="PHG4DisplayAction" alt="" coords="473,827,623,855"/>
+<area shape="rect" id="node13" href="$d3/de7/classPHG4Detector.html" title="base class for phenix detector creation" alt="" coords="1687,646,1805,674"/>
+<area shape="rect" id="node16" href="$dc/d82/classPHNode.html" title="PHNode" alt="" coords="511,603,585,631"/>
+<area shape="rect" id="node21" href="$df/d3f/classPHG4SteppingAction.html" title="PHG4SteppingAction" alt="" coords="908,329,1069,357"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="5,597,148,641"/>
+<area shape="rect" id="node8" href="$d3/da8/classPHG4PhenixDisplayAction.html" title="PHG4PhenixDisplayAction" alt="" coords="891,754,1087,782"/>
+<area shape="rect" id="node15" href="$d5/dca/classPHCompositeNode.html" title="PHCompositeNode" alt="" coords="1259,639,1406,667"/>
+<area shape="rect" id="node17" href="$d6/d86/classPHPointerList.html" title="PHPointerList\&lt; PHNode \&gt;" alt="" coords="892,637,1085,665"/>
+<area shape="rect" id="node18" href="$d1/d53/classPHG4PhenixSteppingAction.html" title="PHG4PhenixSteppingAction" alt="" coords="1643,81,1849,109"/>
+<area shape="rect" id="node23" href="$d7/d54/classPHG4PrimaryGeneratorAction.html" title="PHG4PrimaryGeneratorAction" alt="" coords="2563,1015,2784,1043"/>
+<area shape="rect" id="node25" href="$db/d62/classPHG4InEvent.html" title="PHG4InEvent" alt="" coords="2207,1025,2318,1053"/>
+<area shape="rect" id="node26" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="947,1089,1031,1117"/>
+<area shape="rect" id="node29" href="$d6/d81/classPHG4VtxPoint.html" title="PHG4VtxPoint" alt="" coords="1275,1141,1391,1169"/>
+<area shape="rect" id="node31" href="$de/dc9/classPHG4Particle.html" title="PHG4Particle" alt="" coords="1279,1029,1387,1057"/>
+<area shape="rect" id="node27" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="510,1089,586,1117"/>
+<area shape="rect" id="node34" href="$d4/d2e/classG4TBMagneticFieldSetup.html" title="G4TBMagneticFieldSetup" alt="" coords="2578,1067,2769,1095"/>
+<area shape="rect" id="node35" href="$df/d05/classG4TBFieldMessenger.html" title="G4TBFieldMessenger" alt="" coords="2968,1095,3132,1123"/>
+<area shape="rect" id="node37" href="$d0/ddf/classPHG4PhenixTrackingAction.html" title="PHG4PhenixTrackingAction" alt="" coords="2572,185,2775,213"/>
+<area shape="rect" id="node40" href="$df/d10/classPHG4TrackingAction.html" title="PHG4TrackingAction" alt="" coords="1667,185,1825,213"/>
+<area shape="rect" id="node41" href="$d9/d7a/classPHG4PhenixEventAction.html" title="PHG4PhenixEventAction" alt="" coords="2581,303,2766,331"/>
+<area shape="rect" id="node43" href="$d7/d41/classPHTimeServer_1_1timer.html" title="wrapper around PHTimer, for storage in a map" alt="" coords="2181,341,2344,369"/>
+<area shape="rect" id="node45" href="$dc/d39/classPHG4EventAction.html" title="PHG4EventAction" alt="" coords="1677,237,1815,265"/>
+<area shape="rect" id="node46" href="$d3/d64/classPHG4UIsession.html" title="PHG4UIsession" alt="" coords="2612,393,2735,421"/>
+</map>

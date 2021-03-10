@@ -1,0 +1,10 @@
+<map id="Acts::VolumeMaterialMapper::checkAndInsert" name="Acts::VolumeMaterialMapper::checkAndInsert">
+<area shape="rect" id="node2" href="$da/d7b/namespaceActs.html#a6155d7ea4c814a39e0e69124c3b9e94f" title="adjust the BinUtility bu to the dimensions of radial bounds" alt="" coords="289,31,453,59"/>
+<area shape="rect" id="node5" href="$d3/d07/classActs_1_1GeometryObject.html#a522d50b743aeae1663808425a72777f2" title="Acts::GeometryObject\l::geoID" alt="" coords="285,83,457,127"/>
+<area shape="rect" id="node6" href="$d7/df5/classActs_1_1GeometryID.html#afc3e80e6fd2589caedb565b9bf09608c" title="Return the volume identifier." alt="" coords="271,151,471,179"/>
+<area shape="rect" id="node9" href="$dd/dcd/classActs_1_1TrackingVolume.html#a5c7983730f932b09045ebc3ea8e235c8" title="Return the material of the volume." alt="" coords="287,203,454,247"/>
+<area shape="rect" id="node3" href="$d5/dcc/classActs_1_1BinUtility.html#a32c9c639c2752e8620a9fa6c11e3d51b" title="return the binning data vector" alt="" coords="519,5,731,33"/>
+<area shape="rect" id="node4" href="$d0/d1a/classActs_1_1RadialBounds.html#ae0d474c5caf4f64c20cecf74d4b57ebc" title="Acts::RadialBounds::get" alt="" coords="533,57,717,85"/>
+<area shape="rect" id="node7" href="$d7/df5/classActs_1_1GeometryID.html#ab6954bf2b23af68dee687abff2541e65" title="Extract the masked bits from the encoded value." alt="" coords="526,151,723,179"/>
+<area shape="rect" id="node8" href="$d7/df5/classActs_1_1GeometryID.html#acd6ca6e930d0adfefd72283464038a11" title="Extract the bit shift necessary to access the masked values." alt="" coords="779,143,977,187"/>
+</map>

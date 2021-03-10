@@ -1,0 +1,6 @@
+<map id="FW::Geant4::MMEventAction::EndOfEventAction" name="FW::Geant4::MMEventAction::EndOfEventAction">
+<area shape="rect" id="node2" href="$d7/d42/classFW_1_1Geant4_1_1MMPrimaryGeneratorAction.html#ab9dfeacfd8a8c7180d48067e55ada610" title="Access method to get the initial direction." alt="" coords="267,5,520,49"/>
+<area shape="rect" id="node3" href="$d5/d61/classFW_1_1Geant4_1_1MMSteppingAction.html#a5d009bfb26f3c5c97bfaa584dfcb8c08" title="Static access method to the instance." alt="" coords="276,73,511,117"/>
+<area shape="rect" id="node4" href="$d7/d42/classFW_1_1Geant4_1_1MMPrimaryGeneratorAction.html#ae07b1c3c95c5e22c214fa7fea0a1e6f9" title="Static access method." alt="" coords="267,141,520,185"/>
+<area shape="rect" id="node5" href="$d5/d61/classFW_1_1Geant4_1_1MMSteppingAction.html#a83fc71e54d545af2a9ff6700ce526d45" title="Access to the collected Acts::MaterialInteraction entities." alt="" coords="276,209,511,253"/>
+</map>

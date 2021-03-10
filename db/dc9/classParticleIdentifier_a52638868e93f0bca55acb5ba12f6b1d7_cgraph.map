@@ -1,0 +1,6 @@
+<map id="ParticleIdentifier::isBeamLepton" name="ParticleIdentifier::isBeamLepton">
+<area shape="rect" id="node2" href="$db/dc9/classParticleIdentifier.html#af868603265cff298360897571d1d4635" title="ParticleIdentifier\l::GetLeptonBeamPdgCode" alt="" coords="185,5,384,49"/>
+<area shape="rect" id="node3" href="$d0/d01/classerhic_1_1VirtualParticle.html#ad7f3670b458bf04c18c020bac4cf155a" title="erhic::VirtualParticle\l::GetParentIndex" alt="" coords="206,73,363,117"/>
+<area shape="rect" id="node4" href="$d0/d01/classerhic_1_1VirtualParticle.html#a56e48270fb8bb5e7393e9b320b32359e" title="erhic::VirtualParticle\l::GetStatus" alt="" coords="206,141,363,185"/>
+<area shape="rect" id="node5" href="$d0/d01/classerhic_1_1VirtualParticle.html#ac7c17f9d78d8c400e4d53e12edf0bc86" title="erhic::VirtualParticle::Id" alt="" coords="195,209,374,237"/>
+</map>

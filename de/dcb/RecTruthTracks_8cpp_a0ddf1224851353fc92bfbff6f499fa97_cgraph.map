@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d8/dba/classFW_1_1Sequencer.html#a0e5d6dfc5d4d4a23973d9d2453de96a1" title="FW::Sequencer::addAlgorithm" alt="" coords="126,5,350,33"/>
+<area shape="rect" id="node3" href="$d6/d55/namespaceFW_1_1Options.html#ac891c6fc87677a259412d298a991c641" title="FW::Options::addBFieldOptions" alt="" coords="123,57,353,85"/>
+<area shape="rect" id="node4" href="$d8/dba/classFW_1_1Sequencer.html#a561912e31e8bde045a368aa33b7f93a2" title="FW::Sequencer::addContext\lDecorator" alt="" coords="133,109,343,153"/>
+<area shape="rect" id="node5" href="$d6/d55/namespaceFW_1_1Options.html#ae1ce2e4db604849fc520012e78d8a476" title="Add common geometry&#45;related options." alt="" coords="135,177,341,221"/>
+<area shape="rect" id="node6" href="$d6/d55/namespaceFW_1_1Options.html#a60e5ee358d6ee52a15d943ae61fa59c2" title="Add common input&#45;related options." alt="" coords="125,245,351,273"/>
+<area shape="rect" id="node7" href="$d6/d55/namespaceFW_1_1Options.html#a61db487f0d3c98c0ce3d60454bd8996d" title="Add common material&#45;related options." alt="" coords="142,297,334,341"/>
+<area shape="rect" id="node8" href="$d4/daf/structGenericDetector.html#a7bc8204f9eaa3eeff016cbacd10a7361" title="GenericDetector::addOptions" alt="" coords="129,365,347,393"/>
+<area shape="rect" id="node10" href="$d6/d55/namespaceFW_1_1Options.html#a4de04c7095cf34079cb7eaa38d7965b2" title="Add common output&#45;related options." alt="" coords="120,417,356,445"/>
+<area shape="rect" id="node11" href="$d6/d55/namespaceFW_1_1Options.html#a381d0843c942fda2c29766f1fdcb3f04" title="Add random number options such as the global seed." alt="" coords="111,469,365,513"/>
+<area shape="rect" id="node12" href="$d8/dba/classFW_1_1Sequencer.html#a9637b458c6a7ef0898965e1dd878dc7a" title="FW::Sequencer::addReader" alt="" coords="135,537,341,565"/>
+<area shape="rect" id="node13" href="$d6/d55/namespaceFW_1_1Options.html#a0ae9979a970816c96e848f3b6747807e" title="Add sequencer options, e.g. number of events." alt="" coords="133,589,343,633"/>
+<area shape="rect" id="node14" href="$d8/dba/classFW_1_1Sequencer.html#a13d3984b0742216affc61c7b6be9192d" title="FW::Sequencer::addWriter" alt="" coords="139,657,337,685"/>
+<area shape="rect" id="node15" href="$d9/d8b/build_8cxx.html#a7e405971f86730952f175f9d706988dc" title="build" alt="" coords="211,709,265,737"/>
+<area shape="rect" id="node31" href="$d1/d10/namespaceFW.html#a72fd6a251e31024c922d7a8f0ffdf3d5" title="FW::ensureWritableDirectory" alt="" coords="131,761,345,789"/>
+<area shape="rect" id="node32" href="$d6/d55/namespaceFW_1_1Options.html#aff334d85da454b0e8ba3582ed31f9359" title="FW::Options::makeDefault\lOptions" alt="" coords="139,813,337,857"/>
+<area shape="rect" id="node33" href="$df/d4b/namespaceeicpy_1_1build.html#ae8d61caea5ec1f184431e08df6b981b4" title="eicpy.build.parse" alt="" coords="171,881,305,909"/>
+<area shape="rect" id="node34" href="$d6/d55/namespaceFW_1_1Options.html#a776cec7f66a21c691727a431a56e8e7a" title="FW::Options::readBField" alt="" coords="147,933,329,961"/>
+<area shape="rect" id="node41" href="$d6/d55/namespaceFW_1_1Options.html#a47ff1eff9fec8eedbdcc626e8c29326e" title="Read the CSV particle reader config." alt="" coords="130,985,346,1029"/>
+<area shape="rect" id="node42" href="$d6/d55/namespaceFW_1_1Options.html#ae066d2533d181626ddb3de86482c280e" title="Read the CSV particle reader config." alt="" coords="133,1053,343,1097"/>
+<area shape="rect" id="node43" href="$d6/d55/namespaceFW_1_1Options.html#a3eae7e1ac725beadd756591da42d30cf" title="Read the log level." alt="" coords="444,1163,645,1191"/>
+<area shape="rect" id="node44" href="$d6/d55/namespaceFW_1_1Options.html#aa483f08757600026c84ce3815b63ee05" title="FW::Options::readRandomNumbers\lConfig" alt="" coords="108,1173,368,1217"/>
+<area shape="rect" id="node45" href="$d6/d55/namespaceFW_1_1Options.html#a32198973bcbd21e22db51ac57472e58a" title="Read the sequencer config." alt="" coords="130,1241,346,1285"/>
+<area shape="rect" id="node46" href="$d8/dba/classFW_1_1Sequencer.html#a310ddbba7038b13dba04ec088c45a9f7" title="FW::Sequencer::run" alt="" coords="161,1309,315,1337"/>
+<area shape="rect" id="node50" href="$da/d7b/namespaceActs.html#a84c41c54771dc4d8fc38a477f9d250c8" title="create a small tracking geometry to map some dummy material on" alt="" coords="147,1361,329,1389"/>
+<area shape="rect" id="node9" href="$d6/d55/namespaceFW_1_1Options.html#abc6bb5b834dbf41f54e7d3e8cb62b8c5" title="FW::Options::addGenericGeometry\lOptions" alt="" coords="416,357,673,401"/>
+<area shape="rect" id="node16" href="$d8/d5c/functions_8h.html#a1e5909df3bf9092f8962488e43bb1542" title="BuildTree" alt="" coords="503,521,587,549"/>
+<area shape="rect" id="node17" href="$d0/d81/classerhic_1_1FileType.html#aba3fa9a0835498036beeb2c8e46cf1e6" title="erhic::FileType::CreateLog\lReader" alt="" coords="742,109,937,153"/>
+<area shape="rect" id="node18" href="$dc/dad/classerhic_1_1LogReader.html#ae2a0aef19ee689886ee50a448cf63f0a" title="erhic::LogReader::Extract" alt="" coords="743,177,936,205"/>
+<area shape="rect" id="node19" href="$da/d40/classerhic_1_1Forester.html#a61ca2e2d6c33bc3fbb286b86ff9bd950" title="erhic::Forester::GetFileType" alt="" coords="737,229,942,257"/>
+<area shape="rect" id="node20" href="$df/d10/classerhic_1_1LogReaderFactory.html#a9596c8f9e24bb6c475e8ac091328a7fb" title="erhic::LogReaderFactory\l::GetInstance" alt="" coords="747,281,931,325"/>
+<area shape="rect" id="node21" href="$df/d10/classerhic_1_1LogReaderFactory.html#ab30cde075979f13c9920e1587bed0f61" title="erhic::LogReaderFactory\l::Locate" alt="" coords="747,349,931,393"/>
+<area shape="rect" id="node22" href="$da/d40/classerhic_1_1Forester.html#a8d3040ffb1d358e9cb097e95c9ac2618" title="erhic::Forester::Plant" alt="" coords="758,417,921,445"/>
+<area shape="rect" id="node23" href="$d0/dfa/reader_8C.html#a262d195bd786506862f9ad0d1aeb76cf" title="reader" alt="" coords="806,469,873,497"/>
+<area shape="rect" id="node24" href="$dc/dad/classerhic_1_1LogReader.html#a1104ca51c8aa8794b960bf46d602e3ac" title="erhic::LogReader::Save" alt="" coords="751,521,928,549"/>
+<area shape="rect" id="node25" href="$da/d40/classerhic_1_1Forester.html#a992b222623b8dec510ade59f7415cb47" title="erhic::Forester::SetBeVerbose" alt="" coords="729,573,950,601"/>
+<area shape="rect" id="node26" href="$da/d40/classerhic_1_1Forester.html#afbab88215f5c998e7df6d4c3b8536ab0" title="erhic::Forester::SetBranchName" alt="" coords="721,625,957,653"/>
+<area shape="rect" id="node27" href="$da/d40/classerhic_1_1Forester.html#ab776909a015ba2273d1bccd4975b1ebe" title="erhic::Forester::SetInput\lFileName" alt="" coords="747,677,932,721"/>
+<area shape="rect" id="node28" href="$da/d40/classerhic_1_1Forester.html#a28aa0d9c0ee9b5c5f5ad03753958abb6" title="erhic::Forester::SetMaxNEvents" alt="" coords="723,745,956,773"/>
+<area shape="rect" id="node29" href="$da/d40/classerhic_1_1Forester.html#ae46cde7a821d3bbff4741063fa64811b" title="erhic::Forester::SetMessage\lInterval" alt="" coords="735,797,943,841"/>
+<area shape="rect" id="node30" href="$da/d40/classerhic_1_1Forester.html#ad8adf0d1358b13683600596f33723e3c" title="erhic::Forester::SetOutput\lFileName" alt="" coords="741,865,938,909"/>
+<area shape="rect" id="node35" href="$d2/d76/namespaceFW_1_1BField_1_1root.html#a7ccc94f9735056c1d3b408138d8c5af0" title="FW::BField::root::fieldMapperRZ" alt="" coords="427,881,662,909"/>
+<area shape="rect" id="node37" href="$d2/d76/namespaceFW_1_1BField_1_1root.html#aba0ff67f5a12cb4ad9296f85fc631427" title="FW::BField::root::fieldMapperXYZ" alt="" coords="423,985,666,1013"/>
+<area shape="rect" id="node39" href="$dc/dbe/namespaceFW_1_1BField_1_1txt.html#a0c0a6561fcc20c432a0c9f3df0053ac5" title="FW::BField::txt::fieldMapperRZ" alt="" coords="431,933,658,961"/>
+<area shape="rect" id="node40" href="$dc/dbe/namespaceFW_1_1BField_1_1txt.html#abdaabf29e920c6c2631627db40d641f1" title="FW::BField::txt::fieldMapperXYZ" alt="" coords="427,1037,662,1065"/>
+<area shape="rect" id="node36" href="$da/d7b/namespaceActs.html#aa46031ee88f77bb14022872f010d897a" title="Acts::fieldMapperRZ" alt="" coords="760,933,919,961"/>
+<area shape="rect" id="node38" href="$da/d7b/namespaceActs.html#a4a08a66d4382d4519b6373d6fbd1991d" title="Acts::fieldMapperXYZ" alt="" coords="756,1011,923,1039"/>
+<area shape="rect" id="node47" href="$d3/dd5/jewel-2_82_80_8f.html#ac10ce76c4f5f9029887dacaed4e00578" title="init" alt="" coords="523,1257,567,1285"/>
+<area shape="rect" id="node48" href="$da/d7b/namespaceActs.html#a9b4dee934b0b193d57604b19bc8cd527" title="get default debug output logger" alt="" coords="455,1361,634,1389"/>
+<area shape="rect" id="node49" href="$d3/d9b/namespacenlohmann.html#a6ce645a0b8717757e096a5b5773b7a16" title="user&#45;defined to_string function for JSON values" alt="" coords="466,1309,623,1337"/>
+</map>

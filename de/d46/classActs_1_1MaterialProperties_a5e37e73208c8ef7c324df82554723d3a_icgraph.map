@@ -1,0 +1,11 @@
+<map id="Acts::MaterialProperties::thicknessInL0" name="Acts::MaterialProperties::thicknessInL0">
+<area shape="rect" id="node2" href="$d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a28e9e0c64fdcd2a904334c82c61568c0" title="this adds the material properties to event store" alt="" coords="236,5,439,49"/>
+<area shape="rect" id="node3" href="$dd/d7e/namespaceActs_1_1Test.html#a6a8a6a0191f42178156c363a22a80a88" title="Test the event averaging behavior." alt="" coords="487,36,675,80"/>
+<area shape="rect" id="node4" href="$db/dc8/MaterialPropertiesTests_8cpp.html#a69cb74af4fd420a8fcfa3b484e2cb842" title="BOOST_AUTO_TEST_CASE" alt="" coords="239,125,435,153"/>
+<area shape="rect" id="node5" href="$de/d46/classActs_1_1MaterialProperties.html#a91b6642f44a9c1ed74ce66b05b7883b5" title="Acts::MaterialProperties\l::MaterialProperties" alt="" coords="246,177,429,221"/>
+<area shape="rect" id="node6" href="$d6/d32/structActsFatras_1_1PathLimitL0.html#a78f5a5bc95becbd3c739913d691f5b07" title="ActsFatras::PathLimitL0\l::operator()" alt="" coords="247,245,427,289"/>
+<area shape="rect" id="node7" href="$d9/d06/structActs_1_1MaterialCollector.html#a6eabd568c652b6d2da7c1de8482a6692" title="Acts::MaterialCollector\l::operator()" alt="" coords="249,313,425,357"/>
+<area shape="rect" id="node8" href="$dd/d5c/structActsFatras_1_1Interactor.html#ab673fdf3cb8fe921cc6d96f27d86f18c" title="ActsFatras::Interactor\l::operator()" alt="" coords="253,381,421,425"/>
+<area shape="rect" id="node9" href="$d0/d33/structActs_1_1MaterialInteractor.html#a8bfe113937d0be869a82816dc8209615" title="This function records the material effect." alt="" coords="247,449,428,493"/>
+<area shape="rect" id="node10" href="$d0/d33/structActs_1_1MaterialInteractor.html#a4486d15eab43bcb28d9e7f9d4eb12584" title="Interaction with detector material for the ActionList of the Propagator." alt="" coords="490,449,671,493"/>
+</map>

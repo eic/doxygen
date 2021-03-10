@@ -1,0 +1,51 @@
+<map id="make_release.split_version" name="make_release.split_version">
+<area shape="rect" id="node2" href="$df/d1f/namespacemake__release.html#aa3b50f39aa6f83a92430f768bba0606c" title="make_release.get_milestones" alt="" coords="201,377,423,405"/>
+<area shape="rect" id="node3" href="$df/d1f/namespacemake__release.html#a6d3401ae24779e411fa66ffe8509c4b5" title="make_release.relnotes" alt="" coords="491,291,665,319"/>
+<area shape="rect" id="node4" href="$df/d1f/namespacemake__release.html#ac4ce10921bce3e9b69ab9d13fb74f148" title="make_release.message" alt="" coords="223,463,401,491"/>
+<area shape="rect" id="node48" href="$df/d1f/namespacemake__release.html#ad3db2696c8636dc81fd3445f365e7085" title="make_release.minor" alt="" coords="233,515,391,543"/>
+<area shape="rect" id="node49" href="$df/d1f/namespacemake__release.html#a327859e8022deb532aee979120ffa2c1" title="make_release.patch" alt="" coords="234,567,390,595"/>
+<area shape="rect" id="node50" href="$df/d1f/namespacemake__release.html#a42765f26d8f503dfd2f8daffb4891ac5" title="make_release.zenodo" alt="" coords="228,619,396,647"/>
+<area shape="rect" id="node5" href="$d1/dfc/EtmOrphans_8cc.html#a6eefdfd220a7a1c80de63475349d26a7" title="ConditionChecker" alt="" coords="507,567,649,595"/>
+<area shape="rect" id="node17" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#aed852e1cd37df4b6683b1b188551cad0" title="a block along z axis built with G4Trd that is slightly tapered in x dimension" alt="" coords="478,619,678,663"/>
+<area shape="rect" id="node19" href="$d1/d05/classPHG4FullProjSpacalDetector.html#a41ebdae7499c21d2735235a485d0d2db" title="a block along z axis built with G4Trd that is slightly tapered in x dimension" alt="" coords="473,687,683,731"/>
+<area shape="rect" id="node21" href="$da/d40/classerhic_1_1Forester.html#a968a154a17b9fcc6f385c8ea0fc0394b" title="erhic::Forester::OpenInput" alt="" coords="479,463,677,491"/>
+<area shape="rect" id="node31" href="$d4/d2e/classG4TBMagneticFieldSetup.html#a7d247ff9b7c77cd4a8d112e03979e34e" title="G4TBMagneticFieldSetup\l::SetStepper" alt="" coords="483,343,673,387"/>
+<area shape="rect" id="node35" href="$da/d40/classerhic_1_1Forester.html#acb9d5da7354570cd4b9f69c6f2dd7d13" title="erhic::Forester::SetupOutput" alt="" coords="471,515,685,543"/>
+<area shape="rect" id="node36" href="$dd/db5/classPHG4GDMLWrite.html#af4241e53bb71408c9bf11117053f9810" title="PHG4GDMLWrite::Write" alt="" coords="489,411,667,439"/>
+<area shape="rect" id="node6" href="$d8/d51/classEicToyModel.html#a31dff983301cdf101672d8195e3723ad" title="EicToyModel::zoom" alt="" coords="785,567,935,595"/>
+<area shape="rect" id="node7" href="$d3/d21/lqcdpr_8F.html#a028774669b878dc254be7adc6a8b71fc" title="lqcdpr" alt="" coords="1102,669,1167,697"/>
+<area shape="rect" id="node16" href="$dd/d62/lweits_8F.html#a57410e89a3ce8563c8f3b4e5657ac043" title="lweits" alt="" coords="1791,696,1851,724"/>
+<area shape="rect" id="node8" href="$d3/d7e/lepto_8F.html#a92c27736bffd1a2f7b68ee52c8d3d51a" title="lepto" alt="" coords="1328,720,1384,748"/>
+<area shape="rect" id="node9" href="$d3/dcf/dcross_8F.html#a88932f97cf8d3d7de7ac0ef273cc9929" title="dcross" alt="" coords="1577,747,1643,775"/>
+<area shape="rect" id="node12" href="$d9/d33/demo_8F.html#a5b31693ae1e23c438c97976df5dabba0" title="demo" alt="" coords="2145,708,2205,736"/>
+<area shape="rect" id="node13" href="$d7/df5/pepsiMaineRHIC__noradcorr_8f.html#ac2ed0c0080f3e6d946824efb82e28ab5" title="pepsimainerhic" alt="" coords="2112,785,2237,813"/>
+<area shape="rect" id="node15" href="$d6/dca/lsigmx_8F.html#ade866590be36f33a242025d793dbf067" title="lsigmx" alt="" coords="1577,799,1643,827"/>
+<area shape="rect" id="node10" href="$dc/df8/lxsect_8F.html#ae7a0232c3a9b1d6bed670b06865c60a7" title="lxsect" alt="" coords="1791,748,1852,776"/>
+<area shape="rect" id="node11" href="$d2/d41/linit_8F.html#ab348d5fecaf06643ed5e7006c0d70494" title="linit" alt="" coords="2016,747,2064,775"/>
+<area shape="rect" id="node14" href="$d9/d89/pollinit_8F.html#a27bfa2c538b86c741893fa83166f7138" title="pollinit" alt="" coords="1900,747,1968,775"/>
+<area shape="rect" id="node18" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#af9c6be22744057cd66a40b4507b1ce4d" title="PHG4FullProjTiltedSpacal\lDetector::Construct_AzimuthalSeg" alt="" coords="733,619,987,663"/>
+<area shape="rect" id="node20" href="$d1/d05/classPHG4FullProjSpacalDetector.html#a842872e5b3f3164b37db663ef1c86934" title="PHG4FullProjSpacalDetector\l::Construct_AzimuthalSeg" alt="" coords="755,687,965,731"/>
+<area shape="rect" id="node22" href="$da/d40/classerhic_1_1Forester.html#a8d3040ffb1d358e9cb097e95c9ac2618" title="erhic::Forester::Plant" alt="" coords="779,515,941,543"/>
+<area shape="rect" id="node30" href="$d8/dba/classPoacher.html#a6045ebabf594cf344f38669fd7eaaa9f" title="Poacher::Poacher" alt="" coords="791,463,929,491"/>
+<area shape="rect" id="node23" href="$d5/d0b/BuildTree_8cxx.html#a5052bc1bc979721d2f580173be7fffbf" title="BuildTree" alt="" coords="1093,489,1177,517"/>
+<area shape="rect" id="node24" href="$d9/d8b/build_8cxx.html#a7e405971f86730952f175f9d706988dc" title="build" alt="" coords="1329,385,1383,413"/>
+<area shape="rect" id="node27" href="$d2/d99/ConvertFile_8C.html#ab987e2b1430fa988aa50a3fe337ed120" title="ConvertFile" alt="" coords="1307,437,1405,465"/>
+<area shape="rect" id="node28" href="$d3/d8a/ffqaplots_8cxx.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1329,489,1383,517"/>
+<area shape="rect" id="node29" href="$d6/daa/eic-smear_2blob_2master_2scripts_2make__tree_8C.html#ad98edec9140718d23ff300dca406bd35" title="make_tree" alt="" coords="1310,541,1402,569"/>
+<area shape="rect" id="node25" href="$de/dcb/RecTruthTracks_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1583,385,1637,413"/>
+<area shape="rect" id="node26" href="$da/db1/classMakeActsGeometry.html#a0a3e4f327303d53117efefac7463c669" title="Function that mimics ActsFW::GeometryExampleBase." alt="" coords="1477,437,1743,465"/>
+<area shape="rect" id="node32" href="$d4/d2e/classG4TBMagneticFieldSetup.html#a7930ec66420896c9fbaa9c72cf7543fe" title="G4TBMagneticFieldSetup\l::UpdateField" alt="" coords="765,275,955,319"/>
+<area shape="rect" id="node33" href="$d4/d2e/classG4TBMagneticFieldSetup.html#a219f4c199df5731549942737857ae65f" title="G4TBMagneticFieldSetup\l::G4TBMagneticFieldSetup" alt="" coords="1035,275,1235,319"/>
+<area shape="rect" id="node34" href="$df/d05/classG4TBFieldMessenger.html#a19d728472bcdc59229624f09ca650831" title="G4TBFieldMessenger\l::SetNewValue" alt="" coords="1053,207,1217,251"/>
+<area shape="rect" id="node37" href="$d9/df8/classPHG4GDMLUtility.html#adb03ec38807279cb5abaf38987c5a73f" title="save the current Geant4 geometry to GDML file. Reading PHG4GDMLConfig from topNode" alt="" coords="743,343,977,371"/>
+<area shape="rect" id="node47" href="$d2/d72/classPHG4GDMLWriteStructure.html#a957c6f2d283732660e3eb9c41b982048" title="PHG4GDMLWriteStructure\l::TraverseVolumeTree" alt="" coords="763,395,957,439"/>
+<area shape="rect" id="node38" href="$d0/d78/classPHG4Reco.html#a490f5037508d384c5b60855ef0f7e227" title="PHG4Reco::Dump_GDML" alt="" coords="1041,343,1229,371"/>
+<area shape="rect" id="node39" href="$d0/d78/classPHG4Reco.html#a9d8228ce8682c19cd6be2f6b44ec847b" title="PHG4Reco::InitRun" alt="" coords="1283,192,1429,220"/>
+<area shape="rect" id="node40" href="$d6/db7/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2DisplayOn_8C.html#a8ac4d6fb78f920957b354f88d6195f54" title="DisplayOn" alt="" coords="1565,161,1655,189"/>
+<area shape="rect" id="node41" href="$d5/df2/Fun4All__EIC__Generator__Display_8C.html#a276181099936efe81415286b29f36e51" title="Fun4All_EIC_Generator\l_Display" alt="" coords="1522,213,1698,257"/>
+<area shape="rect" id="node42" href="$d3/d42/Fun4All__G4__QtDisplay_8C.html#a7fc9d96420ef1de5f1fc43a1657ac8bf" title="Fun4All_G4_QtDisplay" alt="" coords="1525,281,1695,309"/>
+<area shape="rect" id="node43" href="$d7/da9/Fun4All__G4__Tracking_8C.html#acaee55add6a4a54eb182c6120db9649a" title="Fun4All_G4_Tracking" alt="" coords="1530,333,1690,361"/>
+<area shape="rect" id="node44" href="$d4/dfa/Fun4All__Generator__Display_8C.html#af87924a94b22e18901f0d64805565f09" title="Fun4All_Generator_Display" alt="" coords="1509,5,1711,33"/>
+<area shape="rect" id="node45" href="$dd/d94/fun4all__tutorials_2blob_2master_2materialscan_2matscan_8C.html#a98ccbc6135fead542f3c4d1dd6882d63" title="matscan" alt="" coords="1571,57,1649,85"/>
+<area shape="rect" id="node46" href="$d6/db7/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2DisplayOn_8C.html#a36f5cc4ebb7cd23dac7e492d5c38fbc0" title="QTGui" alt="" coords="1579,109,1641,137"/>
+</map>

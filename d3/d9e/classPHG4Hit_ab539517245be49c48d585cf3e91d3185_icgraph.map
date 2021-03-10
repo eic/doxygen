@@ -1,0 +1,13 @@
+<map id="PHG4Hit::identify" name="PHG4Hit::identify">
+<area shape="rect" id="node2" href="$d6/d11/classSvtxEvaluator.html#a51a88cb55f439b7bc820fa1f727bf39a" title="print out the input object information (debugging upstream components)" alt="" coords="200,13,416,41"/>
+<area shape="rect" id="node4" href="$d6/d11/classSvtxEvaluator.html#aef548ddeafdf0ebc949f29e88a741db8" title="print out the ancestry information for detailed diagnosis" alt="" coords="194,65,422,93"/>
+<area shape="rect" id="node5" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a5b70cca03633b9708a6aea0b57e21272" title="QAG4SimulationCalorimeter\l::process_event_G4Hit" alt="" coords="202,117,414,161"/>
+<area shape="rect" id="node7" href="$dc/df2/classQAG4SimulationEicCalorimeter.html#ade1686e561df4333993efddce41c2953" title="QAG4SimulationEicCalorimeter\l::process_event_G4Hit" alt="" coords="192,185,424,229"/>
+<area shape="rect" id="node9" href="$d9/d91/classPHG4TrackFastSim.html#ad97cb78cc954aa1cb5ee600795c2ce35" title="PHG4TrackFastSim::Pseudo\lPatternRecognition" alt="" coords="206,253,410,297"/>
+<area shape="rect" id="node11" href="$db/d97/classPHG4HcalSteppingAction.html#a3b7e2152d047bd72e38f36b695351fc7" title="stepping action" alt="" coords="213,321,403,365"/>
+<area shape="rect" id="node12" href="$de/dea/classPHG4SpacalSteppingAction.html#a1c2df9729591e53ff47876e8e9359375" title="stepping action" alt="" coords="205,389,411,433"/>
+<area shape="rect" id="node3" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="500,5,676,49"/>
+<area shape="rect" id="node6" href="$d9/d7b/classQAG4SimulationCalorimeter.html#aa3467829c4182ba4e09f74fd8198cb28" title="QAG4SimulationCalorimeter\l::process_event" alt="" coords="482,117,694,161"/>
+<area shape="rect" id="node8" href="$dc/df2/classQAG4SimulationEicCalorimeter.html#a3220ddd743e97de1c108e1fc42692427" title="QAG4SimulationEicCalorimeter\l::process_event" alt="" coords="472,185,704,229"/>
+<area shape="rect" id="node10" href="$d9/d91/classPHG4TrackFastSim.html#a8bb22ab279c5f433069774bd2ab0a7ae" title="Process Event, called for each event." alt="" coords="484,253,692,297"/>
+</map>

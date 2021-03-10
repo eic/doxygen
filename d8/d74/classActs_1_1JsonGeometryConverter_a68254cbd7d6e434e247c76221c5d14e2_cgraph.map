@@ -1,0 +1,9 @@
+<map id="Acts::JsonGeometryConverter::jsonToMaterialMaps" name="Acts::JsonGeometryConverter::jsonToMaterialMaps">
+<area shape="rect" id="node2" href="$d7/df5/classActs_1_1GeometryID.html#a66293632da863133b974fac013ca37db" title="Set the approach identifier." alt="" coords="277,5,511,33"/>
+<area shape="rect" id="node5" href="$d7/df5/classActs_1_1GeometryID.html#a9589c6ee3194a72543cdeaf888ad97be" title="Set the boundary identifier." alt="" coords="276,57,512,85"/>
+<area shape="rect" id="node6" href="$d7/df5/classActs_1_1GeometryID.html#ac27abfcaf9479ccd3365c87c3531cfa4" title="Set the layer identifier." alt="" coords="289,109,499,137"/>
+<area shape="rect" id="node7" href="$d7/df5/classActs_1_1GeometryID.html#ad772b19c6d545948b509cd5f2ccdd871" title="Set the sensitive identifier." alt="" coords="278,161,510,189"/>
+<area shape="rect" id="node8" href="$d7/df5/classActs_1_1GeometryID.html#af398c76772a835a6392d8316cc3521db" title="Set the volume identifier." alt="" coords="283,213,505,241"/>
+<area shape="rect" id="node3" href="$d7/df5/classActs_1_1GeometryID.html#a58a26ff78512631792caf827f7e842ef" title="Set the masked bits to id in the encoded value." alt="" coords="560,109,756,137"/>
+<area shape="rect" id="node4" href="$d7/df5/classActs_1_1GeometryID.html#acd6ca6e930d0adfefd72283464038a11" title="Extract the bit shift necessary to access the masked values." alt="" coords="804,101,1003,145"/>
+</map>

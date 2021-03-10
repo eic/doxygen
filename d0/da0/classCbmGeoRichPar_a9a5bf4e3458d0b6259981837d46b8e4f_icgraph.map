@@ -1,0 +1,10 @@
+<map id="CbmGeoRichPar::GetGeoSensitiveNodes" name="CbmGeoRichPar::GetGeoSensitiveNodes">
+<area shape="rect" id="node2" href="$d8/dd9/classCbmRich.html#a4da15c82f4256a1d985899fd00400299" title="Construct geometry from ASCII file. Supported structure for the mirrors are added on a fly..." alt="" coords="304,5,559,33"/>
+<area shape="rect" id="node4" href="$d6/d73/classCbmRichProjectionProducer.html#af55f38914e2befa81ca19d7b26610e51" title="Initialization of the task." alt="" coords="327,57,535,101"/>
+<area shape="rect" id="node5" href="$da/d9f/classCbmRichHitProducer.html#aa215fb5147a6128031c8a2641166b95b" title="Inherited from FairTask." alt="" coords="351,125,512,169"/>
+<area shape="rect" id="node6" href="$d5/d49/classCbmRichTestHits.html#a94588b3c5b4787887e8a9953a4898d76" title="Inherited from FairTask." alt="" coords="349,193,514,221"/>
+<area shape="rect" id="node7" href="$d7/dad/classCbmRichTestSim.html#a3ca68ef9ed75782643fd30056b764211" title="Inherited from FairTask." alt="" coords="349,245,514,273"/>
+<area shape="rect" id="node8" href="$d5/d75/classCbmRichGeoTest.html#a90129ff21b406bf395f93145ca864b0a" title="Inherited from FairTask." alt="" coords="348,297,515,325"/>
+<area shape="rect" id="node9" href="$d8/dd9/classCbmRich.html#acfdf36680457256fe9962edffa205582" title="Initialize detector. Stores volume IDs for RICH detector and mirror." alt="" coords="358,349,505,377"/>
+<area shape="rect" id="node3" href="$d8/dd9/classCbmRich.html#a3d1883ed88870fa1325c79d6c508242e" title="Construct geometry. Currently ROOT and ASCII formats are supported. The concrete method for geometry ..." alt="" coords="607,5,829,33"/>
+</map>

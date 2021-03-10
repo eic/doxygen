@@ -1,0 +1,7 @@
+<map id="FW::HepMC3Particle::particle" name="FW::HepMC3Particle::particle">
+<area shape="rect" id="node2" href="$d7/d8d/structFW_1_1HepMC3Event.html#a876ca1b43c7eddd3200125934f1e542d" title="Get beam particles." alt="" coords="231,5,433,33"/>
+<area shape="rect" id="node4" href="$d7/d8d/structFW_1_1HepMC3Event.html#a59b68aafe4eeaa06b806be981db46787" title="Get final state particles." alt="" coords="222,57,442,85"/>
+<area shape="rect" id="node5" href="$d2/d95/structFW_1_1HepMC3Vertex.html#ab10040da201ba854e718f35146ff443d" title="Converts HepMC3::GenParticle objects into Acts." alt="" coords="211,109,453,153"/>
+<area shape="rect" id="node6" href="$d7/d8d/structFW_1_1HepMC3Event.html#ac76d9a37fa90d80f8c763cfd316b49d9" title="Get list of particles." alt="" coords="225,177,439,205"/>
+<area shape="rect" id="node3" href="$db/d38/HepMC3Example_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="501,57,556,85"/>
+</map>

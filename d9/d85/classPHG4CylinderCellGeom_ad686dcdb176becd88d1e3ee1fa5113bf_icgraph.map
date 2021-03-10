@@ -1,0 +1,38 @@
+<map id="PHG4CylinderCellGeom::get_thickness" name="PHG4CylinderCellGeom::get_thickness">
+<area shape="rect" id="node2" href="$d7/d10/classRawTowerBuilder.html#a01f91227474fd72e2e630a577973b67b" title="RawTowerBuilder::CreateNodes" alt="" coords="241,5,473,33"/>
+<area shape="rect" id="node4" href="$d2/d8f/classPHInitZVertexing.html#a79f883be9e36cb8e9fcf7f4f72726794" title="PHInitZVertexing::initialize\l_geometry" alt="" coords="257,57,457,101"/>
+<area shape="rect" id="node6" href="$d1/d97/classPHPatternReco.html#ad261733deca3b8c36ac1fff124a79070" title="PHPatternReco::initialize\l_geometry" alt="" coords="264,125,449,169"/>
+<area shape="rect" id="node8" href="$d4/d4e/classPHHybridSeeding.html#a3852fe0c4e070518c082a93247bf4dd7" title="PHHybridSeeding::Initialize\lGeometry" alt="" coords="254,193,459,237"/>
+<area shape="rect" id="node10" href="$da/df1/classPHRTreeSeeding.html#ad4cd308ecaab071637bdf37673be5807" title="PHRTreeSeeding::Initialize\lGeometry" alt="" coords="259,261,455,305"/>
+<area shape="rect" id="node12" href="$d1/d08/classPHCASeeding.html#acde49a5aa36a8e09c9f47581c297eea5" title="PHCASeeding::InitializeGeometry" alt="" coords="233,329,480,357"/>
+<area shape="rect" id="node14" href="$d8/dd4/classPHHoughSeeding.html#aa37236d12ed871a287dfb8c9cb52d35a" title="create new node output pointers" alt="" coords="255,381,459,425"/>
+<area shape="rect" id="node16" href="$d0/d22/classPHGenFitTrkProp.html#af5e0adefe0afd02444c636f417ec82ce" title="Init projection r." alt="" coords="258,449,455,493"/>
+<area shape="rect" id="node18" href="$d9/d24/classPHTruthClustering.html#aee80526d7f36911ddba2c734845e6eea" title="PHTruthClustering::\lLayerClusterG4Hits" alt="" coords="281,517,433,561"/>
+<area shape="rect" id="node21" href="$d4/de4/classSvtxTruthEval.html#a6bfd9cc85d5e568a114876331998d84b" title="SvtxTruthEval::LayerCluster\lG4Hits" alt="" coords="252,607,461,651"/>
+<area shape="rect" id="node3" href="$d7/d10/classRawTowerBuilder.html#a4b0df4f724072bb2c3f2e59e44ef134c" title="RawTowerBuilder::InitRun" alt="" coords="528,5,720,33"/>
+<area shape="rect" id="node5" href="$d2/d8f/classPHInitZVertexing.html#aa582764dfeca5acd2a4233dac55f2953" title="PHInitZVertexing::Setup" alt="" coords="533,65,715,93"/>
+<area shape="rect" id="node7" href="$d1/d97/classPHPatternReco.html#a610fcb9dce77170790db3fc915f7c224" title="PHPatternReco::InitRun" alt="" coords="536,133,712,161"/>
+<area shape="rect" id="node9" href="$d4/d4e/classPHHybridSeeding.html#a8806ab81d96add2c5c1eb8a32f7b05d1" title="PHHybridSeeding::Setup" alt="" coords="530,201,718,229"/>
+<area shape="rect" id="node11" href="$da/df1/classPHRTreeSeeding.html#a15f511fcb6e3b9e26d5d0ccf8ed14fd5" title="PHRTreeSeeding::Setup" alt="" coords="534,269,714,297"/>
+<area shape="rect" id="node13" href="$d1/d08/classPHCASeeding.html#aabc85b46380b6507a80c5f7e4de78922" title="PHCASeeding::Setup" alt="" coords="543,329,705,357"/>
+<area shape="rect" id="node15" href="$d8/dd4/classPHHoughSeeding.html#afd17a769426edf60c5ea7bffa65622e3" title="PHHoughSeeding::Setup" alt="" coords="530,389,718,417"/>
+<area shape="rect" id="node17" href="$d0/d22/classPHGenFitTrkProp.html#a8a925731719897df898a280a3a93763a" title="PHGenFitTrkProp::Setup" alt="" coords="534,457,714,485"/>
+<area shape="rect" id="node19" href="$d9/d24/classPHTruthClustering.html#a8fb52ae244819fcfc7e7530f2beaddc9" title="PHTruthClustering::\lall_truth_clusters" alt="" coords="549,513,699,557"/>
+<area shape="rect" id="node20" href="$d9/d24/classPHTruthClustering.html#a047adb6ab581cd996bb280ee82521752" title="PHTruthClustering::\lprocess_event" alt="" coords="791,487,941,531"/>
+<area shape="rect" id="node22" href="$d4/de4/classSvtxTruthEval.html#a10ce69fd37eb1db4dbc77cbfa7affc98" title="SvtxTruthEval::all\l_truth_clusters" alt="" coords="555,649,693,693"/>
+<area shape="rect" id="node23" href="$df/db8/classQAG4SimulationTpc.html#aec3889f1254e0eec8b2b6f354e1375bd" title="evaluate clusters" alt="" coords="783,555,949,599"/>
+<area shape="rect" id="node25" href="$d1/d1e/classSvtxClusterEval.html#af774b5eb2254c2427cd21fbd29b47b6f" title="SvtxClusterEval::all\l_truth_clusters" alt="" coords="790,811,942,855"/>
+<area shape="rect" id="node26" href="$d1/d1e/classSvtxClusterEval.html#a7619937ca04fc86bf74e13a08b1d1959" title="SvtxClusterEval::max\l_truth_cluster_by_energy" alt="" coords="1021,793,1213,837"/>
+<area shape="rect" id="node32" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1271,657,1459,701"/>
+<area shape="rect" id="node34" href="$d1/d1e/classSvtxClusterEval.html#a71467fc0bd5e8af7a8d4ea2a0d124bc1" title="SvtxClusterEval::max\l_truth_particle_by_cluster\l_energy" alt="" coords="768,675,964,735"/>
+<area shape="rect" id="node24" href="$df/db8/classQAG4SimulationTpc.html#aaecb5e12b4083bd235ec7200368c58fc" title="QAG4SimulationTpc::\lprocess_event" alt="" coords="1035,555,1200,599"/>
+<area shape="rect" id="node27" href="$d3/d32/classActsEvaluator.html#ab775f6e654ac9d42708ff5ba9945ce58" title="ActsEvaluator::getGlobal\lTruthHit" alt="" coords="1271,793,1460,837"/>
+<area shape="rect" id="node28" href="$d3/d32/classActsEvaluator.html#ac077153dd095f809fbb109f1a9242571" title="ActsEvaluator::fillProto\lTrack" alt="" coords="1515,861,1689,905"/>
+<area shape="rect" id="node31" href="$d3/d32/classActsEvaluator.html#adfc0d467a2bfb926be361c88761b2667" title="ActsEvaluator::visitTrack\lStates" alt="" coords="1508,793,1696,837"/>
+<area shape="rect" id="node29" href="$d3/d32/classActsEvaluator.html#a1dcade956fd83a14249e38b5783b0f00" title="Function to evaluate Trajectories fit results from the KF." alt="" coords="1744,836,1985,864"/>
+<area shape="rect" id="node30" href="$d3/d32/classActsEvaluator.html#a9ce1e3818dfcd7709c5693087aa21df5" title="ActsEvaluator::process\l_event" alt="" coords="2033,828,2209,872"/>
+<area shape="rect" id="node33" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="1514,657,1690,701"/>
+<area shape="rect" id="node35" href="$dd/de6/classKFParticle__truthAndDetTools.html#aacd7464b07f03f83a4d7e2de49e63a50" title="KFParticle_truthAndDetTools\l::fillTruthBranch" alt="" coords="1012,725,1223,769"/>
+<area shape="rect" id="node36" href="$d9/dae/classKFParticle__nTuple.html#ac32b873cf95657eb34d8b572ad692172" title="Fills required information for your selection, also requests truth and detector information if needed..." alt="" coords="1292,725,1439,769"/>
+<area shape="rect" id="node37" href="$d5/d72/classKFParticle__sPHENIX.html#a7e5ad7cf075fbf8e68a781e7721fec81" title="KFParticle_sPHENIX\l::process_event" alt="" coords="1526,725,1678,769"/>
+</map>

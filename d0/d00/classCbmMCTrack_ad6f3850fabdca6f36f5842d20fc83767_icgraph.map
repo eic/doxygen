@@ -1,0 +1,8 @@
+<map id="CbmMCTrack::GetMass" name="CbmMCTrack::GetMass">
+<area shape="rect" id="node2" href="$d0/d00/classCbmMCTrack.html#a0912467520ed483fd60134a2c271ee17" title="CbmMCTrack::GetEnergy" alt="" coords="229,32,419,60"/>
+<area shape="rect" id="node3" href="$d0/d00/classCbmMCTrack.html#a579f315b91633e96ee4b75d524569a79" title="CbmMCTrack::Get4Momentum" alt="" coords="467,5,693,33"/>
+<area shape="rect" id="node4" href="$d0/d00/classCbmMCTrack.html#a203bcd520340914d640f5c2170dea7cd" title="CbmMCTrack::GetRapidity" alt="" coords="481,57,679,85"/>
+<area shape="rect" id="node5" href="$d5/d75/classCbmRichGeoTest.html#adaab9117d4312415a3d712f2e1bc33d2" title="Fill MC histogram for detector acceptance calculation." alt="" coords="763,31,971,59"/>
+<area shape="rect" id="node7" href="$d5/d75/classCbmRichGeoTest.html#a3877e9706c0d5764a48e943b355830cf" title="Loop over all rings in array and fill ring parameters histograms." alt="" coords="741,83,993,111"/>
+<area shape="rect" id="node6" href="$d5/d75/classCbmRichGeoTest.html#a9d5e890887411e04eb97219b7fa6c191" title="Inherited from FairTask." alt="" coords="1041,57,1217,85"/>
+</map>

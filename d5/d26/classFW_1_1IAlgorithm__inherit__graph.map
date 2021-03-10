@@ -1,0 +1,23 @@
+<map id="FW::IAlgorithm" name="FW::IAlgorithm">
+<area shape="rect" id="node2" href="$d2/dfa/classFW_1_1BareAlgorithm.html" title="FW::BareAlgorithm" alt="" coords="175,516,323,544"/>
+<area shape="rect" id="node3" href="$d3/d70/exceptionFW_1_1DigitizationAlgorithm.html" title="Create planar clusters from simulation hits." alt="" coords="389,5,583,33"/>
+<area shape="rect" id="node4" href="$d8/d0c/exceptionFW_1_1FatrasAlgorithm.html" title="FW::FatrasAlgorithm\l\&lt; simulator_t \&gt;" alt="" coords="407,57,565,101"/>
+<area shape="rect" id="node5" href="$d1/df6/exceptionFW_1_1FittingAlgorithm.html" title="FW::FittingAlgorithm" alt="" coords="407,125,565,153"/>
+<area shape="rect" id="node6" href="$d9/d08/exceptionFW_1_1FlattenEvent.html" title="FW::FlattenEvent" alt="" coords="417,177,555,205"/>
+<area shape="rect" id="node7" href="$dc/d88/classFW_1_1GeantinoRecording.html" title="records the simulation geometry by using geantinos" alt="" coords="396,229,576,257"/>
+<area shape="rect" id="node8" href="$de/dec/classFW_1_1HelloLoggerAlgorithm.html" title="A simple algorithm that just prints hello world." alt="" coords="387,281,585,309"/>
+<area shape="rect" id="node9" href="$d0/d4b/classFW_1_1HelloRandomAlgorithm.html" title="An example algorithm that uses the random number generator to generate data." alt="" coords="382,333,590,361"/>
+<area shape="rect" id="node10" href="$dc/d4a/classFW_1_1HelloWhiteBoardAlgorithm.html" title="Example algorithm that reads/writes data from/to the event store." alt="" coords="371,385,601,413"/>
+<area shape="rect" id="node11" href="$d6/d6d/exceptionFW_1_1HitSmearing.html" title="FW::HitSmearing" alt="" coords="419,437,553,465"/>
+<area shape="rect" id="node12" href="$db/d3a/classFW_1_1MaterialMapping.html" title="Initiates and executes material mapping." alt="" coords="405,489,567,517"/>
+<area shape="rect" id="node13" href="$d3/d4c/classFW_1_1ParticleSelector.html" title="Select particles by applying some selection cuts." alt="" coords="408,541,564,569"/>
+<area shape="rect" id="node14" href="$d7/d52/exceptionFW_1_1ParticleSmearing.html" title="FW::ParticleSmearing" alt="" coords="403,593,569,621"/>
+<area shape="rect" id="node15" href="$db/de1/classFW_1_1PrintHits.html" title="Print hits within some geometric region&#45;of&#45;interest." alt="" coords="432,645,540,673"/>
+<area shape="rect" id="node16" href="$d1/d67/classFW_1_1PrintParticles.html" title="Print all particles." alt="" coords="417,697,555,725"/>
+<area shape="rect" id="node17" href="$db/d92/classFW_1_1PropagationAlgorithm.html" title="this test algorithm performs test propagation within the Acts::Propagator" alt="" coords="387,749,585,793"/>
+<area shape="rect" id="node18" href="$d8/d01/exceptionFW_1_1TrackSelector.html" title="Select tracks by applying some selection cuts." alt="" coords="415,817,557,845"/>
+<area shape="rect" id="node19" href="$d7/dc4/exceptionFW_1_1TruthTrackFinder.html" title="FW::TruthTrackFinder" alt="" coords="405,869,567,897"/>
+<area shape="rect" id="node20" href="$df/d77/classFW_1_1TruthVerticesToTracksAlgorithm.html" title="Converter that takes a generator event (i.e. a std::vector&lt;SimVertex&gt;) and produces a std::vector&lt;Act..." alt="" coords="388,921,584,965"/>
+<area shape="rect" id="node21" href="$d7/dc0/classFWE_1_1VertexFindingAlgorithm.html" title="FWE::VertexFindingAlgorithm" alt="" coords="377,989,595,1017"/>
+<area shape="rect" id="node22" href="$d9/dc3/classFWE_1_1VertexFitAlgorithm.html" title="FWE::VertexFitAlgorithm" alt="" coords="393,1041,579,1069"/>
+</map>

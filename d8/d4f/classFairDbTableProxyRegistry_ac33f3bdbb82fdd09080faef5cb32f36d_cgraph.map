@@ -1,0 +1,20 @@
+<map id="FairDbTableProxyRegistry::FairDbTableProxyRegistry" name="FairDbTableProxyRegistry::FairDbTableProxyRegistry">
+<area shape="rect" id="node2" href="$d8/d4f/classFairDbTableProxyRegistry.html#a4bdfad9f7132883525bf40155133c37f" title="FairDbTableProxyRegistry\l::SetConfigFromEnvironment" alt="" coords="253,204,469,248"/>
+<area shape="rect" id="node3" href="$d2/d6d/namespaceFairUtilString.html#a1165d2df863d8cb37811ebc943cfafb3" title="FairUtilString::StringTok" alt="" coords="519,160,699,188"/>
+<area shape="rect" id="node4" href="$dd/dfd/classFairDbConfigurable.html#ae4c9ebb225c455a956653d160e8578cb" title="FairDbConfigurable::Set" alt="" coords="517,212,700,240"/>
+<area shape="rect" id="node17" href="$dd/dfd/classFairDbConfigurable.html#a5dc7917581fa4a4f726c24d5637f63e4" title="FairDbConfigurable\l::Update" alt="" coords="533,481,684,525"/>
+<area shape="rect" id="node5" href="$dd/dfd/classFairDbConfigurable.html#a4c782bea855a1b8da857235dc0d4304c" title="FairDbConfigurable\l::DefaultConfig" alt="" coords="783,316,933,360"/>
+<area shape="rect" id="node6" href="$dd/dfd/classFairDbConfigurable.html#a154978113ce8223abd35efc806b4f6e9" title="FairDbConfigurable\l::GetConfig" alt="" coords="783,384,933,428"/>
+<area shape="rect" id="node7" href="$de/d04/classFairRegistry.html#a8b9a99140851a7fce5d8fce55457623e" title="FairRegistry::LockValues" alt="" coords="1025,56,1209,84"/>
+<area shape="rect" id="node8" href="$de/d04/classFairRegistry.html#a1771c32f039fd94b7d145c7f90d566ed" title="Copy rhs into this, respects this&#39;s locks." alt="" coords="783,264,933,292"/>
+<area shape="rect" id="node11" href="$db/da0/classFairDbConfDialog.html#a76d3fa8a0bb174f18aa9b6f47b436f5e" title="FairDbConfDialog::Query" alt="" coords="764,212,952,240"/>
+<area shape="rect" id="node14" href="$de/d04/classFairRegistry.html#a763c3780e35a2993ffeec345c3ddae8a" title="FairRegistry::UnLockValues" alt="" coords="1016,108,1219,136"/>
+<area shape="rect" id="node15" href="$db/da0/classFairDbConfDialog.html#a7dcb312a350fcf9ee350253500462e24" title="FairDbConfDialog::SetCurrent" alt="" coords="748,56,968,84"/>
+<area shape="rect" id="node16" href="$db/da0/classFairDbConfDialog.html#a61e1cb023eaa4cf5c863e3991b438881" title="FairDbConfDialog::SetDefault" alt="" coords="748,108,968,136"/>
+<area shape="rect" id="node9" href="$de/d04/classFairRegistry.html#ae188b953682b4d6313915967eb4689e6" title="FairRegistry::Key" alt="" coords="1051,264,1184,292"/>
+<area shape="rect" id="node10" href="$de/d04/classFairRegistry.html#a730bc9f04b62ec683daa7bf673150e42" title="FairRegistry::SetDirty" alt="" coords="1036,444,1199,472"/>
+<area shape="rect" id="node12" href="$de/d04/classFairRegistry.html#a7ae04ff7466bdd3fe35b0f21130676a4" title="FairRegistry::Get" alt="" coords="1051,160,1184,188"/>
+<area shape="rect" id="node13" href="$de/d04/classFairRegistry.html#af5497b2e40a7090339223f1e335d4cc3" title="FairRegistry::Set" alt="" coords="1052,212,1183,240"/>
+<area shape="rect" id="node18" href="$dd/dfd/classFairDbConfigurable.html#a48c98f9bfe04005939bb416db9c064e2" title="FairDbConfigurable\l::Config" alt="" coords="783,452,933,496"/>
+<area shape="rect" id="node19" href="$de/d04/classFairRegistry.html#a694e45affa3ee51ef12564b0718f71ce" title="FairRegistry::IsDirty" alt="" coords="782,520,934,548"/>
+</map>

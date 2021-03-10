@@ -1,0 +1,18 @@
+<map id="FairDbConfigStream::operator&gt;&gt;" name="FairDbConfigStream::operator&gt;&gt;">
+<area shape="rect" id="node2" href="$de/d04/classFairRegistry.html#ac07b8d00f620f2afb2d94e2be944bd2d" title="Clear Registry &#45; deletes all items." alt="" coords="260,5,404,33"/>
+<area shape="rect" id="node4" href="$de/dad/classFairDbConfigSet.html#af94448e7f1a71cef8377c9d62b0a623f" title="FairDbConfigSet::GetNumParams" alt="" coords="503,109,747,137"/>
+<area shape="rect" id="node5" href="$de/dad/classFairDbConfigSet.html#a8fac2f30e4e4d7ed16806c0b38d1de10" title="FairDbConfigSet::GetParamName" alt="" coords="209,109,455,137"/>
+<area shape="rect" id="node6" href="$de/dad/classFairDbConfigSet.html#aee5bd9481b9ab7ada18c198f02f8a25b" title="FairDbConfigSet::GetParam\lValue" alt="" coords="229,161,435,205"/>
+<area shape="rect" id="node7" href="$de/d04/classFairRegistry.html#a75a50cfea4e462d542db8db68c57f61d" title="Control if new key/value pairs can be added." alt="" coords="239,229,425,257"/>
+<area shape="rect" id="node8" href="$de/d04/classFairRegistry.html#af357131cf268a417954bf7ebd1691a75" title="FairRegistry::LockKeys" alt="" coords="247,281,417,309"/>
+<area shape="rect" id="node9" href="$de/d04/classFairRegistry.html#a8b9a99140851a7fce5d8fce55457623e" title="FairRegistry::LockValues" alt="" coords="240,333,424,361"/>
+<area shape="rect" id="node10" href="$de/d04/classFairRegistry.html#a8d67833a0d481a0d936d396b33bb0222" title="FairRegistry::ReadStream" alt="" coords="237,385,427,413"/>
+<area shape="rect" id="node15" href="$de/d04/classFairRegistry.html#a4eaeaf35e758758d2c36efc2f8c291b7" title="FairRegistry::UnLockKeys" alt="" coords="237,437,427,465"/>
+<area shape="rect" id="node16" href="$de/d04/classFairRegistry.html#a763c3780e35a2993ffeec345c3ddae8a" title="FairRegistry::UnLockValues" alt="" coords="231,489,433,517"/>
+<area shape="rect" id="node17" href="$de/d04/classFairRegistry.html#a7adf649d0ecb5a6860e9946cda20e7c0" title="Control if an existing value can be set." alt="" coords="232,541,432,569"/>
+<area shape="rect" id="node3" href="$de/d04/classFairRegistry.html#a730bc9f04b62ec683daa7bf673150e42" title="FairRegistry::SetDirty" alt="" coords="543,5,706,33"/>
+<area shape="rect" id="node11" href="$de/d97/FairRegistry_8cxx.html#aff3303ff291234858b60552b57d2452d" title="bail" alt="" coords="602,333,647,361"/>
+<area shape="rect" id="node12" href="$d2/daf/namespaceUtil.html#a73581bbf4c67485c3d6281ec755f7731" title="Util::read_quoted_string" alt="" coords="533,385,716,413"/>
+<area shape="rect" id="node14" href="$d0/d63/classFairRegistryItem.html#af33fc56809ba28ac0b977e5bc14091c2" title="FairRegistryItem::ReadStream" alt="" coords="513,437,736,465"/>
+<area shape="rect" id="node13" href="$d2/daf/namespaceUtil.html#a88efc721d8aa78949c0f3c41cc568b60" title="discard all whitespace chars until hitting a non&#45;whitespace" alt="" coords="795,385,952,413"/>
+</map>

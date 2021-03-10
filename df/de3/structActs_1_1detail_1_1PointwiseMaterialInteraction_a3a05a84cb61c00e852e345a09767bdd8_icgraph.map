@@ -1,0 +1,9 @@
+<map id="Acts::detail::PointwiseMaterialInteraction::updateVariance" name="Acts::detail::PointwiseMaterialInteraction::updateVariance">
+<area shape="rect" id="node2" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a2fcdf3cae42e4294fcc1be0f0a1e40d3" title="Update the state." alt="" coords="279,73,504,117"/>
+<area shape="rect" id="node3" href="$d6/d87/classActs_1_1KalmanFitter_1_1Actor.html#a1adc19f31ed2ca74884702ff96c499ee" title="Kalman actor operation : material interaction." alt="" coords="569,5,766,49"/>
+<area shape="rect" id="node4" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#acc62edd6ed44b7d4b6225336c8c5da86" title="CombinatorialKalmanFilter actor operation : material interaction." alt="" coords="552,73,783,117"/>
+<area shape="rect" id="node8" href="$d0/d33/structActs_1_1MaterialInteractor.html#a4486d15eab43bcb28d9e7f9d4eb12584" title="Interaction with detector material for the ActionList of the Propagator." alt="" coords="577,141,758,185"/>
+<area shape="rect" id="node5" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a9e4d5b4a636f3b38055f7295f45dec9e" title="CombinatorialKalmanFilter actor operation :" alt="" coords="1084,44,1289,88"/>
+<area shape="rect" id="node7" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a6de850c86ad70195f5478e2a572f1dec" title="Kalman actor operation : reset propagation." alt="" coords="831,104,1036,148"/>
+<area shape="rect" id="node6" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a7031d199a5f3716ff2c34040ce5a618d" title="CombinatorialKalmanFilter actor operation." alt="" coords="1337,75,1543,119"/>
+</map>

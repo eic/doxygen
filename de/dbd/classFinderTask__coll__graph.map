@@ -1,0 +1,16 @@
+<map id="FinderTask" name="FinderTask">
+<area shape="rect" id="node2" href="$d2/d30/classCbmRichRingFinderHoughImpl.html" title="Ring finder implementation based on Hough Transform method." alt="" coords="1487,301,1713,329"/>
+<area shape="rect" id="node3" href="$d1/d0e/classCbmRichRingSelectNeuralNet.html" title="CbmRichRingSelectNeuralNet" alt="" coords="1127,57,1349,85"/>
+<area shape="rect" id="node4" href="$de/d44/classNNfunction.html" title="NNfunction" alt="" coords="709,5,805,33"/>
+<area shape="rect" id="node5" href="$d7/d3d/classCbmRichRingSelectImplLight.html" title="CbmRichRingSelectImplLight" alt="" coords="648,57,865,85"/>
+<area shape="rect" id="node9" href="$d9/dfc/classCbmRichRingFitterCOPLight.html" title="CbmRichRingFitterCOPLight" alt="" coords="891,121,1101,149"/>
+<area shape="rect" id="node15" href="$d1/dba/classCbmRichRingSelectImpl.html" title="CbmRichRingSelectImpl" alt="" coords="665,167,848,195"/>
+<area shape="rect" id="node11" href="$de/d89/classCbmRichRingLight.html" title="CbmRichRingLight" alt="" coords="683,399,830,427"/>
+<area shape="rect" id="node13" href="$d3/d9d/classCbmRichHitLight.html" title="CbmRichHitLight" alt="" coords="5,476,140,504"/>
+<area shape="rect" id="node21" href="$dc/d9f/classCbmRichHoughHit.html" title="Implementation of RICH hit for ring finder algorithm." alt="" coords="301,501,447,529"/>
+<area shape="rect" id="node14" href="$df/d59/classCbmRichRingSelectAnn.html" title="Implementation for concrete RICH ring selection algorithm: reject rings using a trained neural net (i..." alt="" coords="1148,212,1328,240"/>
+<area shape="rect" id="node16" title="STL class." alt="" coords="712,220,801,248"/>
+<area shape="rect" id="node17" title="STL class." alt="" coords="303,213,445,257"/>
+<area shape="rect" id="node18" href="$d1/d8d/classCbmRichRingFitterCOP.html" title="Here the ring is fitted with the COP algorithm from A. Ayriyan/G. Ososkov." alt="" coords="1151,556,1325,584"/>
+<area shape="rect" id="node19" href="$d9/d04/classCbmRichRingFitterBase.html" title="Abstract base class for concrete Rich Ring fitting algorithms. Each derived class must implement the ..." alt="" coords="667,556,846,584"/>
+</map>

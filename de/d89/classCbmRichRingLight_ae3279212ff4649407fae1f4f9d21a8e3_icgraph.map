@@ -1,0 +1,8 @@
+<map id="CbmRichRingLight::RemoveHit" name="CbmRichRingLight::RemoveHit">
+<area shape="rect" id="node2" href="$d2/d30/classCbmRichRingFinderHoughImpl.html#aca224cfe22a1e26284697100c39ec14b" title="Reassign shared hits from two rings to only one of the rings." alt="" coords="283,36,509,80"/>
+<area shape="rect" id="node7" href="$d2/d30/classCbmRichRingFinderHoughImpl.html#a81d192234b45e5fb977b407e9bf393ec" title="CbmRichRingFinderHoughImpl\l::ReAssingSharedHits" alt="" coords="283,104,509,148"/>
+<area shape="rect" id="node3" href="$d2/d30/classCbmRichRingFinderHoughImpl.html#a4fe313b8ef573702f076778de9a840c9" title="Ring selection procedure." alt="" coords="557,36,784,80"/>
+<area shape="rect" id="node4" href="$d2/d30/classCbmRichRingFinderHoughImpl.html#a4cb7c08d68834a72fcb74bc462b12d22" title="Start point to run algorithm." alt="" coords="832,36,1059,80"/>
+<area shape="rect" id="node5" href="$d5/df9/classCbmRichRingFinderHough.html#a77a29a242a1a1a1e5ae5a07ec0ef7f56" title="CbmRichRingFinderHough\l::DoFind" alt="" coords="1107,5,1304,49"/>
+<area shape="rect" id="node6" href="$d7/d7b/classFinderTask.html#a641303dcb5be0c5f284a7402a736c8b4" title="FinderTask::operator()" alt="" coords="1121,73,1290,101"/>
+</map>

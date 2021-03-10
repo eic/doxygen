@@ -1,0 +1,12 @@
+<map id="Acts::Test::BOOST_AUTO_TEST_CASE" name="Acts::Test::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a28e9e0c64fdcd2a904334c82c61568c0" title="this adds the material properties to event store" alt="" coords="241,169,444,213"/>
+<area shape="rect" id="node4" href="$dd/d14/classActs_1_1Material.html#ac11121bf72f8c289f3692d2a9bafca93" title="Return the mass density." alt="" coords="492,5,703,33"/>
+<area shape="rect" id="node5" href="$de/d46/classActs_1_1MaterialProperties.html#a584a5bef878893243b56b0377550df18" title="Access the (average) material parameters." alt="" coords="506,57,689,101"/>
+<area shape="rect" id="node6" href="$de/d46/classActs_1_1MaterialProperties.html#a564f82a56188303ed0ef2114a7a0d0ca" title="Return the thickness." alt="" coords="506,229,689,273"/>
+<area shape="rect" id="node7" href="$de/d46/classActs_1_1MaterialProperties.html#a5e37e73208c8ef7c324df82554723d3a" title="Return the nuclear interaction length fraction." alt="" coords="506,297,689,341"/>
+<area shape="rect" id="node8" href="$de/d46/classActs_1_1MaterialProperties.html#a30ddaf0d30507bf15d7d44d917499e11" title="Return the radiation length fraction." alt="" coords="506,365,689,409"/>
+<area shape="rect" id="node10" href="$d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a64d8e5ae46a4ac53db90ce5ae428b021" title="Acts::AccumulatedMaterial\lProperties::totalAverage" alt="" coords="241,391,444,435"/>
+<area shape="rect" id="node11" href="$d9/dd6/classActs_1_1AccumulatedMaterialProperties.html#a06084dacae4a2326f8aaf345dd8321da" title="Acts::AccumulatedMaterial\lProperties::trackAverage" alt="" coords="241,459,444,503"/>
+<area shape="rect" id="node3" href="$dd/d14/classActs_1_1Material.html#a6297c2b6c95cf78515dfb60cef49e7ec" title="Return the relative atomic mass." alt="" coords="527,177,667,205"/>
+<area shape="rect" id="node9" href="$dd/d14/classActs_1_1Material.html#aec41e03224b0d9a8f36ec386d6390b44" title="Return the atomic number." alt="" coords="531,125,664,153"/>
+</map>

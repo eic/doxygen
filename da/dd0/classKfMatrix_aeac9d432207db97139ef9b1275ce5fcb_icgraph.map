@@ -1,0 +1,11 @@
+<map id="KfMatrix::AddCore" name="KfMatrix::AddCore">
+<area shape="rect" id="node2" href="$da/dd0/classKfMatrix.html#aaef8f080893e6c403141ad2a7c0b8a95" title="KfMatrix::Add" alt="" coords="237,5,349,33"/>
+<area shape="rect" id="node3" href="$da/dd0/classKfMatrix.html#ad9c4ff7d9e8574412a04bec097d6f567" title="KfMatrix::SetToDifference" alt="" coords="197,57,389,85"/>
+<area shape="rect" id="node4" href="$da/dd0/classKfMatrix.html#a3caf8c4f3b69edfabb62d6f61524addd" title="KfMatrix::SetToSum" alt="" coords="217,109,370,137"/>
+<area shape="rect" id="node5" href="$da/dd0/classKfMatrix.html#aaa840cda428c4a650d2207a7f53091d9" title="KfMatrix::Subtract" alt="" coords="221,161,365,189"/>
+<area shape="rect" id="node6" href="$d6/d2a/classKalmanFilter.html#a71cf5c851023da4b228e3654cca58928" title="KalmanFilter::SmootherPass" alt="" coords="437,161,648,189"/>
+<area shape="rect" id="node7" href="$d6/d2a/classKalmanFilter.html#ad511380e4a3b0a4c044e807701d80e75" title="KalmanFilter::FullChain" alt="" coords="749,135,925,163"/>
+<area shape="rect" id="node10" href="$da/d13/classFwdHoughTree.html#a9dc064fb3543a4cc5b1d2f175d3493f4" title="FwdHoughTree::ResolveAmbiguitiesNg" alt="" coords="696,187,977,215"/>
+<area shape="rect" id="node8" href="$d7/d9f/classEicHtcTask.html#a51f6768289f97ee2cd68730b840c5ef2" title="EicHtcTask::Exec" alt="" coords="1048,109,1181,137"/>
+<area shape="rect" id="node9" href="$da/d13/classFwdHoughTree.html#a77ab6d8abaaa4419df4106fb469bbe63" title="FwdHoughTree::FinalFit" alt="" coords="1025,161,1204,189"/>
+</map>

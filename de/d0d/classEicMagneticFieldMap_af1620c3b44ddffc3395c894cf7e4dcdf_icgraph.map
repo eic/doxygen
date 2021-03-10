@@ -1,0 +1,16 @@
+<map id="EicMagneticFieldMap::GetMD5Signature" name="EicMagneticFieldMap::GetMD5Signature">
+<area shape="rect" id="node2" href="$de/d0d/classEicMagneticFieldMap.html#af365aa67e913fcc43c0d3e54702bc930" title="EicMagneticFieldMap\l::EicMagneticFieldMap" alt="" coords="216,65,388,109"/>
+<area shape="rect" id="node3" href="$de/d0d/classEicMagneticFieldMap.html#ab0a3aed43d76089fdb9af7742f168c0c" title="EicMagneticFieldMap\l::Initialize" alt="" coords="221,133,383,177"/>
+<area shape="rect" id="node4" href="$d0/d93/classEicBeamLineElementGrad.html#ab398ee6afd7f2087b9e22259da5ab56d" title="EicBeamLineElementGrad\l::Initialize" alt="" coords="437,5,635,49"/>
+<area shape="rect" id="node5" href="$d6/dbc/classEicBeamLineElementMap.html#ac3798b32e55f3e2d55182d8ffb574781" title="EicBeamLineElementMap\l::Initialize" alt="" coords="439,73,633,117"/>
+<area shape="rect" id="node6" href="$d9/d48/classEicConstantField.html#a481037fb3c268322a756d8b20e729f02" title="EicConstantField::Initialize" alt="" coords="437,141,635,169"/>
+<area shape="rect" id="node7" href="$df/d09/classEicMagneticField.html#ad7522bed0068bc8e33f3b18f382a3951" title="EicMagneticField::Initialize\lFieldMaps" alt="" coords="436,193,636,237"/>
+<area shape="rect" id="node15" href="$dc/d13/classEicPndFieldMap.html#a5ab0a6fd16777bbac6f1d3b7ec0a3be4" title="EicPndFieldMap::Initialize" alt="" coords="440,261,632,289"/>
+<area shape="rect" id="node8" href="$df/d09/classEicMagneticField.html#a7ea74a163febd5502dc5ee4c8758b8c1" title="EicMagneticField::GetField\lSumValue" alt="" coords="684,164,883,208"/>
+<area shape="rect" id="node14" href="$df/d09/classEicMagneticField.html#acf1dd78a0f585b69e1a46247233dbc3b" title="EicMagneticField::Init" alt="" coords="701,232,866,260"/>
+<area shape="rect" id="node9" href="$df/d09/classEicMagneticField.html#a7e49c8f8e4491af7b6f9adca17b2fb98" title="EicMagneticField::GetBxyz" alt="" coords="946,147,1146,175"/>
+<area shape="rect" id="node10" href="$df/d09/classEicMagneticField.html#a4373f06dcf11e6badf980d98d00ebea1" title="EicMagneticField::GetBxyzCore" alt="" coords="931,199,1161,227"/>
+<area shape="rect" id="node11" href="$df/d09/classEicMagneticField.html#aa6c2be48ffe193d4dc10d933acf5036e" title="EicMagneticField::GetBx" alt="" coords="1209,147,1395,175"/>
+<area shape="rect" id="node12" href="$df/d09/classEicMagneticField.html#a8ad441b4b397f1aec4a805fbbebb0e1d" title="EicMagneticField::GetBy" alt="" coords="1209,199,1395,227"/>
+<area shape="rect" id="node13" href="$df/d09/classEicMagneticField.html#aa6949f4fdc4722812d083a1da294866d" title="EicMagneticField::GetBz" alt="" coords="1210,251,1394,279"/>
+</map>

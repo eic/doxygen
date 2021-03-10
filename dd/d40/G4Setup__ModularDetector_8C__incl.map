@@ -1,0 +1,40 @@
+<map id="fun4all_eicmacros/blob/master/detectors/Modular/G4Setup_ModularDetector.C" name="fun4all_eicmacros/blob/master/detectors/Modular/G4Setup_ModularDetector.C">
+<area shape="rect" id="node3" href="$de/d75/G4__Aerogel_8C.html" title="Aerogel RICH for EIC detector." alt="" coords="384,289,496,317"/>
+<area shape="rect" id="node5" href="$d9/d5f/EDecayType_8hh.html" title="g4decayer/EDecayType.hh" alt="" coords="1260,465,1460,493"/>
+<area shape="rect" id="node8" href="$d0/d2b/PHG4Reco_8h.html" title="g4main/PHG4Reco.h" alt="" coords="1281,381,1439,409"/>
+<area shape="rect" id="node10" href="$d8/d04/G4__Barrel__EIC_8C.html" title="G4_Barrel_EIC.C" alt="" coords="2275,289,2405,317"/>
+<area shape="rect" id="node11" href="$dc/dc6/PHG4CylinderSubsystem_8h.html" title="g4detectors/PHG4Cylinder\lSubsystem.h" alt="" coords="1617,373,1818,417"/>
+<area shape="rect" id="node12" href="$dc/da2/Fun4AllServer_8h.html" title="fun4all/Fun4AllServer.h" alt="" coords="3801,381,3978,409"/>
+<area shape="rect" id="node15" href="$de/dd6/G4__AllSilicon_8C.html" title="G4_AllSilicon.C" alt="" coords="1363,205,1485,233"/>
+<area shape="rect" id="node17" href="$d1/db0/G4__FST__EIC_8C.html" title="G4_FST_EIC.C" alt="" coords="195,289,309,317"/>
+<area shape="rect" id="node18" href="$db/dd2/G4__TTL__EIC_8C.html" title="G4_TTL_EIC.C" alt="" coords="1817,205,1930,233"/>
+<area shape="rect" id="node19" href="$de/d55/G4__GEM__EIC_8C.html" title="G4_GEM_EIC.C" alt="" coords="1760,289,1880,317"/>
+<area shape="rect" id="node21" href="$d8/d4c/G4__CEmc__EIC_8C.html" title="G4_CEmc_EIC.C" alt="" coords="2797,289,2925,317"/>
+<area shape="rect" id="node29" href="$d8/d50/G4__DIRC_8C.html" title="Macro setting up the barrel DIRC." alt="" coords="2056,289,2149,317"/>
+<area shape="rect" id="node30" href="$d1/d38/G4__EEMC_8C.html" title="G4_EEMC.C" alt="" coords="3545,289,3644,317"/>
+<area shape="rect" id="node33" href="$dd/dc8/G4__FEMC__EIC_8C.html" title="G4_FEMC_EIC.C" alt="" coords="3394,289,3521,317"/>
+<area shape="rect" id="node34" href="$d8/dc2/G4__FHCAL_8C.html" title="G4_FHCAL.C" alt="" coords="3265,289,3370,317"/>
+<area shape="rect" id="node35" href="$dc/dda/G4__HcalIn__ref_8C.html" title="G4_HcalIn_ref.C" alt="" coords="2950,289,3077,317"/>
+<area shape="rect" id="node36" href="$d8/d93/G4__HcalOut__ref_8C.html" title="G4_HcalOut_ref.C" alt="" coords="3101,289,3240,317"/>
+<area shape="rect" id="node37" href="$d8/d33/G4__Mvtx__EIC_8C.html" title="G4_Mvtx_EIC.C" alt="" coords="2651,289,2773,317"/>
+<area shape="rect" id="node38" href="$df/d24/G4__RICH_8C.html" title="Setup the gas RICH detector as designed in ePHENIX LOI." alt="" coords="696,289,789,317"/>
+<area shape="rect" id="node39" href="$d3/d50/G4__TPC__EIC_8C.html" title="G4_TPC_EIC.C" alt="" coords="2387,205,2501,233"/>
+<area shape="rect" id="node40" href="$d3/d11/G4__Tracking__Modular_8C.html" title="G4_Tracking_Modular.C" alt="" coords="2577,121,2754,149"/>
+<area shape="rect" id="node41" href="$d4/dcd/G4__BlackHole_8C.html" title="G4_BlackHole.C" alt="" coords="864,289,992,317"/>
+<area shape="rect" id="node42" href="$da/d17/G4__Magnet_8C.html" title="G4_Magnet.C" alt="" coords="1016,289,1128,317"/>
+<area shape="rect" id="node44" href="$d4/d0f/G4__PlugDoor__EIC_8C.html" title="G4_PlugDoor_EIC.C" alt="" coords="1153,289,1303,317"/>
+<area shape="rect" id="node45" href="$d1/dd8/G4__User_8C.html" title="G4_User.C" alt="" coords="3725,121,3816,149"/>
+<area shape="rect" id="node46" href="$d0/d40/G4__World_8C.html" title="G4_World.C" alt="" coords="571,289,671,317"/>
+<area shape="rect" id="node47" href="$dc/d7e/G4__Input_8C.html" title="G4_Input.C" alt="" coords="2480,289,2576,317"/>
+<area shape="rect" id="node48" href="$da/d58/PHG4DstCompressReco_8h.html" title="g4eval/PHG4DstCompressReco.h" alt="" coords="144,205,387,233"/>
+<area shape="rect" id="node49" href="$de/d78/PHG4TruthSubsystem_8h.html" title="g4main/PHG4TruthSubsystem.h" alt="" coords="561,205,797,233"/>
+<area shape="rect" id="node50" href="$db/d22/Fun4AllDstOutputManager_8h.html" title="fun4all/Fun4AllDstOutput\lManager.h" alt="" coords="1869,113,2061,157"/>
+<area shape="rect" id="node4" href="$de/d67/fun4all__macros_2blob_2master_2common_2GlobalVariables_8C.html" title="GlobalVariables.C" alt="" coords="1842,381,1982,409"/>
+<area shape="rect" id="node6" href="$d6/d6c/PHG4SectorSubsystem_8h.html" title="g4detectors/PHG4SectorSubsystem.h" alt="" coords="981,381,1256,409"/>
+<area shape="rect" id="node22" href="$d9/d5d/RawTowerBuilder_8h.html" title="g4calo/RawTowerBuilder.h" alt="" coords="2196,381,2393,409"/>
+<area shape="rect" id="node23" href="$d7/d2f/RawTowerDigitizer_8h.html" title="g4calo/RawTowerDigitizer.h" alt="" coords="3571,381,3776,409"/>
+<area shape="rect" id="node24" href="$d3/da3/PHG4CylinderCellReco_8h.html" title="g4detectors/PHG4Cylinder\lCellReco.h" alt="" coords="2418,373,2619,417"/>
+<area shape="rect" id="node25" href="$d6/dd5/CaloEvaluator_8h.html" title="Compares reconstructed tracks to truth particles." alt="" coords="3369,381,3546,409"/>
+<area shape="rect" id="node31" href="$df/d92/RawTowerBuilderByHitIndex_8h.html" title="g4calo/RawTowerBuilderBy\lHitIndex.h" alt="" coords="4002,373,4206,417"/>
+<area shape="rect" id="node32" href="$d3/d6a/PHG4CrystalCalorimeterSubsystem_8h.html" title="g4detectors/PHG4CrystalCalorimeter\lSubsystem.h" alt="" coords="4231,373,4503,417"/>
+</map>

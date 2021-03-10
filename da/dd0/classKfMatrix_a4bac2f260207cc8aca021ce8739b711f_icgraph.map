@@ -1,0 +1,26 @@
+<map id="KfMatrix::GetDim2" name="KfMatrix::GetDim2">
+<area shape="rect" id="node2" href="$da/dd0/classKfMatrix.html#a114d7efff13a79f1441c0680ac286b93" title="KfMatrix::Bufferize" alt="" coords="717,385,864,413"/>
+<area shape="rect" id="node4" href="$da/dd0/classKfMatrix.html#a8138dd8addc8f4179f859bd5c45b28b6" title="KfMatrix::DimensionMatch\lCheck" alt="" coords="199,296,397,340"/>
+<area shape="rect" id="node25" href="$d4/da7/KfMatrix_8cxx.html#a6dbc4ed7b81b13996097d55077ffc5d4" title="GetBufferMatrix" alt="" coords="468,437,597,465"/>
+<area shape="rect" id="node3" href="$da/dd0/classKfMatrix.html#a2de450bdab8d07ed9496542026d9839f" title="KfMatrix::SetToProduct" alt="" coords="985,369,1160,397"/>
+<area shape="rect" id="node5" href="$da/dd0/classKfMatrix.html#aeac9d432207db97139ef9b1275ce5fcb" title="KfMatrix::AddCore" alt="" coords="461,109,605,137"/>
+<area shape="rect" id="node15" href="$da/dd0/classKfMatrix.html#ab490f06861e719f20e49f4d758abbae4" title="KfMatrix::CopyFrom" alt="" coords="456,333,609,361"/>
+<area shape="rect" id="node20" href="$da/dd0/classKfMatrix.html#a89d6b58b2efee54f0b3be78dd0ea188b" title="KfMatrix::SetToProduct" alt="" coords="445,281,620,309"/>
+<area shape="rect" id="node6" href="$da/dd0/classKfMatrix.html#aaef8f080893e6c403141ad2a7c0b8a95" title="KfMatrix::Add" alt="" coords="735,109,847,137"/>
+<area shape="rect" id="node7" href="$da/dd0/classKfMatrix.html#ad9c4ff7d9e8574412a04bec097d6f567" title="KfMatrix::SetToDifference" alt="" coords="695,161,887,189"/>
+<area shape="rect" id="node8" href="$da/dd0/classKfMatrix.html#a3caf8c4f3b69edfabb62d6f61524addd" title="KfMatrix::SetToSum" alt="" coords="714,5,867,33"/>
+<area shape="rect" id="node9" href="$da/dd0/classKfMatrix.html#aaa840cda428c4a650d2207a7f53091d9" title="KfMatrix::Subtract" alt="" coords="719,57,863,85"/>
+<area shape="rect" id="node10" href="$d6/d2a/classKalmanFilter.html#a71cf5c851023da4b228e3654cca58928" title="KalmanFilter::SmootherPass" alt="" coords="967,213,1178,241"/>
+<area shape="rect" id="node11" href="$d6/d2a/classKalmanFilter.html#ad511380e4a3b0a4c044e807701d80e75" title="KalmanFilter::FullChain" alt="" coords="1285,265,1461,293"/>
+<area shape="rect" id="node14" href="$da/d13/classFwdHoughTree.html#a9dc064fb3543a4cc5b1d2f175d3493f4" title="FwdHoughTree::ResolveAmbiguitiesNg" alt="" coords="1232,317,1513,345"/>
+<area shape="rect" id="node12" href="$d7/d9f/classEicHtcTask.html#a51f6768289f97ee2cd68730b840c5ef2" title="EicHtcTask::Exec" alt="" coords="1584,369,1717,397"/>
+<area shape="rect" id="node13" href="$da/d13/classFwdHoughTree.html#a77ab6d8abaaa4419df4106fb469bbe63" title="FwdHoughTree::FinalFit" alt="" coords="1561,292,1740,320"/>
+<area shape="rect" id="node16" href="$d6/d2a/classKalmanFilter.html#a55ddbff3b818a05898149dd51313047a" title="KalmanFilter::Calculate\l_x0_FR_Q" alt="" coords="702,317,879,361"/>
+<area shape="rect" id="node18" href="$d1/d0e/classTrKalmanNode.html#a4044b0d48ac22dad8b075e392b36934a" title="TrKalmanNode::SetMeasurement\lNoise" alt="" coords="668,541,913,585"/>
+<area shape="rect" id="node17" href="$d6/d2a/classKalmanFilter.html#a3dc79ff2ca154297d6d86f3dee8f0194" title="KalmanFilter::FilterPass" alt="" coords="984,317,1161,345"/>
+<area shape="rect" id="node19" href="$da/d13/classFwdHoughTree.html#a2c6b906fed9b9e2df2d061a675ab56da" title="FwdHoughTree::SetupKalman\lFilter" alt="" coords="963,525,1183,569"/>
+<area shape="rect" id="node21" href="$da/dd0/classKfMatrix.html#a7b0a8c19a961360fc818320d54e4a287" title="KfMatrix::SetToProductCore" alt="" coords="689,437,893,465"/>
+<area shape="rect" id="node24" href="$d6/d2a/classKalmanFilter.html#a45d7662a8e30d56baa92e9eb43967128" title="KalmanFilter::DoFilterAlgebra" alt="" coords="682,265,899,293"/>
+<area shape="rect" id="node22" href="$da/dd0/classKfMatrix.html#a7a7a933fecd34c9ae7e36e4e2e175c4b" title="KfMatrix::SetToProduct" alt="" coords="985,421,1160,449"/>
+<area shape="rect" id="node23" href="$da/dd0/classKfMatrix.html#aedfb0b914aab8bb63941a82b63081f64" title="KfMatrix::VectorLengthSquare" alt="" coords="961,473,1184,501"/>
+</map>

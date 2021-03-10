@@ -1,0 +1,8 @@
+<map id="GFDafHit::getNumHits" name="GFDafHit::getNumHits">
+<area shape="rect" id="node2" href="$d1/dce/classGFDaf.html#a29568e85716d0ac4fd69d290f86ad98d" title="Calculate the weights for the next fitting pass." alt="" coords="236,5,389,33"/>
+<area shape="rect" id="node7" href="$d1/dce/classGFDaf.html#a8b2c71a01ea071c6188e583cade7c789" title="Copy the smoothing matrices from the source track to the target." alt="" coords="224,57,401,85"/>
+<area shape="rect" id="node3" href="$d1/dce/classGFDaf.html#acae6182be114ea4c813d0bb8995343a4" title="Process a track using the DAF." alt="" coords="449,32,609,60"/>
+<area shape="rect" id="node4" href="$df/d62/classPndRecoDafFit.html#a71b624dff0fc50e252d2d2b9eed898ee" title="PndRecoDafFit::Fit" alt="" coords="657,32,801,60"/>
+<area shape="rect" id="node5" href="$d7/d87/classPndRecoKalmanTask.html#aa92916b999aeaf87e99fb08734ce368e" title="PndRecoKalmanTask::Exec" alt="" coords="849,32,1049,60"/>
+<area shape="rect" id="node6" href="$d2/db6/classEicRecoKalmanTask.html#a10103a96af9664a82027040c505bfff1" title="EicRecoKalmanTask::Exec" alt="" coords="1097,32,1292,60"/>
+</map>

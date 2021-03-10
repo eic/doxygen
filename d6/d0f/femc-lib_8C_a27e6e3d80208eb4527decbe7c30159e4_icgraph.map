@@ -1,0 +1,12 @@
+<map id="define_basic_parameters" name="define_basic_parameters">
+<area shape="rect" id="node2" href="$df/d7c/femc_8C.html#a601c0d58d41a3646eddbf354a4ff08d7" title="femc" alt="" coords="244,84,299,112"/>
+<area shape="rect" id="node7" href="$d1/dd5/HCAL_2hcal_8C.html#ae16e3709bf92cc3517979d9d0977830b" title="hcal" alt="" coords="247,213,296,241"/>
+<area shape="rect" id="node3" href="$d8/d11/examples_2physics_2config_82_2digitization_8C.html#afd97e93afdacaf415631892fe39fdf2c" title="digitization" alt="" coords="374,5,470,33"/>
+<area shape="rect" id="node4" href="$de/d0b/examples_2physics_2config_82_2reconstruction_8C.html#a3d26f5f344cf2281e72b22d404fd8c51" title="reconstruction" alt="" coords="363,57,481,85"/>
+<area shape="rect" id="node5" href="$d5/dcb/G4__FEMC_8C.html#a46bf470cecae66db11fccb5925a48429" title="FEMCSetup" alt="" coords="373,109,471,137"/>
+<area shape="rect" id="node6" href="$dc/df3/fun4all__eic__qa_2blob_2master_2macros_2G4Setup__EICDetector_8C.html#a6b34584f88221280e9b276471822bd06" title="G4Setup" alt="" coords="545,265,625,293"/>
+<area shape="rect" id="node8" href="$df/d7d/HCAL_2hcal-lib_8C.html#a0399bbc88ac2cc0cc7ddf1cbcf078219" title="make_single_tower" alt="" coords="347,161,497,189"/>
+<area shape="rect" id="node9" href="$d4/dff/STAR_8FWD_2hcal_8C.html#ae16e3709bf92cc3517979d9d0977830b" title="hcal" alt="" coords="397,213,447,241"/>
+<area shape="rect" id="node10" href="$dc/dda/G4__HcalIn__ref_8C.html#a1a52eb3e2a8e75ec336b82be8ceef4d9" title="HCalInner" alt="" coords="377,265,467,293"/>
+<area shape="rect" id="node11" href="$d8/d93/G4__HcalOut__ref_8C.html#a1b10b3900f22c0f15ac8d49e06ceefb3" title="HCalOuter" alt="" coords="376,317,468,345"/>
+</map>

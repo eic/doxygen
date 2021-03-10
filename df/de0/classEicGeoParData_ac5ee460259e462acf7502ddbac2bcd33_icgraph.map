@@ -1,0 +1,12 @@
+<map id="EicGeoParData::GetMapNum" name="EicGeoParData::GetMapNum">
+<area shape="rect" id="node2" href="$dd/dac/classEicDetector.html#a52d5d3a030ed4ab74e36989b4a563f73" title="EicDetector::ConstructGeometry" alt="" coords="268,5,508,33"/>
+<area shape="rect" id="node3" href="$dd/df6/classEicCalorimeterDigiHitProducer.html#a69502d8d811b7f7fa6189488dda1df73" title="EicCalorimeterDigiHitProducer\l::ExtraInit" alt="" coords="275,57,501,101"/>
+<area shape="rect" id="node4" href="$dd/dac/classEicDetector.html#a07cbc95f9c21475def3c27195d757726" title="EicDetector::GetNodeMulti\lIndex" alt="" coords="288,125,488,169"/>
+<area shape="rect" id="node6" href="$de/d93/classEicDigiHitProducer.html#a09862b32b794944e02723bdce363a565" title="EicDigiHitProducer\l::Init" alt="" coords="315,193,461,237"/>
+<area shape="rect" id="node7" href="$df/de0/classEicGeoParData.html#ada61760a650d74255385e8c0ab628de2" title="EicGeoParData::PlaceG4Volume" alt="" coords="270,261,506,289"/>
+<area shape="rect" id="node5" href="$dd/dac/classEicDetector.html#adc3de28f6738a336d9964256bb696dd7" title="EicDetector::ProcessHits" alt="" coords="569,133,754,161"/>
+<area shape="rect" id="node8" href="$d0/dd9/classBasicDetectorConstruction.html#a89b2262ce34d353501498c7b666ffd28" title="BasicDetectorConstruction\l::Construct" alt="" coords="561,185,762,229"/>
+<area shape="rect" id="node9" href="$d6/d68/classEicRootGemSubsystem.html#a7c7159c6ad88375796bd78fc5fd88df6" title="EicRootGemSubsystem\l::PlaceG4Volume" alt="" coords="572,253,751,297"/>
+<area shape="rect" id="node10" href="$d6/d4c/classEicRootMuMegasSubsystem.html#a633f32e3833af0722157dde81e0c02a5" title="EicRootMuMegasSubsystem\l::PlaceG4Volume" alt="" coords="556,321,767,365"/>
+<area shape="rect" id="node11" href="$d1/d07/classEicRootVstSubsystem.html#a580ef838ab344868277e7213896e08b2" title="EicRootVstSubsystem\l::PlaceG4Volume" alt="" coords="577,389,745,433"/>
+</map>

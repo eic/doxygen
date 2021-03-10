@@ -1,0 +1,10 @@
+<map id="SvtxTrack::Reset" name="SvtxTrack::Reset">
+<area shape="rect" id="node2" href="$de/d74/classKFParticle__DST.html#a2b6acf78701266573cd1278c75281f2b" title="Called by fillParticleNode, fills an SvtxTrackMap." alt="" coords="206,5,401,49"/>
+<area shape="rect" id="node5" href="$d0/d22/classPHGenFitTrkProp.html#a425f22248030483cb56cdb867c3077c8" title="ExportOutput Call. Make SvtxTrack from PHGenFit::Track and set of clusters." alt="" coords="187,73,420,117"/>
+<area shape="rect" id="node8" href="$df/d76/classPHActsTrkProp.html#abbb60d027bda2a807cf8af9f0b84b558" title="Wipe and recreate the SvtxTrackMap with Acts output." alt="" coords="201,141,405,185"/>
+<area shape="rect" id="node3" href="$de/d74/classKFParticle__DST.html#acecbd0672cdd8840d82e8e86a8e7bf21" title="Simultaneously fills a KFParticle_Container and SvtxTrackMap if they are enabled." alt="" coords="474,13,703,41"/>
+<area shape="rect" id="node4" href="$d5/d72/classKFParticle__sPHENIX.html#a7e5ad7cf075fbf8e68a781e7721fec81" title="KFParticle_sPHENIX\l::process_event" alt="" coords="777,5,929,49"/>
+<area shape="rect" id="node6" href="$d0/d22/classPHGenFitTrkProp.html#ab11c2e61a1b78278fa4af7cf624c2538" title="Main function." alt="" coords="468,81,709,109"/>
+<area shape="rect" id="node7" href="$d0/d22/classPHGenFitTrkProp.html#affb38f83e68a715da6a937c1e82dabd4" title="PHGenFitTrkProp::Process" alt="" coords="757,81,949,109"/>
+<area shape="rect" id="node9" href="$df/d76/classPHActsTrkProp.html#ae274ea4fd9d52834cbbfd1c3aca72476" title="Process each event by calling the fitter." alt="" coords="500,149,677,177"/>
+</map>

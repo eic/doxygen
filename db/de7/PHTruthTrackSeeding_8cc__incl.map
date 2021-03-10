@@ -1,0 +1,37 @@
+<map id="fun4all_coresoftware/blob/master/offline/packages/trackreco/PHTruthTrackSeeding.cc" name="fun4all_coresoftware/blob/master/offline/packages/trackreco/PHTruthTrackSeeding.cc">
+<area shape="rect" id="node2" href="$dc/d9c/PHTruthTrackSeeding_8h.html" title="Vertexing using truth info." alt="" coords="199,397,375,425"/>
+<area shape="rect" id="node6" href="$dd/d79/AssocInfoContainer_8h.html" title="AssocInfoContainer.h" alt="" coords="3171,489,3335,517"/>
+<area shape="rect" id="node9" href="$d8/d00/TrkrDefs_8h.html" title="Namespace with Trkr key types and utility functions." alt="" coords="4242,573,4402,601"/>
+<area shape="rect" id="node14" href="$d0/d87/SvtxTrack_8h.html" title="trackbase_historic\l/SvtxTrack.h" alt="" coords="2503,389,2647,433"/>
+<area shape="rect" id="node19" href="$d7/d9f/SvtxTrackMap_8h.html" title="trackbase_historic\l/SvtxTrackMap.h" alt="" coords="2665,297,2809,341"/>
+<area shape="rect" id="node20" href="$d0/d56/SvtxTrack__FastSim_8h.html" title="trackbase_historic\l/SvtxTrack_FastSim.h" alt="" coords="4053,205,4217,249"/>
+<area shape="rect" id="node22" href="$d1/d4a/TrkrCluster_8h.html" title="Base class for cluster object." alt="" coords="1446,489,1622,517"/>
+<area shape="rect" id="node24" href="$d2/d44/TrkrClusterContainer_8h.html" title="Cluster container object." alt="" coords="4104,489,4345,517"/>
+<area shape="rect" id="node25" href="$d7/d04/TrkrClusterHitAssoc_8h.html" title="Class for associating clusters to the hits that went into them." alt="" coords="4369,481,4555,525"/>
+<area shape="rect" id="node26" href="$d1/d21/TrkrHitTruthAssoc_8h.html" title="trackbase/TrkrHitTruthAssoc.h" alt="" coords="2925,489,3146,517"/>
+<area shape="rect" id="node27" href="$d2/d92/PHG4HitDefs_8h.html" title="g4main/PHG4HitDefs.h" alt="" coords="1410,573,1586,601"/>
+<area shape="rect" id="node28" href="$d0/d19/SvtxVertexMap_8h.html" title="trackbase_historic\l/SvtxVertexMap.h" alt="" coords="2931,389,3075,433"/>
+<area shape="rect" id="node29" href="$dc/dc1/SvtxVertex_8h.html" title="SvtxVertex.h" alt="" coords="1697,489,1803,517"/>
+<area shape="rect" id="node30" href="$d7/dcd/SvtxClusterEval_8h.html" title="g4eval/SvtxClusterEval.h" alt="" coords="3727,397,3917,425"/>
+<area shape="rect" id="node33" href="$d3/d59/SvtxEvalStack_8h.html" title="g4eval/SvtxEvalStack.h" alt="" coords="2409,129,2589,157"/>
+<area shape="rect" id="node35" href="$df/d8a/SvtxTrackEval_8h.html" title="SvtxTrackEval.h" alt="" coords="3511,305,3639,333"/>
+<area shape="rect" id="node36" href="$d6/dff/SvtxEvaluator_8h.html" title="Compares reconstructed tracks to truth particles." alt="" coords="5,489,183,517"/>
+<area shape="rect" id="node37" href="$de/d83/PHG4Hit_8h.html" title="g4main/PHG4Hit.h" alt="" coords="1225,489,1371,517"/>
+<area shape="rect" id="node38" href="$dd/d05/PHG4Particle_8h.html" title="g4main/PHG4Particle.h" alt="" coords="923,489,1099,517"/>
+<area shape="rect" id="node39" href="$d3/d08/PHG4HitContainer_8h.html" title="g4main/PHG4HitContainer.h" alt="" coords="2386,489,2597,517"/>
+<area shape="rect" id="node40" href="$d0/d25/PHG4TruthInfoContainer_8h.html" title="g4main/PHG4TruthInfoContainer.h" alt="" coords="4681,489,4931,517"/>
+<area shape="rect" id="node42" href="$da/dc1/Fun4AllReturnCodes_8h.html" title="fun4all/Fun4AllReturnCodes.h" alt="" coords="5343,129,5565,157"/>
+<area shape="rect" id="node43" href="$dd/dd4/getClass_8h.html" title="phool/getClass.h" alt="" coords="662,305,795,333"/>
+<area shape="rect" id="node48" href="$d5/d6f/phool_8h.html" title="phool.h" alt="" coords="5214,213,5286,241"/>
+<area shape="rect" id="node3" href="$d8/d71/PHTrackSeeding_8h.html" title="Base class for track seeding." alt="" coords="207,489,349,517"/>
+<area shape="rect" id="node4" href="$d5/dc2/SubsysReco_8h.html" title="fun4all/SubsysReco.h" alt="" coords="134,573,299,601"/>
+<area shape="rect" id="node7" href="$df/d32/PHObject_8h.html" title="phool/PHObject.h" alt="" coords="2615,573,2754,601"/>
+<area shape="rect" id="node15" href="$de/de6/SvtxTrackState_8h.html" title="SvtxTrackState.h" alt="" coords="1929,489,2064,517"/>
+<area shape="rect" id="node21" href="$d4/d1f/SvtxTrack__v1_8h.html" title="SvtxTrack_v1.h" alt="" coords="3663,305,3786,333"/>
+<area shape="rect" id="node31" href="$d7/d98/SvtxHitEval_8h.html" title="SvtxHitEval.h" alt="" coords="3765,489,3877,517"/>
+<area shape="rect" id="node34" href="$d5/d9c/SvtxVertexEval_8h.html" title="SvtxVertexEval.h" alt="" coords="2442,213,2578,241"/>
+<area shape="rect" id="node44" href="$dd/d9b/PHDataNode_8h.html" title="PHDataNode.h" alt="" coords="628,489,747,517"/>
+<area shape="rect" id="node45" href="$d3/d62/PHNode_8h.html" title="PHNode.h" alt="" coords="593,573,680,601"/>
+<area shape="rect" id="node46" href="$d3/d79/PHIODataNode_8h.html" title="PHIODataNode.h" alt="" coords="610,397,743,425"/>
+<area shape="rect" id="node47" href="$d8/dfd/PHNodeIterator_8h.html" title="PHNodeIterator.h" alt="" coords="450,397,586,425"/>
+</map>

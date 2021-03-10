@@ -1,0 +1,29 @@
+<map id="fun4all_acts/blob/master/Core/include/Acts/Material/MaterialCollector.hpp" name="fun4all_acts/blob/master/Core/include/Acts/Material/MaterialCollector.hpp">
+<area shape="rect" id="node3" href="$da/dd4/ISurfaceMaterial_8hpp.html" title="Acts/Material/ISurfaceMaterial.hpp" alt="" coords="669,197,923,225"/>
+<area shape="rect" id="node10" href="$d2/ddb/MaterialProperties_8hpp.html" title="Acts/Material/MaterialProperties.hpp" alt="" coords="606,289,874,317"/>
+<area shape="rect" id="node11" href="$d0/d70/Material_8hpp.html" title="Acts/Material/Material.hpp" alt="" coords="1189,373,1389,401"/>
+<area shape="rect" id="node15" href="$d8/ddd/Surface_8hpp.html" title="Acts/Surfaces/Surface.hpp" alt="" coords="2781,113,2981,141"/>
+<area shape="rect" id="node6" href="$d3/d69/GeometryID_8hpp.html" title="Acts/Geometry/GeometryID.hpp" alt="" coords="241,289,479,317"/>
+<area shape="rect" id="node13" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="2665,625,2879,653"/>
+<area shape="rect" id="node16" href="$dc/d45/DetectorElementBase_8hpp.html" title="Acts/Geometry/DetectorElement\lBase.hpp" alt="" coords="3420,189,3663,233"/>
+<area shape="rect" id="node18" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="3520,373,3797,401"/>
+<area shape="rect" id="node20" href="$da/de0/GeometryObject_8hpp.html" title="Acts/Geometry/GeometryObject.hpp" alt="" coords="1301,197,1569,225"/>
+<area shape="rect" id="node21" href="$db/d40/Polyhedron_8hpp.html" title="Acts/Geometry/Polyhedron.hpp" alt="" coords="1335,289,1569,317"/>
+<area shape="rect" id="node23" href="$de/d09/BinningType_8hpp.html" title="Acts/Utilities/BinningType.hpp" alt="" coords="24,533,248,561"/>
+<area shape="rect" id="node37" href="$d7/d50/BoundaryCheck_8hpp.html" title="Acts/Surfaces/BoundaryCheck.hpp" alt="" coords="1580,449,1836,477"/>
+<area shape="rect" id="node42" href="$d5/dc6/GeometryStatics_8hpp.html" title="Acts/Geometry/GeometryStatics.hpp" alt="" coords="3173,289,3443,317"/>
+<area shape="rect" id="node43" href="$da/ddb/SurfaceBounds_8hpp.html" title="Acts/Surfaces/SurfaceBounds.hpp" alt="" coords="1956,373,2207,401"/>
+<area shape="rect" id="node45" href="$d5/d50/BinnedArray_8hpp.html" title="Acts/Utilities/BinnedArray.hpp" alt="" coords="2618,197,2841,225"/>
+<area shape="rect" id="node49" href="$db/d8d/Intersection_8hpp.html" title="Acts/Utilities/Intersection.hpp" alt="" coords="3020,373,3241,401"/>
+<area shape="rect" id="node50" href="$dd/d76/Surface_8ipp.html" title="Acts/Surfaces/detail\l/Surface.ipp" alt="" coords="3147,189,3303,233"/>
+<area shape="rect" id="node17" href="$d3/dc6/DefaultDetectorElementBase_8hpp.html" title="detail/DefaultDetectorElement\lBase.hpp" alt="" coords="3467,281,3695,325"/>
+<area shape="rect" id="node25" href="$d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html" title="Acts/Utilities/Helpers.hpp" alt="" coords="1014,449,1207,477"/>
+<area shape="rect" id="node22" href="$dc/d2a/Extent_8hpp.html" title="Acts/Geometry/Extent.hpp" alt="" coords="963,373,1165,401"/>
+<area shape="rect" id="node31" href="$d8/dfd/ParameterDefinitions_8hpp.html" title="Acts/Utilities/Parameter\lDefinitions.hpp" alt="" coords="707,525,888,569"/>
+<area shape="rect" id="node35" href="$d0/d81/TypeTraits_8hpp.html" title="Acts/Utilities/TypeTraits.hpp" alt="" coords="323,533,531,561"/>
+<area shape="rect" id="node33" href="$d7/d46/ParameterTypes_8hpp.html" title="Acts/Utilities/Parameter\lTypes.hpp" alt="" coords="656,617,837,661"/>
+<area shape="rect" id="node40" href="$d4/d27/VerticesHelper_8hpp.html" title="Acts/Surfaces/detail\l/VerticesHelper.hpp" alt="" coords="1746,525,1902,569"/>
+<area shape="rect" id="node46" href="$d2/d0a/BinUtility_8hpp.html" title="Acts/Utilities/BinUtility.hpp" alt="" coords="2629,289,2830,317"/>
+<area shape="rect" id="node47" href="$d3/d5e/BinningData_8hpp.html" title="Acts/Utilities/BinningData.hpp" alt="" coords="2287,373,2513,401"/>
+<area shape="rect" id="node48" href="$d8/db0/ThrowAssert_8hpp.html" title="Acts/Utilities/ThrowAssert.hpp" alt="" coords="2113,449,2338,477"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="EicRecoKalmanTask::Init" name="EicRecoKalmanTask::Init">
+<area shape="rect" id="node2" href="$d6/d85/classGFRecoHitFactory.html#a00bfea09b13774376d4e6ad013354ef9" title="Register a producer module to the factory." alt="" coords="239,57,473,85"/>
+<area shape="rect" id="node5" href="$d0/d6c/classFairRootManager.html#a283e22d85becc8f82c3ca7e49d80b4b3" title="FairRootManager::GetInFile" alt="" coords="255,473,457,501"/>
+<area shape="rect" id="node6" href="$d0/d6c/classFairRootManager.html#abbbec76c83bcd0e1b78bef3c54e178eb" title="FairRootManager::GetObject" alt="" coords="551,109,763,137"/>
+<area shape="rect" id="node22" href="$db/d6d/classPndRecoKalmanFit.html#af7fe2b6d503d61e990ae54b45a72ea1e" title="PndRecoKalmanFit::GetReco\lHitFactory" alt="" coords="251,577,461,621"/>
+<area shape="rect" id="node23" href="$d7/d87/classPndRecoKalmanTask.html#a33b7a5331aaa1b81224f3b2061a2c3eb" title="PndRecoKalmanTask::Init" alt="" coords="261,645,451,673"/>
+<area shape="rect" id="node33" href="$d0/d6c/classFairRootManager.html#a830b7803b29e7424a75f2dc374dcc96b" title="FairRootManager::Instance" alt="" coords="850,749,1051,777"/>
+<area shape="rect" id="node49" href="$d7/d87/classPndRecoKalmanTask.html#a1df7682dc40ed8b8849a4b3b4e83575f" title="PndRecoKalmanTask::\lSetDaf" alt="" coords="273,1281,439,1325"/>
+<area shape="rect" id="node50" href="$d7/d87/classPndRecoKalmanTask.html#aa1fc65d12e0979c887cc9c5fb0007912" title="PndRecoKalmanTask::\lSetTrackInBranchName" alt="" coords="267,1349,445,1393"/>
+<area shape="rect" id="node3" href="$df/d55/classGFException.html#a886ef3de22cdff9ceee36449be8643c2" title="set fatal flag. if this is true, the fit stops for this current track repr." alt="" coords="574,57,741,85"/>
+<area shape="rect" id="node4" href="$df/d55/classGFException.html#a25d7625cd54d9a876bde29d7092547c4" title="set list of numbers with description" alt="" coords="559,5,756,33"/>
+<area shape="rect" id="node7" href="$db/da1/classFairLogger.html#a60bd2d39c9b6c2be4d5c8893a7d6921e" title="FairLogger::Debug2" alt="" coords="1155,84,1309,112"/>
+<area shape="rect" id="node17" href="$d0/d6c/classFairRootManager.html#a6135b9b9cc49e5e778b81b566f75e0e8" title="FairRootManager::GetMemory\lBranch" alt="" coords="1121,16,1343,60"/>
+<area shape="rect" id="node18" href="$d0/d6c/classFairRootManager.html#a62ae3b6bdfdb86e3c710ae18ebe67367" title="FairRootManager::Activate\lBranch" alt="" coords="851,132,1050,176"/>
+<area shape="rect" id="node8" href="$db/da1/classFairLogger.html#ae5a926d95789678b453cbb45e0a9a46e" title="FairLogger::IsLogNeeded" alt="" coords="1404,136,1591,164"/>
+<area shape="rect" id="node9" href="$db/da1/classFairLogger.html#aa9d98b58fab95abcf553dfefe1e572f5" title="FairLogger::Log" alt="" coords="1435,188,1559,216"/>
+<area shape="rect" id="node10" href="$db/da1/classFairLogger.html#a5529c6ab25bc075aff767f30a743e616" title="FairLogger::OpenLogFile" alt="" coords="1923,136,2106,164"/>
+<area shape="rect" id="node12" href="$db/da1/classFairLogger.html#aeb76e4a75fe913ebdf1c07b5d1f3ac1b" title="FairLogger::GetOutputStream" alt="" coords="1639,188,1859,216"/>
+<area shape="rect" id="node14" href="$db/da1/classFairLogger.html#a496d9b3f72963d24a58abc5a023b74b0" title="End of the line." alt="" coords="1684,240,1813,268"/>
+<area shape="rect" id="node11" href="$db/da1/classFairLogger.html#a80d1ac93eff9a9b6d52f8118b8b796aa" title="FairLogger::CloseLogFile" alt="" coords="2171,136,2355,164"/>
+<area shape="rect" id="node13" href="$db/da1/classFairLogger.html#a6fe59f109418f1331c91c39d0ea33c1d" title="FairLogger::GetTime" alt="" coords="2184,201,2341,229"/>
+<area shape="rect" id="node15" href="$db/da1/classFairLogger.html#aca7a4fd0af5e622c9635f62996a7334d" title="Flush the streams." alt="" coords="2196,279,2329,307"/>
+<area shape="rect" id="node16" href="$db/da1/classFairLogger.html#a9848989e18afa7144b47ecc38b7bfe0e" title="FairLogger::LogFatalMessage" alt="" coords="1907,240,2123,268"/>
+<area shape="rect" id="node19" href="$db/da1/classFairLogger.html#a710e562aaff33766e424013a77d9cb77" title="FairLogger::Debug" alt="" coords="1160,188,1304,216"/>
+<area shape="rect" id="node20" href="$db/da1/classFairLogger.html#a3ebc5751836771a50a11e0e2491a9f68" title="FairLogger::Info" alt="" coords="1169,136,1295,164"/>
+<area shape="rect" id="node21" href="$d0/d6c/classFairRootManager.html#ae01e51ec943e7e829002b077cf50792d" title="FairRootManager::AddMemory\lBranch" alt="" coords="1119,240,1345,284"/>
+<area shape="rect" id="node24" href="$db/d6d/classPndRecoKalmanFit.html#a01f86fa2d94ce504177cb9bcf577a444" title="PndRecoKalmanFit::SetGeane" alt="" coords="547,801,767,829"/>
+<area shape="rect" id="node25" href="$db/d6d/classPndRecoKalmanFit.html#a32e9d9cdb5ab35c29720222a350c3924" title="PndRecoKalmanFit::SetPropagateToIP" alt="" coords="521,853,793,881"/>
+<area shape="rect" id="node26" href="$db/d6d/classPndRecoKalmanFit.html#a1d76349f78a68e3fbae34fe98bc7a491" title="PndRecoKalmanFit::SetPerp\lPlane" alt="" coords="554,905,761,949"/>
+<area shape="rect" id="node27" href="$db/d6d/classPndRecoKalmanFit.html#acb3fc3b4163dc8fbf60d7742eaedae69" title="PndRecoKalmanFit::SetNum\lIterations" alt="" coords="553,973,761,1017"/>
+<area shape="rect" id="node28" href="$db/d6d/classPndRecoKalmanFit.html#ac76fef38ac72164a50c77afaf6d6457b" title="PndRecoKalmanFit::SetMvd\lBranchName" alt="" coords="555,1041,759,1085"/>
+<area shape="rect" id="node29" href="$db/d6d/classPndRecoKalmanFit.html#a11193adff68ddea4e671fb102626ab92" title="PndRecoKalmanFit::SetCentral\lTrackerBranchName" alt="" coords="545,1109,770,1153"/>
+<area shape="rect" id="node30" href="$db/d6d/classPndRecoKalmanFit.html#ae8f770017d7684bcb4270868470e3e8e" title="PndRecoKalmanFit::SetVerbose" alt="" coords="542,1177,773,1205"/>
+<area shape="rect" id="node31" href="$db/d6d/classPndRecoKalmanFit.html#a299633f0212062764aed769921dcebef" title="PndRecoKalmanFit::SetTrackRep" alt="" coords="539,161,776,189"/>
+<area shape="rect" id="node32" href="$db/d6d/classPndRecoKalmanFit.html#ae434989df64c36b164d586eb48f5df3b" title="PndRecoKalmanFit::Init" alt="" coords="569,697,746,725"/>
+<area shape="rect" id="node39" href="$df/d62/classPndRecoDafFit.html#a8053eca78ed8fda641a5cfd8146953bb" title="PndRecoDafFit::SetGeane" alt="" coords="561,265,754,293"/>
+<area shape="rect" id="node40" href="$df/d62/classPndRecoDafFit.html#a2f5c0d04a4d76dea8e487a17970b5733" title="PndRecoDafFit::SetPropagateToIP" alt="" coords="535,317,779,345"/>
+<area shape="rect" id="node41" href="$df/d62/classPndRecoDafFit.html#ae17bb4114650596ad33f3f7b8c0c52de" title="PndRecoDafFit::SetPerpPlane" alt="" coords="549,369,765,397"/>
+<area shape="rect" id="node42" href="$df/d62/classPndRecoDafFit.html#aa2d9921657bf9fe10000021afea4b194" title="PndRecoDafFit::SetMvdBranchName" alt="" coords="525,421,789,449"/>
+<area shape="rect" id="node43" href="$df/d62/classPndRecoDafFit.html#ae3f5bceb6022ab206fb953060c96f91f" title="PndRecoDafFit::SetCentral\lTrackerBranchName" alt="" coords="559,473,756,517"/>
+<area shape="rect" id="node44" href="$df/d62/classPndRecoDafFit.html#a19f8f2a98071049a3eb5c0f05b32881c" title="PndRecoDafFit::SetVerbose" alt="" coords="556,593,759,621"/>
+<area shape="rect" id="node45" href="$df/d62/classPndRecoDafFit.html#a882dbb3f2009fe93f55c0801e369e220" title="PndRecoDafFit::SetTrackRep" alt="" coords="552,645,763,673"/>
+<area shape="rect" id="node46" href="$df/d62/classPndRecoDafFit.html#a8273a9c8e6e36c5e65e34d3463c50aa4" title="PndRecoDafFit::Init" alt="" coords="583,541,732,569"/>
+<area shape="rect" id="node47" href="$d0/d6c/classFairRootManager.html#a18838841d44029983d5a855b46417591" title="FairRootManager::Register" alt="" coords="851,248,1051,276"/>
+<area shape="rect" id="node34" href="$df/d55/classGFException.html#afc01b3548d472d4e7135c1302dfb0939" title="GFException::quiet" alt="" coords="875,645,1026,673"/>
+<area shape="rect" id="node35" href="$d0/de1/classGFKalman.html#a567016852034d8948fe90c982840d204" title="Set number of iterations for Kalman Filter." alt="" coords="843,697,1059,725"/>
+<area shape="rect" id="node36" href="$df/dfb/classGFFieldManager.html#a37f080fded2857f0a6213085a8db2d9f" title="GFFieldManager::getInstance" alt="" coords="841,541,1060,569"/>
+<area shape="rect" id="node38" href="$df/dfb/classGFFieldManager.html#a272264d71ece04af029990970c625779" title="set the magntic field here. Magnetic field classes must be derived from GFAbsBField" alt="" coords="870,593,1031,621"/>
+<area shape="rect" id="node37" href="$df/dfb/classGFFieldManager.html#ad268a561b90d236432c7fd01e750a008" title="GFFieldManager::GFFieldManager" alt="" coords="1108,541,1356,569"/>
+<area shape="rect" id="node48" href="$db/da1/classFairLogger.html#ace1485db832f9a0c33a82fb5d9872b12" title="FairLogger::Fatal" alt="" coords="1166,308,1298,336"/>
+</map>

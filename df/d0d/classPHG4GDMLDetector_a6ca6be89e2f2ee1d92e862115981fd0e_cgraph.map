@@ -1,0 +1,14 @@
+<map id="PHG4GDMLDetector::ConstructMe" name="PHG4GDMLDetector::ConstructMe">
+<area shape="rect" id="node2" href="$d9/d25/classPHG4GDMLConfig.html#a4993e27fa068c073e2d8d9a17a25143f" title="PHG4GDMLConfig::exclude\l_physical_vol" alt="" coords="325,5,527,49"/>
+<area shape="rect" id="node3" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="403,73,449,101"/>
+<area shape="rect" id="node4" href="$d3/de7/classPHG4Detector.html#a5f7650922e846c686ed03252a4735653" title="PHG4Detector::GetMySubsystem" alt="" coords="304,125,548,153"/>
+<area shape="rect" id="node5" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="596,229,785,257"/>
+<area shape="rect" id="node6" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="315,229,537,257"/>
+<area shape="rect" id="node7" href="$df/d0d/classPHG4GDMLDetector.html#a4478cf49b6e8e93a27cdad7873add356" title="PHG4GDMLDetector::Print" alt="" coords="327,281,525,309"/>
+<area shape="rect" id="node8" href="$d0/dfa/reader_8C.html#a262d195bd786506862f9ad0d1aeb76cf" title="reader" alt="" coords="393,333,459,361"/>
+<area shape="rect" id="node11" href="$df/d0d/classPHG4GDMLDetector.html#ad05f8adeb5a5d7ef3a503e4fba54b0b2" title="PHG4GDMLDetector::SetDisplay\lProperty" alt="" coords="307,385,545,429"/>
+<area shape="rect" id="node12" href="$db/df7/classPHG4Subsystem.html#a9fe882e6e1b1adb71ea3eff5e5eab5fe" title="PHG4Subsystem::SetLogical\lVolume" alt="" coords="321,453,531,497"/>
+<area shape="rect" id="node13" href="$d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c" title="PHG4Detector::Verbosity" alt="" coords="331,521,521,549"/>
+<area shape="rect" id="node9" href="$d8/d51/classEicToyModel.html#a5e992ec670f1ccf5842edfc11423e42f" title="EicToyModel::Import" alt="" coords="611,333,770,361"/>
+<area shape="rect" id="node10" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="833,333,892,361"/>
+</map>

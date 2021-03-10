@@ -1,0 +1,31 @@
+<map id="PHMicromegasTpcTrackMatching::Process" name="PHMicromegasTpcTrackMatching::Process">
+<area shape="rect" id="node2" href="$d7/d8b/classSvtxTrackMap.html#a8c16bb47fdace6d5516d1803ffe54706" title="SvtxTrackMap::begin" alt="" coords="361,5,522,33"/>
+<area shape="rect" id="node3" href="$d2/db8/classSvtxTrack.html#a6d8dace95bd6d93aa08d66c5e2c3ad85" title="SvtxTrack::begin_cluster_keys" alt="" coords="329,57,553,85"/>
+<area shape="rect" id="node4" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#ab8b89dccc06075251a42d5e5f55c3bec" title="PHMicromegasTpcTrackMatching\l::circle_circle_intersection" alt="" coords="320,109,563,153"/>
+<area shape="rect" id="node5" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#a1c42f9ac2647662be418a123e7b333a5" title="PHMicromegasTpcTrackMatching\l::CircleFitByTaubin" alt="" coords="320,177,563,221"/>
+<area shape="rect" id="node6" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="419,245,463,273"/>
+<area shape="rect" id="node7" href="$d7/d8b/classSvtxTrackMap.html#a1c7ae993700819b7d0a8e3f3d74fa99c" title="SvtxTrackMap::end" alt="" coords="367,297,516,325"/>
+<area shape="rect" id="node8" href="$d2/db8/classSvtxTrack.html#ac0e8c2214fa9f988c00a561ed22aa085" title="SvtxTrack::end_cluster_keys" alt="" coords="336,349,547,377"/>
+<area shape="rect" id="node9" href="$d0/d2c/classTrkrClusterContainer.html#a2b2eea90672ac17f6439c932d2a144ad" title="TrkrClusterContainer\l::findCluster" alt="" coords="360,401,523,445"/>
+<area shape="rect" id="node10" href="$d2/db8/classSvtxTrack.html#a5f934a41fd25eaa343dd267112b4537d" title="SvtxTrack::get_id" alt="" coords="373,469,509,497"/>
+<area shape="rect" id="node11" href="$d2/db8/classSvtxTrack.html#a8ffb0c9b9181cc2dedd6e21f4b462129" title="SvtxTrack::get_phi" alt="" coords="369,521,514,549"/>
+<area shape="rect" id="node12" href="$d0/d2c/classTrkrClusterContainer.html#a1d8049a1a46c600e4baf190a58745029" title="return all Clusters matching a given detid" alt="" coords="360,573,523,617"/>
+<area shape="rect" id="node17" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="367,641,515,669"/>
+<area shape="rect" id="node18" href="$d2/ddf/namespaceMicromegasDefs.html#a2e8082ed7176d97a6bcba5257738faa2" title="Get the segmentation type from hitsetkey." alt="" coords="296,693,587,721"/>
+<area shape="rect" id="node19" href="$d6/dfa/classTrkrCluster.html#a7be7cdba7b854678e0519288b8021b2a" title="TrkrCluster::getX" alt="" coords="373,745,509,773"/>
+<area shape="rect" id="node20" href="$d6/dfa/classTrkrCluster.html#a526ac89c45b903df8890bd8b4d476e5c" title="TrkrCluster::getY" alt="" coords="374,797,509,825"/>
+<area shape="rect" id="node21" href="$d6/dfa/classTrkrCluster.html#a7d92784527cb537e382ffa0460e0f728" title="TrkrCluster::getZ" alt="" coords="373,849,509,877"/>
+<area shape="rect" id="node22" href="$d2/db8/classSvtxTrack.html#a62d6cacd3af53d9dfea12d4c1468461a" title="SvtxTrack::identify" alt="" coords="368,901,515,929"/>
+<area shape="rect" id="node23" href="$d2/db8/classSvtxTrack.html#a1accc8d98b2398d4094eb660089d92f6" title="SvtxTrack::insert_cluster_key" alt="" coords="333,953,550,981"/>
+<area shape="rect" id="node24" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#a92c30c8d8399d8fb0e623bb047d59a98" title="PHMicromegasTpcTrackMatching\l::line_fit" alt="" coords="320,1005,563,1049"/>
+<area shape="rect" id="node25" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="635,1043,811,1071"/>
+<area shape="rect" id="node26" href="$d2/db7/classAssocInfoContainer.html#a9db4403e323e841ba005ad2b6b9815c4" title="AssocInfoContainer\l::SetClusterTrackAssoc" alt="" coords="354,1125,529,1169"/>
+<area shape="rect" id="node27" href="$d6/dfa/classTrkrCluster.html#a327a8f9f623b1db51fbcf0b7a1f76a62" title="TrkrCluster::setX" alt="" coords="375,1193,508,1221"/>
+<area shape="rect" id="node28" href="$d6/dfa/classTrkrCluster.html#aa29a5bff5c1af02793ef276fa13a0a7b" title="TrkrCluster::setY" alt="" coords="375,1245,508,1273"/>
+<area shape="rect" id="node29" href="$d6/dfa/classTrkrCluster.html#a6c2f555272dad750584f4886c313a504" title="TrkrCluster::setZ" alt="" coords="375,1297,508,1325"/>
+<area shape="rect" id="node30" href="$d7/d8b/classSvtxTrackMap.html#a508e23a620af3b20bfc0be05aa5b4ada" title="SvtxTrackMap::size" alt="" coords="367,1349,516,1377"/>
+<area shape="rect" id="node13" href="$d6/d3f/namespaceTrkrDefs.html#a36fd0eb8c5bb3f21475acfec8965cf3e" title="Get a valid low / hi range for cluskey given tracker id &amp; layer." alt="" coords="635,556,812,584"/>
+<area shape="rect" id="node16" href="$d6/d3f/namespaceTrkrDefs.html#a53af1843abe50e467a06d2307f7fe0eb" title="TrkrDefs::getClusKeyHi" alt="" coords="635,608,811,636"/>
+<area shape="rect" id="node14" href="$d6/d9e/namespaceInttDefs.html#af41991588b294d4a9a89cfe7cf00439e" title="Generate a hitsetkey for the intt." alt="" coords="860,583,1035,611"/>
+<area shape="rect" id="node15" href="$d6/d3f/namespaceTrkrDefs.html#a418e306477093b8d17d587be70b908a3" title="generate the common upper 16 bits for hitsetkey" alt="" coords="1083,583,1261,611"/>
+</map>

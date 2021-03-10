@@ -1,0 +1,26 @@
+<map id="fun4all_coresoftware/blob/master/offline/packages/trackreco/PHActsTrkFitter.h" name="fun4all_coresoftware/blob/master/offline/packages/trackreco/PHActsTrkFitter.h">
+<area shape="rect" id="node2" href="$d9/de4/PHTrackFitting_8h.html" title="Base class for track seeding." alt="" coords="55,481,184,509"/>
+<area shape="rect" id="node6" href="$d4/d6a/ActsTrackingGeometry_8h.html" title="ActsTrackingGeometry.h" alt="" coords="1324,305,1510,333"/>
+<area shape="rect" id="node8" href="$d5/d50/BinnedArray_8hpp.html" title="Acts/Utilities/BinnedArray.hpp" alt="" coords="1952,397,2175,425"/>
+<area shape="rect" id="node16" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="2377,633,2590,661"/>
+<area shape="rect" id="node18" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="777,481,964,509"/>
+<area shape="rect" id="node24" href="$dd/d24/TrackingGeometry_8hpp.html" title="Acts/Geometry/TrackingGeometry.hpp" alt="" coords="690,397,968,425"/>
+<area shape="rect" id="node30" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="1316,389,1518,433"/>
+<area shape="rect" id="node31" href="$d0/d28/CalibrationContext_8hpp.html" title="Acts/Utilities/Calibration\lContext.hpp" alt="" coords="1542,389,1726,433"/>
+<area shape="rect" id="node33" href="$d8/d00/TrkrDefs_8h.html" title="Namespace with Trkr key types and utility functions." alt="" coords="278,481,438,509"/>
+<area shape="rect" id="node34" href="$df/d90/MeasurementHelpers_8hpp.html" title="Acts/EventData/Measurement\lHelpers.hpp" alt="" coords="1978,129,2202,173"/>
+<area shape="rect" id="node3" href="$d5/dc2/SubsysReco_8h.html" title="fun4all/SubsysReco.h" alt="" coords="37,557,202,585"/>
+<area shape="rect" id="node4" href="$d2/de7/Fun4AllBase_8h.html" title="Fun4AllBase.h" alt="" coords="36,633,152,661"/>
+<area shape="rect" id="node11" href="$d2/d0a/BinUtility_8hpp.html" title="Acts/Utilities/BinUtility.hpp" alt="" coords="1972,481,2174,509"/>
+<area shape="rect" id="node13" href="$d3/d5e/BinningData_8hpp.html" title="Acts/Utilities/BinningData.hpp" alt="" coords="1968,557,2194,585"/>
+<area shape="rect" id="node15" href="$de/d09/BinningType_8hpp.html" title="Acts/Utilities/BinningType.hpp" alt="" coords="1769,633,1993,661"/>
+<area shape="rect" id="node25" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="1468,481,1745,509"/>
+<area shape="rect" id="node27" href="$d3/d69/GeometryID_8hpp.html" title="Acts/Geometry/GeometryID.hpp" alt="" coords="463,481,702,509"/>
+<area shape="rect" id="node35" href="$d7/d77/Measurement_8hpp.html" title="Acts/EventData/Measurement.hpp" alt="" coords="2352,221,2605,249"/>
+<area shape="rect" id="node40" href="$de/d7a/SourceLinkConcept_8hpp.html" title="Acts/EventData/SourceLink\lConcept.hpp" alt="" coords="2090,297,2296,341"/>
+<area shape="rect" id="node38" href="$de/d01/ParameterSet_8hpp.html" title="Acts/EventData/Parameter\lSet.hpp" alt="" coords="3059,297,3260,341"/>
+<area shape="rect" id="node39" href="$d8/dfd/ParameterDefinitions_8hpp.html" title="Acts/Utilities/Parameter\lDefinitions.hpp" alt="" coords="2545,389,2726,433"/>
+<area shape="rect" id="node41" href="$d8/d81/TrackParameters_8hpp.html" title="Acts/EventData/TrackParameters.hpp" alt="" coords="2762,305,3035,333"/>
+<area shape="rect" id="node42" href="$df/d85/fittable__type__generator_8hpp.html" title="Acts/EventData/detail\l/fittable_type_generator.hpp" alt="" coords="2371,297,2586,341"/>
+<area shape="rect" id="node44" href="$d8/ddd/Surface_8hpp.html" title="Acts/Surfaces/Surface.hpp" alt="" coords="1765,305,1965,333"/>
+</map>

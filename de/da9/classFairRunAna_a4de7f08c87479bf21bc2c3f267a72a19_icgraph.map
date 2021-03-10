@@ -1,0 +1,42 @@
+<map id="FairRunAna::Instance" name="FairRunAna::Instance">
+<area shape="rect" id="node2" href="$de/dd4/FairMCTracksEditor_8cxx.html#ab13140035f2a836dbdc51a849984e0a7" title="ClassImp" alt="" coords="306,5,389,33"/>
+<area shape="rect" id="node3" href="$dc/db9/classEicEventManager.html#af15e144273a0ee67d5a70a20bf87e36b" title="EicEventManager::EicEvent\lManager" alt="" coords="244,57,451,101"/>
+<area shape="rect" id="node4" href="$d2/db6/classEicRecoKalmanTask.html#aac6a1c1f3189d32f32ff8d28326125f9" title="EicRecoKalmanTask::\lEicRecoKalmanTask" alt="" coords="266,125,429,169"/>
+<area shape="rect" id="node5" href="$d2/d33/classFairBoxSetDraw.html#ad47247391f622481cfc4c78a15ee97de" title="FairBoxSetDraw::Exec" alt="" coords="263,193,431,221"/>
+<area shape="rect" id="node6" href="$de/d81/classFairTrackParH.html#a4cdc9e86104fee54ec6a544ce8a8bb62" title="FairTrackParH::FairTrackParH" alt="" coords="242,245,453,273"/>
+<area shape="rect" id="node7" href="$db/dc5/classFairTrackParP.html#a214ed844bdb76a3d4df392b274f3642d" title="FairTrackParP::FairTrackParP" alt="" coords="243,297,451,325"/>
+<area shape="rect" id="node8" href="$d3/def/classPndGenfitField.html#abd99acc42d90fbecb25abfb905aca3ca" title="return value at position" alt="" coords="272,349,423,377"/>
+<area shape="rect" id="node9" href="$da/d13/classFwdHoughTree.html#a81b86795207b0c58626638bbc1731668" title="FwdHoughTree::GetBzAtIP" alt="" coords="249,401,446,429"/>
+<area shape="rect" id="node11" href="$dd/d8c/classPndPidCorrelator.html#a7ac63f5bf338c5cd489fcfcc155b4353" title="PndPidCorrelator::GetTrackInfo" alt="" coords="791,273,1018,301"/>
+<area shape="rect" id="node14" href="$df/d0b/classFairGeane.html#a7b28082f8c2eea126557acd38fa8644d" title="FairGeane::Init" alt="" coords="287,609,408,637"/>
+<area shape="rect" id="node15" href="$d9/d53/classFairEventManagerEditor.html#a603e3c04583a79584e826f7e898e6af4" title="FairEventManagerEditor\l::Init" alt="" coords="255,661,439,705"/>
+<area shape="rect" id="node16" href="$d9/d6a/classHtcKalmanFilter.html#a86a0a7301d8060cb11f83d7a1cb42a9e" title="HtcKalmanFilter::KalmanFilter\lMagneticField" alt="" coords="237,729,458,773"/>
+<area shape="rect" id="node18" href="$da/d9f/classCbmRichHitProducer.html#a75a24760a4caf3a4376c7c6e25a2603d" title="Inherited from FairTask." alt="" coords="267,797,428,841"/>
+<area shape="rect" id="node19" href="$d5/d49/classCbmRichTestHits.html#a51cab36c52f50a736df3a2ea48338110" title="Inherited from FairTask." alt="" coords="217,865,477,893"/>
+<area shape="rect" id="node20" href="$d7/dad/classCbmRichTestSim.html#a24bee8e3e3c46dbb16967e17b1c21480" title="Inherited from FairTask." alt="" coords="218,917,477,945"/>
+<area shape="rect" id="node21" href="$d6/d73/classCbmRichProjectionProducer.html#a0740797455a2a45bb49c93daca1ecd35" title="Initialization of Parameter Containers." alt="" coords="243,969,451,1013"/>
+<area shape="rect" id="node22" href="$d5/d75/classCbmRichGeoTest.html#a605aae43befd4fe00d3c66f634d9efc0" title="SetParContainers." alt="" coords="217,1037,477,1065"/>
+<area shape="rect" id="node23" href="$d2/d28/classPndRecoMultiKalmanTask.html#a3dd7c6834316a08ff5476ab5e6b02a1f" title="PndRecoMultiKalmanTask\l::SetParContainers" alt="" coords="251,1089,444,1133"/>
+<area shape="rect" id="node24" href="$d7/d87/classPndRecoKalmanTask.html#a45c590c2e39d22c9081c99ac05608969" title="PndRecoKalmanTask::\lSetParContainers" alt="" coords="264,1157,431,1201"/>
+<area shape="rect" id="node25" href="$de/d93/classEicDigiHitProducer.html#aed9dc5e6a02c06ee161581133b82b105" title="EicDigiHitProducer\l::SetParContainers" alt="" coords="274,1225,421,1269"/>
+<area shape="rect" id="node26" href="$db/dc5/classFairTrackParP.html#a277c91f1c864c59d6bce692534ec1824" title="FairTrackParP::SetTrackPar" alt="" coords="249,557,446,585"/>
+<area shape="rect" id="node29" href="$de/d81/classFairTrackParH.html#adc3c5ec3be54764058fa930a345a6165" title="FairTrackParH::SetTrackPar" alt="" coords="247,505,447,533"/>
+<area shape="rect" id="node10" href="$da/d13/classFwdHoughTree.html#a14cca728d113d498d780a54a01cfd63d" title="FwdHoughTree::MappingCall" alt="" coords="525,401,739,429"/>
+<area shape="rect" id="node12" href="$dd/d8c/classPndPidCorrelator.html#ae4a0f3f29e102b0f60fac6c315ff0e02" title="PndPidCorrelator::Construct\lChargedCandidate" alt="" coords="1071,265,1279,309"/>
+<area shape="rect" id="node13" href="$dd/d8c/classPndPidCorrelator.html#ac7261219c977ce69655b77ca95032aec" title="PndPidCorrelator::Exec" alt="" coords="1337,273,1511,301"/>
+<area shape="rect" id="node17" href="$d9/d6a/classHtcKalmanFilter.html#af18b22f18b11d6b11647a17a97806c2f" title="HtcKalmanFilter::Initialize\lMgridSlice" alt="" coords="535,729,729,773"/>
+<area shape="rect" id="node27" href="$d1/dca/classFairGeanePro.html#ab8e371751ff4d4336b660bb9f14c0d60" title="FairGeanePro::Propagate" alt="" coords="811,721,999,749"/>
+<area shape="rect" id="node28" href="$db/dc5/classFairTrackParP.html#a0deaa6d061c3778d97e4b8c132c2ae9f" title="FairTrackParP::FairTrackParP" alt="" coords="528,661,736,689"/>
+<area shape="rect" id="node30" href="$d1/dca/classFairGeanePro.html#aa2a05972e893284f107f3e2ca5db05d6" title="FairGeanePro::Propagate" alt="" coords="538,505,726,533"/>
+<area shape="rect" id="node41" href="$de/d81/classFairTrackParH.html#a646cfab65397e16f10ebab6579ef04a0" title="FairTrackParH::FairTrackParH" alt="" coords="527,557,737,585"/>
+<area shape="rect" id="node31" href="$dd/da5/classCbmRichTrackExtrapolationKF.html#a93c7a003c080ab842105910e04f05caa" title="Inherited from CbmRichTrackExtrapolationBase." alt="" coords="801,325,1008,369"/>
+<area shape="rect" id="node32" href="$d8/dc0/classFairMCStack.html#affda9f0b691d06665e303290a334f3b0" title="FairMCStack::Exec" alt="" coords="833,393,977,421"/>
+<area shape="rect" id="node33" href="$d2/d53/classGeaneTrackRep.html#a59fbe11dff774b2979d25739b89989d2" title="Extrapolates the track to the given detectorplane." alt="" coords="799,445,1011,473"/>
+<area shape="rect" id="node34" href="$d2/d53/classGeaneTrackRep.html#ae77ada4778453e5fe029d7378d2bb38a" title="This method is to extrapolate the track to point of closest approach to a point in space..." alt="" coords="799,497,1011,541"/>
+<area shape="rect" id="node35" href="$db/d6d/classPndRecoKalmanFit.html#af5a66632d2917c60057bd37109ec7364" title="PndRecoKalmanFit::Fit" alt="" coords="819,617,990,645"/>
+<area shape="rect" id="node39" href="$df/d62/classPndRecoDafFit.html#a71b624dff0fc50e252d2d2b9eed898ee" title="PndRecoDafFit::Fit" alt="" coords="833,565,977,593"/>
+<area shape="rect" id="node40" href="$d2/d53/classGeaneTrackRep.html#ab2b485b55cecc3cf306ba00d749dce61" title="GeaneTrackRep::getPocaOnLine" alt="" coords="787,669,1023,697"/>
+<area shape="rect" id="node36" href="$d7/d87/classPndRecoKalmanTask.html#aa92916b999aeaf87e99fb08734ce368e" title="PndRecoKalmanTask::Exec" alt="" coords="1075,565,1275,593"/>
+<area shape="rect" id="node38" href="$d2/d28/classPndRecoMultiKalmanTask.html#a79938b3ab7bca0cc183821c03520553a" title="PndRecoMultiKalmanTask\l::Exec" alt="" coords="1078,617,1271,661"/>
+<area shape="rect" id="node37" href="$d2/db6/classEicRecoKalmanTask.html#a10103a96af9664a82027040c505bfff1" title="EicRecoKalmanTask::Exec" alt="" coords="1327,565,1521,593"/>
+</map>

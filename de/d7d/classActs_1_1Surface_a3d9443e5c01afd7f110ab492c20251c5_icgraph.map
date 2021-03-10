@@ -1,0 +1,10 @@
+<map id="Acts::Surface::pathCorrection" name="Acts::Surface::pathCorrection">
+<area shape="rect" id="node2" href="$da/d28/classActs_1_1Layer.html#acc0d86b93459211987d161104e04d028" title="Decompose Layer into (compatible) surfaces." alt="" coords="296,21,536,49"/>
+<area shape="rect" id="node3" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a15d7d0e97bf723997ddecb67e84f6a2a" title="This function evaluates the material properties to interact with." alt="" coords="273,73,559,117"/>
+<area shape="rect" id="node4" href="$d6/d87/classActs_1_1KalmanFitter_1_1Actor.html#a1adc19f31ed2ca74884702ff96c499ee" title="Kalman actor operation : material interaction." alt="" coords="623,5,821,49"/>
+<area shape="rect" id="node5" href="$d0/d33/structActs_1_1MaterialInteractor.html#a4486d15eab43bcb28d9e7f9d4eb12584" title="Interaction with detector material for the ActionList of the Propagator." alt="" coords="631,73,813,117"/>
+<area shape="rect" id="node6" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#acc62edd6ed44b7d4b6225336c8c5da86" title="CombinatorialKalmanFilter actor operation : material interaction." alt="" coords="607,141,837,185"/>
+<area shape="rect" id="node7" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a6de850c86ad70195f5478e2a572f1dec" title="Kalman actor operation : reset propagation." alt="" coords="885,111,1091,155"/>
+<area shape="rect" id="node9" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a9e4d5b4a636f3b38055f7295f45dec9e" title="CombinatorialKalmanFilter actor operation :" alt="" coords="1139,171,1344,215"/>
+<area shape="rect" id="node8" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a7031d199a5f3716ff2c34040ce5a618d" title="CombinatorialKalmanFilter actor operation." alt="" coords="1392,141,1597,185"/>
+</map>

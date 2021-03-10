@@ -1,0 +1,24 @@
+<map id="EicRoot/blob/master/rich/qa/CbmRichGeoTest.cxx" name="EicRoot/blob/master/rich/qa/CbmRichGeoTest.cxx">
+<area shape="rect" id="node2" href="$d1/d42/CbmRichGeoTest_8h.html" title="RICH geometry checking and testing." alt="" coords="541,105,689,133"/>
+<area shape="rect" id="node4" href="$d4/d92/FairRootManager_8h.html" title="FairRootManager.h" alt="" coords="197,265,343,293"/>
+<area shape="rect" id="node12" href="$d5/d7a/CbmRichGeoTestStudyReport_8h.html" title="Creates study report for RICH geometry testing." alt="" coords="1519,105,1749,133"/>
+<area shape="rect" id="node13" href="$df/d37/CbmStudyReport_8h.html" title="Base class for study reports." alt="" coords="1779,189,1927,217"/>
+<area shape="rect" id="node14" href="$d0/d23/CbmReport_8h.html" title="CbmReport.h" alt="" coords="1599,265,1709,293"/>
+<area shape="rect" id="node18" href="$df/d6f/CbmRichHit_8h.html" title="CbmRichHit.h" alt="" coords="1041,265,1155,293"/>
+<area shape="rect" id="node19" href="$d2/dad/CbmRichRing_8h.html" title="CbmRichRing.h" alt="" coords="893,265,1017,293"/>
+<area shape="rect" id="node20" href="$d6/dfd/CbmTrackMatch_8h.html" title="CbmTrackMatch.h" alt="" coords="626,265,767,293"/>
+<area shape="rect" id="node21" href="$dd/d64/CbmMCTrack_8h.html" title="CbmMCTrack.h" alt="" coords="1773,105,1895,133"/>
+<area shape="rect" id="node23" href="$da/d34/CbmRichPoint_8h.html" title="CbmRichPoint.h" alt="" coords="2490,105,2618,133"/>
+<area shape="rect" id="node24" href="$db/da6/CbmRichRingFitterCOP_8h.html" title="Here the ring is fitted with the COP algorithm from A. Ayriyan/G. Ososkov." alt="" coords="2377,265,2561,293"/>
+<area shape="rect" id="node25" href="$d8/dc8/CbmRichRingFitterEllipseTau_8h.html" title="Here the ring is fitted with Taubin algorithm from A. Ayriyan, G. Ososkov, N. Chernov." alt="" coords="2021,97,2212,141"/>
+<area shape="rect" id="node26" href="$d9/d92/CbmGeoRichPar_8h.html" title="CbmGeoRichPar.h" alt="" coords="2642,105,2783,133"/>
+<area shape="rect" id="node27" href="$dd/d44/FairGeoTransform_8h.html" title="FairGeoTransform.h" alt="" coords="2839,189,2991,217"/>
+<area shape="rect" id="node28" href="$da/df5/FairGeoNode_8h.html" title="FairGeoNode.h" alt="" coords="2807,105,2927,133"/>
+<area shape="rect" id="node29" href="$d2/d7c/FairRunAna_8h.html" title="FairRunAna.h" alt="" coords="61,189,170,217"/>
+<area shape="rect" id="node30" href="$d9/dac/FairRuntimeDb_8h.html" title="FairRuntimeDb.h" alt="" coords="469,265,602,293"/>
+<area shape="rect" id="node31" href="$d9/d78/CbmRichHitProducer_8h.html" title="Class for producing RICH hits directly from MCPoints." alt="" coords="245,105,415,133"/>
+<area shape="rect" id="node32" href="$d2/dc4/CbmDrawHist_8h.html" title="Helper functions for drawing 1D and 2D histograms and graphs." alt="" coords="1217,105,1342,133"/>
+<area shape="rect" id="node36" href="$d7/daf/CbmLitUtils_8h.html" title="std/utils/CbmLitUtils.h" alt="" coords="2081,265,2251,293"/>
+<area shape="rect" id="node38" href="$dc/d3a/CbmRichConverter_8h.html" title="Convert internal data classes to cbmroot common data classes." alt="" coords="917,189,1077,217"/>
+<area shape="rect" id="node3" href="$d8/d44/FairTask_8h.html" title="FairTask.h" alt="" coords="287,189,373,217"/>
+</map>

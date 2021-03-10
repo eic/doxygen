@@ -1,0 +1,13 @@
+<map id="Acts::MaterialProperties::scaleThickness" name="Acts::MaterialProperties::scaleThickness">
+<area shape="rect" id="node2" href="$dd/d7e/namespaceActs_1_1Test.html#a843ac2c0fc2c43ac9b8f4fd1a5ddf783" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="285,5,473,49"/>
+<area shape="rect" id="node3" href="$db/dc8/MaterialPropertiesTests_8cpp.html#a83bd3e2b6e5e80a73932753d45f84f2f" title="BOOST_AUTO_TEST_CASE" alt="" coords="281,73,477,101"/>
+<area shape="rect" id="node4" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a15d7d0e97bf723997ddecb67e84f6a2a" title="This function evaluates the material properties to interact with." alt="" coords="236,125,521,169"/>
+<area shape="rect" id="node11" href="$d0/d54/classActs_1_1ISurfaceMaterial.html#aa8fbd19eee07e271cd7b65631c7b7a27" title="Acts::ISurfaceMaterial\l::materialProperties" alt="" coords="294,193,463,237"/>
+<area shape="rect" id="node12" href="$dd/d5c/structActsFatras_1_1Interactor.html#ab673fdf3cb8fe921cc6d96f27d86f18c" title="ActsFatras::Interactor\l::operator()" alt="" coords="295,261,463,305"/>
+<area shape="rect" id="node5" href="$d6/d87/classActs_1_1KalmanFitter_1_1Actor.html#a1adc19f31ed2ca74884702ff96c499ee" title="Kalman actor operation : material interaction." alt="" coords="586,57,783,101"/>
+<area shape="rect" id="node6" href="$d0/d33/structActs_1_1MaterialInteractor.html#a4486d15eab43bcb28d9e7f9d4eb12584" title="Interaction with detector material for the ActionList of the Propagator." alt="" coords="594,125,775,169"/>
+<area shape="rect" id="node7" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#acc62edd6ed44b7d4b6225336c8c5da86" title="CombinatorialKalmanFilter actor operation : material interaction." alt="" coords="569,193,800,237"/>
+<area shape="rect" id="node8" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a6de850c86ad70195f5478e2a572f1dec" title="Kalman actor operation : reset propagation." alt="" coords="848,163,1053,207"/>
+<area shape="rect" id="node10" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a9e4d5b4a636f3b38055f7295f45dec9e" title="CombinatorialKalmanFilter actor operation :" alt="" coords="1101,223,1307,267"/>
+<area shape="rect" id="node9" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a7031d199a5f3716ff2c34040ce5a618d" title="CombinatorialKalmanFilter actor operation." alt="" coords="1355,193,1560,237"/>
+</map>

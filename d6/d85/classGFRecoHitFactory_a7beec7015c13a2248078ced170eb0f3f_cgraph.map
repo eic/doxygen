@@ -1,0 +1,7 @@
+<map id="GFRecoHitFactory::createMany" name="GFRecoHitFactory::createMany">
+<area shape="rect" id="node2" href="$d6/d85/classGFRecoHitFactory.html#ad87ba5e27ffa45774b8bf25c994ac970" title="Create a RecoHit." alt="" coords="281,44,500,72"/>
+<area shape="rect" id="node5" href="$df/dd5/classGFTrackCand.html#a3a1c324dccff50661c2e5f87a714b927" title="Get detector ID and cluster index (hitId) for hit number i." alt="" coords="311,96,471,124"/>
+<area shape="rect" id="node6" href="$df/dd5/classGFTrackCand.html#a1ae64a005180091a17081c597c45ddf1" title="GFTrackCand::getNHits" alt="" coords="558,123,735,151"/>
+<area shape="rect" id="node3" href="$df/d55/classGFException.html#a886ef3de22cdff9ceee36449be8643c2" title="set fatal flag. if this is true, the fit stops for this current track repr." alt="" coords="563,5,730,33"/>
+<area shape="rect" id="node4" href="$df/d55/classGFException.html#a25d7625cd54d9a876bde29d7092547c4" title="set list of numbers with description" alt="" coords="548,57,745,85"/>
+</map>

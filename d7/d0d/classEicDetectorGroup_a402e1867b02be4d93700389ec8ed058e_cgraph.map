@@ -1,0 +1,10 @@
+<map id="EicDetectorGroup::GetSensitiveVolume" name="EicDetectorGroup::GetSensitiveVolume">
+<area shape="rect" id="node2" href="$df/de0/classEicGeoParData.html#a76993bf31f692e785a93952a0939f356" title="EicGeoParData::GeantMulti\lToLogicalIndex" alt="" coords="288,5,492,49"/>
+<area shape="rect" id="node3" href="$df/de0/classEicGeoParData.html#a37f7821581240c40416dd325e4a6265a" title="EicGeoParData::GetLookup\lTableNode" alt="" coords="289,73,491,117"/>
+<area shape="rect" id="node9" href="$d3/d78/classEicTrackingDigiHit.html#af121ed06802e1481ea2d0f2662ccc6c4" title="EicTrackingDigiHit\l::GetMultiIndex" alt="" coords="318,141,462,185"/>
+<area shape="rect" id="node4" href="$df/de0/classEicGeoParData.html#a27049617983cca3fbbda63b921df26f2" title="EicGeoParData::GetGroup" alt="" coords="1031,55,1227,83"/>
+<area shape="rect" id="node5" href="$df/de0/classEicGeoParData.html#ad2bffe47f02337f608d399ae351d930e" title="EicGeoParData::GetCoord" alt="" coords="540,109,733,137"/>
+<area shape="rect" id="node6" href="$df/de0/classEicGeoParData.html#a8b828b92a0c614ac23bb6d827570ee27" title="EicGeoParData::GetLogical\lCoordCore" alt="" coords="781,105,983,149"/>
+<area shape="rect" id="node7" href="$dd/d20/classEicBitMask.html#a862ce5875cf47f78ff18aaed935966d9" title="EicBitMask::GetShift" alt="" coords="1049,111,1208,139"/>
+<area shape="rect" id="node8" href="$dd/d20/classEicBitMask.html#aba6083955032532d7dfc95069338dd27" title="EicBitMask::GetBitMask" alt="" coords="1039,163,1219,191"/>
+</map>

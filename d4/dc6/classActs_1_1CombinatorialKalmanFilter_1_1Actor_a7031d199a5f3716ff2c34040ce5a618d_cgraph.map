@@ -1,0 +1,28 @@
+<map id="Acts::CombinatorialKalmanFilter::Actor::operator()" name="Acts::CombinatorialKalmanFilter::Actor::operator()">
+<area shape="rect" id="node2" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a9e4d5b4a636f3b38055f7295f45dec9e" title="CombinatorialKalmanFilter actor operation :" alt="" coords="259,284,464,328"/>
+<area shape="rect" id="node25" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a6de850c86ad70195f5478e2a572f1dec" title="Kalman actor operation : reset propagation." alt="" coords="529,532,734,576"/>
+<area shape="rect" id="node27" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#af46eef11355b6449da15cdba303a5c86" title="Kalman actor operation : finalize." alt="" coords="259,499,464,543"/>
+<area shape="rect" id="node3" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#afeb655495608f54368a2e3ed35f4f2f9" title="CombinatorialKalmanFilter actor operation : add hole track state." alt="" coords="529,156,734,200"/>
+<area shape="rect" id="node4" href="$d6/d06/namespaceActs_1_1detail.html#a743ea24e0959bbaa11e0727433d82290" title="It does not check if the transported state is at the surface, this needs to be guaranteed by the prop..." alt="" coords="821,164,1007,192"/>
+<area shape="rect" id="node5" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a9e8604ea31848b65c92a70591bcc48c6" title="CombinatorialKalmanFilter actor operation : add passive track state." alt="" coords="522,344,741,388"/>
+<area shape="rect" id="node6" href="$d6/d06/namespaceActs_1_1detail.html#a1d1d420a3793ae1152371264ec610c18" title="This creates a curvilinear state." alt="" coords="824,298,1004,342"/>
+<area shape="rect" id="node7" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a99ea6325c8fb17297a342eee0f85a487" title="CombinatorialKalmanFilter actor operation : add track state with source link: measurement or outlier..." alt="" coords="512,224,751,268"/>
+<area shape="rect" id="node8" href="$de/d7d/classActs_1_1Surface.html#ac4f8a6a7142a8dce776a5c7b2fcd2e16" title="Acts::Surface::associated\lDetectorElement" alt="" coords="535,464,727,508"/>
+<area shape="rect" id="node9" href="$d3/d07/classActs_1_1GeometryObject.html#a522d50b743aeae1663808425a72777f2" title="Acts::GeometryObject\l::geoID" alt="" coords="1134,47,1306,91"/>
+<area shape="rect" id="node10" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#acc62edd6ed44b7d4b6225336c8c5da86" title="CombinatorialKalmanFilter actor operation : material interaction." alt="" coords="799,391,1029,435"/>
+<area shape="rect" id="node22" href="$de/d7d/classActs_1_1Surface.html#a1078beb10771d55a7b35d623eafcb6b5" title="Acts::Surface::surfaceMaterial" alt="" coords="1107,219,1333,247"/>
+<area shape="rect" id="node11" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a15d7d0e97bf723997ddecb67e84f6a2a" title="This function evaluates the material properties to interact with." alt="" coords="1077,391,1363,435"/>
+<area shape="rect" id="node14" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#af72a38a4955e14f3661b64fc038a5bdc" title="This function evaluate the material effects." alt="" coords="1080,470,1360,530"/>
+<area shape="rect" id="node23" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a2fcdf3cae42e4294fcc1be0f0a1e40d3" title="Update the state." alt="" coords="1107,311,1333,355"/>
+<area shape="rect" id="node12" href="$de/d7d/classActs_1_1Surface.html#a3d9443e5c01afd7f110ab492c20251c5" title="Acts::Surface::pathCorrection" alt="" coords="1435,426,1655,454"/>
+<area shape="rect" id="node13" href="$de/d46/classActs_1_1MaterialProperties.html#aa2d846213cad24137f66317b13e54088" title="Scale the material thickness by the given factor." alt="" coords="1453,358,1636,402"/>
+<area shape="rect" id="node15" href="$da/d7b/namespaceActs.html#a9fc90097203ac9df789419291414a5a0" title="Acts::computeEnergyLossBethe" alt="" coords="1427,546,1663,574"/>
+<area shape="rect" id="node16" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a852805642b7f5c67392359904233d7c7" title="Evaluates the contributions to the covariance matrix." alt="" coords="1411,478,1679,522"/>
+<area shape="rect" id="node17" href="$da/d7b/namespaceActs.html#ad7746afda7bc95e2a078c1ce4c0d2676" title="Acts::computeMultipleScattering\lTheta0" alt="" coords="1728,410,1971,454"/>
+<area shape="rect" id="node20" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a9d0d7e35444d5f4a0ae7accb0a2c70db" title="Acts::VectorHelpers\l::perp" alt="" coords="1772,478,1927,522"/>
+<area shape="rect" id="node21" href="$da/d7b/namespaceActs.html#a6a5206b2b98f8a2da212af6e53c11192" title="Acts::computeEnergyLossLandau\lSigmaQOverP" alt="" coords="1727,546,1972,590"/>
+<area shape="rect" id="node18" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="2020,418,2131,446"/>
+<area shape="rect" id="node19" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="2179,418,2355,446"/>
+<area shape="rect" id="node24" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a3a05a84cb61c00e852e345a09767bdd8" title="Convenience method for better readability." alt="" coords="1432,290,1657,334"/>
+<area shape="rect" id="node26" href="$de/d7d/classActs_1_1Surface.html#af5660b3b36cdb1555147ac6ad4aa7752" title="Acts::Surface::initJacobian\lToGlobal" alt="" coords="815,532,1013,576"/>
+</map>

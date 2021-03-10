@@ -1,0 +1,19 @@
+<map id="delphes_EIC/blob/master/SimpleAnalysis/Module.h" name="delphes_EIC/blob/master/SimpleAnalysis/Module.h">
+<area shape="rect" id="node2" href="$d0/dd4/CharmJetModule_8h.html" title="delphes_EIC/blob/master\l/SimpleAnalysis/CharmJetModule.h" alt="" coords="130,105,387,149"/>
+<area shape="rect" id="node4" href="$de/dbc/ModuleHandler_8h.html" title="delphes_EIC/blob/master\l/SimpleAnalysis/ModuleHandler.h" alt="" coords="856,213,1104,257"/>
+<area shape="rect" id="node6" href="$d3/dc3/ElectronPIDModule_8h.html" title="delphes_EIC/blob/master\l/SimpleAnalysis/ElectronPIDModule.h" alt="" coords="411,105,685,149"/>
+<area shape="rect" id="node8" href="$d5/d47/EventSelectionModule_8h.html" title="delphes_EIC/blob/master\l/SimpleAnalysis/EventSelection\lModule.h" alt="" coords="708,97,943,157"/>
+<area shape="rect" id="node10" href="$d5/d65/KaonPIDModule_8h.html" title="delphes_EIC/blob/master\l/SimpleAnalysis/KaonPIDModule.h" alt="" coords="1018,105,1270,149"/>
+<area shape="rect" id="node12" href="$d8/d70/Module_8cc.html" title="delphes_EIC/blob/master\l/SimpleAnalysis/Module.cc" alt="" coords="2096,105,2299,149"/>
+<area shape="rect" id="node13" href="$d9/dd9/MuonPIDModule_8h.html" title="delphes_EIC/blob/master\l/SimpleAnalysis/MuonPIDModule.h" alt="" coords="1294,105,1549,149"/>
+<area shape="rect" id="node15" href="$db/d72/TaggingModule_8h.html" title="delphes_EIC/blob/master\l/SimpleAnalysis/TaggingModule.h" alt="" coords="1573,105,1821,149"/>
+<area shape="rect" id="node17" href="$d2/d11/TaggingStudyModule_8h.html" title="delphes_EIC/blob/master\l/SimpleAnalysis/TaggingStudy\lModule.h" alt="" coords="1845,97,2072,157"/>
+<area shape="rect" id="node3" href="$d6/d41/CharmJetModule_8cc.html" title="delphes_EIC/blob/master\l/SimpleAnalysis/CharmJetModule.cc" alt="" coords="5,213,269,257"/>
+<area shape="rect" id="node5" href="$db/d7b/SimpleAnalysis_8cc.html" title="delphes_EIC/blob/master\l/SimpleAnalysis/SimpleAnalysis.cc" alt="" coords="853,313,1107,357"/>
+<area shape="rect" id="node7" href="$d7/d03/ElectronPIDModule_8cc.html" title="delphes_EIC/blob/master\l/SimpleAnalysis/ElectronPIDModule.cc" alt="" coords="293,213,573,257"/>
+<area shape="rect" id="node9" href="$d2/d35/EventSelectionModule_8cc.html" title="delphes_EIC/blob/master\l/SimpleAnalysis/EventSelection\lModule.cc" alt="" coords="597,205,832,265"/>
+<area shape="rect" id="node11" href="$dc/d36/KaonPIDModule_8cc.html" title="delphes_EIC/blob/master\l/SimpleAnalysis/KaonPIDModule.cc" alt="" coords="1128,213,1387,257"/>
+<area shape="rect" id="node14" href="$d5/d91/MuonPIDModule_8cc.html" title="delphes_EIC/blob/master\l/SimpleAnalysis/MuonPIDModule.cc" alt="" coords="1411,213,1672,257"/>
+<area shape="rect" id="node16" href="$d3/d8d/TaggingModule_8cc.html" title="delphes_EIC/blob/master\l/SimpleAnalysis/TaggingModule.cc" alt="" coords="1697,213,1951,257"/>
+<area shape="rect" id="node18" href="$d4/da7/TaggingStudyModule_8cc.html" title="delphes_EIC/blob/master\l/SimpleAnalysis/TaggingStudy\lModule.cc" alt="" coords="1976,205,2203,265"/>
+</map>

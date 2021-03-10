@@ -1,0 +1,38 @@
+<map id="fun4all_acts/blob/master/Examples/Framework/include/ACTFW/Framework/IContextDecorator.hpp" name="fun4all_acts/blob/master/Examples/Framework/include/ACTFW/Framework/IContextDecorator.hpp">
+<area shape="rect" id="node2" href="$d7/d56/AlignmentDecorator_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/Contextual\lDetector/include/ACTFW/ContextualDetector\l/AlignmentDecorator.hpp" alt="" coords="175,113,497,189"/>
+<area shape="rect" id="node3" href="$db/dc7/AlignedDetector_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/Contextual\lDetector/src/AlignedDetector.cpp" alt="" coords="301,237,547,297"/>
+<area shape="rect" id="node5" href="$d2/de8/PayloadDecorator_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/Contextual\lDetector/include/ACTFW/ContextualDetector\l/PayloadDecorator.hpp" alt="" coords="905,113,1228,189"/>
+<area shape="rect" id="node7" href="$d4/de4/PayloadDetector_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/Contextual\lDetector/src/PayloadDetector.cpp" alt="" coords="855,237,1102,297"/>
+<area shape="rect" id="node8" href="$d3/db2/DD4hepDetector_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/DD4hepDetector\l/src/DD4hepDetector.cpp" alt="" coords="1253,121,1534,181"/>
+<area shape="rect" id="node9" href="$de/ddb/EmptyDetector_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/EmptyDetector\l/src/EmptyDetector.cpp" alt="" coords="1559,121,1828,181"/>
+<area shape="rect" id="node10" href="$dd/ddf/GenericDetector_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/GenericDetector\l/src/GenericDetector.cpp" alt="" coords="1853,121,2131,181"/>
+<area shape="rect" id="node11" href="$dd/db0/BFieldScalor_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/MagneticField\l/include/ACTFW/Plugins/BField\l/BFieldScalor.hpp" alt="" coords="571,113,831,189"/>
+<area shape="rect" id="node13" href="$db/df1/TGeoDetector_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/TGeoDetector\l/src/TGeoDetector.cpp" alt="" coords="2156,121,2417,181"/>
+<area shape="rect" id="node14" href="$d7/d32/Sequencer_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Framework/include\l/ACTFW/Framework/Sequencer.hpp" alt="" coords="4499,121,4759,181"/>
+<area shape="rect" id="node18" href="$d0/d8e/GeometryExampleBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Common/src\l/GeometryExampleBase.cpp" alt="" coords="2169,353,2383,413"/>
+<area shape="rect" id="node4" href="$d5/dd0/AlignmentDecorator_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/Contextual\lDetector/src/AlignmentDecorator.cpp" alt="" coords="5,237,277,297"/>
+<area shape="rect" id="node6" href="$d6/dab/PayloadDecorator_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/Contextual\lDetector/src/PayloadDecorator.cpp" alt="" coords="1127,237,1383,297"/>
+<area shape="rect" id="node12" href="$de/d57/BFieldScalor_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/MagneticField\l/src/BFieldScalor.cpp" alt="" coords="571,237,831,297"/>
+<area shape="rect" id="node15" href="$d3/d2f/Sequencer_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Framework/src\l/Framework/Sequencer.cpp" alt="" coords="4044,237,4249,297"/>
+<area shape="rect" id="node16" href="$d7/d2b/CommonOptions_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Common/include\l/ACTFW/Options/CommonOptions.hpp" alt="" coords="4578,237,4857,297"/>
+<area shape="rect" id="node19" href="$de/d20/MaterialMappingBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Common/src\l/MaterialMappingBase.cpp" alt="" coords="2850,353,3062,413"/>
+<area shape="rect" id="node20" href="$dc/da7/MaterialValidationBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Common/src\l/MaterialValidationBase.cpp" alt="" coords="3086,353,3298,413"/>
+<area shape="rect" id="node21" href="$d3/d32/PropagationExampleBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Common/src\l/PropagationExampleBase.cpp" alt="" coords="3323,353,3552,413"/>
+<area shape="rect" id="node22" href="$de/d42/ParticleGun_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/EventGenerator\l/ParticleGun.cpp" alt="" coords="3577,353,3813,413"/>
+<area shape="rect" id="node23" href="$d9/d60/Pythia8_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/EventGenerator\l/Pythia8/Pythia8.cpp" alt="" coords="3837,353,4073,413"/>
+<area shape="rect" id="node24" href="$d4/d5f/FatrasDigitizationBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Fatras/Common\l/FatrasDigitizationBase.cpp" alt="" coords="4097,353,4330,413"/>
+<area shape="rect" id="node25" href="$d3/d77/FatrasEvgenBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Fatras/Common\l/FatrasEvgenBase.cpp" alt="" coords="4354,353,4587,413"/>
+<area shape="rect" id="node26" href="$d1/d71/FatrasMain_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Fatras/Common\l/FatrasMain.cpp" alt="" coords="4847,353,5081,413"/>
+<area shape="rect" id="node27" href="$d8/d55/FatrasSimulationBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Fatras/Common\l/FatrasSimulationBase.cpp" alt="" coords="5105,353,5338,413"/>
+<area shape="rect" id="node28" href="$d4/dc7/HelloWorld_8cpp.html" title="An example tools that shows the sequencer functionality." alt="" coords="5362,353,5563,413"/>
+<area shape="rect" id="node29" href="$d2/d9c/BFieldAccessExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/MagneticField\l/BFieldAccessExample.cpp" alt="" coords="5587,353,5807,413"/>
+<area shape="rect" id="node30" href="$dc/d47/BFieldExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/MagneticField\l/BFieldExample.cpp" alt="" coords="5831,353,6051,413"/>
+<area shape="rect" id="node31" href="$d9/da3/GeantinoRecordingExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/MaterialMapping\l/GeantinoRecording/GeantinoRecording\lExample.cpp" alt="" coords="6075,345,6365,421"/>
+<area shape="rect" id="node32" href="$da/dc9/GenericReadCsvExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/ReadCsv/GenericRead\lCsvExample.cpp" alt="" coords="6389,353,6665,413"/>
+<area shape="rect" id="node33" href="$de/dcb/RecTruthTracks_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Reconstruction\l/RecTruthTracks.cpp" alt="" coords="6689,353,6917,413"/>
+<area shape="rect" id="node34" href="$da/de2/VertexAndTracksReaderAndFinderExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Vertexing\l/VertexAndTracksReaderAndFinder\lExample.cpp" alt="" coords="6941,345,7197,421"/>
+<area shape="rect" id="node35" href="$dc/d7e/VertexAndTracksWriterExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Vertexing\l/VertexAndTracksWriterExample.cpp" alt="" coords="7222,353,7490,413"/>
+<area shape="rect" id="node36" href="$d2/d79/VertexFinderExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Vertexing\l/VertexFinderExample.cpp" alt="" coords="2408,353,2608,413"/>
+<area shape="rect" id="node37" href="$d3/d0a/VertexFitterExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Vertexing\l/VertexFitterExample.cpp" alt="" coords="2633,353,2826,413"/>
+<area shape="rect" id="node17" href="$d4/dc0/CommonOptions_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Common/src\l/CommonOptions.cpp" alt="" coords="4611,353,4823,413"/>
+</map>

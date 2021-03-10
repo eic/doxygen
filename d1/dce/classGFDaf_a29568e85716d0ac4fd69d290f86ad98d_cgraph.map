@@ -1,0 +1,16 @@
+<map id="GFDaf::calcWeights" name="GFDaf::calcWeights">
+<area shape="rect" id="node2" href="$de/dc7/namespaceGFTools.html#ab533295683598a16f0831aa6eea7b614" title="Get biased smoothed state vector and state covariance." alt="" coords="496,14,745,42"/>
+<area shape="rect" id="node3" href="$de/dc7/namespaceGFTools.html#a62f67a852e90759fbbc1d260cf8d1420" title="Get biased smoothed track position in plane coordinates." alt="" coords="207,118,448,146"/>
+<area shape="rect" id="node4" href="$d4/d33/classGFTrack.html#a736fa5128d9414c62a1e2f19390588d1" title="GFTrack::getHit" alt="" coords="558,66,683,94"/>
+<area shape="rect" id="node6" href="$d4/d33/classGFTrack.html#a47b1c90bd5fb51333b11958d94411b6f" title="Accessor for track representations." alt="" coords="537,170,704,198"/>
+<area shape="rect" id="node7" href="$df/d1a/classGFAbsRecoHit.html#aaa20d4c69a79eba87290f767d6f63dab" title="Get detector plane for a given track representation." alt="" coords="224,222,431,250"/>
+<area shape="rect" id="node8" href="$d0/d62/classGFDafHit.html#a660b68fb533229af0edad7600ade5364" title="Get at hit from the GFDafHit." alt="" coords="261,274,394,302"/>
+<area shape="rect" id="node9" href="$df/d1a/classGFAbsRecoHit.html#ac64dc8dbe7daceb013a7f02a9c1deccc" title="get measurement vector and hit covariance" alt="" coords="207,326,447,354"/>
+<area shape="rect" id="node10" href="$d0/d62/classGFDafHit.html#a73f6c830ac38200338a3beb61897ed62" title="Get the number of hits in the GFDafHit." alt="" coords="242,378,413,406"/>
+<area shape="rect" id="node11" href="$d4/d33/classGFTrack.html#ad9fe02d4c3331d819cd9fd08d976dab3" title="GFTrack::getNumHits" alt="" coords="245,430,409,458"/>
+<area shape="rect" id="node12" href="$df/d55/classGFException.html#a0a8577e865b120352bde062ba6b98f3a" title="print information in the exception object" alt="" coords="257,482,397,510"/>
+<area shape="rect" id="node13" href="$de/dc7/namespaceGFTools.html#a91584ea29490044c1bdd8270f39400e6" title="Invert a matrix, throwing GFException when inversion fails." alt="" coords="245,534,409,562"/>
+<area shape="rect" id="node15" href="$df/d55/classGFException.html#a03021ecb7c2326e8dc1f0ac6e4017efa" title="standard error message handling for exceptions. use like &quot;std::cerr &lt;&lt; e.what();&quot;" alt="" coords="253,586,402,614"/>
+<area shape="rect" id="node5" href="$df/d1a/classGFAbsRecoHit.html#a65ea7b2c69b91cc42d749b1625e9eeba" title="Get transformation matrix. Transformation between hit coordinates and track representation coordinate..." alt="" coords="521,118,720,146"/>
+<area shape="rect" id="node14" href="$df/d55/classGFException.html#a886ef3de22cdff9ceee36449be8643c2" title="set fatal flag. if this is true, the fit stops for this current track repr." alt="" coords="537,534,704,562"/>
+</map>

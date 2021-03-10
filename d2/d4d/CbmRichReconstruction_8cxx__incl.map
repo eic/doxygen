@@ -1,0 +1,32 @@
+<map id="EicRoot/blob/master/rich/CbmRichReconstruction.cxx" name="EicRoot/blob/master/rich/CbmRichReconstruction.cxx">
+<area shape="rect" id="node2" href="$d8/d29/CbmRichReconstruction_8h.html" title="Main class for running event reconstruction in the RICH detector." alt="" coords="53,105,247,133"/>
+<area shape="rect" id="node4" href="$d5/de4/FairLogger_8h.html" title="FairLogger.h" alt="" coords="5,281,108,309"/>
+<area shape="rect" id="node5" href="$d4/d92/FairRootManager_8h.html" title="FairRootManager.h" alt="" coords="990,281,1137,309"/>
+<area shape="rect" id="node14" href="$d2/dad/CbmRichRing_8h.html" title="CbmRichRing.h" alt="" coords="2417,197,2541,225"/>
+<area shape="rect" id="node16" href="$d8/de6/CbmRichProjectionProducer_8h.html" title="Project track by straight line from imaginary plane to the mirror and reflect it to the photodetector..." alt="" coords="591,105,810,133"/>
+<area shape="rect" id="node18" href="$d5/dd7/CbmRichProtProjectionProducer_8h.html" title="prototype/CbmRichProtProjection\lProducer.h" alt="" coords="323,97,567,141"/>
+<area shape="rect" id="node19" href="$d7/d0e/CbmRichTrackExtrapolationBase_8h.html" title="This is interface for concrete extrapolation algorithms to RICH." alt="" coords="1188,189,1395,233"/>
+<area shape="rect" id="node20" href="$df/d50/CbmRichTrackExtrapolationIdeal_8h.html" title="This is the implementation of the TrackExtrapolation from MC points. It reads the STS track array..." alt="" coords="835,97,1041,141"/>
+<area shape="rect" id="node21" href="$d7/deb/CbmRichTrackExtrapolationMirrorIdeal_8h.html" title="This is the implementation of the TrackExtrapolation from MC points &#45; operating on points in the RICH..." alt="" coords="1065,97,1272,141"/>
+<area shape="rect" id="node22" href="$d3/ded/CbmRichTrackExtrapolationKF_8h.html" title="&quot;TrackExtrapolation&quot; from STS tracks (Kalman Fitter) It reads the track array form STS and extrapolat..." alt="" coords="1297,105,1531,133"/>
+<area shape="rect" id="node24" href="$de/d7c/CbmRichRingFinderIdeal_8h.html" title="Ideal ring finder in the RICH detector. It uses MC information to attach RICH hits to rings..." alt="" coords="4165,105,4364,133"/>
+<area shape="rect" id="node26" href="$d4/d35/CbmRichProtRingFinderHough_8h.html" title="Main class for ring finder based on Hough Transform implementation." alt="" coords="3765,97,3973,141"/>
+<area shape="rect" id="node27" href="$df/d67/CbmRichRingFitterCircle_8h.html" title="Implementation of a ring fitting algorithm with equation of a circle. Algorithm from F77 subroutine o..." alt="" coords="1636,197,1832,225"/>
+<area shape="rect" id="node29" href="$d6/d8a/CbmRichRingFitterTAU_8h.html" title="Here the ring is fitted with the TAU algorithm from A. Ayriyan/ G. Ososkov." alt="" coords="1892,105,2077,133"/>
+<area shape="rect" id="node30" href="$db/da6/CbmRichRingFitterCOP_8h.html" title="Here the ring is fitted with the COP algorithm from A. Ayriyan/G. Ososkov." alt="" coords="2102,105,2286,133"/>
+<area shape="rect" id="node33" href="$d2/d6c/CbmRichRingFitterRobustCOP_8h.html" title="Here the ring is fitted with the RobustCOP algorithm from A. Ayriyan/G. Ososkov." alt="" coords="2311,105,2541,133"/>
+<area shape="rect" id="node34" href="$d8/dc8/CbmRichRingFitterEllipseTau_8h.html" title="Here the ring is fitted with Taubin algorithm from A. Ayriyan, G. Ososkov, N. Chernov." alt="" coords="2913,97,3104,141"/>
+<area shape="rect" id="node40" href="$db/d40/CbmRichRingFitterEllipseMinuit_8h.html" title="This is the implementation of ellipse fitting using MINUIT." alt="" coords="3263,97,3453,141"/>
+<area shape="rect" id="node42" href="$d2/d38/CbmRichRingTrackAssignClosestD_8h.html" title="Ring&#45;Track Assignment according to the closest distance criterion." alt="" coords="3477,105,3740,133"/>
+<area shape="rect" id="node44" href="$d4/d88/FairHit_8h.html" title="FairHit.h" alt="" coords="4387,105,4465,133"/>
+<area shape="rect" id="node47" href="$dd/dc5/CbmGlobalTrack_8h.html" title="CbmGlobalTrack.h" alt="" coords="3997,105,4141,133"/>
+<area shape="rect" id="node49" href="$dc/d3a/CbmRichConverter_8h.html" title="Convert internal data classes to cbmroot common data classes." alt="" coords="2617,105,2777,133"/>
+<area shape="rect" id="node3" href="$d8/d44/FairTask_8h.html" title="FairTask.h" alt="" coords="65,197,152,225"/>
+<area shape="rect" id="node17" href="$da/d3e/CbmRichProjectionProducerBase_8h.html" title="Base class for STS track projections onto the photodetector plane." alt="" coords="469,189,677,233"/>
+<area shape="rect" id="node25" href="$dd/d2a/CbmRichRingFinder_8h.html" title="CbmRichRingFinder.h" alt="" coords="4196,197,4360,225"/>
+<area shape="rect" id="node28" href="$d2/d05/CbmRichRingFitterBase_8h.html" title="Abstract base class for concrete Rich Ring fitting algorithms. Each derived class must implement the ..." alt="" coords="1939,281,2131,309"/>
+<area shape="rect" id="node35" href="$d0/dd0/CbmRichRingFitterEllipseBase_8h.html" title="Base class for concrete ellipse fitting algorithms. Each derived class must implement the method DoFi..." alt="" coords="3263,189,3453,233"/>
+<area shape="rect" id="node43" href="$d6/db7/CbmRichRingTrackAssignBase_8h.html" title="Base class for RICH rings &#45; STS tracks matching algorithms." alt="" coords="3673,197,3910,225"/>
+<area shape="rect" id="node45" href="$d4/dd4/FairTimeStamp_8h.html" title="FairTimeStamp.h" alt="" coords="4436,197,4571,225"/>
+<area shape="rect" id="node48" href="$dd/db7/FairTrackParam_8h.html" title="FairTrackParam.h" alt="" coords="3985,197,4121,225"/>
+</map>

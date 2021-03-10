@@ -1,0 +1,19 @@
+<map id="spectrum::generateKsingle" name="spectrum::generateKsingle">
+<area shape="rect" id="node2" href="$db/d5d/test__style_8C.html#a2513fe0eb0478642e44ad1201af61a46" title="f2" alt="" coords="354,47,393,75"/>
+<area shape="rect" id="node3" href="$da/d92/classspectrum.html#a926bac5d875aca23d82436da331d750c" title="spectrum::generateBreakup\lProbabilities" alt="" coords="268,99,479,143"/>
+<area shape="rect" id="node12" href="$da/d92/classspectrum.html#a6c4b46b76050f1cd14e5c14c1761e1c4" title="spectrum::getSigma" alt="" coords="295,167,452,195"/>
+<area shape="rect" id="node13" href="$da/d92/classspectrum.html#a3983c7e00dcbfe0e99318911692c055b" title="spectrum::getTransformedNofe" alt="" coords="257,223,489,251"/>
+<area shape="rect" id="node4" href="$d1/d21/classbeamBeamSystem.html#ac31d664ce09dda97e06c2cab564c1120" title="beamBeamSystem::probability\lOfBreakup" alt="" coords="545,95,776,139"/>
+<area shape="rect" id="node5" href="$d4/d51/classnucleus.html#afb4d4a7f776a88c10fa0ff433e74463e" title="returns nucleon number of nucleus" alt="" coords="859,5,951,33"/>
+<area shape="rect" id="node6" href="$d4/d51/classnucleus.html#a31aecce251b8d61c0e36b46ccd3730d7" title="nucleus::nuclearRadius" alt="" coords="1209,83,1388,111"/>
+<area shape="rect" id="node7" href="$d4/d51/classnucleus.html#a5de922b3a6cc87a3eb1b421fc6f2d343" title="nucleus::rho0" alt="" coords="849,109,962,137"/>
+<area shape="rect" id="node8" href="$d4/d51/classnucleus.html#a625506ed8907970e3aea75ff925bfc9b" title="nucleus::thickness" alt="" coords="832,161,979,189"/>
+<area shape="rect" id="node11" href="$d4/d51/classnucleus.html#acd58b7873e7d2d42bbc31414e373b89d" title="returns atomic number of nucleus" alt="" coords="859,219,951,247"/>
+<area shape="rect" id="node9" href="$d4/d51/classnucleus.html#ad46c433008fa9451021f8614b126996a" title="nucleus::rws" alt="" coords="1028,148,1135,176"/>
+<area shape="rect" id="node10" href="$d4/d51/classnucleus.html#ab71f2da42e9f143940e727f7525076e2" title="nucleus::woodSaxonSkinDepth" alt="" coords="1184,148,1413,176"/>
+<area shape="rect" id="node14" href="$d1/d21/classbeamBeamSystem.html#aba7a66ef2c280d5effe7094d82334e1a" title="beamBeamSystem::beamLorentz\lGamma" alt="" coords="537,163,784,207"/>
+<area shape="rect" id="node15" href="$d1/d21/classbeamBeamSystem.html#ae788c7578711e2e7b146a45e405f0426" title="returns beam particle 1" alt="" coords="559,231,763,259"/>
+<area shape="rect" id="node16" href="$d0/d21/classbeam.html#ad3c0efadce37ff4ec3f953790d4aaee4" title="calculates photon density (number of photons / (energy * area))" alt="" coords="577,283,745,311"/>
+<area shape="rect" id="node17" href="$d7/d46/namespacebessel.html#a6d6aa0ba08c052cec22f87399b0c27b1" title="bessel::dbesk1" alt="" coords="844,283,967,311"/>
+<area shape="rect" id="node18" href="$d7/d46/namespacebessel.html#a7c6ce9404b6a5c90e4d2b3b3afe8b8e7" title="bessel::besI1" alt="" coords="1027,283,1136,311"/>
+</map>

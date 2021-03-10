@@ -1,0 +1,12 @@
+<map id="ActsFatras::Interactor::operator()" name="ActsFatras::Interactor::operator()">
+<area shape="rect" id="node2" href="$d3/d07/classActs_1_1GeometryObject.html#a522d50b743aeae1663808425a72777f2" title="Acts::GeometryObject\l::geoID" alt="" coords="248,5,420,49"/>
+<area shape="rect" id="node3" href="$de/d7d/classActs_1_1Surface.html#a6569c3956f61e1123c32ef8882cdbdbe" title="Acts::Surface::globalToLocal" alt="" coords="229,73,439,101"/>
+<area shape="rect" id="node4" href="$d0/d54/classActs_1_1ISurfaceMaterial.html#a8aebe1c4930b1c72b1c46b20d34baf98" title="Acts::ISurfaceMaterial\l::materialProperties" alt="" coords="249,125,419,169"/>
+<area shape="rect" id="node5" href="$de/d7d/classActs_1_1Surface.html#a6fbc8b0f33d1e879b43a34e6f98da04f" title="Acts::Surface::normal" alt="" coords="250,193,418,221"/>
+<area shape="rect" id="node6" href="$db/dfd/classActsFatras_1_1Particle.html#ad6f907c40ae7cc9490b24bae7fb30b6f" title="The passed material measured in interaction lengths." alt="" coords="259,245,409,289"/>
+<area shape="rect" id="node7" href="$db/dfd/classActsFatras_1_1Particle.html#a135aec17b5ac2cb2790aee0ae7c29d3b" title="The passed material measured in radiation lengths." alt="" coords="259,313,409,357"/>
+<area shape="rect" id="node8" href="$de/d46/classActs_1_1MaterialProperties.html#aa2d846213cad24137f66317b13e54088" title="Scale the material thickness by the given factor." alt="" coords="243,381,425,425"/>
+<area shape="rect" id="node9" href="$de/d7d/classActs_1_1Surface.html#a1078beb10771d55a7b35d623eafcb6b5" title="Acts::Surface::surfaceMaterial" alt="" coords="221,449,447,477"/>
+<area shape="rect" id="node10" href="$de/d46/classActs_1_1MaterialProperties.html#a5e37e73208c8ef7c324df82554723d3a" title="Return the nuclear interaction length fraction." alt="" coords="243,501,425,545"/>
+<area shape="rect" id="node11" href="$de/d46/classActs_1_1MaterialProperties.html#a30ddaf0d30507bf15d7d44d917499e11" title="Return the radiation length fraction." alt="" coords="243,569,425,613"/>
+</map>

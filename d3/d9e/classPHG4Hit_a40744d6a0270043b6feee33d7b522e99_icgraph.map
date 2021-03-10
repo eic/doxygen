@@ -1,0 +1,11 @@
+<map id="PHG4Hit::set_light_yield" name="PHG4Hit::set_light_yield">
+<area shape="rect" id="node2" href="$db/d8a/classPHG4EPSteppingAction.html#a32835c80d821720b2e63958d8d15350c" title="stepping action. This defines processing of a single step in a given volume" alt="" coords="233,5,410,49"/>
+<area shape="rect" id="node3" href="$db/d97/classPHG4HcalSteppingAction.html#a3b7e2152d047bd72e38f36b695351fc7" title="stepping action" alt="" coords="226,73,417,117"/>
+<area shape="rect" id="node4" href="$df/dec/classPHG4InnerHcalSteppingAction.html#a4b758852f1c33aeefd33e7348ed1773c" title="stepping action" alt="" coords="209,141,434,185"/>
+<area shape="rect" id="node5" href="$d3/d77/classPHG4OuterHcalSteppingAction.html#ad7ba45f4ea4cc63a592c2ed49895307c" title="stepping action" alt="" coords="207,209,436,253"/>
+<area shape="rect" id="node6" href="$da/d58/classPHG4CylinderSteppingAction.html#a617bc1e8c57c83679e482a27a7d5a8b5" title="stepping action" alt="" coords="213,277,430,321"/>
+<area shape="rect" id="node7" href="$da/ded/classPHG4CrystalCalorimeterSteppingAction.html#ab8b38f44847393d00af40d6aa722f1c5" title="stepping action" alt="" coords="199,345,444,389"/>
+<area shape="rect" id="node8" href="$d1/d5a/classPHG4ForwardHcalSteppingAction.html#a9cb5479cc7064cafa95e66b0c3d7cead" title="stepping action" alt="" coords="199,413,444,457"/>
+<area shape="rect" id="node9" href="$dd/d6a/classPHG4ForwardEcalSteppingAction.html#aea7e210162a346e271c57d5222cae015" title="stepping action" alt="" coords="200,481,443,525"/>
+<area shape="rect" id="node10" href="$de/dea/classPHG4SpacalSteppingAction.html#a1c2df9729591e53ff47876e8e9359375" title="stepping action" alt="" coords="218,549,425,593"/>
+</map>

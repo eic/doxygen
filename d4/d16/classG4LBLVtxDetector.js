@@ -1,0 +1,26 @@
+var classG4LBLVtxDetector =
+[
+    [ "G4LBLVtxDetector", "d4/d16/classG4LBLVtxDetector.html#a116d567c29514d55e5a4bd27961de97d", null ],
+    [ "~G4LBLVtxDetector", "d4/d16/classG4LBLVtxDetector.html#ab05ef8507b980af3d5d434ad2c66ebe8", null ],
+    [ "ConstructMe", "d4/d16/classG4LBLVtxDetector.html#a277a0f000854a5ae480f15fd1e688306", null ],
+    [ "IsInDetector", "d4/d16/classG4LBLVtxDetector.html#ad66739207a03543e1b6437f5183159d5", null ],
+    [ "Print", "d4/d16/classG4LBLVtxDetector.html#a55becdb821d17096621d47e0dc975cfd", null ],
+    [ "SetActiveVolumes", "d4/d16/classG4LBLVtxDetector.html#a30e677d4af0b0455fd026513270a28b4", null ],
+    [ "SuperDetector", "d4/d16/classG4LBLVtxDetector.html#ab1ff597984f8568adcdcf18e67c80b4f", null ],
+    [ "SuperDetector", "d4/d16/classG4LBLVtxDetector.html#a2c408e7ed38c115837000e403a263dcb", null ],
+    [ "m_AbsorberActive", "d4/d16/classG4LBLVtxDetector.html#a866776ce5c62f26a4cf7cf7087067d89", null ],
+    [ "m_Active", "d4/d16/classG4LBLVtxDetector.html#a4c72be4e8b1e3d5785a68f11168bf197", null ],
+    [ "m_ActivePhysVolumeMap", "d4/d16/classG4LBLVtxDetector.html#aa829b0b053a252d5e63d48940e155f97", null ],
+    [ "m_ActiveVolName", "d4/d16/classG4LBLVtxDetector.html#acdfd96e11335ac027b377cf6f61f8162", null ],
+    [ "m_DisplayAction", "d4/d16/classG4LBLVtxDetector.html#a39b1f31f5f9bb1f8968edf2d5470ff41", null ],
+    [ "m_GDMPath", "d4/d16/classG4LBLVtxDetector.html#aa4600a9a784198a236eb5d9b0bf5f878", null ],
+    [ "m_PassivePhysVolumeMap", "d4/d16/classG4LBLVtxDetector.html#aa19aaedab98d42f1453ae326ecd87b64", null ],
+    [ "m_placeX", "d4/d16/classG4LBLVtxDetector.html#a305e250243fbb899b9637033a5fdf5c4", null ],
+    [ "m_placeY", "d4/d16/classG4LBLVtxDetector.html#ae7960a8031e8728a5c50c3e1fcedf744", null ],
+    [ "m_placeZ", "d4/d16/classG4LBLVtxDetector.html#adfcd622c68b8fa3b332e7f198c189967", null ],
+    [ "m_rotationX", "d4/d16/classG4LBLVtxDetector.html#a9963a687025014343111ce4e5ed12086", null ],
+    [ "m_rotationY", "d4/d16/classG4LBLVtxDetector.html#ae6f4f6bf9abbaab4b22d06f7e904fc23", null ],
+    [ "m_rotationZ", "d4/d16/classG4LBLVtxDetector.html#a45e5793e2730e93f40567a74106085a7", null ],
+    [ "m_SuperDetector", "d4/d16/classG4LBLVtxDetector.html#a3e5d3d557ca1f3c7bbd4fdf5382b7df2", null ],
+    [ "m_TopVolName", "d4/d16/classG4LBLVtxDetector.html#a1716b2047d08b99c80a8b05a0cbdf57f", null ]
+];

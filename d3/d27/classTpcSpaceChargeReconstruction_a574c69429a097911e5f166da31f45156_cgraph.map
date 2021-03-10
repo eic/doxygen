@@ -1,0 +1,13 @@
+<map id="TpcSpaceChargeReconstruction::End" name="TpcSpaceChargeReconstruction::End">
+<area shape="rect" id="node2" href="$d3/d27/classTpcSpaceChargeReconstruction.html#a2ca435849e76a735f65869c50146e65a" title="calculate distortions" alt="" coords="325,228,563,272"/>
+<area shape="rect" id="node3" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#ad358344845d924487bf7aac85b03d5ad" title="TpcSpaceChargeReconstruction\lHelper::copy_histogram" alt="" coords="611,125,848,169"/>
+<area shape="rect" id="node4" href="$d1/d72/EIC-IR1-XX-v01a_8C.html#a3fd818ea23ff1d99b471adf13ea99242" title="ir" alt="" coords="995,133,1034,161"/>
+<area shape="rect" id="node5" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#a594bcd9d7b19f073f6fcf7586fe4f8d9" title="first phi extrapolation" alt="" coords="611,5,848,49"/>
+<area shape="rect" id="node7" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#aadba00c7c59985c911340622722ced8a" title="second phi extrapolation" alt="" coords="611,193,848,237"/>
+<area shape="rect" id="node9" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#acaa4e69fe0e04a708011f342077ddf44" title="z extrapolation" alt="" coords="611,261,848,305"/>
+<area shape="rect" id="node10" href="$d3/d27/classTpcSpaceChargeReconstruction.html#a991e09778b2feb927f563cf0ca77d9b6" title="get cell from phi, r and z index" alt="" coords="611,329,848,373"/>
+<area shape="rect" id="node11" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#a200044900cddf5b63359d85e851daaff" title="separate positive and negative z histograms" alt="" coords="611,397,848,441"/>
+<area shape="rect" id="node12" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="641,465,817,493"/>
+<area shape="rect" id="node6" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#a7aea582870a04ab7d39aa0f45da9f4e9" title="get reference z range used for phi extrapolation normalization at a given radius" alt="" coords="896,5,1133,49"/>
+<area shape="rect" id="node8" href="$d1/d22/EllipseBounds_8cpp.html#ab14acda17eb07a638824bb5e3873c586" title="square" alt="" coords="981,235,1048,263"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="EicGeoParData::PlaceG4Volume" name="EicGeoParData::PlaceG4Volume">
+<area shape="rect" id="node2" href="$d0/dd9/classBasicDetectorConstruction.html#a89b2262ce34d353501498c7b666ffd28" title="BasicDetectorConstruction\l::Construct" alt="" coords="294,5,495,49"/>
+<area shape="rect" id="node3" href="$d1/d07/classEicRootVstSubsystem.html#a580ef838ab344868277e7213896e08b2" title="EicRootVstSubsystem\l::PlaceG4Volume" alt="" coords="311,73,479,117"/>
+<area shape="rect" id="node4" href="$d6/d4c/classEicRootMuMegasSubsystem.html#a633f32e3833af0722157dde81e0c02a5" title="EicRootMuMegasSubsystem\l::PlaceG4Volume" alt="" coords="289,141,500,185"/>
+<area shape="rect" id="node5" href="$d6/d68/classEicRootGemSubsystem.html#a7c7159c6ad88375796bd78fc5fd88df6" title="EicRootGemSubsystem\l::PlaceG4Volume" alt="" coords="305,209,484,253"/>
+</map>

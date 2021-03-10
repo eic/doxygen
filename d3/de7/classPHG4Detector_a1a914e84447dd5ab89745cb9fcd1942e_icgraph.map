@@ -1,0 +1,38 @@
+<map id="PHG4Detector::OverlapCheck" name="PHG4Detector::OverlapCheck">
+<area shape="rect" id="node2" href="$d1/d86/classPHG4EnvelopeSubsystem.html#a626baf737cd54b92819d8bde2360575e" title="PHG4EnvelopeSubsystem\l::Init" alt="" coords="308,5,504,49"/>
+<area shape="rect" id="node3" href="$df/dee/classPHG4CEmcTestBeamSubsystem.html#a7128d4cd653722dc4e6a2bc867c8c092" title="init" alt="" coords="287,73,525,117"/>
+<area shape="rect" id="node4" href="$d5/dc7/classG4Example01Subsystem.html#a7fa9ca6c8a1811d4eb58c229e8ab6f12" title="G4Example01Subsystem\l::Init" alt="" coords="311,141,501,185"/>
+<area shape="rect" id="node5" href="$d7/d4b/classG4LmonSubsystem.html#a1ce4f98cd362f019b89e511fc646c943" title="G4LmonSubsystem::Init" alt="" coords="314,209,498,237"/>
+<area shape="rect" id="node6" href="$db/dfa/classPHG4HcalSubsystem.html#a27f70189465a985f453fe4106f795d6d" title="init" alt="" coords="321,261,491,305"/>
+<area shape="rect" id="node7" href="$d2/d10/classPHG4EPDSubsystem.html#a5e0dcde9a99b0790bef300d96c5809a8" title="PHG4EPDSubsystem::InitRun\lSubsystem" alt="" coords="298,329,514,373"/>
+<area shape="rect" id="node8" href="$d2/de6/classEicRootSubsystem.html#a82e2a745e04d7501ef1883301dfe9d88" title="EicRootSubsystem::InitRun\lSubsystem" alt="" coords="305,397,507,441"/>
+<area shape="rect" id="node9" href="$d3/d62/classPHG4InnerHcalSubsystem.html#a931cce8701fab42687620bed5fc6d165" title="PHG4InnerHcalSubsystem\l::InitRunSubsystem" alt="" coords="307,465,505,509"/>
+<area shape="rect" id="node10" href="$da/d01/classPHG4OuterHcalSubsystem.html#a051c0a929dacf42d7d5647ecfb2d4a62" title="PHG4OuterHcalSubsystem\l::InitRunSubsystem" alt="" coords="305,533,507,577"/>
+<area shape="rect" id="node11" href="$db/d6c/classG4LBLVtxSubsystem.html#a8f1bde3895c9d3f816359d82f9f7b405" title="G4LBLVtxSubsystem::\lInitRunSubsystem" alt="" coords="322,601,490,645"/>
+<area shape="rect" id="node12" href="$dd/d2a/classBeamLineMagnetSubsystem.html#a2fb02ea4813b6d0fbbcff6ea4f5e4c61" title="init runwise stuff" alt="" coords="299,669,513,713"/>
+<area shape="rect" id="node13" href="$d7/d0d/classPHG4TpcSubsystem.html#a62852e7494e2862bebc0ba1a7eec5562" title="PHG4TpcSubsystem::InitRun\lSubsystem" alt="" coords="299,737,513,781"/>
+<area shape="rect" id="node14" href="$d8/d65/classG4JLeicBeamLineMagnetSubsystem.html#af1a01315ac6f33f76c549b1c499fcd09" title="init runwise stuff" alt="" coords="275,805,537,849"/>
+<area shape="rect" id="node15" href="$dc/d10/classPHG4CrystalCalorimeterSubsystem.html#a06876d88e04f0d4579fad3610144ac85" title="PHG4CrystalCalorimeterSubsystem\l::InitRunSubsystem" alt="" coords="276,873,536,917"/>
+<area shape="rect" id="node16" href="$d8/d6e/classPHG4ConeSubsystem.html#ae1e54cdc2185dc1a123791f5de667148" title="init runwise stuff" alt="" coords="318,941,494,985"/>
+<area shape="rect" id="node17" href="$db/dc5/classPHG4CylinderSubsystem.html#a36e9fe9b69b4314846e245a1c6119cf3" title="init runwise stuff" alt="" coords="311,1009,501,1053"/>
+<area shape="rect" id="node18" href="$d8/dce/classPHG4ForwardEcalSubsystem.html#a7648b66bce4a75af9fd96d07a7349780" title="PHG4ForwardEcalSubsystem\l::InitRunSubsystem" alt="" coords="298,1077,514,1121"/>
+<area shape="rect" id="node19" href="$df/d14/classPHG4BlockSubsystem.html#ac0d173351f388609274a5105753746c3" title="InitRunSubsystem." alt="" coords="321,1145,491,1189"/>
+<area shape="rect" id="node20" href="$df/d58/classPHG4ForwardHcalSubsystem.html#af9ded381f870c368b6443a3de18ded52" title="PHG4ForwardHcalSubsystem\l::InitRunSubsystem" alt="" coords="297,1213,515,1257"/>
+<area shape="rect" id="node21" href="$d3/d9f/classPHG4EICMvtxSubsystem.html#af78c3aea7e256e282dfdd566fbf2ea0b" title="InitRunSubsystem." alt="" coords="312,1281,500,1325"/>
+<area shape="rect" id="node22" href="$d9/dbf/classPHG4MvtxSubsystem.html#a189efac53cac8a58715d177c664d74c9" title="InitRunSubsystem." alt="" coords="319,1349,493,1393"/>
+<area shape="rect" id="node23" href="$dd/d7a/classEicToyModelSubsystem.html#aaca18e38bcbd634e6a762551126adca9" title="EicToyModelSubsystem\l::InitRunSubsystem" alt="" coords="317,1417,495,1461"/>
+<area shape="rect" id="node24" href="$df/d48/classEicFRichSubsystem.html#aba173ad1bfc2f7b3099c5585467fe0a9" title="EicFRichSubsystem::\lInitRunSubsystem" alt="" coords="325,1485,487,1529"/>
+<area shape="rect" id="node25" href="$d1/dfe/classBeastMagnetSubsystem.html#ab500034facb89ac2aecf5d16176b7fff" title="BeastMagnetSubsystem\l::InitRunSubsystem" alt="" coords="314,1553,498,1597"/>
+<area shape="rect" id="node26" href="$d5/d22/classPHG4TpcEndCapSubsystem.html#aac61e3ae75996d7b943a8cee515e8c06" title="PHG4TpcEndCapSubsystem\l::InitRunSubsystem" alt="" coords="301,1621,511,1665"/>
+<area shape="rect" id="node27" href="$dc/df8/classPHG4MicromegasSubsystem.html#a9cf5b66379db8e3bf8261079aaa20b23" title="PHG4MicromegasSubsystem\l::InitRunSubsystem" alt="" coords="299,1689,513,1733"/>
+<area shape="rect" id="node28" href="$d6/d2d/classG4Example02Subsystem.html#ae9b889ba7e741a94a4c467a0e1452355" title="G4Example02Subsystem\l::InitRunSubsystem" alt="" coords="311,1757,501,1801"/>
+<area shape="rect" id="node29" href="$d7/d58/classPHG4mRICHSubsystem.html#a228a3aef199e3b37118c6e199418468d" title="InitRunSubsystem." alt="" coords="317,1825,495,1869"/>
+<area shape="rect" id="node30" href="$db/d23/classAllSiliconTrackerSubsystem.html#a1dd766351c2064c15b22e2b7d256225f" title="AllSiliconTrackerSubsystem\l::InitRunSubsystem" alt="" coords="303,1893,509,1937"/>
+<area shape="rect" id="node31" href="$d3/d75/classG4Example03Subsystem.html#ab0676f436b2497f0e301900a896c5a04" title="G4Example03Subsystem\l::InitRunSubsystem" alt="" coords="311,1961,501,2005"/>
+<area shape="rect" id="node32" href="$df/db1/classPHG4GDMLSubsystem.html#a1afc32de11c65eb0b4698135d03a0422" title="PHG4GDMLSubsystem::\lInitRunSubsystem" alt="" coords="315,2029,497,2073"/>
+<area shape="rect" id="node33" href="$d6/dca/classPHG4SpacalSubsystem.html#a90194add98a02adc7715f79919371211" title="init" alt="" coords="317,2097,495,2141"/>
+<area shape="rect" id="node34" href="$d3/d23/classG4JLeicDIRCSubsystem.html#aa626ea3c64699c4ba84886224f14c284" title="G4JLeicDIRCSubsystem\l::InitRunSubsystem" alt="" coords="317,2165,495,2209"/>
+<area shape="rect" id="node35" href="$da/ded/classG4JLeicVTXSubsystem.html#a0d03568d0c806772bf4e2302b2010516" title="G4JLeicVTXSubsystem\l::InitRunSubsystem" alt="" coords="320,2233,492,2277"/>
+<area shape="rect" id="node36" href="$dd/d21/classPHG4PSTOFSubsystem.html#a487e12c6abedca9fabf406aaeab10011" title="PHG4PSTOFSubsystem\l::InitRunSubsystem" alt="" coords="318,2301,494,2345"/>
+<area shape="rect" id="node37" href="$d4/dd0/classPHG4BbcSubsystem.html#ad9499fde0f409ad419de78ff0b9b5961" title="PHG4BbcSubsystem::InitRun\lSubsystem" alt="" coords="299,2369,513,2413"/>
+</map>

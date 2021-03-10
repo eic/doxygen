@@ -1,0 +1,12 @@
+<map id="Acts::DenseEnvironmentExtension::initializeEnergyLoss" name="Acts::DenseEnvironmentExtension::initializeEnergyLoss">
+<area shape="rect" id="node2" href="$da/d7b/namespaceActs.html#a2dff236164d1fce4f839b3932d283a35" title="Acts::computeEnergyLossMean" alt="" coords="308,57,541,85"/>
+<area shape="rect" id="node5" href="$da/d7b/namespaceActs.html#a134ec0bc80f4b924e0c7911a9000d1f8" title="Acts::computeEnergyLossMode" alt="" coords="308,109,541,137"/>
+<area shape="rect" id="node7" href="$da/d7b/namespaceActs.html#ad0ba8e126708a9e4daa8613e8b73a24e" title="Acts::deriveEnergyLossMean\lQOverP" alt="" coords="317,161,533,205"/>
+<area shape="rect" id="node10" href="$da/d7b/namespaceActs.html#aed2d0c3a3487d6b2642b867827731140" title="Acts::deriveEnergyLossMode\lQOverP" alt="" coords="317,229,533,273"/>
+<area shape="rect" id="node3" href="$da/d7b/namespaceActs.html#a9fc90097203ac9df789419291414a5a0" title="Acts::computeEnergyLossBethe" alt="" coords="601,5,837,33"/>
+<area shape="rect" id="node4" href="$da/d7b/namespaceActs.html#a491df8ef7f45c4320268e5e71263ccb9" title="Acts::computeEnergyLossRadiative" alt="" coords="589,57,849,85"/>
+<area shape="rect" id="node6" href="$da/d7b/namespaceActs.html#abe74125e8f850c5d5b696acd3e3757e8" title="Acts::computeEnergyLossLandau" alt="" coords="597,109,842,137"/>
+<area shape="rect" id="node8" href="$da/d7b/namespaceActs.html#a45ae08d8b0ecc25797167a1286ccca81" title="Acts::deriveEnergyLossBethe\lQOverP" alt="" coords="610,161,829,205"/>
+<area shape="rect" id="node9" href="$da/d7b/namespaceActs.html#ac9c4361866320fc2ce9aa3e1a73bcf5c" title="Acts::deriveEnergyLossRadiative\lQOverP" alt="" coords="598,229,841,273"/>
+<area shape="rect" id="node11" href="$da/d7b/namespaceActs.html#acff7fe6b328594e937bb87a7eb845b36" title="Acts::deriveEnergyLossLandau\lQOverP" alt="" coords="605,297,834,341"/>
+</map>

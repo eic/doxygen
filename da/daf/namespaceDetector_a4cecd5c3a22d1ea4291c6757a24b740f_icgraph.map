@@ -1,0 +1,12 @@
+<map id="Detector::FullMask" name="Detector::FullMask">
+<area shape="rect" id="node2" href="$da/daf/namespaceDetector.html#a8ea51ad6e0e33eada715419e5b1ffa18" title="Detector::MaskToString" alt="" coords="207,65,385,93"/>
+<area shape="rect" id="node11" href="$dd/d9a/classFairDbLogEntry.html#a26f32e42b66cadb8c41cf9a1242bdccd" title="FairDbLogEntry::Recreate" alt="" coords="200,117,392,145"/>
+<area shape="rect" id="node3" href="$d9/df6/classValRange.html#ac47742288a98caef0104be34e39f3c7a" title="ValRange::AsString" alt="" coords="440,65,591,93"/>
+<area shape="rect" id="node4" href="$dd/da1/classFairDbValidityRec.html#af6a6b4df71b929e5061fd8935e7af4d8" title="FairDbValidityRec::Fill" alt="" coords="639,5,804,33"/>
+<area shape="rect" id="node5" href="$dd/da1/classFairDbValidityRec.html#a32b49398e48e17ec79ca61ca06dec5c5" title="FairDbValidityRec::\lIsCompatible" alt="" coords="648,57,795,101"/>
+<area shape="rect" id="node8" href="$d9/df6/classValRange.html#a6a4c1df99d13a13cecc714c0d8860515" title="Print to stdout. See AsString() for options." alt="" coords="658,125,785,153"/>
+<area shape="rect" id="node6" href="$d5/d57/classFairDbResult.html#acdc21ff31bf14eeaf2b4419605aaf626" title="FairDbResult::Satisfies" alt="" coords="854,65,1026,93"/>
+<area shape="rect" id="node7" href="$d2/d4a/classFairDbCache.html#ad679b800df8f04bd925fe0ecd1784639" title="Secondary search." alt="" coords="1087,65,1249,93"/>
+<area shape="rect" id="node9" href="$d9/d77/classValValidate.html#ae774acb7ecd6d7e11862b5c3eab44e80" title="ValValidate::TestRange" alt="" coords="852,125,1028,153"/>
+<area shape="rect" id="node10" href="$d9/d77/classValValidate.html#ab4c5d472b66e667bad1d691681f07dde" title="ValValidate::RunAllTests" alt="" coords="1076,125,1260,153"/>
+</map>

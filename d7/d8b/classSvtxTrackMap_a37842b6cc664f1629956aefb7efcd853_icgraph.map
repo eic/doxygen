@@ -1,0 +1,31 @@
+<map id="SvtxTrackMap::insert" name="SvtxTrackMap::insert">
+<area shape="rect" id="node2" href="$d3/df0/classPHActsSiliconSeeding.html#ac5e516e9953765f7be0236694f0b3985" title="PHActsSiliconSeeding\l::createSvtxTrack" alt="" coords="249,5,415,49"/>
+<area shape="rect" id="node5" href="$d2/d8f/classPHInitZVertexing.html#a8be961e889654346a4d4435896e5d0e0" title="PHInitZVertexing::export\l_output" alt="" coords="238,73,426,117"/>
+<area shape="rect" id="node7" href="$d1/d97/classPHPatternReco.html#a6549c8bd552acd725fc0e611560c53c7" title="PHPatternReco::export\l_output" alt="" coords="245,141,419,185"/>
+<area shape="rect" id="node9" href="$d8/dd4/classPHHoughSeeding.html#a61550a59cd3a34af03c43572e28274cb" title="code to translate back to the SVTX universe" alt="" coords="236,209,428,253"/>
+<area shape="rect" id="node11" href="$de/d74/classKFParticle__DST.html#a2b6acf78701266573cd1278c75281f2b" title="Called by fillParticleNode, fills an SvtxTrackMap." alt="" coords="235,277,429,321"/>
+<area shape="rect" id="node14" href="$d2/d71/classPHSiliconTpcTrackMatching.html#a5488452c780ab584ef21083c3d009688" title="PHSiliconTpcTrackMatching\l::Process" alt="" coords="229,345,435,389"/>
+<area shape="rect" id="node15" href="$dd/d22/classPHTpcTracker.html#aa579cb8953a6aa2d57a99dc2c2e91df7" title="PHTpcTracker::Process" alt="" coords="246,413,418,441"/>
+<area shape="rect" id="node16" href="$d7/dd6/classPHSiliconTruthTrackSeeding.html#ac9ded997e4f8f07f2bd103e9fa294d27" title="PHSiliconTruthTrackSeeding\l::Process" alt="" coords="228,465,436,509"/>
+<area shape="rect" id="node17" href="$d5/da2/classPHTruthTrackSeeding.html#a37f708048770642f57f15675683c2cac" title="PHTruthTrackSeeding\l::Process" alt="" coords="250,533,414,577"/>
+<area shape="rect" id="node18" href="$da/df1/classPHRTreeSeeding.html#a0aba948a58d39c1064797b4568d7d811" title="PHRTreeSeeding::Process" alt="" coords="237,601,427,629"/>
+<area shape="rect" id="node19" href="$df/d9d/classPHTruthSiliconAssociation.html#ac41bed87e2c4caf8ddf243144cf4b5d4" title="PHTruthSiliconAssociation\l::process_event" alt="" coords="235,653,429,697"/>
+<area shape="rect" id="node20" href="$d9/d91/classPHG4TrackFastSim.html#a8bb22ab279c5f433069774bd2ab0a7ae" title="Process Event, called for each event." alt="" coords="228,721,436,765"/>
+<area shape="rect" id="node21" href="$de/d25/classPHGenFitTrkFitter.html#a2e088a68ab24c5b89b902205f877f9d6" title="Process Event, called for each event." alt="" coords="259,789,405,833"/>
+<area shape="rect" id="node22" href="$d4/d4e/classPHHybridSeeding.html#a517633819faed92b7b727b4ffd120da8" title="PHHybridSeeding::publish\lSeeds" alt="" coords="233,857,431,901"/>
+<area shape="rect" id="node24" href="$d9/d69/classPHSimpleKFProp.html#ad69fa0efa461595c3a50a0447ce8f3d5" title="PHSimpleKFProp::publishSeeds" alt="" coords="216,925,448,953"/>
+<area shape="rect" id="node26" href="$d1/d08/classPHCASeeding.html#adf03008bddc1f14e2818a5f97969de19" title="PHCASeeding::publishSeeds" alt="" coords="226,977,438,1005"/>
+<area shape="rect" id="node29" href="$df/d76/classPHActsTrkProp.html#abbb60d027bda2a807cf8af9f0b84b558" title="Wipe and recreate the SvtxTrackMap with Acts output." alt="" coords="230,1029,434,1073"/>
+<area shape="rect" id="node3" href="$d3/df0/classPHActsSiliconSeeding.html#add142a13f5639ee3dd0b031d583bafc3" title="Take final seeds and fill the SvtxTrackMap." alt="" coords="527,5,694,49"/>
+<area shape="rect" id="node4" href="$d3/df0/classPHActsSiliconSeeding.html#a935b8799b5ff714a7e4ee82c740633be" title="PHActsSiliconSeeding\l::process_event" alt="" coords="777,5,943,49"/>
+<area shape="rect" id="node6" href="$d2/d8f/classPHInitZVertexing.html#a50743230c0f324a28d4410227a526ec8" title="PHInitZVertexing::Process" alt="" coords="513,81,708,109"/>
+<area shape="rect" id="node8" href="$d1/d97/classPHPatternReco.html#ac97e2c1e8d98ea16a11d44c134ad0299" title="PHPatternReco::process\l_event" alt="" coords="520,141,701,185"/>
+<area shape="rect" id="node10" href="$d8/dd4/classPHHoughSeeding.html#a8b2c7b85b2bcbe054e071dd6ff624f7d" title="PHHoughSeeding::Process" alt="" coords="511,217,710,245"/>
+<area shape="rect" id="node12" href="$de/d74/classKFParticle__DST.html#acecbd0672cdd8840d82e8e86a8e7bf21" title="Simultaneously fills a KFParticle_Container and SvtxTrackMap if they are enabled." alt="" coords="496,285,725,313"/>
+<area shape="rect" id="node13" href="$d5/d72/classKFParticle__sPHENIX.html#a7e5ad7cf075fbf8e68a781e7721fec81" title="KFParticle_sPHENIX\l::process_event" alt="" coords="784,277,936,321"/>
+<area shape="rect" id="node23" href="$d4/d4e/classPHHybridSeeding.html#aec196a7ecb2a0dddd848a8f97eca015f" title="PHHybridSeeding::Process" alt="" coords="511,865,711,893"/>
+<area shape="rect" id="node25" href="$d9/d69/classPHSimpleKFProp.html#a136dcc93e867e01b138a7cdd6dbcf008" title="PHSimpleKFProp::Process" alt="" coords="515,917,707,945"/>
+<area shape="rect" id="node27" href="$d1/d08/classPHCASeeding.html#ae3e38432cdd368281eb7c31f884220a2" title="PHCASeeding::FindSeedsWith\lMerger" alt="" coords="500,969,721,1013"/>
+<area shape="rect" id="node28" href="$d1/d08/classPHCASeeding.html#aaa4eca2abbf1065bb9b48de9cb683494" title="PHCASeeding::Process" alt="" coords="773,977,947,1005"/>
+<area shape="rect" id="node30" href="$df/d76/classPHActsTrkProp.html#ae274ea4fd9d52834cbbfd1c3aca72476" title="Process each event by calling the fitter." alt="" coords="522,1037,699,1065"/>
+</map>

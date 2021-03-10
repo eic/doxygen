@@ -1,0 +1,11 @@
+<map id="Acts::Test::BOOST_AUTO_TEST_CASE" name="Acts::Test::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d8/d74/classActs_1_1JsonGeometryConverter.html#a68254cbd7d6e434e247c76221c5d14e2" title="Acts::JsonGeometryConverter\l::jsonToMaterialMaps" alt="" coords="241,101,464,145"/>
+<area shape="rect" id="node10" href="$d8/d74/classActs_1_1JsonGeometryConverter.html#a2ac0f016b84a15a13618207824cffc12" title="Acts::JsonGeometryConverter\l::materialMapsToJson" alt="" coords="241,169,464,213"/>
+<area shape="rect" id="node3" href="$d7/df5/classActs_1_1GeometryID.html#a66293632da863133b974fac013ca37db" title="Set the approach identifier." alt="" coords="513,5,747,33"/>
+<area shape="rect" id="node6" href="$d7/df5/classActs_1_1GeometryID.html#a9589c6ee3194a72543cdeaf888ad97be" title="Set the boundary identifier." alt="" coords="512,57,748,85"/>
+<area shape="rect" id="node7" href="$d7/df5/classActs_1_1GeometryID.html#ac27abfcaf9479ccd3365c87c3531cfa4" title="Set the layer identifier." alt="" coords="525,109,735,137"/>
+<area shape="rect" id="node8" href="$d7/df5/classActs_1_1GeometryID.html#ad772b19c6d545948b509cd5f2ccdd871" title="Set the sensitive identifier." alt="" coords="514,161,746,189"/>
+<area shape="rect" id="node9" href="$d7/df5/classActs_1_1GeometryID.html#af398c76772a835a6392d8316cc3521db" title="Set the volume identifier." alt="" coords="519,213,741,241"/>
+<area shape="rect" id="node4" href="$d7/df5/classActs_1_1GeometryID.html#a58a26ff78512631792caf827f7e842ef" title="Set the masked bits to id in the encoded value." alt="" coords="796,109,992,137"/>
+<area shape="rect" id="node5" href="$d7/df5/classActs_1_1GeometryID.html#acd6ca6e930d0adfefd72283464038a11" title="Extract the bit shift necessary to access the masked values." alt="" coords="1040,101,1239,145"/>
+</map>

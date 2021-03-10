@@ -1,0 +1,21 @@
+<map id="PHTruthTrackSeeding" name="PHTruthTrackSeeding">
+<area shape="rect" id="node2" href="$d4/d5a/classPHTrackSeeding.html" title="Base class for track seeding." alt="" coords="1247,162,1376,190"/>
+<area shape="rect" id="node3" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="889,59,991,87"/>
+<area shape="rect" id="node4" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="481,59,585,87"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="197,26,287,54"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="5,18,148,62"/>
+<area shape="rect" id="node7" href="$d0/d2c/classTrkrClusterContainer.html" title="Cluster container object." alt="" coords="859,410,1021,438"/>
+<area shape="rect" id="node19" href="$d1/d1e/classSvtxClusterEval.html" title="SvtxClusterEval" alt="" coords="2655,1034,2781,1062"/>
+<area shape="rect" id="node25" href="$d9/d62/classSvtxHitEval.html" title="SvtxHitEval" alt="" coords="2199,1154,2297,1182"/>
+<area shape="rect" id="node8" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="491,470,575,498"/>
+<area shape="rect" id="node11" href="$d2/db7/classAssocInfoContainer.html" title="AssocInfoContainer" alt="" coords="863,119,1017,147"/>
+<area shape="rect" id="node13" href="$d7/d8b/classSvtxTrackMap.html" title="SvtxTrackMap" alt="" coords="883,225,997,253"/>
+<area shape="rect" id="node14" href="$d7/d4f/classTrkrClusterHitAssoc.html" title="Class for associating clusters to the hits that went into them." alt="" coords="863,278,1017,306"/>
+<area shape="rect" id="node16" href="$db/dd7/classSvtxVertexMap.html" title="SvtxVertexMap" alt="" coords="879,171,1001,199"/>
+<area shape="rect" id="node17" href="$d7/d8d/classTrkrHitTruthAssoc.html" title="Association object for PHG4Cells contributiong to TrkrHits." alt="" coords="1675,686,1815,714"/>
+<area shape="rect" id="node23" href="$d3/d9e/classPHG4Hit.html" title="PHG4Hit" alt="" coords="901,905,979,933"/>
+<area shape="rect" id="node31" href="$da/d6c/classPHG4TruthInfoContainer.html" title="PHG4TruthInfoContainer" alt="" coords="1652,1433,1837,1461"/>
+<area shape="rect" id="node36" href="$d4/d30/classPHG4HitContainer.html" title="PHG4HitContainer" alt="" coords="1672,1499,1817,1527"/>
+<area shape="rect" id="node9" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="204,470,280,498"/>
+<area shape="rect" id="node21" title="STL class." alt="" coords="1659,634,1830,662"/>
+</map>

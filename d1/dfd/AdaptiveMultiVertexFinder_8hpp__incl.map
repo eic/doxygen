@@ -1,0 +1,32 @@
+<map id="fun4all_acts/blob/master/Core/include/Acts/Vertexing/AdaptiveMultiVertexFinder.hpp" name="fun4all_acts/blob/master/Core/include/Acts/Vertexing/AdaptiveMultiVertexFinder.hpp">
+<area shape="rect" id="node2" href="$d8/d81/TrackParameters_8hpp.html" title="Acts/EventData/TrackParameters.hpp" alt="" coords="1605,365,1878,393"/>
+<area shape="rect" id="node11" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="1324,801,1537,829"/>
+<area shape="rect" id="node23" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="131,549,317,577"/>
+<area shape="rect" id="node30" href="$d3/db2/Result_8hpp.html" title="Acts/Utilities/Result.hpp" alt="" coords="3831,641,4014,669"/>
+<area shape="rect" id="node33" href="$df/d6f/Units_8hpp.html" title="Acts/Utilities/Units.hpp" alt="" coords="2239,641,2415,669"/>
+<area shape="rect" id="node34" href="$db/d14/AMVFInfo_8hpp.html" title="Acts/Vertexing/AMVFInfo.hpp" alt="" coords="1497,121,1714,149"/>
+<area shape="rect" id="node39" href="$d1/dd6/ImpactPointEstimator_8hpp.html" title="Acts/Vertexing/ImpactPoint\lEstimator.hpp" alt="" coords="2517,113,2723,157"/>
+<area shape="rect" id="node49" href="$d1/d75/VertexingOptions_8hpp.html" title="Acts/Vertexing/Vertexing\lOptions.hpp" alt="" coords="4249,113,4437,157"/>
+<area shape="rect" id="node50" href="$d6/df4/AdaptiveMultiVertexFinder_8ipp.html" title="Acts/Vertexing/AdaptiveMulti\lVertexFinder.ipp" alt="" coords="509,357,726,401"/>
+<area shape="rect" id="node3" href="$d2/dc3/ChargePolicy_8hpp.html" title="Acts/EventData/ChargePolicy.hpp" alt="" coords="1654,641,1901,669"/>
+<area shape="rect" id="node4" href="$dd/d8e/SingleBoundTrackParameters_8hpp.html" title="Acts/EventData/SingleBound\lTrackParameters.hpp" alt="" coords="1735,449,1951,493"/>
+<area shape="rect" id="node5" href="$d9/d77/SingleTrackParameters_8hpp.html" title="Acts/EventData/SingleTrack\lParameters.hpp" alt="" coords="1738,541,1947,585"/>
+<area shape="rect" id="node18" href="$d6/dee/SingleCurvilinearTrackParameters_8hpp.html" title="Acts/EventData/SingleCurvilinear\lTrackParameters.hpp" alt="" coords="1227,449,1474,493"/>
+<area shape="rect" id="node20" href="$df/d16/SingleFreeParameters_8hpp.html" title="Acts/EventData/SingleFree\lParameters.hpp" alt="" coords="606,541,807,585"/>
+<area shape="rect" id="node15" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="2523,801,2800,829"/>
+<area shape="rect" id="node17" href="$d8/ddd/Surface_8hpp.html" title="Acts/Surfaces/Surface.hpp" alt="" coords="1147,725,1347,753"/>
+<area shape="rect" id="node7" href="$de/d01/ParameterSet_8hpp.html" title="Acts/EventData/Parameter\lSet.hpp" alt="" coords="2541,633,2742,677"/>
+<area shape="rect" id="node13" href="$dc/d3e/coordinate__transformations_8hpp.html" title="Acts/EventData/detail\l/coordinate_transformations.hpp" alt="" coords="1335,633,1579,677"/>
+<area shape="rect" id="node19" href="$d7/dec/PlaneSurface_8hpp.html" title="Acts/Surfaces/PlaneSurface.hpp" alt="" coords="972,641,1209,669"/>
+<area shape="rect" id="node35" href="$d6/db0/Vertex_8hpp.html" title="Acts/Vertexing/Vertex.hpp" alt="" coords="2071,205,2268,233"/>
+<area shape="rect" id="node36" href="$d8/d30/TrackAtVertex_8hpp.html" title="Acts/Vertexing/TrackAtVertex.hpp" alt="" coords="2142,281,2389,309"/>
+<area shape="rect" id="node37" href="$d9/de3/Vertex_8ipp.html" title="Vertex.ipp" alt="" coords="2026,281,2118,309"/>
+<area shape="rect" id="node40" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="4241,633,4444,677"/>
+<area shape="rect" id="node41" href="$df/d7f/NullBField_8hpp.html" title="Acts/MagneticField\l/NullBField.hpp" alt="" coords="4018,541,4166,585"/>
+<area shape="rect" id="node42" href="$d5/d20/Propagator_8hpp.html" title="Acts/Propagator/Propagator.hpp" alt="" coords="2661,549,2899,577"/>
+<area shape="rect" id="node47" href="$df/df4/ImpactPointEstimator_8ipp.html" title="Acts/Vertexing/ImpactPoint\lEstimator.ipp" alt="" coords="948,449,1153,493"/>
+<area shape="rect" id="node43" href="$d0/d75/ReferenceWrapperAnyCompat_8hpp.html" title="Acts/Utilities/detail\l/ReferenceWrapperAnyCompat.hpp" alt="" coords="2817,633,3079,677"/>
+<area shape="rect" id="node45" href="$dc/dfe/AbortList_8hpp.html" title="Acts/Propagator/AbortList.hpp" alt="" coords="3329,641,3553,669"/>
+<area shape="rect" id="node46" href="$d1/da9/ActionList_8hpp.html" title="Acts/Propagator/ActionList.hpp" alt="" coords="3577,641,3807,669"/>
+<area shape="rect" id="node48" href="$dc/def/VertexingError_8hpp.html" title="Acts/Vertexing/Vertexing\lError.hpp" alt="" coords="342,541,530,585"/>
+</map>

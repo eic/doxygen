@@ -1,0 +1,46 @@
+<map id="PHG4mRICHDetector::build_mRICH_wall_hside" name="PHG4mRICHDetector::build_mRICH_wall_hside">
+<area shape="rect" id="node2" href="$d9/deb/classPHG4mRICHDetector.html#a4d8d5a1cb76f341715d82d7f645b570c" title="PHG4mRICHDetector::\lConstruct_a_mRICH" alt="" coords="252,445,423,489"/>
+<area shape="rect" id="node3" href="$dd/dae/classPHParameters.html#a0241ca27a369ab4865ac3d79620ac27c" title="PHParameters::get_int\l_param" alt="" coords="485,113,657,157"/>
+<area shape="rect" id="node7" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="972,517,1193,545"/>
+<area shape="rect" id="node31" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="1053,633,1112,661"/>
+<area shape="rect" id="node44" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="315,873,359,901"/>
+<area shape="rect" id="node45" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="237,84,437,128"/>
+<area shape="rect" id="node5" href="$d9/deb/classPHG4mRICHDetector.html#a1461915abd39a2abb540ee1818ea3d98" title="PHG4mRICHDetector::\lbuild_holderBox" alt="" coords="486,317,657,361"/>
+<area shape="rect" id="node32" href="$d9/deb/classPHG4mRICHDetector.html#abd117510af3a285bdd3f8c2bbd74d9a8" title="PHG4mRICHDetector::\lbuild_aerogel" alt="" coords="486,249,657,293"/>
+<area shape="rect" id="node33" href="$d9/deb/classPHG4mRICHDetector.html#a69aa72ef790036c04b432ebbc3ed0cb8" title="PHG4mRICHDetector::\lbuild_sensor" alt="" coords="486,181,657,225"/>
+<area shape="rect" id="node37" href="$d9/deb/classPHG4mRICHDetector.html#a4e59dabbc71ed6e753658469b3e13607" title="PHG4mRICHDetector::\lbuild_foamHolder" alt="" coords="486,385,657,429"/>
+<area shape="rect" id="node38" href="$d9/deb/classPHG4mRICHDetector.html#a24f790735136a45608fc012003881217" title="PHG4mRICHDetector::\lbuild_polyhedra" alt="" coords="729,445,900,489"/>
+<area shape="rect" id="node39" href="$db/d8a/classPHG4mRICHDetector_1_1mRichParameter.html#ad9a72a2892bbaf126fa9b8acd6088b2d" title="PHG4mRICHDetector::\lmRichParameter::GetPolyPar" alt="" coords="707,513,923,557"/>
+<area shape="rect" id="node40" href="$d9/deb/classPHG4mRICHDetector.html#ae4318da7abe29f98bdd5f8c149eaf8d8" title="PHG4mRICHDetector::\lbuild_lens" alt="" coords="486,625,657,669"/>
+<area shape="rect" id="node42" href="$db/d8a/classPHG4mRICHDetector_1_1mRichParameter.html#a6cdf8a4d2b296262b14c81ed5e00b157" title="PHG4mRICHDetector::\lmRichParameter::GetLensPar" alt="" coords="705,753,924,797"/>
+<area shape="rect" id="node43" href="$d9/deb/classPHG4mRICHDetector.html#a20cf62072dfe2261698384ac5b0640e2" title="PHG4mRICHDetector::\lbuild_mirror" alt="" coords="486,505,657,549"/>
+<area shape="rect" id="node4" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="1355,5,1402,33"/>
+<area shape="rect" id="node6" href="$d9/deb/classPHG4mRICHDetector.html#af4080565a5cf2aec2ea903619535d924" title="PHG4mRICHDetector::\lbuild_box" alt="" coords="729,377,900,421"/>
+<area shape="rect" id="node8" href="$db/d8a/classPHG4mRICHDetector_1_1mRichParameter.html#a4373c4fcf3110f14b3e30b4fed410b8a" title="PHG4mRICHDetector::\lmRichParameter::GetBoxPar" alt="" coords="708,309,921,353"/>
+<area shape="rect" id="node9" href="$d1/d76/aerogel_8C.html#a56726089ae862a842963a7b0f01b5fc7" title="aerogel" alt="" coords="1047,297,1119,325"/>
+<area shape="rect" id="node10" href="$dd/d0b/classEicNamePatternHub.html#a4506ad43e31ae3c2ff6ff50604682715" title="EicNamePatternHub::\lAddPrefixMatch" alt="" coords="1297,229,1461,273"/>
+<area shape="rect" id="node11" href="$df/de0/classEicGeoParData.html#aa10ef8f4aec5aebc0c2c043524c9382e" title="EicGeoParData::AttachSourceFile" alt="" coords="1257,297,1500,325"/>
+<area shape="rect" id="node13" href="$df/de0/classEicGeoParData.html#a8342587c932c7003ea724dc479cbbd2f" title="EicGeoParData::Construct\lGeometry" alt="" coords="1281,349,1477,393"/>
+<area shape="rect" id="node14" href="$df/de0/classEicGeoParData.html#a5464c1947d87d36569891ada6aafb22c" title="EicGeoParData::FinalizeOutput" alt="" coords="1265,469,1493,497"/>
+<area shape="rect" id="node16" href="$df/de0/classEicGeoParData.html#a98e43e3d66fdb531cabaccd39f09ebc3" title="EicGeoParData::GetColorTable" alt="" coords="1574,341,1799,369"/>
+<area shape="rect" id="node23" href="$df/de0/classEicGeoParData.html#a75991633a97d0a9b3140ba103f225691" title="EicGeoParData::GetTransparency\lTable" alt="" coords="1564,581,1809,625"/>
+<area shape="rect" id="node25" href="$df/de0/classEicGeoParData.html#af50661ee10308b08071f9feb1b57493b" title="EicGeoParData::GetMedium" alt="" coords="1275,649,1483,677"/>
+<area shape="rect" id="node28" href="$df/de0/classEicGeoParData.html#a37c307a8b444e89fd125f6d273a1c894" title="EicGeoParData::GetTopVolume" alt="" coords="1265,57,1493,85"/>
+<area shape="rect" id="node29" href="$df/de0/classEicGeoParData.html#a04f15471e3c546dbf50727aa61098434" title="EicGeoParData::SetTestGeometryFlag" alt="" coords="1241,109,1516,137"/>
+<area shape="rect" id="node30" href="$df/de0/classEicGeoParData.html#ae993c5ff20194aa78ee7810d0e5ffa3a" title="EicGeoParData::SetTopVolume\lTransformation" alt="" coords="1265,161,1492,205"/>
+<area shape="rect" id="node12" href="$de/d53/classSourceFile.html#ae7fa8d10936a333a8ae1252f3ab00d3d" title="SourceFile::IsOk" alt="" coords="1622,289,1751,317"/>
+<area shape="rect" id="node15" href="$dd/d0b/classEicNamePatternHub.html#a8baac9dd7e44ee789555cb040763f903" title="EicNamePatternHub::\lAnyMatch" alt="" coords="1605,393,1769,437"/>
+<area shape="rect" id="node17" href="$df/de0/classEicGeoParData.html#a24162311dd8c038e330afbee7a132352" title="EicGeoParData::GetGeometry\lFileName" alt="" coords="1576,461,1797,505"/>
+<area shape="rect" id="node24" href="$d0/d2f/classEicDetName.html#aef29cb1ffe2ea071a03f4aa098408595" title="EicDetName::Name" alt="" coords="1610,529,1763,557"/>
+<area shape="rect" id="node18" href="$df/de0/classEicGeoParData.html#a7f5db7c4ddc258264f0258a6d8d946b6" title="EicGeoParData::GetGeometryType" alt="" coords="1857,365,2109,393"/>
+<area shape="rect" id="node19" href="$df/de0/classEicGeoParData.html#ae6acf5e5d790c629031c2d7cf12718ef" title="EicGeoParData::GetSubVersion" alt="" coords="1869,417,2098,445"/>
+<area shape="rect" id="node20" href="$df/de0/classEicGeoParData.html#a27907f2aba8817ceb2d97e1a29ecaf40" title="EicGeoParData::GetVersion" alt="" coords="1881,469,2085,497"/>
+<area shape="rect" id="node21" href="$df/de0/classEicGeoParData.html#a09fe5b3481f26b4a771cb7c476d64a1f" title="EicGeoParData::IsTestGeometry" alt="" coords="1866,521,2101,549"/>
+<area shape="rect" id="node22" href="$d0/d2f/classEicDetName.html#afac87377442f69796e0e335e81b96067" title="EicDetName::name" alt="" coords="1907,573,2059,601"/>
+<area shape="rect" id="node26" href="$de/d6a/classFairGeoBuilder.html#a852b0d5861a7a6c1033aab59417d1c79" title="FairGeoBuilder::createMedium" alt="" coords="1574,649,1799,677"/>
+<area shape="rect" id="node27" href="$d9/d1e/classFairGeoMedia.html#a0dc27e89d61b8ff40498a48e39b2a2c0" title="FairGeoMedia::getMedium" alt="" coords="1587,701,1786,729"/>
+<area shape="rect" id="node34" href="$db/d8a/classPHG4mRICHDetector_1_1mRichParameter.html#a6a894523bb3ee20ab28f59ae1496c256" title="PHG4mRICHDetector::\lmRichParameter::SetPar\l_glassWindow" alt="" coords="721,173,908,233"/>
+<area shape="rect" id="node36" href="$db/d8a/classPHG4mRICHDetector_1_1mRichParameter.html#adc8f0b8183b8cee5a9a3b8bf38e189ab" title="PHG4mRICHDetector::\lmRichParameter::SetPar\l_sensor" alt="" coords="721,89,908,149"/>
+<area shape="rect" id="node35" href="$d3/d9b/namespacenlohmann.html#a6ce645a0b8717757e096a5b5773b7a16" title="user&#45;defined to_string function for JSON values" alt="" coords="1004,148,1161,176"/>
+<area shape="rect" id="node41" href="$dc/db6/classPHG4mRICHDetector_1_1LensPar.html#a9299fdcfee54def0c74e4893463961f2" title="PHG4mRICHDetector::\lLensPar::GetSagita" alt="" coords="729,633,900,677"/>
+</map>

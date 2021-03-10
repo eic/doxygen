@@ -1,0 +1,11 @@
+<map id="Acts::Vertex::covariance" name="Acts::Vertex::covariance">
+<area shape="rect" id="node2" href="$d7/dd3/classPHActsVertexFitter.html#aefe1e3172dbd9dedad3a702a44ce1930" title="Update SvtxVertex or create new SvtxVertexMap." alt="" coords="259,5,434,49"/>
+<area shape="rect" id="node4" href="$d4/db7/classActs_1_1ImpactPointEstimator.html#ac2fc2a687b83bb9f8a42334e96707f91" title="Estimates the impact parameters and their errors of a given track w.r.t. a vertex by propagating the ..." alt="" coords="240,141,453,185"/>
+<area shape="rect" id="node6" href="$d1/d9d/classActs_1_1TrackDensityVertexFinder.html#ac893dd4ac1fe0e1a0ac212bff3f5b1d4" title="Function that finds single vertex candidate." alt="" coords="252,209,441,253"/>
+<area shape="rect" id="node8" href="$d5/d82/namespaceActs_1_1KalmanVertexUpdater.html#a574196fd01398cd48fe3a7bb9966a43a" title="Updates vertex position." alt="" coords="242,277,451,321"/>
+<area shape="rect" id="node10" href="$d7/dd3/classPHActsVertexFitter.html#a8b3cf108aee6a6bc7d2b6bb1c477c0c7" title="PHActsVertexFitter\l::updateSvtxVertex" alt="" coords="271,73,422,117"/>
+<area shape="rect" id="node3" href="$d7/dd3/classPHActsVertexFitter.html#abb773c2e41d071c64f6644e8628bb693" title="PHActsVertexFitter\l::process_event" alt="" coords="533,40,679,84"/>
+<area shape="rect" id="node5" href="$dd/d7e/namespaceActs_1_1Test.html#aab39ff6129dcd4c6915590344ddbd4cf" title="Unit test for impact parameter estimation." alt="" coords="512,141,700,185"/>
+<area shape="rect" id="node7" href="$dd/d7e/namespaceActs_1_1Test.html#a48a45f60260ea8fb89887e455698c791" title="Unit test for TrackDensityVertexFinder using same configuration and values as VertexSeedFinderTestAlg..." alt="" coords="512,209,700,253"/>
+<area shape="rect" id="node9" href="$d8/dd5/namespaceActs_1_1KalmanVertexUpdater_1_1detail.html#a636e9e73aaf549b3f32f1fc3a84d5b15" title="Adds or removes (depending on sign) tracks from vertex and updates the vertex." alt="" coords="501,277,711,321"/>
+</map>

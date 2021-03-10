@@ -1,0 +1,16 @@
+<map id="nBodyPhaseSpaceGen::calcEventKinematics" name="nBodyPhaseSpaceGen::calcEventKinematics">
+<area shape="rect" id="node2" href="$d5/d60/classlorentzVector.html#a6279dbb8641b48bce827658288f5ab16" title="lorentzVector::Boost" alt="" coords="248,135,407,163"/>
+<area shape="rect" id="node12" href="$d5/d60/classlorentzVector.html#a6c343ac86cef72ad5663d42e4f1953d3" title="lorentzVector::BoostVector" alt="" coords="227,187,428,215"/>
+<area shape="rect" id="node13" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="305,239,349,267"/>
+<area shape="rect" id="node14" href="$d8/df9/classnBodyPhaseSpaceGen.html#ad010cdfc8b42c69ef8a6f62a67e40d57" title="returns Lorentz vector of daughter at index" alt="" coords="241,291,414,335"/>
+<area shape="rect" id="node15" href="$d5/d60/classlorentzVector.html#a4ac10802841659cf2fe1041b2d8e4911" title="lorentzVector::SetPxPyPzE" alt="" coords="229,44,426,72"/>
+<area shape="rect" id="node3" href="$dc/dae/gamma_8F.html#a32168d135528557a384f114255d59f09" title="gamma" alt="" coords="529,109,601,137"/>
+<area shape="rect" id="node6" href="$db/dc5/classvector3.html#a0f76c359666e8284472e081d7ac015fe" title="vector3::Mag2" alt="" coords="505,57,624,85"/>
+<area shape="rect" id="node7" href="$d5/d60/classlorentzVector.html#afeb1dcb2b22d773620e996fd39a6334a" title="lorentzVector::SetXYZT" alt="" coords="476,5,653,33"/>
+<area shape="rect" id="node9" href="$db/dc5/classvector3.html#a2f950a0033df6363f1f1d85fd95de327" title="vector3::X" alt="" coords="519,161,610,189"/>
+<area shape="rect" id="node10" href="$db/dc5/classvector3.html#a1c17cd54f5769fd75812407f2aa4f6cd" title="vector3::Y" alt="" coords="519,213,610,241"/>
+<area shape="rect" id="node11" href="$db/dc5/classvector3.html#a634ddc883cd50c169e9bd19d3db08fb3" title="vector3::Z" alt="" coords="519,265,610,293"/>
+<area shape="rect" id="node4" href="$d4/d3e/classActs_1_1Logger.html#aee9e687247532b5175713e66b2d2121e" title="create output stream object with internal cache" alt="" coords="707,109,843,137"/>
+<area shape="rect" id="node5" href="$df/dce/classActs_1_1Logging_1_1OutputPrintPolicy.html#ab113823970013e1e7f310b36509136ac" title="handle output of debug message" alt="" coords="896,101,1097,145"/>
+<area shape="rect" id="node8" href="$db/dc5/classvector3.html#a158f9f9ec5be5aee81feab744221b95f" title="vector3::SetVector" alt="" coords="701,5,848,33"/>
+</map>

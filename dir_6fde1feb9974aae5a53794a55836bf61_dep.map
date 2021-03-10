@@ -1,0 +1,23 @@
+<map id="EicRoot/blob/master/eic/detectors" name="EicRoot/blob/master/eic/detectors">
+<area shape="rect" id="node2" href="dir_9cb0a0a3be4bf51378d7f6e306798063.html" title="calorimeter" alt="" coords="37,64,137,112"/>
+<area shape="rect" id="node9" href="dir_7b6b0bc72d953055a7cbc94d5743dfac.html" title="base" alt="" coords="325,256,397,304"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000084_000072.html" title="1" alt="" coords="305,253,313,269"/>
+<area shape="rect" id="node10" href="dir_2d0a22fc3d64413f0411be8224d05b48.html" title="calorimetry" alt="" coords="144,160,243,208"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000084_000082.html" title="7" alt="" coords="155,133,163,149"/>
+<area shape="rect" id="node3" href="dir_55ed912469f44e5c9b670e779c48c9d7.html" title="gem" alt="" coords="161,64,233,112"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000085_000072.html" title="1" alt="" coords="331,229,339,245"/>
+<area shape="rect" id="node4" href="dir_edecac4ff31f6ef10333eb188591437f.html" title="lqst" alt="" coords="257,64,329,112"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000086_000072.html" title="1" alt="" coords="351,228,359,244"/>
+<area shape="rect" id="node5" href="dir_a9a30c0640a5be849160b4aa43f53b42.html" title="maps" alt="" coords="353,64,425,112"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000087_000072.html" title="1" alt="" coords="372,231,380,247"/>
+<area shape="rect" id="node6" href="dir_49165e312b5ebda46999729591f6ecbb.html" title="mumegas" alt="" coords="450,64,539,112"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000088_000072.html" title="1" alt="" coords="391,238,399,254"/>
+<area shape="rect" id="node7" href="dir_2dfc73c7efac43d6b424b07886e9fdad.html" title="tpc" alt="" coords="564,64,636,112"/>
+<area shape="rect" id="node8" href="dir_60ce2de3776af41484e240ac1222fd38.html" title="tracking" alt="" coords="483,160,559,208"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000089_000097.html" title="2" alt="" coords="555,143,563,159"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000089_000072.html" title="2" alt="" coords="413,268,421,284"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000097_000072.html" title="4" alt="" coords="414,248,422,264"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000082_000072.html" title="4" alt="" coords="310,235,318,251"/>
+<area shape="rect" id="clust2" href="dir_6fde1feb9974aae5a53794a55836bf61.html" alt="" coords="27,53,756,123"/>
+<area shape="rect" id="clust1" href="dir_70f4613b00b569fe39d7fe313dca2944.html" title="eic" alt="" coords="16,16,767,133"/>
+</map>

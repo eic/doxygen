@@ -1,0 +1,7 @@
+<map id="SvtxTrack_v1::set_vertex_id" name="SvtxTrack_v1::set_vertex_id">
+<area shape="rect" id="node2" href="$d8/dd4/classPHHoughSeeding.html#a61550a59cd3a34af03c43572e28274cb" title="code to translate back to the SVTX universe" alt="" coords="269,5,461,49"/>
+<area shape="rect" id="node4" href="$d7/dd6/classPHSiliconTruthTrackSeeding.html#ac9ded997e4f8f07f2bd103e9fa294d27" title="PHSiliconTruthTrackSeeding\l::Process" alt="" coords="261,73,469,117"/>
+<area shape="rect" id="node5" href="$df/d76/classPHActsTrkProp.html#abbb60d027bda2a807cf8af9f0b84b558" title="Wipe and recreate the SvtxTrackMap with Acts output." alt="" coords="263,141,467,185"/>
+<area shape="rect" id="node3" href="$d8/dd4/classPHHoughSeeding.html#a8b2c7b85b2bcbe054e071dd6ff624f7d" title="PHHoughSeeding::Process" alt="" coords="517,13,716,41"/>
+<area shape="rect" id="node6" href="$df/d76/classPHActsTrkProp.html#ae274ea4fd9d52834cbbfd1c3aca72476" title="Process each event by calling the fitter." alt="" coords="528,149,705,177"/>
+</map>

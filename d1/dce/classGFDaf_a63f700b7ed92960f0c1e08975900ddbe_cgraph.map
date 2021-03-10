@@ -1,0 +1,7 @@
+<map id="GFDaf::initHitsWeights" name="GFDaf::initHitsWeights">
+<area shape="rect" id="node2" href="$d4/d33/classGFTrack.html#a736fa5128d9414c62a1e2f19390588d1" title="GFTrack::getHit" alt="" coords="257,5,383,33"/>
+<area shape="rect" id="node3" href="$d4/d33/classGFTrack.html#a2e0c5f5041ad2dd3a7924da83d8fc673" title="GFTrack::getHitsByPlane" alt="" coords="227,57,413,85"/>
+<area shape="rect" id="node6" href="$d4/d33/classGFTrack.html#a2d4439ad22338ef7d5c7351468b2859d" title="Get number of track represenatations." alt="" coords="235,109,405,137"/>
+<area shape="rect" id="node4" href="$df/dd5/classGFTrackCand.html#a1ae64a005180091a17081c597c45ddf1" title="GFTrackCand::getNHits" alt="" coords="736,59,913,87"/>
+<area shape="rect" id="node5" href="$df/dd5/classGFTrackCand.html#aa8668b5fc6d9e77c2a6d33b65b41dca9" title="Get detector ID and cluster index (hitId) for hit number i with plane id." alt="" coords="461,84,688,112"/>
+</map>

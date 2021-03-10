@@ -1,0 +1,50 @@
+<map id="Acts::EventDataVisualization::test" name="Acts::EventDataVisualization::test">
+<area shape="rect" id="node2" href="$d6/d1f/classFairPrimaryGenerator.html#a1066c04b726fde17ce36e3ee222963f9" title="FairPrimaryGenerator\l::AddTrack" alt="" coords="307,65,474,109"/>
+<area shape="rect" id="node6" href="$dd/d7e/namespaceActs_1_1Test.html#a5a84539087c6c7e240c51ba2ea668120" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="297,133,485,177"/>
+<area shape="rect" id="node7" href="$d3/d90/ScatteringTests_8cpp.html#a582e8cf6fe04ab6f1a3c04b0c1bf0477" title="BOOST_DATA_TEST_CASE" alt="" coords="294,201,487,229"/>
+<area shape="rect" id="node8" href="$d8/d3d/classActs_1_1BoundaryCheck.html#a0265350acbbf7cb98d9ee2f749545ea5" title="Calculate the closest point on the box." alt="" coords="271,253,511,313"/>
+<area shape="rect" id="node9" href="$d6/d1f/classFairPrimaryGenerator.html#ac3a74801cff593a1fac53dfefe4c33bd" title="FairPrimaryGenerator\l::GenerateEvent" alt="" coords="307,337,474,381"/>
+<area shape="rect" id="node11" href="$dd/d26/classPndTrackCand.html#ac712852a5839bf7abc93e176f87a8152" title="PndTrackCand::HitInTrack" alt="" coords="294,405,487,433"/>
+<area shape="rect" id="node13" href="$d9/dcc/classnlohmann_1_1basic__json.html#a9b12c96dd09ca71d260c74e34a42f045" title="applies a JSON patch" alt="" coords="307,457,475,501"/>
+<area shape="rect" id="node14" href="$da/d63/classGammagammasingle.html#a9cf1be8d40c025c568735482b7dbd4a6" title="Gammagammasingle::pp1" alt="" coords="290,525,491,553"/>
+<area shape="rect" id="node17" href="$da/d63/classGammagammasingle.html#ad485e8c9d604d53c81b7d0d76405f319" title="Gammagammasingle::pp2" alt="" coords="290,577,491,605"/>
+<area shape="rect" id="node18" href="$dd/d4d/classGammagammaleptonpair.html#a4f9a0b9b83fc1ad9c3a907258011e0e7" title="Gammagammaleptonpair\l::pp_1" alt="" coords="293,629,489,673"/>
+<area shape="rect" id="node21" href="$dd/d4d/classGammagammaleptonpair.html#a86aeb45b24774b583a14078e412c8c14" title="Gammagammaleptonpair\l::pp_2" alt="" coords="293,697,489,741"/>
+<area shape="rect" id="node22" href="$d0/d7f/classGammaavectormeson.html#a2c301be5c086ecb3951660fcc97abe9b" title="Gammaavectormeson::\lpTgamma" alt="" coords="301,765,480,809"/>
+<area shape="rect" id="node26" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#ac15febb870b714956a82582959b92004" title="PHMicromegasTpcTrackMatching\l::set_test_windows_printout" alt="" coords="269,833,512,877"/>
+<area shape="rect" id="node28" href="$d2/d71/classPHSiliconTpcTrackMatching.html#a53ae8580080c42b2395d810b5edebd23" title="PHSiliconTpcTrackMatching\l::set_test_windows_printout" alt="" coords="286,901,495,945"/>
+<area shape="rect" id="node29" href="$d4/d16/classG4LBLVtxDetector.html#a30e677d4af0b0455fd026513270a28b4" title="G4LBLVtxDetector::SetActive\lVolumes" alt="" coords="283,969,499,1013"/>
+<area shape="rect" id="node31" href="$d0/d86/classFairDbConnection.html#ae81828fb1608f58fe2fc780466819bae" title="FairDbConnection::TableExists" alt="" coords="278,1037,503,1065"/>
+<area shape="rect" id="node49" href="$d5/dca/classActs_1_1CylinderVolumeBuilder.html#a409648dafa2e4666a7385df2a76beffc" title="Acts::CylinderVolumeBuilder\l::trackingVolume" alt="" coords="283,1089,499,1133"/>
+<area shape="rect" id="node3" href="$d1/dda/classEicAsciiBoxGenerator.html#a896301ebac1ee54d2da932ecbe41dcbc" title="EicAsciiBoxGenerator\l::ReadEvent" alt="" coords="595,5,762,49"/>
+<area shape="rect" id="node4" href="$dd/ddf/classEicBoxGenerator.html#ad4d2ec9a223be7793b895812515f82e4" title="EicBoxGenerator::ReadEvent" alt="" coords="570,73,787,101"/>
+<area shape="rect" id="node5" href="$dd/df6/classEicEventGenerator.html#a40924445938964cff3db00bb4f59debe" title="EicEventGenerator::\lReadEvent" alt="" coords="601,125,757,169"/>
+<area shape="rect" id="node10" href="$d8/def/classFairMCApplication.html#ac5d6ec0eb105cedb5870d8febe788847" title="FairMCApplication::\lGeneratePrimaries" alt="" coords="603,337,754,381"/>
+<area shape="rect" id="node12" href="$dd/d26/classPndTrackCand.html#a23686193fc441853f2ec3d9a4db0e3fc" title="PndTrackCand::DeleteHit" alt="" coords="584,405,773,433"/>
+<area shape="rect" id="node15" href="$da/d63/classGammagammasingle.html#a36f52e829bd375f3956b6e49d53f1827" title="Gammagammasingle::parent\lMomentum" alt="" coords="569,540,789,584"/>
+<area shape="rect" id="node16" href="$da/d63/classGammagammasingle.html#a971760caf80a8cbc7c92d858b2d1574e" title="Gammagammasingle::produce\lEvent" alt="" coords="845,540,1076,584"/>
+<area shape="rect" id="node19" href="$dd/d4d/classGammagammaleptonpair.html#a7c58ad466cc63f6dbc6454513032af8d" title="Gammagammaleptonpair\l::pairMomentum" alt="" coords="581,631,777,675"/>
+<area shape="rect" id="node20" href="$dd/d4d/classGammagammaleptonpair.html#a56e4174b232806e9057424d7f424d2a0" title="Gammagammaleptonpair\l::produceEvent" alt="" coords="863,631,1059,675"/>
+<area shape="rect" id="node23" href="$d0/d7f/classGammaavectormeson.html#a40e4e31302338e06bdf300a4fbc1d3cf" title="Gammaavectormeson::\lmomenta" alt="" coords="589,765,768,809"/>
+<area shape="rect" id="node24" href="$d0/d7f/classGammaavectormeson.html#a986e27b6acd47e61c5b506b1f569aae2" title="Gammaavectormeson::\le_produceEvent" alt="" coords="871,707,1050,751"/>
+<area shape="rect" id="node25" href="$d0/d7f/classGammaavectormeson.html#a4b4237458bf54bfbedad2005b5fadad5" title="Gammaavectormeson::\lproduceEvent" alt="" coords="871,775,1050,819"/>
+<area shape="rect" id="node27" href="$da/d3c/G4__Tracking_8C.html#aa4a8fbf7fb6b81c8284e7f8029636428" title="Tracking_Reco" alt="" coords="619,875,738,903"/>
+<area shape="rect" id="node30" href="$d4/d16/classG4LBLVtxDetector.html#a277a0f000854a5ae480f15fd1e688306" title="construct" alt="" coords="560,977,797,1005"/>
+<area shape="rect" id="node32" href="$d4/d94/classFairDbMultConnector.html#aba6e4c35274a2c808df899c8fcded74f" title="FairDbMultConnector\l::GetTableDbNo" alt="" coords="597,1029,761,1073"/>
+<area shape="rect" id="node47" href="$d0/d86/classFairDbConnection.html#ad595ea63b0414d02c5f9661c6b961bfc" title="FairDbConnection::SetTable\lExists" alt="" coords="575,1097,782,1141"/>
+<area shape="rect" id="node33" href="$da/d7d/classFairDbSqlValPacket.html#a8506bc7856ad2e66c138871a0f128fed" title="FairDbSqlValPacket\l::SetMetaData" alt="" coords="1387,721,1537,765"/>
+<area shape="rect" id="node35" href="$d4/d94/classFairDbMultConnector.html#a59fdbb822f0b8008d3871140532adb73" title="FairDbMultConnector\l::TableExists" alt="" coords="879,1029,1043,1073"/>
+<area shape="rect" id="node34" href="$da/d7d/classFairDbSqlValPacket.html#a9da49c11fb9a8b2550fb5e064d31712f" title="FairDbSqlValPacket\l::Write" alt="" coords="1617,721,1767,765"/>
+<area shape="rect" id="node36" href="$d8/d4f/classFairDbTableProxyRegistry.html#a3bd0ea23f9b169e3c23d489ca9eb8b00" title="FairDbTableProxyRegistry\l::GetTableProxy" alt="" coords="1124,901,1316,945"/>
+<area shape="rect" id="node39" href="$da/d7d/classFairDbSqlValPacket.html#a1149f84f15b5507968a9823c73551898" title="FairDbSqlValPacket\l::Recreate" alt="" coords="1387,1029,1537,1073"/>
+<area shape="rect" id="node42" href="$d4/d94/classFairDbMultConnector.html#aefbbef9adc4b5855daed8608c7714d39" title="FairDbMultConnector\l::ReserveNextSeqNo" alt="" coords="1138,1093,1302,1137"/>
+<area shape="rect" id="node45" href="$d9/dbd/classFairDbProxy.html#a3b4a11d0f50c1a6b3100b481ac21f7ac" title="FairDbProxy::TableExists" alt="" coords="1128,1169,1312,1197"/>
+<area shape="rect" id="node37" href="$dd/de5/FairDbValRecSet_8cxx.html#a4c5884b8c057d4c7ce09cc21248b6e7b" title="ClassImp" alt="" coords="1421,789,1503,817"/>
+<area shape="rect" id="node38" href="$d8/d4f/classFairDbTableProxyRegistry.html#af9380885df266609c564b7ece417a65c" title="FairDbTableProxyRegistry\l::HasRowCounter" alt="" coords="1366,841,1558,885"/>
+<area shape="rect" id="node40" href="$dd/d9a/classFairDbLogEntry.html#a9cf66ea492ef1d2c81935010d18c4861" title="FairDbLogEntry::Write" alt="" coords="1608,1004,1776,1032"/>
+<area shape="rect" id="node41" href="$da/d7d/classFairDbSqlValPacket.html#ace0e450e5c1072154e620b61777002ea" title="FairDbSqlValPacket\l::Store" alt="" coords="1387,961,1537,1005"/>
+<area shape="rect" id="node43" href="$d4/d94/classFairDbMultConnector.html#af0021c236199216fa0c55a0e9b5b84e3" title="FairDbMultConnector\l::AllocateSeqNo" alt="" coords="1380,1097,1544,1141"/>
+<area shape="rect" id="node44" href="$db/da0/classFairDbConfigStream.html#a077fca72ebeec60897d6cf15fea5c9ec" title="FairDbConfigStream\l::Write" alt="" coords="1614,1097,1770,1141"/>
+<area shape="rect" id="node46" href="$de/d9f/classFairDbValidityRecBuilder.html#a6483cdcfcb9b720161a22f5eadbff227" title="FairDbValidityRecBuilder\l::FairDbValidityRecBuilder" alt="" coords="1364,1165,1560,1209"/>
+<area shape="rect" id="node48" href="$d4/d94/classFairDbMultConnector.html#aa8f8513a66937c87e8b9bb80e7fa83d3" title="FairDbMultConnector\l::CreateTemporaryTable" alt="" coords="870,1097,1051,1141"/>
+</map>

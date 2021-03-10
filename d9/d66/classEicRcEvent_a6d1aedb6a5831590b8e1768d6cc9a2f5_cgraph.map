@@ -1,0 +1,10 @@
+<map id="EicRcEvent::BeamHadron" name="EicRcEvent::BeamHadron">
+<area shape="rect" id="node2" href="$d6/dfb/classerhic_1_1EventMC.html#a007a40ee868326fb7f2bd60071517899" title="erhic::EventMC::BeamHadron" alt="" coords="247,5,467,33"/>
+<area shape="rect" id="node4" href="$d9/d66/classEicRcEvent.html#a1e6ae9b19f89f6119a67ffbf9acf9907" title="EicRcEvent::GetGenMcEvent" alt="" coords="249,57,465,85"/>
+<area shape="rect" id="node3" href="$d6/dfb/classerhic_1_1EventMC.html#a45bb79e814c5c5b62a9ba6a3e8929bd1" title="erhic::EventMC::GetTrack" alt="" coords="523,5,715,33"/>
+<area shape="rect" id="node5" href="$de/de2/classEicRootManager.html#a6b41c4d5fe81d4f2d5d6a038e0cc77d2" title="EicRootManager::Instance" alt="" coords="793,57,989,85"/>
+<area shape="rect" id="node6" href="$de/de2/classEicRootManager.html#a634e3cd438ca330c8d1836ff6bbcc651" title="EicRootManager::GetGenMc\lEvent" alt="" coords="515,109,724,153"/>
+<area shape="rect" id="node7" href="$de/de2/classEicRootManager.html#afb6c323e38be0d8b4918268d300a23f4" title="EicRootManager::GetGenerator\lEventPtr" alt="" coords="775,109,1008,153"/>
+<area shape="rect" id="node8" href="$de/de2/classEicRootManager.html#a44f91c2cf1dde2979013d012aada841b" title="EicRootManager::Synchronize\lBranch" alt="" coords="781,177,1002,221"/>
+<area shape="rect" id="node9" href="$de/de2/classEicRootManager.html#a134d9299cf238baa39645fd282f65adf" title="EicRootManager::GetGenBranch" alt="" coords="772,245,1011,273"/>
+</map>

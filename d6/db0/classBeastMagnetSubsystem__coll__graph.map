@@ -1,0 +1,20 @@
+<map id="BeastMagnetSubsystem" name="BeastMagnetSubsystem">
+<area shape="rect" id="node2" href="$d5/d29/classPHG4DetectorSubsystem.html" title="PHG4DetectorSubsystem" alt="" coords="2052,436,2244,464"/>
+<area shape="rect" id="node3" href="$db/df7/classPHG4Subsystem.html" title="PHG4Subsystem" alt="" coords="1241,595,1375,623"/>
+<area shape="rect" id="node20" href="$d3/de7/classPHG4Detector.html" title="base class for phenix detector creation" alt="" coords="1661,797,1778,825"/>
+<area shape="rect" id="node4" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="867,575,969,603"/>
+<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="461,545,565,573"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="197,545,287,573"/>
+<area shape="rect" id="node10" href="$dd/dae/classPHParameters.html" title="PHParameters" alt="" coords="860,265,976,293"/>
+<area shape="rect" id="node14" href="$d7/d6b/classPHParametersContainer.html" title="PHParametersContainer" alt="" coords="1628,77,1811,105"/>
+<area shape="rect" id="node17" href="$dc/d82/classPHNode.html" title="PHNode" alt="" coords="476,755,551,783"/>
+<area shape="rect" id="node19" href="$d4/d6b/classBeastMagnetDetector.html" title="BeastMagnetDetector" alt="" coords="2063,836,2233,864"/>
+<area shape="rect" id="node23" href="$d2/d44/classPHG4DisplayAction.html" title="PHG4DisplayAction" alt="" coords="1233,1013,1383,1041"/>
+<area shape="rect" id="node26" href="$df/d3f/classPHG4SteppingAction.html" title="PHG4SteppingAction" alt="" coords="837,647,999,675"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="5,537,148,581"/>
+<area shape="rect" id="node11" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="471,5,555,33"/>
+<area shape="rect" id="node12" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="204,5,280,33"/>
+<area shape="rect" id="node16" href="$d5/dca/classPHCompositeNode.html" title="PHCompositeNode" alt="" coords="1235,739,1381,767"/>
+<area shape="rect" id="node18" href="$d6/d86/classPHPointerList.html" title="PHPointerList\&lt; PHNode \&gt;" alt="" coords="821,752,1015,780"/>
+<area shape="rect" id="node22" href="$d8/dd8/classBeastMagnetDisplayAction.html" title="BeastMagnetDisplayAction" alt="" coords="1619,961,1820,989"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="FairBoxSetDraw::Exec" name="FairBoxSetDraw::Exec">
+<area shape="rect" id="node2" href="$d2/d33/classFairBoxSetDraw.html#aac4c1894db0542a95b84cfb785a17a40" title="FairBoxSetDraw::AddBoxes" alt="" coords="240,57,443,85"/>
+<area shape="rect" id="node5" href="$d2/d33/classFairBoxSetDraw.html#a489f55ff73628b611680824d7bb15a05" title="FairBoxSetDraw::CreateBoxSet" alt="" coords="227,109,455,137"/>
+<area shape="rect" id="node6" href="$d0/d6c/classFairRootManager.html#a866904382a4aa449257d4f4531f77be5" title="FairRootManager::GetData" alt="" coords="242,161,441,189"/>
+<area shape="rect" id="node8" href="$d0/d6c/classFairRootManager.html#aedea03022a9e11738111a3e24caf18ce" title="FairRootManager::GetEventTime" alt="" coords="221,213,461,241"/>
+<area shape="rect" id="node23" href="$de/da9/classFairRunAna.html#a4de7f08c87479bf21bc2c3f267a72a19" title="FairRunAna::Instance" alt="" coords="259,265,423,293"/>
+<area shape="rect" id="node24" href="$d0/d6c/classFairRootManager.html#a830b7803b29e7424a75f2dc374dcc96b" title="FairRootManager::Instance" alt="" coords="241,317,442,345"/>
+<area shape="rect" id="node25" href="$d2/d33/classFairBoxSetDraw.html#ad94d1c52d6fe6b8112601c9d9af88756" title="FairBoxSetDraw::Reset" alt="" coords="254,369,429,397"/>
+<area shape="rect" id="node3" href="$d2/d33/classFairBoxSetDraw.html#a86dd3125da4f2fd3455ec0e2bd33188e" title="FairBoxSetDraw::GetValue" alt="" coords="529,5,727,33"/>
+<area shape="rect" id="node4" href="$d2/d33/classFairBoxSetDraw.html#a6cf004fea97f5e17adf69c1d023a7bfa" title="FairBoxSetDraw::GetVector" alt="" coords="526,57,730,85"/>
+<area shape="rect" id="node7" href="$d0/d6c/classFairRootManager.html#a9d9e9f178be5c153ca87a18339e8d940" title="FairRootManager::GetInTree" alt="" coords="524,109,732,137"/>
+<area shape="rect" id="node9" href="$db/da1/classFairLogger.html#a710e562aaff33766e424013a77d9cb77" title="FairLogger::Debug" alt="" coords="795,240,939,268"/>
+<area shape="rect" id="node20" href="$dd/db6/classFairEventHeader.html#ab79ac7c0aff96d9c3fb204deac019ae3" title="FairEventHeader::GetEventTime" alt="" coords="509,213,747,241"/>
+<area shape="rect" id="node21" href="$dd/d8f/classFairMCEventHeader.html#a9763f0fb245016ac1114f1c5578b720e" title="vertex z [cm]" alt="" coords="530,265,726,293"/>
+<area shape="rect" id="node22" href="$d0/d6c/classFairRootManager.html#a97f9c9fff35688db5f035f124cca0742" title="FairRootManager::SetEventTime" alt="" coords="509,317,747,345"/>
+<area shape="rect" id="node10" href="$db/da1/classFairLogger.html#ae5a926d95789678b453cbb45e0a9a46e" title="FairLogger::IsLogNeeded" alt="" coords="987,213,1173,241"/>
+<area shape="rect" id="node11" href="$db/da1/classFairLogger.html#aa9d98b58fab95abcf553dfefe1e572f5" title="FairLogger::Log" alt="" coords="1018,265,1142,293"/>
+<area shape="rect" id="node12" href="$db/da1/classFairLogger.html#a5529c6ab25bc075aff767f30a743e616" title="FairLogger::OpenLogFile" alt="" coords="1506,213,1689,241"/>
+<area shape="rect" id="node14" href="$db/da1/classFairLogger.html#aeb76e4a75fe913ebdf1c07b5d1f3ac1b" title="FairLogger::GetOutputStream" alt="" coords="1221,265,1441,293"/>
+<area shape="rect" id="node17" href="$db/da1/classFairLogger.html#a496d9b3f72963d24a58abc5a023b74b0" title="End of the line." alt="" coords="1267,317,1396,345"/>
+<area shape="rect" id="node13" href="$db/da1/classFairLogger.html#a80d1ac93eff9a9b6d52f8118b8b796aa" title="FairLogger::CloseLogFile" alt="" coords="1753,213,1937,241"/>
+<area shape="rect" id="node15" href="$db/da1/classFairLogger.html#a6fe59f109418f1331c91c39d0ea33c1d" title="FairLogger::GetTime" alt="" coords="1767,279,1924,307"/>
+<area shape="rect" id="node16" href="$df/da1/namespaceActs_1_1VectorHelpers.html#ab52a0c8023eda1c81cc9ddfe7f03b535" title="Access to the time component of input parameter." alt="" coords="1985,271,2140,315"/>
+<area shape="rect" id="node18" href="$db/da1/classFairLogger.html#aca7a4fd0af5e622c9635f62996a7334d" title="Flush the streams." alt="" coords="1779,356,1912,384"/>
+<area shape="rect" id="node19" href="$db/da1/classFairLogger.html#a9848989e18afa7144b47ecc38b7bfe0e" title="FairLogger::LogFatalMessage" alt="" coords="1489,317,1705,345"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="fun4all_acts/blob/master/Plugins/Json/include/Acts/Plugins/Json/JsonGeometryConverter.hpp" name="fun4all_acts/blob/master/Plugins/Json/include/Acts/Plugins/Json/JsonGeometryConverter.hpp">
+<area shape="rect" id="node2" href="$df/d37/TrackingVolume_8hpp.html" title="Acts/Geometry/TrackingVolume.hpp" alt="" coords="2584,113,2848,141"/>
+<area shape="rect" id="node16" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="3677,601,3891,629"/>
+<area shape="rect" id="node27" href="$d2/d0a/BinUtility_8hpp.html" title="Acts/Utilities/BinUtility.hpp" alt="" coords="2238,373,2439,401"/>
+<area shape="rect" id="node31" href="$d0/d2e/IVolumeMaterial_8hpp.html" title="Acts/Material/IVolumeMaterial.hpp" alt="" coords="1339,197,1594,225"/>
+<area shape="rect" id="node33" href="$d8/ddd/Surface_8hpp.html" title="Acts/Surfaces/Surface.hpp" alt="" coords="3517,197,3717,225"/>
+<area shape="rect" id="node38" href="$dd/d24/TrackingGeometry_8hpp.html" title="Acts/Geometry/TrackingGeometry.hpp" alt="" coords="1569,373,1847,401"/>
+<area shape="rect" id="node39" href="$da/dd4/ISurfaceMaterial_8hpp.html" title="Acts/Material/ISurfaceMaterial.hpp" alt="" coords="1137,373,1391,401"/>
+<area shape="rect" id="node40" href="$d2/ddb/MaterialProperties_8hpp.html" title="Acts/Material/MaterialProperties.hpp" alt="" coords="481,449,749,477"/>
+<area shape="rect" id="node41" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="219,449,405,477"/>
+<area shape="rect" id="node46" href="$d5/db8/json_8hpp.html" title="nlohmann/json.hpp" alt="" coords="1189,449,1341,477"/>
+<area shape="rect" id="node6" href="$d4/d5f/BoundarySurfaceT_8hpp.html" title="Acts/Geometry/BoundarySurface\lT.hpp" alt="" coords="2822,189,3066,233"/>
+<area shape="rect" id="node8" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="2931,449,3208,477"/>
+<area shape="rect" id="node9" href="$d6/d0f/Volume_8hpp.html" title="Acts/Geometry/Volume.hpp" alt="" coords="3184,289,3392,317"/>
+<area shape="rect" id="node11" href="$d3/d69/GeometryID_8hpp.html" title="Acts/Geometry/GeometryID.hpp" alt="" coords="875,449,1114,477"/>
+<area shape="rect" id="node14" href="$d7/d50/BoundaryCheck_8hpp.html" title="Acts/Surfaces/BoundaryCheck.hpp" alt="" coords="3027,525,3283,553"/>
+<area shape="rect" id="node21" href="$d9/db6/BoundingBox_8hpp.html" title="Acts/Utilities/BoundingBox.hpp" alt="" coords="3233,449,3463,477"/>
+<area shape="rect" id="node24" href="$de/da5/Frustum_8hpp.html" title="Acts/Utilities/Frustum.hpp" alt="" coords="3525,525,3721,553"/>
+<area shape="rect" id="node25" href="$d4/db2/Ray_8hpp.html" title="Acts/Utilities/Ray.hpp" alt="" coords="3898,525,4062,553"/>
+<area shape="rect" id="node26" href="$d5/d50/BinnedArray_8hpp.html" title="Acts/Utilities/BinnedArray.hpp" alt="" coords="2583,289,2806,317"/>
+<area shape="rect" id="node29" href="$d2/d3b/Layer_8hpp.html" title="Acts/Geometry/Layer.hpp" alt="" coords="3090,197,3283,225"/>
+<area shape="rect" id="node37" href="$d3/d94/TrackingVolume_8ipp.html" title="detail/TrackingVolume.ipp" alt="" coords="2550,197,2746,225"/>
+<area shape="rect" id="node10" href="$da/de0/GeometryObject_8hpp.html" title="Acts/Geometry/GeometryObject.hpp" alt="" coords="3033,373,3301,401"/>
+<area shape="rect" id="node20" href="$d5/dc6/GeometryStatics_8hpp.html" title="Acts/Geometry/GeometryStatics.hpp" alt="" coords="3681,373,3951,401"/>
+<area shape="rect" id="node13" href="$db/d40/Polyhedron_8hpp.html" title="Acts/Geometry/Polyhedron.hpp" alt="" coords="3487,449,3721,477"/>
+<area shape="rect" id="node19" href="$de/d09/BinningType_8hpp.html" title="Acts/Utilities/BinningType.hpp" alt="" coords="1827,525,2051,553"/>
+<area shape="rect" id="node28" href="$d3/d5e/BinningData_8hpp.html" title="Acts/Utilities/BinningData.hpp" alt="" coords="2226,449,2451,477"/>
+<area shape="rect" id="node30" href="$db/d8d/Intersection_8hpp.html" title="Acts/Utilities/Intersection.hpp" alt="" coords="3669,289,3891,317"/>
+<area shape="rect" id="node32" href="$d0/d70/Material_8hpp.html" title="Acts/Material/Material.hpp" alt="" coords="581,525,781,553"/>
+<area shape="rect" id="node34" href="$dc/d45/DetectorElementBase_8hpp.html" title="Acts/Geometry/DetectorElement\lBase.hpp" alt="" coords="4067,281,4309,325"/>
+<area shape="rect" id="node35" href="$da/ddb/SurfaceBounds_8hpp.html" title="Acts/Surfaces/SurfaceBounds.hpp" alt="" coords="3999,449,4249,477"/>
+<area shape="rect" id="node36" href="$dd/d76/Surface_8ipp.html" title="Acts/Surfaces/detail\l/Surface.ipp" alt="" coords="4334,281,4490,325"/>
+</map>

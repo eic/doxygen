@@ -1,0 +1,19 @@
+<map id="FairDbResult::GetValidityRecGlobal" name="FairDbResult::GetValidityRecGlobal">
+<area shape="rect" id="node2" href="$d2/d4a/classFairDbCache.html#a667e4ccf67f91abdcd51a101c36a656d" title="FairDbCache::Adopt" alt="" coords="558,39,714,67"/>
+<area shape="rect" id="node6" href="$d5/d57/classFairDbResult.html#ac1d0210fba473040fc242d5fdafcdae4" title="FairDbResult::GetValidityRec" alt="" coords="256,223,469,251"/>
+<area shape="rect" id="node17" href="$de/d35/classFairDbResultAgg.html#a4e55598913f6dfbe8d24a4f85c422664" title="FairDbResultAgg::GetValidityRec" alt="" coords="243,275,483,303"/>
+<area shape="rect" id="node18" href="$de/d35/classFairDbResultAgg.html#a43143fc71872db16e7d1e13be4138781" title="FairDbResultAgg::Streamer" alt="" coords="261,327,465,355"/>
+<area shape="rect" id="node3" href="$da/dcf/classFairDbTableProxy.html#ad75a08a4e139462af72af1d3be9fd908" title="FairDbTableProxy::Query" alt="" coords="1032,5,1217,33"/>
+<area shape="rect" id="node5" href="$da/dcf/classFairDbTableProxy.html#a1acf2c61ce1e9b66caf0dd55f199363f" title="FairDbTableProxy::Restore\lFromL2Cache" alt="" coords="789,27,984,71"/>
+<area shape="rect" id="node4" href="$da/dcf/classFairDbTableProxy.html#a41685c7dbef8d48174f4483235bab4f9" title="FairDbTableProxy::Query" alt="" coords="1265,5,1451,33"/>
+<area shape="rect" id="node7" href="$d5/d57/classFairDbResult.html#a88dcb74bdf26184ce3f4688413742736" title="FairDbResult::BuildLookUp\lTable" alt="" coords="537,103,735,147"/>
+<area shape="rect" id="node10" href="$d5/d57/classFairDbResult.html#aaea31525c2ff8545657790bc87af68ff" title="FairDbResult::CanDelete" alt="" coords="543,171,729,199"/>
+<area shape="rect" id="node11" href="$d2/d4a/classFairDbCache.html#a23be190ddc5ea12118c017cdc33d23da" title="FairDbCache::Purge" alt="" coords="810,231,963,259"/>
+<area shape="rect" id="node12" href="$de/d35/classFairDbResultAgg.html#a44feb7b3a24860ed9b9b0d6eee2ecff5" title="FairDbResultAgg::CreateKey" alt="" coords="531,275,741,303"/>
+<area shape="rect" id="node13" href="$d0/dfc/classFairDbResultNonAgg.html#ae4f54e57e131102cb5be29c41749a73f" title="FairDbResultNonAgg\l::CreateKey" alt="" coords="557,327,715,371"/>
+<area shape="rect" id="node14" href="$d5/d57/classFairDbResult.html#acdc21ff31bf14eeaf2b4419605aaf626" title="FairDbResult::Satisfies" alt="" coords="550,395,722,423"/>
+<area shape="rect" id="node16" href="$d0/dfc/classFairDbResultNonAgg.html#a3e1e76ffc31fcf80b4f2210d8076ced6" title="FairDbResultNonAgg\l::Satisfies" alt="" coords="557,447,715,491"/>
+<area shape="rect" id="node8" href="$d0/dfc/classFairDbResultNonAgg.html#a5ad57113fbd35d8428ac1a15c613b65d" title="FairDbResultNonAgg\l::GetTableRowByIndex" alt="" coords="801,95,973,139"/>
+<area shape="rect" id="node9" href="$d0/dfc/classFairDbResultNonAgg.html#a438e095d44a4161e554b45a3ff845489" title="FairDbResultNonAgg\l::Streamer" alt="" coords="807,163,966,207"/>
+<area shape="rect" id="node15" href="$d2/d4a/classFairDbCache.html#ad679b800df8f04bd925fe0ecd1784639" title="Secondary search." alt="" coords="806,395,967,423"/>
+</map>

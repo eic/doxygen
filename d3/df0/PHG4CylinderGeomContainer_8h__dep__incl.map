@@ -1,0 +1,37 @@
+<map id="fun4all_coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4CylinderGeomContainer.h" name="fun4all_coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4CylinderGeomContainer.h">
+<area shape="rect" id="node2" href="$d2/da5/InttClusterizer_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/intt/InttClusterizer.cc" alt="" coords="5,137,241,197"/>
+<area shape="rect" id="node3" href="$d6/d5e/MicromegasClusterizer_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/micromegas/Micromegas\lClusterizer.cc" alt="" coords="265,129,531,205"/>
+<area shape="rect" id="node4" href="$df/db4/MvtxClusterizer_8cc.html" title="Implementation of MvtxClusterizer." alt="" coords="555,137,812,197"/>
+<area shape="rect" id="node5" href="$d2/ddb/DumpPHG4CylinderGeomContainer_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/NodeDump/DumpPHG4Cylinder\lGeomContainer.cc" alt="" coords="836,129,1147,205"/>
+<area shape="rect" id="node6" href="$d4/df1/MakeActsGeometry_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/MakeActs\lGeometry.cc" alt="" coords="1171,129,1399,205"/>
+<area shape="rect" id="node7" href="$dd/d34/PHActsSiliconSeeding_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsSilicon\lSeeding.cc" alt="" coords="1423,129,1677,205"/>
+<area shape="rect" id="node8" href="$d8/d22/PHActsSourceLinks_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsSource\lLinks.cc" alt="" coords="1701,129,1957,205"/>
+<area shape="rect" id="node9" href="$d8/df7/PHCASeeding_8cc.html" title="Track seeding using ALICE&#45;style &quot;cellular automaton&quot; (CA) algorithm ." alt="" coords="1981,137,2255,197"/>
+<area shape="rect" id="node10" href="$d0/d52/PHGenFitTrkFitter_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHGenFit\lTrkFitter.cc" alt="" coords="2279,129,2504,205"/>
+<area shape="rect" id="node11" href="$da/d80/PHGenFitTrkProp_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHGenFit\lTrkProp.cc" alt="" coords="2528,129,2753,205"/>
+<area shape="rect" id="node12" href="$d8/dbe/PHHoughSeeding_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHHoughSeeding.cc" alt="" coords="2777,137,3077,197"/>
+<area shape="rect" id="node13" href="$d9/dab/PHHybridSeeding_8cc.html" title="Track Seeding using STAR &quot;CA&quot; algorithm and ALICE simplified Kalman filter ." alt="" coords="3101,129,3327,205"/>
+<area shape="rect" id="node14" href="$d8/dda/PHInitZVertexing_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHInitZVertexing.cc" alt="" coords="3351,137,3645,197"/>
+<area shape="rect" id="node15" href="$d4/d68/PHPatternReco_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHPattern\lReco.cc" alt="" coords="3670,129,3899,205"/>
+<area shape="rect" id="node16" href="$d7/d3c/PHRTreeSeeding_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHRTreeSeeding.cc" alt="" coords="3924,137,4216,197"/>
+<area shape="rect" id="node17" href="$db/df7/PHTruthClustering_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHTruthClustering.cc" alt="" coords="4240,137,4543,197"/>
+<area shape="rect" id="node18" href="$d3/da0/QAG4SimulationIntt_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/QA/modules/QAG4SimulationIntt.cc" alt="" coords="4567,137,4834,197"/>
+<area shape="rect" id="node19" href="$dc/d43/QAG4SimulationMvtx_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/QA/modules/QAG4SimulationMvtx.cc" alt="" coords="4859,137,5135,197"/>
+<area shape="rect" id="node20" href="$dd/da5/PHG4CylinderCellReco_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/PHG4CylinderCellReco.cc" alt="" coords="5159,129,5360,205"/>
+<area shape="rect" id="node21" href="$dd/de6/PHG4CylinderGeomContainer_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/PHG4CylinderGeomContainer.cc" alt="" coords="5384,129,5628,205"/>
+<area shape="rect" id="node22" href="$df/df1/PHG4CylinderSubsystem_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/PHG4CylinderSubsystem.cc" alt="" coords="5653,129,5866,205"/>
+<area shape="rect" id="node23" href="$d4/de2/PHG4FullProjSpacalCellReco_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/PHG4FullProjSpacalCellReco.cc" alt="" coords="5890,129,6125,205"/>
+<area shape="rect" id="node24" href="$de/d17/PHG4GenHit_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/PHG4GenHit.cc" alt="" coords="6149,129,6351,205"/>
+<area shape="rect" id="node25" href="$dc/dde/PHG4HcalDetector_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/PHG4HcalDetector.cc" alt="" coords="6375,129,6576,205"/>
+<area shape="rect" id="node26" href="$de/d62/PHG4SpacalDetector_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/PHG4SpacalDetector.cc" alt="" coords="6600,129,6801,205"/>
+<area shape="rect" id="node27" href="$dc/ddc/SvtxTruthEval_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4eval/SvtxTruth\lEval.cc" alt="" coords="6825,129,7059,205"/>
+<area shape="rect" id="node28" href="$d3/d3e/PHG4InttDetector_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4intt/PHG4InttDetector.cc" alt="" coords="7083,137,7383,197"/>
+<area shape="rect" id="node29" href="$db/d59/PHG4InttDigitizer_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4intt/PHG4InttDigitizer.cc" alt="" coords="7407,137,7706,197"/>
+<area shape="rect" id="node30" href="$d3/da0/PHG4InttHitReco_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4intt/PHG4InttHit\lReco.cc" alt="" coords="7731,129,7975,205"/>
+<area shape="rect" id="node31" href="$d5/de3/PHG4MicromegasDetector_8cc.html" title="strongly inspired by code from Qinhua Huang qinhua.huang@cea.fr" alt="" coords="7999,129,8221,205"/>
+<area shape="rect" id="node32" href="$d0/dde/PHG4MicromegasHitReco_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4micromegas\l/PHG4MicromegasHitReco.cc" alt="" coords="8245,129,8465,205"/>
+<area shape="rect" id="node33" href="$dc/df5/PHG4EICMvtxDetector_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4mvtx/PHG4EICMvtx\lDetector.cc" alt="" coords="8489,129,8757,205"/>
+<area shape="rect" id="node34" href="$da/dc7/PHG4MvtxDetector_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4mvtx/PHG4MvtxDetector.cc" alt="" coords="8781,137,9103,197"/>
+<area shape="rect" id="node35" href="$d9/d72/PHG4MvtxDigitizer_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4mvtx/PHG4MvtxDigitizer.cc" alt="" coords="9127,137,9447,197"/>
+<area shape="rect" id="node36" href="$d9/d0d/PHG4MvtxHitReco_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4mvtx/PHG4MvtxHit\lReco.cc" alt="" coords="9472,129,9737,205"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="beamBeamSystem::init" name="beamBeamSystem::init">
+<area shape="rect" id="node2" href="$d1/d21/classbeamBeamSystem.html#a1dc49bf0e642c7f195bab61365a8d68e" title="beamBeamSystem::generate\lBreakupProbabilities" alt="" coords="239,183,458,227"/>
+<area shape="rect" id="node14" href="$d0/d21/classbeam.html#a9d2e4ef158a5402a9df1f1e3b8b437dc" title="beam::setBeamLorentzGamma" alt="" coords="233,280,464,308"/>
+<area shape="rect" id="node3" href="$d4/d51/classnucleus.html#afb4d4a7f776a88c10fa0ff433e74463e" title="returns nucleon number of nucleus" alt="" coords="837,165,929,193"/>
+<area shape="rect" id="node4" href="$d4/d51/classnucleus.html#a31aecce251b8d61c0e36b46ccd3730d7" title="nucleus::nuclearRadius" alt="" coords="794,220,973,248"/>
+<area shape="rect" id="node5" href="$d1/d21/classbeamBeamSystem.html#a608ec29ae532e4b2028c43efa31fe8a9" title="beamBeamSystem::probability\lOfHadronBreakup" alt="" coords="512,268,743,312"/>
+<area shape="rect" id="node9" href="$d1/d21/classbeamBeamSystem.html#a7e979186bb6eb7215364a3b4f62d8367" title="beamBeamSystem::probability\lOfPhotonBreakup" alt="" coords="512,47,743,91"/>
+<area shape="rect" id="node10" href="$d4/d51/classnucleus.html#acd58b7873e7d2d42bbc31414e373b89d" title="returns atomic number of nucleus" alt="" coords="837,111,929,139"/>
+<area shape="rect" id="node6" href="$dc/dae/gamma_8F.html#a32168d135528557a384f114255d59f09" title="gamma" alt="" coords="847,305,919,333"/>
+<area shape="rect" id="node7" href="$d4/d3e/classActs_1_1Logger.html#aee9e687247532b5175713e66b2d2121e" title="create output stream object with internal cache" alt="" coords="1024,305,1160,333"/>
+<area shape="rect" id="node8" href="$df/dce/classActs_1_1Logging_1_1OutputPrintPolicy.html#ab113823970013e1e7f310b36509136ac" title="handle output of debug message" alt="" coords="1208,297,1409,341"/>
+<area shape="rect" id="node11" href="$df/da1/namespaceActs_1_1VectorHelpers.html#afc1703c2fa7adfd6517e5e16df2e5df4" title="Acts::VectorHelpers::eta" alt="" coords="791,5,976,33"/>
+<area shape="rect" id="node12" href="$d7/d46/namespacebessel.html#a6d6aa0ba08c052cec22f87399b0c27b1" title="bessel::dbesk1" alt="" coords="822,57,945,85"/>
+<area shape="rect" id="node13" href="$d7/d46/namespacebessel.html#a7c6ce9404b6a5c90e4d2b3b3afe8b8e7" title="bessel::besI1" alt="" coords="1037,57,1147,85"/>
+</map>

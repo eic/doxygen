@@ -1,0 +1,12 @@
+<map id="EicDetector::Initialize" name="EicDetector::Initialize">
+<area shape="rect" id="node2" href="$df/de0/classEicGeoParData.html#a62cbc29bf5f077a47e7ec875b48a40a1" title="EicGeoParData::Calculate\lMappingTableSignatures" alt="" coords="217,73,411,117"/>
+<area shape="rect" id="node6" href="$d6/d0c/classFairDetector.html#a859532cf1d8fcbe2db31826e25372c2c" title="FairDetector::Initialize" alt="" coords="229,219,399,247"/>
+<area shape="rect" id="node3" href="$da/d86/classEicGeoMap.html#a00d1166a3a1aaa81fb5c95bb02775f5b" title="EicGeoMap::CalculateMapping\lTableSignature" alt="" coords="459,5,685,49"/>
+<area shape="rect" id="node5" href="$da/d86/classEicGeoMap.html#a2e3122827d74a9df01ad364f704a6038" title="EicGeoMap::GetGeantVolume\lLevelNum" alt="" coords="461,73,683,117"/>
+<area shape="rect" id="node4" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="733,13,792,41"/>
+<area shape="rect" id="node7" href="$d6/d90/classFairVolume.html#aa3fa5d155842236a8b6dda499ab44fbd" title="FairVolume::getModId" alt="" coords="488,141,656,169"/>
+<area shape="rect" id="node8" href="$d4/d06/classFairModule.html#a29b9c241655dbfef0cd639acb4b6f2ca" title="FairModule::GetModId" alt="" coords="488,193,656,221"/>
+<area shape="rect" id="node9" href="$d6/d90/classFairVolume.html#a786f21eeacd40c8e7151d0c5dba53329" title="FairVolume::setMCid" alt="" coords="493,245,651,273"/>
+<area shape="rect" id="node10" href="$d6/d90/classFairVolume.html#ab9cf447676a01a327b43356dda69f6ab" title="FairVolume::getGeoNode" alt="" coords="477,297,667,325"/>
+<area shape="rect" id="node11" href="$d2/d0a/classFairGeoVolume.html#a2ad9c938992b0dfe05796289057ece91" title="FairGeoVolume::setMCid" alt="" coords="479,349,665,377"/>
+</map>

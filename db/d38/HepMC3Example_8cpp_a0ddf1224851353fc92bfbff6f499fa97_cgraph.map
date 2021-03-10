@@ -1,0 +1,21 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d7/d8d/structFW_1_1HepMC3Event.html#a876ca1b43c7eddd3200125934f1e542d" title="Get beam particles." alt="" coords="138,5,339,33"/>
+<area shape="rect" id="node7" href="$d7/d8d/structFW_1_1HepMC3Event.html#ae1b7f139d0baae4b55c73fa672b50cf1" title="Getter of the position of the event." alt="" coords="130,57,347,85"/>
+<area shape="rect" id="node8" href="$d7/d8d/structFW_1_1HepMC3Event.html#a77cdb4be2630653ccad06cde3e7ef15d" title="Getter of the time of the event." alt="" coords="125,109,352,137"/>
+<area shape="rect" id="node9" href="$d7/d8d/structFW_1_1HepMC3Event.html#a59b68aafe4eeaa06b806be981db46787" title="Get final state particles." alt="" coords="129,161,349,189"/>
+<area shape="rect" id="node10" href="$d7/d8d/structFW_1_1HepMC3Event.html#afdef19956195c3bdc564d17a1e2a3c25" title="Sets new units for lengths." alt="" coords="125,213,352,241"/>
+<area shape="rect" id="node11" href="$d7/d8d/structFW_1_1HepMC3Event.html#a29483bde9a8395d33089457a6dfc022f" title="Sets new units for momentums." alt="" coords="108,265,369,293"/>
+<area shape="rect" id="node12" href="$d7/d8d/structFW_1_1HepMC3Event.html#ac76d9a37fa90d80f8c763cfd316b49d9" title="Get list of particles." alt="" coords="132,317,345,345"/>
+<area shape="rect" id="node13" href="$d0/dfa/reader_8C.html#a262d195bd786506862f9ad0d1aeb76cf" title="reader" alt="" coords="205,369,272,397"/>
+<area shape="rect" id="node16" href="$db/d70/structFW_1_1HepMC3ReaderAscii.html#a8914e2ee7103acb50607068c0cdf183a" title="Reads an event from file." alt="" coords="145,421,332,465"/>
+<area shape="rect" id="node17" href="$db/d70/structFW_1_1HepMC3ReaderAscii.html#afacf9c96b15c093633a83a7b490291d6" title="Reports the status of the reader." alt="" coords="145,489,332,533"/>
+<area shape="rect" id="node18" href="$d7/d8d/structFW_1_1HepMC3Event.html#aa2064ed2745a3234067736715fcf5870" title="Get list of vertices." alt="" coords="134,557,343,585"/>
+<area shape="rect" id="node3" href="$da/de2/structFW_1_1HepMC3Particle.html#aefd7d4ae39ab24aa87985df5f91410b0" title="Returns the particle translated into Acts." alt="" coords="445,153,602,197"/>
+<area shape="rect" id="node4" href="$d2/d46/classActsFatras_1_1Barcode.html#a4a64190f3ce62c920ffe6e83f31aa5cf" title="Set the parent particle identifier." alt="" coords="677,124,833,168"/>
+<area shape="rect" id="node5" href="$de/db5/fw_8F.html#aee6d8ef112bf3dd290de181562566c6c" title="fw" alt="" coords="736,192,775,220"/>
+<area shape="rect" id="node6" href="$d7/dd8/bk_8f.html#a084aa72b16f800aa352c4efed50eb2af" title="bk" alt="" coords="881,192,920,220"/>
+<area shape="rect" id="node14" href="$d8/d51/classEicToyModel.html#a5e992ec670f1ccf5842edfc11423e42f" title="EicToyModel::Import" alt="" coords="444,369,603,397"/>
+<area shape="rect" id="node15" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="726,369,785,397"/>
+<area shape="rect" id="node19" href="$d2/d95/structFW_1_1HepMC3Vertex.html#a0ae24c126dc872a97fac461a02611521" title="Returns a vertex translated into Acts." alt="" coords="417,549,629,593"/>
+<area shape="rect" id="node20" href="$d5/dbe/EIC-IR1-XX-v00_8C.html#a888f39f7254b5b59976d577091d79a4e" title="vtx" alt="" coords="734,557,777,585"/>
+</map>

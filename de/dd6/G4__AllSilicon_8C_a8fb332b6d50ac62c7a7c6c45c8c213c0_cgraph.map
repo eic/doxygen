@@ -1,0 +1,9 @@
+<map id="AllSiliconSetup" name="AllSiliconSetup">
+<area shape="rect" id="node2" href="$db/d23/classAllSiliconTrackerSubsystem.html#abd926cccc024d31eb2df9b9e5f91528f" title="AllSiliconTrackerSubsystem\l::AddAssemblyVolume" alt="" coords="187,5,394,49"/>
+<area shape="rect" id="node3" href="$d5/d29/classPHG4DetectorSubsystem.html#a5a52f44370d90e92bfb3ed0abf6dbb76" title="PHG4DetectorSubsystem\l::OverlapCheck" alt="" coords="195,73,387,117"/>
+<area shape="rect" id="node4" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="177,141,404,169"/>
+<area shape="rect" id="node5" href="$d5/d29/classPHG4DetectorSubsystem.html#a82c122f8a80f34dc4ffba6675ce60c75" title="PHG4DetectorSubsystem\l::set_string_param" alt="" coords="195,193,387,237"/>
+<area shape="rect" id="node6" href="$d5/d29/classPHG4DetectorSubsystem.html#adf60f69cc9a72740cf39329f91a96451" title="PHG4DetectorSubsystem\l::SetAbsorberActive" alt="" coords="195,261,387,305"/>
+<area shape="rect" id="node7" href="$d5/d29/classPHG4DetectorSubsystem.html#a06d7265cdb191528ced9e78e73ba0f0a" title="PHG4DetectorSubsystem\l::SetActive" alt="" coords="195,329,387,373"/>
+<area shape="rect" id="node8" href="$d5/d29/classPHG4DetectorSubsystem.html#aa0c11d415a70a207a3ea851b28932dfd" title="PHG4DetectorSubsystem\l::SuperDetector" alt="" coords="195,397,387,441"/>
+</map>

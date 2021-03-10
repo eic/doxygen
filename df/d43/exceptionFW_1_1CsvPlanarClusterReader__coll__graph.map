@@ -1,0 +1,25 @@
+<map id="FW::CsvPlanarClusterReader" name="FW::CsvPlanarClusterReader">
+<area shape="rect" id="node2" href="$d1/d19/classFW_1_1IReader.html" title="FW::IReader" alt="" coords="2761,567,2863,595"/>
+<area shape="rect" id="node4" href="$d7/df5/classActs_1_1GeometryID.html" title="Acts::GeometryID" alt="" coords="5,827,147,855"/>
+<area shape="rect" id="node6" href="$d3/d07/classActs_1_1GeometryObject.html" title="Acts::GeometryObject" alt="" coords="260,647,432,675"/>
+<area shape="rect" id="node5" href="$de/d7d/classActs_1_1Surface.html" title="Abstract Base Class for tracking surfaces." alt="" coords="2407,687,2519,715"/>
+<area shape="rect" id="node8" href="$da/d28/classActs_1_1Layer.html" title="Acts::Layer" alt="" coords="3875,619,3973,647"/>
+<area shape="rect" id="node18" href="$d2/d65/classActs_1_1Volume.html" title="Acts::Volume" alt="" coords="601,379,712,407"/>
+<area shape="rect" id="node10" href="$d5/db4/classActs_1_1ApproachDescriptor.html" title="Acts::ApproachDescriptor" alt="" coords="3132,815,3327,843"/>
+<area shape="rect" id="node11" href="$d5/dcc/classActs_1_1BinUtility.html" title="Acts::BinUtility" alt="" coords="3519,994,3641,1022"/>
+<area shape="rect" id="node13" href="$dd/ddd/classActs_1_1BinningData.html" title="Acts::BinningData" alt="" coords="2741,982,2883,1010"/>
+<area shape="rect" id="node17" href="$dd/dcd/classActs_1_1TrackingVolume.html" title="Acts::TrackingVolume" alt="" coords="1937,474,2104,502"/>
+<area shape="rect" id="node19" href="$d4/d2a/classActs_1_1AxisAlignedBoundingBox.html" title="Acts::AxisAlignedBounding\lBox\&lt; Volume, double, 3 \&gt;" alt="" coords="1007,350,1211,394"/>
+<area shape="rect" id="node41" href="$d6/dae/classActs_1_1AbstractVolume.html" title="Acts::AbstractVolume" alt="" coords="1026,86,1193,114"/>
+<area shape="rect" id="node20" href="$d4/d2a/classActs_1_1AxisAlignedBoundingBox.html" title="Acts::AxisAlignedBounding\lBox\&lt; entity_t, value_t, DIM \&gt;" alt="" coords="547,646,766,690"/>
+<area shape="rect" id="node27" title="STL class." alt="" coords="1487,666,1576,694"/>
+<area shape="rect" id="node44" href="$da/d10/structFW_1_1CsvPlanarClusterReader_1_1Config.html" title="FW::CsvPlanarClusterReader\l::Config" alt="" coords="2148,567,2361,611"/>
+<area shape="rect" id="node28" title="STL class." alt="" coords="1038,658,1181,702"/>
+<area shape="rect" id="node30" href="$d7/dc3/classActs_1_1GlueVolumesDescriptor.html" title="Acts::GlueVolumesDescriptor" alt="" coords="1421,366,1641,394"/>
+<area shape="rect" id="node34" href="$d5/d80/classActs_1_1BinnedArray.html" title="Acts::BinnedArray\&lt; T \&gt;" alt="" coords="1019,546,1200,574"/>
+<area shape="rect" id="node36" href="$d5/dd2/classActs_1_1SurfaceArray.html" title="Provides Surface binning in N dimensions." alt="" coords="3155,763,3303,791"/>
+<area shape="rect" id="node43" href="$d7/de6/classActs_1_1DetectorElementBase.html" title="Acts::DetectorElementBase" alt="" coords="1917,674,2124,702"/>
+<area shape="rect" id="node46" href="$d4/d3e/classActs_1_1Logger.html" title="class for printing debug output" alt="" coords="2409,173,2517,201"/>
+<area shape="rect" id="node48" href="$d5/d5e/classActs_1_1Logging_1_1OutputFilterPolicy.html" title="abstract base class for filtering debug output" alt="" coords="1429,162,1633,206"/>
+<area shape="rect" id="node50" href="$df/dce/classActs_1_1Logging_1_1OutputPrintPolicy.html" title="abstract base class for printing debug output" alt="" coords="1431,94,1632,138"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="FairDbTableMetaData::Sql" name="FairDbTableMetaData::Sql">
+<area shape="rect" id="node2" href="$d6/dc7/classFairDbFieldType.html#a3c7ec801140f7da4a1c2e58db83cc6a5" title="FairDbFieldType::AsSQLString" alt="" coords="248,5,467,33"/>
+<area shape="rect" id="node3" href="$d9/d1a/classFairDbTableMetaData.html#afca5c3340adcb569d0e56c31bd02581c" title="FairDbTableMetaData\l::ColFieldType" alt="" coords="275,57,439,101"/>
+<area shape="rect" id="node6" href="$d9/d1a/classFairDbTableMetaData.html#ac6fe338d3ce5f1e09beb6a5f897b3c2e" title="FairDbTableMetaData\l::ColIsNullable" alt="" coords="275,125,439,169"/>
+<area shape="rect" id="node7" href="$d9/d1a/classFairDbTableMetaData.html#a60a30763c101e8820664ffe8e7d8759d" title="FairDbTableMetaData\l::ColName" alt="" coords="275,193,439,237"/>
+<area shape="rect" id="node8" href="$dc/d21/classFairDbString.html#a5689632f5fb2d6a397d7ddf859b691b4" title="FairDbString::GetString" alt="" coords="269,261,446,289"/>
+<area shape="rect" id="node9" href="$d9/d1a/classFairDbTableMetaData.html#a349f449589397273446f5d6cdf822af2" title="FairDbTableMetaData\l::NumCols" alt="" coords="275,313,439,357"/>
+<area shape="rect" id="node4" href="$d9/d1a/classFairDbTableMetaData.html#aed3d499c285d62ab44275e2bf4884397" title="FairDbTableMetaData\l::GetAttributes" alt="" coords="515,125,679,169"/>
+<area shape="rect" id="node5" href="$d1/d8e/structFairDbTableMetaData_1_1ColumnAttributes.html#a4b6065c0b419343436f553949ca6cda6" title="FairDbTableMetaData\l::ColumnAttributes::\lSetDefault" alt="" coords="727,117,891,177"/>
+</map>

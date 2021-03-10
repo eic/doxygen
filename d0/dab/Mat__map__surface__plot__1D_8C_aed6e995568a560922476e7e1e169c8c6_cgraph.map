@@ -1,0 +1,9 @@
+<map id="Mat_map_surface_plot_1D" name="Mat_map_surface_plot_1D">
+<area shape="rect" id="node2" href="$dd/d39/Mat__map__surface__plot_8C.html#a948d7eca16772f67f65719a26b781210" title="Fill the histograms for each surfaces." alt="" coords="257,71,295,99"/>
+<area shape="rect" id="node7" href="$dd/d39/Mat__map__surface__plot_8C.html#ad9f11573c1854c79734f6c0c0de9951e" title="Draw and save the histograms." alt="" coords="252,136,300,164"/>
+<area shape="rect" id="node3" href="$dd/d39/Mat__map__surface__plot_8C.html#aad7292287254a5e9ead58fe39e7897fd" title="Initialise the histograms for each surface." alt="" coords="371,5,482,33"/>
+<area shape="rect" id="node4" href="$db/db6/materialPlotHelper_8cpp.html#abe4b5d67dc107aab5dc1fb726c001377" title="Initialise the information on each surface." alt="" coords="371,57,482,85"/>
+<area shape="rect" id="node5" href="$db/db6/materialPlotHelper_8cpp.html#ad35c4c48197906845ea00a2405e54ef2" title="Parse the surface map json file to associate the surface name to each id." alt="" coords="381,109,473,137"/>
+<area shape="rect" id="node6" href="$d9/dcc/classnlohmann_1_1basic__json.html#a5961446010dfc494e0c247b4e9026977" title="helper to access iterator member functions in range&#45;based for" alt="" coords="553,101,721,145"/>
+<area shape="rect" id="node8" href="$d3/d9b/namespacenlohmann.html#a6ce645a0b8717757e096a5b5773b7a16" title="user&#45;defined to_string function for JSON values" alt="" coords="348,161,505,189"/>
+</map>
