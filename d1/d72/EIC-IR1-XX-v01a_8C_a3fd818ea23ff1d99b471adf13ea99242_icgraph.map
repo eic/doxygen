@@ -1,0 +1,51 @@
+<map id="ir" name="ir">
+<area shape="rect" id="node2" href="$d9/dec/classFluxMonitorGrid.html#acdd7d8f91864aa93b8152cd426aa2ce1" title="FluxMonitorGrid::AddFlux\lMonitorParticleType" alt="" coords="114,5,307,49"/>
+<area shape="rect" id="node4" href="$da/d23/classBeastMagneticField.html#a8a6517a6027f3017bbb206db4df0e8f9" title="BeastMagneticField\l::BeastMagneticField" alt="" coords="130,73,291,117"/>
+<area shape="rect" id="node5" href="$dc/d7b/namespaceActs_1_1Test_1_1Layers.html#a16c3200be3299dfc388ed343b107a4fd" title="Acts::Test::Layers\l::BOOST_AUTO_TEST_CASE" alt="" coords="108,141,313,185"/>
+<area shape="rect" id="node6" href="$d9/dd3/classTpcSpaceChargeMatrixInversion.html#a965515b08e702a284d7b52e240cca01f" title="calculate distortions by inverting stored matrices, and save relevant histograms" alt="" coords="377,449,617,493"/>
+<area shape="rect" id="node7" href="$da/d4a/classMuMegasGeoParData.html#ab43a8005c1db6e37ccddf3cf23bebd3d" title="MuMegasGeoParData::\lConstructGeometry" alt="" coords="124,209,297,253"/>
+<area shape="rect" id="node9" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#ad358344845d924487bf7aac85b03d5ad" title="TpcSpaceChargeReconstruction\lHelper::copy_histogram" alt="" coords="92,329,329,373"/>
+<area shape="rect" id="node10" href="$d2/d93/structActs_1_1Extent.html#a6ab0d68c7a159339ae856f92a4dff7ee" title="Acts::Extent::extend" alt="" coords="131,397,290,425"/>
+<area shape="rect" id="node11" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#a594bcd9d7b19f073f6fcf7586fe4f8d9" title="first phi extrapolation" alt="" coords="92,449,329,493"/>
+<area shape="rect" id="node12" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#aadba00c7c59985c911340622722ced8a" title="second phi extrapolation" alt="" coords="92,517,329,561"/>
+<area shape="rect" id="node13" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#acaa4e69fe0e04a708011f342077ddf44" title="z extrapolation" alt="" coords="92,585,329,629"/>
+<area shape="rect" id="node14" href="$d9/dec/classFluxMonitorGrid.html#a237f67bd91cd9739ee6e4252458f5710" title="FluxMonitorGrid::FillOut\lHistograms" alt="" coords="120,653,301,697"/>
+<area shape="rect" id="node15" href="$de/d64/classAnnularFieldSim.html#a69085e0758c28f66750ab848c3d35a8f" title="AnnularFieldSim::Generate\lDistortionMaps" alt="" coords="109,721,313,765"/>
+<area shape="rect" id="node16" href="$de/d64/classAnnularFieldSim.html#afefe72cb32eb62dc9f14d9bc7509f48f" title="AnnularFieldSim::Generate\lSeparateDistortionMaps" alt="" coords="109,789,313,833"/>
+<area shape="rect" id="node17" href="$d4/de6/classTpcDirectLaserReconstruction.html#a9f9756fde12b826b1d62c91ca6ca7046" title="get relevant cell for a given cluster" alt="" coords="99,857,323,901"/>
+<area shape="rect" id="node18" href="$d3/d27/classTpcSpaceChargeReconstruction.html#ac591d95b4c5923fa3ddf58ea3d0ffb02" title="get relevant cell for a given cluster" alt="" coords="92,925,329,969"/>
+<area shape="rect" id="node19" href="$d5/d55/classPHTpcResiduals.html#a1f08994c59a9f479be45e1bdf1d031ce" title="Gets distortion cell for identifying bins in TPC." alt="" coords="119,993,303,1021"/>
+<area shape="rect" id="node20" href="$da/d23/classBeastMagneticField.html#a4513e86445cd2de3b9e0250b78300eb6" title="BeastMagneticField\l::GetFieldValue" alt="" coords="135,1045,287,1089"/>
+<area shape="rect" id="node21" href="$d2/d53/classEicTpcDigiHitProducer.html#aa3f46cd85269d7ce132513db471e20a7" title="EicTpcDigiHitProducer\l::HandleHit" alt="" coords="125,1113,297,1157"/>
+<area shape="rect" id="node22" href="$db/db2/classTrKalmanNodeLocation.html#ab5e3c7215e7faba9dbe121a2377a368e" title="TrKalmanNodeLocation\l::InitializeProcessNoiseMatrices" alt="" coords="95,1181,327,1225"/>
+<area shape="rect" id="node23" href="$da/d22/luprep_8f.html#aad1b09d3910be6e5fd985cf9a9860fc5" title="luprep" alt="" coords="178,1249,243,1277"/>
+<area shape="rect" id="node24" href="$d9/d23/lustrf_8f.html#a5941611caddf798b636f4885a175c69e" title="lustrf" alt="" coords="182,1301,239,1329"/>
+<area shape="rect" id="node25" href="$de/d39/lysspa_8F.html#ad96114ee498da69ba22dcdb67af32668" title="lysspa" alt="" coords="179,1353,243,1381"/>
+<area shape="rect" id="node26" href="$d1/d92/mfield2eve_8C.html#ac40108ad37d97a17ad3730878a410732" title="mfield2eve" alt="" coords="162,1405,259,1433"/>
+<area shape="rect" id="node27" href="$d3/dc3/namespaceActsExamples_1_1Generic.html#a80cca189cad6dc891c0bca7065cce5c5" title="helper method for disc" alt="" coords="121,1457,300,1501"/>
+<area shape="rect" id="node28" href="$d9/d54/classActs_1_1Legacy_1_1AtlasSeedfinder.html#af53d91be399748668a04c2c7fa9aa586" title="Acts::Legacy::AtlasSeedfinder\l::newEvent" alt="" coords="99,1525,323,1569"/>
+<area shape="rect" id="node29" href="$db/d49/classPHField2D.html#a40312a4b2b0702dfc9303e0945da5989" title="PHField2D::PHField2D" alt="" coords="127,1593,295,1621"/>
+<area shape="rect" id="node30" href="$d5/dc1/classPHField3DCylindrical.html#af8869983144df87df61a1d259ec459a3" title="PHField3DCylindrical\l::PHField3DCylindrical" alt="" coords="126,1645,295,1689"/>
+<area shape="rect" id="node31" href="$de/d64/classAnnularFieldSim.html#aa99cdfc4fd947bfc8a90fd606bd78e2d" title="AnnularFieldSim::populate\l_fieldmap" alt="" coords="110,1713,311,1757"/>
+<area shape="rect" id="node32" href="$de/d64/classAnnularFieldSim.html#a2bc090942421a5a9f185be13f2689d5a" title="AnnularFieldSim::populate\l_highres_lookup" alt="" coords="110,1781,311,1825"/>
+<area shape="rect" id="node33" href="$d3/d16/pyhisspa_8f.html#a5ac8143df37811155f43ea0c30e7f631" title="pyhisspa" alt="" coords="170,1849,251,1877"/>
+<area shape="rect" id="node34" href="$d6/dcf/pythia6425mod_8f.html#af28a134735bfae02911917eb71c7f64b" title="pyplot" alt="" coords="178,1901,243,1929"/>
+<area shape="rect" id="node35" href="$d6/dcf/pythia6425mod_8f.html#aa2fbdb46f28af53ae4a8988b1f8246eb" title="pyprep" alt="" coords="176,1953,245,1981"/>
+<area shape="rect" id="node36" href="$d6/dcf/pythia6425mod_8f.html#a7fce06ff25ae6503bb24f0f3c9b453b3" title="pyptfs" alt="" coords="179,2005,243,2033"/>
+<area shape="rect" id="node37" href="$d6/dcf/pythia6425mod_8f.html#a71b2257a4e5d19b7b94b70fee55bea56" title="pyshow" alt="" coords="461,2056,534,2084"/>
+<area shape="rect" id="node38" href="$d6/dcf/pythia6425mod_8f.html#a9f8a08b43157ca5aa62d84247ff26109" title="pysspa" alt="" coords="665,2083,733,2111"/>
+<area shape="rect" id="node39" href="$d6/dcf/pythia6425mod_8f.html#ac00de061be805868aa61d626239f5fa9" title="pyptis" alt="" coords="179,2160,242,2188"/>
+<area shape="rect" id="node40" href="$d6/dcf/pythia6425mod_8f.html#aeb405fd3ad191526318cdddb7dde6f88" title="pyremn" alt="" coords="174,2212,247,2240"/>
+<area shape="rect" id="node41" href="$d6/dcf/pythia6425mod_8f.html#ab14f48c3190aeff08037290931944d07" title="pystrf" alt="" coords="180,2264,241,2292"/>
+<area shape="rect" id="node42" href="$d5/d66/namespaceActs_1_1SurfaceView3DTest.html#a4b15e7ef27ccae031a4686676c799571" title="Acts::SurfaceView3DTest::run" alt="" coords="101,2316,321,2344"/>
+<area shape="rect" id="node43" href="$d7/df9/classkdfinder_1_1LinearFit.html#af67a47c415a6939ecab0e5258cab532d" title="kdfinder::LinearFit\l::select" alt="" coords="139,2368,283,2412"/>
+<area shape="rect" id="node44" href="$d5/d43/egutils_8h.html#abce5eb6e1a5a7651319af8f8c8844d2e" title="SortIndex" alt="" coords="167,2436,254,2464"/>
+<area shape="rect" id="node45" href="$de/d64/classAnnularFieldSim.html#aaada41d72ff17cae02000b4bc9e4be15" title="AnnularFieldSim::sum\l_full3d_field_at" alt="" coords="125,2488,296,2532"/>
+<area shape="rect" id="node46" href="$de/d64/classAnnularFieldSim.html#ad135dd5ff342110147544f8032671fb4" title="AnnularFieldSim::sum\l_local_field_at" alt="" coords="125,2556,296,2600"/>
+<area shape="rect" id="node47" href="$de/d64/classAnnularFieldSim.html#a526ad468319e05b2cdbb37569c496048" title="AnnularFieldSim::sum\l_nonlocal_field_at" alt="" coords="125,2624,296,2668"/>
+<area shape="rect" id="node48" href="$de/d64/classAnnularFieldSim.html#a4a7d310d527ef4d9b7ba5a986b996317" title="AnnularFieldSim::sum\l_phislice_field_at" alt="" coords="125,2692,296,2736"/>
+<area shape="rect" id="node49" href="$d5/dca/classActs_1_1CylinderVolumeBuilder.html#a409648dafa2e4666a7385df2a76beffc" title="Acts::CylinderVolumeBuilder\l::trackingVolume" alt="" coords="103,2760,319,2804"/>
+<area shape="rect" id="node50" href="$d7/dac/viewer_8C.html#af63cc2c6e5ec88105912189d00303acf" title="viewer" alt="" coords="177,2828,244,2856"/>
+<area shape="rect" id="node3" href="$d3/d61/classEicRunSim.html#a10c2aca539e19e09fd20d742109365ba" title="EicRunSim::AddFluxMonitor\lParticleType" alt="" coords="393,5,601,49"/>
+<area shape="rect" id="node8" href="$d8/d21/mumegas_8C.html#a69b61d440a490d6b1b490653629d883c" title="mumegas" alt="" coords="453,217,542,245"/>
+</map>

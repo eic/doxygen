@@ -1,0 +1,24 @@
+<map id="FairRuntimeDb::resetOutputVersions" name="FairRuntimeDb::resetOutputVersions">
+<area shape="rect" id="node2" href="$d7/d6f/classFairRuntimeDb.html#aa281d7d7e1a5d4ba7293783201a43e82" title="FairRuntimeDb::closeOutput" alt="" coords="277,73,489,101"/>
+<area shape="rect" id="node9" href="$d7/d6f/classFairRuntimeDb.html#adbf2586c56e73bb6026d036b9fd6a429" title="FairRuntimeDb::resetAllVersions" alt="" coords="264,125,501,153"/>
+<area shape="rect" id="node10" href="$d7/d6f/classFairRuntimeDb.html#a86e184ef37a0081c0b9f1f328789a66d" title="FairRuntimeDb::setFirstInput" alt="" coords="276,229,489,257"/>
+<area shape="rect" id="node22" href="$d7/d6f/classFairRuntimeDb.html#a11fb66df3253a8824142aa788df80c8d" title="FairRuntimeDb::setOutput" alt="" coords="284,177,481,205"/>
+<area shape="rect" id="node23" href="$d7/d6f/classFairRuntimeDb.html#a671d546bfd8b187be66104943c611179" title="FairRuntimeDb::setSecond\lInput" alt="" coords="283,281,483,325"/>
+<area shape="rect" id="node3" href="$d3/d61/classEicRunSim.html#ac3dc4b7912f3a0d7c501a203617fe508" title="EicRunSim::RunCoreStart" alt="" coords="573,125,765,153"/>
+<area shape="rect" id="node6" href="$d8/def/classFairMCApplication.html#af68192f3647a533c3fd9f59128982d58" title="FairMCApplication::\lStopRun" alt="" coords="594,5,745,49"/>
+<area shape="rect" id="node8" href="$d7/d6f/classFairRuntimeDb.html#a7a55bb4922410cd21457c51f0f796650" title="FairRuntimeDb::~FairRuntimeDb" alt="" coords="549,73,789,101"/>
+<area shape="rect" id="node4" href="$d3/d61/classEicRunSim.html#a9f9cc62b3a055d135358f264709c6b7e" title="EicRunSim::Run" alt="" coords="902,125,1029,153"/>
+<area shape="rect" id="node5" href="$d4/d1f/examples_2physics_2config_82_2simulation_8C.html#ac10f32ae478a1409f743cf125eeea582" title="simulation" alt="" coords="1182,125,1274,153"/>
+<area shape="rect" id="node7" href="$d8/def/classFairMCApplication.html#ac5d6ec0eb105cedb5870d8febe788847" title="FairMCApplication::\lGeneratePrimaries" alt="" coords="890,5,1041,49"/>
+<area shape="rect" id="node11" href="$d8/da7/classFairAnaSelector.html#ae4cc7c114a2ae1a59b3e3e8d7a078832" title="FairAnaSelector::Init" alt="" coords="591,285,748,313"/>
+<area shape="rect" id="node12" href="$d4/dc9/classEicRunAna.html#a40d043c91b72d8f50eb850be50fd06c1" title="EicRunAna::Init" alt="" coords="607,229,731,257"/>
+<area shape="rect" id="node20" href="$d1/d76/classPndGeoHandling.html#a818f209f0b2dd985e2a2e55adc458b37" title="PndGeoHandling::InitRuntimeDb" alt="" coords="549,177,789,205"/>
+<area shape="rect" id="node13" href="$dc/db9/classEicEventManager.html#a9d62fa56c5683f8af8fd9cefc54028a0" title="EicEventManager::Init" alt="" coords="880,229,1051,257"/>
+<area shape="rect" id="node16" href="$d4/dc9/classEicRunAna.html#ae75870f13b97d83ea5f7f7218e94d6b5" title="EicRunAna::RunCoreStart" alt="" coords="869,281,1062,309"/>
+<area shape="rect" id="node14" href="$dc/db9/classEicEventManager.html#a395b5cf24061c5057ec29682319debf1" title="EicEventManager::Run" alt="" coords="1141,229,1315,257"/>
+<area shape="rect" id="node15" href="$d4/dc8/examples_2physics_2config_82_2eventDisplay_8C.html#a0dea102c5707fa0bc64fcf379ce890a5" title="eventDisplay" alt="" coords="1367,229,1477,257"/>
+<area shape="rect" id="node17" href="$d4/dc9/classEicRunAna.html#a1e307dd82a86ffe6a742148b388a0bab" title="EicRunAna::Run" alt="" coords="1164,281,1292,309"/>
+<area shape="rect" id="node18" href="$d8/d11/examples_2physics_2config_82_2digitization_8C.html#afd97e93afdacaf415631892fe39fdf2c" title="digitization" alt="" coords="1374,333,1470,361"/>
+<area shape="rect" id="node19" href="$de/d0b/examples_2physics_2config_82_2reconstruction_8C.html#a3d26f5f344cf2281e72b22d404fd8c51" title="reconstruction" alt="" coords="1363,281,1481,309"/>
+<area shape="rect" id="node21" href="$d1/d76/classPndGeoHandling.html#ab203f2bdaef048006850c0123480d3db" title="PndGeoHandling::PndGeoHandling" alt="" coords="837,177,1093,205"/>
+</map>

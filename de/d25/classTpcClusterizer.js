@@ -1,0 +1,27 @@
+var classTpcClusterizer =
+[
+    [ "TpcClusterizer", "de/d25/classTpcClusterizer.html#aacae52d78fe9dfdd5173097828789728", null ],
+    [ "~TpcClusterizer", "de/d25/classTpcClusterizer.html#a2a10144347d8c8b631e7ded3aeae6b53", null ],
+    [ "End", "de/d25/classTpcClusterizer.html#a1fd0a47140a064b09d00e74947e713d0", null ],
+    [ "InitRun", "de/d25/classTpcClusterizer.html#aefd2f1b53683f979af102b8b781f4e2b", null ],
+    [ "is_in_sector_boundary", "de/d25/classTpcClusterizer.html#a8b27dc0a0db64c6e3dd3582fcfcfc8dc", null ],
+    [ "process_event", "de/d25/classTpcClusterizer.html#ac66fda514e9c1985f3f083ef79934137", null ],
+    [ "set_do_hit_association", "de/d25/classTpcClusterizer.html#a42fa80bf47f1b518dff81a113bcaab92", null ],
+    [ "set_drift_velocity_scale", "de/d25/classTpcClusterizer.html#a11995152575ac2c27e7fe89de76431d3", null ],
+    [ "set_max_cluster_half_size_phi", "de/d25/classTpcClusterizer.html#ac88c9f2827082aae315e6b6de7baf874", null ],
+    [ "set_max_cluster_half_size_z", "de/d25/classTpcClusterizer.html#ae576056ba527e9415e979bca380d11cf", null ],
+    [ "set_sector_fiducial_cut", "de/d25/classTpcClusterizer.html#ae7636cf0a5919c23c6876dcbed0d95f1", null ],
+    [ "do_hit_assoc", "de/d25/classTpcClusterizer.html#a9d4eb249ef475a1344351b38f9d375de", null ],
+    [ "m_clusterhitassoc", "de/d25/classTpcClusterizer.html#a3b21e995e0eb21984730cf4db6e90a49", null ],
+    [ "m_clusterlist", "de/d25/classTpcClusterizer.html#ac7c968bd28605cfc168fd62dbbf5aee4", null ],
+    [ "m_drift_velocity_scale", "de/d25/classTpcClusterizer.html#a745085e63aa849abe13b32455eb5d35b", null ],
+    [ "m_hits", "de/d25/classTpcClusterizer.html#a9ca3e3dff6ee31f2003d8a9021358ba6", null ],
+    [ "m_surfMaps", "de/d25/classTpcClusterizer.html#aade3ea6f898ac3dbfe1732df44797666", null ],
+    [ "m_tGeometry", "de/d25/classTpcClusterizer.html#adfc004d4565e85ca1412629f317376ac", null ],
+    [ "MaxClusterHalfSizePhi", "de/d25/classTpcClusterizer.html#ad5b46907c32b4a6cc99d36217594cebe", null ],
+    [ "MaxClusterHalfSizeZ", "de/d25/classTpcClusterizer.html#a7b7d52cac0e869d3636c7e009ff23f3b", null ],
+    [ "par0_neg", "de/d25/classTpcClusterizer.html#a16b7b56f32fcaae35bfdfe3bf404b0b4", null ],
+    [ "par0_pos", "de/d25/classTpcClusterizer.html#a7f5eb70b2142cbb2e6a9dc87b7c90fde", null ],
+    [ "pedestal", "de/d25/classTpcClusterizer.html#a86bfc8998b2cec91d0d072cc95bac171", null ],
+    [ "SectorFiducialCut", "de/d25/classTpcClusterizer.html#a54e097acb0d024610168250adc865c31", null ]
+];

@@ -1,0 +1,12 @@
+<map id="QAG4SimulationJet::Init_TruthMatching" name="QAG4SimulationJet::Init_TruthMatching">
+<area shape="rect" id="node2" href="$d4/d28/classQAG4SimulationJet.html#aade1234d93dd3b0f24613bbf02886ee2" title="QAG4SimulationJet::\lget_eta_range_str" alt="" coords="239,5,397,49"/>
+<area shape="rect" id="node3" href="$d4/d28/classQAG4SimulationJet.html#a92cdabef9e9841a3e4996d0e3bcf7a34" title="common prefix for QA histograms" alt="" coords="239,73,397,117"/>
+<area shape="rect" id="node4" href="$d8/db5/namespaceQAHistManagerDef.html#a95764557eee8578107f3f8cac5a640da" title="Get a pointer to the default hist manager for QA modules." alt="" coords="211,227,425,271"/>
+<area shape="rect" id="node10" href="$d3/d96/classFun4AllHistoManager.html#a7e1354855437fa28bb0d29dc0581d0a6" title="Fun4AllHistoManager\l::registerHisto" alt="" coords="235,141,401,185"/>
+<area shape="rect" id="node5" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="503,253,685,281"/>
+<area shape="rect" id="node6" href="$da/d29/classFun4AllServer.html#af5885837658eb26f98dbc697b58747a7" title="Fun4AllServer::getHistoManager" alt="" coords="473,201,715,229"/>
+<area shape="rect" id="node8" href="$da/d29/classFun4AllServer.html#a377f113767f24ce6413e678752ed7f53" title="Fun4AllServer::registerHisto\lManager" alt="" coords="489,305,699,349"/>
+<area shape="rect" id="node7" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="763,201,939,229"/>
+<area shape="rect" id="node9" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="774,313,927,341"/>
+<area shape="rect" id="node11" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="571,149,617,177"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="fun4all_eicmacros/blob/master/detectors/Modular/Fun4All_G4_FullDetectorModular.C" name="fun4all_eicmacros/blob/master/detectors/Modular/Fun4All_G4_FullDetectorModular.C">
+<area shape="rect" id="node3" href="$dd/d25/fun4all__eicmacros_2blob_2master_2detectors_2Modular_2DisplayOn_8C.html" title="DisplayOn.C" alt="" coords="2780,365,2884,393"/>
+<area shape="rect" id="node5" href="$dc/da2/Fun4AllServer_8h.html" title="fun4all/Fun4AllServer.h" alt="" coords="2698,449,2875,477"/>
+<area shape="rect" id="node6" href="$d8/da0/G4Setup__ModularDetector_8C.html" title="G4Setup_ModularDetector.C" alt="" coords="1377,113,1589,141"/>
+<area shape="rect" id="node26" href="$d7/d73/QA_8C.html" title="QA.C" alt="" coords="2959,365,3014,393"/>
+<area shape="rect" id="node34" href="$d1/dd8/G4__User_8C.html" title="G4_User.C" alt="" coords="2844,197,2935,225"/>
+<area shape="rect" id="node35" href="$dc/d7e/G4__Input_8C.html" title="G4_Input.C" alt="" coords="2959,197,3055,225"/>
+<area shape="rect" id="node36" href="$db/d22/Fun4AllDstOutputManager_8h.html" title="fun4all/Fun4AllDstOutput\lManager.h" alt="" coords="3343,189,3535,233"/>
+<area shape="rect" id="node37" href="$de/df8/Fun4AllOutputManager_8h.html" title="Fun4AllOutputManager.h" alt="" coords="3453,281,3641,309"/>
+<area shape="rect" id="node38" href="$d6/d0d/G4__CaloTrigger_8C.html" title="G4_CaloTrigger.C" alt="" coords="3292,281,3428,309"/>
+<area shape="rect" id="node39" href="$db/d49/G4__DSTReader__ModularDetector_8C.html" title="G4_DSTReader_ModularDetector.C" alt="" coords="1595,197,1850,225"/>
+<area shape="rect" id="node40" href="$db/d19/G4__FwdJets_8C.html" title="G4_FwdJets.C" alt="" coords="3665,281,3777,309"/>
+<area shape="rect" id="node42" href="$d4/d40/G4__HIJetReco_8C.html" title="G4_HIJetReco.C" alt="" coords="3537,113,3661,141"/>
+<area shape="rect" id="node44" href="$da/d38/G4__Production_8C.html" title="G4_Production.C" alt="" coords="3923,113,4055,141"/>
+<area shape="rect" id="node46" href="$de/def/PHPy6GenTrigger_8h.html" title="PHPy6GenTrigger.h" alt="" coords="4285,197,4435,225"/>
+<area shape="rect" id="node47" href="$d1/d1b/PHPy6ParticleTrigger_8h.html" title="PHPy6ParticleTrigger.h" alt="" coords="4398,113,4570,141"/>
+<area shape="rect" id="node48" href="$d7/d54/PHPy6JetTrigger_8h.html" title="PHPy6JetTrigger.h" alt="" coords="4184,113,4323,141"/>
+<area shape="rect" id="node49" href="$d2/dcb/recoConsts_8h.html" title="phool/recoConsts.h" alt="" coords="4594,113,4745,141"/>
+<area shape="rect" id="node4" href="$d0/d2b/PHG4Reco_8h.html" title="g4main/PHG4Reco.h" alt="" coords="1498,449,1657,477"/>
+<area shape="rect" id="node7" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html" title="G4_hFarFwdBeamLine\l_EIC.C" alt="" coords="508,357,679,401"/>
+<area shape="rect" id="node8" href="$d3/d09/G4__Pipe__EIC__simple_8C.html" title="G4_Pipe_EIC_simple.C" alt="" coords="754,365,923,393"/>
+<area shape="rect" id="node9" href="$de/d75/G4__Aerogel_8C.html" title="Aerogel RICH for EIC detector." alt="" coords="948,365,1060,393"/>
+<area shape="rect" id="node10" href="$d8/d04/G4__Barrel__EIC_8C.html" title="G4_Barrel_EIC.C" alt="" coords="1615,365,1745,393"/>
+<area shape="rect" id="node11" href="$de/dd6/G4__AllSilicon_8C.html" title="G4_AllSilicon.C" alt="" coords="93,281,216,309"/>
+<area shape="rect" id="node12" href="$d1/db0/G4__FST__EIC_8C.html" title="G4_FST_EIC.C" alt="" coords="1155,281,1269,309"/>
+<area shape="rect" id="node13" href="$db/dd2/G4__TTL__EIC_8C.html" title="G4_TTL_EIC.C" alt="" coords="241,281,354,309"/>
+<area shape="rect" id="node14" href="$de/d55/G4__GEM__EIC_8C.html" title="G4_GEM_EIC.C" alt="" coords="808,281,928,309"/>
+<area shape="rect" id="node18" href="$d3/d09/G4__DRCALO_8C.html" title="G4_DRCALO.C" alt="" coords="1949,365,2064,393"/>
+<area shape="rect" id="node20" href="$d3/d45/G4__EEMC__hybrid_8C.html" title="G4_EEMC_hybrid.C" alt="" coords="2088,365,2237,393"/>
+<area shape="rect" id="node23" href="$d9/d3c/G4__LFHCAL_8C.html" title="G4_LFHCAL.C" alt="" coords="2261,365,2373,393"/>
+<area shape="rect" id="node24" href="$da/d5a/G4__EHCAL_8C.html" title="G4_EHCAL.C" alt="" coords="2397,365,2502,393"/>
+<area shape="rect" id="node25" href="$de/d26/G4__HCalIn__EIC_8C.html" title="G4_HCalIn_EIC.C" alt="" coords="2577,281,2711,309"/>
+<area shape="rect" id="node28" href="$d8/d33/G4__Mvtx__EIC_8C.html" title="G4_Mvtx_EIC.C" alt="" coords="1367,365,1489,393"/>
+<area shape="rect" id="node29" href="$da/d69/G4__dRICH_8C.html" title="G4_dRICH.C" alt="" coords="1344,281,1445,309"/>
+<area shape="rect" id="node30" href="$d3/d50/G4__TPC__EIC_8C.html" title="G4_TPC_EIC.C" alt="" coords="1520,281,1635,309"/>
+<area shape="rect" id="node31" href="$de/d8a/G4__mRICH_8C.html" title="Aerogel mRICH for EIC detector." alt="" coords="1084,365,1191,393"/>
+<area shape="rect" id="node32" href="$d1/d40/G4__BECAL_8C.html" title="G4_BECAL.C" alt="" coords="1769,365,1874,393"/>
+<area shape="rect" id="node33" href="$d3/d11/G4__Tracking__Modular_8C.html" title="G4_Tracking_Modular.C" alt="" coords="239,197,417,225"/>
+</map>

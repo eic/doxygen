@@ -1,0 +1,13 @@
+<map id="BaseTruthEval::is_g4hit_from_particle" name="BaseTruthEval::is_g4hit_from_particle">
+<area shape="rect" id="node2" href="$d4/de4/classSvtxTruthEval.html#ae02589debf7ffa219d6b8aff732d5f2f" title="SvtxTruthEval::is_g4hit\l_from_particle" alt="" coords="233,215,409,259"/>
+<area shape="rect" id="node11" href="$d7/d3c/classCaloTruthEval.html#a0584fb1d676003959830fffd2ede651e" title="did this particle create this truth hit?" alt="" coords="233,283,409,327"/>
+<area shape="rect" id="node3" href="$d1/d1e/classSvtxClusterEval.html#a03461dc91226065d40111184b3685b82" title="SvtxClusterEval::get\l_energy_contribution" alt="" coords="467,104,631,148"/>
+<area shape="rect" id="node8" href="$d9/d62/classSvtxHitEval.html#ab22602a87e83b71f2bffa4e2ace4c497" title="SvtxHitEval::get_energy\l_contribution" alt="" coords="457,215,641,259"/>
+<area shape="rect" id="node4" href="$d1/d1e/classSvtxClusterEval.html#acfd3a615b33f784c3b8df13b58e9958a" title="SvtxClusterEval::max\l_truth_particle_by_energy" alt="" coords="691,5,888,49"/>
+<area shape="rect" id="node5" href="$d1/d1e/classSvtxClusterEval.html#a9091398a04a3d0bafff1f96be89c84b2" title="SvtxClusterEval::best\l_cluster_from" alt="" coords="706,73,873,117"/>
+<area shape="rect" id="node6" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="937,133,1125,177"/>
+<area shape="rect" id="node7" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="1173,133,1349,177"/>
+<area shape="rect" id="node9" href="$d9/d62/classSvtxHitEval.html#a4adfe815e9d79b780421db2a6cddef1b" title="SvtxHitEval::max_truth\l_particle_by_energy" alt="" coords="701,244,878,288"/>
+<area shape="rect" id="node10" href="$d9/d62/classSvtxHitEval.html#a1556ac2e8e593270b2ff3ad18f5d209e" title="SvtxHitEval::best_hit_from" alt="" coords="689,312,889,340"/>
+<area shape="rect" id="node12" href="$d7/d3c/classCaloTruthEval.html#a48340a45153cbec194162cdb99a1357f" title="what truth hits were left behind by this particle in this calo volume?" alt="" coords="480,283,619,327"/>
+</map>

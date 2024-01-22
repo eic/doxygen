@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d6/d72/classCbmRichRingTrackAssignBase.html" title="Base class for RICH rings &#45; STS tracks matching algorithms." alt="" coords="5,32,229,60"/>
+<area shape="rect" id="node2" href="$d6/d0d/classCbmRichRingTrackAssignClosestD.html" title="Ring&#45;Track Assignment according to the closest distance criterion." alt="" coords="277,5,528,33"/>
+<area shape="rect" id="node3" href="$dc/df5/classCbmRichRingTrackAssignIdeal.html" title="Ideal Ring&#45;Track Assignment. CbmRichRingMatch must be run prior to this procedure." alt="" coords="291,57,515,85"/>
+</map>

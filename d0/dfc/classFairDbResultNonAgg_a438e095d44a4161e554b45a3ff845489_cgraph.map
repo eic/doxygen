@@ -1,0 +1,21 @@
+<map id="FairDbResultNonAgg::Streamer" name="FairDbResultNonAgg::Streamer">
+<area shape="rect" id="node2" href="$d5/d57/classFairDbResult.html#a88dcb74bdf26184ce3f4688413742736" title="FairDbResult::BuildLookUp\lTable" alt="" coords="212,289,411,333"/>
+<area shape="rect" id="node15" href="$dd/d63/classFairDbBinaryFile.html#aa976cf613d9687066f9244f933cc72e9" title="FairDbBinaryFile::IsReading" alt="" coords="765,656,970,684"/>
+<area shape="rect" id="node17" href="$dd/d63/classFairDbBinaryFile.html#ae6c3da96aa1d52814b861c754fab3354" title="FairDbBinaryFile::IsWriting" alt="" coords="768,712,967,740"/>
+<area shape="rect" id="node18" href="$dd/d63/classFairDbBinaryFile.html#afd88a7e4561d7303d85794ed102f599c" title="FairDbBinaryFile::Release\lArrayBuffer" alt="" coords="215,703,407,747"/>
+<area shape="rect" id="node19" href="$d5/d57/classFairDbResult.html#acc891e7f6adedb91000317a367df65c2" title="FairDbResult::Streamer" alt="" coords="222,651,401,679"/>
+<area shape="rect" id="node3" href="$d0/d7f/classFairDbTableRow.html#a256a2df0067a00bd5143520340df94ec" title="FairDbTableRow::GetAggregateNo" alt="" coords="459,297,707,325"/>
+<area shape="rect" id="node4" href="$d0/d7f/classFairDbTableRow.html#ab7aa551313c35337a8c106f80ee4c09b" title="FairDbTableRow::GetIndex" alt="" coords="484,349,681,377"/>
+<area shape="rect" id="node5" href="$d5/d57/classFairDbResult.html#aa30031fe21f6c29710481e855bc1c7dd" title="FairDbResult::GetNumRows" alt="" coords="480,401,685,429"/>
+<area shape="rect" id="node6" href="$d0/d7f/classFairDbTableRow.html#ae95506d018e1b5e2d09bf1d09252cfea" title="FairDbTableRow::GetOwner" alt="" coords="481,453,685,481"/>
+<area shape="rect" id="node7" href="$dd/da1/classFairDbValidityRec.html#a1985f7dce99fe8c695409c5bda03039c" title="FairDbValidityRec::\lGetSeqNo" alt="" coords="509,505,656,549"/>
+<area shape="rect" id="node8" href="$d5/d57/classFairDbResult.html#a01f53907bbaffc6985ec6f1a7fc95531" title="FairDbResult::GetTableRow" alt="" coords="481,5,684,33"/>
+<area shape="rect" id="node9" href="$d5/d57/classFairDbResult.html#a67c86d559082bf6adfeb901823e64499" title="FairDbResult::GetTableRow\lByIndex" alt="" coords="481,57,684,101"/>
+<area shape="rect" id="node10" href="$d5/d57/classFairDbResult.html#ac1d0210fba473040fc242d5fdafcdae4" title="FairDbResult::GetValidityRec" alt="" coords="476,125,689,153"/>
+<area shape="rect" id="node12" href="$d5/d57/classFairDbResult.html#add4992e0a4558bde539c639083bf69f8" title="FairDbResult::IsExtended\lContext" alt="" coords="488,177,677,221"/>
+<area shape="rect" id="node14" href="$d5/d57/classFairDbResult.html#adf53611b0a5548f3eda649034ee1a168" title="FairDbResult::TableName" alt="" coords="488,245,677,273"/>
+<area shape="rect" id="node11" href="$d5/d57/classFairDbResult.html#ab4a6d6b12f19c18a7bbc8bcabf8e7c5c" title="FairDbResult::GetValidity\lRecGlobal" alt="" coords="773,117,962,161"/>
+<area shape="rect" id="node13" href="$d5/d57/classFairDbResult.html#a97bb936321a516d626281fa7b039bea2" title="FairDbResult::GetSqlQualifiers" alt="" coords="755,185,980,213"/>
+<area shape="rect" id="node16" href="$dd/d63/classFairDbBinaryFile.html#af13a94910a7b7ffd65d111e873fa3889" title="FairDbBinaryFile::IsOK" alt="" coords="1028,687,1199,715"/>
+<area shape="rect" id="node20" href="$dd/da1/classFairDbValidityRec.html#a0df68716c8e5f022d4e57bd8e27a79da" title="FairDbValidityRec::\lStreamer" alt="" coords="509,676,656,720"/>
+</map>

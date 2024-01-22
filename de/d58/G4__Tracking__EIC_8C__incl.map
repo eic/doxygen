@@ -1,0 +1,25 @@
+<map id="fun4all_eicmacros/blob/master/common/G4_Tracking_EIC.C" name="fun4all_eicmacros/blob/master/common/G4_Tracking_EIC.C">
+<area shape="rect" id="node3" href="$de/d55/G4__GEM__EIC_8C.html" title="G4_GEM_EIC.C" alt="" coords="1016,173,1136,201"/>
+<area shape="rect" id="node26" href="$d8/d33/G4__Mvtx__EIC_8C.html" title="G4_Mvtx_EIC.C" alt="" coords="2089,173,2212,201"/>
+<area shape="rect" id="node31" href="$dc/da2/Fun4AllServer_8h.html" title="fun4all/Fun4AllServer.h" alt="" coords="2265,349,2442,377"/>
+<area shape="rect" id="node37" href="$d3/d50/G4__TPC__EIC_8C.html" title="G4_TPC_EIC.C" alt="" coords="2195,97,2309,125"/>
+<area shape="rect" id="node42" href="$dd/d3d/PHG4TrackFastSim_8h.html" title="Kalman Filter based on smeared truth PHG4Hit." alt="" coords="3392,433,3592,477"/>
+<area shape="rect" id="node48" href="$d6/de6/PHRaveVertexing_8h.html" title="Refit SvtxTracks with PHGenFit." alt="" coords="2846,441,3063,469"/>
+<area shape="rect" id="node49" href="$d6/de1/PHG4TrackFastSimEval_8h.html" title="Evaluation module for PHG4TrackFastSim output." alt="" coords="2621,433,2821,477"/>
+<area shape="rect" id="node4" href="$d6/d6c/PHG4SectorSubsystem_8h.html" title="g4detectors/PHG4SectorSubsystem.h" alt="" coords="704,257,979,285"/>
+<area shape="rect" id="node22" href="$d0/d2b/PHG4Reco_8h.html" title="g4main/PHG4Reco.h" alt="" coords="1170,257,1329,285"/>
+<area shape="rect" id="node5" href="$d3/db1/PHG4SectorConstructor_8h.html" title="Generalized sector detectors." alt="" coords="611,349,803,377"/>
+<area shape="rect" id="node16" href="$df/d1c/PHG4Subsystem_8h.html" title="g4main/PHG4Subsystem.h" alt="" coords="1427,441,1629,469"/>
+<area shape="rect" id="node17" href="$da/dc1/Fun4AllReturnCodes_8h.html" title="fun4all/Fun4AllReturnCodes.h" alt="" coords="1477,525,1699,553"/>
+<area shape="rect" id="node18" href="$d5/dc2/SubsysReco_8h.html" title="fun4all/SubsysReco.h" alt="" coords="2672,525,2837,553"/>
+<area shape="rect" id="node19" href="$d2/de7/Fun4AllBase_8h.html" title="Fun4AllBase.h" alt="" coords="2913,601,3029,629"/>
+<area shape="rect" id="node23" href="$d9/d5f/EDecayType_8hh.html" title="g4decayer/EDecayType.hh" alt="" coords="979,349,1179,377"/>
+<area shape="rect" id="node27" href="$d0/d22/PHG4EICMvtxSubsystem_8h.html" title="g4mvtx/PHG4EICMvtxSubsystem.h" alt="" coords="1857,257,2113,285"/>
+<area shape="rect" id="node30" href="$df/d94/PHG4MvtxDefs_8h.html" title="g4mvtx/PHG4MvtxDefs.h" alt="" coords="1642,257,1833,285"/>
+<area shape="rect" id="node28" href="$d5/d12/PHG4DetectorGroupSubsystem_8h.html" title="g4detectors/PHG4Detector\lGroupSubsystem.h" alt="" coords="1573,341,1776,385"/>
+<area shape="rect" id="node32" href="$d0/d59/Fun4AllHistoManager_8h.html" title="Fun4AllHistoManager.h" alt="" coords="2320,441,2496,469"/>
+<area shape="rect" id="node33" href="$dc/d26/PHTimer_8h.html" title="high precision timer" alt="" coords="1961,441,2093,469"/>
+<area shape="rect" id="node38" href="$dc/dc6/PHG4CylinderSubsystem_8h.html" title="g4detectors/PHG4Cylinder\lSubsystem.h" alt="" coords="2442,249,2643,293"/>
+<area shape="rect" id="node41" href="$d7/d77/PHG4TpcEndCapSubsystem_8h.html" title="g4tpc/PHG4TpcEndCapSubsystem.h" alt="" coords="1353,257,1618,285"/>
+<area shape="rect" id="node39" href="$d8/d3a/PHG4DetectorSubsystem_8h.html" title="PHG4DetectorSubsystem.h" alt="" coords="1801,349,2005,377"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="eASTUserActionDispatcher::GetStackingActions" name="eASTUserActionDispatcher::GetStackingActions">
+<area shape="rect" id="node2" href="$d3/dae/classeASTStackingAction.html#a3636a78a4abeaf1207933a9bdd8d27bb" title="eASTStackingAction\l::ClassifyNewTrack" alt="" coords="256,5,412,49"/>
+<area shape="rect" id="node3" href="$d3/dae/classeASTStackingAction.html#a739ce533ef82901147977bdc9c3432fe" title="eASTStackingAction\l::NewStage" alt="" coords="256,73,412,117"/>
+<area shape="rect" id="node4" href="$d3/dae/classeASTStackingAction.html#a76f60b544567d6d001ed685bce918fb7" title="eASTStackingAction\l::PrepareNewEvent" alt="" coords="256,141,412,185"/>
+</map>

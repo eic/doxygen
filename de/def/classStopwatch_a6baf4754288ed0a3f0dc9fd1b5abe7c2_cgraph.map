@@ -1,0 +1,7 @@
+<map id="Stopwatch::Reset" name="Stopwatch::Reset">
+<area shape="rect" id="node2" href="$de/def/classStopwatch.html#a27b8ef726c3f63d98c1f982fb560ba5b" title="Stopwatch::ResetCpuTime" alt="" coords="195,5,393,33"/>
+<area shape="rect" id="node6" href="$de/def/classStopwatch.html#a8f5d39ed3a825520d87852fcfb4f4766" title="Stopwatch::ResetRealTime" alt="" coords="193,57,395,85"/>
+<area shape="rect" id="node3" href="$de/def/classStopwatch.html#afb2754584ef39767d8182f2345cd9721" title="Stopwatch::Stop" alt="" coords="443,32,575,60"/>
+<area shape="rect" id="node4" href="$de/def/classStopwatch.html#a7afd3a40beb7a7014a8991208dddfd55" title="Stopwatch::GetRealTime" alt="" coords="856,32,1044,60"/>
+<area shape="rect" id="node5" href="$de/def/classStopwatch.html#af5d2f0fc299795687a418aac173d7478" title="Stopwatch::GetCPUTime" alt="" coords="623,57,808,85"/>
+</map>

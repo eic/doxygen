@@ -1,0 +1,28 @@
+<map id="DIRCSetup" name="DIRCSetup">
+<area shape="rect" id="node2" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#af8d0b17890420cd9656d7d8eaf55cc41" title="PHG4Sector::Sector\l_Geometry::AddLayer" alt="" coords="185,5,355,49"/>
+<area shape="rect" id="node3" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a97b24275f8f8258b2a7a942f0f10a450" title="PHG4Sector::Sector\l_Geometry::FlatEdge" alt="" coords="188,73,352,117"/>
+<area shape="rect" id="node4" href="$da/dca/classPHG4SectorSubsystem.html#a18e65911a43c5a9015131793352809b5" title="geometry manager PHG4Sector::Sector_Geometry" alt="" coords="182,141,358,185"/>
+<area shape="rect" id="node5" href="$d5/d29/classPHG4DetectorSubsystem.html#a5a52f44370d90e92bfb3ed0abf6dbb76" title="PHG4DetectorSubsystem\l::OverlapCheck" alt="" coords="174,209,366,253"/>
+<area shape="rect" id="node6" href="$db/df7/classPHG4Subsystem.html#a23501010ac65db7c2bc31c02c5945ecb" title="PHG4Subsystem::OverlapCheck" alt="" coords="151,277,389,305"/>
+<area shape="rect" id="node7" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="157,329,383,357"/>
+<area shape="rect" id="node8" href="$d8/d6e/classPHG4ConeSubsystem.html#a6f061e2e796475c47c4fb68b4fb631e4" title="PHG4ConeSubsystem::\lset_color" alt="" coords="182,381,358,425"/>
+<area shape="rect" id="node9" href="$d5/d29/classPHG4DetectorSubsystem.html#a48e75fd1738dab9d0d66b174053ead8f" title="PHG4DetectorSubsystem\l::set_double_param" alt="" coords="441,1333,633,1377"/>
+<area shape="rect" id="node10" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a83a31bf9617f2af840150315ec00d94a" title="PHG4Sector::Sector\l_Geometry::set_material" alt="" coords="176,501,364,545"/>
+<area shape="rect" id="node11" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#ac52b2fa6cdc3f699bc5ea62072ac69a6" title="PHG4Sector::Sector\l_Geometry::set_max_polar_angle" alt="" coords="147,569,393,613"/>
+<area shape="rect" id="node12" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#adf4ff55a25e6cb0e3d0e1def21250235" title="PHG4Sector::Sector\l_Geometry::set_max_polar_edge" alt="" coords="149,637,391,681"/>
+<area shape="rect" id="node13" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a770affc63d6d1bf81df223e2d5237309" title="PHG4Sector::Sector\l_Geometry::set_min_polar_angle" alt="" coords="149,705,391,749"/>
+<area shape="rect" id="node14" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a5384335a1976554c92e23854e64e0c92" title="PHG4Sector::Sector\l_Geometry::set_min_polar_edge" alt="" coords="151,773,389,817"/>
+<area shape="rect" id="node15" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a46f87fc9d05f391bca5ea6238db6848b" title="PHG4Sector::Sector\l_Geometry::set_N_Sector" alt="" coords="174,841,366,885"/>
+<area shape="rect" id="node16" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#ac042fcc88d51f5acb127fb21855dc924" title="PHG4Sector::Sector\l_Geometry::set_normal\l_polar_angle" alt="" coords="181,909,359,969"/>
+<area shape="rect" id="node17" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a1f06572e747703b474e2b159e0e55c20" title="PHG4Sector::Sector\l_Geometry::set_normal_start" alt="" coords="161,993,379,1037"/>
+<area shape="rect" id="node18" href="$d5/d29/classPHG4DetectorSubsystem.html#a82c122f8a80f34dc4ffba6675ce60c75" title="PHG4DetectorSubsystem\l::set_string_param" alt="" coords="441,752,633,796"/>
+<area shape="rect" id="node19" href="$d5/d29/classPHG4DetectorSubsystem.html#a06d7265cdb191528ced9e78e73ba0f0a" title="PHG4DetectorSubsystem\l::SetActive" alt="" coords="174,1129,366,1173"/>
+<area shape="rect" id="node20" href="$d8/d6e/classPHG4ConeSubsystem.html#af0ef2c815f2d67497b9eb6b9712482d5" title="PHG4ConeSubsystem::\lSetMaterial" alt="" coords="182,1061,358,1105"/>
+<area shape="rect" id="node21" href="$d8/d6e/classPHG4ConeSubsystem.html#a8bcb0771f582cd5cfb1277ba363f84f2" title="PHG4ConeSubsystem::\lSetPlaceZ" alt="" coords="182,1333,358,1377"/>
+<area shape="rect" id="node22" href="$d8/d6e/classPHG4ConeSubsystem.html#ab949c958f5a850ee5eb8c84164a650b5" title="set inner and outter radius1" alt="" coords="182,1401,358,1445"/>
+<area shape="rect" id="node23" href="$d8/d6e/classPHG4ConeSubsystem.html#ab8df6e0fc2d8a43dbfa63cb5a7611d61" title="set inner and outter radius2" alt="" coords="182,1197,358,1241"/>
+<area shape="rect" id="node24" href="$d8/d6e/classPHG4ConeSubsystem.html#a45e477e8cdc0c2d022451860c4887ab1" title="set length in Z" alt="" coords="182,1265,358,1309"/>
+<area shape="rect" id="node25" href="$d5/d29/classPHG4DetectorSubsystem.html#aa0c11d415a70a207a3ea851b28932dfd" title="PHG4DetectorSubsystem\l::SuperDetector" alt="" coords="174,1521,366,1565"/>
+<area shape="rect" id="node26" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a25e5972d8c166894349fce19418777cb" title="Unit." alt="" coords="191,1589,349,1633"/>
+<area shape="rect" id="node27" href="$d5/dec/classFun4AllBase.html#a05da2261577843028cf78e99171343b9" title="Sets the verbosity of this module (0 by default=quiet)." alt="" coords="182,1657,358,1685"/>
+</map>

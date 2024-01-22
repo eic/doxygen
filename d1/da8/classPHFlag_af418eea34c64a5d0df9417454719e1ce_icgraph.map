@@ -1,0 +1,33 @@
+<map id="PHFlag::get_StringFlag" name="PHFlag::get_StringFlag">
+<area shape="rect" id="node2" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#a5d52892d52c8020e2e81e981b47a1220" title="PHG4FullProjTiltedSpacal\lDetector::Construct_AzimuthalSeg" alt="" coords="242,5,495,49"/>
+<area shape="rect" id="node3" href="$d1/d05/classPHG4FullProjSpacalDetector.html#afd4c65353754d4baff1ed614a2aca247" title="PHG4FullProjSpacalDetector\l::Construct_AzimuthalSeg" alt="" coords="263,73,474,117"/>
+<area shape="rect" id="node4" href="$d9/d5c/classPHG4MicromegasDetector.html#adc9e53e8e33066cc4d281b6abc44b7cf" title="construct" alt="" coords="269,141,469,185"/>
+<area shape="rect" id="node6" href="$dc/de8/classPHG4InttDetector.html#a274b5903d6cc8942cfc50a173e2832d1" title="PHG4InttDetector::ConstructIntt" alt="" coords="250,209,487,237"/>
+<area shape="rect" id="node8" href="$d6/dc5/classEICG4BwdDetector.html#a79420d3a59daa1dc83b7452e41c56d91" title="construct" alt="" coords="247,261,490,289"/>
+<area shape="rect" id="node9" href="$dd/d10/classEICG4B0ECALDetector.html#a45ef5f2e74993e069fe1525faec9fa02" title="construct" alt="" coords="282,313,455,357"/>
+<area shape="rect" id="node10" href="$d5/da7/classPHG4CEmcTestBeamDetector.html#acbd2a1844f108e3ba99bdb24a298b133" title="construct" alt="" coords="587,704,809,748"/>
+<area shape="rect" id="node11" href="$d3/d22/classPHG4BbcDetector.html#a7828b04efeed22f55fffce3385d0cfe1" title="construct BBC/MBD" alt="" coords="251,449,487,477"/>
+<area shape="rect" id="node12" href="$dc/df2/classPHG4ZDCDetector.html#ae78930fd5b13383ea22dbaab031e90c0" title="construct" alt="" coords="249,501,488,529"/>
+<area shape="rect" id="node13" href="$d9/d50/classPHG4ForwardHcalDetector.html#a03a1b59d660ecc29e6c6de89f299d9c8" title="construct" alt="" coords="597,883,799,927"/>
+<area shape="rect" id="node14" href="$dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#abc8babb94a4c21f0ec7d5cc33f09dc2b" title="construct" alt="" coords="887,1096,1097,1140"/>
+<area shape="rect" id="node15" href="$db/d29/classPHG4BackwardHcalDetector.html#a7f6aa004d060614cd635e7f1cb989313" title="construct" alt="" coords="591,1079,805,1123"/>
+<area shape="rect" id="node16" href="$d1/deb/classPHG4CrystalCalorimeterDetector.html#a28e6f1b736f25d793ceddbb8b24f234d" title="construct" alt="" coords="576,1189,820,1233"/>
+<area shape="rect" id="node17" href="$d4/dd9/classPHG4LFHcalDetector.html#a6a6dd7e7623d6560cafc8ee4c7ca4e1c" title="construct" alt="" coords="617,1332,779,1376"/>
+<area shape="rect" id="node18" href="$d5/d80/classPHG4InnerHcalDetector.html#adcc55f5d190de67371fb9bf28015c68a" title="construct" alt="" coords="277,844,460,888"/>
+<area shape="rect" id="node19" href="$df/d74/classPHG4OuterHcalDetector.html#ae159c3d2a294c687f9c0f4af6dbce281" title="construct" alt="" coords="276,912,461,956"/>
+<area shape="rect" id="node20" href="$d8/d23/classPHG4ForwardEcalDetector.html#a3930ced4da0fa3fd0c39d302fe6a84e5" title="construct" alt="" coords="598,1421,798,1465"/>
+<area shape="rect" id="node21" href="$dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a8e835bd68145beff26cfe2ac6b3515f8" title="PHG4ProjCrystalCalorimeter\lDetector::ConstructProjectiveCrystals" alt="" coords="561,576,835,620"/>
+<area shape="rect" id="node22" href="$d9/d50/classPHG4ForwardHcalDetector.html#aecc0b0e93fa263ec209542788a36009f" title="PHG4ForwardHcalDetector\l::ConstructTower" alt="" coords="268,980,469,1024"/>
+<area shape="rect" id="node23" href="$db/d29/classPHG4BackwardHcalDetector.html#a3543b21e214f1a171a43c8494eafe59c" title="PHG4BackwardHcalDetector\l::ConstructTower" alt="" coords="262,1048,475,1092"/>
+<area shape="rect" id="node24" href="$d4/dd9/classPHG4LFHcalDetector.html#a632a9e545bf50de85ea08769c75b205d" title="PHG4LFHcalDetector\l::ConstructTower" alt="" coords="287,1287,450,1331"/>
+<area shape="rect" id="node25" href="$d1/deb/classPHG4CrystalCalorimeterDetector.html#a74ce7191f73cc0cb6d78dbbda713c941" title="PHG4CrystalCalorimeterDetector\l::ConstructTower" alt="" coords="247,1219,491,1263"/>
+<area shape="rect" id="node26" href="$d5/d93/classPHG4HybridHomogeneousCalorimeterDetector.html#a07bda1080900fd47c244a2ad521c1732" title="PHG4HybridHomogeneousCalorimeter\lDetector::ConstructTower" alt="" coords="228,1527,509,1571"/>
+<area shape="rect" id="node28" href="$d8/d23/classPHG4ForwardEcalDetector.html#a6cc111d6a9972cad82ed720d4f834f47" title="PHG4ForwardEcalDetector\l::ConstructTower" alt="" coords="269,1407,469,1451"/>
+<area shape="rect" id="node29" href="$d5/da7/classPHG4CEmcTestBeamDetector.html#a97c72fbc0fab1afc7878745fc9d1ccfd" title="PHG4CEmcTestBeamDetector\l::ConstructTowerVolume" alt="" coords="258,673,479,717"/>
+<area shape="rect" id="node30" href="$dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a5280dacdca94a9bfe800114cfaa81cd5" title="PHG4ProjCrystalCalorimeter\lDetector::Fill4x4Unit" alt="" coords="263,605,474,649"/>
+<area shape="rect" id="node31" href="$dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#acb06a6ec6fc705d039cb53afc9451a06" title="PHG4ProjCrystalCalorimeter\lDetector::FillSpecialUnit" alt="" coords="263,381,474,425"/>
+<area shape="rect" id="node32" href="$db/dc5/classPHG4CylinderSubsystem.html#a36e9fe9b69b4314846e245a1c6119cf3" title="init runwise stuff" alt="" coords="274,1647,463,1691"/>
+<area shape="rect" id="node5" href="$d9/d5c/classPHG4MicromegasDetector.html#a645e1aa98c237126c8e53b9e3f028262" title="construct" alt="" coords="598,141,798,185"/>
+<area shape="rect" id="node7" href="$dc/de8/classPHG4InttDetector.html#a28f158eacdcba41ebc42456e725bbe94" title="construct" alt="" coords="581,209,815,237"/>
+<area shape="rect" id="node27" href="$d5/d93/classPHG4HybridHomogeneousCalorimeterDetector.html#a5fc8c0640b56ca93b7492615617ed59f" title="construct" alt="" coords="557,1527,839,1571"/>
+</map>

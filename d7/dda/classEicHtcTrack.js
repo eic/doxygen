@@ -1,0 +1,28 @@
+var classEicHtcTrack =
+[
+    [ "EicHtcTrack", "d7/dda/classEicHtcTrack.html#ad9d596be82bfcd17ca2d2545651bab5f", null ],
+    [ "~EicHtcTrack", "d7/dda/classEicHtcTrack.html#a9d08aab787a598e971567642ef553e9f", null ],
+    [ "BeamESX", "d7/dda/classEicHtcTrack.html#ac934a76aa3fcbd2e26b6d035d4c948dd", null ],
+    [ "BeamESY", "d7/dda/classEicHtcTrack.html#ae28c8c2b50c69e76c6301a579dcd0c37", null ],
+    [ "BeamEX", "d7/dda/classEicHtcTrack.html#a9e4d2c36bfce55b4c09df439f2d20c17", null ],
+    [ "BeamEY", "d7/dda/classEicHtcTrack.html#a25161abdded7689bb1bcfdeb389620e0", null ],
+    [ "BeamSX", "d7/dda/classEicHtcTrack.html#a86a1fa51e92c10801445ef4b487ddea7", null ],
+    [ "BeamSY", "d7/dda/classEicHtcTrack.html#a63a4aa3df21cd199f6af3c3191b6d4e9", null ],
+    [ "BeamX", "d7/dda/classEicHtcTrack.html#a0a453de49253700f9d0653b181eba6f8", null ],
+    [ "BeamY", "d7/dda/classEicHtcTrack.html#a68d9a831b36fabf6f441c6e3aadd9464", null ],
+    [ "ChiSquare", "d7/dda/classEicHtcTrack.html#a3af931a1bd033d63fdbd2c4856a19a7a", null ],
+    [ "ChiSquareCCDF", "d7/dda/classEicHtcTrack.html#a6d8a9d28fbff687d9d7184242b9d39a9", null ],
+    [ "ClassDef", "d7/dda/classEicHtcTrack.html#a6146eac8c82f2061df5374418cd4e56c", null ],
+    [ "GetHit", "d7/dda/classEicHtcTrack.html#acad22fae1fbc3b7cbf14cb2f5af5eaef", null ],
+    [ "Ndf", "d7/dda/classEicHtcTrack.html#a3d968bb3da2a3ec32a8718a82aacf2d9", null ],
+    [ "EicHtcTask", "d7/dda/classEicHtcTrack.html#ad2a1a0bc187e90067d9da760d39e07c9", null ],
+    [ "mBeamCoordSigmaXY", "d7/dda/classEicHtcTrack.html#a58d8bbfdb735df4e38b87195cbd6ec5a", null ],
+    [ "mBeamCoordXY", "d7/dda/classEicHtcTrack.html#a02b457642bdd40b82806f2c310e2b909", null ],
+    [ "mBeamSlopeSigmaXY", "d7/dda/classEicHtcTrack.html#ac6c4c94484d430f608f08b86dbd25494", null ],
+    [ "mBeamSlopeXY", "d7/dda/classEicHtcTrack.html#ad59a791f495c8d260aa5b9e0ba5a3141", null ],
+    [ "mFilterChiSquare", "d7/dda/classEicHtcTrack.html#a4497053712266c4c662fe645ec28bf0d", null ],
+    [ "mFilterChiSquareCCDF", "d7/dda/classEicHtcTrack.html#a708cdf1faf02bef84dc1f07ad8e2c7c6", null ],
+    [ "mHits", "d7/dda/classEicHtcTrack.html#a6d9fd3223d7217eacda41c2a0716e070", null ],
+    [ "mMomentum", "d7/dda/classEicHtcTrack.html#aca2260f1d4674d7fe5bf9ca2354f51c0", null ],
+    [ "mNdf", "d7/dda/classEicHtcTrack.html#a792e83e3c369c1e4f9df2e514d12201c", null ]
+];

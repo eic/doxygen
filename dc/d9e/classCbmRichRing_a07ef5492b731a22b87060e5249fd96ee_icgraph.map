@@ -1,0 +1,19 @@
+<map id="CbmRichRing::GetNofHits" name="CbmRichRing::GetNofHits">
+<area shape="rect" id="node2" href="$d5/d99/classCbmRichConverter.html#ac656c5037798f232d3b92e44c8ab4176" title="Copy hits from CbmRichRing to CbmRichRingLight." alt="" coords="260,73,477,117"/>
+<area shape="rect" id="node5" href="$d5/d75/classCbmRichGeoTest.html#a3877e9706c0d5764a48e943b355830cf" title="Loop over all rings in array and fill ring parameters histograms." alt="" coords="537,141,789,169"/>
+<area shape="rect" id="node9" href="$d5/d18/classCbmRichTrainAnnElectrons.html#afa99b7e676a7e9f72797c24482860490" title="Fill input parameters for ANN in array and histograms." alt="" coords="562,248,765,292"/>
+<area shape="rect" id="node11" href="$d6/d0d/classCbmRichRingTrackAssignClosestD.html#a42cda5d88c24ea51744b16fa782ed284" title="Inherited from CbmRichRingTrackAssignBase." alt="" coords="248,244,489,288"/>
+<area shape="rect" id="node12" href="$dc/df5/classCbmRichRingTrackAssignIdeal.html#a18fb1c0b65e3bda2c530954dbcc2d4a9" title="Inherited from CbmRichRingTrackAssignBase." alt="" coords="257,312,481,356"/>
+<area shape="rect" id="node13" href="$d2/dcc/classCbmRichElectronIdAnn.html#a7f27717923af34a6d961417786731590" title="Calculate output value of the ANN." alt="" coords="575,420,751,464"/>
+<area shape="rect" id="node14" href="$d7/d14/classCbmRichMatchRings.html#ac2842fe3bd2157efa42daffae51bfae9" title="Inherited from FairTask." alt="" coords="268,432,469,460"/>
+<area shape="rect" id="node15" href="$dc/d9e/classCbmRichRing.html#aa8e776dba3f235d0932549b3e1b503ff" title="CbmRichRing::GetNDF" alt="" coords="282,380,455,408"/>
+<area shape="rect" id="node16" href="$d9/de4/classCbmRichUrqmdTest.html#a9dfd0bdbc397d41584a70ec56b7d262d" title="CbmRichUrqmdTest::NofRings" alt="" coords="257,536,480,564"/>
+<area shape="rect" id="node18" href="$dc/d9e/classCbmRichRing.html#a67cf46235d82d1801224094ed64a14f3" title="CbmRichRing::Print" alt="" coords="293,588,445,616"/>
+<area shape="rect" id="node3" href="$d7/d94/classCbmRichTrainAnnSelect.html#aa1b5db92eacf4588fca5794bc1451b2e" title="Fill ring selection parameters in array and histograms." alt="" coords="572,5,755,49"/>
+<area shape="rect" id="node7" href="$d5/dcf/classCbmRichReconstruction.html#ae90c91a3975fc059aac7a20e216ef0e9" title="CbmRichReconstruction\l::RunFitter" alt="" coords="573,73,754,117"/>
+<area shape="rect" id="node4" href="$d7/d94/classCbmRichTrainAnnSelect.html#a98a50fd7abb8180ae973349411cf0329" title="Inherited from FairTask." alt="" coords="847,5,1030,49"/>
+<area shape="rect" id="node6" href="$d5/d75/classCbmRichGeoTest.html#a9d5e890887411e04eb97219b7fa6c191" title="Inherited from FairTask." alt="" coords="851,141,1027,169"/>
+<area shape="rect" id="node8" href="$d5/dcf/classCbmRichReconstruction.html#ae6cd4acbe204540aa154d76f7dc13ace" title="Inherited from FairTask." alt="" coords="848,73,1029,117"/>
+<area shape="rect" id="node10" href="$d5/d18/classCbmRichTrainAnnElectrons.html#ac1828265ff11764786df9eb9ed38a591" title="Inherited from FairTask." alt="" coords="837,248,1040,292"/>
+<area shape="rect" id="node17" href="$d9/de4/classCbmRichUrqmdTest.html#a2c26d3f87bd1862e9b250ad5d4975a5a" title="Inherited from FairTask." alt="" coords="566,536,761,564"/>
+</map>

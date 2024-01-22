@@ -1,0 +1,23 @@
+<map id="fun4all_eic_qa/blob/master/macros/G4_FHCAL.C" name="fun4all_eic_qa/blob/master/macros/G4_FHCAL.C">
+<area shape="rect" id="node2" href="$df/d34/G4Setup__LBLDetector_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/AllSilicon\l/G4Setup_LBLDetector.C" alt="" coords="28,97,236,157"/>
+<area shape="rect" id="node4" href="$d3/d35/fun4all__eicmacros_2blob_2master_2detectors_2EICDetector_2G4Setup__EICDetector_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/EICDetector\l/G4Setup_EICDetector.C" alt="" coords="271,97,499,157"/>
+<area shape="rect" id="node6" href="$d6/d41/G4Setup__fsPHENIX_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/fsPHENIX\l/G4Setup_fsPHENIX.C" alt="" coords="529,97,738,157"/>
+<area shape="rect" id="node8" href="$d8/da0/G4Setup__ModularDetector_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/Modular\l/G4Setup_ModularDetector.C" alt="" coords="765,97,982,157"/>
+<area shape="rect" id="node10" href="$df/d13/G4Setup__ModularDetectorBeast_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/ModularBeast\l/G4Setup_ModularDetectorBeast.C" alt="" coords="1017,97,1274,157"/>
+<area shape="rect" id="node12" href="$db/de4/G4__QA__EIC_8C.html" title="fun4all_eic_qa/blob\l/master/macros/G4_QA_EIC.C" alt="" coords="1606,105,1826,149"/>
+<area shape="rect" id="node19" href="$dc/df3/fun4all__eic__qa_2blob_2master_2macros_2G4Setup__EICDetector_8C.html" title="fun4all_eic_qa/blob\l/master/macros/G4Setup\l_EICDetector.C" alt="" coords="1851,97,2043,157"/>
+<area shape="rect" id="node20" href="$df/dd2/fun4all__tutorials_2blob_2master_2AnaTutorial_2macro_2G4Setup__EICDetector_8C.html" title="fun4all_tutorials/blob\l/master/AnaTutorial/macro\l/G4Setup_EICDetector.C" alt="" coords="2610,97,2811,157"/>
+<area shape="rect" id="node3" href="$d9/d18/Fun4All__G4__LBLDetector_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/AllSilicon\l/Fun4All_G4_LBLDetector.C" alt="" coords="5,205,213,265"/>
+<area shape="rect" id="node5" href="$d4/dd7/fun4all__eicmacros_2blob_2master_2detectors_2EICDetector_2Fun4All__G4__EICDetector_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/EICDetector\l/Fun4All_G4_EICDetector.C" alt="" coords="238,205,466,265"/>
+<area shape="rect" id="node7" href="$d7/d9e/Fun4All__G4__fsPHENIX_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/fsPHENIX\l/Fun4All_G4_fsPHENIX.C" alt="" coords="490,205,699,265"/>
+<area shape="rect" id="node9" href="$d5/d97/Fun4All__G4__FullDetectorModular_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/Modular\l/Fun4All_G4_FullDetectorModular.C" alt="" coords="724,205,983,265"/>
+<area shape="rect" id="node11" href="$d0/dce/Fun4All__G4__FullDetectorModularBeast_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/ModularBeast\l/Fun4All_G4_FullDetectorModularBeast.C" alt="" coords="1006,205,1303,265"/>
+<area shape="rect" id="node13" href="$db/d7c/Fun4All__G4__CEMC_8C.html" title="fun4all_eic_qa/blob\l/master/macros/Fun4All\l_G4_CEMC.C" alt="" coords="1947,205,2130,265"/>
+<area shape="rect" id="node14" href="$d6/d79/fun4all__eic__qa_2blob_2master_2macros_2Fun4All__G4__EICDetector_8C.html" title="fun4all_eic_qa/blob\l/master/macros/Fun4All\l_G4_EICDetector.C" alt="" coords="2154,205,2337,265"/>
+<area shape="rect" id="node15" href="$d4/d3e/Fun4All__G4__FEMC_8C.html" title="fun4all_eic_qa/blob\l/master/macros/Fun4All\l_G4_FEMC.C" alt="" coords="2361,205,2543,265"/>
+<area shape="rect" id="node16" href="$d8/ddf/Fun4All__G4__FHCAL_8C.html" title="fun4all_eic_qa/blob\l/master/macros/Fun4All\l_G4_FHCAL.C" alt="" coords="1327,205,1510,265"/>
+<area shape="rect" id="node17" href="$da/d70/Fun4All__G4__HCALIN_8C.html" title="fun4all_eic_qa/blob\l/master/macros/Fun4All\l_G4_HCALIN.C" alt="" coords="1534,205,1717,265"/>
+<area shape="rect" id="node18" href="$d5/d4e/Fun4All__G4__HCALOUT_8C.html" title="fun4all_eic_qa/blob\l/master/macros/Fun4All\l_G4_HCALOUT.C" alt="" coords="1741,205,1923,265"/>
+<area shape="rect" id="node21" href="$d9/d8a/Extract__ECCE__gdml_8C.html" title="east/blob/main/Components\l/ECCE/Extract_ECCE_gdml.C" alt="" coords="2878,213,3090,257"/>
+<area shape="rect" id="node22" href="$df/dd8/Fun4All__G4__EICDetector__AnaTutorial_8C.html" title="fun4all_tutorials/blob\l/master/AnaTutorial/macro\l/Fun4All_G4_EICDetector_AnaTutorial.C" alt="" coords="2567,205,2854,265"/>
+</map>

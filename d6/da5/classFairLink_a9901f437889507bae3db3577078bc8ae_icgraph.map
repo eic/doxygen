@@ -1,0 +1,45 @@
+<map id="FairLink::AddWeight" name="FairLink::AddWeight">
+<area shape="rect" id="node2" href="$df/d10/classFairMultiLinkedData.html#ac2865b824ebdfa83404b34c028aceb50" title="Inserts a link into the list of links without persistance checking." alt="" coords="209,665,363,709"/>
+<area shape="rect" id="node3" href="$df/d10/classFairMultiLinkedData.html#a6021b6584834def64d405d52c5f49429" title="Adds a FairLink link at the end of fLinks. If multi is kTRUE a link is allowed more than once otherwi..." alt="" coords="411,631,564,675"/>
+<area shape="rect" id="node44" href="$df/d10/classFairMultiLinkedData.html#a1a4c8d14f82f29ba5407d6b5cdc4457d" title="Gives you a list of links which contain the given type." alt="" coords="411,699,564,743"/>
+<area shape="rect" id="node4" href="$df/d10/classFairMultiLinkedData.html#a2d2c12469a10cdb6bc6cd022f665d5ef" title="Sets the Links with a single FairLink." alt="" coords="653,441,806,485"/>
+<area shape="rect" id="node12" href="$df/d10/classFairMultiLinkedData.html#a265eac63eef64bca1588f529c2fed859" title="Adds a List of FairLinks (FairMultiLinkedData) to fLinks." alt="" coords="653,225,806,269"/>
+<area shape="rect" id="node14" href="$d1/d99/classCbmMCMatch.html#af4b68bc903014aabb3e12ea4099e71a0" title="CbmMCMatch::FindStagesPointing\lToLinks" alt="" coords="1193,165,1444,209"/>
+<area shape="rect" id="node15" href="$d1/d99/classCbmMCMatch.html#ac8af14ff118e54c2b36603f613cfc250" title="CbmMCMatch::GetMCInfoForward\lSingle" alt="" coords="1498,203,1745,247"/>
+<area shape="rect" id="node22" href="$df/d10/classFairMultiLinkedData.html#ae8b70fefbf97744716d15f0dd51f2b67" title="FairMultiLinkedData\l::SimpleAddLinks" alt="" coords="653,716,806,760"/>
+<area shape="rect" id="node24" href="$d1/d99/classCbmMCMatch.html#add366da69a3d30b9151ee3471ad6c380" title="CbmMCMatch::AddToFinalStage" alt="" coords="612,664,847,692"/>
+<area shape="rect" id="node28" href="$d1/d24/classCbmMCObject.html#a290298d2443f08ee9443472d88adccf8" title="CbmMCObject::SetEntry" alt="" coords="1529,491,1713,519"/>
+<area shape="rect" id="node29" href="$d1/d24/classCbmMCObject.html#a2bdccfaaad2cb086d99ccb6d6616ffd1" title="CbmMCObject::PosInList" alt="" coords="637,784,822,812"/>
+<area shape="rect" id="node30" href="$dd/d8c/classPndPidCorrelator.html#ae4a0f3f29e102b0f60fac6c315ff0e02" title="PndPidCorrelator::Construct\lChargedCandidate" alt="" coords="625,836,833,880"/>
+<area shape="rect" id="node32" href="$dd/d26/classPndTrackCand.html#a4561b2cdb668db6e27567b342f444adb" title="PndTrackCand::AddHit" alt="" coords="643,904,815,932"/>
+<area shape="rect" id="node43" href="$d7/d86/classPndTrackArrayMerger.html#a81f9e102930113269c50bdb885a804f3" title="PndTrackArrayMerger\l::Exec" alt="" coords="647,956,812,1000"/>
+<area shape="rect" id="node5" href="$d1/d99/classCbmMCMatch.html#ae08b79687237e2f9f10c0f8f390c5350" title="CbmMCMatch::CreateArtificial\lStage" alt="" coords="1207,308,1430,352"/>
+<area shape="rect" id="node7" href="$d9/dd6/classCbmStack.html#acf2fe4f80a2ddb4a35bdd4420d32a725" title="CbmStack::UpdateTrackIndex" alt="" coords="910,337,1130,365"/>
+<area shape="rect" id="node8" href="$d3/d78/classEicTrackingDigiHit.html#a9276b7e8cb1111e22e84569f74663518" title="EicTrackingDigiHit\l::EicTrackingDigiHit" alt="" coords="943,441,1097,485"/>
+<area shape="rect" id="node9" href="$d5/dd2/classPndStack.html#a7eca09bba5ed5f38bcec048498c49ad7" title="PndStack::UpdateTrackIndex" alt="" coords="913,509,1127,537"/>
+<area shape="rect" id="node10" href="$d4/d3f/classPndTrack.html#a0951d02e9f8d3fec619bac16c664f981" title="PndTrack::PndTrack" alt="" coords="944,561,1096,589"/>
+<area shape="rect" id="node11" href="$d4/d3f/classPndTrack.html#aa20ce8053f34e4b7cb202b628346139d" title="PndTrack::SetRefIndex" alt="" coords="934,285,1106,313"/>
+<area shape="rect" id="node6" href="$df/deb/classCbmMCMatchLoaderTask.html#a6c57dcd4dde5d2dec4764baf448c6be9" title="CbmMCMatchLoaderTask\l::Exec" alt="" coords="1526,308,1717,352"/>
+<area shape="rect" id="node13" href="$d1/d99/classCbmMCMatch.html#ab52043f33eb7c8f16d42dd323c011f46" title="CbmMCMatch::FindStagesPointing\lToLink" alt="" coords="895,165,1145,209"/>
+<area shape="rect" id="node20" href="$d1/d99/classCbmMCMatch.html#ae644e6e96cf53b977cc8046812c7f6f1" title="CbmMCMatch::FindLinksToStage" alt="" coords="901,233,1139,261"/>
+<area shape="rect" id="node21" href="$d1/d24/classCbmMCObject.html#a8d648dc6ea408439e4f18b63a202c4bd" title="CbmMCObject::GetLinksWithType" alt="" coords="897,113,1143,141"/>
+<area shape="rect" id="node16" href="$d1/d99/classCbmMCMatch.html#a0e6d1d83a185916349d2405a5f7a601d" title="CbmMCMatch::GetMCInfoForward" alt="" coords="1805,417,2051,445"/>
+<area shape="rect" id="node19" href="$d1/d99/classCbmMCMatch.html#a4fa0bf15549a2464b473fa511dc708bc" title="CbmMCMatch::GetMCInfoSingle" alt="" coords="1811,469,2045,497"/>
+<area shape="rect" id="node17" href="$d1/d99/classCbmMCMatch.html#a2f5dc0858ef404f750dde46ab6d0b654" title="CbmMCMatch::GetMCInfo" alt="" coords="2106,469,2299,497"/>
+<area shape="rect" id="node18" href="$d9/d77/classCbmMCMatchSelectorTask.html#a08fdab318f202137010a768d52b08c74" title="CbmMCMatchSelectorTask\l::Exec" alt="" coords="2348,461,2548,505"/>
+<area shape="rect" id="node23" href="$df/d10/classFairMultiLinkedData.html#a0e288a8610d03536c6e92eae9ea41eed" title="Constructor." alt="" coords="939,716,1101,760"/>
+<area shape="rect" id="node25" href="$d1/d99/classCbmMCMatch.html#af1834b15adbdd6f17bc41ad22697a91b" title="CbmMCMatch::GetNextStage" alt="" coords="1210,665,1427,693"/>
+<area shape="rect" id="node26" href="$d1/d99/classCbmMCMatch.html#ac1b9cd1f7d164812e5a50dce5bcf83b9" title="CbmMCMatch::GetMCInfoBackward\lSingle" alt="" coords="1492,543,1751,587"/>
+<area shape="rect" id="node27" href="$d1/d99/classCbmMCMatch.html#a2262a17ac7af0a35881e6e690f2450e9" title="CbmMCMatch::GetMCInfoBackward" alt="" coords="1799,521,2057,549"/>
+<area shape="rect" id="node31" href="$dd/d8c/classPndPidCorrelator.html#ac7261219c977ce69655b77ca95032aec" title="PndPidCorrelator::Exec" alt="" coords="933,813,1107,841"/>
+<area shape="rect" id="node33" href="$dd/d8a/classEicIdealTrackingCode.html#ab46f1d961d618bc873e1dcb5b17a8d3c" title="EicIdealTrackingCode\l::Exec" alt="" coords="937,865,1103,909"/>
+<area shape="rect" id="node34" href="$d4/d84/PndGenfitAdapters_8h.html#a2b50106c9e92368e2a7246a833b60fb0" title="GenfitTrackCand2PndTrackCand" alt="" coords="902,933,1138,961"/>
+<area shape="rect" id="node42" href="$dd/d26/classPndTrackCand.html#a8044cf87366b517dfe6a1bc047d2d176" title="PndTrackCand::AddHit" alt="" coords="934,985,1106,1013"/>
+<area shape="rect" id="node35" href="$d4/d84/PndGenfitAdapters_8h.html#a4fc5873675ef9aa9938d296b9779387d" title="GenfitTrack2PndTrack" alt="" coords="1235,933,1403,961"/>
+<area shape="rect" id="node36" href="$de/d85/classPndGFTrackToPndTrackConvertorTask.html#a2e5496d4e39aefde3476bedca2d55a57" title="PndGFTrackToPndTrackConvertor\lTask::Exec" alt="" coords="1501,985,1742,1029"/>
+<area shape="rect" id="node37" href="$db/d6d/classPndRecoKalmanFit.html#af5a66632d2917c60057bd37109ec7364" title="PndRecoKalmanFit::Fit" alt="" coords="1536,933,1707,961"/>
+<area shape="rect" id="node41" href="$df/d62/classPndRecoDafFit.html#a71b624dff0fc50e252d2d2b9eed898ee" title="PndRecoDafFit::Fit" alt="" coords="1549,881,1693,909"/>
+<area shape="rect" id="node38" href="$d7/d87/classPndRecoKalmanTask.html#aa92916b999aeaf87e99fb08734ce368e" title="PndRecoKalmanTask::Exec" alt="" coords="1828,881,2028,909"/>
+<area shape="rect" id="node40" href="$d2/d28/classPndRecoMultiKalmanTask.html#a79938b3ab7bca0cc183821c03520553a" title="PndRecoMultiKalmanTask\l::Exec" alt="" coords="1831,933,2025,977"/>
+<area shape="rect" id="node39" href="$d2/db6/classEicRecoKalmanTask.html#a10103a96af9664a82027040c505bfff1" title="EicRecoKalmanTask::Exec" alt="" coords="2105,881,2300,909"/>
+</map>

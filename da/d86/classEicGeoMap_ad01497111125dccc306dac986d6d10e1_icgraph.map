@@ -1,0 +1,51 @@
+<map id="EicGeoMap::CalculateBitPattern" name="EicGeoMap::CalculateBitPattern">
+<area shape="rect" id="node2" href="$da/d86/classEicGeoMap.html#a9c17af03744fe42ae8daf66f9bda7f06" title="EicGeoMap::SetMappingTable\lEntry" alt="" coords="288,1156,509,1200"/>
+<area shape="rect" id="node3" href="$df/de0/classEicGeoParData.html#a85796e06ee06c2b0973409350d2c054d" title="EicGeoParData::SetMapping\lTableEntry" alt="" coords="557,1156,768,1200"/>
+<area shape="rect" id="node4" href="$d8/d4a/classVstGeoParData.html#aee9d9c975ea03f0bfccbdfdfdef50c95" title="VstGeoParData::Construct\lGeometry" alt="" coords="816,403,1015,447"/>
+<area shape="rect" id="node6" href="$d3/db3/config_81a_2tracker_8C.html#a890a5afd16f942935543675545b4bd62" title="tracker" alt="" coords="881,904,950,932"/>
+<area shape="rect" id="node7" href="$d0/d95/ip_8C.html#a292ff32a75b66b513d1f0ce00f9a4dc4" title="ip" alt="" coords="896,956,935,984"/>
+<area shape="rect" id="node41" href="$d3/db9/rich_8C.html#aea082dab4a933202625508305cc26f50" title="rich" alt="" coords="892,1008,939,1036"/>
+<area shape="rect" id="node42" href="$df/d7c/femc_8C.html#a601c0d58d41a3646eddbf354a4ff08d7" title="femc" alt="" coords="888,1060,943,1088"/>
+<area shape="rect" id="node43" href="$d1/dd5/HCAL_2hcal_8C.html#ae16e3709bf92cc3517979d9d0977830b" title="hcal" alt="" coords="891,1112,940,1140"/>
+<area shape="rect" id="node44" href="$da/ddc/romanPot__v2_8C.html#ac8016c32e351e993b5a66769fca3410e" title="romanPot_v2" alt="" coords="861,1164,970,1192"/>
+<area shape="rect" id="node45" href="$d9/d66/tpc_8C.html#ab423a18ea04a750c739676903c95ff3a" title="tpc" alt="" coords="894,1216,937,1244"/>
+<area shape="rect" id="node46" href="$d3/db4/b0tracker_8C.html#a3dcb82e6e9188403537a4bbe381b8366" title="b0tracker" alt="" coords="872,1268,959,1296"/>
+<area shape="rect" id="node47" href="$d6/db2/ippt_8C.html#abf4122f40eae398e07b200d1469922ba" title="ippt" alt="" coords="891,1320,939,1348"/>
+<area shape="rect" id="node48" href="$d7/d49/lqst_8C.html#a45f63200c92ba341ee0a5c0c8824e059" title="lqst" alt="" coords="892,1372,939,1400"/>
+<area shape="rect" id="node49" href="$da/d73/rp_8C.html#aae474c3ddcb876dab382631ee176559a" title="rp" alt="" coords="896,1424,935,1452"/>
+<area shape="rect" id="node50" href="$d6/d25/zdc_8C.html#aebe1fdfd97b7da27cc60e7e18f2d863a" title="zdc" alt="" coords="893,1476,937,1504"/>
+<area shape="rect" id="node5" href="$d7/db0/geometry_2MAPS_2sandbox_2vst_8C.html#a16d55d3488693e396250be82137f4a79" title="vst" alt="" coords="1167,5,1209,33"/>
+<area shape="rect" id="node8" href="$d6/dd3/TrKalmanNodeLocation_8cxx.html#a27336aa9181a8e9a1f999ddf30a2df4d" title="allocate_2dim_array" alt="" coords="1109,57,1267,85"/>
+<area shape="rect" id="node9" href="$da/d17/examples_2physics_2config_81_2analysis_8C.html#a9298c1bf04af5ce36c18908e1c324735" title="analysis" alt="" coords="1150,109,1226,137"/>
+<area shape="rect" id="node10" href="$d7/da5/beampipe_8C.html#a31f2b254b45d0630b2d4302228e2e41f" title="beampipe" alt="" coords="1143,161,1233,189"/>
+<area shape="rect" id="node11" href="$d1/dc6/classBEmcProfile.html#a9715807ee4afdcfb9349f976cee80181" title="BEmcProfile::BEmcProfile" alt="" coords="1093,213,1283,241"/>
+<area shape="rect" id="node12" href="$d9/d8e/classEtmDetector.html#ac58bab6626bd4500ddacddd136fbf4c7" title="EtmDetector::Build" alt="" coords="1113,265,1263,293"/>
+<area shape="rect" id="node13" href="$da/d3b/classKFParticle__Tools.html#a82facb5b158aae5c17ee7cf8aea0d239" title="KFParticle_Tools::calcMinIP" alt="" coords="1088,317,1288,345"/>
+<area shape="rect" id="node14" href="$d8/d55/classCoordSystem.html#a4ef4a71401850e2f5275bd5dfaab9c41" title="CoordSystem::calculateExpansion\lRules" alt="" coords="1063,369,1313,413"/>
+<area shape="rect" id="node15" href="$d6/da0/classTrKalmanFilter.html#a7bcbd9a232d0381ad1fede12788576a6" title="TrKalmanFilter::Calculate\lHMatrix" alt="" coords="1093,437,1283,481"/>
+<area shape="rect" id="node16" href="$d6/da0/classTrKalmanFilter.html#a5bdfa03cdcf72679594f1a6a3eb132eb" title="TrKalmanFilter::Calculate\lProcessNoise" alt="" coords="1093,505,1283,549"/>
+<area shape="rect" id="node17" href="$d9/d3a/classHoughTree.html#a069e198d0ba60ba83ee79ef1bf51dfaa" title="HoughTree::CheckCell" alt="" coords="1627,1149,1796,1177"/>
+<area shape="rect" id="node18" href="$da/dd0/classKfMatrix.html#a45eeb7891c26868ab80158ad55718380" title="KfMatrix::CheckPositivity" alt="" coords="1094,625,1282,653"/>
+<area shape="rect" id="node19" href="$da/dd0/classKfMatrix.html#a1596adafcd2b08159d4e13332487eacd" title="KfMatrix::FixPositivity" alt="" coords="1387,652,1553,680"/>
+<area shape="rect" id="node20" href="$d1/dc8/classgenfit_1_1GblFitter.html#a224cad1dcba8a38a34650fea7bfad61e" title="Remove all previous gbl fitter data from track Also removes trackpoints without measurement." alt="" coords="1121,729,1255,773"/>
+<area shape="rect" id="node21" href="$d1/d84/misc_8cxx.html#a2666a43a2f6a5c3f26aed8ad17a58d7a" title="cmd_line_variable_parser" alt="" coords="1091,797,1285,825"/>
+<area shape="rect" id="node22" href="$d1/dc8/classgenfit_1_1GblFitter.html#aca889cc191ff16e91cf281bde21f4eb6" title="Constructs all GBL points and returns them in vector for trajectory construction." alt="" coords="1121,849,1255,893"/>
+<area shape="rect" id="node23" href="$d7/d9f/classEicHtcTask.html#a58b5835f4f128737af89d1de2afb9559" title="EicHtcTask::ConstructLinear\lTrackApproximation" alt="" coords="1083,917,1293,961"/>
+<area shape="rect" id="node24" href="$d8/d55/classCoordSystem.html#a1d267240439f0a4f57b1be4fd295faaf" title="CoordSystem::CoordSystem" alt="" coords="1083,985,1293,1013"/>
+<area shape="rect" id="node25" href="$da/dd0/classKfMatrix.html#a0247f83c28d8508bc2b0320c8e9a0368" title="KfMatrix::CorrelationPrint" alt="" coords="1092,1037,1284,1065"/>
+<area shape="rect" id="node26" href="$d4/df1/examples_2tracking_2config_81b_2digitization_8C.html#adba96d6f735c11f76d8e5d5173d73d60" title="digitization" alt="" coords="1140,1089,1236,1117"/>
+<area shape="rect" id="node27" href="$d0/d70/classMgrid.html#a8b4cf069b1d54eca62697f84ccdc234c" title="Mgrid::directFieldValue" alt="" coords="1100,1141,1276,1169"/>
+<area shape="rect" id="node28" href="$d7/d67/dqcd_8F.html#ac9f7ba48dd5622d24da7b9c9d5c4139a" title="dqcd" alt="" coords="1161,1193,1215,1221"/>
+<area shape="rect" id="node29" href="$d5/db2/dqcdi_8F.html#a09401b7e76a7f6ba5e57d0e7e17f29cb" title="dqcdi" alt="" coords="1159,1245,1217,1273"/>
+<area shape="rect" id="node30" href="$d2/d9e/dsigma_8F.html#a322d42c5e0ccf64f089301b4c21fa6e4" title="dsigma" alt="" coords="1435,1272,1505,1300"/>
+<area shape="rect" id="node31" href="$de/d45/classEicSpaceRecoHit.html#a828bed32810bd7db86fc1a6a64510db4" title="EicSpaceRecoHit::EicSpace\lRecoHit" alt="" coords="1086,1349,1290,1393"/>
+<area shape="rect" id="node32" href="$d8/dd5/classEicTrackingDigiHit3D.html#a040e7510da47e8ce4019a14b42a3ca32" title="EicTrackingDigiHit3D\l::EicTrackingDigiHit3D" alt="" coords="1103,1417,1273,1461"/>
+<area shape="rect" id="node33" href="$d6/dd3/TrKalmanNodeLocation_8cxx.html#ae8169d2c92af25b7ed76cd1a0a0e94d2" title="fill_lower_triangle" alt="" coords="1118,1485,1258,1513"/>
+<area shape="rect" id="node34" href="$da/dd0/classKfMatrix.html#a541d1ad0224e45de2dfbf1683f5d0cd2" title="KfMatrix::ForceSymmetric" alt="" coords="1090,1537,1286,1565"/>
+<area shape="rect" id="node35" href="$de/d64/classAnnularFieldSim.html#a69085e0758c28f66750ab848c3d35a8f" title="AnnularFieldSim::Generate\lDistortionMaps" alt="" coords="1086,1589,1290,1633"/>
+<area shape="rect" id="node36" href="$de/d64/classAnnularFieldSim.html#afefe72cb32eb62dc9f14d9bc7509f48f" title="AnnularFieldSim::Generate\lSeparateDistortionMaps" alt="" coords="1086,1657,1290,1701"/>
+<area shape="rect" id="node37" href="$dc/d1e/classResolutionLevel.html#a0e28e0bb0ba8a4ca33c89824459c1a4a" title="ResolutionLevel::GetCellSize" alt="" coords="1081,1725,1295,1753"/>
+<area shape="rect" id="node38" href="$d9/d3a/classHoughTree.html#a3e3cb13525bf54793e6203c398dc1e5a" title="HoughTree::GetInitializedCell" alt="" coords="1361,1725,1579,1753"/>
+<area shape="rect" id="node39" href="$da/d23/classBeastMagneticField.html#a4513e86445cd2de3b9e0250b78300eb6" title="BeastMagneticField\l::GetFieldValue" alt="" coords="1112,1829,1264,1873"/>
+<area shape="rect" id="node40" href="$d1/d62/classEicTrackingRecoHit.html#ae19bb0ce252ab69bd7e41f70410b2a05" title="EicTrackingRecoHit\l::getHMatrix" alt="" coords="1113,1897,1263,1941"/>
+</map>

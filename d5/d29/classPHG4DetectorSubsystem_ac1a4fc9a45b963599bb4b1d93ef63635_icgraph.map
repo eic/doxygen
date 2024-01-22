@@ -1,0 +1,6 @@
+<map id="PHG4DetectorSubsystem::UseCalibFiles" name="PHG4DetectorSubsystem::UseCalibFiles">
+<area shape="rect" id="node2" href="$d7/ddc/G4__CEmc__Spacal_8C.html#a18dd86bd5a536014cab38fcd3e87a829" title="2D full projective SPACAL" alt="" coords="245,5,441,33"/>
+<area shape="rect" id="node4" href="$de/d8a/G4__mRICH_8C.html#afe15c46bafe5f0a5c14319020f0741e4" title="mRICHSetup" alt="" coords="290,57,397,85"/>
+<area shape="rect" id="node3" href="$d7/ddc/G4__CEmc__Spacal_8C.html#ab889e50efe05ba6ce2e11ebae6917763" title="EMCal main setup macro." alt="" coords="499,5,559,33"/>
+<area shape="rect" id="node5" href="$d8/da0/G4Setup__ModularDetector_8C.html#a2f02606142212383317946c8ee8622a6" title="G4Setup" alt="" coords="489,57,569,85"/>
+</map>

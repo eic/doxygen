@@ -1,0 +1,10 @@
+<map id="EicBoxGenerator::ReadEvent" name="EicBoxGenerator::ReadEvent">
+<area shape="rect" id="node2" href="$d6/d1f/classFairPrimaryGenerator.html#a1066c04b726fde17ce36e3ee222963f9" title="FairPrimaryGenerator\l::AddTrack" alt="" coords="292,5,459,49"/>
+<area shape="rect" id="node4" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="353,73,397,101"/>
+<area shape="rect" id="node5" href="$dd/df0/classEicProtoGenerator.html#a5ab725d9214248e595b564240901c5b1" title="EicProtoGenerator::\lGetModifiedTrack" alt="" coords="299,125,451,169"/>
+<area shape="rect" id="node6" href="$dd/df0/classEicProtoGenerator.html#a1faea8dfbc627c99878cec36be95fa37" title="EicProtoGenerator::\lGetSimulatedPrimaryVertex" alt="" coords="271,193,480,237"/>
+<area shape="rect" id="node7" href="$d5/dbe/EIC-IR1-XX-v00_8C.html#a888f39f7254b5b59976d577091d79a4e" title="vtx" alt="" coords="613,231,655,259"/>
+<area shape="rect" id="node8" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="346,313,405,341"/>
+<area shape="rect" id="node9" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="347,365,403,393"/>
+<area shape="rect" id="node3" href="$dd/d76/classFairGenericStack.html#aaacfed8ebc1eb7fcd6dcd819e7787860" title="FairGenericStack::PushTrack" alt="" coords="528,13,740,41"/>
+</map>

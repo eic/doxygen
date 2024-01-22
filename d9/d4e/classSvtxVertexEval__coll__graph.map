@@ -1,0 +1,19 @@
+<map id="SvtxVertexEval" name="SvtxVertexEval">
+<area shape="rect" id="node4" href="$d6/d81/classPHG4VtxPoint.html" title="PHG4VtxPoint" alt="" coords="139,233,255,261"/>
+<area shape="rect" id="node5" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="5,1499,89,1527"/>
+<area shape="rect" id="node6" href="$d2/d6d/classSvtxVertex.html" title="SvtxVertex" alt="" coords="499,141,593,169"/>
+<area shape="rect" id="node10" href="$d2/db8/classSvtxTrack.html" title="SvtxTrack" alt="" coords="936,502,1023,530"/>
+<area shape="rect" id="node12" href="$de/dc9/classPHG4Particle.html" title="PHG4Particle" alt="" coords="143,782,251,810"/>
+<area shape="rect" id="node14" href="$d3/d9e/classPHG4Hit.html" title="PHG4Hit" alt="" coords="940,1442,1019,1470"/>
+<area shape="rect" id="node22" href="$d0/d2c/classTrkrClusterContainer.html" title="Cluster container object." alt="" coords="898,1573,1061,1601"/>
+<area shape="rect" id="node23" href="$d7/d8d/classTrkrHitTruthAssoc.html" title="Association object for PHG4Cells contributiong to TrkrHits." alt="" coords="909,1637,1049,1665"/>
+<area shape="rect" id="node24" href="$da/d6c/classPHG4TruthInfoContainer.html" title="PHG4TruthInfoContainer" alt="" coords="887,1761,1072,1789"/>
+<area shape="rect" id="node40" href="$d7/d8b/classSvtxTrackMap.html" title="SvtxTrackMap" alt="" coords="1847,1930,1961,1958"/>
+<area shape="rect" id="node48" href="$db/dd7/classSvtxVertexMap.html" title="SvtxVertexMap" alt="" coords="279,2038,401,2066"/>
+<area shape="rect" id="node7" href="$df/dad/classSvtxTrackEval.html" title="SvtxTrackEval" alt="" coords="2299,774,2414,802"/>
+<area shape="rect" id="node18" href="$d1/d1e/classSvtxClusterEval.html" title="SvtxClusterEval" alt="" coords="1841,1366,1967,1394"/>
+<area shape="rect" id="node21" href="$d9/d62/classSvtxHitEval.html" title="SvtxHitEval" alt="" coords="1341,1767,1440,1795"/>
+<area shape="rect" id="node35" href="$d4/d32/structActsTrackingGeometry.html" title="ActsTrackingGeometry" alt="" coords="1303,1130,1478,1158"/>
+<area shape="rect" id="node38" title="STL class." alt="" coords="1859,1994,1949,2022"/>
+<area shape="rect" id="node39" title="STL class." alt="" coords="1319,1986,1462,2030"/>
+</map>

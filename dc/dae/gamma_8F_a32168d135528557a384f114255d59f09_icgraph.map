@@ -1,0 +1,51 @@
+<map id="gamma" name="gamma">
+<area shape="rect" id="node2" href="$d5/d60/classlorentzVector.html#a6279dbb8641b48bce827658288f5ab16" title="lorentzVector::Boost" alt="" coords="169,47,327,75"/>
+<area shape="rect" id="node5" href="$dd/d7e/namespaceActs_1_1Test.html#a7c202131ed2bca603a789f0c2474c82a" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="154,99,342,143"/>
+<area shape="rect" id="node6" href="$dd/d7e/namespaceActs_1_1Test.html#ab8885d6478003245220634d95290a0fa" title="Unit test for testing the orientedSurfaces() function." alt="" coords="155,167,341,211"/>
+<area shape="rect" id="node7" href="$d3/d2c/classerhic_1_1LeptonKinematicsComputer.html#ae78c48d7f9d15670c97aedaec9f8a2ee" title="erhic::LeptonKinematicsComputer\l::Calculate" alt="" coords="685,228,937,272"/>
+<area shape="rect" id="node12" href="$d1/d6c/classerhic_1_1DoubleAngleComputer.html#a04eccca16b527c78065a94c768c0c814" title="erhic::DoubleAngleComputer\l::ComputeQSquared" alt="" coords="139,364,357,408"/>
+<area shape="rect" id="node15" href="$d1/d6c/classerhic_1_1DoubleAngleComputer.html#ab1643cf83ad78c5546e74265ab32a6d6" title="erhic::DoubleAngleComputer\l::ComputeY" alt="" coords="139,296,357,340"/>
+<area shape="rect" id="node16" href="$d8/d4a/classVstGeoParData.html#aee9d9c975ea03f0bfccbdfdfdef50c95" title="VstGeoParData::Construct\lGeometry" alt="" coords="149,432,347,476"/>
+<area shape="rect" id="node18" href="$d1/d34/classgenfit_1_1MaterialEffects.html#aa7e049da0d68b0e40f08c9c84023901a" title="Calculate dEdx for a given energy." alt="" coords="443,577,613,621"/>
+<area shape="rect" id="node20" href="$d1/d34/classgenfit_1_1MaterialEffects.html#ac11f0e9f0c47f9ae160e0e21cf846d01" title="Calculates energy loss in the traveled path, optional calculation of noise matrix." alt="" coords="1008,620,1179,664"/>
+<area shape="rect" id="node23" href="$d0/d7f/classGammaavectormeson.html#a986e27b6acd47e61c5b506b1f569aae2" title="Gammaavectormeson::\le_produceEvent" alt="" coords="159,671,337,715"/>
+<area shape="rect" id="node24" href="$de/dcb/classActsExamples_1_1HelloRandomAlgorithm.html#ae7e09866d1b8b909c616a9ab5f215ee4" title="ActsExamples::HelloRandom\lAlgorithm::execute" alt="" coords="140,739,356,783"/>
+<area shape="rect" id="node25" href="$d2/d72/classPHG4GDMLWriteStructure.html#a96d7e1027f518f309830051f60b25804" title="PHG4GDMLWriteStructure\l::ExportEnergyCuts" alt="" coords="151,807,345,851"/>
+<area shape="rect" id="node27" href="$de/d1f/classPHG4HcalDetector.html#a5506e14434ce99afcd2ecdc2f1bd7b24" title="PHG4HcalDetector::GetLength" alt="" coords="135,875,361,903"/>
+<area shape="rect" id="node28" href="$d1/d34/classgenfit_1_1MaterialEffects.html#a2b0432d5492f34876561f0687de2343b" title="genfit::MaterialEffects\l::getMomGammaBeta" alt="" coords="163,603,333,647"/>
+<area shape="rect" id="node29" href="$d1/d1d/structActs_1_1detail_1_1IntersectionHelper2D.html#a2363fc65579d3b36f7f99de61249ed37" title="Acts::detail::Intersection\lHelper2D::intersectEllipse" alt="" coords="149,927,347,971"/>
+<area shape="rect" id="node33" href="$d3/d5b/lmsimp_8F.html#a68d357e0cb539cd0ff05fe72786abb07" title="lmsimp" alt="" coords="213,995,283,1023"/>
+<area shape="rect" id="node35" href="$da/d16/classtwoPhotonLuminosity.html#a8ff8bf8549c251eb66bc79ec6fd6218d" title="twoPhotonLuminosity\l::Nphoton" alt="" coords="165,1047,331,1091"/>
+<area shape="rect" id="node37" href="$d9/df8/parton_8F.html#a2bafad62fff174f84acb30bc10201a98" title="parton" alt="" coords="215,1115,281,1143"/>
+<area shape="rect" id="node38" href="$d1/d21/classbeamBeamSystem.html#a608ec29ae532e4b2028c43efa31fe8a9" title="beamBeamSystem::probability\lOfHadronBreakup" alt="" coords="133,1167,363,1211"/>
+<area shape="rect" id="node39" href="$d9/d78/classPHG4ParticleGeneratorD0.html#ab7b714e2007eaf957fd8790b5b0cfd39" title="PHG4ParticleGeneratorD0\l::process_event" alt="" coords="150,1235,346,1279"/>
+<area shape="rect" id="node40" href="$da/df0/classPHSartre.html#aafe9fd92317ab1f7eee67a9354696c4e" title="PHSartre::process_event" alt="" coords="155,1303,341,1331"/>
+<area shape="rect" id="node41" href="$d6/d1d/pygdir_8F.html#af7640ec96aff1286ef05adf64a49345d" title="pygdir" alt="" coords="215,1355,281,1383"/>
+<area shape="rect" id="node42" href="$d6/dcf/pythia6425mod_8f.html#ae9f324419626b48b8aec2ff1f96842b7" title="pyveto" alt="" coords="214,1407,282,1435"/>
+<area shape="rect" id="node45" href="$dc/d8f/structActs_1_1detail_1_1RealQuadraticEquation.html#af3d74f7908dd8e0a6d0b30dbbb20ef71" title="Acts::detail::RealQuadratic\lEquation::RealQuadraticEquation" alt="" coords="125,1459,371,1503"/>
+<area shape="rect" id="node46" href="$d2/d35/riwibd_8F.html#a781d9ee888346087111dc3fa28af25ab" title="riwibd" alt="" coords="217,1527,279,1555"/>
+<area shape="rect" id="node47" href="$d0/d21/classbeam.html#a9d2e4ef158a5402a9df1f1e3b8b437dc" title="beam::setBeamLorentzGamma" alt="" coords="133,1579,363,1607"/>
+<area shape="rect" id="node49" href="$db/df6/classeventChannel.html#a53d9aa7251c865f19c33168b1b2faa13" title="Lorentz&#45;transforms given 4&#45;vector." alt="" coords="153,1631,343,1659"/>
+<area shape="rect" id="node50" href="$dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#a48a18f8ce37f212d0b2ad04579a6ea9a" title="Acts::TrapezoidVolumeBounds\l::TrapezoidVolumeBounds" alt="" coords="135,1683,361,1727"/>
+<area shape="rect" id="node3" href="$d8/df9/classnBodyPhaseSpaceGen.html#a072afaa8bbd25651356d7a09b702ae85" title="calculates full event kinematics from the effective masses of the (i + 1)&#45;body systems and the Lorent..." alt="" coords="441,73,615,117"/>
+<area shape="rect" id="node4" href="$d6/d3f/classstarlightPythia.html#a14729c3d2ba14a4fd8991b58ffa24dd0" title="starlightPythia::produce\lEvent" alt="" coords="437,5,619,49"/>
+<area shape="rect" id="node8" href="$d7/d2d/classerhic_1_1EventFromAsciiFactory.html#a87f879311fa2aa356c6bc012c51c72ef" title="erhic::EventFromAsciiFactory\l::FinishEvent" alt="" coords="985,228,1201,272"/>
+<area shape="rect" id="node9" href="$db/d1e/classerhic_1_1Pythia6EventBuilder.html#ac97f6bf0d160fe3b6e4d6c7030c225e1" title="erhic::Pythia6EventBuilder\l::BuildEvent" alt="" coords="993,296,1194,340"/>
+<area shape="rect" id="node10" href="$d2/d7d/classSmear_1_1Detector.html#a1f46fa238e78eca9726522e988ab2a20" title="Smear::Detector::FillEvent\lKinematics" alt="" coords="994,364,1193,408"/>
+<area shape="rect" id="node11" href="$da/d17/examples_2physics_2config_81_2analysis_8C.html#a9298c1bf04af5ce36c18908e1c324735" title="analysis" alt="" coords="1055,176,1131,204"/>
+<area shape="rect" id="node13" href="$d1/d6c/classerhic_1_1DoubleAngleComputer.html#a3b0ca0a86f4f8c2bcddbe6ecf4c351d1" title="erhic::DoubleAngleComputer\l::Calculate" alt="" coords="702,317,921,361"/>
+<area shape="rect" id="node14" href="$d1/d6c/classerhic_1_1DoubleAngleComputer.html#a656f949a5ad907cd087820fae62c6c10" title="erhic::DoubleAngleComputer\l::ComputeX" alt="" coords="419,328,637,372"/>
+<area shape="rect" id="node17" href="$d7/db0/geometry_2MAPS_2sandbox_2vst_8C.html#a16d55d3488693e396250be82137f4a79" title="vst" alt="" coords="507,448,549,476"/>
+<area shape="rect" id="node19" href="$d1/d34/classgenfit_1_1MaterialEffects.html#ad7852f974405ca9831b7b2a304e8e553" title="Returns momentum loss." alt="" coords="726,620,897,664"/>
+<area shape="rect" id="node22" href="$d1/d34/classgenfit_1_1MaterialEffects.html#aafe6915ea9e2b517de3989bc6bfe2899" title="genfit::MaterialEffects\l::drawdEdx" alt="" coords="726,552,897,596"/>
+<area shape="rect" id="node21" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a741b844d5f72a6df5d3597570b23c70d" title="Handles propagation and material effects." alt="" coords="1249,620,1397,664"/>
+<area shape="rect" id="node26" href="$d2/d72/classPHG4GDMLWriteStructure.html#a957c6f2d283732660e3eb9c41b982048" title="PHG4GDMLWriteStructure\l::TraverseVolumeTree" alt="" coords="431,780,625,824"/>
+<area shape="rect" id="node30" href="$d1/d1d/structActs_1_1detail_1_1IntersectionHelper2D.html#afb22a5037b1767892b761e67d430e8a0" title="Acts::detail::Intersection\lHelper2D::intersectCircle" alt="" coords="433,900,623,944"/>
+<area shape="rect" id="node31" href="$dd/d7e/namespaceActs_1_1Test.html#ab2f6abdb0343cadf0516be6668e33495" title="Acts::Test::basicChecks" alt="" coords="721,908,901,936"/>
+<area shape="rect" id="node32" href="$dd/d7e/namespaceActs_1_1Test.html#ab9210d0b0fd3127ebd047db94c350e95" title="Unit test for creating Ellipse intersection." alt="" coords="999,869,1187,913"/>
+<area shape="rect" id="node34" href="$db/dc0/lmcmnd_8F.html#ade091eb8640ba63ff56629afb16e3877" title="lmcmnd" alt="" coords="490,1020,566,1048"/>
+<area shape="rect" id="node36" href="$da/d16/classtwoPhotonLuminosity.html#a8bd521444aa452e4f0cd43750fa67d2f" title="twoPhotonLuminosity\l::integrand" alt="" coords="445,1072,611,1116"/>
+<area shape="rect" id="node43" href="$d6/dcf/pythia6425mod_8f.html#ac81fa418f8cd77b0873b2de2a4140933" title="pyevnt" alt="" coords="777,1405,846,1433"/>
+<area shape="rect" id="node44" href="$d6/dcf/pythia6425mod_8f.html#a83ae6561ab82fd7af8b1b3e511f477ac" title="pyevnw" alt="" coords="491,1432,565,1460"/>
+<area shape="rect" id="node48" href="$d1/d21/classbeamBeamSystem.html#a13163dd6ad71c1054e8a5c2fd6b1a84b" title="beamBeamSystem::init" alt="" coords="438,1579,618,1607"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CbmRichHit::GetNPhotons" name="CbmRichHit::GetNPhotons">
+<area shape="rect" id="node2" href="$da/d9f/classCbmRichHitProducer.html#ae09a5880ed6c729e141561a628143178" title="Adds a RichHit to the HitCollection." alt="" coords="289,35,450,79"/>
+<area shape="rect" id="node5" href="$d5/d75/classCbmRichGeoTest.html#ac4e85945a0e59eb8e5b24852dec35e2d" title="Calculate residuals between hits and MC points and fill histograms." alt="" coords="251,103,488,131"/>
+<area shape="rect" id="node7" href="$de/dfd/classCbmRichHit.html#a8252bed29bbf341318881077b7b7ec48" title="Inherited from CbmBaseHit." alt="" coords="287,155,451,183"/>
+<area shape="rect" id="node3" href="$da/d9f/classCbmRichHitProducer.html#afe4f7cc5874368e44deb8ac6cd756e52" title="Inherited from FairTask." alt="" coords="760,5,921,49"/>
+<area shape="rect" id="node4" href="$da/d9f/classCbmRichHitProducer.html#a587c0db1e409265d8fbebdab293357a9" title="Add cross talk hits." alt="" coords="543,35,705,79"/>
+<area shape="rect" id="node6" href="$d5/d75/classCbmRichGeoTest.html#a9d5e890887411e04eb97219b7fa6c191" title="Inherited from FairTask." alt="" coords="536,103,712,131"/>
+</map>

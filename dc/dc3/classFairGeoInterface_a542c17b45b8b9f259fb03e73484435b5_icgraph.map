@@ -1,0 +1,11 @@
+<map id="FairGeoInterface::readSet" name="FairGeoInterface::readSet">
+<area shape="rect" id="node2" href="$d1/d75/PndCave_8cxx.html#a159adab26413f627a972bd6e43ae4765" title="ClassImp" alt="" coords="343,5,426,33"/>
+<area shape="rect" id="node3" href="$df/d89/classPndMagnet.html#a24b61340759fdef8d1ab340f631f00b0" title="PndMagnet::ConstructASCIIGeometry" alt="" coords="248,57,521,85"/>
+<area shape="rect" id="node5" href="$d8/dd9/classCbmRich.html#a4da15c82f4256a1d985899fd00400299" title="Construct geometry from ASCII file. Supported structure for the mirrors are added on a fly..." alt="" coords="257,109,512,137"/>
+<area shape="rect" id="node7" href="$d0/d81/classPndTarget.html#a663bbcf65595d98eab33cf402ddfe74f" title="PndTarget::ConstructGeometry" alt="" coords="270,161,499,189"/>
+<area shape="rect" id="node8" href="$dd/dac/classEicDetector.html#a52d5d3a030ed4ab74e36989b4a563f73" title="EicDetector::ConstructGeometry" alt="" coords="265,213,505,241"/>
+<area shape="rect" id="node9" href="$dc/dc3/classFairGeoInterface.html#a20c09910c99d5f23510ed5eb4c8b0a4b" title="FairGeoInterface::create\lGeometry" alt="" coords="293,265,477,309"/>
+<area shape="rect" id="node10" href="$dc/dc3/classFairGeoInterface.html#a43facf1e09b3213a4b44fc70637b8d4b" title="FairGeoInterface::readAll" alt="" coords="291,333,479,361"/>
+<area shape="rect" id="node4" href="$df/d89/classPndMagnet.html#aff982bc9f85e558cbd4552add14d811c" title="PndMagnet::ConstructGeometry" alt="" coords="569,57,808,85"/>
+<area shape="rect" id="node6" href="$d8/dd9/classCbmRich.html#a3d1883ed88870fa1325c79d6c508242e" title="Construct geometry. Currently ROOT and ASCII formats are supported. The concrete method for geometry ..." alt="" coords="577,109,800,137"/>
+</map>

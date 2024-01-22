@@ -1,0 +1,7 @@
+<map id="EicTrackingDigiHitProducer::Finish" name="EicTrackingDigiHitProducer::Finish">
+<area shape="rect" id="node2" href="$df/dca/classEicTrackingDigiHitProducer.html#a8dbccddb08c5717c66480f29c4eee1cc" title="EicTrackingDigiHitProducer\l::getEicDigiParDataPtr" alt="" coords="257,5,461,49"/>
+<area shape="rect" id="node3" href="$df/d41/classEicDigiParData.html#afd7cefd533e0b57bcdf76a1e4af13f7c" title="EicDigiParData::mergeInto\lOutputFile" alt="" coords="260,73,459,117"/>
+<area shape="rect" id="node6" href="$d0/d2f/classEicDetName.html#aef29cb1ffe2ea071a03f4aa098408595" title="EicDetName::Name" alt="" coords="283,141,436,169"/>
+<area shape="rect" id="node4" href="$dd/dd2/classFairRun.html#a09dacf683861bbef4409df4bd012353c" title="FairRun::GetOutputFile" alt="" coords="509,56,683,84"/>
+<area shape="rect" id="node5" href="$dd/dd2/classFairRun.html#a32e8a29a693ab357d4ce2b56a6cbc3a0" title="FairRun::Instance" alt="" coords="527,108,665,136"/>
+</map>

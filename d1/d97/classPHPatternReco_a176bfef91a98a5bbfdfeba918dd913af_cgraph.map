@@ -1,0 +1,18 @@
+<map id="PHPatternReco::prune_z" name="PHPatternReco::prune_z">
+<area shape="rect" id="node2" href="$d9/d4d/classHelixHoughBin.html#a027546b906c0ba3aad8d44dfe948b082" title="HelixHoughBin::add\l_cluster_ID" alt="" coords="244,5,400,49"/>
+<area shape="rect" id="node3" href="$d9/d4d/classHelixHoughBin.html#a49c3219a2d689a69350ffb97a2415d7d" title="HelixHoughBin::get\l_count" alt="" coords="245,73,399,117"/>
+<area shape="rect" id="node4" href="$d9/d4d/classHelixHoughBin.html#a8f302764f6e9ee6d7c77cdf78081f8ac" title="HelixHoughBin::get\l_d_bin" alt="" coords="245,141,399,185"/>
+<area shape="rect" id="node5" href="$d9/d4d/classHelixHoughBin.html#a22e69ae3335beed80488b586a065c458" title="HelixHoughBin::get\l_dzdl_bin" alt="" coords="245,209,399,253"/>
+<area shape="rect" id="node6" href="$d9/d4d/classHelixHoughBin.html#a171768d13a54c3e46981078de8010dee" title="HelixHoughBin::get\l_global_bin" alt="" coords="245,277,399,321"/>
+<area shape="rect" id="node7" href="$d9/d4d/classHelixHoughBin.html#ac491d433a089017f6ec9e2bb40203a3a" title="HelixHoughBin::get\l_kappa_bin" alt="" coords="245,345,399,389"/>
+<area shape="rect" id="node8" href="$d9/d4d/classHelixHoughBin.html#adbe9a24f3eb672cdbf68fe48b642fea7" title="HelixHoughBin::get\l_neighbors_global_bin" alt="" coords="236,413,408,457"/>
+<area shape="rect" id="node9" href="$d9/d4d/classHelixHoughBin.html#a9441a49ab10a2d6d95577160ec1e1ef5" title="HelixHoughBin::get\l_phi_bin" alt="" coords="245,481,399,525"/>
+<area shape="rect" id="node10" href="$d9/d4d/classHelixHoughBin.html#ad17b675b6140bbfaf0e52711d3dcac1a" title="HelixHoughBin::get\l_z0_bin" alt="" coords="245,549,399,593"/>
+<area shape="rect" id="node11" href="$d1/d97/classPHPatternReco.html#a179d335ac2d2b0a19a532c92a3dfc599" title="PHPatternReco::set\l_nbins" alt="" coords="247,617,397,661"/>
+<area shape="rect" id="node17" href="$da/d0a/CylinderKalman_8cpp.html#ab74daa0c9784c63e060bfb98cc06fbf5" title="sign" alt="" coords="297,685,347,713"/>
+<area shape="rect" id="node12" href="$d3/d0a/classHelixHoughSpace.html#aba1f318d9f16183df41bf913ce52df6d" title="HelixHoughSpace::get\l_n_kappa_bins" alt="" coords="456,481,629,525"/>
+<area shape="rect" id="node13" href="$d3/d0a/classHelixHoughSpace.html#aa6a61794390c4eaa66bd6ba793f6523f" title="HelixHoughSpace::get\l_n_phi_bins" alt="" coords="456,549,629,593"/>
+<area shape="rect" id="node14" href="$d3/d0a/classHelixHoughSpace.html#a8589f7c449d9468cecf219aae481f9cc" title="HelixHoughSpace::get\l_n_d_bins" alt="" coords="456,617,629,661"/>
+<area shape="rect" id="node15" href="$d3/d0a/classHelixHoughSpace.html#a741d7a700ee7c1531a104713a6385ab0" title="HelixHoughSpace::get\l_n_dzdl_bins" alt="" coords="456,685,629,729"/>
+<area shape="rect" id="node16" href="$d3/d0a/classHelixHoughSpace.html#ae33111cd831e0d385e864c1f084816d1" title="HelixHoughSpace::get\l_n_z0_bins" alt="" coords="456,753,629,797"/>
+</map>

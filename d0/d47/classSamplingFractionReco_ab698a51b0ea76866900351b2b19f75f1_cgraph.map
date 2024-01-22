@@ -1,0 +1,10 @@
+<map id="SamplingFractionReco::process_event" name="SamplingFractionReco::process_event">
+<area shape="rect" id="node2" href="$df/da1/namespaceActs_1_1VectorHelpers.html#afc1703c2fa7adfd6517e5e16df2e5df4" title="Acts::VectorHelpers::eta" alt="" coords="232,5,417,33"/>
+<area shape="rect" id="node3" href="$de/dc9/classPHG4Particle.html#a44b98bfd72a04825791d1e4c4cb150a1" title="PHG4Particle::get_px" alt="" coords="243,57,406,85"/>
+<area shape="rect" id="node4" href="$de/dc9/classPHG4Particle.html#a3df4379f9e46224a8cca7f86c11e99e5" title="PHG4Particle::get_py" alt="" coords="243,109,406,137"/>
+<area shape="rect" id="node5" href="$de/dc9/classPHG4Particle.html#a533e9bda40b15f62802b187e6a743e74" title="PHG4Particle::get_pz" alt="" coords="243,161,406,189"/>
+<area shape="rect" id="node6" href="$d4/d30/classPHG4HitContainer.html#aec01041c4b9347f93832704e142b2439" title="return all hits matching a given detid" alt="" coords="224,213,425,241"/>
+<area shape="rect" id="node8" href="$da/d6c/classPHG4TruthInfoContainer.html#a2817b4438bb80cacb28f457975342cf2" title="PHG4TruthInfoContainer\l::GetPrimaryParticleRange" alt="" coords="225,265,424,309"/>
+<area shape="rect" id="node9" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="297,333,353,361"/>
+<area shape="rect" id="node7" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="473,213,520,241"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="RawClusterBuilderHelper::process_event" name="RawClusterBuilderHelper::process_event">
+<area shape="rect" id="node2" href="$db/d71/classRawClusterBuilderHelper.html#a89e3c0161d7e86993e843ae0538f257d" title="RawClusterBuilderHelper\l::cluster" alt="" coords="261,5,452,49"/>
+<area shape="rect" id="node3" href="$d9/dd8/classRawTower.html#a684d193cfa6e173242edecbf7b69d64a" title="RawTower::get_bineta" alt="" coords="273,73,441,101"/>
+<area shape="rect" id="node4" href="$d9/dd8/classRawTower.html#aaf00adb76f0d84be4f09649869aea707" title="return layer ID assigned to tower" alt="" coords="281,125,432,153"/>
+<area shape="rect" id="node5" href="$d9/dd8/classRawTower.html#ad7b821b149c79c752ffda34821982383" title="RawTower::get_binphi" alt="" coords="273,177,441,205"/>
+<area shape="rect" id="node6" href="$d8/dc4/classRawTowerGeom.html#a6ecdff55675d6cbfe0787f15e290cc1d" title="RawTowerGeom::get_center_x" alt="" coords="244,229,469,257"/>
+<area shape="rect" id="node7" href="$d8/dc4/classRawTowerGeom.html#a0cf5fed63e6644024bd5693cbe54b8ec" title="RawTowerGeom::get_center_y" alt="" coords="244,281,469,309"/>
+<area shape="rect" id="node8" href="$d8/dc4/classRawTowerGeom.html#a6549e53914d85376526aaba30c04fb1d" title="RawTowerGeom::get_center_z" alt="" coords="245,333,469,361"/>
+<area shape="rect" id="node9" href="$d9/dd8/classRawTower.html#ab23195d58fefabd9162115afa96707cc" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="270,385,443,413"/>
+<area shape="rect" id="node10" href="$d6/dc7/group__getters.html#gabf760f5a6fc7742a79c3bd3bb9a87188" title="cluster ID" alt="" coords="283,437,430,465"/>
+<area shape="rect" id="node11" href="$df/d49/classRawTowerGeomContainer.html#a21ac9ae05bf80964794b1542c0b982ce" title="RawTowerGeomContainer\l::get_tower_geometry" alt="" coords="259,489,455,533"/>
+<area shape="rect" id="node12" href="$d6/dc7/group__getters.html#gad43152b0a527dd83a282724ee8c8d353" title="return tower map for c++11 range&#45;based for&#45;loop" alt="" coords="255,557,458,585"/>
+<area shape="rect" id="node13" href="$d3/dc7/classRawTowerContainer.html#a37dc4ff544bc3e3a6d1cd7628c81d3e7" title="RawTowerContainer::\lgetCalorimeterID" alt="" coords="275,609,438,653"/>
+<area shape="rect" id="node14" href="$d6/d12/classRawClusterContainer.html#a0e6e107bd231fd090d5a42cf36db041a" title="RawClusterContainer\l::getClustersMap" alt="" coords="275,677,439,721"/>
+<area shape="rect" id="node15" href="$d3/dc7/classRawTowerContainer.html#a94a3368d6cd85ea4c3f204cd1065da26" title="RawTowerContainer::\lgetTower" alt="" coords="275,745,438,789"/>
+<area shape="rect" id="node16" href="$d3/dc7/classRawTowerContainer.html#a570f017dc793182557b3382e07374491" title="return all towers" alt="" coords="275,813,438,857"/>
+<area shape="rect" id="node17" href="$d2/d4e/classRawCluster.html#a212d74b86e4321315e6ef47558947a3a" title="RawCluster::identify" alt="" coords="278,881,435,909"/>
+<area shape="rect" id="node18" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="280,933,433,961"/>
+<area shape="rect" id="node19" href="$d9/db4/group__setters.html#gafbd2aac46ce75b3fbc2d865688a9c78e" title="total energy" alt="" coords="267,985,447,1013"/>
+<area shape="rect" id="node20" href="$d9/db4/group__setters.html#ga93e9588eb5509a28ca4ce6d6180d6c00" title="access to intrinsic cylindrical coordinate system" alt="" coords="280,1037,433,1065"/>
+<area shape="rect" id="node21" href="$d9/db4/group__setters.html#ga4ea7524076377c14d582ca9887fa6f1f" title="RawCluster::set_r" alt="" coords="287,1089,426,1117"/>
+<area shape="rect" id="node22" href="$d9/db4/group__setters.html#ga741909d2efc325ec3979fde2ebb70995" title="RawCluster::set_z" alt="" coords="287,1141,427,1169"/>
+<area shape="rect" id="node23" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="269,1193,445,1221"/>
+</map>

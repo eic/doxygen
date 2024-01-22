@@ -1,0 +1,21 @@
+<map id="TrkrHitSet::getHits" name="TrkrHitSet::getHits">
+<area shape="rect" id="node2" href="$d5/d86/classInttClusterizer.html#aa896d5f1adf8ac34a5ae766fd4d557bc" title="InttClusterizer::Cluster\lLadderCells" alt="" coords="221,12,395,56"/>
+<area shape="rect" id="node4" href="$dc/d12/classMvtxClusterizer.html#a1aa96e33d67d25815d5b5812566cc5b7" title="MvtxClusterizer::ClusterMvtx" alt="" coords="200,85,416,113"/>
+<area shape="rect" id="node6" href="$d1/dc5/classPHG4TpcDigitizer.html#a885fb5ebbc80c8a2ed915f762b90ad79" title="PHG4TpcDigitizer::Digitize\lCylinderCells" alt="" coords="209,141,407,185"/>
+<area shape="rect" id="node8" href="$dd/da0/classPHG4InttDigitizer.html#a1abd54009150500d799f667169b0b35a" title="PHG4InttDigitizer::\lDigitizeLadderCells" alt="" coords="232,209,384,253"/>
+<area shape="rect" id="node10" href="$d5/d21/classPHG4MvtxDigitizer.html#a0d6851617a0a95e6cfab450d5e8534b2" title="PHG4MvtxDigitizer::\lDigitizeMvtxLadderCells" alt="" coords="216,277,400,321"/>
+<area shape="rect" id="node12" href="$d5/df8/classQAG4SimulationMicromegas.html#a962411642b507c9567b448a7e7fa8965" title="evaluate hits" alt="" coords="201,345,415,389"/>
+<area shape="rect" id="node14" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="214,413,402,457"/>
+<area shape="rect" id="node16" href="$d0/dc0/classPHG4MicromegasDigitizer.html#a4aa5f53d284e5ffbd447698cd933da52" title="event processing" alt="" coords="209,481,407,525"/>
+<area shape="rect" id="node17" href="$d9/d15/classPHG4TpcPadBaselineShift.html#a3bb5562810279bd00fe4e241d8f94d52" title="PHG4TpcPadBaselineShift\l::process_event" alt="" coords="210,549,406,593"/>
+<area shape="rect" id="node18" href="$d1/dbc/classMicromegasClusterizer.html#ac19bbb046a5690d0612157dae3cebda4" title="event processing" alt="" coords="220,617,396,661"/>
+<area shape="rect" id="node19" href="$d7/ddb/classPHG4TpcElectronDrift.html#aeea2d1046042fabf274bc85a6221955f" title="PHG4TpcElectronDrift\l::process_event" alt="" coords="224,685,392,729"/>
+<area shape="rect" id="node20" href="$da/d35/classDumpTrkrHitSetContainer.html#a509b2816e46e11ea2f8fa1d02300a95b" title="DumpTrkrHitSetContainer\l::process_Node" alt="" coords="211,753,405,797"/>
+<area shape="rect" id="node3" href="$d5/d86/classInttClusterizer.html#a12f21f7ac9373c592f8ba3e7287f6c8a" title="event processing" alt="" coords="483,5,660,49"/>
+<area shape="rect" id="node5" href="$dc/d12/classMvtxClusterizer.html#a65c6ecb960ca545df424342dbe6de5b8" title="event processing" alt="" coords="478,73,665,117"/>
+<area shape="rect" id="node7" href="$d1/dc5/classPHG4TpcDigitizer.html#a6f7cfd373e9a212b5e255e44738ea193" title="event processing" alt="" coords="471,141,671,185"/>
+<area shape="rect" id="node9" href="$dd/da0/classPHG4InttDigitizer.html#aec310cc05309c369b9d87b67ae4e4c6d" title="event processing" alt="" coords="499,209,644,253"/>
+<area shape="rect" id="node11" href="$d5/d21/classPHG4MvtxDigitizer.html#a3ccd8653a6c117fff6d6cddb6adccf53" title="event processing" alt="" coords="493,277,649,321"/>
+<area shape="rect" id="node13" href="$d5/df8/classQAG4SimulationMicromegas.html#aaf9244726798d2865626790e62f3a218" title="QAG4SimulationMicromegas\l::process_event" alt="" coords="464,345,679,389"/>
+<area shape="rect" id="node15" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="483,413,659,457"/>
+</map>

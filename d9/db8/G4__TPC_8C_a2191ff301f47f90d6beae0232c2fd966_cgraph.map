@@ -1,0 +1,10 @@
+<map id="TPC_Cells" name="TPC_Cells">
+<area shape="rect" id="node2" href="$d7/ddb/classPHG4TpcElectronDrift.html#a92932e5ee71df7d946c3f1485f3f0918" title="detector name" alt="" coords="190,5,358,49"/>
+<area shape="rect" id="node3" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="183,73,365,101"/>
+<area shape="rect" id="node4" href="$da/de9/classPHG4TpcDistortion.html#a02a33c9892ed4fde131a5c9aafaeead9" title="enable distortions from a single fixed source" alt="" coords="181,125,367,169"/>
+<area shape="rect" id="node5" href="$d1/dc5/classPHG4TpcDigitizer.html#a32e48f70a1ead31a8551144f9eaf4152" title="PHG4TpcDigitizer::SetADCThreshold" alt="" coords="141,193,407,221"/>
+<area shape="rect" id="node6" href="$d8/d83/classPHG4TpcCentralMembrane.html#a1e626ad8659e345c0a879128913e29e3" title="adjust central membrane hits delay with respect to trigger time" alt="" coords="169,245,379,289"/>
+<area shape="rect" id="node7" href="$d1/dc5/classPHG4TpcDigitizer.html#a6303f8359d2c04de1626ed1613503e0e" title="PHG4TpcDigitizer::SetENC" alt="" coords="175,313,373,341"/>
+<area shape="rect" id="node8" href="$d1/dc5/classPHG4TpcDigitizer.html#a478235bfcea8b3b1351d8462d8966813" title="PHG4TpcDigitizer::SetTpc\lMinLayer" alt="" coords="177,365,371,409"/>
+<area shape="rect" id="node9" href="$d5/dec/classFun4AllBase.html#a05da2261577843028cf78e99171343b9" title="Sets the verbosity of this module (0 by default=quiet)." alt="" coords="186,433,362,461"/>
+</map>

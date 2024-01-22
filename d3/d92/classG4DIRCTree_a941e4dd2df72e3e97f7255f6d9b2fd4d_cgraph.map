@@ -1,0 +1,21 @@
+<map id="G4DIRCTree::process_hit" name="G4DIRCTree::process_hit">
+<area shape="rect" id="node2" href="$d9/d35/classPHG4Hitv1.html#ae59630c6f280f98e4ff97c5fe053e653" title="PHG4Hitv1::get_edep" alt="" coords="257,5,424,33"/>
+<area shape="rect" id="node3" href="$d9/d35/classPHG4Hitv1.html#a67011a1e7c81df3680ad0d4ac73c4819" title="PHG4Hitv1::get_hit_id" alt="" coords="256,57,425,85"/>
+<area shape="rect" id="node4" href="$d9/d35/classPHG4Hitv1.html#a69145212b809a410b904bb852c71cf28" title="PHG4Hitv1::get_trkid" alt="" coords="259,109,422,137"/>
+<area shape="rect" id="node5" href="$d9/d35/classPHG4Hitv1.html#a74b02ed37fc70b833e5b0c719f5d1406" title="PHG4Hitv1::get_x" alt="" coords="271,161,411,189"/>
+<area shape="rect" id="node6" href="$d9/d35/classPHG4Hitv1.html#a9ea5384487ea3d6b022223c95bd53ca6" title="PHG4Hitv1::get_y" alt="" coords="271,213,411,241"/>
+<area shape="rect" id="node7" href="$d9/d35/classPHG4Hitv1.html#a35aaff3e754fe7f1c15b55bcaa7d4dc1" title="PHG4Hitv1::get_z" alt="" coords="271,265,411,293"/>
+<area shape="rect" id="node8" href="$d2/d33/classPrtHit.html#a9bff004f6cb2bcf76f834612642edbb1" title="PrtHit::GetDigiPos" alt="" coords="270,317,411,345"/>
+<area shape="rect" id="node9" href="$d2/d33/classPrtHit.html#aefb0ea8cacc06cd99fbc95454156cf9c" title="PrtHit::GetGlobalPos" alt="" coords="261,369,420,397"/>
+<area shape="rect" id="node10" href="$d4/d30/classPHG4HitContainer.html#aec01041c4b9347f93832704e142b2439" title="return all hits matching a given detid" alt="" coords="240,421,441,449"/>
+<area shape="rect" id="node12" href="$d2/d33/classPrtHit.html#a5f1eb7578738798217039846285cdab0" title="PrtHit::GetLeadTime" alt="" coords="262,473,419,501"/>
+<area shape="rect" id="node13" href="$d2/d33/classPrtHit.html#ab6f258a605b67eaf6d31740fb1961b75" title="PrtHit::GetLocalPos" alt="" coords="266,525,415,553"/>
+<area shape="rect" id="node14" href="$d2/d33/classPrtHit.html#a6d633febad6d59fc529637f4c7f674da" title="PrtHit::GetMcpId" alt="" coords="275,577,406,605"/>
+<area shape="rect" id="node15" href="$d2/d33/classPrtHit.html#a9ee454ceba3b318e294e6c1f73b61c93" title="PrtHit::GetMomentum" alt="" coords="257,629,425,657"/>
+<area shape="rect" id="node16" href="$d2/d33/classPrtHit.html#adb2ee4576cc5f338b60f3469e3ff7896" title="PrtHit::GetNreflectionsIn\lPrizm" alt="" coords="249,681,433,725"/>
+<area shape="rect" id="node17" href="$d2/d33/classPrtHit.html#afc229086ad9e8c0c8e2c29218d48c152" title="PrtHit::GetPathInPrizm" alt="" coords="255,749,426,777"/>
+<area shape="rect" id="node18" href="$d2/d33/classPrtHit.html#a1aaefb4ac171ee577a24c213667647dd" title="PrtHit::GetPixelId" alt="" coords="273,801,408,829"/>
+<area shape="rect" id="node19" href="$d2/d33/classPrtHit.html#a679388e2f27e7f8f8e520957c4e6af64" title="PrtHit::GetPosition" alt="" coords="269,853,413,881"/>
+<area shape="rect" id="node20" href="$d2/d33/classPrtHit.html#a6d935853ab7d39deb6c7520a3f6f258c" title="PrtHit::GetTotTime" alt="" coords="269,905,413,933"/>
+<area shape="rect" id="node11" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="489,421,536,449"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="PHG4Subsystem::SetMotherSubsystem" name="PHG4Subsystem::SetMotherSubsystem">
+<area shape="rect" id="node2" href="$d7/dca/G4__BeamLine_8C.html#a2086c9624e710d69ea64af4f89f43166" title="BeamLineDefineBeamPipe" alt="" coords="269,5,469,33"/>
+<area shape="rect" id="node4" href="$d7/dca/G4__BeamLine_8C.html#a03446ed88c0cbe3207f3714afe8f24e9" title="BeamLineDefineMagnets" alt="" coords="273,57,464,85"/>
+<area shape="rect" id="node5" href="$d5/dc7/G4__EndCap__Hadron__JLeic_8C.html#a279edace215d74ef416e694b7541abd6" title="EndCap_Hadron" alt="" coords="304,161,433,189"/>
+<area shape="rect" id="node7" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html#a39cd0476d2b201f033894c397e9b0aae" title="hFarFwdDefineDetectorsIP6" alt="" coords="265,213,472,241"/>
+<area shape="rect" id="node9" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html#accfd44a3ea15bfe78995fc1aff2d9dbc" title="hFarFwdDefineMagnets" alt="" coords="279,265,458,293"/>
+<area shape="rect" id="node10" href="$d9/d37/G4__ZDC_8C.html#a8b2006749f61e81139b8d52008f9e282" title="ZDCSetup" alt="" coords="324,109,413,137"/>
+<area shape="rect" id="node3" href="$d4/daf/fun4all__macros_2blob_2master_2detectors_2sPHENIX_2G4Setup__sPHENIX_8C.html#a6b34584f88221280e9b276471822bd06" title="G4Setup" alt="" coords="520,57,600,85"/>
+<area shape="rect" id="node6" href="$d0/dd0/G4Setup__JLeic_8C.html#ab7338d2908971d3820c9671865b90897" title="G4Setup" alt="" coords="520,161,600,189"/>
+<area shape="rect" id="node8" href="$d3/d35/fun4all__eicmacros_2blob_2master_2detectors_2EICDetector_2G4Setup__EICDetector_8C.html#a6b34584f88221280e9b276471822bd06" title="G4Setup" alt="" coords="520,239,600,267"/>
+</map>

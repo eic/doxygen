@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d2/d86/classActsExamples_1_1Sequencer.html#a1f58dd780adf8e2dabeac8a5f2620c34" title="ActsExamples::Sequencer\l::addAlgorithm" alt="" coords="123,489,322,533"/>
+<area shape="rect" id="node3" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a7bd17550bec4169d9830030284dbc140" title="Add common output&#45;related options." alt="" coords="133,557,312,601"/>
+<area shape="rect" id="node4" href="$d6/dcc/namespaceActsExamples_1_1Options.html#aa97b0d490025a003b8f2594444cefd02" title="Add options for a particle&#45;gun&#45;like event generator." alt="" coords="130,625,315,669"/>
+<area shape="rect" id="node5" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a3c003d4feb50b8a88e1d8732c17f84eb" title="Add random number options such as the global seed." alt="" coords="110,693,335,737"/>
+<area shape="rect" id="node6" href="$d2/d86/classActsExamples_1_1Sequencer.html#af09c9b6fb4d155f2dbd138f6be52c70b" title="ActsExamples::Sequencer\l::addReader" alt="" coords="123,761,322,805"/>
+<area shape="rect" id="node7" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a275e900079b6c3f29fccc781fff55145" title="Add sequencer options, e.g. number of events." alt="" coords="133,829,313,873"/>
+<area shape="rect" id="node8" href="$d2/d86/classActsExamples_1_1Sequencer.html#ac7673c00d596c714cbceffdc9d0e3315" title="ActsExamples::Sequencer\l::addWriter" alt="" coords="123,897,322,941"/>
+<area shape="rect" id="node9" href="$df/dd4/namespaceActsExamples.html#a8994427390dd0a4db64bfc9d21da7f0a" title="ActsExamples::ensureWritable\lDirectory" alt="" coords="109,965,337,1009"/>
+<area shape="rect" id="node10" href="$df/dd4/namespaceActsExamples.html#ab2530bb4e7128ba9cb52cae58e217206" title="Join dir and name into one path with correct handling of empty dirs." alt="" coords="129,1033,317,1061"/>
+<area shape="rect" id="node11" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a0d54973957d51d0907070bcd020d0b92" title="ActsExamples::Options\l::makeDefaultOptions" alt="" coords="133,1085,312,1129"/>
+<area shape="rect" id="node12" href="$d6/dcc/namespaceActsExamples_1_1Options.html#aeb0cbceb4fe644ebe08951d2429cf509" title="ActsExamples::Options\l::parse" alt="" coords="133,1153,312,1197"/>
+<area shape="rect" id="node25" href="$dd/d94/fun4all__tutorials_2blob_2master_2materialscan_2matscan_8C.html#a388f572c62279f839ee138a9afbdeeb5" title="print" alt="" coords="756,1583,809,1611"/>
+<area shape="rect" id="node26" href="$d6/dcc/namespaceActsExamples_1_1Options.html#ad6762727fb7dc6ff716ce476e3dbbdbe" title="Read the log level." alt="" coords="413,1351,592,1395"/>
+<area shape="rect" id="node27" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a6f2809fde048e1bcf36682f5a3036eb4" title="Create the event generator config from particle&#45;gun options." alt="" coords="127,1444,318,1488"/>
+<area shape="rect" id="node29" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a49fd9bf66697685e10932a2ae1256abf" title="ActsExamples::Options\l::readRandomNumbersConfig" alt="" coords="112,1512,333,1556"/>
+<area shape="rect" id="node30" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a495157db008175cfdb9a22805b37351a" title="Read the sequencer config." alt="" coords="133,1376,312,1420"/>
+<area shape="rect" id="node31" href="$d2/d86/classActsExamples_1_1Sequencer.html#ab35839e504e50744446c5fbda98dc1bc" title="ActsExamples::Sequencer::run" alt="" coords="108,1221,337,1249"/>
+<area shape="rect" id="node13" href="$d8/d44/namespaceActs_1_1PrimitivesView3DTest.html#ab51e63c03c55aac604dba9c1cd26ac85" title="Acts::PrimitivesView3DTest::run" alt="" coords="385,376,620,404"/>
+<area shape="rect" id="node14" href="$dc/de5/PHG4mRICHDetector_8cc.html#a10e6010f5f8222befd1273192d72ddf5" title="start" alt="" coords="756,465,809,493"/>
+<area shape="rect" id="node15" href="$d2/d3f/structActs_1_1GeometryView3D.html#a76d7fe94393a89a05760f6b80eb6bd31" title="Acts::GeometryView3D\l::drawSegment" alt="" coords="693,517,872,561"/>
+<area shape="rect" id="node16" href="$d0/d35/classActs_1_1IVisualization3D.html#ac2b3dc7f88f26a197d48a28d1d85b3d4" title="Acts::IVisualization3D\l::write" alt="" coords="698,585,867,629"/>
+<area shape="rect" id="node17" href="$d0/d35/classActs_1_1IVisualization3D.html#a5e1197bd19f514313f2642621e43de0e" title="Acts::IVisualization3D\l::clear" alt="" coords="698,653,867,697"/>
+<area shape="rect" id="node18" href="$d2/d3f/structActs_1_1GeometryView3D.html#a67df89dea7c20fe0e7ecefc50a78c75f" title="Acts::GeometryView3D\l::drawArrowForward" alt="" coords="693,5,872,49"/>
+<area shape="rect" id="node19" href="$d2/d3f/structActs_1_1GeometryView3D.html#ad14a942752c9af6f0ff44cc3adbdee5d" title="Acts::GeometryView3D\l::drawArrowBackward" alt="" coords="693,73,872,117"/>
+<area shape="rect" id="node20" href="$d2/d3f/structActs_1_1GeometryView3D.html#a3f88095e16b588fdbb353f0e30961d92" title="Acts::GeometryView3D\l::drawArrowsBoth" alt="" coords="693,141,872,185"/>
+<area shape="rect" id="node21" href="$d2/d3f/structActs_1_1GeometryView3D.html#ab8aad2f0260221fecde781f003510d24" title="Acts::GeometryView3D\l::drawSurface" alt="" coords="693,209,872,253"/>
+<area shape="rect" id="node22" href="$db/d35/structActs_1_1EventDataView3D.html#a5860abf64f67e4e333020160d50ed99b" title="Acts::EventDataView3D\l::drawCovarianceCartesian" alt="" coords="681,277,884,321"/>
+<area shape="rect" id="node23" href="$dd/d7e/namespaceActs_1_1Test.html#a51c29a20fb018e161cb50c4c3886c981" title="Acts::Test::origin" alt="" coords="716,345,849,373"/>
+<area shape="rect" id="node24" href="$db/d35/structActs_1_1EventDataView3D.html#a1bb690374d01bc8e407d603d2a87b7dd" title="Acts::EventDataView3D\l::drawCovarianceAngular" alt="" coords="686,397,879,441"/>
+<area shape="rect" id="node28" href="$df/da1/namespaceActs_1_1VectorHelpers.html#afc1703c2fa7adfd6517e5e16df2e5df4" title="Acts::VectorHelpers::eta" alt="" coords="410,1452,595,1480"/>
+<area shape="rect" id="node32" href="$d3/dd5/jewel-2_82_80_8f.html#ac10ce76c4f5f9029887dacaed4e00578" title="init" alt="" coords="481,1169,525,1197"/>
+<area shape="rect" id="node49" href="$da/d7b/namespaceActs.html#a9b4dee934b0b193d57604b19bc8cd527" title="get default debug output logger" alt="" coords="413,1221,592,1249"/>
+<area shape="rect" id="node50" href="$d3/d9b/namespacenlohmann.html#a6ce645a0b8717757e096a5b5773b7a16" title="user&#45;defined to_string function for JSON values" alt="" coords="424,1117,581,1145"/>
+<area shape="rect" id="node33" href="$d8/d1a/classHiMain1.html#a676ccaef5fa9c10e945e6d1477aeb366" title="HiMain1::np" alt="" coords="731,945,834,973"/>
+<area shape="rect" id="node34" href="$d0/d83/classActsFatras_1_1LandauDistribution.html#a692e73569c82329696eadc0fe9ff5bdf" title="Return the currently configured distribution parameters." alt="" coords="668,997,897,1041"/>
+<area shape="rect" id="node35" href="$db/d4e/predicates_8cxx.html#a0e05cf94eeeea515483f825d7a3b7dd6" title="compress" alt="" coords="739,1065,826,1093"/>
+<area shape="rect" id="node36" href="$d3/d4a/meix_8f.html#a6fd5f374c0445418feb50ae20b29cd30" title="eix" alt="" coords="762,1117,803,1145"/>
+<area shape="rect" id="node37" href="$d2/d93/structActs_1_1Extent.html#a90ef6b643a9b59e4f79d98f972c82dd2" title="Acts::Extent::check" alt="" coords="706,1169,859,1197"/>
+<area shape="rect" id="node38" href="$dc/d44/classEtmDetectorStack.html#a3f1a557e0846c8fe46f5a76bf2e8c500" title="EtmDetectorStack::etamax" alt="" coords="681,1221,885,1249"/>
+<area shape="rect" id="node39" href="$d2/d18/medium-simple_8f.html#a58e0410e81664819969cd2981fd7cd27" title="npart" alt="" coords="753,1273,812,1301"/>
+<area shape="rect" id="node40" href="$d8/dc7/classkdfinder_1_1TVector.html#a43df24b54fc42e034041a4cc71f96b8a" title="kdfinder::TVector::unit" alt="" coords="960,1328,1133,1356"/>
+<area shape="rect" id="node41" href="$d1/d40/structActs_1_1detail_1_1VoidNavigator.html#a8546b6149743722f397087658a21bfa6" title="Acts::detail::VoidNavigator\l::status" alt="" coords="945,1383,1148,1427"/>
+<area shape="rect" id="node42" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="1024,1455,1069,1483"/>
+<area shape="rect" id="node43" href="$d0/df7/scan_8C.html#a22825b39393003dd213b49c8cacd59df" title="scan" alt="" coords="1021,1515,1073,1543"/>
+<area shape="rect" id="node44" href="$d3/dd5/jewel-2_82_80_8f.html#a152ed6c9954be985f3e7368f1c19d702" title="printtime" alt="" coords="741,721,824,749"/>
+<area shape="rect" id="node45" href="$d3/dd5/jewel-2_82_80_8f.html#a6bf3f469e3c2d7418ebca2b76c167426" title="printlogo" alt="" coords="741,773,824,801"/>
+<area shape="rect" id="node46" href="$df/dce/classActs_1_1Logging_1_1OutputPrintPolicy.html#ab113823970013e1e7f310b36509136ac" title="handle output of debug message" alt="" coords="682,825,883,869"/>
+<area shape="rect" id="node47" href="$d2/d18/medium-simple_8f.html#adadf3a87d352de8d415a50a0aa704771" title="medinit" alt="" coords="746,1428,819,1456"/>
+<area shape="rect" id="node48" href="$d2/d18/medium-simple_8f.html#a4cb6e969ad6295a9ec499dd59e4fefa1" title="mednextevt" alt="" coords="731,893,835,921"/>
+</map>

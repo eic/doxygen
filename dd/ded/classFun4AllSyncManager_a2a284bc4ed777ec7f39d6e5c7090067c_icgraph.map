@@ -1,0 +1,51 @@
+<map id="Fun4AllSyncManager::registerInputManager" name="Fun4AllSyncManager::registerInputManager">
+<area shape="rect" id="node2" href="$da/d29/classFun4AllServer.html#ab2cb490790d15b865ae79eb3094caabe" title="Fun4AllServer::registerInput\lManager" alt="" coords="231,1300,443,1344"/>
+<area shape="rect" id="node3" href="$dd/d9c/AnalyzeTree_8C.html#af10d516ac25cd720d54534a63ef7e2f8" title="AnalyzeTree" alt="" coords="559,5,663,33"/>
+<area shape="rect" id="node4" href="$df/d77/Fun4All__CaloAna_8C.html#a4f0841e3d8be48f96cc4e95380315ff8" title="Fun4All_CaloAna" alt="" coords="544,57,677,85"/>
+<area shape="rect" id="node5" href="$d5/df2/Fun4All__EIC__Generator__Display_8C.html#a276181099936efe81415286b29f36e51" title="Fun4All_EIC_Generator\l_Display" alt="" coords="523,109,699,153"/>
+<area shape="rect" id="node6" href="$df/d51/Fun4All__ExportGeom_8C.html#a582925c51bad38d562cf19e71211adfd" title="get geometry from DST file and output TGeoManager ROOT files or other formats of geometry files..." alt="" coords="529,177,692,205"/>
+<area shape="rect" id="node7" href="$de/d55/Fun4All__G4__block_8C.html#a6a063a649a0dd3318a517d5af98430dd" title="Fun4All_G4_block" alt="" coords="541,229,681,257"/>
+<area shape="rect" id="node8" href="$d8/d91/Fun4All__G4__Clusters_8C.html#ab7d8e64f12f512631d4c0e8c6683ec5b" title="Fun4All_G4_Clusters" alt="" coords="531,281,690,309"/>
+<area shape="rect" id="node9" href="$d2/dee/Fun4All__G4__Cylinder_8C.html#a271dc4f10f6f77107705e0efef0c97e5" title="Fun4All_G4_Cylinder" alt="" coords="530,333,691,361"/>
+<area shape="rect" id="node10" href="$d2/ddb/Fun4All__G4__EicDirc_8C.html#aab1c0f8ac428557468b07c1bb9c4684f" title="Fun4All_G4_EicDirc" alt="" coords="535,385,686,413"/>
+<area shape="rect" id="node11" href="$d5/d7d/Fun4All__G4__Example01_8C.html#ab61e640155444e40e5ff32fe50125b4d" title="Fun4All_G4_Example01" alt="" coords="521,437,701,465"/>
+<area shape="rect" id="node12" href="$df/ddd/Fun4All__G4__Example02_8C.html#a828c51f9608f078106cef9343df49316" title="Fun4All_G4_Example02" alt="" coords="521,489,701,517"/>
+<area shape="rect" id="node13" href="$d1/dc4/Fun4All__G4__Example03_8C.html#a6519821c64f56c74d049579392dfac3f" title="Fun4All_G4_Example03" alt="" coords="521,541,701,569"/>
+<area shape="rect" id="node14" href="$d9/d35/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2Development_2Fun4All__G4__FastMom_8C.html#aa295ed6ff4853071573910b32c003229" title="Fun4All_G4_FastMom" alt="" coords="529,593,693,621"/>
+<area shape="rect" id="node15" href="$d0/db8/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2Development_2Fun4All__G4__FastMom__GEM_8C.html#a1a327440b9a720678c12cb3ea194ad33" title="Fun4All_G4_FastMom_GEM" alt="" coords="510,645,711,673"/>
+<area shape="rect" id="node16" href="$d8/ddb/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2Development_2Fun4All__G4__FastMom__GEM__RICH_8C.html#a836c38918acb22b3e8248037a93906fb" title="Fun4All_G4_FastMom\l_GEM_RICH" alt="" coords="529,697,693,741"/>
+<area shape="rect" id="node17" href="$dc/d3f/Fun4All__G4__Geantino_8C.html#a2a4c70246a9a6288b367a2fa7c1d1087" title="Fun4All_G4_Geantino" alt="" coords="528,765,693,793"/>
+<area shape="rect" id="node18" href="$df/de1/Fun4All__G4__IonGun_8C.html#ab4966a2ae337cb8f0e45f7ee488e33b7" title="Fun4All_G4_IonGun" alt="" coords="535,817,687,845"/>
+<area shape="rect" id="node19" href="$d9/d1f/Fun4All__G4__Lmon_8C.html#a4f09ca292c4b3a82ce38b19ac3858d74" title="Fun4All_G4_Lmon" alt="" coords="540,869,681,897"/>
+<area shape="rect" id="node20" href="$dd/d8d/Fun4All__G4__Magnet_8C.html#a375961511ba614ba387343e652ab0202" title="Fun4All_G4_Magnet" alt="" coords="533,921,688,949"/>
+<area shape="rect" id="node21" href="$d9/d8f/Fun4All__G4__Momentum_8C.html#a30427d12b8e66fae42427a1ae4120c1a" title="Fun4All_G4_Momentum" alt="" coords="521,973,701,1001"/>
+<area shape="rect" id="node22" href="$d1/d3a/Fun4All__G4__Momentum__Projection_8C.html#a10a3fc89216f3a6162a4c6f2d73d1f22" title="Fun4All_G4_Momentum\l_Projection" alt="" coords="521,1025,701,1069"/>
+<area shape="rect" id="node23" href="$d5/d9f/Fun4All__G4__Momentum__Projection__Calorimeters_8C.html#a5f9b4c65bb2070aedfd707dfc2d2cace" title="Fun4All_G4_Momentum\l_Projection_Calorimeters" alt="" coords="516,1093,705,1137"/>
+<area shape="rect" id="node24" href="$dd/dba/Fun4All__G4__Momentum__Projection__Detectors_8C.html#aaa6100b352f9b7268c29a006f74cfe57" title="Fun4All_G4_Momentum\l_Projection_Detectors" alt="" coords="521,1161,701,1205"/>
+<area shape="rect" id="node25" href="$d1/d54/Fun4All__G4__MyDetector_8C.html#a42ff88b75bd8510ae12cc9757b9a693b" title="Fun4All_G4_MyDetector" alt="" coords="519,1229,702,1257"/>
+<area shape="rect" id="node26" href="$d8/df2/Fun4All__G4__Pi0__Tbt_8C.html#a250da54aa7c29896b68e5269b7909dfa" title="Fun4All_G4_Pi0_Tbt" alt="" coords="534,1281,687,1309"/>
+<area shape="rect" id="node27" href="$d6/d03/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2Development_2hadron__phi__asymmetry_2Fun4All__G4__simple__hadron_8C.html#a5061cae2aebcfc9ea137b61cfd346328" title="Fun4All_G4_simple_hadron" alt="" coords="509,1333,712,1361"/>
+<area shape="rect" id="node28" href="$d3/d53/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2Development_2hadron__phi__asymmetry_2Fu3f15b97f3d89d932e8888fbacfa50314.html#a87dc5b61f33f769555984fa43a1cdff6" title="Fun4All_G4_simple_hadron_GEM" alt="" coords="491,1385,731,1413"/>
+<area shape="rect" id="node29" href="$df/d64/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2Development_2vertexing_2Fun4All__G4__simple__vertex_8C.html#a7a856f9ed6ae7af9ff6df3993bfc54ec" title="Fun4All_G4_simple_vertex" alt="" coords="511,1437,710,1465"/>
+<area shape="rect" id="node30" href="$de/d60/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2Development_2simplified__geometry_2Fun4All__G4__simplified__3vtx_8C.html#a349b1f5934cec2ee91832dcc355725c9" title="Fun4All_G4_simplified_3vtx" alt="" coords="507,1489,714,1517"/>
+<area shape="rect" id="node31" href="$de/d1c/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2Development_2simplified__geometry_2Fun4All__G4__simplified__v2_8C.html#af32a1997246c467fe39dcf311893ad2a" title="Fun4All_G4_simplified_v2" alt="" coords="514,1541,707,1569"/>
+<area shape="rect" id="node32" href="$de/dbc/Fun4All__G4__simplified__v2__DIRC__barrel__GEM_8C.html#a0d2b02ec707dfedd0c33d1e40b12f423" title="Fun4All_G4_simplified\l_v2_DIRC_barrel_GEM" alt="" coords="526,1593,695,1637"/>
+<area shape="rect" id="node33" href="$d1/df3/Fun4All__G4__SlopeCal_8C.html#ab3aca5346a8e094661c8db557ef0db00" title="Fun4All_G4_SlopeCal" alt="" coords="529,1661,692,1689"/>
+<area shape="rect" id="node34" href="$d4/d50/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2Development_2Fun4All__G4__sPHENIX__particle__gen_8C.html#a381adc702b7bfb99356660cdb6407e70" title="Fun4All_G4_sPHENIX\l_particle_gen" alt="" coords="530,1713,691,1757"/>
+<area shape="rect" id="node35" href="$d1/d9c/Fun4All__G4__Write__Dst_8C.html#a97c6c9ea797219c94a95ae2fe4bc79c3" title="Fun4All_G4_Write_Dst" alt="" coords="526,1781,695,1809"/>
+<area shape="rect" id="node36" href="$d4/dfa/Fun4All__Generator__Display_8C.html#af87924a94b22e18901f0d64805565f09" title="Fun4All_Generator_Display" alt="" coords="509,1833,712,1861"/>
+<area shape="rect" id="node37" href="$d9/d0f/Fun4All__ImportGeom_8C.html#a3388968a8dae60e9eb62b1126f747b6a" title="Read in a Geometry file, and output DST and ROOT TGeo files." alt="" coords="529,1885,692,1913"/>
+<area shape="rect" id="node38" href="$db/d96/Fun4All__JetAna_8C.html#a519de39bdb8606d50d045cc11466e2e6" title="Fun4All_JetAna" alt="" coords="550,1937,671,1965"/>
+<area shape="rect" id="node39" href="$d9/dc6/Fun4All__MySimpleReco_8C.html#ad7331daaa361667fbb6d60ce362d4288" title="Fun4All_MySimpleReco" alt="" coords="523,1989,699,2017"/>
+<area shape="rect" id="node40" href="$d1/d29/Fun4All__Read__Dst_8C.html#ae153a0407033e203422cedf7e2ce5b3b" title="Fun4All_Read_Dst" alt="" coords="540,2041,681,2069"/>
+<area shape="rect" id="node41" href="$d9/da0/G4TTree_8C.html#a7e873c78b05882087e257d133fde3c67" title="G4TTree" alt="" coords="573,2093,649,2121"/>
+<area shape="rect" id="node42" href="$dc/d7e/G4__Input_8C.html#a275a3054330311f5a7ae790d381436d0" title="InputManagers" alt="" coords="549,2145,672,2173"/>
+<area shape="rect" id="node43" href="$d6/dc1/MakeTree_8C.html#a53b8088628309d5abb10a7aaf0d33b7a" title="MakeTree" alt="" coords="568,2197,653,2225"/>
+<area shape="rect" id="node44" href="$d5/d5a/block_2MyHitTTree_8C.html#a9e8ef49a847a7526e0c19d923a0486a7" title="MyHitTTree" alt="" coords="563,2249,659,2277"/>
+<area shape="rect" id="node45" href="$d6/deb/PHGeom__DSTInspection_8C.html#a004a4f91a64bef884a2708f11f6094ec" title="PHGeom_DSTInspection" alt="" coords="519,2301,702,2329"/>
+<area shape="rect" id="node46" href="$dc/dca/ReadFieldMap_8C.html#a520461a1def90d485dc4b9a7d697aadd" title="ReadFieldMap" alt="" coords="553,2353,668,2381"/>
+<area shape="rect" id="node47" href="$d3/d61/fun4all__coresoftware_2blob_2master_2offline_2packages_2NodeDump_2macro_2run__dump_8C.html#ad821e25f39e2f306bd2e7f4626bc8049" title="run_dump" alt="" coords="565,2405,656,2433"/>
+<area shape="rect" id="node48" href="$de/dcb/RunBoth_8C.html#a953c430173a95963886161f24b97640c" title="RunBoth" alt="" coords="571,2457,650,2485"/>
+<area shape="rect" id="node49" href="$da/d0c/RunEval_8C.html#a606678f863f1ae7129910617bb60122f" title="RunEval" alt="" coords="573,2509,649,2537"/>
+<area shape="rect" id="node50" href="$df/d04/RunSampling_8C.html#a4065c6ea848272a2602a0c025a3e232a" title="RunSampling" alt="" coords="555,2561,666,2589"/>
+</map>

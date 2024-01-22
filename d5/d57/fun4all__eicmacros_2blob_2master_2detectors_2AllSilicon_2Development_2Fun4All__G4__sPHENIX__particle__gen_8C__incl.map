@@ -1,0 +1,37 @@
+<map id="fun4all_eicmacros/blob/master/detectors/AllSilicon/Development/Fun4All_G4_sPHENIX_particle_gen.C" name="fun4all_eicmacros/blob/master/detectors/AllSilicon/Development/Fun4All_G4_sPHENIX_particle_gen.C">
+<area shape="rect" id="node2" href="$de/dea/PHRandomSeed_8h.html" title="phool/PHRandomSeed.h" alt="" coords="5,129,189,157"/>
+<area shape="rect" id="node3" href="$d5/dc2/SubsysReco_8h.html" title="fun4all/SubsysReco.h" alt="" coords="728,557,893,585"/>
+<area shape="rect" id="node7" href="$dc/da2/Fun4AllServer_8h.html" title="fun4all/Fun4AllServer.h" alt="" coords="1346,473,1523,501"/>
+<area shape="rect" id="node14" href="$d1/de7/Fun4AllInputManager_8h.html" title="fun4all/Fun4AllInputManager.h" alt="" coords="2450,473,2678,501"/>
+<area shape="rect" id="node18" href="$d8/d8f/Fun4AllDummyInputManager_8h.html" title="fun4all/Fun4AllDummyInput\lManager.h" alt="" coords="2805,373,3016,417"/>
+<area shape="rect" id="node19" href="$de/df8/Fun4AllOutputManager_8h.html" title="fun4all/Fun4AllOutputManager.h" alt="" coords="2101,473,2341,501"/>
+<area shape="rect" id="node21" href="$dd/de7/Fun4AllDstInputManager_8h.html" title="fun4all/Fun4AllDstInputManager.h" alt="" coords="3040,381,3291,409"/>
+<area shape="rect" id="node22" href="$d2/dab/Fun4AllNoSyncDstInputManager_8h.html" title="fun4all/Fun4AllNoSyncDst\lInputManager.h" alt="" coords="3027,281,3223,325"/>
+<area shape="rect" id="node23" href="$db/d22/Fun4AllDstOutputManager_8h.html" title="fun4all/Fun4AllDstOutput\lManager.h" alt="" coords="2539,373,2731,417"/>
+<area shape="rect" id="node25" href="$d8/d9f/PHG4ParticleGeneratorBase_8h.html" title="g4main/PHG4ParticleGenerator\lBase.h" alt="" coords="378,465,611,509"/>
+<area shape="rect" id="node27" href="$d4/d8b/PHG4ParticleGenerator_8h.html" title="g4main/PHG4ParticleGenerator.h" alt="" coords="366,381,610,409"/>
+<area shape="rect" id="node29" href="$dd/de1/HepMCNodeReader_8h.html" title="g4main/HepMCNodeReader.h" alt="" coords="84,473,303,501"/>
+<area shape="rect" id="node30" href="$d8/d3a/PHG4DetectorSubsystem_8h.html" title="g4detectors/PHG4Detector\lSubsystem.h" alt="" coords="3365,373,3568,417"/>
+<area shape="rect" id="node32" href="$d2/dcb/recoConsts_8h.html" title="phool/recoConsts.h" alt="" coords="3463,205,3614,233"/>
+<area shape="rect" id="node36" href="$d1/d05/G4__DSTReader_8C.html" title="Convert DST to human command readable TTree for quick poke around the outputs." alt="" coords="1589,129,1723,157"/>
+<area shape="rect" id="node50" href="$d0/dce/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2Development_2DisplayOn_8C.html" title="DisplayOn.C" alt="" coords="888,381,992,409"/>
+<area shape="rect" id="node4" href="$d2/de7/Fun4AllBase_8h.html" title="Fun4AllBase.h" alt="" coords="1381,633,1497,661"/>
+<area shape="rect" id="node8" href="$d0/d59/Fun4AllHistoManager_8h.html" title="Fun4AllHistoManager.h" alt="" coords="1372,557,1548,585"/>
+<area shape="rect" id="node10" href="$dc/d26/PHTimer_8h.html" title="high precision timer" alt="" coords="1623,557,1755,585"/>
+<area shape="rect" id="node15" href="$da/dc1/Fun4AllReturnCodes_8h.html" title="Fun4AllReturnCodes.h" alt="" coords="2761,557,2930,585"/>
+<area shape="rect" id="node31" href="$df/d1c/PHG4Subsystem_8h.html" title="g4main/PHG4Subsystem.h" alt="" coords="2926,473,3127,501"/>
+<area shape="rect" id="node33" href="$d0/d11/PHFlag_8h.html" title="PHFlag.h" alt="" coords="3625,557,3705,585"/>
+<area shape="rect" id="node37" href="$de/d67/fun4all__macros_2blob_2master_2common_2GlobalVariables_8C.html" title="GlobalVariables.C" alt="" coords="1881,473,2021,501"/>
+<area shape="rect" id="node38" href="$d6/d7a/fun4all__macros_2blob_2master_2common_2G4__Bbc_8C.html" title="G4_Bbc.C" alt="" coords="1825,381,1911,409"/>
+<area shape="rect" id="node40" href="$d4/ddd/fun4all__macros_2blob_2master_2common_2G4__BlackHole_8C.html" title="G4_BlackHole.C" alt="" coords="2285,381,2413,409"/>
+<area shape="rect" id="node41" href="$d7/ddc/G4__CEmc__Spacal_8C.html" title="G4_CEmc_Spacal.C" alt="" coords="1499,381,1650,409"/>
+<area shape="rect" id="node42" href="$d7/dba/G4__EPD_8C.html" title="G4_EPD.C" alt="" coords="1987,381,2075,409"/>
+<area shape="rect" id="node43" href="$db/dd5/fun4all__macros_2blob_2master_2common_2G4__HcalIn__ref_8C.html" title="G4_HcalIn_ref.C" alt="" coords="1674,381,1801,409"/>
+<area shape="rect" id="node44" href="$de/d91/fun4all__macros_2blob_2master_2common_2G4__HcalOut__ref_8C.html" title="G4_HcalOut_ref.C" alt="" coords="1336,381,1475,409"/>
+<area shape="rect" id="node45" href="$d6/d9e/G4__Intt_8C.html" title="G4_Intt.C" alt="" coords="1025,289,1109,317"/>
+<area shape="rect" id="node46" href="$da/df1/G4__Mvtx_8C.html" title="G4_Mvtx.C" alt="" coords="1016,381,1109,409"/>
+<area shape="rect" id="node47" href="$da/d17/G4__Magnet_8C.html" title="G4_Magnet.C" alt="" coords="2149,381,2261,409"/>
+<area shape="rect" id="node48" href="$d9/db8/G4__TPC_8C.html" title="G4_TPC.C" alt="" coords="1165,205,1251,233"/>
+<area shape="rect" id="node49" href="$d9/d70/PHG4DSTReader_8h.html" title="g4eval/PHG4DSTReader.h" alt="" coords="687,473,881,501"/>
+<area shape="rect" id="node39" href="$d0/d2b/PHG4Reco_8h.html" title="g4main/PHG4Reco.h" alt="" coords="1602,473,1761,501"/>
+</map>

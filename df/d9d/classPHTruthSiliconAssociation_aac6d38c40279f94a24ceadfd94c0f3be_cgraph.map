@@ -1,0 +1,19 @@
+<map id="PHTruthSiliconAssociation::copySiliconClustersToCorrectedMap" name="PHTruthSiliconAssociation::copySiliconClustersToCorrectedMap">
+<area shape="rect" id="node2" href="$d7/d8b/classSvtxTrackMap.html#ad2331baa3dff9acb452f5329334e2803" title="SvtxTrackMap::begin" alt="" coords="355,5,517,33"/>
+<area shape="rect" id="node3" href="$d2/db8/classSvtxTrack.html#a59e8bacd45312ca7868bc090c6fefb06" title="SvtxTrack::begin_cluster_keys" alt="" coords="324,57,548,85"/>
+<area shape="rect" id="node4" href="$d7/d8b/classSvtxTrackMap.html#a0f55635c85de394ace238061dfe38736" title="SvtxTrackMap::end" alt="" coords="361,109,511,137"/>
+<area shape="rect" id="node5" href="$d2/db8/classSvtxTrack.html#a73a7625ecced41e34552518eefc13ade" title="SvtxTrack::end_cluster_keys" alt="" coords="331,161,541,189"/>
+<area shape="rect" id="node6" href="$d0/d2c/classTrkrClusterContainer.html#a6f26d0655c81919f5539934e0d0fc438" title="find cluster matching given key" alt="" coords="355,213,517,257"/>
+<area shape="rect" id="node7" href="$d0/d2c/classTrkrClusterContainer.html#a3a7c7ea7c7d9ff715c885f9346b893eb" title="find cluster matching key if any, add a new one otherwise and return cluster" alt="" coords="355,281,517,325"/>
+<area shape="rect" id="node8" href="$d6/dfa/classTrkrCluster.html#ac0c392971fc86ab09cfe1eed6cbe6979" title="TrkrCluster::getActsLocal\lError" alt="" coords="341,349,531,393"/>
+<area shape="rect" id="node9" href="$d6/dfa/classTrkrCluster.html#ac2d21d533c8948fd9c94526b994b74d0" title="TrkrCluster::getAdc" alt="" coords="361,417,511,445"/>
+<area shape="rect" id="node10" href="$d6/dfa/classTrkrCluster.html#acc835716d1c4f76e9c0da8e5a79e25c1" title="TrkrCluster::getLocalX" alt="" coords="351,469,521,497"/>
+<area shape="rect" id="node11" href="$d6/dfa/classTrkrCluster.html#a05e4879520abe27bc6028bc05fc94162" title="TrkrCluster::getLocalY" alt="" coords="351,521,521,549"/>
+<area shape="rect" id="node12" href="$d6/dfa/classTrkrCluster.html#a924282f2bc8a157638a88c551e6e0cba" title="TrkrCluster::getSubSurfKey" alt="" coords="334,573,538,601"/>
+<area shape="rect" id="node13" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="363,625,509,653"/>
+<area shape="rect" id="node14" href="$d6/dfa/classTrkrCluster.html#a165d11edc628948efb0a6e6531814556" title="Acts functions, for Acts modules use only." alt="" coords="342,677,530,721"/>
+<area shape="rect" id="node15" href="$d6/dfa/classTrkrCluster.html#a3f515839b7a2ed02514d29244d678fc7" title="TrkrCluster::setAdc" alt="" coords="361,745,511,773"/>
+<area shape="rect" id="node16" href="$d6/dfa/classTrkrCluster.html#a2b71951606ad58f47168eff0dbb7cfda" title="TrkrCluster::setLocalX" alt="" coords="351,797,521,825"/>
+<area shape="rect" id="node17" href="$d6/dfa/classTrkrCluster.html#abedf8b674e0510977307cd108beb39c7" title="TrkrCluster::setLocalY" alt="" coords="352,849,520,877"/>
+<area shape="rect" id="node18" href="$d6/dfa/classTrkrCluster.html#a31648c740049d62f7cb082d16eb2881e" title="TrkrCluster::setSubSurfKey" alt="" coords="335,901,537,929"/>
+</map>

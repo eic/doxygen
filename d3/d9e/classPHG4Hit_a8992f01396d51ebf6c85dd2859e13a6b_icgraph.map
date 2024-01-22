@@ -1,0 +1,41 @@
+<map id="PHG4Hit::get_layer" name="PHG4Hit::get_layer">
+<area shape="rect" id="node2" href="$d9/d62/classSvtxHitEval.html#a3ec6d11b3a8f5bb01816cad5f0ae4756" title="SvtxHitEval::all_hits_from" alt="" coords="221,5,415,33"/>
+<area shape="rect" id="node3" href="$d1/d1e/classSvtxClusterEval.html#ae03ae27b5a477c3c426d6a5033c359b2" title="SvtxClusterEval::all\l_truth_hits_by_nhit" alt="" coords="242,57,394,101"/>
+<area shape="rect" id="node4" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1243,164,1431,208"/>
+<area shape="rect" id="node6" href="$d4/d30/classPHG4HitContainer.html#a8d14a2d99f5acb20d89828cb23c41ac0" title="PHG4HitContainer::findOr\lAddHit" alt="" coords="221,321,415,365"/>
+<area shape="rect" id="node9" href="$d1/d1e/classSvtxClusterEval.html#abd7851ec294047271ce26d8824d2af81" title="SvtxClusterEval::gtrackid\l_and_layer_by_nhit" alt="" coords="223,389,413,433"/>
+<area shape="rect" id="node12" href="$d9/d24/classPHTruthClustering.html#aee80526d7f36911ddba2c734845e6eea" title="PHTruthClustering::\lLayerClusterG4Hits" alt="" coords="242,457,394,501"/>
+<area shape="rect" id="node15" href="$d4/de4/classSvtxTruthEval.html#a6bfd9cc85d5e568a114876331998d84b" title="SvtxTruthEval::LayerCluster\lG4Hits" alt="" coords="213,253,423,297"/>
+<area shape="rect" id="node35" href="$d8/da2/classCreateCZHitContainer.html#a742bf42f40487de2abf9e9ec823ed3cc" title="end of run method" alt="" coords="233,525,403,569"/>
+<area shape="rect" id="node37" href="$d5/dc4/PHG4Hit_8cc.html#afbcbcb188457ac445ab8006d1f886cca" title="operator\&lt;\&lt;" alt="" coords="267,593,369,621"/>
+<area shape="rect" id="node38" href="$d6/d11/classSvtxEvaluator.html#aef548ddeafdf0ebc949f29e88a741db8" title="print out the ancestry information for detailed diagnosis" alt="" coords="204,645,432,673"/>
+<area shape="rect" id="node39" href="$d8/dc7/classMomentumEvaluator.html#a57a5a38c5590636286793eadcacddbad" title="MomentumEvaluator::\lprocess_event" alt="" coords="233,697,403,741"/>
+<area shape="rect" id="node40" href="$d0/d22/classEICG4ZDCRawTowerBuilderByHitIndex.html#a4237c24c5e6fb6597cbbb8577abc461d" title="EICG4ZDCRawTowerBuilderBy\lHitIndex::process_event" alt="" coords="206,765,430,809"/>
+<area shape="rect" id="node5" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="1502,164,1678,208"/>
+<area shape="rect" id="node7" href="$df/d1b/classPHG4FCalSteppingAction.html#a50bdb3c0092cb374a9f9ce0e13ff0afa" title="PHG4FCalSteppingAction\l::UserSteppingAction" alt="" coords="485,321,676,365"/>
+<area shape="rect" id="node8" href="$d0/ded/classPHG4FPbScSteppingAction.html#a98d2f21e9a364a81d036dc6c34293906" title="stepping action. This defines processing of a single step in a given volume" alt="" coords="480,389,681,433"/>
+<area shape="rect" id="node10" href="$d1/d1e/classSvtxClusterEval.html#aea125d30358376360f89706a917607c0" title="SvtxClusterEval::best\l_cluster_by_nhit" alt="" coords="497,457,664,501"/>
+<area shape="rect" id="node11" href="$d5/da2/classPHTruthTrackSeeding.html#a37f708048770642f57f15675683c2cac" title="PHTruthTrackSeeding\l::Process" alt="" coords="745,499,909,543"/>
+<area shape="rect" id="node13" href="$d9/d24/classPHTruthClustering.html#a8fb52ae244819fcfc7e7530f2beaddc9" title="PHTruthClustering::\lall_truth_clusters" alt="" coords="505,525,656,569"/>
+<area shape="rect" id="node14" href="$d9/d24/classPHTruthClustering.html#a32f3b05811ac36d8f08ae3c565edcfca" title="PHTruthClustering::\lprocess_event" alt="" coords="752,567,903,611"/>
+<area shape="rect" id="node16" href="$d4/de4/classSvtxTruthEval.html#a10ce69fd37eb1db4dbc77cbfa7affc98" title="SvtxTruthEval::all\l_truth_clusters" alt="" coords="511,253,650,297"/>
+<area shape="rect" id="node17" href="$df/db8/classQAG4SimulationTpc.html#aec3889f1254e0eec8b2b6f354e1375bd" title="evaluate clusters" alt="" coords="745,363,910,407"/>
+<area shape="rect" id="node19" href="$d1/d1e/classSvtxClusterEval.html#af774b5eb2254c2427cd21fbd29b47b6f" title="SvtxClusterEval::all\l_truth_clusters" alt="" coords="751,431,903,475"/>
+<area shape="rect" id="node20" href="$d1/d1e/classSvtxClusterEval.html#a7619937ca04fc86bf74e13a08b1d1959" title="SvtxClusterEval::max\l_truth_cluster_by_energy" alt="" coords="983,228,1175,272"/>
+<area shape="rect" id="node26" href="$d1/d1e/classSvtxClusterEval.html#a71467fc0bd5e8af7a8d4ea2a0d124bc1" title="SvtxClusterEval::max\l_truth_particle_by_cluster\l_energy" alt="" coords="729,279,925,339"/>
+<area shape="rect" id="node18" href="$df/db8/classQAG4SimulationTpc.html#aaecb5e12b4083bd235ec7200368c58fc" title="QAG4SimulationTpc::\lprocess_event" alt="" coords="996,484,1161,528"/>
+<area shape="rect" id="node21" href="$d3/d32/classActsEvaluator.html#aab3625b68ba0383ffa858dc3e4a69142" title="ActsEvaluator::getGlobal\lTruthHit" alt="" coords="1243,232,1432,276"/>
+<area shape="rect" id="node22" href="$d3/d32/classActsEvaluator.html#a7bd073c867021570aeaa27cfbd64d966" title="ActsEvaluator::fillProto\lTrack" alt="" coords="1503,232,1677,276"/>
+<area shape="rect" id="node25" href="$d3/d32/classActsEvaluator.html#adfc0d467a2bfb926be361c88761b2667" title="ActsEvaluator::visitTrack\lStates" alt="" coords="1496,300,1684,344"/>
+<area shape="rect" id="node23" href="$d3/d32/classActsEvaluator.html#a1dcade956fd83a14249e38b5783b0f00" title="Function to evaluate Trajectories fit results from the KF." alt="" coords="1737,275,1979,303"/>
+<area shape="rect" id="node24" href="$d3/d32/classActsEvaluator.html#abb2053b5956d62192691b2b74ed05ec4" title="ActsEvaluator::process\l_event" alt="" coords="2027,267,2203,311"/>
+<area shape="rect" id="node27" href="$dd/de6/classKFParticle__truthAndDetTools.html#ad75d71be845ff83a6bb6839b5e151e3c" title="KFParticle_truthAndDetTools\l::getTruthTrack" alt="" coords="973,348,1184,392"/>
+<area shape="rect" id="node32" href="$d5/df4/classQAG4SimulationKFParticle.html#af3433c8a4e0dd83d8c6034d8f47e69e3" title="QAG4SimulationKFParticle\l::getTruthTrack" alt="" coords="979,416,1178,460"/>
+<area shape="rect" id="node28" href="$dd/de6/classKFParticle__truthAndDetTools.html#aacd7464b07f03f83a4d7e2de49e63a50" title="KFParticle_truthAndDetTools\l::fillTruthBranch" alt="" coords="1232,300,1443,344"/>
+<area shape="rect" id="node31" href="$dd/de6/classKFParticle__truthAndDetTools.html#ac462727f039ecf9c65e6d346bff72180" title="KFParticle_truthAndDetTools\l::getHepMCInfo" alt="" coords="1232,368,1443,412"/>
+<area shape="rect" id="node29" href="$d9/dae/classKFParticle__nTuple.html#ac32b873cf95657eb34d8b572ad692172" title="Fills required information for your selection, also requests truth and detector information if needed..." alt="" coords="1517,368,1663,412"/>
+<area shape="rect" id="node30" href="$d5/d72/classKFParticle__sPHENIX.html#a7e5ad7cf075fbf8e68a781e7721fec81" title="KFParticle_sPHENIX\l::process_event" alt="" coords="1782,368,1934,412"/>
+<area shape="rect" id="node33" href="$d5/df4/classQAG4SimulationKFParticle.html#a4bbecab91502593c1e95321460626c5d" title="QAG4SimulationKFParticle\l::makeHepLV" alt="" coords="1238,436,1437,480"/>
+<area shape="rect" id="node34" href="$d5/df4/classQAG4SimulationKFParticle.html#a90300d5f56d13aee8a6fe305922187f1" title="QAG4SimulationKFParticle\l::process_event" alt="" coords="1491,436,1689,480"/>
+<area shape="rect" id="node36" href="$d8/da2/classCreateCZHitContainer.html#a18bfe4d5230a9e353e986a099c28352a" title="event processing method" alt="" coords="495,593,666,637"/>
+</map>

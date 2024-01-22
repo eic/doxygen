@@ -1,0 +1,39 @@
+<map id="erhic::Pythia6EventBuilder::Create" name="erhic::Pythia6EventBuilder::Create">
+<area shape="rect" id="node2" href="$d3/d7e/classerhic_1_1EventMCFilterABC.html#a15f73d7e01667906342edfa33256d12d" title="erhic::EventMCFilterABC\l::Accept" alt="" coords="263,575,447,619"/>
+<area shape="rect" id="node3" href="$db/d1e/classerhic_1_1Pythia6EventBuilder.html#ac97f6bf0d160fe3b6e4d6c7030c225e1" title="erhic::Pythia6EventBuilder\l::BuildEvent" alt="" coords="255,643,456,687"/>
+<area shape="rect" id="node4" href="$dd/d9a/classBeamParticles.html#a6b676b416380816ead4b4d925f6a4f1a" title="BeamParticles::BeamHadron" alt="" coords="523,143,737,171"/>
+<area shape="rect" id="node5" href="$dd/d9a/classBeamParticles.html#af02c7477a1f70f792ddebefea73b7eaf" title="BeamParticles::BeamLepton" alt="" coords="525,195,735,223"/>
+<area shape="rect" id="node6" href="$d3/d2c/classerhic_1_1LeptonKinematicsComputer.html#ae78c48d7f9d15670c97aedaec9f8a2ee" title="erhic::LeptonKinematicsComputer\l::Calculate" alt="" coords="504,247,756,291"/>
+<area shape="rect" id="node13" href="$d9/dde/classerhic_1_1JacquetBlondelComputer.html#acc0902af4ff35faaed3624a06a72d8b0" title="erhic::JacquetBlondelComputer\l::Calculate" alt="" coords="514,672,746,716"/>
+<area shape="rect" id="node23" href="$d1/d6c/classerhic_1_1DoubleAngleComputer.html#a3b0ca0a86f4f8c2bcddbe6ecf4c351d1" title="erhic::DoubleAngleComputer\l::Calculate" alt="" coords="813,353,1031,397"/>
+<area shape="rect" id="node31" href="$d0/de6/classerhic_1_1Pythia6ParticleBuilder.html#a982b90223e1ce5560fe6249484120a15" title="erhic::Pythia6ParticleBuilder\l::Create" alt="" coords="524,740,736,784"/>
+<area shape="rect" id="node32" href="$db/dc9/classParticleIdentifier.html#a33dcbe6bd6352692c9c5b5de373dee5e" title="ParticleIdentifier\l::IdentifyBeams" alt="" coords="564,955,696,999"/>
+<area shape="rect" id="node38" href="$dd/d9a/classBeamParticles.html#a9306cddea6494ab2f9413ae2329cc5a5" title="BeamParticles::Scattered\lLepton" alt="" coords="535,1023,725,1067"/>
+<area shape="rect" id="node7" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="867,5,977,33"/>
+<area shape="rect" id="node9" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="900,57,944,85"/>
+<area shape="rect" id="node10" href="$dc/dae/gamma_8F.html#a32168d135528557a384f114255d59f09" title="gamma" alt="" coords="1722,57,1794,85"/>
+<area shape="rect" id="node8" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1116,5,1292,33"/>
+<area shape="rect" id="node11" href="$d4/d3e/classActs_1_1Logger.html#aee9e687247532b5175713e66b2d2121e" title="create output stream object with internal cache" alt="" coords="1916,57,2052,85"/>
+<area shape="rect" id="node12" href="$df/dce/classActs_1_1Logging_1_1OutputPrintPolicy.html#ab113823970013e1e7f310b36509136ac" title="handle output of debug message" alt="" coords="2100,49,2301,93"/>
+<area shape="rect" id="node14" href="$dc/db4/classerhic_1_1EventDis.html#aa4ebf7dfa7fab891703df3ee8a5972d1" title="erhic::EventDis::BeamHadron" alt="" coords="1648,595,1868,623"/>
+<area shape="rect" id="node15" href="$d9/dde/classerhic_1_1JacquetBlondelComputer.html#a7ede05d7772daaa0c189f35ccb08bb08" title="erhic::JacquetBlondelComputer\l::ComputeQSquared" alt="" coords="1088,732,1320,776"/>
+<area shape="rect" id="node16" href="$d9/dde/classerhic_1_1JacquetBlondelComputer.html#adfe97827e1bb885d506ba84311c61a17" title="erhic::JacquetBlondelComputer\l::ComputeY" alt="" coords="1368,672,1600,716"/>
+<area shape="rect" id="node19" href="$d0/d01/classerhic_1_1VirtualParticle.html#a48c2cab76721464e51ac6d59efa4ed0d" title="erhic::VirtualParticle\l::GetM" alt="" coords="1679,783,1837,827"/>
+<area shape="rect" id="node21" href="$d9/dde/classerhic_1_1JacquetBlondelComputer.html#a8f1c36335d78d1b9fdc6841c8124ddab" title="erhic::JacquetBlondelComputer\l::ComputeX" alt="" coords="806,565,1038,609"/>
+<area shape="rect" id="node17" href="$dc/db4/classerhic_1_1EventDis.html#a5ab36c7902b9cad660a418eb4d39cfe4" title="erhic::EventDis::BeamLepton" alt="" coords="1649,365,1867,393"/>
+<area shape="rect" id="node18" href="$d0/d01/classerhic_1_1VirtualParticle.html#a1075f27c126e87e558493734a7d5bb28" title="erhic::VirtualParticle\l::GetE" alt="" coords="1679,459,1837,503"/>
+<area shape="rect" id="node20" href="$d0/d01/classerhic_1_1VirtualParticle.html#ad59e56ccdd12f4b9ce381f52553235c0" title="erhic::VirtualParticle\l::GetPz" alt="" coords="1679,672,1837,716"/>
+<area shape="rect" id="node22" href="$d0/d01/classerhic_1_1VirtualParticle.html#a7d46e954c6e9268533181cfec1648b30" title="erhic::VirtualParticle\l::Get4Vector" alt="" coords="1405,501,1563,545"/>
+<area shape="rect" id="node24" href="$d1/d6c/classerhic_1_1DoubleAngleComputer.html#a04eccca16b527c78065a94c768c0c814" title="erhic::DoubleAngleComputer\l::ComputeQSquared" alt="" coords="1375,229,1593,273"/>
+<area shape="rect" id="node29" href="$d1/d6c/classerhic_1_1DoubleAngleComputer.html#a656f949a5ad907cd087820fae62c6c10" title="erhic::DoubleAngleComputer\l::ComputeX" alt="" coords="1095,289,1313,333"/>
+<area shape="rect" id="node30" href="$d1/d6c/classerhic_1_1DoubleAngleComputer.html#ab1643cf83ad78c5546e74265ab32a6d6" title="erhic::DoubleAngleComputer\l::ComputeY" alt="" coords="1375,161,1593,205"/>
+<area shape="rect" id="node25" href="$d1/d6c/classerhic_1_1DoubleAngleComputer.html#a443e71a9251072a5021dc44eccde92eb" title="erhic::DoubleAngleComputer\l::ComputeQuarkAngle" alt="" coords="1649,229,1867,273"/>
+<area shape="rect" id="node26" href="$d0/d01/classerhic_1_1VirtualParticle.html#acd388402e6902edd484e9479d9026427" title="erhic::VirtualParticle\l::GetTheta" alt="" coords="1679,297,1837,341"/>
+<area shape="rect" id="node27" href="$dc/db4/classerhic_1_1EventDis.html#a7a9f44cb4df4b3d02d3dd80bc7f3ae25" title="erhic::EventDis::Scattered\lLepton" alt="" coords="1659,109,1857,153"/>
+<area shape="rect" id="node28" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="1730,177,1786,205"/>
+<area shape="rect" id="node33" href="$dd/d9a/classBeamParticles.html#a5536de46afd4da761e41fd35b44fe3d0" title="BeamParticles::Reset" alt="" coords="840,1023,1004,1051"/>
+<area shape="rect" id="node34" href="$dd/d9a/classBeamParticles.html#a013b4215839410d7c06319ed2ca0ab34" title="BeamParticles::SetBeamHadron" alt="" coords="804,1075,1040,1103"/>
+<area shape="rect" id="node35" href="$dd/d9a/classBeamParticles.html#aab873fad61248b8a6c0dd9fdeb8334f8" title="BeamParticles::SetBeamLepton" alt="" coords="805,1127,1039,1155"/>
+<area shape="rect" id="node36" href="$dd/d9a/classBeamParticles.html#a0ba4b8d2a4a0f604abf139e6e37739ff" title="BeamParticles::SetBoson" alt="" coords="827,903,1017,931"/>
+<area shape="rect" id="node37" href="$dd/d9a/classBeamParticles.html#a0dd35fe4ede6dbd64681968b7b2dc4bd" title="BeamParticles::SetScattered\lLepton" alt="" coords="816,955,1028,999"/>
+</map>

@@ -1,0 +1,43 @@
+<map id="GFException::setFatal" name="GFException::setFatal">
+<area shape="rect" id="node2" href="$d6/d85/classGFRecoHitFactory.html#a00bfea09b13774376d4e6ad013354ef9" title="Register a producer module to the factory." alt="" coords="221,5,455,33"/>
+<area shape="rect" id="node4" href="$d0/de1/classGFKalman.html#afa014bc2eed916599a549991771143da" title="this returns the reduced chi2 increment for a hit" alt="" coords="530,109,727,137"/>
+<area shape="rect" id="node16" href="$d6/d85/classGFRecoHitFactory.html#ad87ba5e27ffa45774b8bf25c994ac970" title="Create a RecoHit." alt="" coords="1077,77,1296,105"/>
+<area shape="rect" id="node18" href="$dc/d78/classRKTrackRep.html#a05042330150601b79ce5b66f2dfe46c8" title="Handles propagation and material effects." alt="" coords="552,525,705,553"/>
+<area shape="rect" id="node27" href="$d2/d53/classGeaneTrackRep.html#a59fbe11dff774b2979d25739b89989d2" title="Extrapolates the track to the given detectorplane." alt="" coords="232,395,444,423"/>
+<area shape="rect" id="node28" href="$d2/d53/classGeaneTrackRep.html#a768924b326bf75ef2b65d8bf8b476460" title="This method extrapolates to the point of closest approach to a line." alt="" coords="232,447,444,491"/>
+<area shape="rect" id="node29" href="$d2/d53/classGeaneTrackRep.html#ae77ada4778453e5fe029d7378d2bb38a" title="This method is to extrapolate the track to point of closest approach to a point in space..." alt="" coords="232,515,444,559"/>
+<area shape="rect" id="node30" href="$d2/d53/classGeaneTrackRep.html#ab2b485b55cecc3cf306ba00d749dce61" title="GeaneTrackRep::getPocaOnLine" alt="" coords="220,583,456,611"/>
+<area shape="rect" id="node31" href="$de/dc7/namespaceGFTools.html#a91584ea29490044c1bdd8270f39400e6" title="Invert a matrix, throwing GFException when inversion fails." alt="" coords="256,239,420,267"/>
+<area shape="rect" id="node38" href="$d3/da8/classGFRecoHitProducer.html#a2ab7fffcd32baa5b0ef6bf9c83109c61" title="Create a RecoHit from the cluster at position index in TClonesArray." alt="" coords="259,635,417,679"/>
+<area shape="rect" id="node39" href="$dc/d78/classRKTrackRep.html#ac12f7560f92785301a6b1f6fdc3f1ae8" title="Propagates the particle through the magnetic field." alt="" coords="262,343,414,371"/>
+<area shape="rect" id="node40" href="$d0/d7d/classGFMaterialEffects.html#aabb352b9504daca23f2106dca48bd413" title="Select the multiple scattering model that will be used during track fit. At the moment two model are ..." alt="" coords="264,703,412,747"/>
+<area shape="rect" id="node41" href="$d1/dce/classGFDaf.html#a961d6bf8d9b813e4ca71199646ef5eeb" title="Set the probabilty cut for the weight calculation for the hits." alt="" coords="265,771,411,799"/>
+<area shape="rect" id="node3" href="$d2/db6/classEicRecoKalmanTask.html#a268e42220934cbf1250b3eb6c6163d2f" title="EicRecoKalmanTask::Init" alt="" coords="536,5,721,33"/>
+<area shape="rect" id="node5" href="$d0/de1/classGFKalman.html#acc724fe7b3b1538d5808c455d525b1c6" title="Calculates chi2 of a given hit with respect to a given track representation." alt="" coords="829,109,1001,137"/>
+<area shape="rect" id="node6" href="$d0/de1/classGFKalman.html#a75a13f3e2a66f83503bafe2e7e4a3590" title="One Kalman step." alt="" coords="830,201,1001,229"/>
+<area shape="rect" id="node7" href="$d0/de1/classGFKalman.html#ad19563b99c556c39f3c00995741cda0c" title="Performs fit on a GFTrack beginning with the current hit." alt="" coords="1102,201,1271,229"/>
+<area shape="rect" id="node8" href="$d0/de1/classGFKalman.html#ae47486960d827df0e414e068dc6d25fb" title="Performs fit on a GFTrack." alt="" coords="1365,201,1551,229"/>
+<area shape="rect" id="node9" href="$d1/dce/classGFDaf.html#acae6182be114ea4c813d0bb8995343a4" title="Process a track using the DAF." alt="" coords="1625,253,1785,281"/>
+<area shape="rect" id="node13" href="$d0/de1/classGFKalman.html#aff929179fdd81ad4eb7727bc75ce9b88" title="Operator for use with STL." alt="" coords="1622,201,1789,229"/>
+<area shape="rect" id="node14" href="$db/d6d/classPndRecoKalmanFit.html#af5a66632d2917c60057bd37109ec7364" title="PndRecoKalmanFit::Fit" alt="" coords="1620,97,1791,125"/>
+<area shape="rect" id="node10" href="$df/d62/classPndRecoDafFit.html#a71b624dff0fc50e252d2d2b9eed898ee" title="PndRecoDafFit::Fit" alt="" coords="1863,188,2007,216"/>
+<area shape="rect" id="node11" href="$d7/d87/classPndRecoKalmanTask.html#aa92916b999aeaf87e99fb08734ce368e" title="PndRecoKalmanTask::Exec" alt="" coords="2080,128,2280,156"/>
+<area shape="rect" id="node12" href="$d2/db6/classEicRecoKalmanTask.html#a10103a96af9664a82027040c505bfff1" title="EicRecoKalmanTask::Exec" alt="" coords="2328,128,2523,156"/>
+<area shape="rect" id="node15" href="$d2/d28/classPndRecoMultiKalmanTask.html#a79938b3ab7bca0cc183821c03520553a" title="PndRecoMultiKalmanTask\l::Exec" alt="" coords="1839,120,2032,164"/>
+<area shape="rect" id="node17" href="$d6/d85/classGFRecoHitFactory.html#a7beec7015c13a2248078ced170eb0f3f" title="Creat a collection of RecoHits." alt="" coords="1344,97,1572,125"/>
+<area shape="rect" id="node19" href="$dc/d78/classRKTrackRep.html#a2be2d0e556347dd464121be871887276" title="Returns position of the track in the plane." alt="" coords="839,473,992,501"/>
+<area shape="rect" id="node20" href="$dc/d78/classRKTrackRep.html#aa986fd663b50961e9f1b673e84827074" title="Returns momentum of the track in the plane." alt="" coords="834,525,997,553"/>
+<area shape="rect" id="node21" href="$dc/d78/classRKTrackRep.html#aa6757492b1ff0b6fefb28f564dde899b" title="Gets position and momentum in the plane." alt="" coords="822,577,1009,605"/>
+<area shape="rect" id="node22" href="$dc/d78/classRKTrackRep.html#a351386ee423e94485b9188bd1e13849c" title="This method is to extrapolate the track to point of closest approach to a point in space..." alt="" coords="815,629,1015,673"/>
+<area shape="rect" id="node23" href="$dc/d78/classRKTrackRep.html#a7c845b4fbd52e72a3dc6bff232158dfd" title="This method extrapolates to the point of closest approach to a line." alt="" coords="801,697,1029,725"/>
+<area shape="rect" id="node24" href="$dc/d78/classRKTrackRep.html#a20c06f385a82175c108ca8451e4e6a05" title="returns the tracklength spanned in this extrapolation" alt="" coords="823,749,1008,777"/>
+<area shape="rect" id="node26" href="$dc/d78/classRKTrackRep.html#a6d367a642bbce17ff9e8c51252d86e34" title="make step of h cm along the track, returns the tracklength spanned in this extrapolation" alt="" coords="828,421,1003,449"/>
+<area shape="rect" id="node25" href="$dc/d78/classRKTrackRep.html#a37537cbd53fc8a944075d43b8a917880" title="RKTrackRep::getPosMomCov" alt="" coords="1081,749,1293,777"/>
+<area shape="rect" id="node32" href="$d1/dce/classGFDaf.html#a29568e85716d0ac4fd69d290f86ad98d" title="Calculate the weights for the next fitting pass." alt="" coords="1381,292,1535,320"/>
+<area shape="rect" id="node33" href="$d0/d62/classGFDafHit.html#a4265f4eb3e5136db90e22a1b02b02fdf" title="Get the measurement m,V." alt="" coords="525,161,732,189"/>
+<area shape="rect" id="node34" href="$d0/de1/classGFKalman.html#a60e2a14f8eb3c94f27ecc426d28d8c99" title="Calculate Kalman Gain." alt="" coords="550,317,707,345"/>
+<area shape="rect" id="node35" href="$de/dc7/namespaceGFTools.html#aa7388665cdcb0aae3d32dc095b017d6c" title="Get smoothed state vector, state covariance and smoothing plane." alt="" coords="527,213,731,241"/>
+<area shape="rect" id="node36" href="$de/dc7/namespaceGFTools.html#a3bb6a2b23bfa5575c48ef8c30d19d1af" title="Get biased smoothed state vector, state covariance and smoothing plane." alt="" coords="504,265,753,293"/>
+<area shape="rect" id="node37" href="$de/dc7/namespaceGFTools.html#a53ff194048be98c35dc4bd93ec1c2c7c" title="Get smoothed chi2 for a specific hit (ihit)." alt="" coords="519,421,739,449"/>
+<area shape="rect" id="node42" href="$d1/dce/classGFDaf.html#a8ab089baced5a5a5f6713edd392d08c5" title="GFDaf::GFDaf" alt="" coords="571,771,686,799"/>
+</map>

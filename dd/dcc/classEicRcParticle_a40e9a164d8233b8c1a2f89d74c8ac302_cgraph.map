@@ -1,0 +1,8 @@
+<map id="EicRcParticle::GetMcPdgCode" name="EicRcParticle::GetMcPdgCode">
+<area shape="rect" id="node2" href="$df/d16/classPndMCTrack.html#ae7020957cb139f60e8b25753509947c5" title="PndMCTrack::GetPdgCode" alt="" coords="285,48,479,76"/>
+<area shape="rect" id="node3" href="$dd/dcc/classEicRcParticle.html#a39d04245e9f26a0a7a37fbcd1e8ff3df" title="EicRcParticle::GetPndMcTrack" alt="" coords="272,100,492,128"/>
+<area shape="rect" id="node4" href="$de/de2/classEicRootManager.html#a6b41c4d5fe81d4f2d5d6a038e0cc77d2" title="EicRootManager::Instance" alt="" coords="553,5,749,33"/>
+<area shape="rect" id="node5" href="$de/de2/classEicRootManager.html#a4a0a60710dcc8ea086b037007e91ee01" title="EicRootManager::GetPndMc\lTracks" alt="" coords="547,57,754,101"/>
+<area shape="rect" id="node6" href="$de/de2/classEicRootManager.html#a44f91c2cf1dde2979013d012aada841b" title="EicRootManager::Synchronize\lBranch" alt="" coords="540,125,761,169"/>
+<area shape="rect" id="node7" href="$de/de2/classEicRootManager.html#a67af0fffdc2ab48be1829c727b2913d0" title="EicRootManager::GetPndMc\lBranch" alt="" coords="547,193,754,237"/>
+</map>

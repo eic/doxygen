@@ -1,0 +1,36 @@
+var classFairDbMultConnector =
+[
+    [ "BLock", "da/da5/classFairDbMultConnector_1_1BLock.html", "da/da5/classFairDbMultConnector_1_1BLock" ],
+    [ "Status", "d4/d94/classFairDbMultConnector.html#a3ce741813b8b1ed052b001445cc24346", [
+      [ "kFailed", "d4/d94/classFairDbMultConnector.html#a3ce741813b8b1ed052b001445cc24346a6a0bc425f7607de54966f31cfc3b2ba9", null ],
+      [ "kClosed", "d4/d94/classFairDbMultConnector.html#a3ce741813b8b1ed052b001445cc24346a962777991630be3331eb08bcf064f0d9", null ],
+      [ "kOpen", "d4/d94/classFairDbMultConnector.html#a3ce741813b8b1ed052b001445cc24346a36dbc74a68acc24eedf2238afcadd76b", null ]
+    ] ],
+    [ "FairDbMultConnector", "d4/d94/classFairDbMultConnector.html#ae8315f5c81f7969c5d1ccaae7574260d", null ],
+    [ "~FairDbMultConnector", "d4/d94/classFairDbMultConnector.html#ab5095bb964bfaa29ff0e6951a5835ed5", null ],
+    [ "FairDbMultConnector", "d4/d94/classFairDbMultConnector.html#a297dc59511ba61c606f14ebba7556de0", null ],
+    [ "AllocateSeqNo", "d4/d94/classFairDbMultConnector.html#af0021c236199216fa0c55a0e9b5b84e3", null ],
+    [ "CreateStatement", "d4/d94/classFairDbMultConnector.html#af6cca44c2d509103ef28d4c9010840eb", null ],
+    [ "CreateTemporaryTable", "d4/d94/classFairDbMultConnector.html#aa8f8513a66937c87e8b9bb80e7fa83d3", null ],
+    [ "GetAuthorisingDbNo", "d4/d94/classFairDbMultConnector.html#aa7d122d5cb422f2e2bb4c0073936c8ab", null ],
+    [ "GetConnection", "d4/d94/classFairDbMultConnector.html#a6005a6b3b3fd6972465b2114be01aa5a", null ],
+    [ "GetConnection", "d4/d94/classFairDbMultConnector.html#a498bc629817a1b8aee3a8bde31c2f4b5", null ],
+    [ "GetDbName", "d4/d94/classFairDbMultConnector.html#ab448a7628a189ecb10f619564b88d719", null ],
+    [ "GetDbNo", "d4/d94/classFairDbMultConnector.html#aeed90bf71c5f657b74f75f98db56eb2b", null ],
+    [ "GetNumDb", "d4/d94/classFairDbMultConnector.html#a00e82f4de0cf48347c851be1b22ba1fd", null ],
+    [ "GetStatus", "d4/d94/classFairDbMultConnector.html#a2399ff488644824095dccd650220143b", null ],
+    [ "GetStatusAsString", "d4/d94/classFairDbMultConnector.html#a09b2a824459e5ed7c95f9f767725e5f5", null ],
+    [ "GetTableDbNo", "d4/d94/classFairDbMultConnector.html#aba6e4c35274a2c808df899c8fcded74f", null ],
+    [ "GetURL", "d4/d94/classFairDbMultConnector.html#a2db6105821c6f101e0f6b78502b09d98", null ],
+    [ "HoldConnections", "d4/d94/classFairDbMultConnector.html#a9a48c887cbaaf6788a7eeaddc2997582", null ],
+    [ "IsTemporaryTable", "d4/d94/classFairDbMultConnector.html#ac6df5551268d1ba24f78b11097e6e1e8", null ],
+    [ "ReleaseConnections", "d4/d94/classFairDbMultConnector.html#a50b7d8ed327cbc50b62a7b1136ed1780", null ],
+    [ "ReserveNextSeqNo", "d4/d94/classFairDbMultConnector.html#aefbbef9adc4b5855daed8608c7714d39", null ],
+    [ "SetAuthorisingEntry", "d4/d94/classFairDbMultConnector.html#a393aed027ee7c68d84d222bc85ec5c3a", null ],
+    [ "SetPermanent", "d4/d94/classFairDbMultConnector.html#a98055f13ec862da2f418eb6e39564bbb", null ],
+    [ "TableExists", "d4/d94/classFairDbMultConnector.html#a59fdbb822f0b8008d3871140532adb73", null ],
+    [ "operator<<", "d4/d94/classFairDbMultConnector.html#a6a843e4dda43cb1fc1963624ddb1148e", null ],
+    [ "fConnections", "d4/d94/classFairDbMultConnector.html#a2ded1df4aa38b1f3a376378b274bfd7e", null ],
+    [ "fGlobalSeqNoDbNo", "d4/d94/classFairDbMultConnector.html#aefe43f3e691f5c3365ffc1f600cc7be3", null ],
+    [ "fTemporaryTables", "d4/d94/classFairDbMultConnector.html#a6366b271676b4a87661380125d65e80d", null ]
+];

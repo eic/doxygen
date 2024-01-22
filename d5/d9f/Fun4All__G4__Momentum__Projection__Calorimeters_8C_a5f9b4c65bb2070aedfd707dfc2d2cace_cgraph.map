@@ -1,0 +1,51 @@
+<map id="Fun4All_G4_Momentum_Projection_Calorimeters" name="Fun4All_G4_Momentum_Projection_Calorimeters">
+<area shape="rect" id="node2" href="$d9/d91/classPHG4TrackFastSim.html#a7a3b6439d458018d2e46dc588c6964c5" title="PHG4TrackFastSim::add\l_phg4hits" alt="" coords="265,5,445,49"/>
+<area shape="rect" id="node3" href="$d9/d91/classPHG4TrackFastSim.html#a43238d7456e0a9c10147a94c1ceffaf4" title="PHG4TrackFastSim::add\l_state_name" alt="" coords="265,73,445,117"/>
+<area shape="rect" id="node4" href="$d0/d71/classPHG4TrackFastSimEval.html#aff3e5e9c43669d3d13ac5f203c42a80d" title="PHG4TrackFastSimEval\l::AddProjection" alt="" coords="267,141,442,185"/>
+<area shape="rect" id="node5" href="$d5/d29/classPHG4DetectorSubsystem.html#a59a7a51adb7ebe0fdbc9d41e97ac8fd6" title="PHG4DetectorSubsystem\l::BlackHole" alt="" coords="259,209,451,253"/>
+<area shape="rect" id="node6" href="$d8/d02/fun4all__eicmacros_2blob_2master_2common_2G4__CEmc__EIC_8C.html#ac778c2f88602e04311ada5c27fcb1e46" title="CEmc" alt="" coords="325,329,385,357"/>
+<area shape="rect" id="node8" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="527,99,753,127"/>
+<area shape="rect" id="node9" href="$d5/d29/classPHG4DetectorSubsystem.html#a48e75fd1738dab9d0d66b174053ead8f" title="PHG4DetectorSubsystem\l::set_double_param" alt="" coords="544,287,736,331"/>
+<area shape="rect" id="node11" href="$d5/d29/classPHG4DetectorSubsystem.html#a82c122f8a80f34dc4ffba6675ce60c75" title="PHG4DetectorSubsystem\l::set_string_param" alt="" coords="544,355,736,399"/>
+<area shape="rect" id="node12" href="$d5/d29/classPHG4DetectorSubsystem.html#a06d7265cdb191528ced9e78e73ba0f0a" title="PHG4DetectorSubsystem\l::SetActive" alt="" coords="544,423,736,467"/>
+<area shape="rect" id="node13" href="$d8/d02/fun4all__eicmacros_2blob_2master_2common_2G4__CEmc__EIC_8C.html#ad372ab484f67477ef247798b512a4664" title="CEMC_Cells" alt="" coords="305,705,404,733"/>
+<area shape="rect" id="node16" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="813,731,995,759"/>
+<area shape="rect" id="node17" href="$da/d29/classFun4AllServer.html#a0a9947db0ede1e55622001eb7515f8c0" title="Fun4AllServer::registerSubsystem" alt="" coords="515,783,765,811"/>
+<area shape="rect" id="node18" href="$d5/dec/classFun4AllBase.html#a05da2261577843028cf78e99171343b9" title="Sets the verbosity of this module (0 by default=quiet)." alt="" coords="552,731,728,759"/>
+<area shape="rect" id="node19" href="$d8/d02/fun4all__eicmacros_2blob_2master_2common_2G4__CEmc__EIC_8C.html#a86329bc2bafc1e544f2234abb2510613" title="CEMC_Towers" alt="" coords="298,947,411,975"/>
+<area shape="rect" id="node34" href="$da/d29/classFun4AllServer.html#ab7263450319ca1d5029209fde26a7af8" title="Fun4AllServer::End" alt="" coords="280,1051,429,1079"/>
+<area shape="rect" id="node35" href="$d8/d14/classrecoConsts.html#ae69a5c29a7199ba16d0e537158618802" title="recoConsts::instance" alt="" coords="559,1823,721,1851"/>
+<area shape="rect" id="node37" href="$da/d29/classFun4AllServer.html#ab2cb490790d15b865ae79eb3094caabe" title="Fun4AllServer::registerInput\lManager" alt="" coords="249,1155,461,1199"/>
+<area shape="rect" id="node38" href="$da/d29/classFun4AllServer.html#a9e7cd54536d1edb6e5c5cc153c0a036a" title="Fun4AllServer::registerOutput\lManager" alt="" coords="243,1223,467,1267"/>
+<area shape="rect" id="node39" href="$da/d29/classFun4AllServer.html#a11bbc8b2f53bc06e0b05ee202dd6372a" title="run n events (0 means up to end of file)" alt="" coords="281,1103,428,1131"/>
+<area shape="rect" id="node40" href="$dd/d68/classPHG4ParticleGenerator.html#a4b2a92c163bf14fd08ac939df40e1d8f" title="PHG4ParticleGenerator\l::set_eta_range" alt="" coords="266,1291,443,1335"/>
+<area shape="rect" id="node41" href="$d0/d78/classPHG4Reco.html#af7a3ea8186b3f700913d0f0ab4a64535" title="set default magnetic field strength with a constant magnetic field. Only valid if set_field_map() is ..." alt="" coords="277,1359,433,1387"/>
+<area shape="rect" id="node42" href="$d0/d71/classPHG4TrackFastSimEval.html#a71be5485fc688bf490c65175da4e5aac" title="PHG4TrackFastSimEval\l::set_filename" alt="" coords="267,1411,442,1455"/>
+<area shape="rect" id="node43" href="$dd/d68/classPHG4ParticleGenerator.html#a2519e761aa5d07a73586842149b4fc93" title="PHG4ParticleGenerator\l::set_mom_range" alt="" coords="266,1479,443,1523"/>
+<area shape="rect" id="node44" href="$d8/d78/classPHG4ParticleGeneratorBase.html#ad3bece97c2350072c683575ab5bdb53c" title="PHG4ParticleGeneratorBase\l::set_name" alt="" coords="250,1547,459,1591"/>
+<area shape="rect" id="node45" href="$dd/d68/classPHG4ParticleGenerator.html#a9b68744c1449c4c44616b9a16f3ee191" title="PHG4ParticleGenerator\l::set_phi_range" alt="" coords="266,1615,443,1659"/>
+<area shape="rect" id="node46" href="$d9/d91/classPHG4TrackFastSim.html#af91e288fc1b38e815ab3aa15253eac5c" title="PHG4TrackFastSim::set\l_sub_top_node_name" alt="" coords="266,1683,443,1727"/>
+<area shape="rect" id="node47" href="$d9/d91/classPHG4TrackFastSim.html#afe792ab593dee7e5335500771651bc9a" title="PHG4TrackFastSim::set\l_trackmap_out_name" alt="" coords="266,1751,443,1795"/>
+<area shape="rect" id="node48" href="$d9/d91/classPHG4TrackFastSim.html#a51f812d9d4b2f7e07b31704992d9c050" title="PHG4TrackFastSim::set\l_use_vertex_in_fitting" alt="" coords="266,1819,443,1863"/>
+<area shape="rect" id="node49" href="$d8/d78/classPHG4ParticleGeneratorBase.html#a45b6073aec5d527acfbb8ecc7db95033" title="PHG4ParticleGeneratorBase\l::set_vtx" alt="" coords="250,1887,459,1931"/>
+<area shape="rect" id="node50" href="$d5/d29/classPHG4DetectorSubsystem.html#aa0c11d415a70a207a3ea851b28932dfd" title="PHG4DetectorSubsystem\l::SuperDetector" alt="" coords="259,1955,451,1999"/>
+<area shape="rect" id="node7" href="$d5/d29/classPHG4DetectorSubsystem.html#a5a52f44370d90e92bfb3ed0abf6dbb76" title="PHG4DetectorSubsystem\l::OverlapCheck" alt="" coords="544,219,736,263"/>
+<area shape="rect" id="node10" href="$d5/d29/classPHG4DetectorSubsystem.html#a9c64b70e82272ef90f285ecaef1e50b4" title="PHG4DetectorSubsystem\l::set_int_param" alt="" coords="544,151,736,195"/>
+<area shape="rect" id="node14" href="$d5/dd0/classPHG4CylinderCellReco.html#a8e774e299dece3ffe63a748793c87cc1" title="PHG4CylinderCellReco\l::cellsize" alt="" coords="554,611,726,655"/>
+<area shape="rect" id="node15" href="$d5/dd0/classPHG4CylinderCellReco.html#ad32fbd4bece7778ffed95cb84b0fe180" title="PHG4CylinderCellReco\l::Detector" alt="" coords="554,543,726,587"/>
+<area shape="rect" id="node20" href="$d7/d10/classRawTowerBuilder.html#aa5fdb0003865433d55741155776da840" title="RawTowerBuilder::Detector" alt="" coords="538,887,742,915"/>
+<area shape="rect" id="node21" href="$d0/db9/classRawTowerDigitizer.html#a220c6a1663cfb78a11d536564c9c9e11" title="RawTowerDigitizer::\lDetector" alt="" coords="563,939,717,983"/>
+<area shape="rect" id="node22" href="$d3/df2/classRawTowerCalibration.html#af8e00011f5c1b79388eafb58f35d00f4" title="RawTowerCalibration\l::Detector" alt="" coords="559,1007,721,1051"/>
+<area shape="rect" id="node23" href="$d7/d10/classRawTowerBuilder.html#a1c15a6448a852bd4a242fa4d096c2c51" title="RawTowerBuilder::EminCut" alt="" coords="539,1075,741,1103"/>
+<area shape="rect" id="node24" href="$d3/df2/classRawTowerCalibration.html#a1a08275ee4f0a49e707ac76e574a1dde" title="RawTowerCalibration\l::set_calib_algorithm" alt="" coords="559,1127,721,1171"/>
+<area shape="rect" id="node25" href="$d3/df2/classRawTowerCalibration.html#a94fed2422b5dcd0b5190c62027329663" title="RawTowerCalibration\l::set_calib_const_GeV_ADC" alt="" coords="539,1195,741,1239"/>
+<area shape="rect" id="node26" href="$d0/db9/classRawTowerDigitizer.html#a77d8b741ec7a7752327e0639ca235306" title="RawTowerDigitizer::\lset_digi_algorithm" alt="" coords="563,1263,717,1307"/>
+<area shape="rect" id="node27" href="$d3/df2/classRawTowerCalibration.html#a8bc95ccdde558f2b66fdf8dd83409645" title="RawTowerCalibration\l::set_pedstal_ADC" alt="" coords="559,1331,721,1375"/>
+<area shape="rect" id="node28" href="$d0/db9/classRawTowerDigitizer.html#a1af888f55f816d27c55820d32174dd3c" title="RawTowerDigitizer::\lset_pedstal_central_ADC" alt="" coords="546,1399,734,1443"/>
+<area shape="rect" id="node29" href="$d0/db9/classRawTowerDigitizer.html#a38faf191c86807ce4f46383ca1f042a3" title="RawTowerDigitizer::\lset_pedstal_width_ADC" alt="" coords="551,1467,729,1511"/>
+<area shape="rect" id="node30" href="$d0/db9/classRawTowerDigitizer.html#ae420c9dd5c83c2cd0aa5b409de93d51b" title="RawTowerDigitizer::\lset_photonelec_ADC" alt="" coords="560,1535,720,1579"/>
+<area shape="rect" id="node31" href="$d0/db9/classRawTowerDigitizer.html#a663bc836d0e296f52000ec4d68e9ecfc" title="RawTowerDigitizer::\lset_photonelec_yield\l_visible_GeV" alt="" coords="559,1603,721,1663"/>
+<area shape="rect" id="node32" href="$d7/d10/classRawTowerBuilder.html#afa2ae3164d03a11a8c794c999eec7da5" title="RawTowerBuilder::set\l_sim_tower_node_prefix" alt="" coords="548,1687,732,1731"/>
+<area shape="rect" id="node33" href="$d0/db9/classRawTowerDigitizer.html#a48d48eb4f5e96560929f4c284b21b755" title="RawTowerDigitizer::\lset_zero_suppression_ADC" alt="" coords="539,1755,741,1799"/>
+<area shape="rect" id="node36" href="$da/d29/classFun4AllServer.html#a53b1b6b338aa36891f2690a188920980" title="Fun4AllServer::EndRun" alt="" coords="552,1875,728,1903"/>
+</map>

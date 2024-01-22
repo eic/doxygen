@@ -1,0 +1,51 @@
+<map id="check_license.err" name="check_license.err">
+<area shape="rect" id="node2" href="$d6/d11/classSvtxEvaluator.html#a230b9d059808211df74a32ab9547ac23" title="SvtxEvaluator::calculate\lClusterError" alt="" coords="213,159,398,203"/>
+<area shape="rect" id="node5" href="$df/d44/classCbmRichRingFitterQa.html#a8010c14a6ff0209036ec732af572deb6" title="CbmRichRingFitterQa\l::CalculateFitErrors" alt="" coords="223,328,387,372"/>
+<area shape="rect" id="node7" href="$de/d8e/classgenfit_1_1FieldManager.html#a962a11af0a79ed6f380f96f35ce3c4e4" title="genfit::FieldManager\l::checkInitialized" alt="" coords="225,448,386,492"/>
+<area shape="rect" id="node16" href="$d1/d34/classgenfit_1_1MaterialEffects.html#a650a96bd4e7202f0df289f812420ba26" title="Returns maximum length so that a specified momentum loss will not be exceeded." alt="" coords="991,405,1161,449"/>
+<area shape="rect" id="node19" href="$de/d8e/classgenfit_1_1FieldManager.html#a3bf198c37150d42b189ef34ec2139eaa" title="genfit::FieldManager\l::checkInstanciated" alt="" coords="225,601,386,645"/>
+<area shape="rect" id="node20" href="$d1/d34/classgenfit_1_1MaterialEffects.html#ac11f0e9f0c47f9ae160e0e21cf846d01" title="Calculates energy loss in the traveled path, optional calculation of noise matrix." alt="" coords="220,669,391,713"/>
+<area shape="rect" id="node29" href="$df/d06/fakeFrame_8C.html#a747f31be4098f000504011767116e41c" title="fakeFrame" alt="" coords="259,737,351,765"/>
+<area shape="rect" id="node30" href="$de/dfe/classALICEKF.html#a688bea306481b19fa2ac729349c5332e" title="ALICEKF::getClusterError" alt="" coords="211,789,400,817"/>
+<area shape="rect" id="node32" href="$d0/d93/classThreeDeePolySpace.html#a540bb62459a23c3470dce4d163526a5d" title="ThreeDeePolySpace::\lgetNaivePolyFitError" alt="" coords="223,841,388,885"/>
+<area shape="rect" id="node34" href="$d1/dc6/classBEmcProfile.html#a906c50709ad920bc48bf0f01db13f50f" title="BEmcProfile::GetProb" alt="" coords="223,909,387,937"/>
+<area shape="rect" id="node35" href="$df/d23/classBEmcRec.html#a0438a0281c70a3356a34515189b167fb" title="BEmcRec::GetProb" alt="" coords="232,961,379,989"/>
+<area shape="rect" id="node37" href="$d0/d93/classThreeDeePolySpace.html#ab8d9090904b0ac149af4bc7ddf80e37d" title="ThreeDeePolySpace::\lgetRealisticPolyFitError" alt="" coords="217,1013,394,1057"/>
+<area shape="rect" id="node38" href="$dd/d8c/classPndPidCorrelator.html#a7ac63f5bf338c5cd489fcfcc155b4353" title="PndPidCorrelator::GetTrackInfo" alt="" coords="192,1081,419,1109"/>
+<area shape="rect" id="node40" href="$d1/d34/classgenfit_1_1MaterialEffects.html#a9c604002cb66d43e99da8802e3b8918e" title="set the material interface here. Material interface classes must be derived from AbsMaterialInterface..." alt="" coords="220,1133,391,1177"/>
+<area shape="rect" id="node45" href="$df/d52/test_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="278,1201,333,1229"/>
+<area shape="rect" id="node46" href="$d7/dc7/namespacecheck__license.html#a483a16e30e6093196187ec866675957a" title="check_license.main" alt="" coords="229,1253,381,1281"/>
+<area shape="rect" id="node47" href="$df/d23/classBEmcRec.html#a27562d25417207a7f823d99f000bf265" title="BEmcRec::PredictEnergyProb" alt="" coords="197,1305,413,1333"/>
+<area shape="rect" id="node49" href="$d8/dea/classTpcClusterCleaner.html#a0f87de797fe4acc6dac365fe86fb22dc" title="TpcClusterCleaner::\lset_new_rphi_error" alt="" coords="228,1357,383,1401"/>
+<area shape="rect" id="node50" href="$d8/dea/classTpcClusterCleaner.html#a05d0301e4bf53257b3e72550426487a7" title="TpcClusterCleaner::\lset_new_z_error" alt="" coords="228,1425,383,1469"/>
+<area shape="rect" id="node3" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="477,108,665,152"/>
+<area shape="rect" id="node4" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="743,5,919,49"/>
+<area shape="rect" id="node6" href="$df/d44/classCbmRichRingFitterQa.html#a3312359c4adaa1788105cc6d60b5b4b2" title="Generate ellipse." alt="" coords="489,277,653,321"/>
+<area shape="rect" id="node8" href="$de/d8e/classgenfit_1_1FieldManager.html#a12f1a610b482443c3727f34ff807b8bc" title="genfit::FieldManager\l::getField" alt="" coords="491,448,652,492"/>
+<area shape="rect" id="node9" href="$de/d8e/classgenfit_1_1FieldManager.html#a7432ac0fd7ad0d3249ca4546a8ead6cb" title="This does NOT use the cache!" alt="" coords="491,345,652,389"/>
+<area shape="rect" id="node10" href="$d6/df6/classPHTpcTrackFollower.html#a70bab64e85da952cf935c5fa64b5022e" title="PHTpcTrackFollower\l::get_projected_coordinate" alt="" coords="731,481,932,525"/>
+<area shape="rect" id="node11" href="$db/dc4/classPHGenFitTrackProjection.html#a5567e0a28356b671b5450b73c120aab6" title="PHGenFitTrackProjection\l::process_event" alt="" coords="739,73,923,117"/>
+<area shape="rect" id="node12" href="$d1/dc8/classgenfit_1_1GblFitter.html#a4be6bdc46ad9f13aef275aea2b01f438" title="genfit::GblFitter::\lprocessTrackWithRep" alt="" coords="749,141,914,185"/>
+<area shape="rect" id="node13" href="$d3/d7b/classgenfit_1_1GFGbl.html#a0fbc16a1bcfe612c536b616be8239689" title="genfit::GFGbl::processTrack\lWithRep" alt="" coords="727,209,935,253"/>
+<area shape="rect" id="node14" href="$d8/d7b/classgenfit_1_1GFRaveMagneticField.html#a23d65c1e0883a1a034b9c46b1722cc9c" title="genfit::GFRaveMagneticField\l::inTesla" alt="" coords="724,277,939,321"/>
+<area shape="rect" id="node15" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a720ff8ec073fecf4c73aedaabea847cb" title="The actual Runge Kutta propagation." alt="" coords="757,345,905,389"/>
+<area shape="rect" id="node18" href="$da/de9/classgenfit_1_1HelixTrackModel.html#ad250686f44e1e6a2ce8022cf2e7597f2" title="genfit::HelixTrackModel\l::HelixTrackModel" alt="" coords="742,413,921,457"/>
+<area shape="rect" id="node17" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a961af5c02ef062460c3d7f1d3455af78" title="genfit::RKTrackRep\l::estimateStep" alt="" coords="1213,376,1361,420"/>
+<area shape="rect" id="node21" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a741b844d5f72a6df5d3597570b23c70d" title="Handles propagation and material effects." alt="" coords="497,707,645,751"/>
+<area shape="rect" id="node22" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a6fa3b420076b51065abc8e4ad2798364" title="Extrapolates the state to plane, and returns the extrapolation length and, via reference, the extrapolated state." alt="" coords="752,753,911,797"/>
+<area shape="rect" id="node23" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a9a6edc1b87e66769b5176f0d4b819620" title="Extrapolates the state to the POCA to a line, and returns the extrapolation length and..." alt="" coords="1001,583,1151,627"/>
+<area shape="rect" id="node24" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a2b012af1d874785a23622228e0781b82" title="genfit::RKTrackRep\l::extrapToPoint" alt="" coords="1002,651,1150,695"/>
+<area shape="rect" id="node25" href="$d2/d12/classgenfit_1_1RKTrackRep.html#ac657e5e597e2e2b0ecbc6b7ce5715516" title="Extrapolates the state to the cylinder surface, and returns the extrapolation length and..." alt="" coords="987,719,1165,763"/>
+<area shape="rect" id="node26" href="$d2/d12/classgenfit_1_1RKTrackRep.html#ab0d889ad6a71d5ec7ed4307f694a706b" title="Extrapolates the state to the cone surface, and returns the extrapolation length and, via reference, the extrapolated state." alt="" coords="998,787,1154,831"/>
+<area shape="rect" id="node27" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a34b93c791f6d8cac8a8f78b72fd19444" title="Extrapolates the state to the sphere surface, and returns the extrapolation length and..." alt="" coords="991,855,1161,899"/>
+<area shape="rect" id="node28" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a2b198d7bbf24f6444e80ee03e8fa648e" title="Extrapolates the state by step (cm) and returns the extrapolation length and, via reference..." alt="" coords="1002,923,1150,967"/>
+<area shape="rect" id="node31" href="$de/dfe/classALICEKF.html#a0ee894800941b7537fb5534dbd6727ad" title="ALICEKF::ALICEKalmanFilter" alt="" coords="467,789,676,817"/>
+<area shape="rect" id="node33" href="$d0/d70/classMgrid.html#a8b4cf069b1d54eca62697f84ccdc234c" title="Mgrid::directFieldValue" alt="" coords="483,849,659,877"/>
+<area shape="rect" id="node36" href="$d9/d04/classEmcCluster.html#a73b89990f83b7dff6006bdca5213cf7d" title="EmcCluster::GetProb" alt="" coords="491,953,652,981"/>
+<area shape="rect" id="node39" href="$dd/d8c/classPndPidCorrelator.html#ae4a0f3f29e102b0f60fac6c315ff0e02" title="PndPidCorrelator::Construct\lChargedCandidate" alt="" coords="467,1005,675,1049"/>
+<area shape="rect" id="node41" href="$dc/d6c/fun4all__GenFit_2blob_2master_2test_2fitterTests_2main_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="544,1141,599,1169"/>
+<area shape="rect" id="node42" href="$d1/d35/classPHGenFit_1_1Fitter.html#ab245e2833a4d6880cc1c836bc46389b2" title="Default constructor." alt="" coords="486,1193,657,1221"/>
+<area shape="rect" id="node43" href="$d8/d1e/classPHGenFit2_1_1Fitter.html#aad5821d855a58b9704f74c796c7f9b02" title="PHGenFit2::Fitter::\lFitter" alt="" coords="500,1245,643,1289"/>
+<area shape="rect" id="node44" href="$d6/d0d/classgenfit_1_1MaterialEffectsTests.html#adcb956cc47f23057aab04a43d577d3af" title="genfit::MaterialEffectsTests\l::SetUp" alt="" coords="469,1073,673,1117"/>
+<area shape="rect" id="node48" href="$df/d23/classBEmcRec.html#a98e49a2e854a71a7c56ff4a2c9daeae6" title="BEmcRec::PredictEnergy" alt="" coords="478,1313,665,1341"/>
+</map>

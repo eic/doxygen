@@ -1,0 +1,28 @@
+var classEicBeamLineElementGrad =
+[
+    [ "EicBeamLineElementGrad", "d0/d93/classEicBeamLineElementGrad.html#a60a2c7095e75e58e3adaee451aeed3a6", null ],
+    [ "~EicBeamLineElementGrad", "d0/d93/classEicBeamLineElementGrad.html#a82475a1237129eea29aa2c8f28dc7668", null ],
+    [ "BasenameWrapper", "d0/d93/classEicBeamLineElementGrad.html#a7a21a8f54a6942e39d94b382e2b6ff3f", null ],
+    [ "CapableToBuildYoke", "d0/d93/classEicBeamLineElementGrad.html#ad4341c035237e63bafc2a63e40ab9ad9", null ],
+    [ "ClassDef", "d0/d93/classEicBeamLineElementGrad.html#ae0906fde84646726e490f65963db04c6", null ],
+    [ "ConstructGeometry", "d0/d93/classEicBeamLineElementGrad.html#aeba5efba31abc7f8014aad083b727808", null ],
+    [ "GetDetectorName", "d0/d93/classEicBeamLineElementGrad.html#a31fb4166b0d123494048fa35050cf86f", null ],
+    [ "GetFieldValue", "d0/d93/classEicBeamLineElementGrad.html#ac058b39939f184fcb0ff1cf64b9e4c0c", null ],
+    [ "GetYokeVolume", "d0/d93/classEicBeamLineElementGrad.html#acf176bd9f8c8aaaf56d25880465e4052", null ],
+    [ "Initialize", "d0/d93/classEicBeamLineElementGrad.html#ab398ee6afd7f2087b9e22259da5ab56d", null ],
+    [ "SetFieldScale", "d0/d93/classEicBeamLineElementGrad.html#ab69bff4aa9f7463b0e6c82b5360996d9", null ],
+    [ "mAngle", "d0/d93/classEicBeamLineElementGrad.html#ac546288f59189f762ac9083a105923ce", null ],
+    [ "mB", "d0/d93/classEicBeamLineElementGrad.html#a6c5a36741bc563b4f5db2e6d485d080a", null ],
+    [ "mBoreZin", "d0/d93/classEicBeamLineElementGrad.html#a8cabebb7735c2e5df78c01676aa89bf4", null ],
+    [ "mBoreZout", "d0/d93/classEicBeamLineElementGrad.html#a58866525167d919f48fecfd38f0e22ba", null ],
+    [ "mCenterX", "d0/d93/classEicBeamLineElementGrad.html#a4515d4ca46c9743ee9b01f432a56c4c8", null ],
+    [ "mCenterY", "d0/d93/classEicBeamLineElementGrad.html#a9137b6b7e8406b3cb85a687a0ca21f67", null ],
+    [ "mCenterZ", "d0/d93/classEicBeamLineElementGrad.html#a7a93101771f1feac72028d0c1ba3ecf4", null ],
+    [ "mDiaOut", "d0/d93/classEicBeamLineElementGrad.html#a4bed2ab36732662a893bbd1aee8de6ce", null ],
+    [ "mGradient", "d0/d93/classEicBeamLineElementGrad.html#a2123c56511c93c720a152e66e4bc13d2", null ],
+    [ "mLength", "d0/d93/classEicBeamLineElementGrad.html#a079f61fb69ca18900f2b87efc09fae66", null ],
+    [ "mName", "d0/d93/classEicBeamLineElementGrad.html#a07332414e51ce40b327f026fcd5c318f", null ],
+    [ "mScale", "d0/d93/classEicBeamLineElementGrad.html#adca75a45c8cb3606b818f8d8ae348fac", null ],
+    [ "mTransformation", "d0/d93/classEicBeamLineElementGrad.html#acb46659efdcf9ee25ff2382731953d7e", null ],
+    [ "mYoke", "d0/d93/classEicBeamLineElementGrad.html#a2f44aa6c64a7daac403a0eec620d5308", null ]
+];

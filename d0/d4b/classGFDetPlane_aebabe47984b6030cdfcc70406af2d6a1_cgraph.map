@@ -1,0 +1,5 @@
+<map id="GFDetPlane::dist" name="GFDetPlane::dist">
+<area shape="rect" id="node2" href="$d0/d4b/classGFDetPlane.html#aae3b707316415191c73c0121581595b8" title="transform from Lab system into plane" alt="" coords="188,5,373,33"/>
+<area shape="rect" id="node4" href="$d0/d4b/classGFDetPlane.html#ac5405fe68fa5919775fc73ff0ae24bc2" title="transform from plane coordinates to lab system" alt="" coords="207,57,354,85"/>
+<area shape="rect" id="node3" href="$d0/d4b/classGFDetPlane.html#aaf5ac9b6f1be6bf351f7ebb4a4ae7c4e" title="projecting a direction onto the plane:" alt="" coords="421,5,579,33"/>
+</map>

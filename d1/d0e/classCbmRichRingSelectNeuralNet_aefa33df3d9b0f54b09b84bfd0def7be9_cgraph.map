@@ -1,0 +1,51 @@
+<map id="CbmRichRingSelectNeuralNet::DoSelect" name="CbmRichRingSelectNeuralNet::DoSelect">
+<area shape="rect" id="node2" href="$d7/d3d/classCbmRichRingSelectImplLight.html#a5508805523470f490533dbfcefa810f5" title="CbmRichRingSelectImplLight\l::GetAngle" alt="" coords="297,213,514,257"/>
+<area shape="rect" id="node6" href="$de/d89/classCbmRichRingLight.html#ad45c397b52a7882866e354cfcd2c1bd6" title="Return number of hits in ring." alt="" coords="585,113,813,141"/>
+<area shape="rect" id="node7" href="$de/d89/classCbmRichRingLight.html#a6c7593c19098c63540e9da1f06ac4076" title="CbmRichRingLight::GetAngle" alt="" coords="297,109,514,137"/>
+<area shape="rect" id="node8" href="$de/d89/classCbmRichRingLight.html#a78abf276ad9b4e81849afc5930602335" title="CbmRichRingLight::GetChi2" alt="" coords="301,161,509,189"/>
+<area shape="rect" id="node9" href="$de/d89/classCbmRichRingLight.html#ab422f62b2d7c0fe8a3d7eb1413705eee" title="CbmRichRingLight::GetNDF" alt="" coords="302,5,509,33"/>
+<area shape="rect" id="node10" href="$de/d89/classCbmRichRingLight.html#af2caa2929d8cdbd9c4da8e5cd5bd66f3" title="CbmRichRingLight::GetNof\lHitsOnRing" alt="" coords="304,281,507,325"/>
+<area shape="rect" id="node11" href="$d7/d3d/classCbmRichRingSelectImplLight.html#a42c1c89ee39df3fc3f17055676106a0c" title="CbmRichRingSelectImplLight\l::GetNofHitsOnRingCircle" alt="" coords="297,349,514,393"/>
+<area shape="rect" id="node12" href="$de/d89/classCbmRichRingLight.html#a7075628216df426788b864369f6d9c61" title="CbmRichRingLight::GetRadius" alt="" coords="587,412,811,440"/>
+<area shape="rect" id="node13" href="$de/d89/classCbmRichRingLight.html#a6db1a3770fdf9a3c5281f0bfecd9efa6" title="Return radial position of the ring." alt="" coords="295,469,515,513"/>
+<area shape="rect" id="node14" href="$de/d89/classCbmRichRingLight.html#a70834302e2f7c2cf4fb407bd1a45943d" title="CbmRichRingLight::SetAngle" alt="" coords="298,537,513,565"/>
+<area shape="rect" id="node15" href="$de/d89/classCbmRichRingLight.html#a86ff8ff2942cd1ab1103179d5eb5c791" title="CbmRichRingLight::SetNof\lHitsOnRing" alt="" coords="305,589,506,633"/>
+<area shape="rect" id="node16" href="$de/d89/classCbmRichRingLight.html#a772e927fd4641eedbca0fe1ee299d7db" title="CbmRichRingLight::SetSelectionNN" alt="" coords="276,657,535,685"/>
+<area shape="rect" id="node17" href="$de/d44/classNNfunction.html#a382b90dc4873e4af0be27c342107809b" title="NNfunction::Value" alt="" coords="334,709,477,737"/>
+<area shape="rect" id="node3" href="$de/d89/classCbmRichRingLight.html#aa919c6cf5b852f0b89f0aee7ac8e1573" title="CbmRichRingLight::GetCenterX" alt="" coords="583,353,816,381"/>
+<area shape="rect" id="node4" href="$de/d89/classCbmRichRingLight.html#a410d6c9513ea5dde4f59660898139aa7" title="CbmRichRingLight::GetCenterY" alt="" coords="583,225,816,253"/>
+<area shape="rect" id="node5" href="$de/d89/classCbmRichRingLight.html#ac2451e7309a97a6ac4e8d49796e60ac9" title="Return hit by the index." alt="" coords="600,285,799,313"/>
+<area shape="rect" id="node18" href="$de/d44/classNNfunction.html#a31beff081e17a6b392c8b4750ceca744" title="NNfunction::neuron0x860e698" alt="" coords="585,709,814,737"/>
+<area shape="rect" id="node19" href="$de/d44/classNNfunction.html#af42cacff5a3445f42af3de4813cce15e" title="NNfunction::input0x860e698" alt="" coords="864,709,1081,737"/>
+<area shape="rect" id="node20" href="$de/d44/classNNfunction.html#a44156127aae0ba1016d7436a9c9f8e99" title="NNfunction::synapse0x860e798" alt="" coords="1129,547,1368,575"/>
+<area shape="rect" id="node29" href="$de/d44/classNNfunction.html#a2ee1e99d1800a050622322928d51c424" title="NNfunction::synapse0x860e7c0" alt="" coords="1130,619,1367,647"/>
+<area shape="rect" id="node38" href="$de/d44/classNNfunction.html#ae611d5c80763c8853d35c59960124156" title="NNfunction::synapse0x860e7e8" alt="" coords="1130,709,1367,737"/>
+<area shape="rect" id="node45" href="$de/d44/classNNfunction.html#af7e4bf20d54f1d0d9606ea711d821ac3" title="NNfunction::synapse0x860e060" alt="" coords="1129,761,1368,789"/>
+<area shape="rect" id="node48" href="$de/d44/classNNfunction.html#ab98b2e17672b3684b4d58553b2ae84b4" title="NNfunction::synapse0x860e088" alt="" coords="1129,813,1368,841"/>
+<area shape="rect" id="node21" href="$de/d44/classNNfunction.html#a55045286b63b45a2c204ff38dbf98e89" title="NNfunction::neuron0x860d840" alt="" coords="1416,469,1647,497"/>
+<area shape="rect" id="node22" href="$de/d44/classNNfunction.html#a4af62bba4cf250cc69585499bfe708ef" title="NNfunction::input0x860d840" alt="" coords="1695,215,1912,243"/>
+<area shape="rect" id="node23" href="$de/d44/classNNfunction.html#ab6f37dac6dba924b436da6e9be054c02" title="NNfunction::synapse0x85fe830" alt="" coords="1962,59,2197,87"/>
+<area shape="rect" id="node24" href="$de/d44/classNNfunction.html#a56e6c9642449cb7bbf70fa82de414f17" title="NNfunction::synapse0x860d9f0" alt="" coords="1962,111,2197,139"/>
+<area shape="rect" id="node25" href="$de/d44/classNNfunction.html#af823ab0fb687a8baef94cf7f9ae2f0bb" title="NNfunction::synapse0x860da18" alt="" coords="1960,163,2199,191"/>
+<area shape="rect" id="node26" href="$de/d44/classNNfunction.html#adb7685d0e88f4e0c4aa809f55d59cf58" title="NNfunction::synapse0x860da40" alt="" coords="1960,215,2199,243"/>
+<area shape="rect" id="node27" href="$de/d44/classNNfunction.html#a9217414b8de2eac8befa55e22b2437c9" title="NNfunction::synapse0x860da68" alt="" coords="1960,267,2199,295"/>
+<area shape="rect" id="node28" href="$de/d44/classNNfunction.html#abe3e7ba3ee9ab3f9a30f76dffdbdeac5" title="NNfunction::synapse0x860da90" alt="" coords="1960,319,2199,347"/>
+<area shape="rect" id="node30" href="$de/d44/classNNfunction.html#a0797d00eb5f34134986576038e635212" title="NNfunction::neuron0x860dab8" alt="" coords="1417,569,1646,597"/>
+<area shape="rect" id="node31" href="$de/d44/classNNfunction.html#a3fcbc47fe6ea8dfcfb15991355c78b59" title="NNfunction::input0x860dab8" alt="" coords="1695,527,1912,555"/>
+<area shape="rect" id="node32" href="$de/d44/classNNfunction.html#a779f97fcc97fe766b33b196a9faac45f" title="NNfunction::synapse0x860dcb0" alt="" coords="1961,371,2198,399"/>
+<area shape="rect" id="node33" href="$de/d44/classNNfunction.html#ac14a86a0d97109a2fc2b35cdce7018ad" title="NNfunction::synapse0x860dcd8" alt="" coords="1961,423,2198,451"/>
+<area shape="rect" id="node34" href="$de/d44/classNNfunction.html#a50e362c7226d7bd45b3478fcb7095b5a" title="NNfunction::synapse0x860dd00" alt="" coords="1960,475,2199,503"/>
+<area shape="rect" id="node35" href="$de/d44/classNNfunction.html#ac114d162d866e69c16786e5e5b24d363" title="NNfunction::synapse0x860dd28" alt="" coords="1960,527,2199,555"/>
+<area shape="rect" id="node36" href="$de/d44/classNNfunction.html#a0e358b48ed714bacb454afe51335c7ae" title="NNfunction::synapse0x860dd50" alt="" coords="1960,579,2199,607"/>
+<area shape="rect" id="node37" href="$de/d44/classNNfunction.html#a16bd5d06322ce56dcf176a9f198d28e9" title="NNfunction::synapse0x860dd78" alt="" coords="1960,631,2199,659"/>
+<area shape="rect" id="node39" href="$de/d44/classNNfunction.html#a0332e1d2397e470ef38c64aa94f11cb0" title="NNfunction::neuron0x860dda0" alt="" coords="1417,709,1646,737"/>
+<area shape="rect" id="node40" href="$de/d44/classNNfunction.html#adce1877451a21f9f334b19c66b2820ea" title="NNfunction::input0x860dda0" alt="" coords="1695,709,1912,737"/>
+<area shape="rect" id="node41" href="$de/d44/classNNfunction.html#a4794d0fcb9aa1af9bbdaf1fdefcb3d2a" title="NNfunction::synapse0x860df98" alt="" coords="1962,683,2197,711"/>
+<area shape="rect" id="node42" href="$de/d44/classNNfunction.html#aa903eeb77d9b764a6d6002b2b8335a1b" title="NNfunction::synapse0x860dfc0" alt="" coords="1963,735,2196,763"/>
+<area shape="rect" id="node43" href="$de/d44/classNNfunction.html#a13c36c499bce51ce9c9b253817cd0dc8" title="NNfunction::synapse0x860dfe8" alt="" coords="1962,787,2197,815"/>
+<area shape="rect" id="node44" href="$de/d44/classNNfunction.html#ab286b82e095b395b9a78a5d3127f79cd" title="NNfunction::synapse0x860e010" alt="" coords="1960,839,2199,867"/>
+<area shape="rect" id="node46" href="$de/d44/classNNfunction.html#a9dd923d3e4447aebae7c59ebf38f9006" title="NNfunction::neuron0x860e110" alt="" coords="1417,761,1646,789"/>
+<area shape="rect" id="node47" href="$de/d44/classNNfunction.html#aac3f7712c1225b90c538d7e340353704" title="NNfunction::input0x860e110" alt="" coords="1695,761,1912,789"/>
+<area shape="rect" id="node49" href="$de/d44/classNNfunction.html#ad934c3a822de04b184e46d649e5e8832" title="NNfunction::neuron0x860e3b0" alt="" coords="1417,813,1646,841"/>
+<area shape="rect" id="node50" href="$de/d44/classNNfunction.html#ad0d0b25e0ec151a4b8eb67889bf8c9f1" title="NNfunction::input0x860e3b0" alt="" coords="1695,813,1912,841"/>
+</map>

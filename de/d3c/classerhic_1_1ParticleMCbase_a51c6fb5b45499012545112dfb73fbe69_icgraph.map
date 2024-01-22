@@ -1,0 +1,16 @@
+<map id="erhic::ParticleMCbase::GetStatus" name="erhic::ParticleMCbase::GetStatus">
+<area shape="rect" id="node2" href="$d6/dfb/classerhic_1_1EventMC.html#a13b99cc0cdad4fb55d48019799bc9d90" title="erhic::EventMC::FinalState" alt="" coords="220,285,419,313"/>
+<area shape="rect" id="node12" href="$d7/d24/extendedjetexample_8cxx.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="292,360,347,388"/>
+<area shape="rect" id="node13" href="$d3/d49/classReadEICFiles.html#a7dd6da2318a9ea07bb3569bc2d5549c6" title="ReadEICFiles::process\l_event" alt="" coords="235,412,403,456"/>
+<area shape="rect" id="node14" href="$de/dac/TreeToHepMC_8cxx.html#aad9a4697fba7ddee9a6d6b13fbf79c70" title="TreeToHepMC" alt="" coords="263,525,376,553"/>
+<area shape="rect" id="node3" href="$d6/dfb/classerhic_1_1EventMC.html#ad3ac3c0c1ca5ff7cc17fad39e13a3c0e" title="erhic::EventMC::FinalState\lCharge" alt="" coords="475,5,673,49"/>
+<area shape="rect" id="node4" href="$d6/dfb/classerhic_1_1EventMC.html#a0582bf6c212ec7cc3a184cf722d36db2" title="erhic::EventMC::FinalState\lMomentum" alt="" coords="475,73,673,117"/>
+<area shape="rect" id="node5" href="$d6/dfb/classerhic_1_1EventMC.html#aea8284496cd97c22c68880edd5765ed0" title="erhic::EventMC::Hadronic\lFinalState" alt="" coords="478,141,670,185"/>
+<area shape="rect" id="node7" href="$d2/d84/classerhic_1_1EventRapgap.html#a97d2319a238592c4b68663034020f1db" title="erhic::EventRapgap\l::ScatteredLepton" alt="" coords="497,209,651,253"/>
+<area shape="rect" id="node8" href="$d2/da5/classerhic_1_1EventSimple.html#ae892d16064367089e4e95defe2e28d98" title="erhic::EventSimple\l::ScatteredLepton" alt="" coords="500,277,648,321"/>
+<area shape="rect" id="node9" href="$d2/db2/classerhic_1_1EventDEMP.html#ae13104eee044d682950ae87b28516cb3" title="erhic::EventDEMP::Scattered\lLepton" alt="" coords="467,345,681,389"/>
+<area shape="rect" id="node10" href="$d8/d97/classerhic_1_1EventSartre.html#ae799e1ab9c8e8835c8de60863b9405f0" title="erhic::EventSartre\l::ScatteredLepton" alt="" coords="503,413,645,457"/>
+<area shape="rect" id="node11" href="$df/d77/classerhic_1_1EventPythia.html#a8ffbe32229a7310901b0b2f9b6c8d0bf" title="erhic::EventPythia\l::ScatteredLepton" alt="" coords="502,481,646,525"/>
+<area shape="rect" id="node6" href="$d6/dfb/classerhic_1_1EventMC.html#aec7fb1c6cce8817a7e0354b06ca39bc7" title="erhic::EventMC::Hadronic\lFinalStateMomentum" alt="" coords="729,141,921,185"/>
+<area shape="rect" id="node15" href="$de/dac/TreeToHepMC_8cxx.html#ad9425cd757fe15c0a28964c2e907aff8" title="TreeToHepMC" alt="" coords="517,549,631,577"/>
+</map>

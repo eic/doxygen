@@ -1,0 +1,9 @@
+<map id="CylinderGeomMicromegas::get_world_coordinates" name="CylinderGeomMicromegas::get_world_coordinates">
+<area shape="rect" id="node2" href="$d3/d5f/classCylinderGeomMicromegas.html#a16cefa80d750c1b0b33187dee3c9e9cd" title="get local coordinates for a given tile and strip" alt="" coords="253,5,453,49"/>
+<area shape="rect" id="node3" href="$d3/d5f/classCylinderGeomMicromegas.html#a07e069f19cd34bf5cbc14df8589b9d41" title="convert local to world position coordinates in (planar) tile reference frame" alt="" coords="253,73,453,133"/>
+<area shape="rect" id="node4" href="$d3/d5f/classCylinderGeomMicromegas.html#a2f735644ef9dd61cfe02ed3450896fb7" title="CylinderGeomMicromegas\l::transformation_matrix" alt="" coords="501,81,701,125"/>
+<area shape="rect" id="node5" href="$d7/ddb/egutils_8cpp.html#afada8b7a957cc33c8ed7d93e67633b5e" title="matrix" alt="" coords="749,63,815,91"/>
+<area shape="rect" id="node8" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="760,115,804,143"/>
+<area shape="rect" id="node6" href="$d7/ddb/egutils_8cpp.html#a0669a7d0e70f2da34b4a11d9c669d6b6" title="nrerror" alt="" coords="863,63,931,91"/>
+<area shape="rect" id="node7" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="979,63,1025,91"/>
+</map>

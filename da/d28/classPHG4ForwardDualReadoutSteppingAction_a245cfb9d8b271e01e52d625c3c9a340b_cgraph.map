@@ -1,0 +1,5 @@
+<map id="PHG4ForwardDualReadoutSteppingAction::SetInterfacePointers" name="PHG4ForwardDualReadoutSteppingAction::SetInterfacePointers">
+<area shape="rect" id="node2" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="348,5,537,33"/>
+<area shape="rect" id="node3" href="$dd/dc3/classPHG4ForwardDualReadoutDetector.html#a1cd809de51f6f24b54d71041033ee6a3" title="PHG4ForwardDualReadoutDetector\l::SuperDetector" alt="" coords="313,57,572,101"/>
+<area shape="rect" id="node4" href="$df/d3f/classPHG4SteppingAction.html#a4f46d6b68b124cd32518b631465359dc" title="PHG4SteppingAction\l::Verbosity" alt="" coords="362,125,523,169"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="SvtxHitEval::all_truth_hits" name="SvtxHitEval::all_truth_hits">
+<area shape="rect" id="node2" href="$d9/d62/classSvtxHitEval.html#a6fc7bdf499c6fb305869e48b81150069" title="SvtxHitEval::all_hits_from" alt="" coords="248,5,441,33"/>
+<area shape="rect" id="node4" href="$d9/d62/classSvtxHitEval.html#a6686c3f9341f4c401e8416d9df788f97" title="SvtxHitEval::all_truth\l_particles" alt="" coords="263,125,426,169"/>
+<area shape="rect" id="node6" href="$d9/d62/classSvtxHitEval.html#ab22602a87e83b71f2bffa4e2ace4c497" title="SvtxHitEval::get_energy\l_contribution" alt="" coords="253,57,437,101"/>
+<area shape="rect" id="node9" href="$d9/d62/classSvtxHitEval.html#addb1604cbe13118fb2413bd05c56e191" title="SvtxHitEval::max_truth\l_hit_by_energy" alt="" coords="256,193,433,237"/>
+<area shape="rect" id="node3" href="$d9/d62/classSvtxHitEval.html#a1556ac2e8e593270b2ff3ad18f5d209e" title="SvtxHitEval::best_hit_from" alt="" coords="489,36,689,64"/>
+<area shape="rect" id="node5" href="$d9/d62/classSvtxHitEval.html#a4adfe815e9d79b780421db2a6cddef1b" title="SvtxHitEval::max_truth\l_particle_by_energy" alt="" coords="501,89,678,133"/>
+<area shape="rect" id="node7" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="495,161,683,205"/>
+<area shape="rect" id="node8" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="737,161,913,205"/>
+</map>

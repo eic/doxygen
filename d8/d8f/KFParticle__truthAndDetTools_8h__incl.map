@@ -1,0 +1,31 @@
+<map id="fun4all_coresoftware/blob/master/offline/packages/KFParticle_sPHENIX/KFParticle_truthAndDetTools.h" name="fun4all_coresoftware/blob/master/offline/packages/KFParticle_sPHENIX/KFParticle_truthAndDetTools.h">
+<area shape="rect" id="node2" href="$d6/d98/KFParticle__Tools_8h.html" title="KFParticle_Tools.h" alt="" coords="1261,205,1401,233"/>
+<area shape="rect" id="node9" href="$df/dfe/InttDefs_8h.html" title="Utility functions for INTT." alt="" coords="184,517,299,545"/>
+<area shape="rect" id="node10" href="$d8/d00/TrkrDefs_8h.html" title="Namespace with Trkr key types and utility functions." alt="" coords="837,601,997,629"/>
+<area shape="rect" id="node13" href="$d1/d82/MvtxDefs_8h.html" title="Utility functions for MVTX." alt="" coords="323,517,459,545"/>
+<area shape="rect" id="node14" href="$d4/de3/TpcDefs_8h.html" title="Utility functions for TPC." alt="" coords="45,517,160,545"/>
+<area shape="rect" id="node15" href="$d7/dcd/SvtxClusterEval_8h.html" title="g4eval/SvtxClusterEval.h" alt="" coords="1118,357,1309,385"/>
+<area shape="rect" id="node16" href="$d7/d98/SvtxHitEval_8h.html" title="SvtxHitEval.h" alt="" coords="760,433,872,461"/>
+<area shape="rect" id="node17" href="$d7/d20/SvtxTruthEval_8h.html" title="SvtxTruthEval.h" alt="" coords="585,517,711,545"/>
+<area shape="rect" id="node24" href="$d3/d59/SvtxEvalStack_8h.html" title="g4eval/SvtxEvalStack.h" alt="" coords="1938,129,2118,157"/>
+<area shape="rect" id="node25" href="$d5/d9c/SvtxVertexEval_8h.html" title="SvtxVertexEval.h" alt="" coords="1960,205,2096,233"/>
+<area shape="rect" id="node26" href="$df/d8a/SvtxTrackEval_8h.html" title="SvtxTrackEval.h" alt="" coords="1683,281,1811,309"/>
+<area shape="rect" id="node27" href="$dd/d05/PHG4Particle_8h.html" title="g4main/PHG4Particle.h" alt="" coords="3125,281,3301,309"/>
+<area shape="rect" id="node30" href="$d0/d25/PHG4TruthInfoContainer_8h.html" title="g4main/PHG4TruthInfoContainer.h" alt="" coords="2363,517,2613,545"/>
+<area shape="rect" id="node32" href="$d4/d2a/PHG4VtxPoint_8h.html" title="g4main/PHG4VtxPoint.h" alt="" coords="3326,517,3509,545"/>
+<area shape="rect" id="node34" href="$d3/d8c/PHHepMCGenEvent_8h.html" title="phhepmc/PHHepMCGenEvent.h" alt="" coords="3785,517,4020,545"/>
+<area shape="rect" id="node38" href="$d4/dd2/PHHepMCGenEventMap_8h.html" title="phhepmc/PHHepMCGenEventMap.h" alt="" coords="3605,433,3867,461"/>
+<area shape="rect" id="node40" href="$dd/dd4/getClass_8h.html" title="phool/getClass.h" alt="" coords="2144,281,2277,309"/>
+<area shape="rect" id="node42" href="$d7/d9f/SvtxTrackMap_8h.html" title="trackbase_historic\l/SvtxTrackMap.h" alt="" coords="2688,509,2832,553"/>
+<area shape="rect" id="node43" href="$d0/d19/SvtxVertexMap_8h.html" title="trackbase_historic\l/SvtxVertexMap.h" alt="" coords="2856,509,3000,553"/>
+<area shape="rect" id="node44" href="$d1/d4a/TrkrCluster_8h.html" title="Base class for cluster object." alt="" coords="3125,517,3301,545"/>
+<area shape="rect" id="node45" href="$d2/d44/TrkrClusterContainer_8h.html" title="Cluster container base class." alt="" coords="1995,517,2237,545"/>
+<area shape="rect" id="node3" href="$db/d02/KFParticle__MVA_8h.html" title="KFParticle_MVA.h" alt="" coords="1328,281,1464,309"/>
+<area shape="rect" id="node6" href="$d2/d82/KFParticle__particleList_8h.html" title="KFParticle_particleList.h" alt="" coords="1333,357,1515,385"/>
+<area shape="rect" id="node22" href="$da/d51/ActsSurfaceMaps_8h.html" title="maps hitsetids to Acts Surfaces" alt="" coords="990,517,1210,545"/>
+<area shape="rect" id="node23" href="$d4/d6a/ActsTrackingGeometry_8h.html" title="trackbase/ActsTrackingGeometry.h" alt="" coords="1107,433,1362,461"/>
+<area shape="rect" id="node18" href="$d8/d89/BaseTruthEval_8h.html" title="BaseTruthEval.h" alt="" coords="633,601,762,629"/>
+<area shape="rect" id="node28" href="$df/d32/PHObject_8h.html" title="phool/PHObject.h" alt="" coords="2968,601,3107,629"/>
+<area shape="rect" id="node35" href="$d5/d6f/phool_8h.html" title="phool/phool.h" alt="" coords="4042,601,4155,629"/>
+<area shape="rect" id="node41" href="$dd/d9b/PHDataNode_8h.html" title="PHDataNode.h" alt="" coords="2313,433,2431,461"/>
+</map>

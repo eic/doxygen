@@ -1,0 +1,15 @@
+<map id="PHG4Hit::get_shower_id" name="PHG4Hit::get_shower_id">
+<area shape="rect" id="node2" href="$d3/d9e/classPHG4Hit.html#a9849ab6aeb1834f2d57461f2a5cd093d" title="PHG4Hit::CopyFrom" alt="" coords="278,31,433,59"/>
+<area shape="rect" id="node6" href="$dc/d23/classBaseTruthEval.html#a3806c816f6d1a3cf14a69834e60e3b64" title="which primary shower contains this truth hit?" alt="" coords="281,83,430,127"/>
+<area shape="rect" id="node7" href="$dc/d23/classBaseTruthEval.html#a8b3bfeea64a5eee4a3bb2c3fcc380b7e" title="is this truth hit inside this shower?" alt="" coords="265,151,445,195"/>
+<area shape="rect" id="node8" href="$da/dbd/classRawTowerBuilderByHitIndexBECAL.html#a49b5d72fbc528de09bfaa50c8469dbf2" title="RawTowerBuilderByHitIndex\lBECAL::process_event" alt="" coords="250,219,461,263"/>
+<area shape="rect" id="node9" href="$d6/d7a/classRawTowerBuilderDRCALO.html#a6506e97848dec3802acb61ebc4e85ed2" title="RawTowerBuilderDRCALO\l::process_event" alt="" coords="259,287,451,331"/>
+<area shape="rect" id="node10" href="$db/d83/classBwdRawTowerBuilderByHitIndex.html#aab457f57b855dfeddcc7bd155dfb9db0" title="BwdRawTowerBuilderByHitIndex\l::process_event" alt="" coords="236,355,475,399"/>
+<area shape="rect" id="node11" href="$d6/d08/classB0RawTowerBuilderByHitIndex.html#a0ebc4912f8f2a4ec2fe54074365216fb" title="B0RawTowerBuilderByHitIndex\l::process_event" alt="" coords="241,423,469,467"/>
+<area shape="rect" id="node12" href="$d1/df8/classRawTowerBuilderByHitIndex.html#ab85246d41287b6eef693a467d41858b7" title="RawTowerBuilderByHitIndex\l::process_event" alt="" coords="250,491,461,535"/>
+<area shape="rect" id="node13" href="$db/dd4/classRawTowerBuilderByHitIndexLHCal.html#aa82a6c3fdb4fe3be84c90df17bd531d9" title="RawTowerBuilderByHitIndex\lLHCal::process_event" alt="" coords="250,559,461,603"/>
+<area shape="rect" id="node14" href="$d0/d22/classEICG4ZDCRawTowerBuilderByHitIndex.html#a4237c24c5e6fb6597cbbb8577abc461d" title="EICG4ZDCRawTowerBuilderBy\lHitIndex::process_event" alt="" coords="243,627,467,671"/>
+<area shape="rect" id="node3" href="$d5/d60/classPHG4HitEval.html#aa047ef4c978433f49e1b6f39050cc075" title="PHG4HitEval::CopyFrom" alt="" coords="549,5,731,33"/>
+<area shape="rect" id="node5" href="$d6/dae/classEICG4dRICHHit.html#aed20c7bf3389cceaf9b443ccc9a66de1" title="EICG4dRICHHit::EICG4dRICHHit" alt="" coords="523,57,757,85"/>
+<area shape="rect" id="node4" href="$d5/d60/classPHG4HitEval.html#a01e507ac99396484a9e138e92bf2cead" title="PHG4HitEval::PHG4HitEval" alt="" coords="805,5,1007,33"/>
+</map>

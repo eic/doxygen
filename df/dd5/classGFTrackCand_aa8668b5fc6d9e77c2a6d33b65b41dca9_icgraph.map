@@ -1,0 +1,8 @@
+<map id="GFTrackCand::getHitWithPlane" name="GFTrackCand::getHitWithPlane">
+<area shape="rect" id="node2" href="$d4/d33/classGFTrack.html#a2e0c5f5041ad2dd3a7924da83d8fc673" title="GFTrack::getHitsByPlane" alt="" coords="280,5,467,33"/>
+<area shape="rect" id="node3" href="$d1/dce/classGFDaf.html#a63f700b7ed92960f0c1e08975900ddbe" title="Initialize the GFDafHit and their weights before the fit." alt="" coords="515,5,688,33"/>
+<area shape="rect" id="node4" href="$d1/dce/classGFDaf.html#acae6182be114ea4c813d0bb8995343a4" title="Process a track using the DAF." alt="" coords="736,5,896,33"/>
+<area shape="rect" id="node5" href="$df/d62/classPndRecoDafFit.html#a71b624dff0fc50e252d2d2b9eed898ee" title="PndRecoDafFit::Fit" alt="" coords="944,5,1088,33"/>
+<area shape="rect" id="node6" href="$d7/d87/classPndRecoKalmanTask.html#aa92916b999aeaf87e99fb08734ce368e" title="PndRecoKalmanTask::Exec" alt="" coords="1136,5,1336,33"/>
+<area shape="rect" id="node7" href="$d2/db6/classEicRecoKalmanTask.html#a10103a96af9664a82027040c505bfff1" title="EicRecoKalmanTask::Exec" alt="" coords="1384,5,1579,33"/>
+</map>

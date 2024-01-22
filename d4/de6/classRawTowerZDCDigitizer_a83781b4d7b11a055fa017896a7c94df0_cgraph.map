@@ -1,0 +1,7 @@
+<map id="RawTowerZDCDigitizer::simple_photon_digitization" name="RawTowerZDCDigitizer::simple_photon_digitization">
+<area shape="rect" id="node2" href="$d6/d86/classRawTowerZDC.html#a52ecbcec17d937cbd5dcefee6566252b" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="264,5,467,33"/>
+<area shape="rect" id="node3" href="$d6/d86/classRawTowerZDC.html#a756796e5e13df2f31750b1e7488dd3e9" title="RawTowerZDC::identify" alt="" coords="277,57,454,85"/>
+<area shape="rect" id="node4" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="289,109,442,137"/>
+<area shape="rect" id="node5" href="$d6/d86/classRawTowerZDC.html#aba8e0714ceb1d90298e6c90a6172655d" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="265,161,466,189"/>
+<area shape="rect" id="node6" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="277,213,453,241"/>
+</map>

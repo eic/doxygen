@@ -1,0 +1,9 @@
+<map id="CbmRichRingFitterEllipseTau::AMultB" name="CbmRichRingFitterEllipseTau::AMultB">
+<area shape="rect" id="node2" href="$d2/d8f/classCbmRichRingFitterEllipseTau.html#ad3b197263e8253224457a1e5a19840e6" title="Initialize all matrices." alt="" coords="244,5,435,49"/>
+<area shape="rect" id="node8" href="$d2/d8f/classCbmRichRingFitterEllipseTau.html#a23a95408502b2502dab9305391bc3c78" title="Perform Taubin method." alt="" coords="244,73,435,117"/>
+<area shape="rect" id="node3" href="$d2/d8f/classCbmRichRingFitterEllipseTau.html#a2cb8f2f8f011d5eda54dc7c2b9902f4a" title="Inherited from CbmRichRingFitterBase." alt="" coords="483,40,673,84"/>
+<area shape="rect" id="node4" href="$d5/d75/classCbmRichGeoTest.html#abbc0d8b45eab85acbc07506987dfbb4e" title="Fit ring using ellipse fitter and fill histograms." alt="" coords="721,5,925,49"/>
+<area shape="rect" id="node7" href="$df/d44/classCbmRichRingFitterQa.html#a3312359c4adaa1788105cc6d60b5b4b2" title="Generate ellipse." alt="" coords="741,73,905,117"/>
+<area shape="rect" id="node5" href="$d5/d75/classCbmRichGeoTest.html#a3877e9706c0d5764a48e943b355830cf" title="Loop over all rings in array and fill ring parameters histograms." alt="" coords="973,13,1225,41"/>
+<area shape="rect" id="node6" href="$d5/d75/classCbmRichGeoTest.html#a9d5e890887411e04eb97219b7fa6c191" title="Inherited from FairTask." alt="" coords="1273,13,1449,41"/>
+</map>

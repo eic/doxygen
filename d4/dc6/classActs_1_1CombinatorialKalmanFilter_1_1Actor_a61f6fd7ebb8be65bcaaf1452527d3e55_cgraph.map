@@ -1,0 +1,8 @@
+<map id="Acts::CombinatorialKalmanFilter::Actor::finalize" name="Acts::CombinatorialKalmanFilter::Actor::finalize">
+<area shape="rect" id="node2" href="$d2/dce/namespaceActs_1_1MultiTrajectoryHelpers.html#a2c1e59cb76d07c1cfff24e7b650805d2" title="Transforms the smoothed parameters from a TrackStateProxy to free parameters." alt="" coords="259,73,471,117"/>
+<area shape="rect" id="node3" href="$d6/d06/namespaceActs_1_1detail.html#a2d329cb6dbd21114be502950a0e2e49c" title="Acts::detail::transformBound\lToFreeParameters" alt="" coords="519,73,735,117"/>
+<area shape="rect" id="node4" href="$da/d7b/namespaceActs.html#a93d49fe45ddaed665dc80935286aac42" title="Acts::makeDirectionUnitFrom\lPhiTheta" alt="" coords="783,5,1001,49"/>
+<area shape="rect" id="node6" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a55c39f48968d9e4b4b4fb12b227cea22" title="Access the three&#45;position components in a four&#45;position vector." alt="" coords="815,73,969,117"/>
+<area shape="rect" id="node7" href="$de/d7d/classActs_1_1Surface.html#a75a7d22d900a0fee41505d364b2e4d2f" title="Acts::Surface::localToGlobal" alt="" coords="787,141,997,169"/>
+<area shape="rect" id="node5" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="1049,13,1093,41"/>
+</map>

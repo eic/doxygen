@@ -1,0 +1,12 @@
+<map id="FairVolume::setCopyNo" name="FairVolume::setCopyNo">
+<area shape="rect" id="node2" href="$d8/def/classFairMCApplication.html#ae6ed46ec48c80c4db0483b98052e6a1a" title="FairMCApplication::\lInitGeometry" alt="" coords="254,41,405,85"/>
+<area shape="rect" id="node3" href="$d4/d06/classFairModule.html#ac489f7e5ed92d2a4fdec5422d93bfa42" title="FairModule::ProcessNodes" alt="" coords="231,109,428,137"/>
+<area shape="rect" id="node10" href="$d8/def/classFairMCApplication.html#a185fd2d47acda615bc0bdf4a189b0dc5" title="FairMCApplication::\lStepping" alt="" coords="254,183,405,227"/>
+<area shape="rect" id="node4" href="$df/d89/classPndMagnet.html#a24b61340759fdef8d1ab340f631f00b0" title="PndMagnet::ConstructASCIIGeometry" alt="" coords="476,5,749,33"/>
+<area shape="rect" id="node6" href="$d8/dd9/classCbmRich.html#a4da15c82f4256a1d985899fd00400299" title="Construct geometry from ASCII file. Supported structure for the mirrors are added on a fly..." alt="" coords="485,57,740,85"/>
+<area shape="rect" id="node8" href="$d0/d81/classPndTarget.html#a663bbcf65595d98eab33cf402ddfe74f" title="PndTarget::ConstructGeometry" alt="" coords="498,109,727,137"/>
+<area shape="rect" id="node9" href="$dd/dac/classEicDetector.html#a52d5d3a030ed4ab74e36989b4a563f73" title="EicDetector::ConstructGeometry" alt="" coords="493,161,733,189"/>
+<area shape="rect" id="node5" href="$df/d89/classPndMagnet.html#aff982bc9f85e558cbd4552add14d811c" title="PndMagnet::ConstructGeometry" alt="" coords="797,5,1036,33"/>
+<area shape="rect" id="node7" href="$d8/dd9/classCbmRich.html#a3d1883ed88870fa1325c79d6c508242e" title="Construct geometry. Currently ROOT and ASCII formats are supported. The concrete method for geometry ..." alt="" coords="805,57,1028,85"/>
+<area shape="rect" id="node11" href="$db/d62/classEicMCApplication.html#a159ceb428e89f712b67c5b3de18a5782" title="EicMCApplication::Stepping" alt="" coords="509,213,716,241"/>
+</map>

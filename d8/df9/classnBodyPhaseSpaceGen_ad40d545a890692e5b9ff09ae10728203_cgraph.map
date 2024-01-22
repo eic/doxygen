@@ -1,0 +1,25 @@
+<map id="nBodyPhaseSpaceGen::generateDecay" name="nBodyPhaseSpaceGen::generateDecay">
+<area shape="rect" id="node2" href="$d8/df9/classnBodyPhaseSpaceGen.html#a072afaa8bbd25651356d7a09b702ae85" title="calculates full event kinematics from the effective masses of the (i + 1)&#45;body systems and the Lorent..." alt="" coords="227,184,400,228"/>
+<area shape="rect" id="node17" href="$d8/df9/classnBodyPhaseSpaceGen.html#a0d5f25800af3f7327d85259a6ca9c363" title="computes event weight and breakup momenta operates on vector of intermediate two&#45;body masses prepared..." alt="" coords="227,317,400,361"/>
+<area shape="rect" id="node19" href="$d5/d60/classlorentzVector.html#a03ef846616727226870415249f55d570" title="lorentzVector::M" alt="" coords="248,385,379,413"/>
+<area shape="rect" id="node21" href="$d8/df9/classnBodyPhaseSpaceGen.html#ad3f3fbfe37888e0edaefc583bb89b07a" title="randomly choses the (n &#45; 1) polar and (n &#45; 1) azimuthal angles in the respective (i + 1)&#45;body RFs..." alt="" coords="227,437,400,481"/>
+<area shape="rect" id="node24" href="$d8/df9/classnBodyPhaseSpaceGen.html#add818dbb78ea95545253dc61117bbcea" title="randomly choses the (n &#45; 2) effective masses of the respective (i + 1)&#45;body systems" alt="" coords="227,505,400,549"/>
+<area shape="rect" id="node3" href="$d5/d60/classlorentzVector.html#a6279dbb8641b48bce827658288f5ab16" title="lorentzVector::Boost" alt="" coords="469,109,628,137"/>
+<area shape="rect" id="node13" href="$d5/d60/classlorentzVector.html#a6c343ac86cef72ad5663d42e4f1953d3" title="lorentzVector::BoostVector" alt="" coords="448,57,649,85"/>
+<area shape="rect" id="node14" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="527,161,571,189"/>
+<area shape="rect" id="node15" href="$d8/df9/classnBodyPhaseSpaceGen.html#ad010cdfc8b42c69ef8a6f62a67e40d57" title="returns Lorentz vector of daughter at index" alt="" coords="462,213,635,257"/>
+<area shape="rect" id="node16" href="$d5/d60/classlorentzVector.html#a4ac10802841659cf2fe1041b2d8e4911" title="lorentzVector::SetPxPyPzE" alt="" coords="450,281,647,309"/>
+<area shape="rect" id="node4" href="$dc/dae/gamma_8F.html#a32168d135528557a384f114255d59f09" title="gamma" alt="" coords="761,161,833,189"/>
+<area shape="rect" id="node7" href="$db/dc5/classvector3.html#a0f76c359666e8284472e081d7ac015fe" title="vector3::Mag2" alt="" coords="737,355,856,383"/>
+<area shape="rect" id="node8" href="$d5/d60/classlorentzVector.html#afeb1dcb2b22d773620e996fd39a6334a" title="lorentzVector::SetXYZT" alt="" coords="708,243,885,271"/>
+<area shape="rect" id="node10" href="$db/dc5/classvector3.html#a2f950a0033df6363f1f1d85fd95de327" title="vector3::X" alt="" coords="751,5,842,33"/>
+<area shape="rect" id="node11" href="$db/dc5/classvector3.html#a1c17cd54f5769fd75812407f2aa4f6cd" title="vector3::Y" alt="" coords="751,57,842,85"/>
+<area shape="rect" id="node12" href="$db/dc5/classvector3.html#a634ddc883cd50c169e9bd19d3db08fb3" title="vector3::Z" alt="" coords="751,109,842,137"/>
+<area shape="rect" id="node5" href="$d4/d3e/classActs_1_1Logger.html#aee9e687247532b5175713e66b2d2121e" title="create output stream object with internal cache" alt="" coords="949,161,1085,189"/>
+<area shape="rect" id="node6" href="$df/dce/classActs_1_1Logging_1_1OutputPrintPolicy.html#ab113823970013e1e7f310b36509136ac" title="handle output of debug message" alt="" coords="1139,153,1340,197"/>
+<area shape="rect" id="node9" href="$db/dc5/classvector3.html#a158f9f9ec5be5aee81feab744221b95f" title="vector3::SetVector" alt="" coords="944,243,1091,271"/>
+<area shape="rect" id="node18" href="$da/dd8/nBodyPhaseSpaceGen_8h.html#a4743bc2eb7194d851af59cb0d6aafba4" title="breakupMomentum" alt="" coords="472,333,625,361"/>
+<area shape="rect" id="node20" href="$d5/d60/classlorentzVector.html#a08f0e12b7a55b91c3e4a4f8f0a4da7d9" title="lorentzVector::M2" alt="" coords="479,385,618,413"/>
+<area shape="rect" id="node22" href="$d8/df9/classnBodyPhaseSpaceGen.html#a591916f311f718719d587a41a10c41f0" title="returns number from internal random generator" alt="" coords="462,471,635,515"/>
+<area shape="rect" id="node23" href="$d4/dd1/classrandomGenerator.html#ac5aeadcdac35f3ee302ca403360dfe60" title="randomGenerator::Rndom" alt="" coords="697,479,896,507"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="CbmRichGeoTest::CreateStudyReport" name="CbmRichGeoTest::CreateStudyReport">
+<area shape="rect" id="node2" href="$da/db2/classCbmStudyReport.html#ad5e8cc78ba670c9a288f2ed666e9bbf9" title="Main function which creates report data." alt="" coords="281,83,471,111"/>
+<area shape="rect" id="node11" href="$df/d6b/title_8f.html#aa5c036d373cd37c00f0892e713b39988" title="title" alt="" coords="352,135,400,163"/>
+<area shape="rect" id="node3" href="$db/d30/classCbmReport.html#a2d19a45303cb43921d1ced3decc7032f" title="CbmReport::SetOutputDir" alt="" coords="523,57,717,85"/>
+<area shape="rect" id="node4" href="$db/d30/classCbmReport.html#aee50ef09e9301ce9bcc1c4ca9d7ce1a4" title="Create all available report types." alt="" coords="519,109,721,137"/>
+<area shape="rect" id="node5" href="$db/d30/classCbmReport.html#afe0f63f1fb57bd8cc96fc31698f8e646" title="Pure abstract function which is called from public Create() function. This function has to write repo..." alt="" coords="820,5,971,33"/>
+<area shape="rect" id="node6" href="$db/d30/classCbmReport.html#a479bc3730b1b46948d8645f92a59ebd4" title="Create concrete CbmReportElement instance based on report type." alt="" coords="769,57,1021,85"/>
+<area shape="rect" id="node8" href="$db/d30/classCbmReport.html#a24309de63a99d9161f5c5a775a33db2a" title="Delete report element. Normally should be called at the end of Create function." alt="" coords="770,109,1021,137"/>
+<area shape="rect" id="node9" href="$db/d30/classCbmReport.html#ad05016b98901fd9573d8fc6b4f684627" title="Pure abstract function which is called from public Create() function. This function has to draw all n..." alt="" coords="825,161,966,189"/>
+<area shape="rect" id="node10" href="$db/d30/classCbmReport.html#ad26a0b401ac5967cd9a67487a7e4074b" title="Save all canvases to images." alt="" coords="785,213,1005,257"/>
+<area shape="rect" id="node7" href="$db/d30/classCbmReport.html#a4aa4daa3c0a0a0948b2bb9f7f26e3a39" title="CbmReport::GetOutputDir" alt="" coords="1069,140,1267,168"/>
+</map>

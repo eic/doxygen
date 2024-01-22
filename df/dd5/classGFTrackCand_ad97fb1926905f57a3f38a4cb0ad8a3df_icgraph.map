@@ -1,0 +1,5 @@
+<map id="GFTrackCand::setPdgCode" name="GFTrackCand::setPdgCode">
+<area shape="rect" id="node2" href="$df/dd5/classGFTrackCand.html#acd390fda46019f288c84eded32fe7ba6" title="This function works the same as set6DSeed but instead of a charge hypothesis you can set a pdg code w..." alt="" coords="269,5,486,49"/>
+<area shape="rect" id="node3" href="$df/dd5/classGFTrackCand.html#a88876017ed8384091c962a3ef8a9b311" title="set the seed values for track: pos, momentum, pdgCode, pos error, momentum error (errors are optional..." alt="" coords="252,73,503,101"/>
+<area shape="rect" id="node4" href="$df/dd5/classGFTrackCand.html#aa185d521340ff1862c0875b933ee336a" title="This function works the same as setPosMomSeed but instead of a charge hypothesis you can set a pdg co..." alt="" coords="263,125,491,169"/>
+</map>

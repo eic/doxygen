@@ -1,0 +1,20 @@
+<map id="PHG4HitContainer::size" name="PHG4HitContainer::size">
+<area shape="rect" id="node2" href="$df/df5/classB0TrackFastSimEval.html#a987b1bb0c34a3b6024978e1dac7aa2d3" title="B0TrackFastSimEval\l::fill_track_tree" alt="" coords="271,5,425,49"/>
+<area shape="rect" id="node4" href="$d0/d71/classPHG4TrackFastSimEval.html#a52a746bdc6e84dc7886b5bae0b608e68" title="PHG4TrackFastSimEval\l::fill_track_tree" alt="" coords="261,73,435,117"/>
+<area shape="rect" id="node6" href="$db/d22/classEventEvaluator.html#ada437671569f41f49d8efe8235d569ab" title="dump the evaluator information into ntuple for external analysis" alt="" coords="249,141,447,185"/>
+<area shape="rect" id="node8" href="$d8/da7/classEventEvaluatorEIC.html#ad84b6360f2050d67e712225ddf24854f" title="dump the evaluator information into ntuple for external analysis" alt="" coords="271,209,425,253"/>
+<area shape="rect" id="node10" href="$d4/d30/classPHG4HitContainer.html#a43852a42ebd33642a415a42bc3f8c706" title="PHG4HitContainer::identify" alt="" coords="246,277,450,305"/>
+<area shape="rect" id="node12" href="$dd/db6/classEICG4RPHitTree.html#a60bcc7c7e68a37b46e041a3c5a720598" title="event processing method" alt="" coords="254,329,442,373"/>
+<area shape="rect" id="node13" href="$d4/d0c/classEvalRootTTreeReco.html#aa52e071262119526aec5ea0dfdbc13d2" title="EvalRootTTreeReco::\lprocess_event" alt="" coords="269,397,427,441"/>
+<area shape="rect" id="node14" href="$d4/dc9/classPHG4DSTReader.html#a96e049829877207a6bb23548ae552853" title="event processing method" alt="" coords="251,465,445,509"/>
+<area shape="rect" id="node15" href="$dc/df2/classQAG4SimulationEicCalorimeter.html#ade1686e561df4333993efddce41c2953" title="QAG4SimulationEicCalorimeter\l::process_event_G4Hit" alt="" coords="232,533,464,577"/>
+<area shape="rect" id="node17" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a5b70cca03633b9708a6aea0b57e21272" title="QAG4SimulationCalorimeter\l::process_event_G4Hit" alt="" coords="242,601,454,645"/>
+<area shape="rect" id="node19" href="$de/dbe/classDumpPHG4HitContainer.html#a91e29534f883cee491667dd3a3169ef3" title="DumpPHG4HitContainer\l::process_Node" alt="" coords="255,669,441,713"/>
+<area shape="rect" id="node3" href="$df/df5/classB0TrackFastSimEval.html#a20f68cb77bb2854e459af2a8a6410ef6" title="B0TrackFastSimEval\l::process_event" alt="" coords="551,5,705,49"/>
+<area shape="rect" id="node5" href="$d0/d71/classPHG4TrackFastSimEval.html#a49d7dacf282d8b17d774ef0f8778a802" title="PHG4TrackFastSimEval\l::process_event" alt="" coords="541,73,715,117"/>
+<area shape="rect" id="node7" href="$db/d22/classEventEvaluator.html#a5b4dc2c7afd4f3844396f08cc9c555ad" title="EventEvaluator::process\l_event" alt="" coords="535,141,721,185"/>
+<area shape="rect" id="node9" href="$d8/da7/classEventEvaluatorEIC.html#aacdf5acd0bb5251382828e32df991178" title="EventEvaluatorEIC::\lprocess_event" alt="" coords="551,209,705,253"/>
+<area shape="rect" id="node11" href="$d8/de2/classPHG4HitReadBack.html#a4437104ac7aa9cd8123e849e7300eaf2" title="PHG4HitReadBack::process\l_event" alt="" coords="525,277,731,321"/>
+<area shape="rect" id="node16" href="$dc/df2/classQAG4SimulationEicCalorimeter.html#a3220ddd743e97de1c108e1fc42692427" title="QAG4SimulationEicCalorimeter\l::process_event" alt="" coords="512,533,744,577"/>
+<area shape="rect" id="node18" href="$d9/d7b/classQAG4SimulationCalorimeter.html#aa3467829c4182ba4e09f74fd8198cb28" title="QAG4SimulationCalorimeter\l::process_event" alt="" coords="522,601,734,645"/>
+</map>

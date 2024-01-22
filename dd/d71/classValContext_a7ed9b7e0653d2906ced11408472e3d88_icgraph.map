@@ -1,0 +1,19 @@
+<map id="ValContext::GetTimeStamp" name="ValContext::GetTimeStamp">
+<area shape="rect" id="node2" href="$d9/dbd/classFairDbProxy.html#a933fe5b48213064a613361d51a37d590" title="FairDbProxy::FindTimeBoundaries" alt="" coords="259,5,505,33"/>
+<area shape="rect" id="node3" href="$dd/da1/classFairDbValidityRec.html#af83ed2829f5e6685b517b96a98c50a5f" title="FairDbValidityRec::\lHasExpired" alt="" coords="309,57,455,101"/>
+<area shape="rect" id="node4" href="$d9/df6/classValRange.html#a0cdfac91a8bd16e42508300998efdfc4" title="ValRange::IsCompatible" alt="" coords="291,125,473,153"/>
+<area shape="rect" id="node9" href="$de/d9f/classFairDbValidityRecBuilder.html#a947210458f6c8fdcef519286efae0fad" title="FairDbValidityRecBuilder\l::MakeGapRec" alt="" coords="289,177,475,221"/>
+<area shape="rect" id="node11" href="$d9/dbd/classFairDbProxy.html#a24fb535b287864cf370bf9b6a6edd6f9" title="FairDbProxy::QueryValidity" alt="" coords="282,284,482,312"/>
+<area shape="rect" id="node16" href="$d2/d4a/classFairDbCache.html#a3557a151241e39c85be9543fdcc290b4" title="Primary searches." alt="" coords="301,433,463,461"/>
+<area shape="rect" id="node5" href="$dd/da1/classFairDbValidityRec.html#a32b49398e48e17ec79ca61ca06dec5c5" title="FairDbValidityRec::\lIsCompatible" alt="" coords="583,57,730,101"/>
+<area shape="rect" id="node8" href="$d9/df6/classValRange.html#a9f12da472decb5a3226e812da19dcf9d" title="ValRange::IsCompatible" alt="" coords="565,125,748,153"/>
+<area shape="rect" id="node6" href="$d5/d57/classFairDbResult.html#acdc21ff31bf14eeaf2b4419605aaf626" title="FairDbResult::Satisfies" alt="" coords="825,65,997,93"/>
+<area shape="rect" id="node7" href="$d2/d4a/classFairDbCache.html#ad679b800df8f04bd925fe0ecd1784639" title="Secondary search." alt="" coords="1075,65,1236,93"/>
+<area shape="rect" id="node10" href="$de/d9f/classFairDbValidityRecBuilder.html#aa1f6158b40ca0566fd401f77d5220108" title="FairDbValidityRecBuilder\l::FairDbValidityRecBuilder" alt="" coords="559,177,755,221"/>
+<area shape="rect" id="node12" href="$de/d9f/classFairDbValidityRecBuilder.html#a6483cdcfcb9b720161a22f5eadbff227" title="FairDbValidityRecBuilder\l::FairDbValidityRecBuilder" alt="" coords="559,245,755,289"/>
+<area shape="rect" id="node13" href="$da/dcf/classFairDbTableProxy.html#a41685c7dbef8d48174f4483235bab4f9" title="FairDbTableProxy::Query" alt="" coords="1063,373,1248,401"/>
+<area shape="rect" id="node14" href="$d9/dbd/classFairDbProxy.html#a25b2a517061aeacd67cc1f239d8a84e4" title="FairDbProxy::ReplaceSeqNo\lOracle" alt="" coords="553,365,760,409"/>
+<area shape="rect" id="node15" href="$d9/dbd/classFairDbProxy.html#a328e6ccf752e957a0e1782357c2ae6eb" title="FairDbProxy::ReplaceSeqNo" alt="" coords="808,373,1015,401"/>
+<area shape="rect" id="node17" href="$da/dcf/classFairDbTableProxy.html#ad75a08a4e139462af72af1d3be9fd908" title="FairDbTableProxy::Query" alt="" coords="819,433,1004,461"/>
+<area shape="rect" id="node18" href="$da/dcf/classFairDbTableProxy.html#a1acf2c61ce1e9b66caf0dd55f199363f" title="FairDbTableProxy::Restore\lFromL2Cache" alt="" coords="559,485,754,529"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="PHSiliconTpcTrackMatching::tagMatchCrossing" name="PHSiliconTpcTrackMatching::tagMatchCrossing">
+<area shape="rect" id="node2" href="$d7/d8b/classSvtxTrackMap.html#a08561d1123c35a7f953038f8d684a6d5" title="SvtxTrackMap::get" alt="" coords="551,12,697,40"/>
+<area shape="rect" id="node3" href="$d2/db8/classSvtxTrack.html#a991a05caa213e0922d00c76568dade57" title="SvtxTrack::get_eta" alt="" coords="289,47,434,75"/>
+<area shape="rect" id="node4" href="$d2/db8/classSvtxTrack.html#a5f934a41fd25eaa343dd267112b4537d" title="SvtxTrack::get_id" alt="" coords="293,99,429,127"/>
+<area shape="rect" id="node5" href="$d2/db8/classSvtxTrack.html#af6f03ad537260f2ceef84cf876e22deb" title="SvtxTrack::get_pt" alt="" coords="292,151,431,179"/>
+<area shape="rect" id="node6" href="$d2/db8/classSvtxTrack.html#aaaa435dd9d41dbe836f0608712ca12db" title="SvtxTrack::get_z" alt="" coords="296,203,427,231"/>
+<area shape="rect" id="node7" href="$d2/d71/classPHSiliconTpcTrackMatching.html#a2367190ac6d454fa1696c6f844cf1a77" title="PHSiliconTpcTrackMatching\l::getBunchCrossing" alt="" coords="259,255,464,299"/>
+<area shape="rect" id="node19" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="536,375,712,403"/>
+<area shape="rect" id="node8" href="$d2/db8/classSvtxTrack.html#a59e8bacd45312ca7868bc090c6fefb06" title="SvtxTrack::begin_cluster_keys" alt="" coords="512,83,736,111"/>
+<area shape="rect" id="node9" href="$d2/db8/classSvtxTrack.html#a73a7625ecced41e34552518eefc13ade" title="SvtxTrack::end_cluster_keys" alt="" coords="519,135,729,163"/>
+<area shape="rect" id="node10" href="$d0/d2c/classTrkrClusterContainer.html#a6f26d0655c81919f5539934e0d0fc438" title="find cluster matching given key" alt="" coords="543,187,705,231"/>
+<area shape="rect" id="node11" href="$df/db5/classActsTransformations.html#ad73bc53ee88d22ebdf1a0b6ac5456cec" title="ActsTransformations\l::getGlobalPosition" alt="" coords="544,255,704,299"/>
+<area shape="rect" id="node17" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="813,404,959,432"/>
+<area shape="rect" id="node12" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="864,76,908,104"/>
+<area shape="rect" id="node13" href="$d6/dfa/classTrkrCluster.html#ab18c56f7c1aa174203dcf8fbf0141279" title="TrkrCluster::getClusKey" alt="" coords="796,128,976,156"/>
+<area shape="rect" id="node14" href="$d6/dfa/classTrkrCluster.html#acc835716d1c4f76e9c0da8e5a79e25c1" title="TrkrCluster::getLocalX" alt="" coords="801,180,971,208"/>
+<area shape="rect" id="node15" href="$d6/dfa/classTrkrCluster.html#a05e4879520abe27bc6028bc05fc94162" title="TrkrCluster::getLocalY" alt="" coords="801,232,971,260"/>
+<area shape="rect" id="node16" href="$db/d81/namespaceActs_1_1MeasurementHelpers.html#af6bf98068f55e3d194425beaf2dd92be" title="Extract surface from a type erased measurement object." alt="" coords="784,284,988,328"/>
+<area shape="rect" id="node18" href="$dc/de5/PHG4mRICHDetector_8cc.html#acaaf109d582b14d4880c13e89c1243e1" title="surface" alt="" coords="851,352,921,380"/>
+</map>

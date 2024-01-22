@@ -1,0 +1,17 @@
+<map id="SvtxClusterEval" name="SvtxClusterEval">
+<area shape="rect" id="node3" title="STL class." alt="" coords="1386,25,1557,53"/>
+<area shape="rect" id="node5" href="$d3/d9e/classPHG4Hit.html" title="PHG4Hit" alt="" coords="527,439,605,467"/>
+<area shape="rect" id="node6" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="5,1343,89,1371"/>
+<area shape="rect" id="node11" href="$d0/d2c/classTrkrClusterContainer.html" title="Cluster container object." alt="" coords="1390,1229,1553,1257"/>
+<area shape="rect" id="node14" href="$d7/d8d/classTrkrHitTruthAssoc.html" title="Association object for PHG4Cells contributiong to TrkrHits." alt="" coords="1401,1495,1541,1523"/>
+<area shape="rect" id="node16" href="$de/dc9/classPHG4Particle.html" title="PHG4Particle" alt="" coords="139,903,247,931"/>
+<area shape="rect" id="node22" href="$d5/d76/classTrkrHitSetContainer.html" title="TrkrHitSetContainer" alt="" coords="1393,1627,1549,1655"/>
+<area shape="rect" id="node24" href="$da/d6c/classPHG4TruthInfoContainer.html" title="PHG4TruthInfoContainer" alt="" coords="931,1089,1117,1117"/>
+<area shape="rect" id="node28" href="$d4/d30/classPHG4HitContainer.html" title="PHG4HitContainer" alt="" coords="951,1338,1097,1366"/>
+<area shape="rect" id="node32" href="$d6/dfa/classTrkrCluster.html" title="Base class for cluster object." alt="" coords="145,1722,241,1750"/>
+<area shape="rect" id="node40" href="$d7/d4f/classTrkrClusterHitAssoc.html" title="Base class for associating clusters to the hits that went into them." alt="" coords="271,2038,424,2066"/>
+<area shape="rect" id="node8" href="$d9/d62/classSvtxHitEval.html" title="SvtxHitEval" alt="" coords="1927,989,2025,1017"/>
+<area shape="rect" id="node23" href="$d4/de4/classSvtxTruthEval.html" title="SvtxTruthEval" alt="" coords="1415,1027,1528,1055"/>
+<area shape="rect" id="node37" href="$d4/d32/structActsTrackingGeometry.html" title="ActsTrackingGeometry" alt="" coords="1889,1599,2063,1627"/>
+<area shape="rect" id="node43" href="$d0/dcd/structActsSurfaceMaps.html" title="ActsSurfaceMaps" alt="" coords="1907,1937,2045,1965"/>
+</map>

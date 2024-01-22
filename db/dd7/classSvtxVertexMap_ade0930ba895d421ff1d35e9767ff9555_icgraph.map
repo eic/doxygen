@@ -1,0 +1,11 @@
+<map id="SvtxVertexMap::size" name="SvtxVertexMap::size">
+<area shape="rect" id="node2" href="$d6/d11/classSvtxEvaluator.html#a51a88cb55f439b7bc820fa1f727bf39a" title="print out the input object information (debugging upstream components)" alt="" coords="211,13,427,41"/>
+<area shape="rect" id="node4" href="$d0/d22/classPHGenFitTrkProp.html#affb38f83e68a715da6a937c1e82dabd4" title="PHGenFitTrkProp::Process" alt="" coords="223,65,415,93"/>
+<area shape="rect" id="node5" href="$d9/d47/classPHActsVertexPropagator.html#a1da603897c916f8bc513a6b26c91a358" title="PHActsVertexPropagator\l::process_event" alt="" coords="225,117,412,161"/>
+<area shape="rect" id="node6" href="$d5/d72/classKFParticle__sPHENIX.html#a7e5ad7cf075fbf8e68a781e7721fec81" title="KFParticle_sPHENIX\l::process_event" alt="" coords="243,185,395,229"/>
+<area shape="rect" id="node7" href="$de/d25/classPHGenFitTrkFitter.html#afcdaabc6fd73922bb522d7fa7ef3a775" title="Process Event, called for each event." alt="" coords="246,253,391,297"/>
+<area shape="rect" id="node8" href="$dc/df0/classDumpSvtxVertexMap.html#a54588842c3ffbd2c35d38512c1780cae" title="DumpSvtxVertexMap::\lprocess_Node" alt="" coords="233,321,405,365"/>
+<area shape="rect" id="node9" href="$d8/dd4/classPHHoughSeeding.html#a1904449fa2b17c24a1a1eeb1f8bc9be1" title="code to seed vertex from initial tracking using a broad search window" alt="" coords="213,389,425,417"/>
+<area shape="rect" id="node3" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="486,5,662,49"/>
+<area shape="rect" id="node10" href="$d8/dd4/classPHHoughSeeding.html#a50ee2f174c0a9899aac7c01b4b363783" title="PHHoughSeeding::Process" alt="" coords="475,389,673,417"/>
+</map>

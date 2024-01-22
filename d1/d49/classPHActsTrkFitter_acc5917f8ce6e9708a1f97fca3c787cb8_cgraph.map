@@ -1,0 +1,11 @@
+<map id="PHActsTrkFitter::getSurfaceVector" name="PHActsTrkFitter::getSurfaceVector">
+<area shape="rect" id="node2" href="$d1/d49/classPHActsTrkFitter.html#a3181b1d52bdd464951975f7e828bf230" title="PHActsTrkFitter::checkSurfaceVec" alt="" coords="257,5,503,33"/>
+<area shape="rect" id="node4" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="557,57,733,85"/>
+<area shape="rect" id="node5" href="$d0/dcd/structActsSurfaceMaps.html#a3df0db25a4eb87ca9ad9ac1434fbffa0" title="true if given surface corresponds to Micromegas" alt="" coords="260,109,500,153"/>
+<area shape="rect" id="node10" href="$d0/dcd/structActsSurfaceMaps.html#ab2c8e84382f9cea3e606078200165cd7" title="true if given surface corresponds to TPC" alt="" coords="263,177,497,205"/>
+<area shape="rect" id="node3" href="$dc/de5/PHG4mRICHDetector_8cc.html#acaaf109d582b14d4880c13e89c1243e1" title="surface" alt="" coords="610,5,681,33"/>
+<area shape="rect" id="node6" href="$d3/d07/classActs_1_1GeometryObject.html#abc805e37f184d25c4d25b5f99330125c" title="Acts::GeometryObject\l::geometryId" alt="" coords="559,109,731,153"/>
+<area shape="rect" id="node7" href="$d7/d33/classActs_1_1GeometryIdentifier.html#abc1ccf966fe5fc7f517c6775b5d38623" title="Return the volume identifier." alt="" coords="551,177,740,221"/>
+<area shape="rect" id="node8" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a5fc08ada52c3da4d9b255e0454739e1d" title="Extract the masked bits from the encoded value." alt="" coords="788,177,977,221"/>
+<area shape="rect" id="node9" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ac13065798464cc86b747086eea9020e2" title="Extract the bit shift necessary to access the masked values." alt="" coords="1025,177,1215,221"/>
+</map>

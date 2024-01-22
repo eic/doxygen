@@ -1,0 +1,22 @@
+<map id="EICG4RPSteppingAction" name="EICG4RPSteppingAction">
+<area shape="rect" id="node2" href="$df/d3f/classPHG4SteppingAction.html" title="PHG4SteppingAction" alt="" coords="1024,537,1185,565"/>
+<area shape="rect" id="node24" href="$d5/d77/classEICG4RPSubsystem.html" title="Detector Subsystem module." alt="" coords="2524,800,2679,828"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="197,952,287,980"/>
+<area shape="rect" id="node10" href="$dd/dae/classPHParameters.html" title="PHParameters" alt="" coords="845,765,961,793"/>
+<area shape="rect" id="node14" href="$dc/d89/classEICG4RPDetector.html" title="EICG4RPDetector" alt="" coords="2176,737,2315,765"/>
+<area shape="rect" id="node15" href="$d3/de7/classPHG4Detector.html" title="base class for phenix detector creation" alt="" coords="1709,1132,1826,1160"/>
+<area shape="rect" id="node18" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="456,1169,560,1197"/>
+<area shape="rect" id="node20" href="$dc/d82/classPHNode.html" title="PHNode" alt="" coords="471,1261,545,1289"/>
+<area shape="rect" id="node25" href="$d5/d29/classPHG4DetectorSubsystem.html" title="PHG4DetectorSubsystem" alt="" coords="2149,925,2341,953"/>
+<area shape="rect" id="node26" href="$d7/d6b/classPHParametersContainer.html" title="PHParametersContainer" alt="" coords="1676,345,1859,373"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="5,944,148,988"/>
+<area shape="rect" id="node6" href="$db/d88/classPHG4Shower.html" title="PHG4Shower" alt="" coords="1493,175,1603,203"/>
+<area shape="rect" id="node7" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="466,175,550,203"/>
+<area shape="rect" id="node9" href="$d3/d9e/classPHG4Hit.html" title="PHG4Hit" alt="" coords="864,227,943,255"/>
+<area shape="rect" id="node28" href="$d4/d30/classPHG4HitContainer.html" title="PHG4HitContainer" alt="" coords="1695,121,1840,149"/>
+<area shape="rect" id="node8" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="204,175,280,203"/>
+<area shape="rect" id="node16" href="$db/df7/classPHG4Subsystem.html" title="PHG4Subsystem" alt="" coords="1264,1209,1397,1237"/>
+<area shape="rect" id="node17" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="853,1180,954,1208"/>
+<area shape="rect" id="node19" href="$d5/dca/classPHCompositeNode.html" title="PHCompositeNode" alt="" coords="1257,1268,1404,1296"/>
+<area shape="rect" id="node21" href="$d6/d86/classPHPointerList.html" title="PHPointerList\&lt; PHNode \&gt;" alt="" coords="807,1284,1000,1312"/>
+</map>

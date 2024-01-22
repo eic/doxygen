@@ -1,0 +1,14 @@
+<map id="EicStlMediaGroup::MergeDegenerateVertices" name="EicStlMediaGroup::MergeDegenerateVertices">
+<area shape="rect" id="node2" href="$de/dbc/classEicStlVertex.html#a6e96f2a980a8157037f29af68c7e9852" title="EicStlVertex::AddDegenerate\lNeighbors3D" alt="" coords="345,5,562,49"/>
+<area shape="rect" id="node3" href="$d6/d42/classEicStlMediaGroup.html#acd4a1791d68d46ed74775d07c97681bd" title="EicStlMediaGroup::AddVertex\lToCurrentGroup" alt="" coords="344,125,563,169"/>
+<area shape="rect" id="node4" href="$de/dbc/classEicStlVertex.html#ab138a955e461414c262d226ec2bba7c9" title="EicStlVertex::Degenerate\lNeighbors3D" alt="" coords="641,65,832,109"/>
+<area shape="rect" id="node5" href="$de/dbc/classEicStlVertex.html#a56c4038f94bd11b5e781fea810e953af" title="EicStlVertex::IsMerged" alt="" coords="651,189,823,217"/>
+<area shape="rect" id="node7" href="$de/dbc/classEicStlVertex.html#aec06a6339c6a15234bedc39fdc1dd6b3" title="EicStlVertex::Degenerate\lNeighbors1D" alt="" coords="358,245,549,289"/>
+<area shape="rect" id="node8" href="$d5/d40/classEicStlKey.html#ab60852774ad4bcf89874e69319221bb4" title="EicStlKey::GetData" alt="" coords="380,313,527,341"/>
+<area shape="rect" id="node9" href="$de/dbc/classEicStlVertex.html#a456fa2b5ece1b5209f5546b92cab41fe" title="EicStlVertex::IncrementDegenerate\lNeighbor1D" alt="" coords="324,365,583,409"/>
+<area shape="rect" id="node10" href="$de/dbc/classEicStlVertex.html#ac8b18c5d0c858f1c1550706be570a3ee" title="EicStlVertex::key" alt="" coords="386,433,521,461"/>
+<area shape="rect" id="node11" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="424,485,483,513"/>
+<area shape="rect" id="node12" href="$de/dbc/classEicStlVertex.html#abb13766551cdf655afcc6cc827dd3682" title="EicStlVertex::SetMergedVertex" alt="" coords="340,537,567,565"/>
+<area shape="rect" id="node13" href="$d5/dbe/EIC-IR1-XX-v00_8C.html#a888f39f7254b5b59976d577091d79a4e" title="vtx" alt="" coords="432,589,475,617"/>
+<area shape="rect" id="node6" href="$de/dbc/classEicStlVertex.html#af66bb91b15b5294f4f3879fd377146d5" title="EicStlVertex::SetMergedFlag" alt="" coords="631,133,843,161"/>
+</map>

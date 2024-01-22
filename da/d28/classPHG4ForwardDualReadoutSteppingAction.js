@@ -1,0 +1,25 @@
+var classPHG4ForwardDualReadoutSteppingAction =
+[
+    [ "PHG4ForwardDualReadoutSteppingAction", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a99f8d2112531fcdc085cb43a6c4f3b5e", null ],
+    [ "~PHG4ForwardDualReadoutSteppingAction", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a1e77739c9494053131cffb19bf073f48", null ],
+    [ "FindTowerIndex", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a4638f8c372c79408302561e76659b586", null ],
+    [ "FindTowerIndexFromPosition", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a70a8835a5f8f25ebfc1fb7ee5b48f0b6", null ],
+    [ "ParseG4VolumeName", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a7786fe62d265bc4cc8daae02d9d464ed", null ],
+    [ "SetDetectorSize", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a5c88276fc702596966e10c5daba27c11", null ],
+    [ "SetInterfacePointers", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a245cfb9d8b271e01e52d625c3c9a340b", null ],
+    [ "SetTowerReadout", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a5036d5b3a351f0927058098c0d749bb2", null ],
+    [ "SetTowerSize", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a2d15889a7af543ed23d8affd80b90caf", null ],
+    [ "UserSteppingAction", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a925607fe783017e6dc0d77317666eb52", null ],
+    [ "_detector_size", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a6c62a84df2153a9f0f3c2c80398d9868", null ],
+    [ "_readout_size", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a20e86905e136a9da26b909377c3f2ddc", null ],
+    [ "_tower_size", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a07907c6592695f348a928757ab3b1dd4", null ],
+    [ "_towerdivision", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#aeb58e3da25300b1fb7e42d816189a304", null ],
+    [ "absorberhits_", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a0d5b2f62fbcf173d206e4703923f0412", null ],
+    [ "absorbertruth", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a0ed28544d08278a0be3fea402161e2e6", null ],
+    [ "detector_", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#ad52284bd5d67d1e83e2bf2c52968df83", null ],
+    [ "hit", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#adbaee6651b5d5b05c1d406b1d8f6d839", null ],
+    [ "hitcontainer", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a9eda3ae9d3028f75a40badb00f934bff", null ],
+    [ "hits_", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a47ea1fc426ce3eb7620c2d1d9882b023", null ],
+    [ "light_scint_model", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a600b50610ac838f9d3f2e0ba179ad146", null ],
+    [ "saveshower", "da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a4453ecc4763428c42feb11956189d03d", null ]
+];

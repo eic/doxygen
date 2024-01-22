@@ -1,0 +1,11 @@
+<map id="GFBookkeeping::setNhits" name="GFBookkeeping::setNhits">
+<area shape="rect" id="node2" href="$d6/deb/classGFBookkeeping.html#ae8ff8078e840ffe74647113d3b7f50cf" title="GFBookkeeping::reset" alt="" coords="244,204,415,232"/>
+<area shape="rect" id="node3" href="$d6/deb/classGFBookkeeping.html#a0a6866d40b33ae37e0fd8f4fe8ece1dc" title="GFBookkeeping::bookGFDet\lPlanes" alt="" coords="491,5,703,49"/>
+<area shape="rect" id="node4" href="$d6/deb/classGFBookkeeping.html#a7a5b65319033fb8869e2db454b186783" title="GFBookkeeping::bookMatrices" alt="" coords="484,73,711,101"/>
+<area shape="rect" id="node5" href="$d6/deb/classGFBookkeeping.html#a82dea08ad60a09656d2648ae9d69fefb" title="GFBookkeeping::bookNumbers" alt="" coords="482,125,713,153"/>
+<area shape="rect" id="node6" href="$d6/deb/classGFBookkeeping.html#a0e0eb28bc8e86c631c358d9902a08688" title="GFBookkeeping::clearAll" alt="" coords="505,177,690,205"/>
+<area shape="rect" id="node7" href="$d6/deb/classGFBookkeeping.html#ab7b2e2abe0d60327df7044fe11038bae" title="GFBookkeeping::clearFailedHits" alt="" coords="480,229,715,257"/>
+<area shape="rect" id="node8" href="$d6/deb/classGFBookkeeping.html#a1bb468b12e89813d580c33444f6571a8" title="GFBookkeeping::getGFDetPlaneKeys" alt="" coords="463,281,732,309"/>
+<area shape="rect" id="node9" href="$d6/deb/classGFBookkeeping.html#a8249382041f0c3eb2314afe0b437f2aa" title="GFBookkeeping::getMatrixKeys" alt="" coords="481,333,713,361"/>
+<area shape="rect" id="node10" href="$d6/deb/classGFBookkeeping.html#a3274b9c72223c368bc8d4f45090c00f3" title="GFBookkeeping::getNumberKeys" alt="" coords="475,385,719,413"/>
+</map>

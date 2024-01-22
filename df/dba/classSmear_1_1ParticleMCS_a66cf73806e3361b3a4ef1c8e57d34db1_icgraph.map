@@ -1,0 +1,12 @@
+<map id="Smear::ParticleMCS::GetE" name="Smear::ParticleMCS::GetE">
+<area shape="rect" id="node2" href="$d0/d1d/particlegun_8cxx.html#ab8b501892680ac538a9aad2af02d198f" title="This function does smearing itself. by calling detector.Smear(not_smeared_prt);." alt="" coords="239,5,354,33"/>
+<area shape="rect" id="node5" href="$dc/d08/pgunqa_8cxx.html#a3a8cdbf80869322044a5d3a9c05f33e4" title="FillParticleQA" alt="" coords="242,57,351,85"/>
+<area shape="rect" id="node6" href="$df/d6f/structSmear_1_1Bremsstrahlung.html#a85040f9377feb65e30f60598bfeaaa2a" title="Smear::Bremsstrahlung\l::FixParticleKinematics" alt="" coords="207,109,387,153"/>
+<area shape="rect" id="node8" href="$df/dba/classSmear_1_1ParticleMCS.html#aa0ee04ff7c308397e90850b0efb6b90d" title="Smear::ParticleMCS\l::HandleBogusValues" alt="" coords="214,177,379,221"/>
+<area shape="rect" id="node11" href="$d7/d24/extendedjetexample_8cxx.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="269,245,324,273"/>
+<area shape="rect" id="node3" href="$d0/d1d/particlegun_8cxx.html#ac7821bf4c6f46efb89009edde18e7b97" title="Process" alt="" coords="489,5,561,33"/>
+<area shape="rect" id="node4" href="$d0/d1d/particlegun_8cxx.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="663,5,717,33"/>
+<area shape="rect" id="node7" href="$df/d6f/structSmear_1_1Bremsstrahlung.html#aae1f33a99363ba06ab53c43f9cd7c09d" title="Smear::Bremsstrahlung\l::Smear" alt="" coords="435,113,615,157"/>
+<area shape="rect" id="node9" href="$d9/de1/classSmear_1_1Device.html#aeff74421cc6098556a73f48dbe80e540" title="Smear::Device::Smear" alt="" coords="438,183,611,211"/>
+<area shape="rect" id="node10" href="$d1/df3/classSmear_1_1Tracker.html#a81a81adda8d4d3a77f9e610851555c2c" title="Smear::Tracker::Smear" alt="" coords="437,235,613,263"/>
+</map>

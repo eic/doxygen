@@ -1,0 +1,24 @@
+<map id="nucleus::formFactor" name="nucleus::formFactor">
+<area shape="rect" id="node2" href="$d0/d4e/classphotonNucleusCrossSection.html#a16e06c31319bc21612179a49c4ec5232" title="photonNucleusCrossSection\l::e_getcsgA" alt="" coords="209,171,419,215"/>
+<area shape="rect" id="node3" href="$d0/d4e/classphotonNucleusCrossSection.html#a6711e96b1e4a811e8771fb49bbe40e5e" title="photonNucleusCrossSection\l::getcsgA" alt="" coords="209,239,419,283"/>
+<area shape="rect" id="node17" href="$d0/d7f/classGammaavectormeson.html#a7a8cfcad79e434c259b7dd137a812ffc" title="Gammaavectormeson::\lmomenta" alt="" coords="225,307,403,351"/>
+<area shape="rect" id="node18" href="$da/d63/classGammagammasingle.html#a9cf1be8d40c025c568735482b7dbd4a6" title="Gammagammasingle::pp1" alt="" coords="213,375,415,403"/>
+<area shape="rect" id="node20" href="$da/d63/classGammagammasingle.html#ad485e8c9d604d53c81b7d0d76405f319" title="Gammagammasingle::pp2" alt="" coords="213,427,415,455"/>
+<area shape="rect" id="node21" href="$d0/d7f/classGammaavectormeson.html#a2c301be5c086ecb3951660fcc97abe9b" title="Gammaavectormeson::\lpTgamma" alt="" coords="225,479,403,523"/>
+<area shape="rect" id="node22" href="$d2/dd2/classphotonNucleusLuminosity.html#af0311e60848553568d42b1a72837b297" title="photonNucleusLuminosity\l::pttablegen" alt="" coords="509,539,705,583"/>
+<area shape="rect" id="node23" href="$d2/dd2/classphotonNucleusLuminosity.html#a39b805ee9352355ce38e77b6deddf5aa" title="photonNucleusLuminosity\l::vmsigmapt" alt="" coords="216,599,412,643"/>
+<area shape="rect" id="node4" href="$d0/ddd/classe__narrowResonanceCrossSection.html#a281332fb005db92ed9d5ce5cba018476" title="e_narrowResonanceCrossSection\l::crossSectionCalculation" alt="" coords="819,164,1062,208"/>
+<area shape="rect" id="node6" href="$d0/ddd/classe__narrowResonanceCrossSection.html#a8fd71dda8939f9da5fc0ab3420ee0f85" title="e_narrowResonanceCrossSection\l::makeGammaPQ2dependence" alt="" coords="486,193,729,237"/>
+<area shape="rect" id="node7" href="$d7/d04/classe__wideResonanceCrossSection.html#a255501641a00e132f833e31decd5c8c4" title="e_wideResonanceCrossSection\l::crossSectionCalculation" alt="" coords="493,261,721,305"/>
+<area shape="rect" id="node9" href="$d2/dd2/classphotonNucleusLuminosity.html#a5362c768151bb5177d184f3acd4100b0" title="photonNucleusLuminosity\l::photonNucleusDifferentialLuminosity" alt="" coords="800,457,1081,501"/>
+<area shape="rect" id="node11" href="$de/d1f/classphotonElectronLuminosity.html#ad405f6bf675bf8f63483eeb8c33e1ad7" title="photonElectronLuminosity\l::photonNucleusDifferentialLuminosity" alt="" coords="467,329,748,373"/>
+<area shape="rect" id="node13" href="$d1/d77/classnarrowResonanceCrossSection.html#a66a9f4c62432bba5f2bd912c14a59fa9" title="narrowResonanceCrossSection\l::crossSectionCalculation" alt="" coords="493,5,721,49"/>
+<area shape="rect" id="node15" href="$db/d89/classwideResonanceCrossSection.html#ab64cf7093521fe0c1fccd11a1b925789" title="wideResonanceCrossSection\l::crossSectionCalculation" alt="" coords="501,73,714,117"/>
+<area shape="rect" id="node5" href="$db/d3c/classe__Gammaanarrowvm.html#af99d4b9fd115e0bfaecb9feb0285ae8b" title="e_Gammaanarrowvm::e\l_Gammaanarrowvm" alt="" coords="1145,164,1327,208"/>
+<area shape="rect" id="node8" href="$d0/de3/classe__Gammaawidevm.html#aa74ea3a1c8ff5a6d8105061945f11f41" title="e_Gammaawidevm::e_Gammaawidevm" alt="" coords="796,269,1085,297"/>
+<area shape="rect" id="node10" href="$d2/dd2/classphotonNucleusLuminosity.html#a2c5944e87350cbe73d7a87449a3a5178" title="photonNucleusLuminosity\l::photonNucleusLuminosity" alt="" coords="1133,457,1339,501"/>
+<area shape="rect" id="node12" href="$de/d1f/classphotonElectronLuminosity.html#a710ececb91d7ddc2b9cf3f8ecea3009a" title="photonElectronLuminosity\l::photonElectronLuminosity" alt="" coords="837,329,1044,373"/>
+<area shape="rect" id="node14" href="$db/d82/classGammaanarrowvm.html#a0b00f7cdee6583e3636f970a8fd6a092" title="Gammaanarrowvm::Gammaanarrowvm" alt="" coords="796,13,1085,41"/>
+<area shape="rect" id="node16" href="$db/ddf/classGammaawidevm.html#acda53200bfce689ad12c838a28237dcb" title="Gammaawidevm::Gammaawidevm" alt="" coords="811,81,1070,109"/>
+<area shape="rect" id="node19" href="$da/d63/classGammagammasingle.html#a36f52e829bd375f3956b6e49d53f1827" title="Gammagammasingle::parent\lMomentum" alt="" coords="497,449,717,493"/>
+</map>

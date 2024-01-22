@@ -1,0 +1,17 @@
+<map id="EICG4BwdDetector::ConstructMe" name="EICG4BwdDetector::ConstructMe">
+<area shape="rect" id="node2" href="$d6/dc5/classEICG4BwdDetector.html#ac3e0975cf84a503ae5cd0a2db948f163" title="EICG4BwdDetector::Construct\lTower" alt="" coords="320,91,544,135"/>
+<area shape="rect" id="node3" href="$d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c" title="PHG4Detector::Verbosity" alt="" coords="632,251,821,279"/>
+<area shape="rect" id="node4" href="$d3/de7/classPHG4Detector.html#a8e548682ab05493f7cdbd391bc4f67be" title="PHG4Detector::GetDetector\lMaterial" alt="" coords="622,19,831,63"/>
+<area shape="rect" id="node6" href="$dd/dae/classPHParameters.html#a60170f66cb1f70adb65134014151d180" title="PHParameters::get_string\l_param" alt="" coords="631,87,823,131"/>
+<area shape="rect" id="node7" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="627,155,827,199"/>
+<area shape="rect" id="node8" href="$dd/dae/classPHParameters.html#a0241ca27a369ab4865ac3d79620ac27c" title="PHParameters::get_int\l_param" alt="" coords="346,435,518,479"/>
+<area shape="rect" id="node9" href="$d1/da8/classPHFlag.html#af418eea34c64a5d0df9417454719e1ce" title="PHFlag::get_StringFlag" alt="" coords="345,503,519,531"/>
+<area shape="rect" id="node12" href="$d8/d14/classrecoConsts.html#ae69a5c29a7199ba16d0e537158618802" title="recoConsts::instance" alt="" coords="351,555,513,583"/>
+<area shape="rect" id="node14" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="616,346,837,374"/>
+<area shape="rect" id="node15" href="$d6/dc5/classEICG4BwdDetector.html#a164836512bf23e879c6d8f4fbd7fa5ac" title="EICG4BwdDetector::ParseParameters\lFromTable" alt="" coords="296,211,568,255"/>
+<area shape="rect" id="node16" href="$d6/dc5/classEICG4BwdDetector.html#aa681af39f1be3674c13175f84c2fa54a" title="EICG4BwdDetector::PlaceTower" alt="" coords="315,331,549,359"/>
+<area shape="rect" id="node5" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="889,130,935,158"/>
+<area shape="rect" id="node10" href="$d1/da8/classPHFlag.html#abac276742774962551e176ca74039d63" title="PHFlag::get_CharFlag" alt="" coords="644,503,809,531"/>
+<area shape="rect" id="node11" href="$db/d5d/test__style_8C.html#aa587a93d9563c8d433bd1736432c4acd" title="Print" alt="" coords="885,503,939,531"/>
+<area shape="rect" id="node13" href="$d8/d14/classrecoConsts.html#ae882d6adc62f783ec78114fe3dee3c24" title="recoConsts::recoConsts" alt="" coords="637,555,817,583"/>
+</map>

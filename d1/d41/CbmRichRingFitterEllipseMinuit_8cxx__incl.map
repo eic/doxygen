@@ -1,0 +1,5 @@
+<map id="EicRoot/blob/master/rich/fitter/CbmRichRingFitterEllipseMinuit.cxx" name="EicRoot/blob/master/rich/fitter/CbmRichRingFitterEllipseMinuit.cxx">
+<area shape="rect" id="node2" href="$db/d40/CbmRichRingFitterEllipseMinuit_8h.html" title="This is the implementation of ellipse fitting using MINUIT." alt="" coords="186,113,377,157"/>
+<area shape="rect" id="node3" href="$d0/dd0/CbmRichRingFitterEllipseBase_8h.html" title="Base class for concrete ellipse fitting algorithms. Each derived class must implement the method DoFi..." alt="" coords="6,205,197,249"/>
+<area shape="rect" id="node4" href="$d2/d05/CbmRichRingFitterBase_8h.html" title="Abstract base class for concrete Rich Ring fitting algorithms. Each derived class must implement the ..." alt="" coords="5,297,197,325"/>
+</map>

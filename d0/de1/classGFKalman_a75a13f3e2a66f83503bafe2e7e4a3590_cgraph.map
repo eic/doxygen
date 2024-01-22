@@ -1,0 +1,40 @@
+<map id="GFKalman::processHit" name="GFKalman::processHit">
+<area shape="rect" id="node2" href="$d7/d82/classGFAbsTrackRep.html#a345406601eabdbc3718f0a5adbb5ec64" title="GFAbsTrackRep::addChiSqu" alt="" coords="243,5,449,33"/>
+<area shape="rect" id="node3" href="$d7/d82/classGFAbsTrackRep.html#a5f685b137879a57cc59d560fb4654439" title="GFAbsTrackRep::addForward\lChiSqu" alt="" coords="240,57,452,101"/>
+<area shape="rect" id="node4" href="$d7/d82/classGFAbsTrackRep.html#afed4b0dc7ee3006f3ed0ec07e5642071" title="GFAbsTrackRep::addNDF" alt="" coords="253,125,439,153"/>
+<area shape="rect" id="node5" href="$d0/de1/classGFKalman.html#a60e2a14f8eb3c94f27ecc426d28d8c99" title="Calculate Kalman Gain." alt="" coords="267,177,425,205"/>
+<area shape="rect" id="node8" href="$d0/de1/classGFKalman.html#afa014bc2eed916599a549991771143da" title="this returns the reduced chi2 increment for a hit" alt="" coords="247,229,445,257"/>
+<area shape="rect" id="node10" href="$d7/d82/classGFAbsTrackRep.html#a182cb174b330c92e7855e7a5d95dad8f" title="returns the tracklength spanned in this extrapolation" alt="" coords="241,281,451,309"/>
+<area shape="rect" id="node11" href="$d7/d82/classGFAbsTrackRep.html#aedabf7a87066b362143d2c6f03f25588" title="Get auxillary information from the track representation." alt="" coords="243,333,449,361"/>
+<area shape="rect" id="node12" href="$d4/d33/classGFTrack.html#a3a5ba8703a51bdc36557b9e391b06a9d" title="get GFBookKeeping object for particular track rep (default is cardinal rep)" alt="" coords="284,385,408,413"/>
+<area shape="rect" id="node14" href="$d7/d82/classGFAbsTrackRep.html#a9363c1fa39fb8e032e7e080576a6c412" title="GFAbsTrackRep::getCov" alt="" coords="255,437,437,465"/>
+<area shape="rect" id="node15" href="$df/d1a/classGFAbsRecoHit.html#aaa20d4c69a79eba87290f767d6f63dab" title="Get detector plane for a given track representation." alt="" coords="243,489,449,517"/>
+<area shape="rect" id="node16" href="$d7/d82/classGFAbsTrackRep.html#a0282f8bfeac2c15df26bb94bfa377bbe" title="returns dimension of state vector" alt="" coords="255,541,437,569"/>
+<area shape="rect" id="node17" href="$d4/d33/classGFTrack.html#a736fa5128d9414c62a1e2f19390588d1" title="GFTrack::getHit" alt="" coords="283,593,409,621"/>
+<area shape="rect" id="node18" href="$df/d1a/classGFAbsRecoHit.html#a65ea7b2c69b91cc42d749b1625e9eeba" title="Get transformation matrix. Transformation between hit coordinates and track representation coordinate..." alt="" coords="247,645,445,673"/>
+<area shape="rect" id="node19" href="$df/d1a/classGFAbsRecoHit.html#ac64dc8dbe7daceb013a7f02a9c1deccc" title="get measurement vector and hit covariance" alt="" coords="226,697,466,725"/>
+<area shape="rect" id="node20" href="$d7/d82/classGFAbsTrackRep.html#ae9b4fb8b23451c62b54115106b21ae72" title="GFAbsTrackRep::getReference\lPlane" alt="" coords="235,749,457,793"/>
+<area shape="rect" id="node21" href="$d4/d33/classGFTrack.html#a0632fb4c0658b9626bb71e4e199ac4b1" title="get the hit index at which plane,state&amp;cov of rep irep is defined" alt="" coords="263,817,429,845"/>
+<area shape="rect" id="node22" href="$d7/d82/classGFAbsTrackRep.html#afd34e919229e16d8d0913b6cddb7fe0b" title="GFAbsTrackRep::getState" alt="" coords="251,869,441,897"/>
+<area shape="rect" id="node23" href="$d4/d33/classGFTrack.html#a47b1c90bd5fb51333b11958d94411b6f" title="Accessor for track representations." alt="" coords="263,921,429,949"/>
+<area shape="rect" id="node24" href="$d7/d82/classGFAbsTrackRep.html#a021e3a30287d4bbe1b6ce930b6bfe0e4" title="See if the track representation has auxillary information stored." alt="" coords="242,973,450,1001"/>
+<area shape="rect" id="node25" href="$d7/d82/classGFAbsTrackRep.html#a18d5f74d25f7b6c7899c6b23105aead0" title="Puts the track representation in a given state." alt="" coords="253,1025,439,1053"/>
+<area shape="rect" id="node26" href="$d6/deb/classGFBookkeeping.html#ab801cf5e4dc82c01f6a8d410eb22ebe8" title="GFBookkeeping::setDetPlane" alt="" coords="237,1077,455,1105"/>
+<area shape="rect" id="node27" href="$d6/deb/classGFBookkeeping.html#aeb093009f0b27a27a01774318067429c" title="GFBookkeeping::setMatrix" alt="" coords="247,1129,445,1157"/>
+<area shape="rect" id="node28" href="$d6/deb/classGFBookkeeping.html#acd59cf738cd51e0554c1d1ce25aca0b6" title="GFBookkeeping::setNumber" alt="" coords="241,1181,451,1209"/>
+<area shape="rect" id="node29" href="$d4/d33/classGFTrack.html#a69c36ced417a6b39ed1460ef696aaa77" title="set the hit index at which plane,state&amp;cov of rep irep is defined" alt="" coords="264,1233,428,1261"/>
+<area shape="rect" id="node30" href="$df/d57/namespaceActs_1_1KalmanVertexTrackUpdater.html#abb363e1aaee90a3145009d060586bd22" title="Refits a single track with the knowledge of the vertex it has originated from." alt="" coords="224,1285,468,1329"/>
+<area shape="rect" id="node6" href="$de/dc7/namespaceGFTools.html#a91584ea29490044c1bdd8270f39400e6" title="Invert a matrix, throwing GFException when inversion fails." alt="" coords="561,177,725,205"/>
+<area shape="rect" id="node7" href="$df/d55/classGFException.html#a886ef3de22cdff9ceee36449be8643c2" title="set fatal flag. if this is true, the fit stops for this current track repr." alt="" coords="828,204,995,232"/>
+<area shape="rect" id="node9" href="$df/d55/classGFException.html#a25f97a580a7a3c4e65415e08323da4c0" title="set list of matrices with description" alt="" coords="547,281,740,309"/>
+<area shape="rect" id="node13" href="$d4/d33/classGFTrack.html#a2d4439ad22338ef7d5c7351468b2859d" title="Get number of track represenatations." alt="" coords="558,817,729,845"/>
+<area shape="rect" id="node31" href="$df/d7d/classActs_1_1Vertex.html#a564f110498b8882838885434264d345a" title="Acts::Vertex::fullPosition" alt="" coords="551,1173,736,1201"/>
+<area shape="rect" id="node32" href="$d6/d06/namespaceActs_1_1detail.html#af99a755347e8bbd171da1f485f1e9538" title="Acts::detail::ensureTheta\lBounds" alt="" coords="548,1225,739,1269"/>
+<area shape="rect" id="node36" href="$df/d7d/classActs_1_1Vertex.html#afac6102da9c97972916c62260424433d" title="Acts::Vertex::fullCovariance" alt="" coords="539,1293,748,1321"/>
+<area shape="rect" id="node37" href="$d5/dbe/EIC-IR1-XX-v00_8C.html#a888f39f7254b5b59976d577091d79a4e" title="vtx" alt="" coords="622,1345,665,1373"/>
+<area shape="rect" id="node38" href="$d7/d27/namespaceActs_1_1KalmanVertexTrackUpdater_1_1detail.html#a732e7463c791da9bfdafe828abe87129" title="reates a new covariance matrix for the refitted track parameters" alt="" coords="516,1397,771,1441"/>
+<area shape="rect" id="node33" href="$d6/d06/namespaceActs_1_1detail.html#af08fbfd2843e4f5c141ed9148537f984" title="Calculate the equivalent angle in the [&#45;pi, pi) range." alt="" coords="819,1208,1004,1236"/>
+<area shape="rect" id="node34" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="856,1260,967,1288"/>
+<area shape="rect" id="node35" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1052,1260,1228,1288"/>
+<area shape="rect" id="node39" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="889,1405,933,1433"/>
+</map>

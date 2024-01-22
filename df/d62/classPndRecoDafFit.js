@@ -1,0 +1,27 @@
+var classPndRecoDafFit =
+[
+    [ "PndRecoDafFit", "df/d62/classPndRecoDafFit.html#a4a37385379d70e2d73c3c78366ad7601", null ],
+    [ "~PndRecoDafFit", "df/d62/classPndRecoDafFit.html#ad4313619fd72e042d4282d5d122107af", null ],
+    [ "ClassDef", "df/d62/classPndRecoDafFit.html#a9f4c32369464f379b27ccf68d788fa24", null ],
+    [ "Fit", "df/d62/classPndRecoDafFit.html#a71b624dff0fc50e252d2d2b9eed898ee", null ],
+    [ "Init", "df/d62/classPndRecoDafFit.html#a8273a9c8e6e36c5e65e34d3463c50aa4", null ],
+    [ "SetCentralTrackerBranchName", "df/d62/classPndRecoDafFit.html#ae3f5bceb6022ab206fb953060c96f91f", null ],
+    [ "SetGeane", "df/d62/classPndRecoDafFit.html#a8053eca78ed8fda641a5cfd8146953bb", null ],
+    [ "SetMvdBranchName", "df/d62/classPndRecoDafFit.html#aa2d9921657bf9fe10000021afea4b194", null ],
+    [ "SetNumIterations", "df/d62/classPndRecoDafFit.html#aadc24827fb0c5162a063136a51e8a6ac", null ],
+    [ "SetPerpPlane", "df/d62/classPndRecoDafFit.html#ae17bb4114650596ad33f3f7b8c0c52de", null ],
+    [ "SetPropagateToIP", "df/d62/classPndRecoDafFit.html#a2f5c0d04a4d76dea8e487a17970b5733", null ],
+    [ "SetTrackRep", "df/d62/classPndRecoDafFit.html#a882dbb3f2009fe93f55c0801e369e220", null ],
+    [ "SetVerbose", "df/d62/classPndRecoDafFit.html#a19f8f2a98071049a3eb5c0f05b32881c", null ],
+    [ "fCentralTrackerBranchName", "df/d62/classPndRecoDafFit.html#abc522bcdcaa21e4e6f62e734aec7fa60", null ],
+    [ "fGenFitter", "df/d62/classPndRecoDafFit.html#a144644d3b430ef8d6606207fdfd09dbc", null ],
+    [ "fMvdBranchName", "df/d62/classPndRecoDafFit.html#a209cfd8e24109e6e841afcb3e0e07d9a", null ],
+    [ "fNumIt", "df/d62/classPndRecoDafFit.html#a1a8d8077a0ce3a966b8ed8ed141778eb", null ],
+    [ "fPerpPlane", "df/d62/classPndRecoDafFit.html#a03c944fb19d85e23c915582f79be41db", null ],
+    [ "fPro", "df/d62/classPndRecoDafFit.html#ae28ca7f4db3af6d532d835fb157dcf0f", null ],
+    [ "fPropagateToIP", "df/d62/classPndRecoDafFit.html#a967d2f223e8dd2131ae0221c3e727b31", null ],
+    [ "fTheRecoHitFactory", "df/d62/classPndRecoDafFit.html#aac87486cf056b673f98f363995439080", null ],
+    [ "fTrackRep", "df/d62/classPndRecoDafFit.html#a6f19e3d4a94c196c902170071e1934f0", null ],
+    [ "fUseGeane", "df/d62/classPndRecoDafFit.html#a0499bebe355402b7e8443a74c65001c5", null ],
+    [ "fVerbose", "df/d62/classPndRecoDafFit.html#acd27aa6cd08b85f838465ba67711e4f8", null ]
+];

@@ -1,0 +1,15 @@
+<map id="photonNucleusCrossSection::e_getcsgA" name="photonNucleusCrossSection::e_getcsgA">
+<area shape="rect" id="node2" href="$d4/d51/classnucleus.html#afb4d4a7f776a88c10fa0ff433e74463e" title="returns nucleon number of nucleus" alt="" coords="600,5,692,33"/>
+<area shape="rect" id="node3" href="$d1/d21/classbeamBeamSystem.html#a039e2f7e609c95744ad06eb433688485" title="returns beam particle 1" alt="" coords="520,57,772,85"/>
+<area shape="rect" id="node4" href="$d4/d51/classnucleus.html#a44010f806c36731bf2e1daee89f27738" title="nucleus::formFactor" alt="" coords="289,263,445,291"/>
+<area shape="rect" id="node7" href="$d0/d4e/classphotonNucleusCrossSection.html#a33271d9aa28799df992ea7939ba1909c" title="photonNucleusCrossSection\l::sigma_A" alt="" coords="263,129,472,173"/>
+<area shape="rect" id="node8" href="$d1/d21/classbeamBeamSystem.html#a914c7a1b7802ed916928073483e18e7b" title="returns beam particle 2" alt="" coords="527,213,765,241"/>
+<area shape="rect" id="node13" href="$d0/d4e/classphotonNucleusCrossSection.html#af3782ac63a9a7b85b7d3fb25e4e98a9d" title="photonNucleusCrossSection\l::sigma_N" alt="" coords="263,315,472,359"/>
+<area shape="rect" id="node14" href="$d0/d4e/classphotonNucleusCrossSection.html#a5ae3b27a780b0456689f2d3134f0478e" title="photonNucleusCrossSection\l::sigmagp" alt="" coords="541,371,751,415"/>
+<area shape="rect" id="node5" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="624,265,668,293"/>
+<area shape="rect" id="node6" href="$d4/d51/classnucleus.html#a31aecce251b8d61c0e36b46ccd3730d7" title="nucleus::nuclearRadius" alt="" coords="1000,265,1179,293"/>
+<area shape="rect" id="node9" href="$d4/d51/classnucleus.html#a5de922b3a6cc87a3eb1b421fc6f2d343" title="nucleus::rho0" alt="" coords="589,109,703,137"/>
+<area shape="rect" id="node10" href="$d4/d51/classnucleus.html#a625506ed8907970e3aea75ff925bfc9b" title="nucleus::thickness" alt="" coords="573,161,719,189"/>
+<area shape="rect" id="node11" href="$d4/d51/classnucleus.html#ad46c433008fa9451021f8614b126996a" title="nucleus::rws" alt="" coords="820,188,927,216"/>
+<area shape="rect" id="node12" href="$d4/d51/classnucleus.html#ab71f2da42e9f143940e727f7525076e2" title="nucleus::woodSaxonSkinDepth" alt="" coords="975,188,1204,216"/>
+</map>

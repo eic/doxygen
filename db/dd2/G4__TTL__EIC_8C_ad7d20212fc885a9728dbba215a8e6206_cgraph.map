@@ -1,0 +1,8 @@
+<map id="make_barrel_layer" name="make_barrel_layer">
+<area shape="rect" id="node2" href="$d5/d29/classPHG4DetectorSubsystem.html#a5a52f44370d90e92bfb3ed0abf6dbb76" title="PHG4DetectorSubsystem\l::OverlapCheck" alt="" coords="237,5,429,49"/>
+<area shape="rect" id="node3" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="219,73,446,101"/>
+<area shape="rect" id="node4" href="$d5/d29/classPHG4DetectorSubsystem.html#a48e75fd1738dab9d0d66b174053ead8f" title="PHG4DetectorSubsystem\l::set_double_param" alt="" coords="237,125,429,169"/>
+<area shape="rect" id="node5" href="$d5/d29/classPHG4DetectorSubsystem.html#a9c64b70e82272ef90f285ecaef1e50b4" title="PHG4DetectorSubsystem\l::set_int_param" alt="" coords="237,193,429,237"/>
+<area shape="rect" id="node6" href="$dc/d20/classPHG4TTLSubsystem.html#ae538de89703548e1f6839991d16e37c5" title="PHG4TTLSubsystem::SetDetailed" alt="" coords="211,261,455,289"/>
+<area shape="rect" id="node7" href="$dc/d20/classPHG4TTLSubsystem.html#a63cb973b0dbcb52e4c726caa48266fa9" title="PHG4TTLSubsystem::SuperDetector" alt="" coords="200,313,465,341"/>
+</map>

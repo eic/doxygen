@@ -1,0 +1,30 @@
+<map id="fun4all_coresoftware/blob/master/offline/packages/trackreco/PHActsInitialVertexFinder.h" name="fun4all_coresoftware/blob/master/offline/packages/trackreco/PHActsInitialVertexFinder.h">
+<area shape="rect" id="node2" href="$dc/dd6/PHInitVertexing_8h.html" title="Base class for inital vertexing." alt="" coords="139,137,277,165"/>
+<area shape="rect" id="node6" href="$d4/d6a/ActsTrackingGeometry_8h.html" title="trackbase/ActsTrackingGeometry.h" alt="" coords="915,137,1170,165"/>
+<area shape="rect" id="node32" href="$d8/d00/TrkrDefs_8h.html" title="Namespace with Trkr key types and utility functions." alt="" coords="1825,321,1985,349"/>
+<area shape="rect" id="node33" href="$d3/db2/Result_8hpp.html" title="Acts/Utilities/Result.hpp" alt="" coords="2010,321,2193,349"/>
+<area shape="rect" id="node38" href="$d6/db0/Vertex_8hpp.html" title="Acts/Vertexing/Vertex.hpp" alt="" coords="1867,137,2064,165"/>
+<area shape="rect" id="node42" href="$d3/da4/Track_8hpp.html" title="All track&#45;related shared types." alt="" coords="2185,129,2377,173"/>
+<area shape="rect" id="node48" href="$dd/de9/TrkrClusterMultiTrajectory_8hpp.html" title="ActsExamples/EventData\l/TrkrClusterMultiTrajectory.hpp" alt="" coords="2945,221,3173,265"/>
+<area shape="rect" id="node3" href="$d5/dc2/SubsysReco_8h.html" title="fun4all/SubsysReco.h" alt="" coords="5,229,171,257"/>
+<area shape="rect" id="node4" href="$d2/de7/Fun4AllBase_8h.html" title="Fun4AllBase.h" alt="" coords="54,321,170,349"/>
+<area shape="rect" id="node8" href="$d5/d50/BinnedArray_8hpp.html" title="Acts/Utilities/BinnedArray.hpp" alt="" coords="931,229,1154,257"/>
+<area shape="rect" id="node10" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="1303,413,1516,441"/>
+<area shape="rect" id="node15" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="661,321,848,349"/>
+<area shape="rect" id="node21" href="$dd/d24/TrackingGeometry_8hpp.html" title="Acts/Geometry/TrackingGeometry.hpp" alt="" coords="1522,321,1801,349"/>
+<area shape="rect" id="node27" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="453,221,656,265"/>
+<area shape="rect" id="node28" href="$d0/d28/CalibrationContext_8hpp.html" title="Acts/Utilities/Calibration\lContext.hpp" alt="" coords="245,221,429,265"/>
+<area shape="rect" id="node29" href="$da/da8/BFieldOptions_8hpp.html" title="ActsExamples/Plugins\l/BField/BFieldOptions.hpp" alt="" coords="1149,313,1345,357"/>
+<area shape="rect" id="node9" href="$d2/d0a/BinUtility_8hpp.html" title="Acts/Utilities/BinUtility.hpp" alt="" coords="923,321,1125,349"/>
+<area shape="rect" id="node22" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="1895,413,2172,441"/>
+<area shape="rect" id="node24" href="$d5/d67/GeometryIdentifier_8hpp.html" title="Acts/Geometry/GeometryIdentifier.hpp" alt="" coords="2438,413,2722,441"/>
+<area shape="rect" id="node30" href="$d6/d02/AxisFwd_8hpp.html" title="Acts/Utilities/detail\l/AxisFwd.hpp" alt="" coords="1130,405,1278,449"/>
+<area shape="rect" id="node39" href="$d8/d30/TrackAtVertex_8hpp.html" title="Acts/Vertexing/TrackAtVertex.hpp" alt="" coords="2318,229,2565,257"/>
+<area shape="rect" id="node41" href="$d9/de3/Vertex_8ipp.html" title="Vertex.ipp" alt="" coords="1919,229,2011,257"/>
+<area shape="rect" id="node40" href="$d8/d81/TrackParameters_8hpp.html" title="Acts/EventData/TrackParameters.hpp" alt="" coords="2370,321,2643,349"/>
+<area shape="rect" id="node43" href="$d4/d9f/MultiTrajectory_8hpp.html" title="Acts/EventData/MultiTrajectory.hpp" alt="" coords="2667,321,2925,349"/>
+<area shape="rect" id="node44" href="$d0/dc9/SimMultiTrajectory_8hpp.html" title="ActsExamples/EventData\l/SimMultiTrajectory.hpp" alt="" coords="2700,221,2892,265"/>
+<area shape="rect" id="node45" href="$dc/d89/SimSourceLink_8hpp.html" title="ActsExamples/EventData\l/SimSourceLink.hpp" alt="" coords="445,313,637,357"/>
+<area shape="rect" id="node46" href="$d0/dc2/ProtoTrackClassification_8hpp.html" title="ActsExamples/Validation\l/ProtoTrackClassification.hpp" alt="" coords="2950,313,3167,357"/>
+<area shape="rect" id="node49" href="$da/d1f/TrkrClusterSourceLink_8hpp.html" title="ActsExamples/EventData\l/TrkrClusterSourceLink.hpp" alt="" coords="3395,313,3599,357"/>
+</map>

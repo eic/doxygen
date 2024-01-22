@@ -1,0 +1,17 @@
+<map id="AnnularFieldSim::GetPhiIndexAndCheckBounds" name="AnnularFieldSim::GetPhiIndexAndCheckBounds">
+<area shape="rect" id="node2" href="$de/d64/classAnnularFieldSim.html#a93cf8cb06ee829f5890c6f45fbc100d2" title="AnnularFieldSim::add\l_testcharge" alt="" coords="304,5,471,49"/>
+<area shape="rect" id="node3" href="$de/d64/classAnnularFieldSim.html#a6c3d5fee508484e60454ab97ef63eea2" title="AnnularFieldSim::analytic\lFieldIntegral" alt="" coords="290,73,485,117"/>
+<area shape="rect" id="node4" href="$de/d64/classAnnularFieldSim.html#a9d8694f7b8d4d53ba2d2d0b0d088844c" title="AnnularFieldSim::fieldIntegral" alt="" coords="276,244,499,272"/>
+<area shape="rect" id="node5" href="$de/d64/classAnnularFieldSim.html#aaba67a669347f6693571910ffaca965f" title="AnnularFieldSim::GetStep\lDistortion" alt="" coords="547,199,743,243"/>
+<area shape="rect" id="node6" href="$de/d64/classAnnularFieldSim.html#a5868eb5808ec182e9299bee9be6f5b0f" title="AnnularFieldSim::swimToIn\lAnalyticSteps" alt="" coords="792,139,995,183"/>
+<area shape="rect" id="node8" href="$de/d64/classAnnularFieldSim.html#a005b9e2e1f8240557e47c19e9b76f6dd" title="AnnularFieldSim::GetTotal\lDistortion" alt="" coords="795,283,991,327"/>
+<area shape="rect" id="node14" href="$de/d64/classAnnularFieldSim.html#a55c0f0c1f184fabfc4c2b881848e0b18" title="AnnularFieldSim::GetBFieldAt" alt="" coords="277,372,498,400"/>
+<area shape="rect" id="node16" href="$de/d64/classAnnularFieldSim.html#a7e8b5fae7ced0297ad4b919850a23bf1" title="AnnularFieldSim::GetFieldAt" alt="" coords="281,448,493,476"/>
+<area shape="rect" id="node13" href="$d6/dc9/generate__distortion__map_8C.html#a4b0c04912e1ab88eacfe663ac49cd74f" title="TestSpotDistortion" alt="" coords="821,207,966,235"/>
+<area shape="rect" id="node7" href="$de/d64/classAnnularFieldSim.html#a648cbb510827b4a034ee3890be1cac1c" title="AnnularFieldSim::swimTo" alt="" coords="1295,180,1485,208"/>
+<area shape="rect" id="node9" href="$de/d64/classAnnularFieldSim.html#a53c9be7916f154aa611235bed094e700" title="AnnularFieldSim::swimToIn\lSteps" alt="" coords="1043,204,1246,248"/>
+<area shape="rect" id="node10" href="$de/d64/classAnnularFieldSim.html#afefe72cb32eb62dc9f14d9bc7509f48f" title="AnnularFieldSim::Generate\lSeparateDistortionMaps" alt="" coords="1043,280,1247,324"/>
+<area shape="rect" id="node12" href="$de/d64/classAnnularFieldSim.html#a69085e0758c28f66750ab848c3d35a8f" title="AnnularFieldSim::Generate\lDistortionMaps" alt="" coords="1043,348,1247,392"/>
+<area shape="rect" id="node11" href="$d6/dc9/generate__distortion__map_8C.html#abc5e906bddb9b228421f18d1aa24d743" title="generate_distortion_map" alt="" coords="1295,352,1485,380"/>
+<area shape="rect" id="node15" href="$de/d64/classAnnularFieldSim.html#aa885eab897ed9c092de883332f6960a1" title="AnnularFieldSim::PlotField\lSlices" alt="" coords="547,408,744,452"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="759,109,806,137"/>
+<area shape="rect" id="node3" href="$d5/de3/classe__starlightStandalone.html#a2c2a5197c1b9c2adfbe3d2f9eca3820e" title="reads configuration file and initializes startlight" alt="" coords="123,341,293,385"/>
+<area shape="rect" id="node25" href="$d9/df6/reportingUtils_8h.html#a494da1a21371e0c814e6ae2b494df387" title="printCompilerInfo" alt="" coords="139,1197,277,1225"/>
+<area shape="rect" id="node27" href="$d9/df6/reportingUtils_8h.html#a6e6d22a1dc67b74c254bb6af2b1ce0db" title="printSvnVersion" alt="" coords="144,1529,272,1557"/>
+<area shape="rect" id="node29" href="$d5/de3/classe__starlightStandalone.html#a5de581ae3de0a786baa1202e0b1fd767" title="creates output file and runs starlight" alt="" coords="108,1005,308,1033"/>
+<area shape="rect" id="node4" href="$d0/d94/classinputParameters.html#a1246872f8f4f9c96527e8ffa612eae1f" title="inputParameters::configure\lFromFile" alt="" coords="376,49,581,93"/>
+<area shape="rect" id="node7" href="$d0/d94/classinputParameters.html#a58b0e346b58ef1a26a228f5c5c298e55" title="inputParameters::init" alt="" coords="397,556,561,584"/>
+<area shape="rect" id="node18" href="$d0/d94/classinputParameters.html#aa885d2d2b46648ad1e9e88797e495268" title="inputParameters::baseFileName" alt="" coords="665,349,901,377"/>
+<area shape="rect" id="node19" href="$d0/d94/classinputParameters.html#a88f6a3b57e8356cd002f3f592e693369" title="returns total number of events to generate" alt="" coords="673,401,892,429"/>
+<area shape="rect" id="node20" href="$d9/da4/classe__starlight.html#a253ae2aeb2592fb40e5d6d1617d52df9" title="e_starlight::setInputParameters" alt="" coords="362,193,595,221"/>
+<area shape="rect" id="node21" href="$d9/da4/classe__starlight.html#a060d9c1b5de906b4ebbb6840aca87cbf" title="e_starlight::init" alt="" coords="417,297,541,325"/>
+<area shape="rect" id="node5" href="$dd/d86/classinputParser.html#a17035c8963703d187141bf7d21aca5fa" title="inputParser::parseFile" alt="" coords="699,57,866,85"/>
+<area shape="rect" id="node6" href="$dd/d86/classinputParser.html#a9c31e8ae429aecf31e6863323be39b50" title="inputParser::validateParameters" alt="" coords="663,5,902,33"/>
+<area shape="rect" id="node8" href="$d0/d94/classinputParameters.html#ab2a6df29606b51d6246f14da40108e44" title="returns Lorentz gamma factor of beam 1 in collider frame" alt="" coords="685,1005,881,1049"/>
+<area shape="rect" id="node9" href="$d5/d4e/classparameter.html#ad05f8343240b7ef936d426fb0ce4854a" title="parameter::value" alt="" coords="1017,824,1156,852"/>
+<area shape="rect" id="node10" href="$d0/d94/classinputParameters.html#aa624fe832c21dde00682fe3239310893" title="returns Lorentz gamma factor of beam 2 in collider frame" alt="" coords="672,1141,893,1185"/>
+<area shape="rect" id="node11" href="$d0/d94/classinputParameters.html#ae7da207f24c9301fea8e7a9923ade6c8" title="returns atomic mass number of beam particle 2" alt="" coords="667,745,899,773"/>
+<area shape="rect" id="node12" href="$d0/d94/classinputParameters.html#a72a83454bc0499de4ff4857ad6a613d2" title="returns maximum p_T for interference calculation [GeV/c]" alt="" coords="649,625,916,653"/>
+<area shape="rect" id="node13" href="$d0/d94/classinputParameters.html#afbd86e6ebe5766cdb0d039df8de970aa" title="returns number of p_T bins for interference calculation" alt="" coords="675,677,890,721"/>
+<area shape="rect" id="node14" href="$d0/d94/classinputParameters.html#abf466af215afbe73200576105e645b05" title="returns atomic number of beam particle 2" alt="" coords="667,901,898,929"/>
+<area shape="rect" id="node15" href="$d0/d94/classinputParameters.html#ae3286f42046ff3738e2bdff84fd62504" title="returns production mode" alt="" coords="657,797,908,825"/>
+<area shape="rect" id="node16" href="$d4/dad/eicroot_8C.html#a9392a90f93e785e9ed60558fddd33359" title="width" alt="" coords="753,521,812,549"/>
+<area shape="rect" id="node17" href="$d0/d94/classinputParameters.html#abc9b8f1ced9f07b15ba857d08a218304" title="returns PDG particle ID of produced particle" alt="" coords="665,849,900,877"/>
+<area shape="rect" id="node22" href="$d9/da4/classe__starlight.html#a31b69d707dbceecdb3b381b0c6b96e9b" title="e_starlight::luminosityTable\lIsValid" alt="" coords="679,281,886,325"/>
+<area shape="rect" id="node23" href="$d0/d94/classinputParameters.html#ab921b9604ccbc48e36280fa47ab0e559" title="returns interaction type" alt="" coords="964,200,1209,228"/>
+<area shape="rect" id="node24" href="$d9/da4/classe__starlight.html#aaff107b366e96a2b309f3c341171544e" title="e_starlight::createEvent\lChannel" alt="" coords="691,161,875,205"/>
+<area shape="rect" id="node26" href="$d9/df6/reportingUtils_8h.html#a59a0e789bf66741cd53a35e70749c659" title="compileDir" alt="" coords="431,1588,526,1616"/>
+<area shape="rect" id="node28" href="$d9/df6/reportingUtils_8h.html#a691789891fea7d812a2d63e9d8bacbe2" title="svnVersion" alt="" coords="431,1640,526,1668"/>
+<area shape="rect" id="node30" href="$d6/ddf/classeventFileWriter.html#a0031d3917af4f8b0856a194f5e997bc9" title="eventFileWriter::writeFull\lPythiaInfo" alt="" coords="385,676,573,720"/>
+<area shape="rect" id="node31" href="$d0/d94/classinputParameters.html#a8e20a0cb791ab6744921814c5eff58f5" title="returns if the full pythia event record should be printed" alt="" coords="679,1465,887,1509"/>
+<area shape="rect" id="node32" href="$d6/ddf/classeventFileWriter.html#a28c7346b068a64b7a035c53330bc1c9e" title="eventFileWriter::writeFull\lHepMC3Info" alt="" coords="385,744,573,788"/>
+<area shape="rect" id="node33" href="$d0/d94/classinputParameters.html#ad7013a1c335ea7ac293f744b5f3c96a6" title="returns if the full hepmc3 event record should be printed" alt="" coords="673,1272,893,1316"/>
+<area shape="rect" id="node34" href="$d4/dca/classfileWriter.html#aadaaafa55024cd9c7d0b093f88a15c75" title="fileWriter::open" alt="" coords="416,812,541,840"/>
+<area shape="rect" id="node35" href="$d6/ddf/classeventFileWriter.html#a203a618f084ddd4a860432f0e3322742" title="eventFileWriter::writeInit" alt="" coords="385,864,573,892"/>
+<area shape="rect" id="node38" href="$d0/d94/classinputParameters.html#a1e25e169dbe8909a301fb113688620f5" title="returns if the full lund event record should be printed" alt="" coords="685,453,880,497"/>
+<area shape="rect" id="node39" href="$d6/ddf/classeventFileWriter.html#a12d30518cc6e9a3c62882eede442f5bb" title="eventFileWriter::writeInitLUND" alt="" coords="367,1088,591,1116"/>
+<area shape="rect" id="node40" href="$d9/df6/reportingUtils_8h.html#a9ba48d90ae94e091c16609cba6127d3d" title="progressIndicator" alt="" coords="409,916,549,944"/>
+<area shape="rect" id="node41" href="$d9/da4/classe__starlight.html#a0fd59934c95e63e7af2e6b6294c587b6" title="e_starlight::produceEvent" alt="" coords="381,245,577,273"/>
+<area shape="rect" id="node42" href="$d5/de3/classe__starlightStandalone.html#a0f7fe0e86d94899d7c83415f2061434c" title="Boost event from beam CMS to lab system." alt="" coords="394,1140,563,1184"/>
+<area shape="rect" id="node43" href="$d5/de3/classe__starlightStandalone.html#acc43aee0395aeaf2a4dccd28f39f81bd" title="flip z to &#45;z for all output particles" alt="" coords="394,968,563,1012"/>
+<area shape="rect" id="node44" href="$d6/ddf/classeventFileWriter.html#ad84ca2c037a5724538e01d6fac753551" title="eventFileWriter::writeEvent" alt="" coords="376,1036,581,1064"/>
+<area shape="rect" id="node45" href="$d6/ddf/classeventFileWriter.html#a506d3a8aa41105f2a8d694c786719f5b" title="eventFileWriter::writeEventLUND" alt="" coords="358,1208,599,1236"/>
+<area shape="rect" id="node46" href="$d6/ddf/classeventFileWriter.html#a069d1281c9621ee16ae34ef1bd1a5044" title="eventFileWriter::close" alt="" coords="395,1260,562,1288"/>
+<area shape="rect" id="node47" href="$d9/da4/classe__starlight.html#a7eabaa11fde7bb14c8beff220119d110" title="e_starlight::nmbAttempts" alt="" coords="382,1312,575,1340"/>
+<area shape="rect" id="node48" href="$d0/d94/classinputParameters.html#a328d540befe430feb0687c5cf4a939f2" title="inputParameters::inputBranching\lRatio" alt="" coords="356,1364,601,1408"/>
+<area shape="rect" id="node49" href="$d9/da4/classe__starlight.html#ace6abf3615ecfe66605ee69cfef76261" title="e_starlight::nmbAccepted" alt="" coords="381,1484,576,1512"/>
+<area shape="rect" id="node50" href="$d9/da4/classe__starlight.html#a5cb08cbb15470ae3c6b1f30f75e62fb4" title="e_starlight::getTotalCross\lSection" alt="" coords="383,608,575,652"/>
+<area shape="rect" id="node36" href="$d0/d94/classinputParameters.html#afa9425bbdb86a0a8ea4160502514b4c7" title="returns the quantum glauber value" alt="" coords="681,1073,884,1117"/>
+<area shape="rect" id="node37" href="$d0/d94/classinputParameters.html#a720a87d6fcc0e609e32b3959245b19bb" title="returns the impulseVM value" alt="" coords="675,953,891,981"/>
+</map>

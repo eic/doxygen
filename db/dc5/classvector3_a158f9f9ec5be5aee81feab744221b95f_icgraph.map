@@ -1,0 +1,11 @@
+<map id="vector3::SetVector" name="vector3::SetVector">
+<area shape="rect" id="node2" href="$d5/d60/classlorentzVector.html#ac098c53c9035d63c3a4dd5eb562dbab1" title="lorentzVector::reflect" alt="" coords="207,16,370,44"/>
+<area shape="rect" id="node4" href="$d5/d60/classlorentzVector.html#afeb1dcb2b22d773620e996fd39a6334a" title="lorentzVector::SetXYZT" alt="" coords="200,69,377,97"/>
+<area shape="rect" id="node3" href="$d9/df0/classstarlightParticle.html#af7969cbbdfb6c441e7b78226a6490329" title="starlightParticle::\lreflect" alt="" coords="457,5,591,49"/>
+<area shape="rect" id="node5" href="$d5/d60/classlorentzVector.html#a6279dbb8641b48bce827658288f5ab16" title="lorentzVector::Boost" alt="" coords="445,125,603,153"/>
+<area shape="rect" id="node10" href="$d5/d60/classlorentzVector.html#a4ac10802841659cf2fe1041b2d8e4911" title="lorentzVector::SetPxPyPzE" alt="" coords="425,73,623,101"/>
+<area shape="rect" id="node6" href="$d8/df9/classnBodyPhaseSpaceGen.html#a072afaa8bbd25651356d7a09b702ae85" title="calculates full event kinematics from the effective masses of the (i + 1)&#45;body systems and the Lorent..." alt="" coords="675,65,849,109"/>
+<area shape="rect" id="node9" href="$d6/d3f/classstarlightPythia.html#a14729c3d2ba14a4fd8991b58ffa24dd0" title="starlightPythia::produce\lEvent" alt="" coords="671,133,853,177"/>
+<area shape="rect" id="node7" href="$d8/df9/classnBodyPhaseSpaceGen.html#ad40d545a890692e5b9ff09ae10728203" title="generates full event with certain n&#45;body mass and momentum and returns event weight" alt="" coords="913,32,1086,76"/>
+<area shape="rect" id="node8" href="$d8/df9/classnBodyPhaseSpaceGen.html#a093630768258cd3d19d21231ede68f65" title="generates full event with certain n&#45;body mass and momentum only when event is accepted (return value ..." alt="" coords="901,100,1097,144"/>
+</map>

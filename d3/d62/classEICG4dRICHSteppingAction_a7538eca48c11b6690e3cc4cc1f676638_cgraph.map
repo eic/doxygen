@@ -1,0 +1,33 @@
+<map id="EICG4dRICHSteppingAction::UserSteppingAction" name="EICG4dRICHSteppingAction::UserSteppingAction">
+<area shape="rect" id="node2" href="$d4/d30/classPHG4HitContainer.html#a4df3ca68ecff69c9d7976b84fcc82e93" title="PHG4HitContainer::AddHit" alt="" coords="262,5,461,33"/>
+<area shape="rect" id="node4" href="$d6/dae/classEICG4dRICHHit.html#a56a15e828dc91d424a5cc562b2046977" title="EICG4dRICHHit::get\l_hit_id" alt="" coords="284,57,439,101"/>
+<area shape="rect" id="node5" href="$d6/dae/classEICG4dRICHHit.html#ac3a245005b09aeee10e6dbd2ee63cd81" title="EICG4dRICHHit::get\l_trkid" alt="" coords="284,125,439,169"/>
+<area shape="rect" id="node6" href="$d6/dae/classEICG4dRICHHit.html#a244e490e57fa3fe8138f44d7c0c3a330" title="EICG4dRICHHit::get_x" alt="" coords="277,193,446,221"/>
+<area shape="rect" id="node7" href="$d4/d30/classPHG4HitContainer.html#a5073671e6d35969dc3d421e2278229af" title="PHG4HitContainer::GetID" alt="" coords="266,245,457,273"/>
+<area shape="rect" id="node8" href="$df/d3f/classPHG4SteppingAction.html#a88ff50956245a2b72d459bad2004e1ca" title="PHG4SteppingAction\l::GetName" alt="" coords="281,297,442,341"/>
+<area shape="rect" id="node9" href="$de/d16/classEICG4dRICHDetector.html#ad027f3527414546dd790bd44611361dc" title="EICG4dRICHDetector\l::GetPetal" alt="" coords="280,365,443,409"/>
+<area shape="rect" id="node10" href="$de/d16/classEICG4dRICHDetector.html#aa6fcee5b1f696fdbc463d65f9775a21b" title="EICG4dRICHDetector\l::GetPSST" alt="" coords="280,433,443,477"/>
+<area shape="rect" id="node11" href="$d2/df6/namespacePHG4StepStatusDecode.html#aeadff043ba4ca96f6011a5a8d7e803bf" title="PHG4StepStatusDecode\l::GetStepStatus" alt="" coords="269,501,453,545"/>
+<area shape="rect" id="node12" href="$d3/d62/classEICG4dRICHSteppingAction.html#acdf7e95e68b08ad9b2b19b51924f52a3" title="method to initialize a new hit, resetting some things, such" alt="" coords="259,673,464,717"/>
+<area shape="rect" id="node13" href="$d6/dae/classEICG4dRICHHit.html#a71d90628f653191cad5b0d71b31c0a23" title="EICG4dRICHHit::set\l_position" alt="" coords="518,613,671,657"/>
+<area shape="rect" id="node14" href="$d6/dae/classEICG4dRICHHit.html#af584174b6f497ea76a8ccab6046db198" title="EICG4dRICHHit::set_t" alt="" coords="512,681,677,709"/>
+<area shape="rect" id="node15" href="$d6/dae/classEICG4dRICHHit.html#a2f3f877a8bfccdde32b605f46d9da9fc" title="EICG4dRICHHit::set\l_trkid" alt="" coords="518,759,671,803"/>
+<area shape="rect" id="node16" href="$de/d16/classEICG4dRICHDetector.html#a8db8cd7a4e1859bd3ce596d1ef761d38" title="EICG4dRICHDetector\l::IsInDetector" alt="" coords="280,844,443,888"/>
+<area shape="rect" id="node17" href="$d6/dae/classEICG4dRICHHit.html#ab76057a88b3af9861adc5ac7cdced3fe" title="Clear Event." alt="" coords="276,621,447,649"/>
+<area shape="rect" id="node18" href="$d6/dae/classEICG4dRICHHit.html#a3e5dc6346c2e572f64331c5288ecaf11" title="EICG4dRICHHit::set_edep" alt="" coords="265,912,458,940"/>
+<area shape="rect" id="node19" href="$d3/d9e/classPHG4Hit.html#aa452d82dfd4d441ee3e288afe1fcdb33" title="PHG4Hit::set_eion" alt="" coords="290,964,433,992"/>
+<area shape="rect" id="node20" href="$d6/dae/classEICG4dRICHHit.html#ac480de9686517b779cce17885dbef1b1" title="EICG4dRICHHit::set\l_hit_subtype_name" alt="" coords="285,1016,438,1060"/>
+<area shape="rect" id="node21" href="$d6/dae/classEICG4dRICHHit.html#a2e444ad385b1aa5ad94bddf7a8fddb71" title="EICG4dRICHHit::set\l_hit_type_name" alt="" coords="285,1084,438,1128"/>
+<area shape="rect" id="node22" href="$d6/dae/classEICG4dRICHHit.html#afb37994b28971dfd7ba125f4313f3eae" title="EICG4dRICHHit::set\l_momentum" alt="" coords="285,1152,438,1196"/>
+<area shape="rect" id="node23" href="$d6/dae/classEICG4dRICHHit.html#aef64563f178fe4dc244399ecd7ca67db" title="EICG4dRICHHit::set\l_momentum_dir" alt="" coords="285,1220,438,1264"/>
+<area shape="rect" id="node24" href="$d6/dae/classEICG4dRICHHit.html#af7588e6b6a8f0320c7365351369c0cc0" title="EICG4dRICHHit::set\l_parent_id" alt="" coords="285,1288,438,1332"/>
+<area shape="rect" id="node25" href="$d6/dae/classEICG4dRICHHit.html#a057a29227ea5a2ea58e4a6dd68644134" title="EICG4dRICHHit::set\l_particle_name" alt="" coords="285,1356,438,1400"/>
+<area shape="rect" id="node26" href="$d6/dae/classEICG4dRICHHit.html#a75bf871f3852cd840f71c96482871c95" title="EICG4dRICHHit::set_pdg" alt="" coords="269,1424,453,1452"/>
+<area shape="rect" id="node27" href="$d6/dae/classEICG4dRICHHit.html#a4654454d58d72f837e9c8afabedc0a0a" title="EICG4dRICHHit::set\l_petal" alt="" coords="285,1476,438,1520"/>
+<area shape="rect" id="node28" href="$d6/dae/classEICG4dRICHHit.html#aae4dcd92d17ac896682fd36ce5c83a84" title="EICG4dRICHHit::set\l_process" alt="" coords="285,1544,438,1588"/>
+<area shape="rect" id="node29" href="$d6/dae/classEICG4dRICHHit.html#abde7bcf571ffa61727a9f72a547c7579" title="EICG4dRICHHit::set_psst" alt="" coords="267,1612,455,1640"/>
+<area shape="rect" id="node30" href="$d6/dae/classEICG4dRICHHit.html#aaafab550ca6f8d720f4bb9c466c96290" title="EICG4dRICHHit::set\l_vertex_momentum_dir" alt="" coords="270,1664,453,1708"/>
+<area shape="rect" id="node31" href="$d6/dae/classEICG4dRICHHit.html#a48975dc22e5bf6717c470c9ea84397a3" title="EICG4dRICHHit::set\l_vertex_position" alt="" coords="285,1732,438,1776"/>
+<area shape="rect" id="node32" href="$df/d3f/classPHG4SteppingAction.html#a4f46d6b68b124cd32518b631465359dc" title="PHG4SteppingAction\l::Verbosity" alt="" coords="281,1800,442,1844"/>
+<area shape="rect" id="node3" href="$d3/d9e/classPHG4Hit.html#acea6b2f3763d899e4de3765b9b5c6e51" title="PHG4Hit::get_hit_id" alt="" coords="519,5,671,33"/>
+</map>

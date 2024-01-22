@@ -1,0 +1,19 @@
+<map id="EICG4B0ECALSubsystem" name="EICG4B0ECALSubsystem">
+<area shape="rect" id="node2" href="$d5/d29/classPHG4DetectorSubsystem.html" title="PHG4DetectorSubsystem" alt="" coords="2217,493,2409,521"/>
+<area shape="rect" id="node3" href="$db/df7/classPHG4Subsystem.html" title="PHG4Subsystem" alt="" coords="1405,847,1539,875"/>
+<area shape="rect" id="node22" href="$d3/de7/classPHG4Detector.html" title="base class for phenix detector creation" alt="" coords="1825,893,1942,921"/>
+<area shape="rect" id="node4" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="978,846,1079,874"/>
+<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="572,817,676,845"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="253,521,342,549"/>
+<area shape="rect" id="node10" href="$dd/dae/classPHParameters.html" title="PHParameters" alt="" coords="971,489,1087,517"/>
+<area shape="rect" id="node14" href="$d7/d6b/classPHParametersContainer.html" title="PHParametersContainer" alt="" coords="1792,318,1975,346"/>
+<area shape="rect" id="node17" href="$dc/d82/classPHNode.html" title="PHNode" alt="" coords="587,742,661,770"/>
+<area shape="rect" id="node19" href="$df/d3f/classPHG4SteppingAction.html" title="PHG4SteppingAction" alt="" coords="948,85,1109,113"/>
+<area shape="rect" id="node21" href="$dd/d10/classEICG4B0ECALDetector.html" title="EICG4B0ECALDetector" alt="" coords="2227,926,2400,954"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="5,513,148,557"/>
+<area shape="rect" id="node11" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="582,259,666,287"/>
+<area shape="rect" id="node12" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="259,75,335,103"/>
+<area shape="rect" id="node16" href="$d5/dca/classPHCompositeNode.html" title="PHCompositeNode" alt="" coords="1399,755,1545,783"/>
+<area shape="rect" id="node18" href="$d6/d86/classPHPointerList.html" title="PHPointerList\&lt; PHNode \&gt;" alt="" coords="932,794,1125,822"/>
+<area shape="rect" id="node26" href="$df/d9c/structPHG4ForwardEcalDetector_1_1towerposition.html" title="PHG4ForwardEcalDetector\l::towerposition" alt="" coords="197,983,397,1027"/>
+</map>

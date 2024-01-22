@@ -1,0 +1,13 @@
+<map id="eASTUserActionDispatcher::eASTUserActionDispatcher" name="eASTUserActionDispatcher::eASTUserActionDispatcher">
+<area shape="rect" id="node2" href="$d3/daa/classeASTUserActionDispatcher.html#a00ddfafb230b1dd593427a941dd38a3f" title="eASTUserActionDispatcher\l::Instance" alt="" coords="265,300,468,344"/>
+<area shape="rect" id="node3" href="$d6/d91/classeASTVDetectorComponent.html#a69a7935074d7493b4dc29dbdc1ed4153" title="eASTVDetectorComponent\l::eASTVDetectorComponent" alt="" coords="531,5,743,49"/>
+<area shape="rect" id="node4" href="$da/d47/classeASTEventAction.html#ad5a0a6ede87ab1a5b5a3310627d849f3" title="eASTEventAction::BeginOf\lEventAction" alt="" coords="537,73,738,117"/>
+<area shape="rect" id="node5" href="$da/d47/classeASTEventAction.html#aae6abe59d92816f6fb7838301801d970" title="eASTEventAction::EndOfEvent\lAction" alt="" coords="524,141,751,185"/>
+<area shape="rect" id="node6" href="$dc/de9/classeASTRunAction.html#a3952bf83035f6bd060d33d9196d44cbf" title="eASTRunAction::BeginOfRun\lAction" alt="" coords="531,209,743,253"/>
+<area shape="rect" id="node7" href="$dc/de9/classeASTRunAction.html#a2010eea54341881622bb18a564025a87" title="eASTRunAction::EndOfRunAction" alt="" coords="516,277,759,305"/>
+<area shape="rect" id="node8" href="$d3/dae/classeASTStackingAction.html#a3636a78a4abeaf1207933a9bdd8d27bb" title="eASTStackingAction\l::ClassifyNewTrack" alt="" coords="559,329,715,373"/>
+<area shape="rect" id="node9" href="$d3/dae/classeASTStackingAction.html#a739ce533ef82901147977bdc9c3432fe" title="eASTStackingAction\l::NewStage" alt="" coords="559,397,715,441"/>
+<area shape="rect" id="node10" href="$d3/dae/classeASTStackingAction.html#a76f60b544567d6d001ed685bce918fb7" title="eASTStackingAction\l::PrepareNewEvent" alt="" coords="559,465,715,509"/>
+<area shape="rect" id="node11" href="$d9/d49/classeASTTrackingAction.html#a0a68075d7140e2dfc20aad9ed0adb672" title="eASTTrackingAction\l::PreUserTrackingAction" alt="" coords="547,533,727,577"/>
+<area shape="rect" id="node12" href="$d9/d49/classeASTTrackingAction.html#a53ebd3c9a9876194044c7d94db1d7eae" title="eASTTrackingAction\l::PostUserTrackingAction" alt="" coords="544,601,731,645"/>
+</map>

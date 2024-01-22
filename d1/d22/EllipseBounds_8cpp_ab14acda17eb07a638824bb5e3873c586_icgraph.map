@@ -1,0 +1,51 @@
+<map id="square" name="square">
+<area shape="rect" id="node2" href="$d3/d27/classTpcSpaceChargeReconstruction.html#a8b9adad3c29d626723c5913cab09b6d0" title="returns true if track fulfills basic requirement for distortion calculations" alt="" coords="127,621,364,665"/>
+<area shape="rect" id="node5" href="$de/dfe/classALICEKF.html#a0ee894800941b7537fb5534dbd6727ad" title="ALICEKF::ALICEKalmanFilter" alt="" coords="141,73,350,101"/>
+<area shape="rect" id="node6" href="$d5/d55/classPHTpcResiduals.html#a82738e0e33ceac01cb77581d9dfc10ec" title="PHTpcResiduals::calculate\lTpcResiduals" alt="" coords="146,5,345,49"/>
+<area shape="rect" id="node10" href="$d5/d86/classInttClusterizer.html#aa896d5f1adf8ac34a5ae766fd4d557bc" title="InttClusterizer::Cluster\lLadderCells" alt="" coords="159,125,332,169"/>
+<area shape="rect" id="node12" href="$dc/d12/classMvtxClusterizer.html#a1aa96e33d67d25815d5b5812566cc5b7" title="MvtxClusterizer::ClusterMvtx" alt="" coords="137,193,353,221"/>
+<area shape="rect" id="node14" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#aadba00c7c59985c911340622722ced8a" title="second phi extrapolation" alt="" coords="127,313,364,357"/>
+<area shape="rect" id="node16" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#acaa4e69fe0e04a708011f342077ddf44" title="z extrapolation" alt="" coords="127,245,364,289"/>
+<area shape="rect" id="node17" href="$d4/df1/classTpcDistortionCorrection.html#a036dd0d66083d8da0ae654b9218fcb57" title="get cluster corrected 3D position using given DistortionCorrectionObject" alt="" coords="154,381,337,425"/>
+<area shape="rect" id="node24" href="$d9/d69/classPHSimpleKFProp.html#a2711b0996b669810a44b445881096f68" title="PHSimpleKFProp::Propagate\lTrack" alt="" coords="434,548,643,592"/>
+<area shape="rect" id="node28" href="$d0/d6b/classSvtxTrackState__v1.html#abbc4f1b674d1a0feb30db408a589922e" title="phi error" alt="" coords="462,616,615,660"/>
+<area shape="rect" id="node29" href="$d0/d6b/classSvtxTrackState__v1.html#ac9e57211cb74d4c51ef3eb461003ca99" title="rphi error" alt="" coords="169,501,322,545"/>
+<area shape="rect" id="node30" href="$de/dfe/classALICEKF.html#aca256548f7a6340fae5ad862625a597e" title="ALICEKF::GetCircleCluster\lResiduals" alt="" coords="147,689,343,733"/>
+<area shape="rect" id="node31" href="$de/dfe/classALICEKF.html#abe3945b175903565751fe9bf628c7beb" title="ALICEKF::GetLineClusterResiduals" alt="" coords="120,757,371,785"/>
+<area shape="rect" id="node32" href="$dc/d79/classTrkrClusterv1.html#a5310bc09f06f85bc6c299ed6ecbcdfda" title="TrkrClusterv1::getPhiError" alt="" coords="147,809,344,837"/>
+<area shape="rect" id="node33" href="$d0/d73/classTrkrClusterv2.html#a5f5a5dbe6f80f676c745958a7082993d" title="TrkrClusterv2::getPhiError" alt="" coords="147,861,344,889"/>
+<area shape="rect" id="node34" href="$d8/d7e/classActs_1_1EllipseBounds.html#a8bbe189fcb0d060f44e10a0375aa3c77" title="Acts::EllipseBounds\l::inside" alt="" coords="168,1033,323,1077"/>
+<area shape="rect" id="node36" href="$de/dfe/classALICEKF.html#a49db1b1344948e995e07f1c6230a2868" title="ALICEKF::line_fit" alt="" coords="179,981,311,1009"/>
+<area shape="rect" id="node37" href="$de/d25/classPHGenFitTrkFitter.html#a99d09d612858e8b8d146c26bb764e62a" title="Make SvtxTrack from PHGenFit::Track and SvtxTrack." alt="" coords="173,1305,318,1349"/>
+<area shape="rect" id="node39" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a7b580905412912ba96c9114aba69219e" title="PHG4TpcPadPlaneReadout\l::populate_zigzag_phibins" alt="" coords="145,1101,346,1145"/>
+<area shape="rect" id="node41" href="$d1/dbc/classMicromegasClusterizer.html#ac19bbb046a5690d0612157dae3cebda4" title="event processing" alt="" coords="157,1169,333,1213"/>
+<area shape="rect" id="node42" href="$d7/ddb/classPHG4TpcElectronDrift.html#aeea2d1046042fabf274bc85a6221955f" title="PHG4TpcElectronDrift\l::process_event" alt="" coords="161,1237,329,1281"/>
+<area shape="rect" id="node43" href="$de/d60/classPHTpcDeltaZCorrection.html#a1012d1ee66d5ac581f0869f73e96e600" title="process track" alt="" coords="156,1441,335,1485"/>
+<area shape="rect" id="node46" href="$d4/de6/classTpcDirectLaserReconstruction.html#a169967f18f0b50549d769984a4bcd4e9" title="process track" alt="" coords="133,1509,357,1553"/>
+<area shape="rect" id="node49" href="$d3/d27/classTpcSpaceChargeReconstruction.html#ad95026b08f73d009107d53576d1d729b" title="process track" alt="" coords="127,913,364,957"/>
+<area shape="rect" id="node50" href="$de/d25/classPHGenFitTrkFitter.html#af07c5ea2636426357d02b5b697376db2" title="PHGenFitTrkFitter::\lReFitTrack" alt="" coords="173,1373,318,1417"/>
+<area shape="rect" id="node3" href="$d3/d27/classTpcSpaceChargeReconstruction.html#aa411bedddfec511d0943438e271a2234" title="process tracks" alt="" coords="420,809,657,853"/>
+<area shape="rect" id="node4" href="$d3/d27/classTpcSpaceChargeReconstruction.html#ab330b344a3001b0f26e639ee69de07f1" title="event processing" alt="" coords="712,809,949,853"/>
+<area shape="rect" id="node7" href="$d5/d55/classPHTpcResiduals.html#abe1d80fe32c832f457a28c43e8c2d883" title="PHTpcResiduals::processTrack" alt="" coords="426,13,651,41"/>
+<area shape="rect" id="node8" href="$d5/d55/classPHTpcResiduals.html#ac8936c9d7cf8808255c355520b304e95" title="PHTpcResiduals::processTracks" alt="" coords="715,13,947,41"/>
+<area shape="rect" id="node9" href="$d5/d55/classPHTpcResiduals.html#afb9145abb0d5d579afed2c31f700989a" title="PHTpcResiduals::process\l_event" alt="" coords="1005,5,1194,49"/>
+<area shape="rect" id="node11" href="$d5/d86/classInttClusterizer.html#a12f21f7ac9373c592f8ba3e7287f6c8a" title="event processing" alt="" coords="450,88,627,132"/>
+<area shape="rect" id="node13" href="$dc/d12/classMvtxClusterizer.html#a65c6ecb960ca545df424342dbe6de5b8" title="event processing" alt="" coords="445,156,632,200"/>
+<area shape="rect" id="node15" href="$d9/dd3/classTpcSpaceChargeMatrixInversion.html#a965515b08e702a284d7b52e240cca01f" title="calculate distortions by inverting stored matrices, and save relevant histograms" alt="" coords="419,224,659,268"/>
+<area shape="rect" id="node18" href="$d1/d08/classPHCASeeding.html#a0c13a356c9a42399c021153a380a9b53" title="get global position for a given cluster" alt="" coords="419,292,659,320"/>
+<area shape="rect" id="node21" href="$d9/d69/classPHSimpleKFProp.html#a89bafdaf63d5f654f7163afde737e88f" title="get global position for a given cluster" alt="" coords="435,344,642,388"/>
+<area shape="rect" id="node25" href="$d5/d78/classPHTpcClusterMover.html#a7c36fbf3ee710fdb11069cfbaf71c3c6" title="PHTpcClusterMover::\lprocess_event" alt="" coords="458,412,619,456"/>
+<area shape="rect" id="node26" href="$d2/dcf/classPHTpcTrackSeedCircleFit.html#a406254d896a9ba1481a904e55db1d974" title="PHTpcTrackSeedCircleFit\l::getGlobalPosition" alt="" coords="445,480,632,524"/>
+<area shape="rect" id="node19" href="$d1/d08/classPHCASeeding.html#a95aa83f09d0cee621417fcf6cb9ec911" title="PHCASeeding::FillTree" alt="" coords="747,292,915,320"/>
+<area shape="rect" id="node20" href="$d1/d08/classPHCASeeding.html#a31cb3d8b18901613fe0078877985798f" title="PHCASeeding::Process" alt="" coords="1013,292,1186,320"/>
+<area shape="rect" id="node22" href="$d9/d69/classPHSimpleKFProp.html#a822b69db487ae2ed9d114627af5b3bb1" title="PHSimpleKFProp::PrepareKDTrees" alt="" coords="707,389,955,417"/>
+<area shape="rect" id="node23" href="$d9/d69/classPHSimpleKFProp.html#a0e11d66809451e62d6001f3aa4cf392e" title="PHSimpleKFProp::process\l_event" alt="" coords="1003,463,1196,507"/>
+<area shape="rect" id="node27" href="$d2/dcf/classPHTpcTrackSeedCircleFit.html#aaaf8be58cf5bef2c899d0f3d4b84b4bc" title="PHTpcTrackSeedCircleFit\l::process_event" alt="" coords="737,480,924,524"/>
+<area shape="rect" id="node35" href="$dd/d7e/namespaceActs_1_1Test.html#ad3909a5e8f0b7f79720ca3189cb93f61" title="Unit tests for EllipseBounds properties." alt="" coords="445,1033,633,1077"/>
+<area shape="rect" id="node38" href="$de/d25/classPHGenFitTrkFitter.html#afcdaabc6fd73922bb522d7fa7ef3a775" title="Process Event, called for each event." alt="" coords="466,1339,611,1383"/>
+<area shape="rect" id="node40" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a1d14f93bb482ced5b499dbb5735425bb" title="PHG4TpcPadPlaneReadout\l::MapToPadPlane" alt="" coords="438,1101,639,1145"/>
+<area shape="rect" id="node44" href="$de/d60/classPHTpcDeltaZCorrection.html#a34e49241adb8b914c0bba5f75b01f0cb" title="process tracks" alt="" coords="449,1441,628,1485"/>
+<area shape="rect" id="node45" href="$de/d60/classPHTpcDeltaZCorrection.html#a1186a8f96f10eff119da42f3c4fbcc23" title="PHTpcDeltaZCorrection\l::process_event" alt="" coords="741,1441,920,1485"/>
+<area shape="rect" id="node47" href="$d4/de6/classTpcDirectLaserReconstruction.html#af5b0d71fa568d200da7955de5b6d97fc" title="process tracks" alt="" coords="427,1509,651,1553"/>
+<area shape="rect" id="node48" href="$d4/de6/classTpcDirectLaserReconstruction.html#affd9f60b911a988a7e7bbc6cfc2bce1a" title="event processing" alt="" coords="719,1509,943,1553"/>
+</map>

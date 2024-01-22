@@ -1,0 +1,11 @@
+<map id="Barrel" name="Barrel">
+<area shape="rect" id="node2" href="$d8/d04/G4__Barrel__EIC_8C.html#a5aa725398c1d5d3254e7330d052acaa5" title="make_barrel_pixel_layer" alt="" coords="115,236,300,264"/>
+<area shape="rect" id="node3" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a25e5972d8c166894349fce19418777cb" title="Unit." alt="" coords="382,5,541,49"/>
+<area shape="rect" id="node4" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="423,73,500,101"/>
+<area shape="rect" id="node5" href="$d5/d29/classPHG4DetectorSubsystem.html#aa0c11d415a70a207a3ea851b28932dfd" title="PHG4DetectorSubsystem\l::SuperDetector" alt="" coords="365,125,557,169"/>
+<area shape="rect" id="node6" href="$d5/d29/classPHG4DetectorSubsystem.html#a48e75fd1738dab9d0d66b174053ead8f" title="PHG4DetectorSubsystem\l::set_double_param" alt="" coords="365,193,557,237"/>
+<area shape="rect" id="node7" href="$d5/d29/classPHG4DetectorSubsystem.html#a82c122f8a80f34dc4ffba6675ce60c75" title="PHG4DetectorSubsystem\l::set_string_param" alt="" coords="365,261,557,305"/>
+<area shape="rect" id="node8" href="$d5/d29/classPHG4DetectorSubsystem.html#a06d7265cdb191528ced9e78e73ba0f0a" title="PHG4DetectorSubsystem\l::SetActive" alt="" coords="365,329,557,373"/>
+<area shape="rect" id="node9" href="$d5/d29/classPHG4DetectorSubsystem.html#a5a52f44370d90e92bfb3ed0abf6dbb76" title="PHG4DetectorSubsystem\l::OverlapCheck" alt="" coords="365,397,557,441"/>
+<area shape="rect" id="node10" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="348,465,575,493"/>
+</map>

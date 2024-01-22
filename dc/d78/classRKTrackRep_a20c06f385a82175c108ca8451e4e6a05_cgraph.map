@@ -1,0 +1,40 @@
+<map id="RKTrackRep::extrapolate" name="RKTrackRep::extrapolate">
+<area shape="rect" id="node2" href="$dc/d78/classRKTrackRep.html#a05042330150601b79ce5b66f2dfe46c8" title="Handles propagation and material effects." alt="" coords="249,617,403,645"/>
+<area shape="rect" id="node32" href="$dc/d78/classRKTrackRep.html#a6e781281ca7dc4c50eb26e124cbbfa6e" title="RKTrackRep::getState5" alt="" coords="476,1033,651,1061"/>
+<area shape="rect" id="node35" href="$dc/d78/classRKTrackRep.html#af9745c80722803dc42868d3b0ead8bd1" title="RKTrackRep::getState7" alt="" coords="239,1136,413,1164"/>
+<area shape="rect" id="node36" href="$dc/d78/classRKTrackRep.html#a6f682286a2080935090564d7a6a31392" title="RKTrackRep::transformM7P" alt="" coords="462,981,665,1009"/>
+<area shape="rect" id="node38" href="$dc/d78/classRKTrackRep.html#abf0d7d42a17aaf69cf56a4ee8414ed10" title="RKTrackRep::transformPM7" alt="" coords="462,1111,665,1139"/>
+<area shape="rect" id="node3" href="$d0/d4b/classGFDetPlane.html#ac4b275ac2bb4869d0f0628088f36dcd5" title="GFDetPlane::distance" alt="" coords="736,487,903,515"/>
+<area shape="rect" id="node4" href="$d0/d7d/classGFMaterialEffects.html#a699769215fbd470c886683a9adbb15c2" title="Calculates energy loss in the travelled path, optional calculation of noise matrix." alt="" coords="988,261,1136,305"/>
+<area shape="rect" id="node16" href="$d0/d7d/classGFMaterialEffects.html#a44a25eae0203e5ba605b9390454b0e02" title="GFMaterialEffects::\lgetInstance" alt="" coords="988,497,1136,541"/>
+<area shape="rect" id="node18" href="$d0/d4b/classGFDetPlane.html#a495c4fd7b1e7a33e1b079b499617f633" title="intersect in the active area? C.f. GFAbsFinitePlane" alt="" coords="981,565,1143,593"/>
+<area shape="rect" id="node22" href="$d0/df4/namespaceRKTools.html#a96fcb01263f5475f2395ae9b6d5ce1cd" title="RKTools::J_MMTxcov7xJ_MM" alt="" coords="461,695,665,723"/>
+<area shape="rect" id="node23" href="$dc/d78/classRKTrackRep.html#ac12f7560f92785301a6b1f6fdc3f1ae8" title="Propagates the particle through the magnetic field." alt="" coords="487,643,639,671"/>
+<area shape="rect" id="node26" href="$df/d55/classGFException.html#a886ef3de22cdff9ceee36449be8643c2" title="set fatal flag. if this is true, the fit stops for this current track repr." alt="" coords="736,799,903,827"/>
+<area shape="rect" id="node5" href="$d0/d7d/classGFMaterialEffects.html#af5704340e8a8a7a53d92662591f86f8a" title="Returns energy loss." alt="" coords="1206,397,1381,441"/>
+<area shape="rect" id="node6" href="$d0/d7d/classGFMaterialEffects.html#a8694ead08e533ca11c80575368e8a42b" title="Returns energy loss." alt="" coords="1219,465,1367,509"/>
+<area shape="rect" id="node7" href="$d0/d7d/classGFMaterialEffects.html#a7950699428f1820b63b811bbfeab517f" title="sets fmatDensity, fmatZ, fmatA, fradiationLength, fmEE;" alt="" coords="1206,329,1381,373"/>
+<area shape="rect" id="node9" href="$d0/d7d/classGFMaterialEffects.html#a217616b14c8610e42ef48b5031676483" title="sets fcharge, fmass and calculates fbeta, fgamma, fgammasquare;" alt="" coords="1208,261,1379,305"/>
+<area shape="rect" id="node10" href="$d0/d7d/classGFMaterialEffects.html#ae7d4feefc05ebd0a61683fe8bb2a92f8" title="calculation of energy loss straggeling" alt="" coords="1219,73,1367,117"/>
+<area shape="rect" id="node12" href="$d0/d7d/classGFMaterialEffects.html#a9c66cb292efa09c386c40f36bfa055fe" title="calculation of energy loss straggeling" alt="" coords="1219,193,1367,237"/>
+<area shape="rect" id="node13" href="$d0/d7d/classGFMaterialEffects.html#ad5890239a77275f6001503dd86595b96" title="calculation of multiple scattering" alt="" coords="1219,5,1367,49"/>
+<area shape="rect" id="node15" href="$dd/d7e/namespaceActs_1_1Test.html#a2ece2a4f7e271a41a607a812dafc8962" title="Acts::Test::step" alt="" coords="1231,141,1356,169"/>
+<area shape="rect" id="node8" href="$d2/d1d/GFMaterialEffects_8cxx.html#ace10d16e9b96a185e23ee046a18e3a28" title="MeanExcEnergy_get" alt="" coords="1447,337,1605,365"/>
+<area shape="rect" id="node11" href="$db/d5d/test__style_8C.html#a2513fe0eb0478642e44ad1201af61a46" title="f2" alt="" coords="1507,81,1545,109"/>
+<area shape="rect" id="node14" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="1504,13,1548,41"/>
+<area shape="rect" id="node17" href="$d0/d7d/classGFMaterialEffects.html#a0e398635b2241e167128670010d6452b" title="GFMaterialEffects::\lGFMaterialEffects" alt="" coords="1219,533,1367,577"/>
+<area shape="rect" id="node19" href="$d0/d4b/classGFDetPlane.html#a580408bb7e2e1280a55384815510326e" title="gives u,v coordinates of the intersection point of a straight line with plane" alt="" coords="1199,601,1388,645"/>
+<area shape="rect" id="node20" href="$d0/d4b/classGFDetPlane.html#a3a7f63a8a4f819531fc9722747113405" title="GFDetPlane::getNormal" alt="" coords="1436,799,1616,827"/>
+<area shape="rect" id="node21" href="$d0/d4b/classGFDetPlane.html#aaf5ac9b6f1be6bf351f7ebb4a4ae7c4e" title="projecting a direction onto the plane:" alt="" coords="1447,609,1605,637"/>
+<area shape="rect" id="node24" href="$d0/d4b/classGFDetPlane.html#a8c41443493115e95bfef8426178f7bc2" title="GFDetPlane::Print" alt="" coords="749,643,890,671"/>
+<area shape="rect" id="node27" href="$d0/d4b/classGFDetPlane.html#a24a6a6ccc14b2322d177c49281c26498" title="GFDetPlane::getO" alt="" coords="749,955,890,983"/>
+<area shape="rect" id="node28" href="$df/dfb/classGFFieldManager.html#a49084dd1f5414ce1529e98cdca5e60ec" title="GFFieldManager::getFieldVal" alt="" coords="713,695,925,723"/>
+<area shape="rect" id="node30" href="$dc/d78/classRKTrackRep.html#a261d31749942ae54cf27dafc54f4d87b" title="RKTrackRep::estimateStep" alt="" coords="720,539,919,567"/>
+<area shape="rect" id="node25" href="$d5/d62/classGFAbsFinitePlane.html#ac3f9a857b3b7b9c7f1cef2e6828b9922" title="GFAbsFinitePlane::Print" alt="" coords="973,617,1151,645"/>
+<area shape="rect" id="node29" href="$dc/d73/classGFAbsBField.html#a2b78347d18180d0cd8172f2512a0af4f" title="override this is you concrete implementation" alt="" coords="994,721,1130,749"/>
+<area shape="rect" id="node31" href="$d0/d7d/classGFMaterialEffects.html#a8599def2e59a062e09520f58d3903ef1" title="Returns maximum length so that a specified momentum loss will not be exceeded." alt="" coords="988,397,1136,441"/>
+<area shape="rect" id="node33" href="$d0/d4b/classGFDetPlane.html#a5283e6fcac2d8a4297f1e2c5f9ed4ae0" title="GFDetPlane::getU" alt="" coords="749,1007,890,1035"/>
+<area shape="rect" id="node34" href="$d0/d4b/classGFDetPlane.html#a494cfed84e07ae5ecfc67904503172c4" title="GFDetPlane::getV" alt="" coords="749,1111,890,1139"/>
+<area shape="rect" id="node37" href="$d0/df4/namespaceRKTools.html#a1f17fee867c52a3ce02e7e6bb71d7cb3" title="RKTools::J_MpTxcov7xJ_Mp" alt="" coords="720,903,919,931"/>
+<area shape="rect" id="node39" href="$d0/df4/namespaceRKTools.html#a221928a0b511063f15c44623e927dd39" title="RKTools::J_pMTxcov5xJ_pM" alt="" coords="720,1215,919,1243"/>
+</map>

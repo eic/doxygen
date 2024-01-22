@@ -1,0 +1,51 @@
+<map id="PHG4Reco::InitRun" name="PHG4Reco::InitRun">
+<area shape="rect" id="node2" href="$d0/ddf/classPHG4PhenixTrackingAction.html#a300a79aafe903fda71e3683cc873f1a8" title="register an action. This is called in PHG4Reco::Init based on which actions are found on the tree..." alt="" coords="235,5,437,49"/>
+<area shape="rect" id="node3" href="$d1/d53/classPHG4PhenixSteppingAction.html#afead1d30da1e7c68616987bdf711a25b" title="register an action. This is called in PHG4Reco::Init based on which actions are found on the tree..." alt="" coords="233,73,439,117"/>
+<area shape="rect" id="node4" href="$d9/dce/classPHG4PhenixStackingAction.html#a33d5135ee656a303fb98ab3849bc6a9b" title="register an action. This is called in PHG4Reco::Init based on which actions are found on the tree..." alt="" coords="234,141,438,185"/>
+<area shape="rect" id="node5" href="$d9/d7a/classPHG4PhenixEventAction.html#a715e0072dfcc8b3cf9434e77ee0858f6" title="register an action. This is called in PHG4Reco::Init based on which actions are found on the tree..." alt="" coords="243,209,429,253"/>
+<area shape="rect" id="node6" href="$d1/d13/classPHG4PhenixDetector.html#a2e9d45f2c881b6c9ced3b3031333f1b6" title="register a detector. This is called in PHG4Reco::Init based on which detectors are found on the tree..." alt="" coords="255,277,417,321"/>
+<area shape="rect" id="node7" href="$d0/d78/classPHG4Reco.html#a490f5037508d384c5b60855ef0f7e227" title="PHG4Reco::Dump_GDML" alt="" coords="242,345,430,373"/>
+<area shape="rect" id="node20" href="$d2/da1/classPHGeomUtility.html#a3130e3b42131e3f048aa7586829192c5" title="PHGeomUtility::GenerateGeometry\lFileName" alt="" coords="207,552,465,596"/>
+<area shape="rect" id="node21" href="$d2/da1/classPHGeomUtility.html#a4a80252bedb22198d011065e41aa669e" title="TGeo ROOT/GDML/Macro file &#45;&gt; DST node with automatic file type discrimination based on file names..." alt="" coords="219,620,453,648"/>
+<area shape="rect" id="node27" href="$d0/d78/classPHG4Reco.html#a66fc50f0871fbaf83b21edfa8ae98259" title="PHG4Reco::InitField" alt="" coords="259,397,413,425"/>
+<area shape="rect" id="node32" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="549,449,725,477"/>
+<area shape="rect" id="node33" href="$d8/d14/classrecoConsts.html#ae69a5c29a7199ba16d0e537158618802" title="recoConsts::instance" alt="" coords="255,672,417,700"/>
+<area shape="rect" id="node35" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="259,724,413,752"/>
+<area shape="rect" id="node36" href="$d2/da1/classPHGeomUtility.html#af9c141256e014a36b8af77075894b41f" title="delete the geometry file after use" alt="" coords="200,776,472,804"/>
+<area shape="rect" id="node37" href="$d1/da8/classPHFlag.html#a88212f810275c61464d51caa3cd4d1e1" title="PHFlag::set_FloatFlag" alt="" coords="253,828,419,856"/>
+<area shape="rect" id="node38" href="$d1/da8/classPHFlag.html#ad7aa90aabd5a7cd9958a2cc60048a68c" title="PHFlag::set_StringFlag" alt="" coords="250,880,422,908"/>
+<area shape="rect" id="node40" href="$d0/d78/classPHG4Reco.html#af0c0ba5027360ea57d9ee31bc949e4dd" title="PHG4Reco::setupInputEvent\lNodeReader" alt="" coords="531,501,743,545"/>
+<area shape="rect" id="node44" href="$d1/d13/classPHG4PhenixDetector.html#acdba581a56ceb2717c1553449802b153" title="PHG4PhenixDetector\l::SetWorldMaterial" alt="" coords="255,932,417,976"/>
+<area shape="rect" id="node45" href="$d1/d13/classPHG4PhenixDetector.html#a570bf81e75c124d0d3d80040fc69ca8b" title="PHG4PhenixDetector\l::SetWorldShape" alt="" coords="255,1000,417,1044"/>
+<area shape="rect" id="node46" href="$d1/d13/classPHG4PhenixDetector.html#a375bd9d82edcae5f21f39e319f3044b2" title="PHG4PhenixDetector\l::SetWorldSizeX" alt="" coords="255,1068,417,1112"/>
+<area shape="rect" id="node47" href="$d1/d13/classPHG4PhenixDetector.html#a74db49898240516c4136bbbdedcff188" title="PHG4PhenixDetector\l::SetWorldSizeY" alt="" coords="255,1136,417,1180"/>
+<area shape="rect" id="node48" href="$d1/d13/classPHG4PhenixDetector.html#a7de4106257c7435e45acb3579177c3c4" title="PHG4PhenixDetector\l::SetWorldSizeZ" alt="" coords="255,1204,417,1248"/>
+<area shape="rect" id="node49" href="$d3/d64/classPHG4UIsession.html#a6c62aa280017bbed8399feaa21c1b342" title="PHG4UIsession::Verbosity" alt="" coords="239,1272,433,1300"/>
+<area shape="rect" id="node50" href="$d1/d13/classPHG4PhenixDetector.html#a4a700250d75ec02bcc1809c43f124a45" title="PHG4PhenixDetector\l::Verbosity" alt="" coords="255,1324,417,1368"/>
+<area shape="rect" id="node8" href="$d9/df8/classPHG4GDMLUtility.html#adb03ec38807279cb5abaf38987c5a73f" title="save the current Geant4 geometry to GDML file. Reading PHG4GDMLConfig from topNode" alt="" coords="520,261,753,289"/>
+<area shape="rect" id="node19" href="$d1/d13/classPHG4PhenixDetector.html#a08f9f09748e767ac536249ac56995fd2" title="PHG4PhenixDetector\l::GetPhysicalVolume" alt="" coords="555,313,718,357"/>
+<area shape="rect" id="node9" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="835,317,1016,345"/>
+<area shape="rect" id="node10" href="$da/d29/classFun4AllServer.html#abcaf6825367e5db292ff795237bdcf62" title="Fun4AllServer::topNode" alt="" coords="835,380,1016,408"/>
+<area shape="rect" id="node11" href="$dd/db5/classPHG4GDMLWrite.html#af4241e53bb71408c9bf11117053f9810" title="PHG4GDMLWrite::Write" alt="" coords="837,253,1014,281"/>
+<area shape="rect" id="node12" href="$dd/db5/classPHG4GDMLWrite.html#a8cc6d3ef282aa5c21cc9066e3fd45567" title="PHG4GDMLWrite::DefineWrite" alt="" coords="1101,177,1323,205"/>
+<area shape="rect" id="node13" href="$dd/db5/classPHG4GDMLWrite.html#a4940da7fd3385b169dcca73885d29060" title="PHG4GDMLWrite::Extension\lWrite" alt="" coords="1108,229,1316,273"/>
+<area shape="rect" id="node14" href="$dd/db5/classPHG4GDMLWrite.html#abac8d16ed8e19e2292a85cdf072b4c70" title="PHG4GDMLWrite::FileExists" alt="" coords="1110,297,1314,325"/>
+<area shape="rect" id="node15" href="$dd/db5/classPHG4GDMLWrite.html#a53261ba42feb5edb57ac7d491689c96a" title="PHG4GDMLWrite::Materials\lWrite" alt="" coords="1110,349,1314,393"/>
+<area shape="rect" id="node16" href="$dd/db5/classPHG4GDMLWrite.html#afe96dc9fdc7c1a0a1a96b59dc15dffa2" title="PHG4GDMLWrite::NewAttribute" alt="" coords="1097,417,1327,445"/>
+<area shape="rect" id="node17" href="$dd/db5/classPHG4GDMLWrite.html#a8f3e8db841418dfa32a3da46aa223906" title="PHG4GDMLWrite::SetupWrite" alt="" coords="1104,73,1320,101"/>
+<area shape="rect" id="node18" href="$dd/db5/classPHG4GDMLWrite.html#a5db5a6e0966558d6fa8f6a0ce857d939" title="PHG4GDMLWrite::SolidsWrite" alt="" coords="1103,125,1321,153"/>
+<area shape="rect" id="node22" href="$d7/d6d/classPHGeomTGeo.html#ac4a15e8a300769e32f00a83fd03bbdca" title="Clear Event." alt="" coords="555,569,718,597"/>
+<area shape="rect" id="node24" href="$d7/d6d/classPHGeomTGeo.html#a8b2df41583e27a653458c6aae76a2926" title="PHGeomTGeo::SetGeometry" alt="" coords="530,673,743,701"/>
+<area shape="rect" id="node26" href="$d7/d6d/classPHGeomTGeo.html#a3e111f6229f7ce6392b14a98fdf5bea9" title="PHGeomTGeo::GetGeometry" alt="" coords="529,621,745,649"/>
+<area shape="rect" id="node23" href="$d7/d6d/classPHGeomTGeo.html#af37739b87530fe2bbd5d8d03098c1821" title="PHGeomTGeo::ConsistencyCheck" alt="" coords="801,621,1049,649"/>
+<area shape="rect" id="node25" href="$df/de1/g_8f.html#ab66fda597951401eedd2aa690ea3efb3" title="g" alt="" coords="906,673,945,701"/>
+<area shape="rect" id="node28" href="$df/d4d/classPHFieldUtility.html#a3afdd4e878d02b30b6f2c396e52b8e48" title="Get transient PHField from DST nodes. If not found, make a new one based on default_config." alt="" coords="550,381,723,425"/>
+<area shape="rect" id="node29" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="831,489,1019,517"/>
+<area shape="rect" id="node30" href="$dc/d82/classPHNode.html#a4ab1f90aed955a652813bfe377087bda" title="PHNode::getType" alt="" coords="1143,469,1281,497"/>
+<area shape="rect" id="node31" href="$dc/d82/classPHNode.html#aca3576f926a4401eddc3d88bf0ce0de3" title="PHNode::getName" alt="" coords="1139,521,1285,549"/>
+<area shape="rect" id="node34" href="$d8/d14/classrecoConsts.html#ae882d6adc62f783ec78114fe3dee3c24" title="recoConsts::recoConsts" alt="" coords="547,725,727,753"/>
+<area shape="rect" id="node39" href="$d1/da8/classPHFlag.html#a716bb770db79859a16e6b7bc45e03bbd" title="PHFlag::set_CharFlag" alt="" coords="555,880,719,908"/>
+<area shape="rect" id="node41" href="$d5/dca/classPHCompositeNode.html#a15a0c4804399a9de4267647f05bd1ba4" title="PHCompositeNode::addNode" alt="" coords="817,545,1033,573"/>
+<area shape="rect" id="node42" href="$d6/d86/classPHPointerList.html#ac2176735e9d046a034f1686fd2c477eb" title="PHPointerList::append" alt="" coords="1127,625,1297,653"/>
+<area shape="rect" id="node43" href="$dc/d82/classPHNode.html#adda2bd6cef2d5067bbe3016a990b7198" title="PHNode::setParent" alt="" coords="1138,573,1286,601"/>
+</map>

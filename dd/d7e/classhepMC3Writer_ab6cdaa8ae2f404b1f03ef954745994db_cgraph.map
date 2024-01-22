@@ -1,0 +1,9 @@
+<map id="hepMC3Writer::initWriter" name="hepMC3Writer::initWriter">
+<area shape="rect" id="node2" href="$d0/d94/classinputParameters.html#aa885d2d2b46648ad1e9e88797e495268" title="inputParameters::baseFileName" alt="" coords="246,25,482,53"/>
+<area shape="rect" id="node4" href="$dd/d7e/classhepMC3Writer.html#a94b2400d88a93fc73424bcef86e5ad59" title="hepMC3Writer::initBeamHepMC3" alt="" coords="243,111,485,139"/>
+<area shape="rect" id="node3" href="$d5/d4e/classparameter.html#ad05f8343240b7ef936d426fb0ce4854a" title="parameter::value" alt="" coords="813,111,952,139"/>
+<area shape="rect" id="node5" href="$d0/d94/classinputParameters.html#ab2a6df29606b51d6246f14da40108e44" title="returns Lorentz gamma factor of beam 1 in collider frame" alt="" coords="551,43,747,87"/>
+<area shape="rect" id="node6" href="$d0/d94/classinputParameters.html#ae7da207f24c9301fea8e7a9923ade6c8" title="returns atomic mass number of beam particle 2" alt="" coords="533,111,765,139"/>
+<area shape="rect" id="node7" href="$d0/d94/classinputParameters.html#aa624fe832c21dde00682fe3239310893" title="returns Lorentz gamma factor of beam 2 in collider frame" alt="" coords="539,163,760,207"/>
+<area shape="rect" id="node8" href="$d0/d94/classinputParameters.html#abf466af215afbe73200576105e645b05" title="returns atomic number of beam particle 2" alt="" coords="534,231,765,259"/>
+</map>

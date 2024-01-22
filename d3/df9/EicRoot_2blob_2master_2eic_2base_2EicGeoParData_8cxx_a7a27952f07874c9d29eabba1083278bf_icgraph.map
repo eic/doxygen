@@ -1,0 +1,12 @@
+<map id="MasterToLocal" name="MasterToLocal">
+<area shape="rect" id="node2" href="$d2/d53/classEicTpcDigiHitProducer.html#aa3f46cd85269d7ce132513db471e20a7" title="EicTpcDigiHitProducer\l::HandleHit" alt="" coords="185,5,357,49"/>
+<area shape="rect" id="node3" href="$df/dca/classEicTrackingDigiHitProducer.html#a13bf30baf1c24ee624646ff43681a477" title="EicTrackingDigiHitProducer\l::HandleHit" alt="" coords="169,73,373,117"/>
+<area shape="rect" id="node4" href="$d4/d04/classFwdTrackFinder.html#aede5d387f06d05b801e76f3c977fce68" title="FwdTrackFinder::Init" alt="" coords="193,141,349,169"/>
+<area shape="rect" id="node5" href="$d9/d20/classFwdHoughNodeGroup.html#a24c2364f91e75040953052a394f58001" title="FwdHoughNodeGroup::\lPackCore" alt="" coords="183,193,360,237"/>
+<area shape="rect" id="node6" href="$d9/d20/classFwdHoughNodeGroup.html#a97899a879b554074764a2c3eff665e2c" title="FwdHoughNodeGroup::Pack" alt="" coords="421,171,632,199"/>
+<area shape="rect" id="node8" href="$d9/d20/classFwdHoughNodeGroup.html#a0ea7116b3be79af0775b47a22f2f8690" title="FwdHoughNodeGroup::\lPackFromTo" alt="" coords="438,223,615,267"/>
+<area shape="rect" id="node7" href="$da/d13/classFwdHoughTree.html#a14cca728d113d498d780a54a01cfd63d" title="FwdHoughTree::MappingCall" alt="" coords="680,171,893,199"/>
+<area shape="rect" id="node9" href="$d9/d20/classFwdHoughNodeGroup.html#a2748d64ad3509a38323d96b465dd0845" title="FwdHoughNodeGroup::\lPackFrom" alt="" coords="698,223,875,267"/>
+<area shape="rect" id="node11" href="$d9/d20/classFwdHoughNodeGroup.html#aa1d9c824d6ed15061c93204ab90b5c62" title="FwdHoughNodeGroup::\lPackTo" alt="" coords="698,291,875,335"/>
+<area shape="rect" id="node10" href="$d4/d04/classFwdTrackFinder.html#a3af39e18710ddd0560bc69d7cd9d593c" title="FwdTrackFinder::Exec" alt="" coords="941,265,1107,293"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="CbmRichRingTrackAssignClosestD::DoAssign" name="CbmRichRingTrackAssignClosestD::DoAssign">
+<area shape="rect" id="node2" href="$dc/d9e/classCbmRichRing.html#acf238d67f5937eef66b0047862766fba" title="CbmRichRing::GetCenterX" alt="" coords="315,5,515,33"/>
+<area shape="rect" id="node3" href="$dc/d9e/classCbmRichRing.html#ab818603f8d70408373b1519fe363776e" title="CbmRichRing::GetCenterY" alt="" coords="316,57,515,85"/>
+<area shape="rect" id="node4" href="$dc/d9e/classCbmRichRing.html#a07ef5492b731a22b87060e5249fd96ee" title="CbmRichRing::GetNofHits" alt="" coords="318,109,513,137"/>
+<area shape="rect" id="node5" href="$d6/d94/classFairTrackParam.html#a60e86fc9ae4f5a8cb8d9591662a15b93" title="FairTrackParam::GetX" alt="" coords="333,161,498,189"/>
+<area shape="rect" id="node6" href="$d6/d94/classFairTrackParam.html#afe6791d0998c4f1809cba6928f1b4570" title="FairTrackParam::GetY" alt="" coords="333,213,498,241"/>
+<area shape="rect" id="node7" href="$d6/d0d/classCbmRichRingTrackAssignClosestD.html#a109b5cbf7d83ad64e8c7ed7f8753d72f" title="Check if global track was identified as electron in the TRD detector." alt="" coords="295,265,536,309"/>
+<area shape="rect" id="node9" href="$dc/d9e/classCbmRichRing.html#a112b3e76ba96a0be7a40e03cece8fe44" title="CbmRichRing::SetDistance" alt="" coords="315,333,516,361"/>
+<area shape="rect" id="node10" href="$d7/d5a/classCbmGlobalTrack.html#a3b70af1a0ff1eec8caae1195491989c2" title="CbmGlobalTrack::SetRichRing\lIndex" alt="" coords="305,385,526,429"/>
+<area shape="rect" id="node11" href="$dc/d9e/classCbmRichRing.html#a14a9a79bf78420b56b5455fba0d451ab" title="CbmRichRing::SetTrackID" alt="" coords="319,453,511,481"/>
+<area shape="rect" id="node8" href="$d7/d5a/classCbmGlobalTrack.html#adf9f0ada6bc1ded9544d1afdff7c0d56" title="CbmGlobalTrack::GetTrdTrack\lIndex" alt="" coords="584,265,804,309"/>
+</map>

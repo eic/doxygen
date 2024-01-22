@@ -1,0 +1,36 @@
+<map id="PHTpcClusterMover::process_event" name="PHTpcClusterMover::process_event">
+<area shape="rect" id="node2" href="$d7/d8b/classSvtxTrackMap.html#ad2331baa3dff9acb452f5329334e2803" title="SvtxTrackMap::begin" alt="" coords="246,5,407,33"/>
+<area shape="rect" id="node3" href="$d2/db8/classSvtxTrack.html#a59e8bacd45312ca7868bc090c6fefb06" title="SvtxTrack::begin_cluster_keys" alt="" coords="215,57,439,85"/>
+<area shape="rect" id="node4" href="$d5/d78/classPHTpcClusterMover.html#a42d612320383f82174feffe238bbff3d" title="PHTpcClusterMover::\lCircleFitByTaubin" alt="" coords="246,161,407,205"/>
+<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="501,173,677,201"/>
+<area shape="rect" id="node6" href="$d7/d8b/classSvtxTrackMap.html#a0f55635c85de394ace238061dfe38736" title="SvtxTrackMap::end" alt="" coords="252,433,401,461"/>
+<area shape="rect" id="node7" href="$d2/db8/classSvtxTrack.html#a73a7625ecced41e34552518eefc13ade" title="SvtxTrack::end_cluster_keys" alt="" coords="221,485,432,513"/>
+<area shape="rect" id="node8" href="$d0/d2c/classTrkrClusterContainer.html#a6f26d0655c81919f5539934e0d0fc438" title="find cluster matching given key" alt="" coords="245,537,408,581"/>
+<area shape="rect" id="node9" href="$d0/d2c/classTrkrClusterContainer.html#a3a7c7ea7c7d9ff715c885f9346b893eb" title="find cluster matching key if any, add a new one otherwise and return cluster" alt="" coords="245,605,408,649"/>
+<area shape="rect" id="node10" href="$d5/d78/classPHTpcClusterMover.html#a141a0765609b17bde273242550ba511e" title="PHTpcClusterMover::\lget_circle_circle_intersection" alt="" coords="219,229,434,273"/>
+<area shape="rect" id="node12" href="$d4/df1/classTpcDistortionCorrection.html#a036dd0d66083d8da0ae654b9218fcb57" title="get cluster corrected 3D position using given DistortionCorrectionObject" alt="" coords="235,673,418,717"/>
+<area shape="rect" id="node15" href="$d2/db8/classSvtxTrack.html#a8ffb0c9b9181cc2dedd6e21f4b462129" title="SvtxTrack::get_phi" alt="" coords="254,912,399,940"/>
+<area shape="rect" id="node16" href="$d5/d78/classPHTpcClusterMover.html#af1cc0e992cc1468c2d5f63f50868bf70" title="PHTpcClusterMover::\lget_tpc_surface_from\l_coords" alt="" coords="244,297,409,357"/>
+<area shape="rect" id="node17" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="515,373,663,401"/>
+<area shape="rect" id="node19" href="$d6/dfa/classTrkrCluster.html#ac0c392971fc86ab09cfe1eed6cbe6979" title="TrkrCluster::getActsLocal\lError" alt="" coords="232,964,421,1008"/>
+<area shape="rect" id="node20" href="$d6/dfa/classTrkrCluster.html#ac2d21d533c8948fd9c94526b994b74d0" title="TrkrCluster::getAdc" alt="" coords="251,1032,402,1060"/>
+<area shape="rect" id="node21" href="$df/db5/classActsTransformations.html#ad73bc53ee88d22ebdf1a0b6ac5456cec" title="ActsTransformations\l::getGlobalPosition" alt="" coords="247,741,407,785"/>
+<area shape="rect" id="node26" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="515,869,662,897"/>
+<area shape="rect" id="node27" href="$dc/de5/PHG4mRICHDetector_8cc.html#acaaf109d582b14d4880c13e89c1243e1" title="surface" alt="" coords="553,921,624,949"/>
+<area shape="rect" id="node28" href="$d6/d3f/namespaceTrkrDefs.html#aae37fbdb8f0f6f9b7b1e4173f4fcd331" title="Get the upper 32 bits from cluster keys." alt="" coords="223,1084,431,1128"/>
+<area shape="rect" id="node29" href="$d5/d78/classPHTpcClusterMover.html#ad06494aeef5723d9427e8f4924421931" title="PHTpcClusterMover::\lline_fit" alt="" coords="246,1152,407,1196"/>
+<area shape="rect" id="node30" href="$d6/dfa/classTrkrCluster.html#a165d11edc628948efb0a6e6531814556" title="Acts functions, for Acts modules use only." alt="" coords="233,1220,421,1264"/>
+<area shape="rect" id="node31" href="$d6/dfa/classTrkrCluster.html#a3f515839b7a2ed02514d29244d678fc7" title="TrkrCluster::setAdc" alt="" coords="252,1288,401,1316"/>
+<area shape="rect" id="node32" href="$d6/dfa/classTrkrCluster.html#a2b71951606ad58f47168eff0dbb7cfda" title="TrkrCluster::setLocalX" alt="" coords="242,1340,411,1368"/>
+<area shape="rect" id="node33" href="$d6/dfa/classTrkrCluster.html#abedf8b674e0510977307cd108beb39c7" title="TrkrCluster::setLocalY" alt="" coords="243,1392,411,1420"/>
+<area shape="rect" id="node34" href="$d6/dfa/classTrkrCluster.html#a31648c740049d62f7cb082d16eb2881e" title="TrkrCluster::setSubSurfKey" alt="" coords="225,1444,428,1472"/>
+<area shape="rect" id="node35" href="$d7/d8b/classSvtxTrackMap.html#a508e23a620af3b20bfc0be05aa5b4ada" title="SvtxTrackMap::size" alt="" coords="252,1496,401,1524"/>
+<area shape="rect" id="node11" href="$d5/d78/classPHTpcClusterMover.html#a73dd26bb4cd42a2c90327fa59efdf28d" title="PHTpcClusterMover::\lcircle_circle_intersection" alt="" coords="495,229,682,273"/>
+<area shape="rect" id="node13" href="$d1/d22/EllipseBounds_8cpp.html#ab14acda17eb07a638824bb5e3873c586" title="square" alt="" coords="555,541,622,569"/>
+<area shape="rect" id="node14" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="567,593,611,621"/>
+<area shape="rect" id="node18" href="$df/dcd/PHTpcSeedFinder_8cc.html#a3eacbae00cdf9e4cc3029aa577949730" title="round" alt="" coords="559,313,619,341"/>
+<area shape="rect" id="node22" href="$d6/dfa/classTrkrCluster.html#ab18c56f7c1aa174203dcf8fbf0141279" title="TrkrCluster::getClusKey" alt="" coords="499,645,679,673"/>
+<area shape="rect" id="node23" href="$d6/dfa/classTrkrCluster.html#acc835716d1c4f76e9c0da8e5a79e25c1" title="TrkrCluster::getLocalX" alt="" coords="503,697,674,725"/>
+<area shape="rect" id="node24" href="$d6/dfa/classTrkrCluster.html#a05e4879520abe27bc6028bc05fc94162" title="TrkrCluster::getLocalY" alt="" coords="503,749,674,777"/>
+<area shape="rect" id="node25" href="$db/d81/namespaceActs_1_1MeasurementHelpers.html#af6bf98068f55e3d194425beaf2dd92be" title="Extract surface from a type erased measurement object." alt="" coords="487,801,691,845"/>
+</map>

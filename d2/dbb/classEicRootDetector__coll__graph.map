@@ -1,0 +1,15 @@
+<map id="EicRootDetector" name="EicRootDetector">
+<area shape="rect" id="node2" href="$d3/de7/classPHG4Detector.html" title="base class for phenix detector creation" alt="" coords="1301,126,1418,154"/>
+<area shape="rect" id="node3" href="$db/df7/classPHG4Subsystem.html" title="PHG4Subsystem" alt="" coords="961,99,1095,127"/>
+<area shape="rect" id="node4" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="669,70,770,98"/>
+<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="428,62,532,90"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="197,61,287,89"/>
+<area shape="rect" id="node9" href="$dc/d82/classPHNode.html" title="PHNode" alt="" coords="443,155,517,183"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="5,53,148,97"/>
+<area shape="rect" id="node8" href="$d5/dca/classPHCompositeNode.html" title="PHCompositeNode" alt="" coords="955,151,1101,179"/>
+<area shape="rect" id="node10" href="$d6/d86/classPHPointerList.html" title="PHPointerList\&lt; PHNode \&gt;" alt="" coords="623,174,816,202"/>
+<area shape="rect" id="node11" href="$d4/d30/classPHG4HitContainer.html" title="PHG4HitContainer" alt="" coords="1287,243,1432,271"/>
+<area shape="rect" id="node12" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="438,247,522,275"/>
+<area shape="rect" id="node16" href="$d3/d9e/classPHG4Hit.html" title="PHG4Hit" alt="" coords="680,279,759,307"/>
+<area shape="rect" id="node13" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="204,247,280,275"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="PHG4ForwardDualReadoutSteppingAction::UserSteppingAction" name="PHG4ForwardDualReadoutSteppingAction::UserSteppingAction">
+<area shape="rect" id="node2" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="390,5,501,33"/>
+<area shape="rect" id="node4" href="$db/d88/classPHG4Shower.html#a065eda98eebf1d2b83b081188d306df3" title="PHG4Shower::add_g4hit_id" alt="" coords="343,57,547,85"/>
+<area shape="rect" id="node5" href="$d4/d30/classPHG4HitContainer.html#a4df3ca68ecff69c9d7976b84fcc82e93" title="PHG4HitContainer::AddHit" alt="" coords="346,109,545,137"/>
+<area shape="rect" id="node6" href="$d3/d9e/classPHG4Hit.html#acea6b2f3763d899e4de3765b9b5c6e51" title="PHG4Hit::get_hit_id" alt="" coords="637,135,789,163"/>
+<area shape="rect" id="node7" href="$da/d28/classPHG4ForwardDualReadoutSteppingAction.html#a70a8835a5f8f25ebfc1fb7ee5b48f0b6" title="PHG4ForwardDualReadoutStepping\lAction::FindTowerIndexFromPosition" alt="" coords="313,213,577,257"/>
+<area shape="rect" id="node8" href="$d3/d9e/classPHG4Hit.html#a299edb9d0b140d0456f8bfecdf9cac56" title="PHG4Hit::get_edep" alt="" coords="371,281,520,309"/>
+<area shape="rect" id="node9" href="$d3/d9e/classPHG4Hit.html#ab8db2cb7bc978a58777600b2bd7a22ac" title="PHG4Hit::get_eion" alt="" coords="373,333,517,361"/>
+<area shape="rect" id="node10" href="$dd/dc3/classPHG4ForwardDualReadoutDetector.html#a4e2864d16feee0390bcdf7e3c319bc7f" title="PHG4ForwardDualReadoutDetector\l::get_Layer" alt="" coords="316,385,575,429"/>
+<area shape="rect" id="node11" href="$d3/d9e/classPHG4Hit.html#a58aae50a4a38ecbc38878e98bb71a1c7" title="PHG4Hit::get_light\l_yield" alt="" coords="372,453,519,497"/>
+<area shape="rect" id="node12" href="$d3/d9e/classPHG4Hit.html#a3e38027becf2e425130ccf24171c41f0" title="PHG4Hit::get_property\l_float" alt="" coords="359,521,532,565"/>
+<area shape="rect" id="node13" href="$d4/d30/classPHG4HitContainer.html#a5073671e6d35969dc3d421e2278229af" title="PHG4HitContainer::GetID" alt="" coords="350,589,541,617"/>
+<area shape="rect" id="node14" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="351,641,540,669"/>
+<area shape="rect" id="node15" href="$df/d3f/classPHG4SteppingAction.html#a57aa751589ae9eb0c2e6563948e85513" title="get amount of energy that can make scintillation light, in Unit of GeV." alt="" coords="336,693,555,737"/>
+<area shape="rect" id="node16" href="$dd/dc3/classPHG4ForwardDualReadoutDetector.html#ac169e1d9f0f7cb2e80a1e492fb678558" title="PHG4ForwardDualReadoutDetector\l::IsActive" alt="" coords="316,761,575,805"/>
+<area shape="rect" id="node17" href="$dd/dc3/classPHG4ForwardDualReadoutDetector.html#a79a7bd9b04f29330c85f23c2194787f0" title="PHG4ForwardDualReadoutDetector\l::IsBlackHole" alt="" coords="316,829,575,873"/>
+<area shape="rect" id="node18" href="$dd/dc3/classPHG4ForwardDualReadoutDetector.html#a743413222f8f678a360b702d62bf1cea" title="PHG4ForwardDualReadoutDetector\l::IsInForwardDualReadout" alt="" coords="316,897,575,941"/>
+<area shape="rect" id="node19" href="$d3/d9e/classPHG4Hit.html#abfb89e6996324dc9961cf790c74c7741" title="Clear Event." alt="" coords="383,965,508,993"/>
+<area shape="rect" id="node20" href="$d3/d9e/classPHG4Hit.html#a4eb72c64e474205be82b3c204d866c11" title="PHG4Hit::set_edep" alt="" coords="371,1017,519,1045"/>
+<area shape="rect" id="node21" href="$d3/d9e/classPHG4Hit.html#aa452d82dfd4d441ee3e288afe1fcdb33" title="PHG4Hit::set_eion" alt="" coords="374,1069,517,1097"/>
+<area shape="rect" id="node22" href="$d3/d9e/classPHG4Hit.html#aa34cf8dff5ab56e0506d0d08a55ed748" title="PHG4Hit::set_index_j" alt="" coords="365,1121,526,1149"/>
+<area shape="rect" id="node23" href="$d3/d9e/classPHG4Hit.html#aafe0c089545f4d14508dae461b386536" title="PHG4Hit::set_index_k" alt="" coords="362,1173,529,1201"/>
+<area shape="rect" id="node24" href="$d3/d9e/classPHG4Hit.html#ac5cfeeb1e4cdd3e8ea41c54bad5f2d9c" title="PHG4Hit::set_light\l_yield" alt="" coords="373,1225,518,1269"/>
+<area shape="rect" id="node25" href="$d3/d9e/classPHG4Hit.html#ae83fb57ac4923b5df0537097432a5f7f" title="PHG4Hit::set_property" alt="" coords="359,1293,531,1321"/>
+<area shape="rect" id="node26" href="$d3/d9e/classPHG4Hit.html#a0e5b38e4f13efc793eb85b006763ede5" title="PHG4Hit::set_shower_id" alt="" coords="355,1345,536,1373"/>
+<area shape="rect" id="node27" href="$d3/d9e/classPHG4Hit.html#a5a46a621b6b2931937e028dad5a1ead5" title="PHG4Hit::set_t" alt="" coords="385,1397,505,1425"/>
+<area shape="rect" id="node28" href="$d3/d9e/classPHG4Hit.html#a765310edee693bde31e0fefe92827155" title="PHG4Hit::set_trkid" alt="" coords="373,1449,517,1477"/>
+<area shape="rect" id="node29" href="$d3/d9e/classPHG4Hit.html#a29c3320afd3e1747132d956632be4754" title="PHG4Hit::set_x" alt="" coords="384,1501,507,1529"/>
+<area shape="rect" id="node30" href="$d3/d9e/classPHG4Hit.html#a977a9146151279a48f59f7ee7e1f8669" title="PHG4Hit::set_y" alt="" coords="384,1553,507,1581"/>
+<area shape="rect" id="node31" href="$d3/d9e/classPHG4Hit.html#a4fdb700121c3f2c3c529d025f72bf93c" title="PHG4Hit::set_z" alt="" coords="385,1605,506,1633"/>
+<area shape="rect" id="node32" href="$df/d3f/classPHG4SteppingAction.html#a4f46d6b68b124cd32518b631465359dc" title="PHG4SteppingAction\l::Verbosity" alt="" coords="365,1657,526,1701"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="625,5,801,33"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="FairDbTimerManager::RecMainQuery" name="FairDbTimerManager::RecMainQuery">
+<area shape="rect" id="node2" href="$d9/dbd/classFairDbProxy.html#a889475a99dd07b9b007b671213871915" title="FairDbProxy::QuerySeqNo" alt="" coords="220,29,413,57"/>
+<area shape="rect" id="node5" href="$d9/dbd/classFairDbProxy.html#ac241dab099511335ac31cc159906a36f" title="Secondary query for aggregate and extended context queries." alt="" coords="216,81,417,109"/>
+<area shape="rect" id="node6" href="$da/dcf/classFairDbTableProxy.html#a1acf2c61ce1e9b66caf0dd55f199363f" title="FairDbTableProxy::Restore\lFromL2Cache" alt="" coords="219,133,414,177"/>
+<area shape="rect" id="node9" href="$da/dcf/classFairDbTableProxy.html#a02cbbec6c4efafb6bf12e5c17decdbac" title="FairDbTableProxy::SaveTo\lL2Cache" alt="" coords="221,201,413,245"/>
+<area shape="rect" id="node3" href="$da/d7d/classFairDbSqlValPacket.html#afbf9263675359ec56f359ecf02322408" title="FairDbSqlValPacket\l::FairDbSqlValPacket" alt="" coords="478,5,638,49"/>
+<area shape="rect" id="node4" href="$da/dcf/classFairDbTableProxy.html#a0aa455d0a601c2649d48a942faea2b86" title="FairDbTableProxy::Query" alt="" coords="465,73,651,101"/>
+<area shape="rect" id="node7" href="$da/dcf/classFairDbTableProxy.html#ad75a08a4e139462af72af1d3be9fd908" title="FairDbTableProxy::Query" alt="" coords="465,159,651,187"/>
+<area shape="rect" id="node8" href="$da/dcf/classFairDbTableProxy.html#a41685c7dbef8d48174f4483235bab4f9" title="FairDbTableProxy::Query" alt="" coords="699,159,884,187"/>
+</map>

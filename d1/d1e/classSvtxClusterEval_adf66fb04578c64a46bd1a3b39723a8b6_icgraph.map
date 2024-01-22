@@ -1,0 +1,12 @@
+<map id="SvtxClusterEval::get_hit_eval" name="SvtxClusterEval::get_hit_eval">
+<area shape="rect" id="node2" href="$df/dad/classSvtxTrackEval.html#a90002b103ce63b1c96d883f943a9e4cb" title="SvtxTrackEval::get\l_hit_eval" alt="" coords="213,108,360,152"/>
+<area shape="rect" id="node3" href="$d4/d21/classSvtxVertexEval.html#abb5c8c9377e176478d520aa06c8a432c" title="SvtxVertexEval::get\l_hit_eval" alt="" coords="408,108,563,152"/>
+<area shape="rect" id="node4" href="$d3/ded/classSvtxEvalStack.html#a7b0818eebf0fca350e4809a09f445ed7" title="SvtxEvalStack::get\l_hit_eval" alt="" coords="611,108,760,152"/>
+<area shape="rect" id="node5" href="$dd/de6/classKFParticle__truthAndDetTools.html#ad75d71be845ff83a6bb6839b5e151e3c" title="KFParticle_truthAndDetTools\l::getTruthTrack" alt="" coords="808,73,1019,117"/>
+<area shape="rect" id="node10" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="819,141,1007,185"/>
+<area shape="rect" id="node6" href="$dd/de6/classKFParticle__truthAndDetTools.html#aacd7464b07f03f83a4d7e2de49e63a50" title="KFParticle_truthAndDetTools\l::fillTruthBranch" alt="" coords="1067,5,1277,49"/>
+<area shape="rect" id="node9" href="$dd/de6/classKFParticle__truthAndDetTools.html#ac462727f039ecf9c65e6d346bff72180" title="KFParticle_truthAndDetTools\l::getHepMCInfo" alt="" coords="1067,73,1277,117"/>
+<area shape="rect" id="node7" href="$d9/dae/classKFParticle__nTuple.html#ac32b873cf95657eb34d8b572ad692172" title="Fills required information for your selection, also requests truth and detector information if needed..." alt="" coords="1325,40,1472,84"/>
+<area shape="rect" id="node8" href="$d5/d72/classKFParticle__sPHENIX.html#a7e5ad7cf075fbf8e68a781e7721fec81" title="KFParticle_sPHENIX\l::process_event" alt="" coords="1520,40,1672,84"/>
+<area shape="rect" id="node11" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="1084,141,1260,185"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="PHG4BarrelEcalDetector" name="PHG4BarrelEcalDetector">
+<area shape="rect" id="node2" href="$d3/de7/classPHG4Detector.html" title="base class for phenix detector creation" alt="" coords="1829,284,1947,312"/>
+<area shape="rect" id="node3" href="$db/df7/classPHG4Subsystem.html" title="PHG4Subsystem" alt="" coords="1457,348,1590,376"/>
+<area shape="rect" id="node4" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="1055,348,1156,376"/>
+<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="607,348,711,376"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="253,584,342,612"/>
+<area shape="rect" id="node9" href="$dc/d82/classPHNode.html" title="PHNode" alt="" coords="621,233,696,261"/>
+<area shape="rect" id="node18" href="$dd/dae/classPHParameters.html" title="PHParameters" alt="" coords="1047,719,1163,747"/>
+<area shape="rect" id="node25" href="$d2/d44/classPHG4DisplayAction.html" title="PHG4DisplayAction" alt="" coords="583,555,734,583"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="5,576,148,620"/>
+<area shape="rect" id="node8" href="$d5/dca/classPHCompositeNode.html" title="PHCompositeNode" alt="" coords="1450,204,1597,232"/>
+<area shape="rect" id="node10" href="$d6/d86/classPHPointerList.html" title="PHPointerList\&lt; PHNode \&gt;" alt="" coords="1009,223,1202,251"/>
+<area shape="rect" id="node13" href="$d9/d25/classPHG4GDMLConfig.html" title="PHG4GDMLConfig." alt="" coords="1035,97,1176,125"/>
+<area shape="rect" id="node14" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="617,141,701,169"/>
+<area shape="rect" id="node15" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="259,141,335,169"/>
+<area shape="rect" id="node23" href="$df/d9c/structPHG4ForwardEcalDetector_1_1towerposition.html" title="PHG4ForwardEcalDetector\l::towerposition" alt="" coords="197,944,397,988"/>
+<area shape="rect" id="node24" href="$d8/dc5/classPHG4BarrelEcalDisplayAction.html" title="PHG4BarrelEcalDisplayAction" alt="" coords="996,568,1215,596"/>
+</map>

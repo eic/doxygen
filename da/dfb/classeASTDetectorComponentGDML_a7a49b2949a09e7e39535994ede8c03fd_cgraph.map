@@ -1,0 +1,9 @@
+<map id="eASTDetectorComponentGDML::Construct" name="eASTDetectorComponentGDML::Construct">
+<area shape="rect" id="node2" href="$d6/d91/classeASTVDetectorComponent.html#a80d93bf6da20f384ca3d93cecc0dad45" title="eASTVDetectorComponent\l::GetLocation" alt="" coords="307,5,510,49"/>
+<area shape="rect" id="node3" href="$d6/d91/classeASTVDetectorComponent.html#a2713b9ebad1f395ab1be2af6580127c6" title="eASTVDetectorComponent\l::GetRotation" alt="" coords="307,73,510,117"/>
+<area shape="rect" id="node4" href="$d5/dc4/classG4GDMLParser.html#ac75594e1914949e447236317f0e47255" title="G4GDMLParser::GetWorldVolume" alt="" coords="287,141,531,169"/>
+<area shape="rect" id="node5" href="$d5/dc4/classG4GDMLParser.html#a320085069f0ac1f86071a9efc826239c" title="G4GDMLParser::Read" alt="" coords="327,193,491,221"/>
+<area shape="rect" id="node6" href="$d6/d91/classeASTVDetectorComponent.html#a6f6e826e9d88cd6dab34367443a6f17d" title="eASTVDetectorComponent\l::ReadMaterialFile" alt="" coords="307,245,510,289"/>
+<area shape="rect" id="node7" href="$d5/dc4/classG4GDMLParser.html#af6a14b00fc2f633c54186a25db6dc16c" title="G4GDMLParser::SetReverse\lSearch" alt="" coords="305,313,512,357"/>
+<area shape="rect" id="node8" href="$d5/dc4/classG4GDMLParser.html#aa7542d6bf11f452b5cf87102c18ad57b" title="G4GDMLParser::SetStripFlag" alt="" coords="303,381,515,409"/>
+</map>

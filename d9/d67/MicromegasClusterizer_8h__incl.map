@@ -1,0 +1,28 @@
+<map id="fun4all_coresoftware/blob/master/offline/packages/micromegas/MicromegasClusterizer.h" name="fun4all_coresoftware/blob/master/offline/packages/micromegas/MicromegasClusterizer.h">
+<area shape="rect" id="node2" href="$d5/dc2/SubsysReco_8h.html" title="fun4all/SubsysReco.h" alt="" coords="3837,305,4002,333"/>
+<area shape="rect" id="node6" href="$d1/d4a/TrkrCluster_8h.html" title="Base class for cluster object." alt="" coords="3562,389,3738,417"/>
+<area shape="rect" id="node14" href="$d4/d6a/ActsTrackingGeometry_8h.html" title="trackbase/ActsTrackingGeometry.h" alt="" coords="1295,129,1550,157"/>
+<area shape="rect" id="node49" href="$da/d51/ActsSurfaceMaps_8h.html" title="maps hitsetids to Acts Surfaces" alt="" coords="3194,389,3414,417"/>
+<area shape="rect" id="node3" href="$d2/de7/Fun4AllBase_8h.html" title="Fun4AllBase.h" alt="" coords="3862,389,3978,417"/>
+<area shape="rect" id="node7" href="$d8/d00/TrkrDefs_8h.html" title="Namespace with Trkr key types and utility functions." alt="" coords="3381,473,3472,501"/>
+<area shape="rect" id="node10" href="$df/d32/PHObject_8h.html" title="phool/PHObject.h" alt="" coords="3597,473,3736,501"/>
+<area shape="rect" id="node15" href="$d5/d50/BinnedArray_8hpp.html" title="Acts/Utilities/BinnedArray.hpp" alt="" coords="1687,213,1910,241"/>
+<area shape="rect" id="node20" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="1078,649,1292,677"/>
+<area shape="rect" id="node32" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="2090,473,2277,501"/>
+<area shape="rect" id="node35" href="$dd/d24/TrackingGeometry_8hpp.html" title="Acts/Geometry/TrackingGeometry.hpp" alt="" coords="1283,389,1562,417"/>
+<area shape="rect" id="node41" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="944,297,1146,341"/>
+<area shape="rect" id="node42" href="$d0/d28/CalibrationContext_8hpp.html" title="Acts/Utilities/Calibration\lContext.hpp" alt="" coords="858,205,1042,249"/>
+<area shape="rect" id="node43" href="$da/da8/BFieldOptions_8hpp.html" title="ActsExamples/Plugins\l/BField/BFieldOptions.hpp" alt="" coords="472,465,668,509"/>
+<area shape="rect" id="node16" href="$d2/d0a/BinUtility_8hpp.html" title="Acts/Utilities/BinUtility.hpp" alt="" coords="2227,305,2428,333"/>
+<area shape="rect" id="node17" href="$d3/d5e/BinningData_8hpp.html" title="Acts/Utilities/BinningData.hpp" alt="" coords="2676,389,2902,417"/>
+<area shape="rect" id="node18" href="$de/d09/BinningType_8hpp.html" title="Acts/Utilities/BinningType.hpp" alt="" coords="3346,565,3570,593"/>
+<area shape="rect" id="node22" href="$d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html" title="Acts/Utilities/Helpers.hpp" alt="" coords="2408,473,2602,501"/>
+<area shape="rect" id="node28" href="$d8/db0/ThrowAssert_8hpp.html" title="Acts/Utilities/ThrowAssert.hpp" alt="" coords="2812,473,3038,501"/>
+<area shape="rect" id="node23" href="$d8/dfd/ParameterDefinitions_8hpp.html" title="Acts/Utilities/Parameter\lDefinitions.hpp" alt="" coords="2178,557,2360,601"/>
+<area shape="rect" id="node24" href="$d0/d81/TypeTraits_8hpp.html" title="Acts/Utilities/TypeTraits.hpp" alt="" coords="2384,565,2592,593"/>
+<area shape="rect" id="node36" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="845,473,1122,501"/>
+<area shape="rect" id="node38" href="$d5/d67/GeometryIdentifier_8hpp.html" title="Acts/Geometry/GeometryIdentifier.hpp" alt="" coords="1350,473,1634,501"/>
+<area shape="rect" id="node44" href="$d6/d02/AxisFwd_8hpp.html" title="Acts/Utilities/detail\l/AxisFwd.hpp" alt="" coords="140,557,288,601"/>
+<area shape="rect" id="node45" href="$d6/d96/GridFwd_8hpp.html" title="Acts/Utilities/detail\l/GridFwd.hpp" alt="" coords="312,557,460,601"/>
+<area shape="rect" id="node46" href="$d5/d78/OptionsFwd_8hpp.html" title="ActsExamples/Utilities\l/OptionsFwd.hpp" alt="" coords="484,557,656,601"/>
+</map>

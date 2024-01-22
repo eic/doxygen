@@ -1,0 +1,14 @@
+<map id="Smear::HadronicEventBuilder" name="Smear::HadronicEventBuilder">
+<area shape="rect" id="node2" href="$d1/d64/classSmear_1_1EventFactory.html" title="Smear::EventFactory\l\&lt; erhic::hadronic::EventSmear \&gt;" alt="" coords="2200,53,2444,97"/>
+<area shape="rect" id="node3" href="$da/d91/classerhic_1_1VirtualEventFactory.html" title="erhic::VirtualEventFactory" alt="" coords="1672,60,1868,88"/>
+<area shape="rect" id="node4" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="1291,153,1367,181"/>
+<area shape="rect" id="node10" href="$da/d46/classerhic_1_1VirtualEvent.html" title="Abstract base class for a physics event." alt="" coords="1697,117,1843,145"/>
+<area shape="rect" id="node11" href="$d2/d7d/classSmear_1_1Detector.html" title="Smear::Detector" alt="" coords="2468,180,2601,208"/>
+<area shape="rect" id="node13" href="$d1/d9f/classSmear_1_1Smearer.html" title="Smear::Smearer" alt="" coords="1704,221,1836,249"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="969,65,1059,93"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="649,57,792,101"/>
+<area shape="rect" id="node9" href="$d7/dd9/classerhic_1_1hadronic_1_1EventMC.html" title="erhic::hadronic::EventMC" alt="" coords="2227,117,2417,145"/>
+<area shape="rect" id="node14" href="$d2/d55/classSmear_1_1Acceptance.html" title="Smear::Acceptance" alt="" coords="1253,239,1405,267"/>
+<area shape="rect" id="node16" href="$de/d88/classSmear_1_1Acceptance_1_1Zone.html" title="Smear::Acceptance::Zone" alt="" coords="623,212,819,240"/>
+<area shape="rect" id="node18" href="$d2/d06/classSmear_1_1Acceptance_1_1CustomCut.html" title="Smear::Acceptance::\lCustomCut" alt="" coords="5,204,165,248"/>
+</map>

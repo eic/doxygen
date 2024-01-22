@@ -1,0 +1,14 @@
+<map id="PHG4FPbScRegionSteppingAction::UserSteppingAction" name="PHG4FPbScRegionSteppingAction::UserSteppingAction">
+<area shape="rect" id="node2" href="$d4/d30/classPHG4HitContainer.html#a4df3ca68ecff69c9d7976b84fcc82e93" title="PHG4HitContainer::AddHit" alt="" coords="301,5,500,33"/>
+<area shape="rect" id="node3" href="$d3/d9e/classPHG4Hit.html#acea6b2f3763d899e4de3765b9b5c6e51" title="PHG4Hit::get_hit_id" alt="" coords="548,32,700,60"/>
+<area shape="rect" id="node4" href="$d3/d9e/classPHG4Hit.html#a299edb9d0b140d0456f8bfecdf9cac56" title="PHG4Hit::get_edep" alt="" coords="326,109,475,137"/>
+<area shape="rect" id="node5" href="$d4/d30/classPHG4HitContainer.html#a5073671e6d35969dc3d421e2278229af" title="PHG4HitContainer::GetID" alt="" coords="305,161,496,189"/>
+<area shape="rect" id="node6" href="$d4/df0/classPHG4FPbScDetector.html#a28c418f292236191d7f14cce21262382" title="PHG4FPbScDetector::\lisInScintillator" alt="" coords="318,213,483,257"/>
+<area shape="rect" id="node7" href="$d3/d9e/classPHG4Hit.html#a4eb72c64e474205be82b3c204d866c11" title="PHG4Hit::set_edep" alt="" coords="327,281,475,309"/>
+<area shape="rect" id="node8" href="$d3/d9e/classPHG4Hit.html#a0e5b38e4f13efc793eb85b006763ede5" title="PHG4Hit::set_shower_id" alt="" coords="310,333,491,361"/>
+<area shape="rect" id="node9" href="$d3/d9e/classPHG4Hit.html#a5a46a621b6b2931937e028dad5a1ead5" title="PHG4Hit::set_t" alt="" coords="341,385,461,413"/>
+<area shape="rect" id="node10" href="$d3/d9e/classPHG4Hit.html#a765310edee693bde31e0fefe92827155" title="PHG4Hit::set_trkid" alt="" coords="329,437,473,465"/>
+<area shape="rect" id="node11" href="$d3/d9e/classPHG4Hit.html#a29c3320afd3e1747132d956632be4754" title="PHG4Hit::set_x" alt="" coords="339,489,462,517"/>
+<area shape="rect" id="node12" href="$d3/d9e/classPHG4Hit.html#a977a9146151279a48f59f7ee7e1f8669" title="PHG4Hit::set_y" alt="" coords="339,541,462,569"/>
+<area shape="rect" id="node13" href="$d3/d9e/classPHG4Hit.html#a4fdb700121c3f2c3c529d025f72bf93c" title="PHG4Hit::set_z" alt="" coords="340,593,461,621"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CbmGeoRichPar::GetGeoPassiveNodes" name="CbmGeoRichPar::GetGeoPassiveNodes">
+<area shape="rect" id="node2" href="$d8/dd9/classCbmRich.html#a4da15c82f4256a1d985899fd00400299" title="Construct geometry from ASCII file. Supported structure for the mirrors are added on a fly..." alt="" coords="293,5,548,33"/>
+<area shape="rect" id="node4" href="$d6/d73/classCbmRichProjectionProducer.html#af55f38914e2befa81ca19d7b26610e51" title="Initialization of the task." alt="" coords="317,57,525,101"/>
+<area shape="rect" id="node5" href="$da/d9f/classCbmRichHitProducer.html#aa215fb5147a6128031c8a2641166b95b" title="Inherited from FairTask." alt="" coords="340,125,501,169"/>
+<area shape="rect" id="node6" href="$d5/d75/classCbmRichGeoTest.html#a90129ff21b406bf395f93145ca864b0a" title="Inherited from FairTask." alt="" coords="337,193,504,221"/>
+<area shape="rect" id="node3" href="$d8/dd9/classCbmRich.html#a3d1883ed88870fa1325c79d6c508242e" title="Construct geometry. Currently ROOT and ASCII formats are supported. The concrete method for geometry ..." alt="" coords="596,5,819,33"/>
+</map>

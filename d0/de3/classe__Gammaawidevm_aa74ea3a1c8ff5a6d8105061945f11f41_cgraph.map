@@ -1,0 +1,46 @@
+<map id="e_Gammaawidevm::e_Gammaawidevm" name="e_Gammaawidevm::e_Gammaawidevm">
+<area shape="rect" id="node2" href="$d7/d04/classe__wideResonanceCrossSection.html#a255501641a00e132f833e31decd5c8c4" title="e_wideResonanceCrossSection\l::crossSectionCalculation" alt="" coords="345,441,573,485"/>
+<area shape="rect" id="node39" href="$d1/d18/classreadLuminosity.html#a4d55104f82d58147ee5153feaa6fdb09" title="readLuminosity::e_read" alt="" coords="369,795,548,823"/>
+<area shape="rect" id="node43" href="$d0/d4e/classphotonNucleusCrossSection.html#a6b6c7db0793bb962c177fd6a8c7d1d00" title="photonNucleusCrossSection\l::getPhotonNucleusSigma" alt="" coords="354,847,563,891"/>
+<area shape="rect" id="node44" href="$db/df6/classeventChannel.html#a891216cf214af7f15f0117135f8ca63f" title="eventChannel::setTotalChannel\lCrossSection" alt="" coords="343,915,575,959"/>
+<area shape="rect" id="node45" href="$d0/d4e/classphotonNucleusCrossSection.html#a4aa181004bc00351db0e7b72c07405c0" title="returns slope of t&#45;distribution [(GeV/c)^{&#45;2}]" alt="" coords="354,983,563,1027"/>
+<area shape="rect" id="node3" href="$d0/d4e/classphotonNucleusCrossSection.html#a1b1f91dd6aeaa1edc34ccf68b953d96f" title="photonNucleusCrossSection\l::getBNORM" alt="" coords="634,185,843,229"/>
+<area shape="rect" id="node4" href="$d0/d4e/classphotonNucleusCrossSection.html#a68ac91e3851cd4d6522e7af1125eb678" title="returns beamBeamSystem" alt="" coords="634,253,843,297"/>
+<area shape="rect" id="node5" href="$d1/d21/classbeamBeamSystem.html#a039e2f7e609c95744ad06eb433688485" title="returns beam particle 1" alt="" coords="1160,712,1412,740"/>
+<area shape="rect" id="node6" href="$d4/d51/classnucleus.html#afb4d4a7f776a88c10fa0ff433e74463e" title="returns nucleon number of nucleus" alt="" coords="1240,504,1332,532"/>
+<area shape="rect" id="node7" href="$d1/d21/classbeamBeamSystem.html#a914c7a1b7802ed916928073483e18e7b" title="returns beam particle 2" alt="" coords="1167,556,1405,584"/>
+<area shape="rect" id="node8" href="$d0/d4e/classphotonNucleusCrossSection.html#ab561ea1d1a06d269a550d724591915e9" title="photonNucleusCrossSection::g" alt="" coords="625,321,852,349"/>
+<area shape="rect" id="node9" href="$d0/d4e/classphotonNucleusCrossSection.html#a784942c17c3c7c68b7702e2488a5a780" title="photonNucleusCrossSection\l::photonFlux" alt="" coords="903,304,1112,348"/>
+<area shape="rect" id="node21" href="$d0/d4e/classphotonNucleusCrossSection.html#a6711e96b1e4a811e8771fb49bbe40e5e" title="photonNucleusCrossSection\l::getcsgA" alt="" coords="634,628,843,672"/>
+<area shape="rect" id="node22" href="$d0/d4e/classphotonNucleusCrossSection.html#a5326d5e72d4f918502a155baeb947005" title="photonNucleusCrossSection\l::getcsgA_Q2_dep" alt="" coords="903,919,1112,963"/>
+<area shape="rect" id="node33" href="$d0/d4e/classphotonNucleusCrossSection.html#aab132d8d1940a06b6724dcc5764f5191" title="photonNucleusCrossSection\l::breitWigner" alt="" coords="634,919,843,963"/>
+<area shape="rect" id="node36" href="$d7/d04/classe__wideResonanceCrossSection.html#ac8f7c200c46bfb963341b2625247d5a3" title="e_wideResonanceCrossSection\l::printCrossSection" alt="" coords="625,987,853,1031"/>
+<area shape="rect" id="node37" href="$d0/d4e/classphotonNucleusCrossSection.html#a934887d151207e2651931d3b890a99ab" title="photonNucleusCrossSection\l::setPhotonNucleusSigma" alt="" coords="634,49,843,93"/>
+<area shape="rect" id="node38" href="$d7/d04/classe__wideResonanceCrossSection.html#ab0b65e15e1f5006a602e4b28fb70e16c" title="e_wideResonanceCrossSection\l::makeGammaPQ2dependence" alt="" coords="623,117,855,161"/>
+<area shape="rect" id="node10" href="$d4/d51/classnucleus.html#a31aecce251b8d61c0e36b46ccd3730d7" title="nucleus::nuclearRadius" alt="" coords="1656,452,1835,480"/>
+<area shape="rect" id="node11" href="$d4/d51/classnucleus.html#acd58b7873e7d2d42bbc31414e373b89d" title="returns atomic number of nucleus" alt="" coords="1475,271,1567,299"/>
+<area shape="rect" id="node12" href="$d0/d21/classbeam.html#ad3c0efadce37ff4ec3f953790d4aaee4" title="calculates photon density (number of photons / (energy * area))" alt="" coords="1202,245,1370,273"/>
+<area shape="rect" id="node13" href="$d7/d46/namespacebessel.html#a6d6aa0ba08c052cec22f87399b0c27b1" title="bessel::dbesk1" alt="" coords="1460,193,1583,221"/>
+<area shape="rect" id="node15" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="1257,5,1315,33"/>
+<area shape="rect" id="node16" href="$d1/d21/classbeamBeamSystem.html#ac31d664ce09dda97e06c2cab564c1120" title="beamBeamSystem::probability\lOfBreakup" alt="" coords="1171,57,1401,101"/>
+<area shape="rect" id="node17" href="$d0/d4e/classphotonNucleusCrossSection.html#a0e416c5e83c1a79d0cb2f4414230985b" title="photonNucleusCrossSection\l::nepoint" alt="" coords="1181,125,1391,169"/>
+<area shape="rect" id="node20" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="1264,400,1308,428"/>
+<area shape="rect" id="node14" href="$d7/d46/namespacebessel.html#a7c6ce9404b6a5c90e4d2b3b3afe8b8e7" title="bessel::besI1" alt="" coords="1691,193,1800,221"/>
+<area shape="rect" id="node18" href="$d7/d46/namespacebessel.html#adfc2089c0305158d138ec0e7229d3c9b" title="bessel::dbesk0" alt="" coords="1460,133,1583,161"/>
+<area shape="rect" id="node19" href="$d7/d46/namespacebessel.html#a3fb6956cd24162fed2e5f4e25dea2945" title="bessel::besI0" alt="" coords="1691,133,1800,161"/>
+<area shape="rect" id="node25" href="$d0/d4e/classphotonNucleusCrossSection.html#a5ae3b27a780b0456689f2d3134f0478e" title="photonNucleusCrossSection\l::sigmagp" alt="" coords="1181,765,1391,809"/>
+<area shape="rect" id="node26" href="$d0/d4e/classphotonNucleusCrossSection.html#af3782ac63a9a7b85b7d3fb25e4e98a9d" title="photonNucleusCrossSection\l::sigma_N" alt="" coords="903,748,1112,792"/>
+<area shape="rect" id="node27" href="$d0/d4e/classphotonNucleusCrossSection.html#a33271d9aa28799df992ea7939ba1909c" title="photonNucleusCrossSection\l::sigma_A" alt="" coords="903,628,1112,672"/>
+<area shape="rect" id="node32" href="$d4/d51/classnucleus.html#a44010f806c36731bf2e1daee89f27738" title="nucleus::formFactor" alt="" coords="929,372,1085,400"/>
+<area shape="rect" id="node23" href="$d0/d4e/classphotonNucleusCrossSection.html#a659587c43f9f26f8499056d0f91d774f" title="returns mass of the produced system [GeV/c^2]" alt="" coords="1181,851,1391,895"/>
+<area shape="rect" id="node24" href="$d0/d4e/classphotonNucleusCrossSection.html#ab4e4d4f1e612c2c8ebce68c44fda7abc" title="photonNucleusCrossSection\l::vmQ2Power" alt="" coords="1181,919,1391,963"/>
+<area shape="rect" id="node28" href="$d4/d51/classnucleus.html#a5de922b3a6cc87a3eb1b421fc6f2d343" title="nucleus::rho0" alt="" coords="1229,608,1343,636"/>
+<area shape="rect" id="node29" href="$d4/d51/classnucleus.html#a625506ed8907970e3aea75ff925bfc9b" title="nucleus::thickness" alt="" coords="1213,660,1359,688"/>
+<area shape="rect" id="node30" href="$d4/d51/classnucleus.html#ad46c433008fa9451021f8614b126996a" title="nucleus::rws" alt="" coords="1468,581,1575,609"/>
+<area shape="rect" id="node31" href="$d4/d51/classnucleus.html#ab71f2da42e9f143940e727f7525076e2" title="nucleus::woodSaxonSkinDepth" alt="" coords="1631,581,1860,609"/>
+<area shape="rect" id="node34" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="952,987,1063,1015"/>
+<area shape="rect" id="node35" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1198,987,1374,1015"/>
+<area shape="rect" id="node40" href="$d7/ddb/egutils_8cpp.html#a6898c4326d3dbd8ba593c91b6a00ac31" title="vector" alt="" coords="706,1055,771,1083"/>
+<area shape="rect" id="node41" href="$d7/ddb/egutils_8cpp.html#a0669a7d0e70f2da34b4a11d9c669d6b6" title="nrerror" alt="" coords="973,1055,1041,1083"/>
+<area shape="rect" id="node42" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="1263,1055,1309,1083"/>
+</map>

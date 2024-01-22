@@ -1,0 +1,20 @@
+<map id="SvtxTrackEval" name="SvtxTrackEval">
+<area shape="rect" id="node4" href="$d2/db8/classSvtxTrack.html" title="SvtxTrack" alt="" coords="863,367,950,395"/>
+<area shape="rect" id="node5" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="5,1785,89,1813"/>
+<area shape="rect" id="node7" href="$de/dc9/classPHG4Particle.html" title="PHG4Particle" alt="" coords="449,562,557,590"/>
+<area shape="rect" id="node9" href="$d3/d9e/classPHG4Hit.html" title="PHG4Hit" alt="" coords="139,1725,217,1753"/>
+<area shape="rect" id="node21" href="$d0/d2c/classTrkrClusterContainer.html" title="Cluster container object." alt="" coords="825,2101,988,2129"/>
+<area shape="rect" id="node24" href="$d7/d8d/classTrkrHitTruthAssoc.html" title="Association object for PHG4Cells contributiong to TrkrHits." alt="" coords="837,2153,977,2181"/>
+<area shape="rect" id="node26" href="$d5/d76/classTrkrHitSetContainer.html" title="TrkrHitSetContainer" alt="" coords="829,2205,985,2233"/>
+<area shape="rect" id="node27" href="$da/d6c/classPHG4TruthInfoContainer.html" title="PHG4TruthInfoContainer" alt="" coords="814,1538,999,1566"/>
+<area shape="rect" id="node28" href="$d4/d30/classPHG4HitContainer.html" title="PHG4HitContainer" alt="" coords="834,1863,979,1891"/>
+<area shape="rect" id="node37" href="$d7/d4f/classTrkrClusterHitAssoc.html" title="Base class for associating clusters to the hits that went into them." alt="" coords="241,1155,395,1183"/>
+<area shape="rect" id="node47" href="$d7/d8b/classSvtxTrackMap.html" title="SvtxTrackMap" alt="" coords="261,2266,375,2294"/>
+<area shape="rect" id="node13" href="$d1/d1e/classSvtxClusterEval.html" title="SvtxClusterEval" alt="" coords="1863,1445,1990,1473"/>
+<area shape="rect" id="node15" title="STL class." alt="" coords="821,887,992,915"/>
+<area shape="rect" id="node18" href="$d9/d62/classSvtxHitEval.html" title="SvtxHitEval" alt="" coords="1364,2057,1463,2085"/>
+<area shape="rect" id="node35" href="$d4/d32/structActsTrackingGeometry.html" title="ActsTrackingGeometry" alt="" coords="1326,1258,1501,1286"/>
+<area shape="rect" id="node40" href="$d0/dcd/structActsSurfaceMaps.html" title="ActsSurfaceMaps" alt="" coords="1344,1478,1483,1506"/>
+<area shape="rect" id="node45" title="STL class." alt="" coords="1882,2543,1971,2571"/>
+<area shape="rect" id="node46" title="STL class." alt="" coords="1342,2535,1485,2579"/>
+</map>

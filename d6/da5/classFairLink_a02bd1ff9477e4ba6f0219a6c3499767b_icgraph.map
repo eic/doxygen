@@ -1,0 +1,18 @@
+<map id="FairLink::GetFile" name="FairLink::GetFile">
+<area shape="rect" id="node2" href="$d0/d6c/classFairRootManager.html#a66e5211576ef98b5593bfb3a7908b62a" title="FairRootManager::GetClone\lOfLinkData" alt="" coords="181,5,387,49"/>
+<area shape="rect" id="node4" href="$d0/d6c/classFairRootManager.html#abb80ae7e34ba95e31c3aa4bd6fb9aba5" title="FairRootManager::GetClone\lOfTClonesArray" alt="" coords="181,73,387,117"/>
+<area shape="rect" id="node5" href="$d6/da5/classFairLink.html#a5d1ebd2bac59d4fdcd4d4ebc325b08e5" title="FairLink::operator\&lt;" alt="" coords="209,141,359,169"/>
+<area shape="rect" id="node6" href="$d6/da5/classFairLink.html#a44abfd97a93d6bc014605f8151a47a89" title="FairLink::operator==" alt="" coords="203,193,365,221"/>
+<area shape="rect" id="node7" href="$d6/da5/classFairLink.html#af6a8cc66f90e5f99b7ae61d1a2f80437" title="FairLink::Print" alt="" coords="227,245,341,273"/>
+<area shape="rect" id="node3" href="$dd/d26/classPndTrackCand.html#a56feb56c76378189e527dda9dba8a19e" title="PndTrackCand::CalcTimeStamp" alt="" coords="435,13,667,41"/>
+<area shape="rect" id="node8" href="$df/d10/classFairMultiLinkedData.html#ab6b421ef9b6cfdc4288adce5618d9463" title="Output." alt="" coords="474,207,627,251"/>
+<area shape="rect" id="node17" href="$d2/d4a/classPndTrackCandHit.html#ad4faad4f3c051fd2d5d0bddde4060d3b" title="PndTrackCandHit::Print" alt="" coords="463,275,639,303"/>
+<area shape="rect" id="node9" href="$d6/d15/classFairTimeStamp.html#a779bc9107ff19c0a2ee5d533b4e7b57d" title="FairTimeStamp::Print" alt="" coords="715,215,877,243"/>
+<area shape="rect" id="node10" href="$d5/d7e/classFairRingSorter.html#a59ae586d78e7791576d1baf44fbe7038" title="FairRingSorter::AddElement" alt="" coords="925,215,1135,243"/>
+<area shape="rect" id="node11" href="$d5/df8/classFairRingSorterTask.html#a4e5b23136ffd0d2dda5dc70960f0a394" title="FairRingSorterTask\l::Exec" alt="" coords="1223,143,1369,187"/>
+<area shape="rect" id="node13" href="$d2/d88/classFairWriteoutBuffer.html#a3ea000491d4b59bab842c4120ce5599b" title="FairWriteoutBuffer\l::FillDataToDeadTimeMap" alt="" coords="934,275,1126,319"/>
+<area shape="rect" id="node12" href="$d5/df8/classFairRingSorterTask.html#a03d4677862c1fe8e57667360483df0b9" title="FairRingSorterTask\l::FinishTask" alt="" coords="1223,211,1369,255"/>
+<area shape="rect" id="node14" href="$d2/d88/classFairWriteoutBuffer.html#afd2c62e5148e2c31bab3dd4b04f64cbc" title="FairWriteoutBuffer\l::MoveDataFromStartTimeMap\lToDeadTimeMap" alt="" coords="1183,279,1409,339"/>
+<area shape="rect" id="node15" href="$d2/d88/classFairWriteoutBuffer.html#a2ee049ce56842a1ad73816a64be6cf00" title="FairWriteoutBuffer\l::WriteOutData" alt="" coords="1457,256,1603,300"/>
+<area shape="rect" id="node16" href="$d2/d88/classFairWriteoutBuffer.html#a12844af29276085d664dfab6bf99eea9" title="FairWriteoutBuffer\l::WriteOutAllData" alt="" coords="1651,287,1796,331"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="CbmRichTestHits::SetParContainers" name="CbmRichTestHits::SetParContainers">
+<area shape="rect" id="node2" href="$d7/d6f/classFairRuntimeDb.html#abba88b5b8c7dc22de5a5d1136f0074fb" title="FairRuntimeDb::getContainer" alt="" coords="313,204,532,232"/>
+<area shape="rect" id="node37" href="$dd/dd2/classFairRun.html#a769c748079f470c6fb88bdddd2635e78" title="FairRun::GetRuntimeDb" alt="" coords="333,256,513,284"/>
+<area shape="rect" id="node38" href="$de/da9/classFairRunAna.html#a4de7f08c87479bf21bc2c3f267a72a19" title="FairRunAna::Instance" alt="" coords="341,308,505,336"/>
+<area shape="rect" id="node3" href="$df/db3/classFairContFact.html#ae0998ead179f3785429aede0de4f48b1" title="FairContFact::getContainer" alt="" coords="580,204,781,232"/>
+<area shape="rect" id="node4" href="$d7/d61/classFairContainer.html#ac56ce698c560bb4ff2ffb11692ca4c48" title="FairContainer::getConcatName" alt="" coords="829,5,1057,33"/>
+<area shape="rect" id="node5" href="$d7/d6f/classFairRuntimeDb.html#a77b7484aa1515d1155dc2cf0654676ad" title="FairRuntimeDb::instance" alt="" coords="850,57,1037,85"/>
+<area shape="rect" id="node6" href="$d7/d6f/classFairRuntimeDb.html#af94753ee03e760da4f9373114d9d0376" title="FairRuntimeDb::findContainer" alt="" coords="832,109,1055,137"/>
+<area shape="rect" id="node7" href="$d7/d61/classFairContainer.html#a5e4da05f7865230de3a6b781c74bc587" title="FairContainer::getActual\lContext" alt="" coords="851,161,1035,205"/>
+<area shape="rect" id="node8" href="$d7/d61/classFairContainer.html#a51cf64a65b8a2186ce27a22c1d149f68" title="FairContainer::setActual\lContext" alt="" coords="852,229,1035,273"/>
+<area shape="rect" id="node9" href="$d7/d61/classFairContainer.html#a29e630d8a37e253846752a5757557c7a" title="FairContainer::getDefault\lContext" alt="" coords="847,297,1039,341"/>
+<area shape="rect" id="node10" href="$df/db3/classFairContFact.html#a53de67a76eb97e448f79f1582bc3fc19" title="FairContFact::createContainer" alt="" coords="832,365,1055,393"/>
+<area shape="rect" id="node11" href="$d7/d6f/classFairRuntimeDb.html#a94caf1ebd3178324cea1de4ea2372f78" title="FairRuntimeDb::addContainer" alt="" coords="833,417,1054,445"/>
+<area shape="rect" id="node12" href="$d8/d44/namespaceActs_1_1PrimitivesView3DTest.html#ab51e63c03c55aac604dba9c1cd26ac85" title="Acts::PrimitivesView3DTest::run" alt="" coords="1105,365,1340,393"/>
+<area shape="rect" id="node35" href="$d6/de1/classFairRtdbRun.html#a0112134795f28b40a14b34f59822b40e" title="FairRtdbRun::getParVersion" alt="" coords="1121,417,1325,445"/>
+<area shape="rect" id="node36" href="$d6/de1/classFairRtdbRun.html#a897839f01980b84263d1cbfb534352b9" title="FairRtdbRun::addParVersion" alt="" coords="1119,469,1327,497"/>
+<area shape="rect" id="node13" href="$dc/de5/PHG4mRICHDetector_8cc.html#a10e6010f5f8222befd1273192d72ddf5" title="start" alt="" coords="1463,33,1516,61"/>
+<area shape="rect" id="node14" href="$d2/d3f/structActs_1_1GeometryView3D.html#a76d7fe94393a89a05760f6b80eb6bd31" title="Acts::GeometryView3D\l::drawSegment" alt="" coords="1400,85,1579,129"/>
+<area shape="rect" id="node15" href="$d0/d35/classActs_1_1IVisualization3D.html#ac2b3dc7f88f26a197d48a28d1d85b3d4" title="Acts::IVisualization3D\l::write" alt="" coords="1405,153,1574,197"/>
+<area shape="rect" id="node16" href="$d0/d35/classActs_1_1IVisualization3D.html#a5e1197bd19f514313f2642621e43de0e" title="Acts::IVisualization3D\l::clear" alt="" coords="1405,221,1574,265"/>
+<area shape="rect" id="node17" href="$d2/d3f/structActs_1_1GeometryView3D.html#a67df89dea7c20fe0e7ecefc50a78c75f" title="Acts::GeometryView3D\l::drawArrowForward" alt="" coords="1400,289,1579,333"/>
+<area shape="rect" id="node18" href="$d2/d3f/structActs_1_1GeometryView3D.html#ad14a942752c9af6f0ff44cc3adbdee5d" title="Acts::GeometryView3D\l::drawArrowBackward" alt="" coords="1400,357,1579,401"/>
+<area shape="rect" id="node19" href="$d2/d3f/structActs_1_1GeometryView3D.html#a3f88095e16b588fdbb353f0e30961d92" title="Acts::GeometryView3D\l::drawArrowsBoth" alt="" coords="1400,425,1579,469"/>
+<area shape="rect" id="node20" href="$d2/d3f/structActs_1_1GeometryView3D.html#ab8aad2f0260221fecde781f003510d24" title="Acts::GeometryView3D\l::drawSurface" alt="" coords="1400,493,1579,537"/>
+<area shape="rect" id="node23" href="$db/d35/structActs_1_1EventDataView3D.html#a5860abf64f67e4e333020160d50ed99b" title="Acts::EventDataView3D\l::drawCovarianceCartesian" alt="" coords="1388,741,1591,785"/>
+<area shape="rect" id="node31" href="$dd/d7e/namespaceActs_1_1Test.html#a51c29a20fb018e161cb50c4c3886c981" title="Acts::Test::origin" alt="" coords="1423,809,1556,837"/>
+<area shape="rect" id="node32" href="$db/d35/structActs_1_1EventDataView3D.html#a1bb690374d01bc8e407d603d2a87b7dd" title="Acts::EventDataView3D\l::drawCovarianceAngular" alt="" coords="1393,561,1586,605"/>
+<area shape="rect" id="node21" href="$de/d7d/classActs_1_1Surface.html#a8580e9839bf7b3207b3f01b0a822febf" title="Acts::Surface::polyhedron\lRepresentation" alt="" coords="1639,397,1835,441"/>
+<area shape="rect" id="node22" href="$dd/d9e/structActs_1_1Polyhedron.html#a751a373c4c96d6e3b6deaab8c70cf3f9" title="Acts::Polyhedron::move" alt="" coords="1645,465,1828,493"/>
+<area shape="rect" id="node24" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="1939,689,1995,717"/>
+<area shape="rect" id="node25" href="$db/d35/structActs_1_1EventDataView3D.html#a80b2ec87273567eccee4aa65ac4aede9" title="Acts::EventDataView3D\l::decomposeCovariance" alt="" coords="1645,741,1829,785"/>
+<area shape="rect" id="node26" href="$db/d35/structActs_1_1EventDataView3D.html#a0773bc56ca37a99962e14d47356fc17b" title="Acts::EventDataView3D\l::createEllipse" alt="" coords="1646,809,1827,853"/>
+<area shape="rect" id="node28" href="$da/d6e/structActs_1_1detail_1_1FacesHelper.html#a1ad36c75fdd2b14874b287ad561fc567" title="This method words for all convex type surface setups It includes:" alt="" coords="1641,877,1832,921"/>
+<area shape="rect" id="node29" href="$d2/d3f/structActs_1_1GeometryView3D.html#a77ed7ddb38695d4a658b18f46ee8c873" title="Acts::GeometryView3D\l::drawPolyhedron" alt="" coords="1647,945,1826,989"/>
+<area shape="rect" id="node27" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="1945,817,1989,845"/>
+<area shape="rect" id="node30" href="$d0/d35/classActs_1_1IVisualization3D.html#ad25b54d62c7d3ce9da78d0fcdc6fe54b" title="Acts::IVisualization3D\l::faces" alt="" coords="1883,945,2052,989"/>
+<area shape="rect" id="node33" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a397d5e8143b34171258deef4f9cca9ad" title="Acts::VectorHelpers::phi" alt="" coords="1645,569,1829,597"/>
+<area shape="rect" id="node34" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a1c1a90bc524259263f553410691dd9ad" title="Acts::VectorHelpers\l::theta" alt="" coords="1659,621,1814,665"/>
+</map>

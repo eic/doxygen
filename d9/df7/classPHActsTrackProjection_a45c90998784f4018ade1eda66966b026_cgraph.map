@@ -1,0 +1,32 @@
+<map id="PHActsTrackProjection::process_event" name="PHActsTrackProjection::process_event">
+<area shape="rect" id="node2" href="$d9/df7/classPHActsTrackProjection.html#a7f5fc9191fec71d9899a2db2cba63df6" title="PHActsTrackProjection\l::projectTracks" alt="" coords="223,740,392,784"/>
+<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="718,721,894,749"/>
+<area shape="rect" id="node3" href="$d9/df7/classPHActsTrackProjection.html#afa43869dd88d74edccc8b691101369de" title="Set the particular calo nodes depending on which layer." alt="" coords="440,833,629,877"/>
+<area shape="rect" id="node4" href="$d7/d8b/classSvtxTrackMap.html#a08561d1123c35a7f953038f8d684a6d5" title="SvtxTrackMap::get" alt="" coords="461,901,608,929"/>
+<area shape="rect" id="node6" href="$d9/df7/classPHActsTrackProjection.html#ac0a6e1299ff21c56fbddab203226719d" title="Propagate the fitted track parameters to a surface with Acts." alt="" coords="450,765,619,809"/>
+<area shape="rect" id="node11" href="$d9/df7/classPHActsTrackProjection.html#a9b8b57660d42eba79626e9770e9ad4e7" title="Update the SvtxTrack object with the track&#45;cluster match." alt="" coords="450,413,619,457"/>
+<area shape="rect" id="node7" href="$d5/dbb/classActs_1_1SingleBoundTrackParameters.html#a2b98cecaa5f095c40a16b2be854bfaf9" title="Momentum three&#45;vector." alt="" coords="677,825,935,869"/>
+<area shape="rect" id="node8" href="$d5/dbb/classActs_1_1SingleBoundTrackParameters.html#a4b2ca7926011705fb822cf5a69b0e17b" title="Acts::SingleBoundTrackParameters\l::position" alt="" coords="677,653,935,697"/>
+<area shape="rect" id="node9" href="$da/d7b/namespaceActs.html#a9b4dee934b0b193d57604b19bc8cd527" title="get default debug output logger" alt="" coords="717,773,895,801"/>
+<area shape="rect" id="node10" href="$dd/d94/fun4all__tutorials_2blob_2master_2materialscan_2matscan_8C.html#a388f572c62279f839ee138a9afbdeeb5" title="print" alt="" coords="1054,773,1107,801"/>
+<area shape="rect" id="node12" href="$d0/d25/group__cylindrical__calorimeter.html#ga5023bf127c181d06dd37a954546127b9" title="RawTowerGeomContainer\l::get_phibin" alt="" coords="708,141,904,185"/>
+<area shape="rect" id="node13" href="$d0/d25/group__cylindrical__calorimeter.html#ga701348b0eafcb36fb9048c96d393e1b5" title="RawTowerGeomContainer\l::get_etabin" alt="" coords="708,209,904,253"/>
+<area shape="rect" id="node14" href="$d9/df7/classPHActsTrackProjection.html#a7ef985848ea6acbe4bad0ca549bfc929" title="Get 3x3 and 5x5 tower sums matched to a track." alt="" coords="707,277,905,321"/>
+<area shape="rect" id="node21" href="$d2/db8/classSvtxTrack.html#a37029d8a4d8f1457cbbc9a0ca2e47381" title="SvtxTrack::set_cal\l_energy_3x3" alt="" coords="735,345,877,389"/>
+<area shape="rect" id="node22" href="$d2/db8/classSvtxTrack.html#a9b17d6eafa440786777fba5bdc179945" title="SvtxTrack::set_cal\l_energy_5x5" alt="" coords="735,413,877,457"/>
+<area shape="rect" id="node23" href="$d9/df7/classPHActsTrackProjection.html#a36aba00430c09db559035680f7774470" title="Get the cluster values for a particular matched track." alt="" coords="721,481,891,525"/>
+<area shape="rect" id="node28" href="$d2/db8/classSvtxTrack.html#abd114308b76d146eac80ef562267518e" title="SvtxTrack::set_cal_dphi" alt="" coords="717,549,895,577"/>
+<area shape="rect" id="node29" href="$d2/db8/classSvtxTrack.html#a418e246a2fb5ee4ed29ea07a644651d5" title="SvtxTrack::set_cal_deta" alt="" coords="717,601,895,629"/>
+<area shape="rect" id="node30" href="$d2/db8/classSvtxTrack.html#a9c3d3b356e68ef10e69049e7c9708fcc" title="SvtxTrack::set_cal\l_cluster_id" alt="" coords="735,5,877,49"/>
+<area shape="rect" id="node31" href="$d2/db8/classSvtxTrack.html#a6f453e81d5486a92f6a168225162068d" title="SvtxTrack::set_cal\l_cluster_e" alt="" coords="735,73,877,117"/>
+<area shape="rect" id="node15" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="1025,264,1136,292"/>
+<area shape="rect" id="node17" href="$d9/dd8/classRawTower.html#ab23195d58fefabd9162115afa96707cc" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="994,316,1167,344"/>
+<area shape="rect" id="node18" href="$d0/d25/group__cylindrical__calorimeter.html#ga3d283957eb2f3bc0b27e3217d37b8dfb" title="RawTowerGeomContainer\l::get_etabins" alt="" coords="983,368,1179,412"/>
+<area shape="rect" id="node19" href="$d0/d25/group__cylindrical__calorimeter.html#gab9c3a0fa996fffad8aa107d62d5b26b6" title="RawTowerGeomContainer\l::get_phibins" alt="" coords="983,128,1179,172"/>
+<area shape="rect" id="node20" href="$d3/dc7/classRawTowerContainer.html#a94a3368d6cd85ea4c3f204cd1065da26" title="RawTowerContainer::\lgetTower" alt="" coords="999,196,1162,240"/>
+<area shape="rect" id="node16" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1233,264,1409,292"/>
+<area shape="rect" id="node24" href="$d9/df7/classPHActsTrackProjection.html#a1a8e20c735f94cadd9adde9f891fe9fd" title="PHActsTrackProjection\l::deltaPhi" alt="" coords="996,436,1165,480"/>
+<area shape="rect" id="node25" href="$d6/d12/classRawClusterContainer.html#a0e6e107bd231fd090d5a42cf36db041a" title="RawClusterContainer\l::getClustersMap" alt="" coords="999,504,1163,548"/>
+<area shape="rect" id="node26" href="$d0/d0e/classRawClusterUtility.html#aa3749ddedc2ebe5d12394650d89aa704" title="Pseudorapidity of cluster with respect to given vertex position." alt="" coords="1007,572,1154,616"/>
+<area shape="rect" id="node27" href="$d6/dc7/group__getters.html#gaf37c34254ebd3a0e62083f517012418b" title="RawCluster::get_position" alt="" coords="1227,580,1415,608"/>
+</map>

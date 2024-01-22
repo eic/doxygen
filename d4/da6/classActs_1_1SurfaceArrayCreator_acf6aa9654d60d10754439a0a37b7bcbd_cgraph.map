@@ -1,0 +1,12 @@
+<map id="Acts::SurfaceArrayCreator::surfaceArrayOnCylinder" name="Acts::SurfaceArrayCreator::surfaceArrayOnCylinder">
+<area shape="rect" id="node2" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="328,5,372,33"/>
+<area shape="rect" id="node3" href="$d5/d67/structActs_1_1SurfaceArray_1_1ISurfaceGridLookup.html#acfa6270ff57e8c3c62560a078f877249" title="Fill provided surfaces into the contained Grid." alt="" coords="257,57,443,101"/>
+<area shape="rect" id="node4" href="$d5/d67/structActs_1_1SurfaceArray_1_1ISurfaceGridLookup.html#a95f52430ea0030adf333e371d2bd93c8" title="Returns copies of the axes used in the grid as AnyAxis." alt="" coords="269,125,431,185"/>
+<area shape="rect" id="node5" href="$db/d76/structActs_1_1ProtoLayer.html#a50ad0f9f30bd795a82815ef569c19151" title="Acts::ProtoLayer::medium" alt="" coords="252,209,448,237"/>
+<area shape="rect" id="node10" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="327,261,373,289"/>
+<area shape="rect" id="node11" href="$da/d7b/namespaceActs.html#a337992aec16b459064f9bba326128657" title="Acts::unpack_shared\l_vector" alt="" coords="269,313,431,357"/>
+<area shape="rect" id="node6" href="$db/d76/structActs_1_1ProtoLayer.html#a4c925388ba319f12f49d21dbaa66836e" title="Acts::ProtoLayer::max" alt="" coords="496,184,667,212"/>
+<area shape="rect" id="node8" href="$db/d76/structActs_1_1ProtoLayer.html#a34f893e00c6ddcb2f327743c17342985" title="Acts::ProtoLayer::min" alt="" coords="499,236,664,264"/>
+<area shape="rect" id="node7" href="$d2/d93/structActs_1_1Extent.html#a2e0321ab28295e2c366bcf2ac37322f0" title="Acts::Extent::max" alt="" coords="715,184,857,212"/>
+<area shape="rect" id="node9" href="$d2/d93/structActs_1_1Extent.html#ab3ceccc973b8a4104c17f99e4ed1690e" title="Acts::Extent::min" alt="" coords="717,236,855,264"/>
+</map>

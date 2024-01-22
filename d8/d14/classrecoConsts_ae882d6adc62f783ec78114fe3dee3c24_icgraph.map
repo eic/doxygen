@@ -1,0 +1,51 @@
+<map id="recoConsts::recoConsts" name="recoConsts::recoConsts">
+<area shape="rect" id="node2" href="$d8/d14/classrecoConsts.html#ae69a5c29a7199ba16d0e537158618802" title="recoConsts::instance" alt="" coords="233,1282,396,1310"/>
+<area shape="rect" id="node3" href="$d9/d8a/Extract__ECCE__gdml_8C.html#adef1108aefc699a7368616b4d8f77723" title="Extract_ECCE_gdml" alt="" coords="1030,179,1182,207"/>
+<area shape="rect" id="node4" href="$d7/da9/Fun4All__G4__Tracking_8C.html#acaee55add6a4a54eb182c6120db9649a" title="Fun4All_G4_Tracking" alt="" coords="1026,105,1186,133"/>
+<area shape="rect" id="node5" href="$d9/d1f/Fun4All__G4__Lmon_8C.html#a4f09ca292c4b3a82ce38b19ac3858d74" title="Fun4All_G4_Lmon" alt="" coords="1035,231,1177,259"/>
+<area shape="rect" id="node6" href="$d6/d6f/classFun4AllHepMCInputManager.html#a668554061600fec90eb3968ec191849a" title="Fun4AllHepMCInputManager\l::fileopen" alt="" coords="463,947,678,991"/>
+<area shape="rect" id="node7" href="$db/d1f/classFun4AllOscarInputManager.html#a90d077019c91b2ab37435fa3c67d5a1b" title="Fun4AllOscarInputManager\l::fileopen" alt="" coords="468,1015,673,1059"/>
+<area shape="rect" id="node8" href="$de/ddc/classHeadReco.html#a384e2e3f232c3b9951d935bac1c824f8" title="HeadReco::InitRun" alt="" coords="498,1083,643,1111"/>
+<area shape="rect" id="node9" href="$de/ddc/classHeadReco.html#af25188da8cf8ae43186ffabbc85d206c" title="Called at the end of each run." alt="" coords="496,1135,645,1163"/>
+<area shape="rect" id="node10" href="$d1/d44/classSyncReco.html#aefe131c43c83f246bac98a070bbd5dde" title="SyncReco::InitRun" alt="" coords="499,1187,642,1215"/>
+<area shape="rect" id="node11" href="$df/d43/classFun4AllDummyInputManager.html#a63a2d2c7b084c497504a803cd437f43c" title="Fun4AllDummyInputManager\l::setSyncManager" alt="" coords="461,1239,680,1283"/>
+<area shape="rect" id="node12" href="$d3/d96/classFun4AllHistoManager.html#a61c2043c62739de451de3f9287832a08" title="Fun4AllHistoManager\l::dumpHistos" alt="" coords="488,1307,653,1351"/>
+<area shape="rect" id="node13" href="$da/d29/classFun4AllServer.html#a853c227a8ca3f38cc5dab7f8dfdf0bd4" title="Fun4AllServer::~Fun4AllServer" alt="" coords="455,1375,686,1403"/>
+<area shape="rect" id="node14" href="$da/d29/classFun4AllServer.html#ab7263450319ca1d5029209fde26a7af8" title="Fun4AllServer::End" alt="" coords="781,387,931,415"/>
+<area shape="rect" id="node15" href="$df/d51/Fun4All__ExportGeom_8C.html#a582925c51bad38d562cf19e71211adfd" title="get geometry from DST file and output TGeoManager ROOT files or other formats of geometry files..." alt="" coords="1025,283,1187,311"/>
+<area shape="rect" id="node16" href="$d8/d14/Fun4All__G4__Babar_8C.html#ae3babc7f493f8a671f129ef3084ebc23" title="Fun4All_G4_Babar" alt="" coords="1033,335,1179,363"/>
+<area shape="rect" id="node17" href="$db/d7c/Fun4All__G4__CEMC_8C.html#a27c34234bed188f890585d67d12da1ff" title="Fun4All_G4_CEMC" alt="" coords="1035,387,1177,415"/>
+<area shape="rect" id="node18" href="$de/dcc/Fun4All__G4__Cleo_8C.html#ae4d584d6f7864ddc358a5cb1bf03bfa5" title="Fun4All_G4_Cleo" alt="" coords="1039,439,1173,467"/>
+<area shape="rect" id="node19" href="$d4/d3e/Fun4All__G4__FEMC_8C.html#ac27e1f27ebd448c199bef7b87b857324" title="Fun4All_G4_FEMC" alt="" coords="1035,491,1177,519"/>
+<area shape="rect" id="node20" href="$d8/ddf/Fun4All__G4__FHCAL_8C.html#a30335378765e08d065753b87cb2b120d" title="Fun4All_G4_FHCAL" alt="" coords="1032,543,1180,571"/>
+<area shape="rect" id="node21" href="$da/d70/Fun4All__G4__HCALIN_8C.html#a6fd66cf9b4b0c6284f16a98787342734" title="Fun4All_G4_HCALIN" alt="" coords="1029,595,1183,623"/>
+<area shape="rect" id="node22" href="$d5/d4e/Fun4All__G4__HCALOUT_8C.html#ab1b085728b3dfbd312c405b6aa0e31b9" title="Fun4All_G4_HCALOUT" alt="" coords="1021,647,1191,675"/>
+<area shape="rect" id="node23" href="$dd/d8d/Fun4All__G4__Magnet_8C.html#a375961511ba614ba387343e652ab0202" title="Fun4All_G4_Magnet" alt="" coords="1029,699,1183,727"/>
+<area shape="rect" id="node24" href="$d9/d0f/Fun4All__ImportGeom_8C.html#a3388968a8dae60e9eb62b1126f747b6a" title="Read in a Geometry file, and output DST and ROOT TGeo files." alt="" coords="1025,751,1187,779"/>
+<area shape="rect" id="node25" href="$da/d29/classFun4AllServer.html#a11bbc8b2f53bc06e0b05ee202dd6372a" title="run n events (0 means up to end of file)" alt="" coords="783,491,929,519"/>
+<area shape="rect" id="node26" href="$d6/deb/PHGeom__DSTInspection_8C.html#a004a4f91a64bef884a2708f11f6094ec" title="PHGeom_DSTInspection" alt="" coords="1015,849,1197,877"/>
+<area shape="rect" id="node27" href="$da/d29/classFun4AllServer.html#af1002b9170308da078c0e14a5ac4b514" title="Fun4AllServer::setRun" alt="" coords="485,489,656,517"/>
+<area shape="rect" id="node28" href="$d6/dc8/classFun4AllPrdfOutputManager.html#ad566fdc55f40cf311853ae42fa8cba1c" title="Fun4AllPrdfOutputManager\l::InitPrdfManager" alt="" coords="469,1427,673,1471"/>
+<area shape="rect" id="node29" href="$dd/d1f/classPHRandomSeed.html#a2bde8781fe8b52f6f01d4160139f4f55" title="PHRandomSeed::InitSeed" alt="" coords="474,1495,667,1523"/>
+<area shape="rect" id="node30" href="$d2/da1/classPHGeomUtility.html#ab5bab1c037b85be537f586e6972c3973" title="Verbosity for geometry IO like, TGeoMangers." alt="" coords="464,1547,677,1575"/>
+<area shape="rect" id="node31" href="$d2/da1/classPHGeomUtility.html#a84ee9f9eaf686f5c98ddc1af089ae248" title="Verbosity for geometry IO like, TGeoMangers." alt="" coords="463,1599,678,1627"/>
+<area shape="rect" id="node32" href="$d3/d22/classPHG4BbcDetector.html#a7828b04efeed22f55fffce3385d0cfe1" title="construct BBC/MBD" alt="" coords="453,1651,689,1679"/>
+<area shape="rect" id="node33" href="$d5/da7/classPHG4CEmcTestBeamDetector.html#acbd2a1844f108e3ba99bdb24a298b133" title="construct" alt="" coords="745,1725,967,1769"/>
+<area shape="rect" id="node34" href="$d5/da7/classPHG4CEmcTestBeamDetector.html#a97c72fbc0fab1afc7878745fc9d1ccfd" title="PHG4CEmcTestBeamDetector\l::ConstructTowerVolume" alt="" coords="460,1755,681,1799"/>
+<area shape="rect" id="node35" href="$db/dc5/classPHG4CylinderSubsystem.html#a36e9fe9b69b4314846e245a1c6119cf3" title="init runwise stuff" alt="" coords="476,1823,665,1867"/>
+<area shape="rect" id="node36" href="$d1/d05/classPHG4FullProjSpacalDetector.html#afd4c65353754d4baff1ed614a2aca247" title="PHG4FullProjSpacalDetector\l::Construct_AzimuthalSeg" alt="" coords="465,1891,676,1935"/>
+<area shape="rect" id="node37" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#a5d52892d52c8020e2e81e981b47a1220" title="PHG4FullProjTiltedSpacal\lDetector::Construct_AzimuthalSeg" alt="" coords="444,1959,697,2003"/>
+<area shape="rect" id="node38" href="$d5/d80/classPHG4InnerHcalDetector.html#adcc55f5d190de67371fb9bf28015c68a" title="construct" alt="" coords="479,2027,662,2071"/>
+<area shape="rect" id="node39" href="$df/d74/classPHG4OuterHcalDetector.html#ae159c3d2a294c687f9c0f4af6dbce281" title="construct" alt="" coords="478,2095,663,2139"/>
+<area shape="rect" id="node40" href="$d0/da4/classPHG4SpacalDetector.html#a332cf236022185ea0873a2c26cf5b12f" title="PHG4SpacalDetector\l::ConstructMe" alt="" coords="489,2163,652,2207"/>
+<area shape="rect" id="node41" href="$dc/df2/classPHG4ZDCDetector.html#ae78930fd5b13383ea22dbaab031e90c0" title="construct" alt="" coords="451,2231,690,2259"/>
+<area shape="rect" id="node42" href="$d7/d38/classDSTEmulator.html#ad5fccb3bb1d9c015921b7efeec2d9704" title="evaluate tracks" alt="" coords="482,2283,659,2327"/>
+<area shape="rect" id="node43" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="483,2351,659,2395"/>
+<area shape="rect" id="node44" href="$dc/de8/classPHG4InttDetector.html#a274b5903d6cc8942cfc50a173e2832d1" title="PHG4InttDetector::ConstructIntt" alt="" coords="452,2419,689,2447"/>
+<area shape="rect" id="node45" href="$db/d6c/classHepMCNodeReader.html#a9216b26c5e57c06c2276b0cc67495f0b" title="HepMCNodeReader::process\l_event" alt="" coords="464,2471,677,2515"/>
+<area shape="rect" id="node46" href="$d1/d13/classPHG4PhenixDetector.html#a54bc771c5d554309435684a3532da656" title="this is called by geant to actually construct all detectors" alt="" coords="489,2539,652,2583"/>
+<area shape="rect" id="node47" href="$d0/d78/classPHG4Reco.html#afb33612dcc374f0614d800dc9480305a" title="PHG4Reco::InitRun" alt="" coords="783,81,929,109"/>
+<area shape="rect" id="node48" href="$d9/d5c/classPHG4MicromegasDetector.html#adc9e53e8e33066cc4d281b6abc44b7cf" title="construct" alt="" coords="471,2607,671,2651"/>
+<area shape="rect" id="node49" href="$de/d81/classPHG4TpcDetector.html#add249db10a97cac64b40c13c5ecbb7a6" title="construct" alt="" coords="453,2675,688,2703"/>
+<area shape="rect" id="node50" href="$dd/d10/classEICG4B0ECALDetector.html#a45ef5f2e74993e069fe1525faec9fa02" title="construct" alt="" coords="484,2727,657,2771"/>
+</map>

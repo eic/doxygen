@@ -1,0 +1,5 @@
+<map id="GFAbsTrackRep::extrapolateToLine" name="GFAbsTrackRep::extrapolateToLine">
+<area shape="rect" id="node2" href="$dd/d3c/classGFWirepointHitPolicy.html#ad688c2c4ec884c7a216ed6b3674a5268" title="Get detector plane." alt="" coords="290,5,453,49"/>
+<area shape="rect" id="node3" href="$d7/df9/classGFWireHitPolicy.html#ab64d853ca871b120cbb276b1448fbec2" title="Get detector plane Calls GFAbsTrackRep::extrapolateToLine for POCA." alt="" coords="274,73,469,101"/>
+<area shape="rect" id="node4" href="$de/d6a/classGFPseudoSpacepointWireHitPolicy.html#a3c6159d51f9d7901187462953eb7dfaa" title="Get detector plane perpendicular to track." alt="" coords="264,125,479,169"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="EicTrackingDigiHit::GetCovariance" name="EicTrackingDigiHit::GetCovariance">
+<area shape="rect" id="node2" href="$db/d95/classEicPlanarRecoHit.html#ac3822f7cba453fc087b2d797fd544282" title="EicPlanarRecoHit::EicPlanar\lRecoHit" alt="" coords="197,5,405,49"/>
+<area shape="rect" id="node3" href="$de/d45/classEicSpaceRecoHit.html#a828bed32810bd7db86fc1a6a64510db4" title="EicSpaceRecoHit::EicSpace\lRecoHit" alt="" coords="199,73,403,117"/>
+<area shape="rect" id="node4" href="$d4/de8/classEicKfNodeTemplate1D.html#a90de632d191d9c609817aac51374477e" title="EicKfNodeTemplate1D\l::GetMeasurementNoise" alt="" coords="209,141,393,185"/>
+<area shape="rect" id="node5" href="$d7/dd7/classEicKfNodeTemplateOrth2D.html#a86c930eccee73832369f65acb06440b4" title="EicKfNodeTemplateOrth2D\l::GetMeasurementNoise" alt="" coords="201,209,402,253"/>
+<area shape="rect" id="node6" href="$de/d64/classEicKfNodeTemplateOrth3D.html#ae6be5b390475411776e6cf50bd1b9d62" title="EicKfNodeTemplateOrth3D\l::GetMeasurementNoise" alt="" coords="201,277,402,321"/>
+</map>

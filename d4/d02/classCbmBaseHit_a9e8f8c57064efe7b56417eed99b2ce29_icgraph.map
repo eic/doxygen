@@ -1,0 +1,7 @@
+<map id="CbmBaseHit::GetZ" name="CbmBaseHit::GetZ">
+<area shape="rect" id="node2" href="$d6/d31/classCbmPixelHit.html#ac143215a8bd5ef5321475f9e71ef836e" title="Copies hit position to pos." alt="" coords="201,5,365,33"/>
+<area shape="rect" id="node4" href="$de/dfd/classCbmRichHit.html#a8252bed29bbf341318881077b7b7ec48" title="Inherited from CbmBaseHit." alt="" coords="201,57,365,85"/>
+<area shape="rect" id="node5" href="$db/d2f/classCbmStripHit.html#a97359dbdcd905ceb8f7bf1d0a7c8efbd" title="Inherited from CbmBaseHit." alt="" coords="200,109,367,137"/>
+<area shape="rect" id="node6" href="$d6/d31/classCbmPixelHit.html#a1d5e7e57619226bebb1f0cbdb8f81019" title="Inherited from CbmBaseHit." alt="" coords="200,161,367,189"/>
+<area shape="rect" id="node3" href="$d5/d49/classCbmRichTestHits.html#a1c63ae7f8d0a69f5d785556a463050ee" title="Inherited from FairTask." alt="" coords="415,5,589,33"/>
+</map>

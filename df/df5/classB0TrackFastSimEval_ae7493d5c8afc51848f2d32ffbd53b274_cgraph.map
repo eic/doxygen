@@ -1,0 +1,20 @@
+<map id="B0TrackFastSimEval::fill_vertex_tree" name="B0TrackFastSimEval::fill_vertex_tree">
+<area shape="rect" id="node2" href="$db/dd7/classSvtxVertexMap.html#a80154f099dff1b6756fdfab734e0b409" title="SvtxVertexMap::begin" alt="" coords="218,5,387,33"/>
+<area shape="rect" id="node3" href="$d2/d6d/classSvtxVertex.html#ab1d0ffad9ffcf3fad01fd78802ff0118" title="SvtxVertex::begin_tracks" alt="" coords="208,57,397,85"/>
+<area shape="rect" id="node4" href="$d7/d8b/classSvtxTrackMap.html#a0f55635c85de394ace238061dfe38736" title="SvtxTrackMap::end" alt="" coords="228,109,377,137"/>
+<area shape="rect" id="node5" href="$db/dd7/classSvtxVertexMap.html#abd71492156481bc122caaadd293c96ea" title="SvtxVertexMap::end" alt="" coords="224,161,381,189"/>
+<area shape="rect" id="node6" href="$d2/d6d/classSvtxVertex.html#add075b139f3bf1eb1ffb563dba6a7bb2" title="SvtxVertex::end_tracks" alt="" coords="214,213,391,241"/>
+<area shape="rect" id="node7" href="$d7/d8b/classSvtxTrackMap.html#a4d8a172bd027d5bf0e2f7eabaa0a8529" title="SvtxTrackMap::find" alt="" coords="228,265,377,293"/>
+<area shape="rect" id="node8" href="$d2/d6d/classSvtxVertex.html#aa5dba0eb8e2d4a5c5fe38ff874e684a5" title="SvtxVertex::get_error" alt="" coords="220,317,385,345"/>
+<area shape="rect" id="node9" href="$d2/d6d/classSvtxVertex.html#a003785d2b54f368a5cd25c8db293bef1" title="SvtxVertex::get_id" alt="" coords="231,369,375,397"/>
+<area shape="rect" id="node10" href="$d9/da8/classSvtxTrack__FastSim.html#a70b317335b88ae96d6eb8a4e83aeb479" title="SvtxTrack_FastSim::\lget_truth_track_id" alt="" coords="226,421,379,465"/>
+<area shape="rect" id="node11" href="$de/dc9/classPHG4Particle.html#a02ca717804f76c532efaf6d1cdebda3e" title="PHG4Particle::get_vtx_id" alt="" coords="209,489,396,517"/>
+<area shape="rect" id="node12" href="$d2/d6d/classSvtxVertex.html#a233c6da9e4f023ee15b8d1298cde9ac3" title="SvtxVertex::get_x" alt="" coords="233,541,373,569"/>
+<area shape="rect" id="node13" href="$d2/d6d/classSvtxVertex.html#a2b5eda5e1b6f143c4963c63b249a432c" title="SvtxVertex::get_y" alt="" coords="233,593,373,621"/>
+<area shape="rect" id="node14" href="$d2/d6d/classSvtxVertex.html#acd46c82a2b067db8482f53280197239f" title="SvtxVertex::get_z" alt="" coords="233,645,372,673"/>
+<area shape="rect" id="node15" href="$da/d6c/classPHG4TruthInfoContainer.html#a175e3e0bbb61b850bf184368d920152f" title="PHG4TruthInfoContainer\l::GetParticle" alt="" coords="210,697,395,741"/>
+<area shape="rect" id="node16" href="$da/d6c/classPHG4TruthInfoContainer.html#a5f3f30ff74c7397069c6f0041849b53c" title="PHG4TruthInfoContainer\l::GetVtx" alt="" coords="210,765,395,809"/>
+<area shape="rect" id="node17" href="$df/df5/classB0TrackFastSimEval.html#ac1bf476e33888385c78d3e5cc6f1c3bd" title="B0TrackFastSimEval\l::reset_variables" alt="" coords="225,833,380,877"/>
+<area shape="rect" id="node18" href="$d2/d6d/classSvtxVertex.html#a030ba465f57960fb04b4752ed3a3edf8" title="SvtxVertex::size_tracks" alt="" coords="214,901,391,929"/>
+<area shape="rect" id="node19" href="$d5/dbe/EIC-IR1-XX-v00_8C.html#a888f39f7254b5b59976d577091d79a4e" title="vtx" alt="" coords="281,953,324,981"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="BuildCore_0_1" name="BuildCore_0_1">
+<area shape="rect" id="node2" href="$d2/d7d/classSmear_1_1Detector.html#a24002b3325179692dcf687c9ac6ef4f4" title="Smear::Detector::AddDevice" alt="" coords="421,5,635,33"/>
+<area shape="rect" id="node4" href="$d2/d55/classSmear_1_1Acceptance.html#a77ce79bbc82ad642fc2da89768b1a064" title="Smear::Acceptance::\lAddZone" alt="" coords="448,59,608,103"/>
+<area shape="rect" id="node5" href="$d5/db0/SmearCore__0__1_8cxx.html#a4543b2c565440db37946b0b0866faead" title="AssembleCoreTracker" alt="" coords="187,107,357,135"/>
+<area shape="rect" id="node6" href="$d2/d55/classSmear_1_1Acceptance.html#a903b3145e29d584e59d8c558edb0afd3" title="Smear::Acceptance::\lSetCharge" alt="" coords="448,129,608,173"/>
+<area shape="rect" id="node7" href="$d5/db0/SmearCore__0__1_8cxx.html#ac8fda9b7ace75b22b8e9fe060604014b" title="ThetaFromEta" alt="" coords="470,201,586,229"/>
+<area shape="rect" id="node8" href="$d5/db0/SmearCore__0__1_8cxx.html#a5780573b34e24cce0b85db56995bd336" title="CalcA" alt="" coords="242,261,302,289"/>
+<area shape="rect" id="node9" href="$d5/db0/SmearCore__0__1_8cxx.html#a60bb78574a24abf9703895c8405f9be9" title="CalcB" alt="" coords="243,313,301,341"/>
+<area shape="rect" id="node10" href="$d2/d7d/classSmear_1_1Detector.html#a5b428e506b13f0d13c8604f3906339da" title="Smear::Detector::SetEvent\lKinematicsCalculator" alt="" coords="171,365,373,409"/>
+<area shape="rect" id="node11" href="$d2/d55/classSmear_1_1Acceptance.html#a411867b7fb1f954336ce788a4fee977d" title="Smear::Acceptance::\lSetGenre" alt="" coords="192,433,352,477"/>
+<area shape="rect" id="node3" href="$d1/d9f/classSmear_1_1Smearer.html#ab7f0eb6bd118335376b94d622c2f74f5" title="Smear::Smearer::Clone" alt="" coords="683,5,861,33"/>
+</map>

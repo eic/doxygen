@@ -1,0 +1,51 @@
+<map id="KFParticle_sPHENIX::process_event" name="KFParticle_sPHENIX::process_event">
+<area shape="rect" id="node2" href="$de/d4a/classKFParticle__eventReconstruction.html#a8616310d436b8f97085f3c06114e2899" title="KFParticle_eventReconstruction\l::createDecay" alt="" coords="205,277,439,321"/>
+<area shape="rect" id="node16" href="$d9/dae/classKFParticle__nTuple.html#ac32b873cf95657eb34d8b572ad692172" title="Fills required information for your selection, also requests truth and detector information if needed..." alt="" coords="249,1571,395,1615"/>
+<area shape="rect" id="node33" href="$de/d74/classKFParticle__DST.html#acecbd0672cdd8840d82e8e86a8e7bf21" title="Simultaneously fills a KFParticle_Container and SvtxTrackMap if they are enabled." alt="" coords="207,725,437,753"/>
+<area shape="rect" id="node37" href="$d7/d8b/classSvtxTrackMap.html#a508e23a620af3b20bfc0be05aa5b4ada" title="SvtxTrackMap::size" alt="" coords="810,781,959,809"/>
+<area shape="rect" id="node38" href="$d9/dae/classKFParticle__nTuple.html#a277085530e142da6689bc69c78e51ea2" title="Initialises required branches based off the user selection (number of tracks, PV constraints etc ) an..." alt="" coords="249,969,395,1013"/>
+<area shape="rect" id="node43" href="$de/d74/classKFParticle__DST.html#ac6f937fd71f584bc3910fc836cb47e0d" title="Prints contents of KFParticle_Containers and SvtxTrackMaps for an event if they are enabled..." alt="" coords="505,545,701,573"/>
+<area shape="rect" id="node48" href="$d5/d72/classKFParticle__sPHENIX.html#a3754dfa721034e47c7a0d48358bde0b5" title="KFParticle_sPHENIX\l::printParticles" alt="" coords="246,641,398,685"/>
+<area shape="rect" id="node49" href="$db/dd7/classSvtxVertexMap.html#ade0930ba895d421ff1d35e9767ff9555" title="SvtxVertexMap::size" alt="" coords="243,1639,401,1667"/>
+<area shape="rect" id="node50" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="234,1691,410,1719"/>
+<area shape="rect" id="node3" href="$de/d4a/classKFParticle__eventReconstruction.html#a2e0dfae18be34f3c289f3abc5084bafa" title="Used to reconstruct simple decays with no intermediate states." alt="" coords="487,141,720,185"/>
+<area shape="rect" id="node8" href="$de/d4a/classKFParticle__eventReconstruction.html#ae9719f37c10bbe1199d7e726e9c60c74" title="Used to reconstruct more complicated decays with up to four intermediate states." alt="" coords="487,277,720,321"/>
+<area shape="rect" id="node10" href="$de/d4a/classKFParticle__eventReconstruction.html#a333020712fa05d048948ac3b7f519078" title="KFParticle_eventReconstruction\l::createFakePV" alt="" coords="487,73,720,117"/>
+<area shape="rect" id="node11" href="$da/d3b/classKFParticle__Tools.html#a1b94718fce5602bb3e1f19d1c790c47a" title="KFParticle_Tools::findAll\lGoodTracks" alt="" coords="514,209,693,253"/>
+<area shape="rect" id="node12" href="$da/d3b/classKFParticle__Tools.html#ac2b952856fc1320aeafdd53a8c1afbcb" title="KFParticle_Tools::makeAll\lDaughterParticles" alt="" coords="508,389,699,433"/>
+<area shape="rect" id="node15" href="$da/d3b/classKFParticle__Tools.html#a19348886e5a441b34873f22483c4b056" title="KFParticle_Tools::makeAll\lPrimaryVertices" alt="" coords="789,1037,980,1081"/>
+<area shape="rect" id="node4" href="$da/d3b/classKFParticle__Tools.html#aad857052b1eb41a3d6ba21b31dce392d" title="KFParticle_Tools::findNProngs" alt="" coords="1049,285,1268,313"/>
+<area shape="rect" id="node5" href="$da/d3b/classKFParticle__Tools.html#afec44ed4c7f78b1f999db8ab48d8ac80" title="KFParticle_Tools::findTwo\lProngs" alt="" coords="1065,167,1253,211"/>
+<area shape="rect" id="node6" href="$de/d4a/classKFParticle__eventReconstruction.html#a1d341659bff23f9484990a58bd411a87" title="Basic building block for event reconstruction and selection." alt="" coords="768,5,1001,49"/>
+<area shape="rect" id="node7" href="$da/d3b/classKFParticle__Tools.html#a73406998f3641d46065ed872b8386c8f" title="KFParticle_Tools::findUnique\lDaughterCombinations" alt="" coords="1053,52,1264,96"/>
+<area shape="rect" id="node9" href="$da/d3b/classKFParticle__Tools.html#acbb60d914f55ab81604b2faf4d1d33f3" title="KFParticle_Tools::append\lTracksToIntermediates" alt="" coords="791,277,979,321"/>
+<area shape="rect" id="node13" href="$d7/d8b/classSvtxTrackMap.html#ad2331baa3dff9acb452f5329334e2803" title="SvtxTrackMap::begin" alt="" coords="804,397,965,425"/>
+<area shape="rect" id="node14" href="$d7/d8b/classSvtxTrackMap.html#a0f55635c85de394ace238061dfe38736" title="SvtxTrackMap::end" alt="" coords="810,449,959,477"/>
+<area shape="rect" id="node17" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="829,1323,940,1351"/>
+<area shape="rect" id="node18" href="$dd/de6/classKFParticle__truthAndDetTools.html#ac745c3be500bae9884c036b958516487" title="KFParticle_truthAndDetTools\l::allPVInfo" alt="" coords="498,1195,709,1239"/>
+<area shape="rect" id="node19" href="$d9/dae/classKFParticle__nTuple.html#a4fbab55632c04eff4da93dd67b28684d" title="KFParticle_nTuple::\lcalc_secondary_vertex\l_mass_noPID" alt="" coords="516,1707,691,1767"/>
+<area shape="rect" id="node20" href="$da/d3b/classKFParticle__Tools.html#aabaf9a7d6be91c2835ce6dffec12657f" title="KFParticle_Tools::calculate\lEllipsoidVolume" alt="" coords="505,1315,702,1359"/>
+<area shape="rect" id="node21" href="$da/d3b/classKFParticle__Tools.html#a61c39abc5f4f512566d3c7cedb9f3b07" title="KFParticle_Tools::calculateJT" alt="" coords="498,1791,709,1819"/>
+<area shape="rect" id="node22" href="$dd/de6/classKFParticle__truthAndDetTools.html#a64063e04f43796ecfe9796ae48c7f23e" title="KFParticle_truthAndDetTools\l::clearVectors" alt="" coords="498,1843,709,1887"/>
+<area shape="rect" id="node23" href="$da/d3b/classKFParticle__Tools.html#a7ba601741ef35a091552ea90aa2e50ed" title="Calculates the cosine of the angle betweent the flight direction and momentum." alt="" coords="499,1911,707,1939"/>
+<area shape="rect" id="node24" href="$dd/de6/classKFParticle__truthAndDetTools.html#ae76a95f34a243ea90667de8b26683c7f" title="KFParticle_truthAndDetTools\l::fillCaloBranch" alt="" coords="498,1503,709,1547"/>
+<area shape="rect" id="node25" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="791,1511,979,1539"/>
+<area shape="rect" id="node26" href="$dd/de6/classKFParticle__truthAndDetTools.html#a753df68f4ae1e50b41add756b07b4739" title="KFParticle_truthAndDetTools\l::fillDetectorBranch" alt="" coords="498,1571,709,1615"/>
+<area shape="rect" id="node27" href="$dd/de6/classKFParticle__truthAndDetTools.html#aacd7464b07f03f83a4d7e2de49e63a50" title="KFParticle_truthAndDetTools\l::fillTruthBranch" alt="" coords="498,1639,709,1683"/>
+<area shape="rect" id="node28" href="$da/d3b/classKFParticle__Tools.html#a496b5d76a8ee160e2e6f13cd82052c34" title="KFParticle_Tools::flight\lDistanceChi2" alt="" coords="517,1963,689,2007"/>
+<area shape="rect" id="node29" href="$d0/d76/classEventHeaderv1.html#ab8ad8d1f6eddbc0094e3a24fa6d47d99" title="get Event Number" alt="" coords="525,2031,682,2075"/>
+<area shape="rect" id="node30" href="$d0/d76/classEventHeaderv1.html#a0810657430643577826128ef1786225b" title="get Run Number" alt="" coords="525,2099,682,2143"/>
+<area shape="rect" id="node31" href="$dd/de6/classKFParticle__truthAndDetTools.html#ac462727f039ecf9c65e6d346bff72180" title="KFParticle_truthAndDetTools\l::getHepMCInfo" alt="" coords="498,1383,709,1427"/>
+<area shape="rect" id="node32" href="$da/d3b/classKFParticle__Tools.html#a8311cb589e31fc14c8e1cce2399c6d1b" title="KFParticle_Tools::getTracks\lFromVertex" alt="" coords="503,2167,704,2211"/>
+<area shape="rect" id="node34" href="$de/d74/classKFParticle__DST.html#a14ca465cdb3e88bb1659c7aef6d84e50" title="Called by fillParticleNode, fills a KFParitcle_Container." alt="" coords="506,649,701,693"/>
+<area shape="rect" id="node36" href="$de/d74/classKFParticle__DST.html#a2b6acf78701266573cd1278c75281f2b" title="Called by fillParticleNode, fills an SvtxTrackMap." alt="" coords="506,717,701,761"/>
+<area shape="rect" id="node35" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="862,725,907,753"/>
+<area shape="rect" id="node39" href="$dd/de6/classKFParticle__truthAndDetTools.html#a21f2d4e924f9fefd124ff5c950157a83" title="KFParticle_truthAndDetTools\l::initializeCaloBranches" alt="" coords="498,1059,709,1103"/>
+<area shape="rect" id="node40" href="$dd/de6/classKFParticle__truthAndDetTools.html#ae26f2f09c4690faefc426c51fe2300aa" title="KFParticle_truthAndDetTools\l::initializeDetectorBranches" alt="" coords="498,1127,709,1171"/>
+<area shape="rect" id="node41" href="$dd/de6/classKFParticle__truthAndDetTools.html#a7c889302dd8c8e245acf23230367f082" title="KFParticle_truthAndDetTools\l::initializeTruthBranches" alt="" coords="498,939,709,983"/>
+<area shape="rect" id="node42" href="$d3/d9b/namespacenlohmann.html#a6ce645a0b8717757e096a5b5773b7a16" title="user&#45;defined to_string function for JSON values" alt="" coords="525,1007,682,1035"/>
+<area shape="rect" id="node44" href="$d4/dec/classKFParticle__Container.html#ae6461b6240af7859e487cc7357728721" title="KFParticle_Container\l::begin" alt="" coords="804,501,965,545"/>
+<area shape="rect" id="node45" href="$d4/dec/classKFParticle__Container.html#ab98f2523c7b333a3cacce1a439799711" title="KFParticle_Container::end" alt="" coords="787,569,982,597"/>
+<area shape="rect" id="node46" href="$d2/db8/classSvtxTrack.html#a7822a738a27a288ddd66b3b6d4c4bc44" title="SvtxTrack::identify" alt="" coords="811,621,958,649"/>
+<area shape="rect" id="node47" href="$da/d3b/classKFParticle__Tools.html#ac5173d13c69a4a2cf2a781ab3836313e" title="KFParticle_Tools::identify" alt="" coords="791,673,979,701"/>
+</map>

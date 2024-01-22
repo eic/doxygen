@@ -1,0 +1,38 @@
+<map id="fun4all_coresoftware/blob/master/offline/packages/trackreco/PHPatternReco.cc" name="fun4all_coresoftware/blob/master/offline/packages/trackreco/PHPatternReco.cc">
+<area shape="rect" id="node2" href="$d3/deb/PHPatternReco_8h.html" title="PHPatternReco.h" alt="" coords="503,321,635,349"/>
+<area shape="rect" id="node8" href="$d5/dc2/SubsysReco_8h.html" title="fun4all/SubsysReco.h" alt="" coords="5,405,171,433"/>
+<area shape="rect" id="node10" href="$da/dda/CellularAutomaton__v1_8h.html" title="CellularAutomaton_v1.h" alt="" coords="699,229,883,257"/>
+<area shape="rect" id="node11" href="$d7/ddf/CellularAutomaton_8h.html" title="CellularAutomaton.h" alt="" coords="711,321,871,349"/>
+<area shape="rect" id="node14" href="$d1/d12/HelixHoughBin_8h.html" title="HelixHoughBin.h" alt="" coords="1722,321,1857,349"/>
+<area shape="rect" id="node15" href="$da/d90/HelixHoughSpace_8h.html" title="HelixHoughSpace.h" alt="" coords="1226,405,1379,433"/>
+<area shape="rect" id="node16" href="$d5/d6f/phool_8h.html" title="phool/phool.h" alt="" coords="2303,405,2417,433"/>
+<area shape="rect" id="node17" href="$dc/d4f/HelixHoughBin__v1_8h.html" title="HelixHoughBin_v1.h" alt="" coords="1804,229,1961,257"/>
+<area shape="rect" id="node18" href="$d0/d2e/HelixHoughFuncs_8h.html" title="HelixHoughFuncs.h" alt="" coords="1213,229,1363,257"/>
+<area shape="rect" id="node19" href="$d6/de9/HelixHoughSpace__v1_8h.html" title="HelixHoughSpace_v1.h" alt="" coords="1199,321,1377,349"/>
+<area shape="rect" id="node20" href="$d0/d47/HelixHoughFuncs__v1_8h.html" title="HelixHoughFuncs_v1.h" alt="" coords="1503,137,1678,165"/>
+<area shape="rect" id="node21" href="$d0/d19/SvtxVertexMap_8h.html" title="trackbase_historic\l/SvtxVertexMap.h" alt="" coords="2084,313,2228,357"/>
+<area shape="rect" id="node22" href="$dc/dc1/SvtxVertex_8h.html" title="SvtxVertex.h" alt="" coords="1556,405,1663,433"/>
+<area shape="rect" id="node23" href="$d3/daf/SvtxVertexMap__v1_8h.html" title="trackbase_historic\l/SvtxVertexMap_v1.h" alt="" coords="2245,221,2409,265"/>
+<area shape="rect" id="node24" href="$d1/d72/SvtxVertex__v1_8h.html" title="trackbase_historic\l/SvtxVertex_v1.h" alt="" coords="1503,313,1647,357"/>
+<area shape="rect" id="node25" href="$d7/d9f/SvtxTrackMap_8h.html" title="trackbase_historic\l/SvtxTrackMap.h" alt="" coords="2915,221,3059,265"/>
+<area shape="rect" id="node26" href="$d0/d87/SvtxTrack_8h.html" title="SvtxTrack.h" alt="" coords="3036,321,3135,349"/>
+<area shape="rect" id="node27" href="$dd/dac/SvtxTrackMap__v1_8h.html" title="trackbase_historic\l/SvtxTrackMap_v1.h" alt="" coords="3003,129,3159,173"/>
+<area shape="rect" id="node28" href="$d4/d1f/SvtxTrack__v1_8h.html" title="trackbase_historic\l/SvtxTrack_v1.h" alt="" coords="3235,221,3379,265"/>
+<area shape="rect" id="node30" href="$d2/d44/TrkrClusterContainer_8h.html" title="Cluster container base class." alt="" coords="3922,321,4163,349"/>
+<area shape="rect" id="node31" href="$d1/d4a/TrkrCluster_8h.html" title="Base class for cluster object." alt="" coords="3412,321,3588,349"/>
+<area shape="rect" id="node33" href="$d4/dbe/TrkrHitSetContainer_8h.html" title="trackbase/TrkrHitSetContainer.h" alt="" coords="3663,321,3897,349"/>
+<area shape="rect" id="node34" href="$d9/d44/PHG4CylinderGeom_8h.html" title="g4detectors/PHG4Cylinder\lGeom.h" alt="" coords="2354,313,2555,357"/>
+<area shape="rect" id="node35" href="$d4/d90/PHG4CylinderCellGeomContainer_8h.html" title="g4detectors/PHG4Cylinder\lCellGeomContainer.h" alt="" coords="4290,313,4491,357"/>
+<area shape="rect" id="node36" href="$d4/da1/PHG4CylinderCellGeom_8h.html" title="g4detectors/PHG4Cylinder\lCellGeom.h" alt="" coords="4741,313,4942,357"/>
+<area shape="rect" id="node37" href="$d6/db8/PHG4CylinderGeomContainer_8h.html" title="g4detectors/PHG4Cylinder\lGeomContainer.h" alt="" coords="4515,313,4717,357"/>
+<area shape="rect" id="node38" href="$d9/d96/BbcVertexMap_8h.html" title="g4bbc/BbcVertexMap.h" alt="" coords="2682,321,2859,349"/>
+<area shape="rect" id="node39" href="$da/dc1/Fun4AllReturnCodes_8h.html" title="fun4all/Fun4AllReturnCodes.h" alt="" coords="3757,137,3979,165"/>
+<area shape="rect" id="node40" href="$d8/d30/PHCompositeNode_8h.html" title="phool/PHCompositeNode.h" alt="" coords="4003,137,4205,165"/>
+<area shape="rect" id="node41" href="$d3/d62/PHNode_8h.html" title="PHNode.h" alt="" coords="4081,229,4167,257"/>
+<area shape="rect" id="node42" href="$d3/d79/PHIODataNode_8h.html" title="phool/PHIODataNode.h" alt="" coords="4192,229,4368,257"/>
+<area shape="rect" id="node43" href="$d8/dfd/PHNodeIterator_8h.html" title="PHNodeIterator.h" alt="" coords="4392,229,4528,257"/>
+<area shape="rect" id="node44" href="$dc/d26/PHTimer_8h.html" title="high precision timer" alt="" coords="1986,229,2118,257"/>
+<area shape="rect" id="node45" href="$dd/dd4/getClass_8h.html" title="phool/getClass.h" alt="" coords="4331,137,4464,165"/>
+<area shape="rect" id="node3" href="$db/dc0/VertexFitter_8h.html" title="VertexFitter.h" alt="" coords="421,405,533,433"/>
+<area shape="rect" id="node4" href="$d8/d00/TrkrDefs_8h.html" title="Namespace with Trkr key types and utility functions." alt="" coords="3331,405,3491,433"/>
+</map>

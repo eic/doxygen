@@ -1,0 +1,34 @@
+<map id="CylinderGeom_Mvtx::get_sensor_indices_from_world_coords" name="CylinderGeom_Mvtx::get_sensor_indices_from_world_coords">
+<area shape="rect" id="node2" href="$d9/d24/classPHTruthClustering.html#a40a789a8b5e215a0447d563ab811f3c8" title="PHTruthClustering::\lG4ClusterSize" alt="" coords="273,137,424,181"/>
+<area shape="rect" id="node5" href="$d4/de4/classSvtxTruthEval.html#ade4b494c4cfaa95e70829c37446d9a83" title="SvtxTruthEval::G4ClusterSize" alt="" coords="240,209,457,237"/>
+<area shape="rect" id="node27" href="$da/db1/classMakeActsGeometry.html#ad1297a652617e697364fc272f4d5a2e6" title="Get subdetector hitsetkey from the local sensor unit coordinates." alt="" coords="241,265,457,309"/>
+<area shape="rect" id="node3" href="$d9/d24/classPHTruthClustering.html#a8fb52ae244819fcfc7e7530f2beaddc9" title="PHTruthClustering::\lall_truth_clusters" alt="" coords="545,69,696,113"/>
+<area shape="rect" id="node4" href="$d9/d24/classPHTruthClustering.html#a32f3b05811ac36d8f08ae3c565edcfca" title="PHTruthClustering::\lprocess_event" alt="" coords="814,5,965,49"/>
+<area shape="rect" id="node6" href="$d4/de4/classSvtxTruthEval.html#a10ce69fd37eb1db4dbc77cbfa7affc98" title="SvtxTruthEval::all\l_truth_clusters" alt="" coords="551,201,690,245"/>
+<area shape="rect" id="node7" href="$df/db8/classQAG4SimulationTpc.html#aec3889f1254e0eec8b2b6f354e1375bd" title="evaluate clusters" alt="" coords="807,73,972,117"/>
+<area shape="rect" id="node9" href="$d1/d1e/classSvtxClusterEval.html#af774b5eb2254c2427cd21fbd29b47b6f" title="SvtxClusterEval::all\l_truth_clusters" alt="" coords="813,141,965,185"/>
+<area shape="rect" id="node10" href="$d1/d1e/classSvtxClusterEval.html#a7619937ca04fc86bf74e13a08b1d1959" title="SvtxClusterEval::max\l_truth_cluster_by_energy" alt="" coords="1079,192,1271,236"/>
+<area shape="rect" id="node16" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1373,245,1561,289"/>
+<area shape="rect" id="node18" href="$d1/d1e/classSvtxClusterEval.html#a71467fc0bd5e8af7a8d4ea2a0d124bc1" title="SvtxClusterEval::max\l_truth_particle_by_cluster\l_energy" alt="" coords="791,312,987,372"/>
+<area shape="rect" id="node8" href="$df/db8/classQAG4SimulationTpc.html#aaecb5e12b4083bd235ec7200368c58fc" title="QAG4SimulationTpc::\lprocess_event" alt="" coords="1093,73,1258,117"/>
+<area shape="rect" id="node11" href="$d3/d32/classActsEvaluator.html#aab3625b68ba0383ffa858dc3e4a69142" title="ActsEvaluator::getGlobal\lTruthHit" alt="" coords="1373,177,1562,221"/>
+<area shape="rect" id="node12" href="$d3/d32/classActsEvaluator.html#a7bd073c867021570aeaa27cfbd64d966" title="ActsEvaluator::fillProto\lTrack" alt="" coords="1645,109,1819,153"/>
+<area shape="rect" id="node15" href="$d3/d32/classActsEvaluator.html#adfc0d467a2bfb926be361c88761b2667" title="ActsEvaluator::visitTrack\lStates" alt="" coords="1638,177,1826,221"/>
+<area shape="rect" id="node13" href="$d3/d32/classActsEvaluator.html#a1dcade956fd83a14249e38b5783b0f00" title="Function to evaluate Trajectories fit results from the KF." alt="" coords="1885,152,2127,180"/>
+<area shape="rect" id="node14" href="$d3/d32/classActsEvaluator.html#abb2053b5956d62192691b2b74ed05ec4" title="ActsEvaluator::process\l_event" alt="" coords="2175,144,2351,188"/>
+<area shape="rect" id="node17" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="1644,245,1820,289"/>
+<area shape="rect" id="node19" href="$dd/de6/classKFParticle__truthAndDetTools.html#ad75d71be845ff83a6bb6839b5e151e3c" title="KFParticle_truthAndDetTools\l::getTruthTrack" alt="" coords="1070,363,1281,407"/>
+<area shape="rect" id="node24" href="$d5/df4/classQAG4SimulationKFParticle.html#af3433c8a4e0dd83d8c6034d8f47e69e3" title="QAG4SimulationKFParticle\l::getTruthTrack" alt="" coords="1076,443,1275,487"/>
+<area shape="rect" id="node20" href="$dd/de6/classKFParticle__truthAndDetTools.html#aacd7464b07f03f83a4d7e2de49e63a50" title="KFParticle_truthAndDetTools\l::fillTruthBranch" alt="" coords="1362,313,1573,357"/>
+<area shape="rect" id="node23" href="$dd/de6/classKFParticle__truthAndDetTools.html#ac462727f039ecf9c65e6d346bff72180" title="KFParticle_truthAndDetTools\l::getHepMCInfo" alt="" coords="1362,381,1573,425"/>
+<area shape="rect" id="node21" href="$d9/dae/classKFParticle__nTuple.html#ac32b873cf95657eb34d8b572ad692172" title="Fills required information for your selection, also requests truth and detector information if needed..." alt="" coords="1659,347,1805,391"/>
+<area shape="rect" id="node22" href="$d5/d72/classKFParticle__sPHENIX.html#a7e5ad7cf075fbf8e68a781e7721fec81" title="KFParticle_sPHENIX\l::process_event" alt="" coords="1930,347,2082,391"/>
+<area shape="rect" id="node25" href="$d5/df4/classQAG4SimulationKFParticle.html#a4bbecab91502593c1e95321460626c5d" title="QAG4SimulationKFParticle\l::makeHepLV" alt="" coords="1368,449,1567,493"/>
+<area shape="rect" id="node26" href="$d5/df4/classQAG4SimulationKFParticle.html#a90300d5f56d13aee8a6fe305922187f1" title="QAG4SimulationKFParticle\l::process_event" alt="" coords="1633,449,1831,493"/>
+<area shape="rect" id="node28" href="$da/db1/classMakeActsGeometry.html#ab9b4afbf5dfd3c6f7fa38830a6560377" title="MakeActsGeometry::makeMvtx\lMapPairs" alt="" coords="505,332,736,376"/>
+<area shape="rect" id="node29" href="$da/db1/classMakeActsGeometry.html#a6c06c33bcf0b960a5848047dfc80e54e" title="MakeActsGeometry::unpack\lVolumes" alt="" coords="784,443,995,487"/>
+<area shape="rect" id="node30" href="$da/db1/classMakeActsGeometry.html#a0a3e4f327303d53117efefac7463c669" title="Function that mimics ActsFW::GeometryExampleBase." alt="" coords="1043,515,1308,543"/>
+<area shape="rect" id="node31" href="$da/db1/classMakeActsGeometry.html#a6f8433331336def2c6ea713b281da9ed" title="Silicon layers made by BuildSiliconLayers and its helper functions." alt="" coords="1356,517,1579,561"/>
+<area shape="rect" id="node32" href="$da/db1/classMakeActsGeometry.html#aa809a1c2b47d8c089a0dc4a6a96d1cc8" title="Main function to build all acts geometry for use in the fitting modules." alt="" coords="1627,517,1837,561"/>
+<area shape="rect" id="node33" href="$da/db1/classMakeActsGeometry.html#a5938929f364b98db92fa809a54a635c6" title="MakeActsGeometry::InitRun" alt="" coords="1902,525,2110,553"/>
+</map>

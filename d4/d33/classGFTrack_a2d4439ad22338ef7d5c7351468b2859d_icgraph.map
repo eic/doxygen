@@ -1,0 +1,38 @@
+<map id="GFTrack::getNumReps" name="GFTrack::getNumReps">
+<area shape="rect" id="node2" href="$d4/d33/classGFTrack.html#ad5d6af08945954ee0aa987f3c9cc5939" title="this is needed to blow up the covariance matrix before a fitting pass drops off&#45;diagonal elements and..." alt="" coords="517,987,684,1015"/>
+<area shape="rect" id="node4" href="$d1/dce/classGFDaf.html#acae6182be114ea4c813d0bb8995343a4" title="Process a track using the DAF." alt="" coords="1264,910,1424,938"/>
+<area shape="rect" id="node8" href="$d0/de1/classGFKalman.html#ae47486960d827df0e414e068dc6d25fb" title="Performs fit on a GFTrack." alt="" coords="1024,437,1211,465"/>
+<area shape="rect" id="node12" href="$d4/d33/classGFTrack.html#a94de1623205fd847c51a21367b6a4ee2" title="GFTrack::clearBookkeeping" alt="" coords="224,1139,428,1167"/>
+<area shape="rect" id="node14" href="$d4/d33/classGFTrack.html#a144154ed35899b57732578eac5c9958a" title="GFTrack::clearFailedHits" alt="" coords="235,1191,417,1219"/>
+<area shape="rect" id="node15" href="$d4/d33/classGFTrack.html#abd87ed1cefcdf8a2adcc8e335cdbbefb" title="clear the hit indices at which plane,state&amp;cov of reps are defined" alt="" coords="787,345,963,373"/>
+<area shape="rect" id="node16" href="$d1/dce/classGFDaf.html#a8b2c71a01ea071c6188e583cade7c789" title="Copy the smoothing matrices from the source track to the target." alt="" coords="512,1039,689,1067"/>
+<area shape="rect" id="node17" href="$d0/de1/classGFKalman.html#ad19563b99c556c39f3c00995741cda0c" title="Performs fit on a GFTrack beginning with the current hit." alt="" coords="790,461,959,489"/>
+<area shape="rect" id="node18" href="$d4/d33/classGFTrack.html#a3a5ba8703a51bdc36557b9e391b06a9d" title="get GFBookKeeping object for particular track rep (default is cardinal rep)" alt="" coords="264,730,388,758"/>
+<area shape="rect" id="node24" href="$d1/dce/classGFDaf.html#ac02cac0c97bc5217baaea7b90adfef47" title="GFDaf::saveWeights" alt="" coords="522,1091,679,1119"/>
+<area shape="rect" id="node25" href="$d4/d33/classGFTrack.html#a0632fb4c0658b9626bb71e4e199ac4b1" title="get the hit index at which plane,state&amp;cov of rep irep is defined" alt="" coords="243,369,409,397"/>
+<area shape="rect" id="node26" href="$d4/d33/classGFTrack.html#aa60d3836d58a44ece5479f22e2e90783" title="GFTrack::Print" alt="" coords="543,317,658,345"/>
+<area shape="rect" id="node27" href="$d4/d33/classGFTrack.html#a88c09537dc791d75150f39ce2c6df817" title="Get residuals." alt="" coords="241,1243,411,1271"/>
+<area shape="rect" id="node28" href="$d4/d33/classGFTrack.html#a53d88ffa51ce82c984cd8266f678a98f" title="Copy constructor." alt="" coords="257,1295,395,1323"/>
+<area shape="rect" id="node29" href="$d1/dce/classGFDaf.html#a63f700b7ed92960f0c1e08975900ddbe" title="Initialize the GFDafHit and their weights before the fit." alt="" coords="1031,885,1204,913"/>
+<area shape="rect" id="node30" href="$d4/d33/classGFTrack.html#a6f7429db6fe500807a3d53eb45ded508" title="assignement operator" alt="" coords="250,1347,402,1375"/>
+<area shape="rect" id="node31" href="$d4/d33/classGFTrack.html#a82eba4f644b55ce8b9f8d456fd83fdc8" title="print bookkeeping" alt="" coords="225,1399,427,1427"/>
+<area shape="rect" id="node32" href="$d4/d33/classGFTrack.html#a0b5917c8402a61a652ef70baeb789409" title="Resets the GFTrack – deletes RecoHits!" alt="" coords="815,113,934,141"/>
+<area shape="rect" id="node33" href="$d4/d33/classGFTrack.html#ad8243998b5ecd1be9807f9688f6b88a2" title="set track candidate" alt="" coords="1031,126,1204,154"/>
+<area shape="rect" id="node34" href="$d4/d33/classGFTrack.html#a69c36ced417a6b39ed1460ef696aaa77" title="set the hit index at which plane,state&amp;cov of rep irep is defined" alt="" coords="244,421,408,449"/>
+<area shape="rect" id="node36" href="$d0/de1/classGFKalman.html#a127d2313b13a87dc94521ad67298ffe1" title="Used to switch between forward and backward filtering." alt="" coords="773,165,976,193"/>
+<area shape="rect" id="node37" href="$d4/d33/classGFTrack.html#ab7fae8c09e6cd82152fbb6ae80c67c3e" title="GFTrack::~GFTrack" alt="" coords="252,1451,400,1479"/>
+<area shape="rect" id="node3" href="$d0/de1/classGFKalman.html#a9a27045c266d54e4448a85ef05966953" title="this is needed to blow up the covariance matrix before a fitting pass drops off&#45;diagonal elements and..." alt="" coords="783,987,966,1015"/>
+<area shape="rect" id="node5" href="$df/d62/classPndRecoDafFit.html#a71b624dff0fc50e252d2d2b9eed898ee" title="PndRecoDafFit::Fit" alt="" coords="1502,273,1646,301"/>
+<area shape="rect" id="node6" href="$d7/d87/classPndRecoKalmanTask.html#aa92916b999aeaf87e99fb08734ce368e" title="PndRecoKalmanTask::Exec" alt="" coords="1719,247,1919,275"/>
+<area shape="rect" id="node7" href="$d2/db6/classEicRecoKalmanTask.html#a10103a96af9664a82027040c505bfff1" title="EicRecoKalmanTask::Exec" alt="" coords="1967,247,2161,275"/>
+<area shape="rect" id="node9" href="$db/d6d/classPndRecoKalmanFit.html#af5a66632d2917c60057bd37109ec7364" title="PndRecoKalmanFit::Fit" alt="" coords="1259,175,1429,203"/>
+<area shape="rect" id="node11" href="$d0/de1/classGFKalman.html#aff929179fdd81ad4eb7727bc75ce9b88" title="Operator for use with STL." alt="" coords="1261,437,1427,465"/>
+<area shape="rect" id="node10" href="$d2/d28/classPndRecoMultiKalmanTask.html#a79938b3ab7bca0cc183821c03520553a" title="PndRecoMultiKalmanTask\l::Exec" alt="" coords="1477,153,1671,197"/>
+<area shape="rect" id="node13" href="$d4/d33/classGFTrack.html#a1c7e38807d8decdf23e01f90fd252481" title="GFTrack::sortHits" alt="" coords="533,1143,669,1171"/>
+<area shape="rect" id="node19" href="$de/dc7/namespaceGFTools.html#a3bb6a2b23bfa5575c48ef8c30d19d1af" title="Get biased smoothed state vector, state covariance and smoothing plane." alt="" coords="476,678,725,706"/>
+<area shape="rect" id="node20" href="$de/dc7/namespaceGFTools.html#aa7388665cdcb0aae3d32dc095b017d6c" title="Get smoothed state vector, state covariance and smoothing plane." alt="" coords="499,730,703,758"/>
+<area shape="rect" id="node21" href="$de/dc7/namespaceGFTools.html#afb44de5896e1d2c713c5277b793e836c" title="Get smoothing plane." alt="" coords="493,782,708,810"/>
+<area shape="rect" id="node22" href="$de/dc7/namespaceGFTools.html#a2f1438ce10c5a491aa4e285af61ed8c7" title="GFTools::getTrackLength" alt="" coords="508,626,693,654"/>
+<area shape="rect" id="node23" href="$d0/de1/classGFKalman.html#a75a13f3e2a66f83503bafe2e7e4a3590" title="One Kalman step." alt="" coords="515,421,686,449"/>
+<area shape="rect" id="node35" href="$de/dc7/namespaceGFTools.html#a6944a7f3b0ef7ca261a4020ad6767227" title="Set smoothed data at hit nr. ihit to trackrep nr. irep." alt="" coords="489,369,713,397"/>
+</map>

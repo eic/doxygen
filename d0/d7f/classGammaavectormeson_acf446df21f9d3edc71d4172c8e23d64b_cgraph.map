@@ -1,0 +1,30 @@
+<map id="Gammaavectormeson::Gammaavectormeson" name="Gammaavectormeson::Gammaavectormeson">
+<area shape="rect" id="node2" href="$d0/d94/classinputParameters.html#a9055f29e9552c7aec5332670485b92b0" title="returns if backwards production" alt="" coords="258,5,473,49"/>
+<area shape="rect" id="node4" href="$d0/d94/classinputParameters.html#a951f14b4ea6eb5a125dc5db6ee3e1287" title="returns Lorentz gamma factor of both beams in beam CMS frame" alt="" coords="250,73,481,117"/>
+<area shape="rect" id="node5" href="$d0/d94/classinputParameters.html#ab67ed919af2f229a59fbe208d8040d36" title="returns the definition of b&#45;slope" alt="" coords="239,141,491,169"/>
+<area shape="rect" id="node6" href="$d0/d94/classinputParameters.html#ad1ac359b4e40c9fdb53ff7f7afffcbf0" title="returns the value of b&#45;slope" alt="" coords="253,193,477,221"/>
+<area shape="rect" id="node7" href="$d0/d94/classinputParameters.html#a64bf74aa236ac177864988befdb95906" title="returns maximum photon energy" alt="" coords="243,245,487,289"/>
+<area shape="rect" id="node8" href="$d0/d94/classinputParameters.html#ac58d8f597f47f6faffb63a0a99005c2e" title="returns maximum photon energy" alt="" coords="245,313,485,357"/>
+<area shape="rect" id="node9" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="343,381,387,409"/>
+<area shape="rect" id="node10" href="$d0/d94/classinputParameters.html#a3f48df498797469c980b90bbcbaa4695" title="inputParameters::electron\lEnergy" alt="" coords="267,433,463,477"/>
+<area shape="rect" id="node11" href="$d0/d94/classinputParameters.html#aa8b9bc2e10f48c7a53cb018ec651f08e" title="returns whether interference is taken into account" alt="" coords="253,501,477,545"/>
+<area shape="rect" id="node12" href="$d0/d94/classinputParameters.html#a72a83454bc0499de4ff4857ad6a613d2" title="returns maximum p_T for interference calculation [GeV/c]" alt="" coords="232,569,499,597"/>
+<area shape="rect" id="node13" href="$d0/d94/classinputParameters.html#abdc942992e0ec94bb1ab494f7a577597" title="returns maximum mass W of produced hadronic system [GeV/c^2]" alt="" coords="273,621,458,649"/>
+<area shape="rect" id="node14" href="$d0/d94/classinputParameters.html#ab35a8903b8a1fa886f942bf244e70beb" title="returns minimum mass W of produced hadronic system [GeV/c^2]" alt="" coords="275,673,456,701"/>
+<area shape="rect" id="node15" href="$d0/d94/classinputParameters.html#a1d828d5268acd4771a2f0601ecba5c20" title="return the number of Egamma bins for eSTARlight lookup" alt="" coords="241,725,490,753"/>
+<area shape="rect" id="node16" href="$d0/d94/classinputParameters.html#af308897c2871f74932fdfbb190e37af1" title="return number of gamma q2 bins" alt="" coords="253,777,478,821"/>
+<area shape="rect" id="node17" href="$d0/d94/classinputParameters.html#afbd86e6ebe5766cdb0d039df8de970aa" title="returns number of p_T bins for interference calculation" alt="" coords="258,845,473,889"/>
+<area shape="rect" id="node18" href="$d0/d94/classinputParameters.html#a591bf64d53873cd96cf2207e4c646a0a" title="returns number of W bins in lookup table" alt="" coords="258,913,473,941"/>
+<area shape="rect" id="node19" href="$d0/d94/classinputParameters.html#a1deffd1d92d4d493cca3a73f29f858e2" title="returns type of produced particle" alt="" coords="239,965,492,993"/>
+<area shape="rect" id="node20" href="$d0/d94/classinputParameters.html#ae3286f42046ff3738e2bdff84fd62504" title="returns production mode" alt="" coords="240,1017,491,1045"/>
+<area shape="rect" id="node21" href="$d0/d94/classinputParameters.html#a0d1e9e9b75c103221da2da9d36a613f4" title="inputParameters::protonEnergy" alt="" coords="249,1069,482,1097"/>
+<area shape="rect" id="node22" href="$d0/d94/classinputParameters.html#af890e0d8e9b8741e5fe55c821fda997e" title="returns width of p_T bins for interference calculation [GeV/c]" alt="" coords="257,1121,473,1165"/>
+<area shape="rect" id="node23" href="$d0/d94/classinputParameters.html#ac3a6f1f84ca9426c44b64ddac0859ffd" title="returns center&#45;of&#45;mass rapidity" alt="" coords="269,1189,461,1217"/>
+<area shape="rect" id="node24" href="$d0/d94/classinputParameters.html#ae7da207f24c9301fea8e7a9923ade6c8" title="returns atomic mass number of beam particle 2" alt="" coords="249,1241,481,1269"/>
+<area shape="rect" id="node25" href="$d0/d94/classinputParameters.html#aa624fe832c21dde00682fe3239310893" title="returns Lorentz gamma factor of beam 2 in collider frame" alt="" coords="255,1293,476,1337"/>
+<area shape="rect" id="node26" href="$d0/d94/classinputParameters.html#a26e52dd6c9505b39944b5d391a553d49" title="returns maximum photon energy" alt="" coords="260,1361,471,1405"/>
+<area shape="rect" id="node27" href="$d0/d94/classinputParameters.html#a8f2439f6535712fab64d803731dce047" title="returns maximum photon energy" alt="" coords="262,1429,469,1473"/>
+<area shape="rect" id="node28" href="$d0/d94/classinputParameters.html#a75be84d3cf0b19b76f76112d6f323b43" title="inputParameters::targetRadius" alt="" coords="251,1497,479,1525"/>
+<area shape="rect" id="node29" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="337,1549,393,1577"/>
+<area shape="rect" id="node3" href="$d5/d4e/classparameter.html#ad05f8343240b7ef936d426fb0ce4854a" title="parameter::value" alt="" coords="547,725,685,753"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="parton" name="parton">
+<area shape="rect" id="node2" href="$d2/d99/dstfu_8F.html#a364a57b5a1b128027661f4253ceaf482" title="dstfu" alt="" coords="138,596,193,624"/>
+<area shape="rect" id="node4" href="$df/de1/g_8f.html#ab66fda597951401eedd2aa690ea3efb3" title="g" alt="" coords="146,1237,185,1265"/>
+<area shape="rect" id="node43" href="$d9/d54/ghvq_8f.html#a82d9f3c5d5304a5823f187c2fef0b4ec" title="ghvq" alt="" coords="138,2328,193,2356"/>
+<area shape="rect" id="node44" href="$da/d86/gphoton_8f.html#a6bfec687c600fe6b824232796fa7832b" title="gphoton" alt="" coords="127,2380,204,2408"/>
+<area shape="rect" id="node45" href="$d3/d78/grv98pa_8F.html#a1db693cefa3fb024726227de13693627" title="grv98pa" alt="" coords="127,2432,204,2460"/>
+<area shape="rect" id="node46" href="$d3/d92/lystfu_8F.html#aa9010701221260844673a27f5bbae3b7" title="lystfu" alt="" coords="136,2484,195,2512"/>
+<area shape="rect" id="node47" href="$d6/d21/pepsi__radgen__extras_8f.html#a34813879db96fedc24c1a03fe7a2cba2" title="mkasym" alt="" coords="361,2563,440,2591"/>
+<area shape="rect" id="node48" href="$d6/d21/pepsi__radgen__extras_8f.html#a21fcddd794f5f96fafacd01a8c4278ab" title="mkf2" alt="" coords="138,2588,193,2616"/>
+<area shape="rect" id="node49" href="$d8/d39/parpol_8F.html#a00c2efc929872391ef1f5f52066d9d5c" title="parpol" alt="" coords="133,2640,197,2668"/>
+<area shape="rect" id="node50" href="$d5/d21/parpolnew_8F.html#afb987f4dbce197d87b74c917ef1f9f62" title="parpolnew" alt="" coords="119,2692,212,2720"/>
+<area shape="rect" id="node3" href="$df/d83/dnstrf_8F.html#a3bb74ba229d523674e39ce5e78916a5b" title="dnstrf" alt="" coords="369,5,432,33"/>
+<area shape="rect" id="node5" href="$d4/d51/vector__math__inline_8h.html#a29c1133f23fc143c8d60854c3c47d4f0" title="__attribute__" alt="" coords="346,57,455,85"/>
+<area shape="rect" id="node6" href="$d3/d04/classPHG4GDMLWriteMaterials.html#a2b0f79e7a135e1e204a49efc3379caaa" title="PHG4GDMLWriteMaterials\l::AtomWrite" alt="" coords="303,109,498,153"/>
+<area shape="rect" id="node7" href="$dd/d7e/namespaceActs_1_1Test.html#aaa4a3e55a710f78e81d0e6b403913de9" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="307,177,495,221"/>
+<area shape="rect" id="node8" href="$d5/d40/classPHG4TTLDetector.html#a4071abf01a09d23a002a8cba3bb75964" title="PHG4TTLDetector::BuildBarrelTTL" alt="" coords="277,245,525,273"/>
+<area shape="rect" id="node9" href="$d5/d40/classPHG4TTLDetector.html#adf282a7af97f1e97b53ae8dcb46b402b" title="PHG4TTLDetector::BuildForwardTTL" alt="" coords="269,297,532,325"/>
+<area shape="rect" id="node10" href="$d2/d28/classPHG4CylinderStripDetector.html#a27127095538641a8a9ae66ff8ea1eb8b" title="PHG4CylinderStripDetector\l::BuildMaterials" alt="" coords="298,349,503,393"/>
+<area shape="rect" id="node11" href="$d8/d29/classVertexFitFunc.html#a34aaa57513c827a759c25c7492150e93" title="VertexFitFunc::calcValGrad\lHessian" alt="" coords="299,417,502,461"/>
+<area shape="rect" id="node12" href="$de/dfd/classCell.html#ab7d85b5f1af41f639c9dc82ca8e1c033" title="Cell::Cell" alt="" coords="361,485,441,513"/>
+<area shape="rect" id="node13" href="$dd/d2d/classPHG4ECAPToFDetector.html#a80e457c0e22307d0cb848bd47dd4e9f8" title="PHG4ECAPToFDetector\l::ConstructMe" alt="" coords="313,537,488,581"/>
+<area shape="rect" id="node14" href="$d3/d4d/classPHG4TRDDetector.html#a30f38944faf5527fcae8652af3ff240a" title="construct TRD" alt="" coords="281,605,520,633"/>
+<area shape="rect" id="node15" href="$d3/d22/classPHG4BbcDetector.html#a7828b04efeed22f55fffce3385d0cfe1" title="construct BBC/MBD" alt="" coords="283,657,519,685"/>
+<area shape="rect" id="node16" href="$d9/d50/classPHG4ForwardHcalDetector.html#aecc0b0e93fa263ec209542788a36009f" title="PHG4ForwardHcalDetector\l::ConstructTower" alt="" coords="300,709,501,753"/>
+<area shape="rect" id="node17" href="$d9/d5c/classPHG4MicromegasDetector.html#a62e5fbf8b6ae75060dcedb63bb713278" title="create needed material" alt="" coords="301,777,501,821"/>
+<area shape="rect" id="node18" href="$d1/da3/classG4EicDircDetector.html#a4135ce11d181f50cf98c48dbe89d0dd8" title="G4EicDircDetector::\lDefineMaterials" alt="" coords="324,845,477,889"/>
+<area shape="rect" id="node19" href="$d0/d78/classPHG4Reco.html#a90115a5a7726db54ec46f7fa341e0e5c" title="PHG4Reco::DefineMaterials" alt="" coords="297,913,504,941"/>
+<area shape="rect" id="node20" href="$db/d51/classEICG4dRICHAerogel.html#a21bec1b7c1f0457fc915f6e857bc6df5" title="EICG4dRICHAerogel::\lDensity" alt="" coords="319,965,482,1009"/>
+<area shape="rect" id="node21" href="$db/d51/classEICG4dRICHAerogel.html#ab7b1a1a3407d5c01972c4c6ec1256285" title="EICG4dRICHAerogel::\ldensity2refIndex" alt="" coords="319,1033,482,1077"/>
+<area shape="rect" id="node22" href="$d3/d04/classPHG4GDMLWriteMaterials.html#a4dfefd0b560aa75c36913a820c4dc0d1" title="PHG4GDMLWriteMaterials\l::DWrite" alt="" coords="303,1101,498,1145"/>
+<area shape="rect" id="node23" href="$df/d6a/classEicFRichDetector.html#ab4f6802bb44ec0ea16bf05c4523015bd" title="EicFRichDetector::element\l_material" alt="" coords="300,1169,501,1213"/>
+<area shape="rect" id="node24" href="$d3/d7a/fjet_8f.html#a8d0f21bb1671cde16dfd781a16848a55" title="fjet" alt="" coords="379,1237,423,1265"/>
+<area shape="rect" id="node25" href="$d6/dbe/fjetrig_8f.html#a9d34d534961292a2ab4c61d39d58a83b" title="fjetrig" alt="" coords="370,2445,431,2473"/>
+<area shape="rect" id="node26" href="$df/d28/namespacekdfinder.html#a5687bc7eaaf9926d3c73a7456be685fb" title="kdfinder::get_track\l_color" alt="" coords="326,1289,475,1333"/>
+<area shape="rect" id="node27" href="$d1/deb/classPHG4CrystalCalorimeterDetector.html#ae36ad5c20d5516b04b308db8cd6e6244" title="PHG4CrystalCalorimeterDetector\l::GetCarbonFiber" alt="" coords="279,1357,523,1401"/>
+<area shape="rect" id="node28" href="$d5/d93/classPHG4HybridHomogeneousCalorimeterDetector.html#a623c9e5aed81a4144831968112a66ac0" title="PHG4HybridHomogeneousCalorimeter\lDetector::GetCarbonFiber" alt="" coords="260,1425,541,1469"/>
+<area shape="rect" id="node29" href="$dd/d62/classPHG4BarrelEcalDetector.html#aa77caf57bd5ba9c3cd302a3341b497e0" title="PHG4BarrelEcalDetector\l::GetCarbonFiber" alt="" coords="307,1493,494,1537"/>
+<area shape="rect" id="node30" href="$d4/dd9/classPHG4LFHcalDetector.html#a3d8bf5b55b45c58c7ef08bef7c5b9e50" title="PHG4LFHcalDetector\l::GetCoatingMaterial" alt="" coords="319,1561,482,1605"/>
+<area shape="rect" id="node31" href="$d8/d23/classPHG4ForwardEcalDetector.html#aaeefbd6c2284208a070bc60fc5de805a" title="PHG4ForwardEcalDetector\l::GetCoatingMaterial" alt="" coords="301,1629,501,1673"/>
+<area shape="rect" id="node32" href="$dd/dc3/classPHG4ForwardDualReadoutDetector.html#ade01ae7c1d0a44ac68e0b48895658c26" title="PHG4ForwardDualReadoutDetector\l::GetPMMAMaterial" alt="" coords="271,1697,530,1741"/>
+<area shape="rect" id="node33" href="$dd/dc3/classPHG4ForwardDualReadoutDetector.html#a46753587398b42d4d681620b5abd2c1a" title="PHG4ForwardDualReadoutDetector\l::GetQuartzMaterial" alt="" coords="271,1765,530,1809"/>
+<area shape="rect" id="node34" href="$dd/d62/classPHG4BarrelEcalDetector.html#a1609f32a01aec36cc1e0878ac2661dbb" title="PHG4BarrelEcalDetector\l::GetSciGlass" alt="" coords="307,1833,494,1877"/>
+<area shape="rect" id="node35" href="$d4/dd9/classPHG4LFHcalDetector.html#a5f82df52f071dea0592477600b23840e" title="PHG4LFHcalDetector\l::GetScintillatorMaterial" alt="" coords="310,1901,491,1945"/>
+<area shape="rect" id="node36" href="$d5/d93/classPHG4HybridHomogeneousCalorimeterDetector.html#a4c66ca612cb4eeaececf7fbad7bbdd2a" title="PHG4HybridHomogeneousCalorimeter\lDetector::GetScintillatorMaterial" alt="" coords="260,1969,541,2013"/>
+<area shape="rect" id="node37" href="$dd/dc3/classPHG4ForwardDualReadoutDetector.html#a1944dfc44b34c22d8ce21da3a6d5d46a" title="PHG4ForwardDualReadoutDetector\l::GetScintillatorMaterial" alt="" coords="271,2037,530,2081"/>
+<area shape="rect" id="node38" href="$d8/d23/classPHG4ForwardEcalDetector.html#abaea272f1412fba949fb71b871dd6005" title="PHG4ForwardEcalDetector\l::GetScintillatorMaterial" alt="" coords="301,2105,501,2149"/>
+<area shape="rect" id="node39" href="$d5/d93/classPHG4HybridHomogeneousCalorimeterDetector.html#a8d6b4963a6de5710a4daacf918b6219a" title="PHG4HybridHomogeneousCalorimeter\lDetector::GetTedlarMaterial" alt="" coords="260,2173,541,2217"/>
+<area shape="rect" id="node40" href="$d5/d93/classPHG4HybridHomogeneousCalorimeterDetector.html#aff13bfab0a3410475e2e84ccdfe2236d" title="PHG4HybridHomogeneousCalorimeter\lDetector::GetVM2000Material" alt="" coords="260,2241,541,2285"/>
+<area shape="rect" id="node41" href="$d8/d23/classPHG4ForwardEcalDetector.html#a960ac3ae869e8d9360c5352ae80eaba3" title="PHG4ForwardEcalDetector\l::GetWLSFiberFEMCMaterial" alt="" coords="297,2309,505,2353"/>
+<area shape="rect" id="node42" href="$d4/dd9/classPHG4LFHcalDetector.html#a2cd320bc53ed47d5f3dc050a920757e2" title="PHG4LFHcalDetector\l::GetWLSFiberMaterial" alt="" coords="315,2377,486,2421"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="material_scan" name="material_scan">
+<area shape="rect" id="node2" href="$db/d5d/test__style_8C.html#a82fd57a94fc00b72103f68240951b7b4" title="AddEntry" alt="" coords="193,5,278,33"/>
+<area shape="rect" id="node3" href="$dd/dbc/g4lblvtx_2blob_2master_2macros_2materialscan_2plot__matscan_8C.html#a15dc18e69054a2fc5074ba4ca9d37f79" title="CreatePlots" alt="" coords="186,109,285,137"/>
+<area shape="rect" id="node6" href="$d4/de6/b0rp_2acceptance_8C.html#a4450bdeb872391dc3cf8a48a879d3750" title="SetLineColor" alt="" coords="551,44,659,72"/>
+<area shape="rect" id="node10" href="$d4/de6/b0rp_2acceptance_8C.html#a80bc09d42f252a7e88dd58cd2b99e621" title="Draw" alt="" coords="207,161,264,189"/>
+<area shape="rect" id="node11" href="$db/d5d/test__style_8C.html#a5dcd1d1376a077de14f84bb875207fb2" title="leg" alt="" coords="215,213,256,241"/>
+<area shape="rect" id="node12" href="$dd/dbc/g4lblvtx_2blob_2master_2macros_2materialscan_2plot__matscan_8C.html#a7bf8dfc2eff09e19875a58eab32f7fec" title="LoadData" alt="" coords="193,265,278,293"/>
+<area shape="rect" id="node14" href="$dd/dbc/g4lblvtx_2blob_2master_2macros_2materialscan_2plot__matscan_8C.html#a2af14b6d10f41d871c2f8705749cbb3d" title="PrepareVariables" alt="" coords="168,317,303,345"/>
+<area shape="rect" id="node15" href="$db/d5d/test__style_8C.html#aa587a93d9563c8d433bd1736432c4acd" title="Print" alt="" coords="209,369,262,397"/>
+<area shape="rect" id="node16" href="$db/d5d/test__style_8C.html#a9235e4b48ac9489a6390b40f8875c2b7" title="SetRightMargin" alt="" coords="173,421,297,449"/>
+<area shape="rect" id="node4" href="$dd/dbc/g4lblvtx_2blob_2master_2macros_2materialscan_2plot__matscan_8C.html#ace990f3d0a6c7f2db4f314aa777465fd" title="PrettyTGraphErrors" alt="" coords="351,135,501,163"/>
+<area shape="rect" id="node5" href="$d4/de6/b0rp_2acceptance_8C.html#a6d6f520d9cc7efb2d47d87e148e3e872" title="GetXaxis" alt="" coords="564,96,645,124"/>
+<area shape="rect" id="node7" href="$d4/de6/b0rp_2acceptance_8C.html#a4ea6598892cde60472fd8cbc73aef51a" title="SetLineWidth" alt="" coords="549,148,660,176"/>
+<area shape="rect" id="node8" href="$d4/de6/b0rp_2acceptance_8C.html#a2b4a8b6492d86feaddf49ac58abce8e1" title="SetMinimum" alt="" coords="551,200,658,228"/>
+<area shape="rect" id="node9" href="$d4/de6/b0rp_2acceptance_8C.html#aa4b7d724fc31042859cff3ea7f017722" title="GetYaxis" alt="" coords="565,252,644,280"/>
+<area shape="rect" id="node13" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="398,265,454,293"/>
+</map>

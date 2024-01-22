@@ -1,0 +1,12 @@
+<map id="EicTrackingDigiHit::GetMultiIndex" name="EicTrackingDigiHit::GetMultiIndex">
+<area shape="rect" id="node2" href="$d1/d62/classEicTrackingRecoHit.html#a31b7bc63683a15e8de058a4ef5009c17" title="EicTrackingRecoHit\l::GetLookupTableNode" alt="" coords="228,73,401,117"/>
+<area shape="rect" id="node5" href="$d7/d0d/classEicDetectorGroup.html#a402e1867b02be4d93700389ec8ed058e" title="EicDetectorGroup::GetSensitive\lVolume" alt="" coords="197,211,432,255"/>
+<area shape="rect" id="node3" href="$db/d95/classEicPlanarRecoHit.html#ac3822f7cba453fc087b2d797fd544282" title="EicPlanarRecoHit::EicPlanar\lRecoHit" alt="" coords="486,5,694,49"/>
+<area shape="rect" id="node4" href="$de/d45/classEicSpaceRecoHit.html#a828bed32810bd7db86fc1a6a64510db4" title="EicSpaceRecoHit::EicSpace\lRecoHit" alt="" coords="488,73,692,117"/>
+<area shape="rect" id="node6" href="$d4/d04/classFwdTrackFinder.html#a3af39e18710ddd0560bc69d7cd9d593c" title="FwdTrackFinder::Exec" alt="" coords="507,141,673,169"/>
+<area shape="rect" id="node7" href="$d7/d9f/classEicHtcTask.html#a51f6768289f97ee2cd68730b840c5ef2" title="EicHtcTask::Exec" alt="" coords="523,193,657,221"/>
+<area shape="rect" id="node8" href="$da/d13/classFwdHoughTree.html#a77ab6d8abaaa4419df4106fb469bbe63" title="FwdHoughTree::FinalFit" alt="" coords="799,277,978,305"/>
+<area shape="rect" id="node9" href="$da/d13/classFwdHoughTree.html#a5f6c98ae06e2e53b65b0a3d4418d1d52" title="FwdHoughTree::GetKfNode" alt="" coords="489,365,691,393"/>
+<area shape="rect" id="node11" href="$da/d13/classFwdHoughTree.html#a2c6b906fed9b9e2df2d061a675ab56da" title="FwdHoughTree::SetupKalman\lFilter" alt="" coords="480,297,700,341"/>
+<area shape="rect" id="node10" href="$da/d13/classFwdHoughTree.html#a9dc064fb3543a4cc5b1d2f175d3493f4" title="FwdHoughTree::ResolveAmbiguitiesNg" alt="" coords="748,333,1029,361"/>
+</map>

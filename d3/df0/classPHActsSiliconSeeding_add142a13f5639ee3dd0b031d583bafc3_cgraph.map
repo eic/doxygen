@@ -1,0 +1,35 @@
+<map id="PHActsSiliconSeeding::makeSvtxTracks" name="PHActsSiliconSeeding::makeSvtxTracks">
+<area shape="rect" id="node2" href="$d3/df0/classPHActsSiliconSeeding.html#a0c2586d684190ec06a2c0b7cc22eb175" title="PHActsSiliconSeeding\l::circleFitSeed" alt="" coords="220,395,387,439"/>
+<area shape="rect" id="node7" href="$d0/d2c/classTrkrClusterContainer.html#a6f26d0655c81919f5539934e0d0fc438" title="find cluster matching given key" alt="" coords="679,648,841,692"/>
+<area shape="rect" id="node17" href="$df/db5/classActsTransformations.html#ad73bc53ee88d22ebdf1a0b6ac5456cec" title="ActsTransformations\l::getGlobalPosition" alt="" coords="931,838,1091,882"/>
+<area shape="rect" id="node22" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="1198,1094,1345,1122"/>
+<area shape="rect" id="node24" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="923,508,1099,536"/>
+<area shape="rect" id="node30" href="$d3/df0/classPHActsSiliconSeeding.html#abf1f8a4209448767f1de358cb4a1570f" title="PHActsSiliconSeeding\l::createSvtxTrack" alt="" coords="220,930,387,974"/>
+<area shape="rect" id="node3" href="$d3/df0/classPHActsSiliconSeeding.html#af2a7e2c3ca98aadcaeab27f9262ae239" title="PHActsSiliconSeeding\l::circleFitByTaubin" alt="" coords="677,870,843,914"/>
+<area shape="rect" id="node5" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="1249,575,1293,603"/>
+<area shape="rect" id="node6" href="$df/da1/namespaceActs_1_1VectorHelpers.html#afc1703c2fa7adfd6517e5e16df2e5df4" title="Acts::VectorHelpers::eta" alt="" coords="435,291,620,319"/>
+<area shape="rect" id="node8" href="$d3/df0/classPHActsSiliconSeeding.html#aa83203c39e50f53c2bc910b7413c1e38" title="PHActsSiliconSeeding\l::findInttMatches" alt="" coords="444,223,611,267"/>
+<area shape="rect" id="node25" href="$d3/df0/classPHActsSiliconSeeding.html#a483a66e2294e881e9255b3917cc32c6d" title="PHActsSiliconSeeding\l::findRoot" alt="" coords="444,395,611,439"/>
+<area shape="rect" id="node26" href="$d3/df0/classPHActsSiliconSeeding.html#a9d1045f29ec5dfe2aa053a51e1a0997f" title="PHActsSiliconSeeding\l::getCharge" alt="" coords="677,580,843,624"/>
+<area shape="rect" id="node28" href="$d3/df0/classPHActsSiliconSeeding.html#a82be92f7e2c197be6816e31b52468382" title="PHActsSiliconSeeding\l::lineFit" alt="" coords="677,460,843,504"/>
+<area shape="rect" id="node29" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="499,171,555,199"/>
+<area shape="rect" id="node4" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="988,628,1033,656"/>
+<area shape="rect" id="node9" href="$d3/df0/classPHActsSiliconSeeding.html#aec088dec24cee2a63a281b8e0d62de19" title="PHActsSiliconSeeding\l::circleCircleIntersection" alt="" coords="668,171,852,215"/>
+<area shape="rect" id="node10" href="$d3/df0/classPHActsSiliconSeeding.html#a2aa51c23cdbc086a3399f9bb29ab5554" title="PHActsSiliconSeeding\l::matchInttClusters" alt="" coords="677,239,843,283"/>
+<area shape="rect" id="node11" href="$d5/d76/classTrkrHitSetContainer.html#a0e347bd66bf03e9a34651410a79d5cab" title="return all HitSets matching a given detid" alt="" coords="933,200,1089,244"/>
+<area shape="rect" id="node12" href="$d6/d9e/namespaceInttDefs.html#aeb0f2c2a834c11791925bdffc211526d" title="Get the ladder id from hitsetkey." alt="" coords="924,268,1097,296"/>
+<area shape="rect" id="node13" href="$d6/d9e/namespaceInttDefs.html#a28461d6132ff9373b4529e5c0d20c962" title="Get the sensor id from hitsetkey." alt="" coords="918,320,1103,348"/>
+<area shape="rect" id="node14" href="$d4/de7/classPHG4CylinderGeomContainer.html#a08321019aaff5f57cd416b64d0f536bf" title="PHG4CylinderGeomContainer\l::GetLayerGeom" alt="" coords="900,372,1121,416"/>
+<area shape="rect" id="node15" href="$d9/dcb/classCylinderGeomIntt.html#a6334f749c1bdbc723e47a752a154b23d" title="CylinderGeomIntt::find\l_segment_center" alt="" coords="923,440,1098,484"/>
+<area shape="rect" id="node16" href="$d0/d2c/classTrkrClusterContainer.html#a9b6a31479d24147db018ac23460ac548" title="return all clusters" alt="" coords="929,132,1092,176"/>
+<area shape="rect" id="node18" href="$d6/dfa/classTrkrCluster.html#ab18c56f7c1aa174203dcf8fbf0141279" title="TrkrCluster::getClusKey" alt="" coords="1181,958,1361,986"/>
+<area shape="rect" id="node19" href="$d6/dfa/classTrkrCluster.html#acc835716d1c4f76e9c0da8e5a79e25c1" title="TrkrCluster::getLocalX" alt="" coords="1186,734,1357,762"/>
+<area shape="rect" id="node20" href="$d6/dfa/classTrkrCluster.html#a05e4879520abe27bc6028bc05fc94162" title="TrkrCluster::getLocalY" alt="" coords="1186,786,1357,814"/>
+<area shape="rect" id="node21" href="$db/d81/namespaceActs_1_1MeasurementHelpers.html#af6bf98068f55e3d194425beaf2dd92be" title="Extract surface from a type erased measurement object." alt="" coords="1169,838,1373,882"/>
+<area shape="rect" id="node23" href="$dc/de5/PHG4mRICHDetector_8cc.html#acaaf109d582b14d4880c13e89c1243e1" title="surface" alt="" coords="1236,906,1307,934"/>
+<area shape="rect" id="node27" href="$d3/df0/classPHActsSiliconSeeding.html#ab3e784c4d4cb9509469a7397e856ecef" title="PHActsSiliconSeeding\l::normPhi2Pi" alt="" coords="927,560,1094,604"/>
+<area shape="rect" id="node31" href="$d3/df0/classPHActsSiliconSeeding.html#a18a8041672f0248bc4d66f0dbf3ffbed" title="PHActsSiliconSeeding\l::identifyBestSeed" alt="" coords="444,768,611,812"/>
+<area shape="rect" id="node32" href="$d7/d8b/classSvtxTrackMap.html#a77e77f372df080675731d3748fca3cfe" title="SvtxTrackMap::insert" alt="" coords="446,990,609,1018"/>
+<area shape="rect" id="node33" href="$d3/df0/classPHActsSiliconSeeding.html#af2e9d905900283cce615c22a8d0e56a3" title="PHActsSiliconSeeding\l::makePossibleStubs" alt="" coords="677,1146,843,1190"/>
+<area shape="rect" id="node34" href="$d7/d8b/classSvtxTrackMap.html#a508e23a620af3b20bfc0be05aa5b4ada" title="SvtxTrackMap::size" alt="" coords="453,1042,602,1070"/>
+</map>

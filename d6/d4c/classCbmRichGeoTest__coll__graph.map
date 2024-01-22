@@ -1,0 +1,17 @@
+<map id="CbmRichGeoTest" name="CbmRichGeoTest">
+<area shape="rect" id="node2" href="$d2/d9e/classFairTask.html" title="FairTask" alt="" coords="1147,91,1221,119"/>
+<area shape="rect" id="node4" href="$db/da1/classFairLogger.html" title="FairLogger" alt="" coords="897,138,989,166"/>
+<area shape="rect" id="node15" href="$d5/d43/classFairParSet.html" title="FairParSet" alt="" coords="1139,143,1229,171"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="607,109,714,137"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="387,101,535,145"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="164,109,337,137"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="5,109,115,137"/>
+<area shape="rect" id="node13" href="$d0/da0/classCbmGeoRichPar.html" title="CbmGeoRichPar" alt="" coords="1811,143,1941,171"/>
+<area shape="rect" id="node14" href="$d7/dbb/classFairParGenericSet.html" title="FairParGenericSet" alt="" coords="1364,143,1505,171"/>
+<area shape="rect" id="node17" href="$d2/d8f/classCbmRichRingFitterEllipseTau.html" title="Here the ring is fitted with Taubin algorithm from A. Ayriyan, G. Ososkov, N. Chernov." alt="" coords="1769,442,1983,470"/>
+<area shape="rect" id="node18" href="$dd/d22/classCbmRichRingFitterEllipseBase.html" title="Base class for concrete ellipse fitting algorithms. Each derived class must implement the method DoFi..." alt="" coords="1323,442,1547,470"/>
+<area shape="rect" id="node19" href="$d9/d04/classCbmRichRingFitterBase.html" title="Abstract base class for concrete Rich Ring fitting algorithms. Each derived class must implement the ..." alt="" coords="1095,478,1273,506"/>
+<area shape="rect" id="node20" href="$d1/d8d/classCbmRichRingFitterCOP.html" title="Here the ring is fitted with the COP algorithm from A. Ayriyan/G. Ososkov." alt="" coords="1571,497,1745,525"/>
+<area shape="rect" id="node21" title="STL class." alt="" coords="1831,559,1921,587"/>
+<area shape="rect" id="node22" title="STL class." alt="" coords="1363,551,1506,595"/>
+</map>

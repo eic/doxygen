@@ -1,0 +1,8 @@
+<map id="EicGeoMap::GetBaseVolumePath" name="EicGeoMap::GetBaseVolumePath">
+<area shape="rect" id="node2" href="$dd/dac/classEicDetector.html#a07cbc95f9c21475def3c27195d757726" title="EicDetector::GetNodeMulti\lIndex" alt="" coords="296,5,496,49"/>
+<area shape="rect" id="node4" href="$df/de0/classEicGeoParData.html#a0a125429fc6a74a052da4792a73e3953" title="EicGeoParData::Initialize\lLookupTables" alt="" coords="303,73,489,117"/>
+<area shape="rect" id="node3" href="$dd/dac/classEicDetector.html#adc3de28f6738a336d9964256bb696dd7" title="EicDetector::ProcessHits" alt="" coords="544,13,729,41"/>
+<area shape="rect" id="node5" href="$de/d93/classEicDigiHitProducer.html#a09862b32b794944e02723bdce363a565" title="EicDigiHitProducer\l::Init" alt="" coords="563,69,710,113"/>
+<area shape="rect" id="node6" href="$d7/d9f/classEicHtcTask.html#a87172e2c8a22bbee83d4624f2e131034" title="EicHtcTask::Init" alt="" coords="575,137,699,165"/>
+<area shape="rect" id="node7" href="$d4/d04/classFwdTrackFinder.html#aede5d387f06d05b801e76f3c977fce68" title="FwdTrackFinder::Init" alt="" coords="777,137,933,165"/>
+</map>

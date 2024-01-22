@@ -1,0 +1,26 @@
+<map id="EicRoot/blob/master/rich/CbmRich.cxx" name="EicRoot/blob/master/rich/CbmRich.cxx">
+<area shape="rect" id="node2" href="$d6/d41/CbmRich_8h.html" title="Defines the active detector RICH. Constructs the geometry and creates MCPoints." alt="" coords="247,97,340,125"/>
+<area shape="rect" id="node5" href="$d9/d92/CbmGeoRichPar_8h.html" title="CbmGeoRichPar.h" alt="" coords="415,97,556,125"/>
+<area shape="rect" id="node7" href="$d5/dcf/CbmGeoRich_8h.html" title="CbmGeoRich.h" alt="" coords="682,97,803,125"/>
+<area shape="rect" id="node11" href="$da/d34/CbmRichPoint_8h.html" title="CbmRichPoint.h" alt="" coords="47,97,175,125"/>
+<area shape="rect" id="node13" href="$d7/d92/CbmDetectorList_8h.html" title="Defines unique identifiers (enum) for all CBM detector systems." alt="" coords="2124,173,2271,201"/>
+<area shape="rect" id="node15" href="$d6/dd0/FairGeoInterface_8h.html" title="FairGeoInterface.h" alt="" coords="2018,97,2163,125"/>
+<area shape="rect" id="node17" href="$d3/d52/FairGeoLoader_8h.html" title="FairGeoLoader.h" alt="" coords="1183,173,1313,201"/>
+<area shape="rect" id="node18" href="$da/df5/FairGeoNode_8h.html" title="FairGeoNode.h" alt="" coords="879,97,999,125"/>
+<area shape="rect" id="node23" href="$d0/d71/FairGeoRootBuilder_8h.html" title="FairGeoRootBuilder.h" alt="" coords="1396,97,1559,125"/>
+<area shape="rect" id="node24" href="$d2/dc5/FairGeoBuilder_8h.html" title="FairGeoBuilder.h" alt="" coords="1337,173,1469,201"/>
+<area shape="rect" id="node25" href="$d8/d0d/CbmStack_8h.html" title="CbmStack.h" alt="" coords="2239,97,2340,125"/>
+<area shape="rect" id="node29" href="$d4/d92/FairRootManager_8h.html" title="FairRootManager.h" alt="" coords="2364,97,2511,125"/>
+<area shape="rect" id="node34" href="$d8/d7f/FairVolume_8h.html" title="FairVolume.h" alt="" coords="1634,97,1742,125"/>
+<area shape="rect" id="node36" href="$d9/dac/FairRuntimeDb_8h.html" title="FairRuntimeDb.h" alt="" coords="1807,173,1940,201"/>
+<area shape="rect" id="node37" href="$df/d06/FairRun_8h.html" title="FairRun.h" alt="" coords="1493,173,1577,201"/>
+<area shape="rect" id="node47" href="$dc/d78/FairGeoMedia_8h.html" title="FairGeoMedia.h" alt="" coords="1817,97,1943,125"/>
+<area shape="rect" id="node3" href="$dc/db2/FairDetector_8h.html" title="FairDetector.h" alt="" coords="141,173,256,201"/>
+<area shape="rect" id="node6" href="$d1/d65/FairParGenericSet_8h.html" title="FairParGenericSet.h" alt="" coords="331,173,485,201"/>
+<area shape="rect" id="node8" href="$d2/d38/FairGeoSet_8h.html" title="FairGeoSet.h" alt="" coords="509,173,616,201"/>
+<area shape="rect" id="node9" href="$dd/d44/FairGeoTransform_8h.html" title="FairGeoTransform.h" alt="" coords="577,249,729,277"/>
+<area shape="rect" id="node12" href="$d1/d72/FairMCPoint_8h.html" title="FairMCPoint.h" alt="" coords="5,173,117,201"/>
+<area shape="rect" id="node19" href="$da/d93/FairGeoVolume_8h.html" title="FairGeoVolume.h" alt="" coords="1024,173,1160,201"/>
+<area shape="rect" id="node21" href="$dd/d76/FairGeoBasicShape_8h.html" title="FairGeoBasicShape.h" alt="" coords="691,173,853,201"/>
+<area shape="rect" id="node26" href="$dd/dd8/FairGenericStack_8h.html" title="FairGenericStack.h" alt="" coords="2377,173,2524,201"/>
+</map>

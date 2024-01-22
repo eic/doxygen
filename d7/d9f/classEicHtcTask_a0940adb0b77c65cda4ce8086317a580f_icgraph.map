@@ -1,0 +1,17 @@
+<map id="EicHtcTask::GetKalmanFilter" name="EicHtcTask::GetKalmanFilter">
+<area shape="rect" id="node2" href="$d4/d04/classFwdTrackFinder.html#a9f62e31dd7aea65f26988e7fc59fa3e1" title="FwdTrackFinder::AccountEnergy\lLosses" alt="" coords="264,5,500,49"/>
+<area shape="rect" id="node3" href="$d7/d9f/classEicHtcTask.html#a25703479e0b0d5a3da9d4e233b20c187" title="EicHtcTask::ConfigureKalman\lFilter" alt="" coords="559,176,777,220"/>
+<area shape="rect" id="node5" href="$d4/d04/classFwdTrackFinder.html#aede5d387f06d05b801e76f3c977fce68" title="FwdTrackFinder::Init" alt="" coords="1165,151,1321,179"/>
+<area shape="rect" id="node6" href="$da/d13/classFwdHoughTree.html#a77ab6d8abaaa4419df4106fb469bbe63" title="FwdHoughTree::FinalFit" alt="" coords="887,339,1066,367"/>
+<area shape="rect" id="node7" href="$d7/d9f/classEicHtcTask.html#a1b4435566648a7059056b2ac17989dec" title="Kalman filter pointer." alt="" coords="278,144,486,188"/>
+<area shape="rect" id="node8" href="$d4/d04/classFwdTrackFinder.html#a0fbdc6b75491b06a58e7d6e3b62403c6" title="FwdTrackFinder::ResetVtxNode" alt="" coords="267,467,497,495"/>
+<area shape="rect" id="node9" href="$da/d13/classFwdHoughTree.html#a2c6b906fed9b9e2df2d061a675ab56da" title="FwdHoughTree::SetupKalman\lFilter" alt="" coords="558,416,778,460"/>
+<area shape="rect" id="node10" href="$da/d13/classFwdHoughTree.html#a9dc064fb3543a4cc5b1d2f175d3493f4" title="FwdHoughTree::ResolveAmbiguitiesNg" alt="" coords="836,484,1117,512"/>
+<area shape="rect" id="node11" href="$d4/d04/classFwdTrackFinder.html#af93d2be89bd0aad19737e57805ebb1b5" title="FwdTrackFinder::SetExtra\lNdfCount" alt="" coords="287,571,477,615"/>
+<area shape="rect" id="node12" href="$d4/d04/classFwdTrackFinder.html#a7431bb1040294a48d6549538be763e8d" title="FwdTrackFinder::SetLocation\lSeparationDistance" alt="" coords="276,639,488,683"/>
+<area shape="rect" id="node13" href="$d4/d04/classFwdTrackFinder.html#a7494e13fc0084ab43f7efde5cfeb6a89" title="FwdTrackFinder::SetMinFilter\lChiSquareCCDF" alt="" coords="275,707,489,751"/>
+<area shape="rect" id="node14" href="$da/d13/classFwdHoughTree.html#af13ad7a2a5688a2544c0d13047a535c4" title="FwdHoughTree::SetupTrack\lQualityIteration" alt="" coords="279,775,485,819"/>
+<area shape="rect" id="node15" href="$d4/d04/classFwdTrackFinder.html#aa1077d73117490b8583e853a31b1162c" title="FwdTrackFinder::UpdateVtxNode" alt="" coords="548,312,788,340"/>
+<area shape="rect" id="node16" href="$d4/d04/classFwdTrackFinder.html#a7eaa09763059e539b2cad526ba49db81" title="FwdTrackFinder::WithMagnetic\lField" alt="" coords="555,244,781,288"/>
+<area shape="rect" id="node4" href="$d7/d9f/classEicHtcTask.html#a87172e2c8a22bbee83d4624f2e131034" title="EicHtcTask::Init" alt="" coords="915,180,1039,208"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="EicDetectorGroup::GetSensitiveVolume" name="EicDetectorGroup::GetSensitiveVolume">
+<area shape="rect" id="node2" href="$d4/d04/classFwdTrackFinder.html#a3af39e18710ddd0560bc69d7cd9d593c" title="FwdTrackFinder::Exec" alt="" coords="315,5,481,33"/>
+<area shape="rect" id="node3" href="$d7/d9f/classEicHtcTask.html#a51f6768289f97ee2cd68730b840c5ef2" title="EicHtcTask::Exec" alt="" coords="331,57,465,85"/>
+<area shape="rect" id="node4" href="$da/d13/classFwdHoughTree.html#a77ab6d8abaaa4419df4106fb469bbe63" title="FwdHoughTree::FinalFit" alt="" coords="607,141,786,169"/>
+<area shape="rect" id="node5" href="$da/d13/classFwdHoughTree.html#a5f6c98ae06e2e53b65b0a3d4418d1d52" title="FwdHoughTree::GetKfNode" alt="" coords="297,229,499,257"/>
+<area shape="rect" id="node7" href="$da/d13/classFwdHoughTree.html#a2c6b906fed9b9e2df2d061a675ab56da" title="FwdHoughTree::SetupKalman\lFilter" alt="" coords="288,161,508,205"/>
+<area shape="rect" id="node6" href="$da/d13/classFwdHoughTree.html#a9dc064fb3543a4cc5b1d2f175d3493f4" title="FwdHoughTree::ResolveAmbiguitiesNg" alt="" coords="556,197,837,225"/>
+</map>

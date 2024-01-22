@@ -1,0 +1,6 @@
+<map id="CbmRichRingFitterEllipseTau::DoFit" name="CbmRichRingFitterEllipseTau::DoFit">
+<area shape="rect" id="node2" href="$d5/d75/classCbmRichGeoTest.html#abbc0d8b45eab85acbc07506987dfbb4e" title="Fit ring using ellipse fitter and fill histograms." alt="" coords="244,5,448,49"/>
+<area shape="rect" id="node5" href="$df/d44/classCbmRichRingFitterQa.html#a3312359c4adaa1788105cc6d60b5b4b2" title="Generate ellipse." alt="" coords="264,73,428,117"/>
+<area shape="rect" id="node3" href="$d5/d75/classCbmRichGeoTest.html#a3877e9706c0d5764a48e943b355830cf" title="Loop over all rings in array and fill ring parameters histograms." alt="" coords="496,13,748,41"/>
+<area shape="rect" id="node4" href="$d5/d75/classCbmRichGeoTest.html#a9d5e890887411e04eb97219b7fa6c191" title="Inherited from FairTask." alt="" coords="796,13,972,41"/>
+</map>

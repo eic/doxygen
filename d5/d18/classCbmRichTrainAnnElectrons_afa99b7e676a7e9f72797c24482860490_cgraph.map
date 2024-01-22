@@ -1,0 +1,22 @@
+<map id="CbmRichTrainAnnElectrons::DiffElandPi" name="CbmRichTrainAnnElectrons::DiffElandPi">
+<area shape="rect" id="node2" href="$dc/d9e/classCbmRichRing.html#a0e8750c9dc3a69048e01dfa298497b8f" title="CbmRichRing::GetAaxis" alt="" coords="293,5,474,33"/>
+<area shape="rect" id="node3" href="$dc/d9e/classCbmRichRing.html#a1253381f078c391fb1c4e575fd1ab357" title="CbmRichRing::GetAaxisCor" alt="" coords="281,57,486,85"/>
+<area shape="rect" id="node4" href="$dc/d9e/classCbmRichRing.html#ac9fd37405c8d78867f30f6546a22e5d9" title="CbmRichRing::GetBaxis" alt="" coords="293,109,474,137"/>
+<area shape="rect" id="node5" href="$dc/d9e/classCbmRichRing.html#a9b5b13a0db764cdd1675313cc64f31a9" title="CbmRichRing::GetBaxisCor" alt="" coords="281,161,486,189"/>
+<area shape="rect" id="node6" href="$dc/d9e/classCbmRichRing.html#a3cb7ed5a18e4462459b05efe74a22d14" title="CbmRichRing::GetChi2" alt="" coords="296,213,471,241"/>
+<area shape="rect" id="node7" href="$dc/d9e/classCbmRichRing.html#adf6f1f9acba5a5dcce26a675c8be0a2e" title="CbmRichRing::GetDistance" alt="" coords="281,265,485,293"/>
+<area shape="rect" id="node8" href="$d3/d78/classCbmTrackMatch.html#a16a940c85ccec06145cbbb810a7554c8" title="CbmTrackMatch::GetMCTrackId" alt="" coords="269,317,498,345"/>
+<area shape="rect" id="node9" href="$d0/d00/classCbmMCTrack.html#abd25ba063b46c886b488b6ae46a4f471" title="CbmMCTrack::GetMotherId" alt="" coords="283,369,484,397"/>
+<area shape="rect" id="node10" href="$dc/d9e/classCbmRichRing.html#aa8e776dba3f235d0932549b3e1b503ff" title="CbmRichRing::GetNDF" alt="" coords="297,421,470,449"/>
+<area shape="rect" id="node11" href="$dc/d9e/classCbmRichRing.html#a07ef5492b731a22b87060e5249fd96ee" title="CbmRichRing::GetNofHits" alt="" coords="559,448,753,476"/>
+<area shape="rect" id="node12" href="$d3/d78/classCbmTrackMatch.html#a3b1da503b722ebab1e868f20dcb4b48e" title="CbmTrackMatch::GetNofFakeHits" alt="" coords="263,525,504,553"/>
+<area shape="rect" id="node13" href="$d3/d78/classCbmTrackMatch.html#ab2f0545e880d03e977360186e5e8a4fa" title="CbmTrackMatch::GetNofTrueHits" alt="" coords="263,577,503,605"/>
+<area shape="rect" id="node14" href="$d3/d78/classCbmTrackMatch.html#a3bd5c8bc72962bb2cb04487215b4e771" title="CbmTrackMatch::GetNofWrongHits" alt="" coords="256,629,511,657"/>
+<area shape="rect" id="node15" href="$d0/d00/classCbmMCTrack.html#ae7d34a46e237c9ec9a82083f949313f7" title="CbmMCTrack::GetP" alt="" coords="309,681,458,709"/>
+<area shape="rect" id="node16" href="$d0/d00/classCbmMCTrack.html#a108b6f955d89628794280f1c83489783" title="CbmMCTrack::GetPdgCode" alt="" coords="283,733,484,761"/>
+<area shape="rect" id="node17" href="$dc/d9e/classCbmRichRing.html#a9814d9a1e6b39d83754ad717e49fb031" title="CbmRichRing::GetPhi" alt="" coords="301,785,466,813"/>
+<area shape="rect" id="node18" href="$dc/d9e/classCbmRichRing.html#ab92e0c902af69ca97c0b3b36903448e6" title="CbmRichRing::GetRadialAngle" alt="" coords="271,837,496,865"/>
+<area shape="rect" id="node19" href="$dc/d9e/classCbmRichRing.html#a9ce58d379812e0362bd57c37f6714685" title="CbmRichRing::GetRadialPosition" alt="" coords="264,889,503,917"/>
+<area shape="rect" id="node20" href="$d7/d5a/classCbmGlobalTrack.html#a23a2615a4027150a33b0c877c19b9501" title="CbmGlobalTrack::GetRichRing\lIndex" alt="" coords="272,941,495,985"/>
+<area shape="rect" id="node21" href="$d7/d5a/classCbmGlobalTrack.html#a0c1e93d0d15adc8d2df5f6c5ff06fcf7" title="CbmGlobalTrack::GetStsTrack\lIndex" alt="" coords="273,1009,494,1053"/>
+</map>

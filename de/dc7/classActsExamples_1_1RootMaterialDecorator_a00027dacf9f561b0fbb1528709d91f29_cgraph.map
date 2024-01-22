@@ -1,0 +1,12 @@
+<map id="ActsExamples::RootMaterialDecorator::RootMaterialDecorator" name="ActsExamples::RootMaterialDecorator::RootMaterialDecorator">
+<area shape="rect" id="node2" href="$dd/d14/classActs_1_1Material.html#a86879652a24b9d7994a08e8f8933de5d" title="Acts::Material::fromMass\lDensity" alt="" coords="303,5,492,49"/>
+<area shape="rect" id="node3" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="359,73,436,101"/>
+<area shape="rect" id="node4" href="$de/d6c/fun4all__eicdetectors_2blob_2master_2simulation_2g4simulation_2g4lblvtx_2EicFRichDetector_8cc.html#afa9eab74a86ef9511755e454d4ed5e85" title="rmax" alt="" coords="369,125,425,153"/>
+<area shape="rect" id="node5" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ad8026c444eca861f1048624ef65c2134" title="Set the approach identifier." alt="" coords="303,177,492,221"/>
+<area shape="rect" id="node8" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ad16dff2f099c193e28416cd4d8ae4f13" title="Set the boundary identifier." alt="" coords="303,245,492,289"/>
+<area shape="rect" id="node9" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a78646d595690eed970f9de63db924590" title="Set the layer identifier." alt="" coords="303,313,492,357"/>
+<area shape="rect" id="node10" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a2251b0859f703d093338cb9afa1c73a1" title="Set the sensitive identifier." alt="" coords="303,381,492,425"/>
+<area shape="rect" id="node11" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a2fe70f2ef38b9a25d0a4b2cf8714c7b1" title="Set the volume identifier." alt="" coords="303,449,492,493"/>
+<area shape="rect" id="node6" href="$d7/d33/classActs_1_1GeometryIdentifier.html#abba36725889d9d66eb0a50a27bab4d0a" title="Set the masked bits to id in the encoded value." alt="" coords="540,313,729,357"/>
+<area shape="rect" id="node7" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ac13065798464cc86b747086eea9020e2" title="Extract the bit shift necessary to access the masked values." alt="" coords="777,313,967,357"/>
+</map>

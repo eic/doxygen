@@ -1,0 +1,30 @@
+<map id="CbmRichHitProducer::Exec" name="CbmRichHitProducer::Exec">
+<area shape="rect" id="node2" href="$da/d9f/classCbmRichHitProducer.html#a587c0db1e409265d8fbebdab293357a9" title="Add cross talk hits." alt="" coords="249,373,410,417"/>
+<area shape="rect" id="node3" href="$da/d9f/classCbmRichHitProducer.html#ae09a5880ed6c729e141561a628143178" title="Adds a RichHit to the HitCollection." alt="" coords="516,309,677,353"/>
+<area shape="rect" id="node5" href="$da/d9f/classCbmRichHitProducer.html#a047f665a5fadc0afc3cf04c99e40113a" title="Generate randomly PMT amplitude according to probability density provided by OnePhotonAmplitude(x)." alt="" coords="769,541,931,585"/>
+<area shape="rect" id="node22" href="$da/d9f/classCbmRichHitProducer.html#a56c8800f4ed38b1d9541d9b6e9539db1" title="Finds hit position in MAMPT plane." alt="" coords="492,429,701,473"/>
+<area shape="rect" id="node23" href="$da/d9f/classCbmRichHitProducer.html#a5961dcd84f1953e545bcf8a908b4959e" title="Finds hit position in MAMPT plane." alt="" coords="240,549,419,593"/>
+<area shape="rect" id="node24" href="$da/d9f/classCbmRichHitProducer.html#a8dee8e93ef0dc4f559de7770193f6f69" title="Finds hit position in PMT plane." alt="" coords="215,617,444,661"/>
+<area shape="rect" id="node25" href="$dc/d28/classFairMCPoint.html#a744a96c970cac3049b090d3a3528d1d4" title="FairMCPoint::GetDetectorID" alt="" coords="227,685,432,713"/>
+<area shape="rect" id="node26" href="$dc/d28/classFairMCPoint.html#a2325364fcba18c178712a96962861380" title="FairMCPoint::Momentum" alt="" coords="237,737,422,765"/>
+<area shape="rect" id="node27" href="$dc/d28/classFairMCPoint.html#a0949a92900370ab5d7d80b4f01843aee" title="FairMCPoint::Position" alt="" coords="249,789,410,817"/>
+<area shape="rect" id="node28" href="$da/d9f/classCbmRichHitProducer.html#a206e6537f3f2ad4ab0a4918d13e37bba" title="Set parameters of the photodetector." alt="" coords="249,841,410,885"/>
+<area shape="rect" id="node29" href="$da/d9f/classCbmRichHitProducer.html#afac25abb4f242aab98833b1d60049094" title="CbmRichHitProducer\l::TiltPoint" alt="" coords="249,909,410,953"/>
+<area shape="rect" id="node4" href="$d4/d02/classCbmBaseHit.html#ac498c6d5b9a987d3e3355d6f60f6404c" title="CbmBaseHit::GetAddress" alt="" coords="754,57,946,85"/>
+<area shape="rect" id="node7" href="$de/dfd/classCbmRichHit.html#a332ae4f4f49472640deec9469b1ffeb1" title="CbmRichHit::GetNPhotons" alt="" coords="751,109,949,137"/>
+<area shape="rect" id="node8" href="$de/dfd/classCbmRichHit.html#a699bbd5465b26dbc07ef7a319ccabe8b" title="CbmRichHit::GetPmtId" alt="" coords="764,161,936,189"/>
+<area shape="rect" id="node9" href="$d4/d02/classCbmBaseHit.html#aaa31bff13cffebc93a0030a6ead0753f" title="CbmBaseHit::SetAddress" alt="" coords="755,213,945,241"/>
+<area shape="rect" id="node10" href="$de/dfd/classCbmRichHit.html#ad0839484e6edbcd03ec37460d4c34afd" title="CbmRichHit::SetAmplitude" alt="" coords="749,265,951,293"/>
+<area shape="rect" id="node11" href="$de/dfd/classCbmRichHit.html#a88a636426386c37c6725174e755df446" title="CbmRichHit::SetNPhotons" alt="" coords="752,317,948,345"/>
+<area shape="rect" id="node12" href="$de/dfd/classCbmRichHit.html#a9afb863f9cc945867ddf7b85100ee199" title="CbmRichHit::SetPmtId" alt="" coords="765,369,935,397"/>
+<area shape="rect" id="node13" href="$d6/d31/classCbmPixelHit.html#afd1a35b74ed6dc655df95d591af3fa72" title="Sets position of the hit." alt="" coords="757,421,943,449"/>
+<area shape="rect" id="node17" href="$d6/d31/classCbmPixelHit.html#ae314b0902ad674063b8ff32e123b327d" title="CbmPixelHit::SetPosition\lError" alt="" coords="757,473,943,517"/>
+<area shape="rect" id="node21" href="$d4/d02/classCbmBaseHit.html#a3534ff3bf3df40e4b80ae1fa80a82dc7" title="CbmBaseHit::SetRefId" alt="" coords="765,5,935,33"/>
+<area shape="rect" id="node6" href="$da/d9f/classCbmRichHitProducer.html#aeb7530baec27ff11d8edf220380a71fd" title="Spectrum of the PMT response to one photo&#45;electron." alt="" coords="999,629,1173,673"/>
+<area shape="rect" id="node14" href="$d6/d31/classCbmPixelHit.html#a32ae766bc3e717a679bc8388bb15dde1" title="CbmPixelHit::SetX" alt="" coords="1014,369,1158,397"/>
+<area shape="rect" id="node15" href="$d6/d31/classCbmPixelHit.html#a358cbe81cf005199b0be49a3613356c2" title="CbmPixelHit::SetY" alt="" coords="1015,421,1157,449"/>
+<area shape="rect" id="node16" href="$d4/d02/classCbmBaseHit.html#a6c50480ce3b4574fc0c6e651ea255253" title="CbmBaseHit::SetZ" alt="" coords="1013,317,1159,345"/>
+<area shape="rect" id="node18" href="$d6/d31/classCbmPixelHit.html#ac3908bcc04985b3672a04133433ee660" title="CbmPixelHit::SetDx" alt="" coords="1010,525,1162,553"/>
+<area shape="rect" id="node19" href="$d6/d31/classCbmPixelHit.html#a4b8824bf2f3138d9e556709f0eb59a13" title="CbmPixelHit::SetDy" alt="" coords="1010,577,1162,605"/>
+<area shape="rect" id="node20" href="$d4/d02/classCbmBaseHit.html#a5fcdca6078d2e296ff77fcaec386d451" title="CbmBaseHit::SetDz" alt="" coords="1009,473,1163,501"/>
+</map>

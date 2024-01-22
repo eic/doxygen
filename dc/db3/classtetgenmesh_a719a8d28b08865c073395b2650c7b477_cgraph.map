@@ -1,0 +1,12 @@
+<map id="tetgenmesh::tri_edge_tail" name="tetgenmesh::tri_edge_tail">
+<area shape="rect" id="node2" href="$db/d4e/predicates_8cxx.html#a701f35178b28c7bbb94644665c0b058a" title="orient3d" alt="" coords="541,65,619,93"/>
+<area shape="rect" id="node7" href="$dc/db3/classtetgenmesh.html#a6dbb29feba157ab5d848921fa0a11c08" title="tetgenmesh::tri_edge_2d" alt="" coords="248,117,439,145"/>
+<area shape="rect" id="node3" href="$db/d4e/predicates_8cxx.html#ae16b246ccaad9f1d90f37590816c5fde" title="orient3dadapt" alt="" coords="735,65,854,93"/>
+<area shape="rect" id="node4" href="$db/d4e/predicates_8cxx.html#a3487d9f90ea72da543d5d38b3dab1fbc" title="estimate" alt="" coords="975,5,1055,33"/>
+<area shape="rect" id="node5" href="$db/d4e/predicates_8cxx.html#a37646a7e0014e10c612e946bc95aeeea" title="fast_expansion_sum\l_zeroelim" alt="" coords="935,57,1094,101"/>
+<area shape="rect" id="node6" href="$db/d4e/predicates_8cxx.html#abdcdaa8948d9a2937154d9d67f67da8d" title="scale_expansion_zeroelim" alt="" coords="916,125,1113,153"/>
+<area shape="rect" id="node8" href="$dc/db3/classtetgenmesh.html#a4f2849235299c81ad7d585dc0b657d80" title="tetgenmesh::distance" alt="" coords="495,117,665,145"/>
+<area shape="rect" id="node9" href="$dc/db3/classtetgenmesh.html#afa0906703b590597155547336c360004" title="tetgenmesh::dot" alt="" coords="727,169,862,197"/>
+<area shape="rect" id="node10" href="$dc/db3/classtetgenmesh.html#adef28f2839ea13688a3ac9a7184d1db8" title="tetgenmesh::facenormal" alt="" coords="487,221,673,249"/>
+<area shape="rect" id="node11" href="$dc/db3/classtetgenmesh.html#a9b5ff4d3e2452044830fbd47d2f70cbd" title="tetgenmesh::cross" alt="" coords="721,221,868,249"/>
+</map>

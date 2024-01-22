@@ -1,0 +1,20 @@
+<map id="EICG4B0ECALSubsystem::InitRunSubsystem" name="EICG4B0ECALSubsystem::InitRunSubsystem">
+<area shape="rect" id="node2" href="$d4/d30/classPHG4HitContainer.html#ab6b839bb51d6eb2f878651f6c3a52ca9" title="PHG4HitContainer::AddLayer" alt="" coords="245,5,462,33"/>
+<area shape="rect" id="node3" href="$d5/dca/classPHCompositeNode.html#a15a0c4804399a9de4267647f05bd1ba4" title="PHCompositeNode::addNode" alt="" coords="245,57,461,85"/>
+<area shape="rect" id="node7" href="$d5/d29/classPHG4DetectorSubsystem.html#a3a654db38f49eafe08c5fb725f63c959" title="PHG4DetectorSubsystem\l::CheckOverlap" alt="" coords="257,109,449,153"/>
+<area shape="rect" id="node8" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="259,201,447,229"/>
+<area shape="rect" id="node10" href="$d5/d29/classPHG4DetectorSubsystem.html#a0782302d2c93bb541eb2bc6c642b047b" title="PHG4DetectorSubsystem\l::get_int_param" alt="" coords="257,253,449,297"/>
+<area shape="rect" id="node13" href="$d5/d29/classPHG4DetectorSubsystem.html#a9c9fc303db21d021153ed9bd2f636643" title="PHG4DetectorSubsystem\l::GetLayer" alt="" coords="257,321,449,365"/>
+<area shape="rect" id="node14" href="$d5/d29/classPHG4DetectorSubsystem.html#a6ce8e425ac50e6f13d44075bd6843dcf" title="PHG4DetectorSubsystem\l::GetParams" alt="" coords="257,389,449,433"/>
+<area shape="rect" id="node15" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="277,457,430,485"/>
+<area shape="rect" id="node16" href="$d3/de7/classPHG4Detector.html#a1a914e84447dd5ab89745cb9fcd1942e" title="PHG4Detector::OverlapCheck" alt="" coords="243,509,464,537"/>
+<area shape="rect" id="node17" href="$dd/d10/classEICG4B0ECALDetector.html#ad38481555d9681ae4cb3578442737bfe" title="EICG4B0ECALDetector\l::SetTowerMappingFile" alt="" coords="267,561,440,605"/>
+<area shape="rect" id="node18" href="$dd/d10/classEICG4B0ECALDetector.html#a5a64699d1d89b68aafb31c02ff292241" title="EICG4B0ECALDetector\l::SuperDetector" alt="" coords="267,629,440,673"/>
+<area shape="rect" id="node19" href="$d5/d29/classPHG4DetectorSubsystem.html#a77a3c2f18604af4bc24e71703bdfb7de" title="PHG4DetectorSubsystem\l::SuperDetector" alt="" coords="257,697,449,741"/>
+<area shape="rect" id="node4" href="$dc/d82/classPHNode.html#aca3576f926a4401eddc3d88bf0ce0de3" title="PHNode::getName" alt="" coords="525,129,671,157"/>
+<area shape="rect" id="node5" href="$dc/d82/classPHNode.html#adda2bd6cef2d5067bbe3016a990b7198" title="PHNode::setParent" alt="" coords="524,16,672,44"/>
+<area shape="rect" id="node6" href="$d6/d86/classPHPointerList.html#ac2176735e9d046a034f1686fd2c477eb" title="PHPointerList::append" alt="" coords="513,68,683,96"/>
+<area shape="rect" id="node9" href="$dc/d82/classPHNode.html#a4ab1f90aed955a652813bfe377087bda" title="PHNode::getType" alt="" coords="529,201,667,229"/>
+<area shape="rect" id="node11" href="$dd/dae/classPHParameters.html#a0241ca27a369ab4865ac3d79620ac27c" title="PHParameters::get_int\l_param" alt="" coords="512,253,684,297"/>
+<area shape="rect" id="node12" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="732,261,779,289"/>
+</map>

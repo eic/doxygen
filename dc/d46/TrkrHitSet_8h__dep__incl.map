@@ -1,0 +1,51 @@
+<map id="fun4all_coresoftware/blob/master/offline/packages/trackbase/TrkrHitSet.h" name="fun4all_coresoftware/blob/master/offline/packages/trackbase/TrkrHitSet.h">
+<area shape="rect" id="node2" href="$d2/da5/InttClusterizer_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/intt/InttClusterizer.cc" alt="" coords="5,121,241,181"/>
+<area shape="rect" id="node3" href="$d1/d46/KFParticle__truthAndDetTools_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/KFParticle_sPHENIX\l/KFParticle_truthAndDetTools.cc" alt="" coords="265,113,501,189"/>
+<area shape="rect" id="node4" href="$d6/d5e/MicromegasClusterizer_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/micromegas/Micromegas\lClusterizer.cc" alt="" coords="525,113,791,189"/>
+<area shape="rect" id="node5" href="$df/db4/MvtxClusterizer_8cc.html" title="Implementation of MvtxClusterizer." alt="" coords="815,121,1072,181"/>
+<area shape="rect" id="node6" href="$dd/d22/DumpTrkrHitSetContainer_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/NodeDump/DumpTrkrHit\lSetContainer.cc" alt="" coords="1097,113,1358,189"/>
+<area shape="rect" id="node7" href="$d0/d60/PHTpcEventExporter_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/PHTpcTracker\l/PHTpcEventExporter.cc" alt="" coords="1383,113,1571,189"/>
+<area shape="rect" id="node8" href="$dd/def/PHTpcTrackerUtil_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/PHTpcTracker\l/PHTpcTrackerUtil.cc" alt="" coords="1595,113,1783,189"/>
+<area shape="rect" id="node9" href="$de/dbd/TpcClusterCleaner_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/tpc/TpcClusterCleaner.cc" alt="" coords="1807,121,2069,181"/>
+<area shape="rect" id="node10" href="$d2/d8c/TpcClusterizer_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/tpc/TpcClusterizer.cc" alt="" coords="2093,121,2329,181"/>
+<area shape="rect" id="node11" href="$d0/d61/TrkrHitSet_8cc.html" title="Implementation of TrkrHitSet." alt="" coords="2353,121,2605,181"/>
+<area shape="rect" id="node12" href="$d9/dd4/TrkrHitSetv1_8h.html" title="Container for storing TrkrHit&#39;s." alt="" coords="2630,121,2891,181"/>
+<area shape="rect" id="node16" href="$dd/d34/PHActsSiliconSeeding_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsSilicon\lSeeding.cc" alt="" coords="2915,113,3169,189"/>
+<area shape="rect" id="node17" href="$da/d80/PHGenFitTrkProp_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHGenFit\lTrkProp.cc" alt="" coords="3193,113,3419,189"/>
+<area shape="rect" id="node18" href="$d8/dbe/PHHoughSeeding_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHHoughSeeding.cc" alt="" coords="3443,121,3743,181"/>
+<area shape="rect" id="node19" href="$d8/dda/PHInitZVertexing_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHInitZVertexing.cc" alt="" coords="3767,121,4061,181"/>
+<area shape="rect" id="node20" href="$d6/d8d/PHMicromegasTpcTrackMatching_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHMicromegas\lTpcTrackMatching.cc" alt="" coords="4085,113,4348,189"/>
+<area shape="rect" id="node21" href="$d7/d3c/PHRTreeSeeding_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHRTreeSeeding.cc" alt="" coords="4372,121,4664,181"/>
+<area shape="rect" id="node22" href="$dd/dde/PHSiliconTruthTrackSeeding_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHSilicon\lTruthTrackSeeding.cc" alt="" coords="4688,113,4913,189"/>
+<area shape="rect" id="node23" href="$d5/d4f/PHTrackFitting_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHTrackFitting.cc" alt="" coords="4938,121,5215,181"/>
+<area shape="rect" id="node24" href="$d9/d52/PHTrackPropagating_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHTrackPropagating.cc" alt="" coords="5240,121,5556,181"/>
+<area shape="rect" id="node25" href="$db/df7/PHTruthClustering_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHTruthClustering.cc" alt="" coords="5580,121,5883,181"/>
+<area shape="rect" id="node26" href="$d4/dd0/PHTruthSiliconAssociation_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHTruthSilicon\lAssociation.cc" alt="" coords="5907,113,6167,189"/>
+<area shape="rect" id="node27" href="$de/dc2/QAG4SimulationMicromegas_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/QA/modules/QAG4SimulationMicromegas.cc" alt="" coords="6191,121,6517,181"/>
+<area shape="rect" id="node28" href="$d2/d37/DSTEmulator_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4eval/DSTEmulator.cc" alt="" coords="6541,121,6817,181"/>
+<area shape="rect" id="node29" href="$d7/dbf/SvtxClusterEval_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4eval/SvtxCluster\lEval.cc" alt="" coords="6842,113,7090,189"/>
+<area shape="rect" id="node30" href="$d7/dd1/SvtxEvaluator_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4eval/SvtxEvaluator.cc" alt="" coords="7115,121,7396,181"/>
+<area shape="rect" id="node31" href="$de/d71/SvtxHitEval_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4eval/SvtxHitEval.cc" alt="" coords="7421,121,7687,181"/>
+<area shape="rect" id="node32" href="$da/d7e/TrackEvaluation_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4eval/TrackEvaluation.cc" alt="" coords="7711,121,8007,181"/>
+<area shape="rect" id="node33" href="$db/d59/PHG4InttDigitizer_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4intt/PHG4InttDigitizer.cc" alt="" coords="8031,121,8330,181"/>
+<area shape="rect" id="node34" href="$d3/da0/PHG4InttHitReco_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4intt/PHG4InttHit\lReco.cc" alt="" coords="8355,113,8599,189"/>
+<area shape="rect" id="node35" href="$d4/d33/PHG4MicromegasDigitizer_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4micromegas\l/PHG4MicromegasDigitizer.cc" alt="" coords="8623,113,8843,189"/>
+<area shape="rect" id="node36" href="$d0/dde/PHG4MicromegasHitReco_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4micromegas\l/PHG4MicromegasHitReco.cc" alt="" coords="8867,113,9087,189"/>
+<area shape="rect" id="node37" href="$d9/d72/PHG4MvtxDigitizer_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4mvtx/PHG4MvtxDigitizer.cc" alt="" coords="9111,121,9431,181"/>
+<area shape="rect" id="node38" href="$d9/d0d/PHG4MvtxHitReco_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4mvtx/PHG4MvtxHit\lReco.cc" alt="" coords="9456,113,9721,189"/>
+<area shape="rect" id="node39" href="$de/dfc/PHG4TpcDigitizer_8h.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4tpc/PHG4TpcDigitizer.h" alt="" coords="9797,121,10089,181"/>
+<area shape="rect" id="node40" href="$d6/dc6/PHG4TpcDigitizer_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4tpc/PHG4TpcDigitizer.cc" alt="" coords="9610,245,9909,305"/>
+<area shape="rect" id="node47" href="$d6/d40/PHG4TpcElectronDrift_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4tpc/PHG4TpcElectron\lDrift.cc" alt="" coords="10113,113,10392,189"/>
+<area shape="rect" id="node48" href="$d1/dfa/PHG4TpcPadBaselineShift_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4tpc/PHG4TpcPad\lBaselineShift.cc" alt="" coords="10417,113,10665,189"/>
+<area shape="rect" id="node49" href="$d1/d25/PHG4TpcPadPlaneReadout_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4tpc/PHG4TpcPad\lPlaneReadout.cc" alt="" coords="10689,113,10937,189"/>
+<area shape="rect" id="node50" href="$db/dca/RawDigitBuilderTTL_8cc.html" title="fun4all_eicdetectors\l/blob/master/simulation\l/g4simulation/g4ttl/RawDigitBuilder\lTTL.cc" alt="" coords="10961,113,11225,189"/>
+<area shape="rect" id="node13" href="$d5/dd4/PHTpcCentralMembraneClusterizer_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/tpccalib/PHTpcCentral\lMembraneClusterizer.cc" alt="" coords="2376,237,2620,313"/>
+<area shape="rect" id="node14" href="$dd/d4f/TrkrHitSetContainerv1_8cc.html" title="Implementation for TrkrHitSetContainerv1." alt="" coords="2644,237,2877,313"/>
+<area shape="rect" id="node15" href="$d1/d4d/TrkrHitSetv1_8cc.html" title="Implementation of TrkrHitSetv1." alt="" coords="2901,245,3169,305"/>
+<area shape="rect" id="node41" href="$d9/db8/G4__TPC_8C.html" title="fun4all_macros/blob\l/master/common/G4_TPC.C" alt="" coords="9933,253,10141,297"/>
+<area shape="rect" id="node42" href="$d7/dfd/G4__DSTReader__fsPHENIX_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_DSTReader\l_fsPHENIX.C" alt="" coords="9407,361,9651,421"/>
+<area shape="rect" id="node43" href="$d6/d41/G4Setup__fsPHENIX_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/fsPHENIX\l/G4Setup_fsPHENIX.C" alt="" coords="9675,361,9884,421"/>
+<area shape="rect" id="node44" href="$d1/d05/G4__DSTReader_8C.html" title="Convert DST to human command readable TTree for quick poke around the outputs." alt="" coords="9909,369,10165,413"/>
+<area shape="rect" id="node45" href="$d7/d4d/G4__Micromegas_8C.html" title="fun4all_macros/blob\l/master/common/G4_Micromegas.C" alt="" coords="10189,369,10453,413"/>
+<area shape="rect" id="node46" href="$da/d3c/G4__Tracking_8C.html" title="fun4all_macros/blob\l/master/common/G4_Tracking.C" alt="" coords="10285,469,10524,513"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="FairGeoMedium::setNComponents" name="FairGeoMedium::setNComponents">
+<area shape="rect" id="node2" href="$d4/d06/classFairModule.html#ad01c5b285d27bb124439ad2a6de3c9e3" title="FairModule::AssignMedium\lAtImport" alt="" coords="305,100,508,144"/>
+<area shape="rect" id="node9" href="$d5/d7b/classFairGeoMedium.html#af5082c1d329491e7ee3381b812790bb1" title="FairGeoMedium::read" alt="" coords="324,168,489,196"/>
+<area shape="rect" id="node3" href="$d4/d06/classFairModule.html#a59c72f749fdc3bfbcb1505732936ae89" title="FairModule::ConstructRoot\lGeometry" alt="" coords="793,76,993,120"/>
+<area shape="rect" id="node8" href="$d4/d06/classFairModule.html#a703a2ae06f62ae87b43a332c913526e3" title="FairModule::ExpandNode" alt="" coords="556,112,745,140"/>
+<area shape="rect" id="node4" href="$dd/dac/classEicDetector.html#a52d5d3a030ed4ab74e36989b4a563f73" title="EicDetector::ConstructGeometry" alt="" coords="1041,5,1281,33"/>
+<area shape="rect" id="node5" href="$df/d89/classPndMagnet.html#aff982bc9f85e558cbd4552add14d811c" title="PndMagnet::ConstructGeometry" alt="" coords="1042,57,1281,85"/>
+<area shape="rect" id="node6" href="$d6/d57/classPndPipe.html#a28d594a278bba4911bc3bdb441007b69" title="PndPipe::ConstructGeometry" alt="" coords="1053,109,1269,137"/>
+<area shape="rect" id="node7" href="$d8/dd9/classCbmRich.html#a3d1883ed88870fa1325c79d6c508242e" title="Construct geometry. Currently ROOT and ASCII formats are supported. The concrete method for geometry ..." alt="" coords="1050,161,1273,189"/>
+<area shape="rect" id="node10" href="$d9/d1e/classFairGeoMedia.html#a47a448ded0b2f811a705b6a8df262c19" title="FairGeoMedia::read" alt="" coords="575,168,727,196"/>
+<area shape="rect" id="node11" href="$d4/d79/classFairGeoAsciiIo.html#a7f98aac527ccc1df3de5bf56c2920b11" title="FairGeoAsciiIo::read" alt="" coords="816,168,971,196"/>
+</map>

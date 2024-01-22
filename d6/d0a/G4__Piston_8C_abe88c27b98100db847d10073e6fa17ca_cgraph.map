@@ -1,0 +1,10 @@
+<map id="Piston" name="Piston">
+<area shape="rect" id="node2" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a620e565f65b2db15edd2a7280d358afa" title="Pseudorapidity." alt="" coords="115,5,347,49"/>
+<area shape="rect" id="node3" href="$d5/d29/classPHG4DetectorSubsystem.html#a5a52f44370d90e92bfb3ed0abf6dbb76" title="PHG4DetectorSubsystem\l::OverlapCheck" alt="" coords="135,73,327,117"/>
+<area shape="rect" id="node4" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="208,141,253,169"/>
+<area shape="rect" id="node5" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="117,193,344,221"/>
+<area shape="rect" id="node6" href="$d5/d29/classPHG4DetectorSubsystem.html#a48e75fd1738dab9d0d66b174053ead8f" title="PHG4DetectorSubsystem\l::set_double_param" alt="" coords="135,245,327,289"/>
+<area shape="rect" id="node7" href="$d5/d29/classPHG4DetectorSubsystem.html#a82c122f8a80f34dc4ffba6675ce60c75" title="PHG4DetectorSubsystem\l::set_string_param" alt="" coords="135,313,327,357"/>
+<area shape="rect" id="node8" href="$d5/d29/classPHG4DetectorSubsystem.html#a06d7265cdb191528ced9e78e73ba0f0a" title="PHG4DetectorSubsystem\l::SetActive" alt="" coords="135,381,327,425"/>
+<area shape="rect" id="node9" href="$d5/d29/classPHG4DetectorSubsystem.html#aa0c11d415a70a207a3ea851b28932dfd" title="PHG4DetectorSubsystem\l::SuperDetector" alt="" coords="135,449,327,493"/>
+</map>

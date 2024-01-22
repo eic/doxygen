@@ -1,0 +1,9 @@
+<map id="SvtxEvalStack::get_vertex_eval" name="SvtxEvalStack::get_vertex_eval">
+<area shape="rect" id="node2" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="214,5,402,49"/>
+<area shape="rect" id="node4" href="$dd/de6/classKFParticle__truthAndDetTools.html#ad75d71be845ff83a6bb6839b5e151e3c" title="KFParticle_truthAndDetTools\l::getTruthTrack" alt="" coords="203,73,413,117"/>
+<area shape="rect" id="node3" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="479,5,655,49"/>
+<area shape="rect" id="node5" href="$dd/de6/classKFParticle__truthAndDetTools.html#aacd7464b07f03f83a4d7e2de49e63a50" title="KFParticle_truthAndDetTools\l::fillTruthBranch" alt="" coords="461,73,672,117"/>
+<area shape="rect" id="node8" href="$dd/de6/classKFParticle__truthAndDetTools.html#ac462727f039ecf9c65e6d346bff72180" title="KFParticle_truthAndDetTools\l::getHepMCInfo" alt="" coords="461,141,672,185"/>
+<area shape="rect" id="node6" href="$d9/dae/classKFParticle__nTuple.html#ac32b873cf95657eb34d8b572ad692172" title="Fills required information for your selection, also requests truth and detector information if needed..." alt="" coords="720,108,867,152"/>
+<area shape="rect" id="node7" href="$d5/d72/classKFParticle__sPHENIX.html#a7e5ad7cf075fbf8e68a781e7721fec81" title="KFParticle_sPHENIX\l::process_event" alt="" coords="915,108,1067,152"/>
+</map>

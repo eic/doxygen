@@ -1,0 +1,28 @@
+var classEICG4B0ECALDetector =
+[
+    [ "towerposition", "de/db5/structEICG4B0ECALDetector_1_1towerposition.html", "de/db5/structEICG4B0ECALDetector_1_1towerposition" ],
+    [ "EICG4B0ECALDetector", "dd/d10/classEICG4B0ECALDetector.html#a140c51f50d1e05854843d76b80052d86", null ],
+    [ "~EICG4B0ECALDetector", "dd/d10/classEICG4B0ECALDetector.html#a1186f5cf09109768c94e73145801c196", null ],
+    [ "ConstructMe", "dd/d10/classEICG4B0ECALDetector.html#a45ef5f2e74993e069fe1525faec9fa02", null ],
+    [ "ConstructTower", "dd/d10/classEICG4B0ECALDetector.html#a6cd05f2c01c7c42dd06e0a515369d462", null ],
+    [ "get_Layer", "dd/d10/classEICG4B0ECALDetector.html#aea439a94347fbd86363b67bc9c216e63", null ],
+    [ "GetDetId", "dd/d10/classEICG4B0ECALDetector.html#a3e0086330dcfb54798982f2b3b467dd6", null ],
+    [ "getParams", "dd/d10/classEICG4B0ECALDetector.html#a48798f65c773cd30b686669ae1d6c20e", null ],
+    [ "IsInDetector", "dd/d10/classEICG4B0ECALDetector.html#ab1fa1f6620b008b94f47f1d21ed7d513", null ],
+    [ "LogicalVolSetInsert", "dd/d10/classEICG4B0ECALDetector.html#a92ef4e7f10b0578b29055426a197a6d8", null ],
+    [ "ParseParametersFromTable", "dd/d10/classEICG4B0ECALDetector.html#a25f0bb3d25fd3df6a6a6e666def0f391", null ],
+    [ "PlaceTower", "dd/d10/classEICG4B0ECALDetector.html#a1d39728aa505925b9871a7ad86eb2e62", null ],
+    [ "Print", "dd/d10/classEICG4B0ECALDetector.html#aa0dff7b1b4bec516b282d267bcee1128", null ],
+    [ "SetTowerMappingFile", "dd/d10/classEICG4B0ECALDetector.html#ad38481555d9681ae4cb3578442737bfe", null ],
+    [ "SuperDetector", "dd/d10/classEICG4B0ECALDetector.html#a5a64699d1d89b68aafb31c02ff292241", null ],
+    [ "SuperDetector", "dd/d10/classEICG4B0ECALDetector.html#acae48d4c32b516a72b165ffdfe626ca4", null ],
+    [ "_mapping_tower_file", "dd/d10/classEICG4B0ECALDetector.html#af0bdaa1dce5dd8a0e4ccceb0bef57e69", null ],
+    [ "m_Layer", "dd/d10/classEICG4B0ECALDetector.html#a5afed9cd4a6de58867ee12dd15d66a54", null ],
+    [ "m_LogicalVolSet", "dd/d10/classEICG4B0ECALDetector.html#a8dbb3ecca4107e217cbef758f41f0445", null ],
+    [ "m_Params", "dd/d10/classEICG4B0ECALDetector.html#af1d1626462c346df7accb2d23b2298d7", null ],
+    [ "m_PhysicalVolumesDet", "dd/d10/classEICG4B0ECALDetector.html#aa1103f1ee978566ee0a28c96f76d1e4b", null ],
+    [ "m_PhysicalVolumesSet", "dd/d10/classEICG4B0ECALDetector.html#a9c01c68d6abcb279c238295cb31f5cf3", null ],
+    [ "m_SuperDetector", "dd/d10/classEICG4B0ECALDetector.html#a00fc4577c953d9ee68335684d8994279", null ],
+    [ "m_TowerLogicNamePrefix", "dd/d10/classEICG4B0ECALDetector.html#a57c9673335a10924c0cc87e7af7ff126", null ],
+    [ "m_TowerPositionMap", "dd/d10/classEICG4B0ECALDetector.html#aa129aca4ca527e9b3e7baf6f3ae0be16", null ]
+];

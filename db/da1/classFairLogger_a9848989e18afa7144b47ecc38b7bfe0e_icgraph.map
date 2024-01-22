@@ -1,0 +1,51 @@
+<map id="FairLogger::LogFatalMessage" name="FairLogger::LogFatalMessage">
+<area shape="rect" id="node2" href="$db/da1/classFairLogger.html#a496d9b3f72963d24a58abc5a023b74b0" title="End of the line." alt="" coords="269,505,399,533"/>
+<area shape="rect" id="node3" href="$d4/d2f/classCbmMCEpoch.html#a0379bdc2193403190f94433bf152e3a7" title="CbmMCEpoch::AddPoint" alt="" coords="481,5,665,33"/>
+<area shape="rect" id="node4" href="$db/da1/classFairLogger.html#a1b3febd472e833028507f9c8e0314a17" title="FairLogger::ConvertToLog\lLevel" alt="" coords="477,57,669,101"/>
+<area shape="rect" id="node9" href="$db/da1/classFairLogger.html#ab8dcaa0239bf95446a778e500b0034dd" title="FairLogger::ConvertToLog\lVerbosityLevel" alt="" coords="477,125,669,169"/>
+<area shape="rect" id="node11" href="$d9/dd6/classCbmStack.html#a9e454d54108e8096f58fe37015a3f7d0" title="CbmStack::FillTrackArray" alt="" coords="1029,295,1217,323"/>
+<area shape="rect" id="node12" href="$d9/dd6/classCbmStack.html#ad38e2f7879a3e0311b5c115f8e786809" title="CbmStack::GetCurrentTrack" alt="" coords="747,449,956,477"/>
+<area shape="rect" id="node14" href="$d6/d39/classCbmModuleList.html#ae1068c508c68f28de20058bcd55ec20b" title="CbmModuleList::GetModuleName" alt="" coords="449,453,696,481"/>
+<area shape="rect" id="node15" href="$d0/d00/classCbmMCTrack.html#a4e2b8f98cfc7deadf731c6c09fe253d3" title="CbmMCTrack::GetNPoints" alt="" coords="477,505,669,533"/>
+<area shape="rect" id="node18" href="$d0/d00/classCbmMCTrack.html#a8c6bdefd46505b1a923ab8b4cd1e66dd" title="CbmMCTrack::Print" alt="" coords="777,605,926,633"/>
+<area shape="rect" id="node19" href="$d9/dd6/classCbmStack.html#a11e1224b141ed40db8425c69e943ca50" title="CbmStack::GetParticle" alt="" coords="487,349,659,377"/>
+<area shape="rect" id="node21" href="$d5/dcf/classCbmRichReconstruction.html#a6fa8a950e2f29d4dec30cb18e3ebf30e" title="CbmRichReconstruction\l::InitExtrapolation" alt="" coords="482,813,663,857"/>
+<area shape="rect" id="node23" href="$d5/dcf/classCbmRichReconstruction.html#a4601b8f5d12b9e79f01ffb047b10db2e" title="CbmRichReconstruction\l::InitFinder" alt="" coords="482,609,663,653"/>
+<area shape="rect" id="node24" href="$d5/dcf/classCbmRichReconstruction.html#aaeece32c7b9b078afabb7f48143f4d05" title="CbmRichReconstruction\l::InitFitter" alt="" coords="482,677,663,721"/>
+<area shape="rect" id="node25" href="$d5/dcf/classCbmRichReconstruction.html#a6d1506e31a195031c4b6a3f338a2f68d" title="CbmRichReconstruction\l::InitTrackAssign" alt="" coords="482,745,663,789"/>
+<area shape="rect" id="node26" href="$db/da1/classFairLogger.html#aa9d98b58fab95abcf553dfefe1e572f5" title="FairLogger::Log" alt="" coords="511,881,635,909"/>
+<area shape="rect" id="node46" href="$d9/dd6/classCbmStack.html#a69e919b52856e9a672a3f1b630fb6c75" title="CbmStack::PopPrimaryForTracking" alt="" coords="447,933,699,961"/>
+<area shape="rect" id="node47" href="$d9/dd6/classCbmStack.html#a18e43cf6d69594c54b2cbaae2f9716cb" title="CbmStack::Print" alt="" coords="507,193,638,221"/>
+<area shape="rect" id="node48" href="$d0/d00/classCbmMCTrack.html#ac763db900a0fa56639ca67e1547371e5" title="CbmMCTrack::SetNPoints" alt="" coords="477,245,668,273"/>
+<area shape="rect" id="node49" href="$d5/dcf/classCbmRichReconstruction.html#ad7785255ce576fa54a5bb17cdd795e56" title="Inherited from FairTask." alt="" coords="482,985,663,1029"/>
+<area shape="rect" id="node50" href="$d9/dd6/classCbmStack.html#acf2fe4f80a2ddb4a35bdd4420d32a725" title="CbmStack::UpdateTrackIndex" alt="" coords="463,1053,683,1081"/>
+<area shape="rect" id="node5" href="$db/da1/classFairLogger.html#a577cf9069bca4fdca4be27ea8e8f2083" title="FairLogger::SetLogFileLevel" alt="" coords="749,5,953,33"/>
+<area shape="rect" id="node7" href="$db/da1/classFairLogger.html#a065e5fddee269cac4bd8b63fd5d66327" title="FairLogger::SetLogScreen\lLevel" alt="" coords="755,57,947,101"/>
+<area shape="rect" id="node6" href="$db/da1/classFairLogger.html#aeb5c7a71ae2dbf86b4eb8ae7e96e115b" title="FairLogger::SetLogToFile" alt="" coords="1031,5,1215,33"/>
+<area shape="rect" id="node8" href="$db/da1/classFairLogger.html#a9ee09c20f02bb523e94751c1f87d858a" title="FairLogger::SetLogToScreen" alt="" coords="1019,65,1226,93"/>
+<area shape="rect" id="node10" href="$db/da1/classFairLogger.html#a4dcae3eef00a02c0243ac20a2e7c8234" title="FairLogger::SetLogVerbosity\lLevel" alt="" coords="747,125,956,169"/>
+<area shape="rect" id="node13" href="$d9/dd6/classCbmStack.html#a9122eecf43bd587f5f2596a9f894c9cb" title="CbmStack::GetCurrentParent\lTrackNumber" alt="" coords="1015,441,1231,485"/>
+<area shape="rect" id="node16" href="$d5/d49/classCbmRichTestHits.html#a1c63ae7f8d0a69f5d785556a463050ee" title="Inherited from FairTask." alt="" coords="764,501,939,529"/>
+<area shape="rect" id="node17" href="$d7/dad/classCbmRichTestSim.html#a9e8390d7e1be03e5fa9586fb3234481e" title="Inherited from FairTask." alt="" coords="764,553,939,581"/>
+<area shape="rect" id="node20" href="$d9/dd6/classCbmStack.html#aeadf9f3e6913eda7ecc9cdb0113aadc9" title="CbmStack::SelectTracks" alt="" coords="760,397,943,425"/>
+<area shape="rect" id="node22" href="$d5/dcf/classCbmRichReconstruction.html#a033b32af5a9898f8e52a3b11203d8615" title="Inherited from FairTask." alt="" coords="761,657,942,701"/>
+<area shape="rect" id="node27" href="$db/da1/classFairLogger.html#a710e562aaff33766e424013a77d9cb77" title="FairLogger::Debug" alt="" coords="779,1201,923,1229"/>
+<area shape="rect" id="node38" href="$db/da1/classFairLogger.html#a058c62311d378a7ae827d9162b26ec2a" title="FairLogger::Debug1" alt="" coords="775,725,928,753"/>
+<area shape="rect" id="node39" href="$db/da1/classFairLogger.html#a60bd2d39c9b6c2be4d5c8893a7d6921e" title="FairLogger::Debug2" alt="" coords="775,933,928,961"/>
+<area shape="rect" id="node40" href="$db/da1/classFairLogger.html#acbe59f8abcdaca8b9f936cd8eadf4798" title="FairLogger::Debug3" alt="" coords="775,777,928,805"/>
+<area shape="rect" id="node41" href="$db/da1/classFairLogger.html#a3d7b6699f44c65845f6ca813202947ec" title="FairLogger::Debug4" alt="" coords="775,829,928,857"/>
+<area shape="rect" id="node42" href="$db/da1/classFairLogger.html#a739a5be0c6bd7cca187b192ae97353e4" title="FairLogger::Error" alt="" coords="1056,993,1189,1021"/>
+<area shape="rect" id="node43" href="$db/da1/classFairLogger.html#ace1485db832f9a0c33a82fb5d9872b12" title="FairLogger::Fatal" alt="" coords="785,1356,917,1384"/>
+<area shape="rect" id="node44" href="$db/da1/classFairLogger.html#a3ebc5751836771a50a11e0e2491a9f68" title="FairLogger::Info" alt="" coords="789,985,914,1013"/>
+<area shape="rect" id="node45" href="$db/da1/classFairLogger.html#aeda64cc96ca57240e30b516a508497ef" title="FairLogger::Warning" alt="" coords="773,881,929,909"/>
+<area shape="rect" id="node28" href="$d0/d6c/classFairRootManager.html#a62ae3b6bdfdb86e3c710ae18ebe67367" title="FairRootManager::Activate\lBranch" alt="" coords="1023,925,1222,969"/>
+<area shape="rect" id="node29" href="$d7/d6f/classFairRuntimeDb.html#acc4019cfce6cab163790f14203acc44f" title="FairRuntimeDb::addContFactory" alt="" coords="1005,1408,1241,1436"/>
+<area shape="rect" id="node30" href="$d5/dd2/classPndStack.html#a335c92466e575451a932e0e6ed5361c5" title="PndStack::FillTrackArray" alt="" coords="1318,1045,1501,1073"/>
+<area shape="rect" id="node31" href="$d0/d6c/classFairRootManager.html#aedea03022a9e11738111a3e24caf18ce" title="FairRootManager::GetEventTime" alt="" coords="1289,1252,1529,1280"/>
+<area shape="rect" id="node32" href="$d0/d6c/classFairRootManager.html#ae29af13fddaa614ece0a7fbadfa5c917" title="FairRootManager::ReadMixed\lEvent" alt="" coords="1577,1192,1795,1236"/>
+<area shape="rect" id="node33" href="$de/da9/classFairRunAna.html#a8435368b2fc3e4d6ab2eca2f50dec391" title="FairRunAna::RunMixed" alt="" coords="1600,1281,1772,1309"/>
+<area shape="rect" id="node34" href="$d0/d6c/classFairRootManager.html#a21283977ac0826044f94845bcd94f4f5" title="FairRootManager::OpenOutFile" alt="" coords="1009,1460,1236,1488"/>
+<area shape="rect" id="node35" href="$d5/dd2/classPndStack.html#a38b4135df10d18e2c54d2f12d05b9dfa" title="PndStack::Print" alt="" coords="1061,1097,1185,1125"/>
+<area shape="rect" id="node36" href="$d2/df2/classFairRunInfo.html#aa8d7d27d8d8127b07180e00b9b4b52f0" title="FairRunInfo::PrintInfo" alt="" coords="1041,1356,1204,1384"/>
+<area shape="rect" id="node37" href="$d0/d6c/classFairRootManager.html#a97f9c9fff35688db5f035f124cca0742" title="FairRootManager::SetEventTime" alt="" coords="1004,1201,1241,1229"/>
+</map>

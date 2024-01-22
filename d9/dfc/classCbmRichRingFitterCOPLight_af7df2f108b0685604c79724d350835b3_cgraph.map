@@ -1,0 +1,12 @@
+<map id="CbmRichRingFitterCOPLight::DoFit" name="CbmRichRingFitterCOPLight::DoFit">
+<area shape="rect" id="node2" href="$d9/dfc/classCbmRichRingFitterCOPLight.html#a902424652f5d63bfddf8d8c1633d83f5" title="CbmRichRingFitterCOPLight\l::CalcChi2" alt="" coords="273,113,483,157"/>
+<area shape="rect" id="node5" href="$de/d89/classCbmRichRingLight.html#ad45c397b52a7882866e354cfcd2c1bd6" title="Return number of hits in ring." alt="" coords="544,213,772,241"/>
+<area shape="rect" id="node8" href="$de/d89/classCbmRichRingLight.html#ac2451e7309a97a6ac4e8d49796e60ac9" title="Return hit by the index." alt="" coords="279,255,477,283"/>
+<area shape="rect" id="node9" href="$de/d89/classCbmRichRingLight.html#ad34da040f43701055175a04ee41de319" title="CbmRichRingLight::SetCenterX" alt="" coords="263,307,493,335"/>
+<area shape="rect" id="node10" href="$de/d89/classCbmRichRingLight.html#a47eab8651651ee15ffd9bf205dbbc4d4" title="CbmRichRingLight::SetCenterY" alt="" coords="263,359,493,387"/>
+<area shape="rect" id="node11" href="$de/d89/classCbmRichRingLight.html#a2a6ea7d670ef6c3ddc4f4039f09434d6" title="CbmRichRingLight::SetRadius" alt="" coords="267,411,489,439"/>
+<area shape="rect" id="node3" href="$de/d89/classCbmRichRingLight.html#aa919c6cf5b852f0b89f0aee7ac8e1573" title="CbmRichRingLight::GetCenterX" alt="" coords="541,5,775,33"/>
+<area shape="rect" id="node4" href="$de/d89/classCbmRichRingLight.html#a410d6c9513ea5dde4f59660898139aa7" title="CbmRichRingLight::GetCenterY" alt="" coords="541,57,775,85"/>
+<area shape="rect" id="node6" href="$de/d89/classCbmRichRingLight.html#a7075628216df426788b864369f6d9c61" title="CbmRichRingLight::GetRadius" alt="" coords="546,109,770,137"/>
+<area shape="rect" id="node7" href="$de/d89/classCbmRichRingLight.html#af50910fe561505395f7bb4b12777e75a" title="CbmRichRingLight::SetChi2" alt="" coords="555,161,761,189"/>
+</map>

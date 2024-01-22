@@ -1,0 +1,10 @@
+<map id="FairDbConnection::RecordException" name="FairDbConnection::RecordException">
+<area shape="rect" id="node2" href="$d5/dfb/classFairDbStatement.html#af262324358a3a23a9deb99ae0fb6f913" title="FairDbStatement::Execute\lUpdate" alt="" coords="249,108,447,152"/>
+<area shape="rect" id="node3" href="$d4/d94/classFairDbMultConnector.html#aa8f8513a66937c87e8b9bb80e7fa83d3" title="FairDbMultConnector\l::CreateTemporaryTable" alt="" coords="495,5,676,49"/>
+<area shape="rect" id="node4" href="$d4/d94/classFairDbMultConnector.html#aefbbef9adc4b5855daed8608c7714d39" title="FairDbMultConnector\l::ReserveNextSeqNo" alt="" coords="503,73,667,117"/>
+<area shape="rect" id="node8" href="$da/d7d/classFairDbSqlValPacket.html#a156f17280d06c7ec7a56912e9ca78c3c" title="FairDbSqlValPacket\l::CreateTable" alt="" coords="510,141,661,185"/>
+<area shape="rect" id="node9" href="$da/d7d/classFairDbSqlValPacket.html#ace0e450e5c1072154e620b61777002ea" title="FairDbSqlValPacket\l::Store" alt="" coords="731,172,881,216"/>
+<area shape="rect" id="node5" href="$d4/d94/classFairDbMultConnector.html#af0021c236199216fa0c55a0e9b5b84e3" title="FairDbMultConnector\l::AllocateSeqNo" alt="" coords="724,89,888,133"/>
+<area shape="rect" id="node6" href="$db/da0/classFairDbConfigStream.html#a077fca72ebeec60897d6cf15fea5c9ec" title="FairDbConfigStream\l::Write" alt="" coords="942,89,1098,133"/>
+<area shape="rect" id="node7" href="$dd/d9a/classFairDbLogEntry.html#a9cf66ea492ef1d2c81935010d18c4861" title="FairDbLogEntry::Write" alt="" coords="936,161,1104,189"/>
+</map>

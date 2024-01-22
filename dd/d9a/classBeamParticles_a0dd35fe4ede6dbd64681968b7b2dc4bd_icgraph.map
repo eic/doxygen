@@ -1,0 +1,7 @@
+<map id="BeamParticles::SetScatteredLepton" name="BeamParticles::SetScatteredLepton">
+<area shape="rect" id="node2" href="$db/dc9/classParticleIdentifier.html#a33dcbe6bd6352692c9c5b5de373dee5e" title="ParticleIdentifier\l::IdentifyBeams" alt="" coords="265,40,397,84"/>
+<area shape="rect" id="node3" href="$d7/d2d/classerhic_1_1EventFromAsciiFactory.html#a87f879311fa2aa356c6bc012c51c72ef" title="erhic::EventFromAsciiFactory\l::FinishEvent" alt="" coords="445,5,661,49"/>
+<area shape="rect" id="node4" href="$db/d1e/classerhic_1_1Pythia6EventBuilder.html#ac97f6bf0d160fe3b6e4d6c7030c225e1" title="erhic::Pythia6EventBuilder\l::BuildEvent" alt="" coords="453,73,654,117"/>
+<area shape="rect" id="node5" href="$db/d1e/classerhic_1_1Pythia6EventBuilder.html#aa5e0e30aad8da53bea1611d16cee03bb" title="erhic::Pythia6EventBuilder\l::Create" alt="" coords="709,73,911,117"/>
+<area shape="rect" id="node6" href="$db/d1e/classerhic_1_1Pythia6EventBuilder.html#ab3445a82c3d944cbd8f39c1d5212c311" title="erhic::Pythia6EventBuilder\l::Fill" alt="" coords="959,73,1160,117"/>
+</map>

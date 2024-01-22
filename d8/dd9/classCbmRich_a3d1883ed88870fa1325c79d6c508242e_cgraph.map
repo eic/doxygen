@@ -1,0 +1,51 @@
+<map id="CbmRich::ConstructGeometry" name="CbmRich::ConstructGeometry">
+<area shape="rect" id="node2" href="$d8/dd9/classCbmRich.html#a4da15c82f4256a1d985899fd00400299" title="Construct geometry from ASCII file. Supported structure for the mirrors are added on a fly..." alt="" coords="526,543,781,571"/>
+<area shape="rect" id="node20" href="$d4/d06/classFairModule.html#ab37b69b7380269835902e621826ed79e" title="FairModule::GetGeometryFileName" alt="" coords="831,986,1088,1014"/>
+<area shape="rect" id="node38" href="$d8/dd9/classCbmRich.html#a35cf8e11a842a80859575120f7cd9b40" title="Construct geometry from GDML file." alt="" coords="524,1224,783,1252"/>
+<area shape="rect" id="node46" href="$d4/d06/classFairModule.html#a59c72f749fdc3bfbcb1505732936ae89" title="FairModule::ConstructRoot\lGeometry" alt="" coords="276,1478,476,1522"/>
+<area shape="rect" id="node3" href="$dc/dc3/classFairGeoInterface.html#a697953369c00ee61e7f39d66a2ede212" title="FairGeoInterface::addGeo\lModule" alt="" coords="862,504,1057,548"/>
+<area shape="rect" id="node6" href="$d0/d7b/classFairGeoSet.html#a368c6a14b11c2c06c2a9310f8c85382c" title="FairGeoSet::create" alt="" coords="886,780,1033,808"/>
+<area shape="rect" id="node16" href="$d7/d6f/classFairRuntimeDb.html#abba88b5b8c7dc22de5a5d1136f0074fb" title="FairRuntimeDb::getContainer" alt="" coords="1145,464,1363,492"/>
+<area shape="rect" id="node18" href="$d2/dc4/classFairGeoLoader.html#a4ffcb1c037e678ab7ec321cb8cfeed21" title="FairGeoLoader::getGeoBuilder" alt="" coords="1141,1126,1367,1154"/>
+<area shape="rect" id="node19" href="$d2/dc4/classFairGeoLoader.html#a0230b0ab35dd70a16544ef652f5fdde0" title="FairGeoLoader::getGeoInterface" alt="" coords="1136,1254,1372,1282"/>
+<area shape="rect" id="node21" href="$d0/da0/classCbmGeoRichPar.html#aa0461e9d8ac7d91b6d155bc84996065a" title="CbmGeoRichPar::GetGeoPassive\lNodes" alt="" coords="839,58,1079,102"/>
+<area shape="rect" id="node22" href="$d0/da0/classCbmGeoRichPar.html#a9a5bf4e3458d0b6259981837d46b8e4f" title="CbmGeoRichPar::GetGeoSensitive\lNodes" alt="" coords="834,126,1085,170"/>
+<area shape="rect" id="node23" href="$d0/d7b/classFairGeoSet.html#a0d7f9f7ecbfc1bc1bb2f69f28f6af4a1" title="FairGeoSet::getListOfVolumes" alt="" coords="848,194,1071,222"/>
+<area shape="rect" id="node24" href="$dd/dd2/classFairRun.html#a067b0767ff1f3e8eee4e927497a8f3df" title="FairRun::GetRunId" alt="" coords="888,246,1031,274"/>
+<area shape="rect" id="node25" href="$dd/dd2/classFairRun.html#a769c748079f470c6fb88bdddd2635e78" title="FairRun::GetRuntimeDb" alt="" coords="1164,78,1344,106"/>
+<area shape="rect" id="node26" href="$d2/dc4/classFairGeoLoader.html#a79a550879ea6baf59396ef180765e320" title="FairGeoLoader::Instance" alt="" coords="1162,1327,1346,1355"/>
+<area shape="rect" id="node27" href="$dd/dd2/classFairRun.html#a32e8a29a693ab357d4ce2b56a6cbc3a0" title="FairRun::Instance" alt="" coords="1185,204,1323,232"/>
+<area shape="rect" id="node28" href="$de/d30/classFairGeoNode.html#a3035eae3c2f5ab409f634f22951eb2c4" title="FairGeoNode::isSensitive" alt="" coords="1159,256,1349,284"/>
+<area shape="rect" id="node30" href="$d4/d06/classFairModule.html#ac489f7e5ed92d2a4fdec5422d93bfa42" title="FairModule::ProcessNodes" alt="" coords="861,400,1058,428"/>
+<area shape="rect" id="node34" href="$dc/dc3/classFairGeoInterface.html#a542c17b45b8b9f259fb03e73484435b5" title="FairGeoInterface::readSet" alt="" coords="862,572,1057,600"/>
+<area shape="rect" id="node35" href="$d5/d43/classFairParSet.html#a2400276a84a3873ae7dd7473cc36e7a5" title="FairParSet::setChanged" alt="" coords="870,624,1049,652"/>
+<area shape="rect" id="node36" href="$d0/d7b/classFairGeoSet.html#a1bbf947b383b6a9ec6c62d7441dd9c4d" title="FairGeoSet::setGeomFile" alt="" coords="866,676,1053,704"/>
+<area shape="rect" id="node37" href="$d5/d43/classFairParSet.html#adcb7a7631899e6b79e6c742cdcf7b9cf" title="FairParSet::setInputVersion" alt="" coords="858,728,1061,756"/>
+<area shape="rect" id="node4" href="$d0/d7b/classFairGeoSet.html#aa15740d902581477e1162bbe1482b08e" title="FairGeoSet::setShapes" alt="" coords="1167,516,1341,544"/>
+<area shape="rect" id="node5" href="$d0/d7b/classFairGeoSet.html#af9768491c6535dc4a199fc14f416b5f0" title="FairGeoSet::setMasterNodes" alt="" coords="1148,568,1360,596"/>
+<area shape="rect" id="node7" href="$de/d30/classFairGeoNode.html#a16e3702b362dee5459492f0bdc94c59f" title="FairGeoNode::isActive" alt="" coords="1169,672,1339,700"/>
+<area shape="rect" id="node8" href="$de/d6a/classFairGeoBuilder.html#afcada4db246f87a07f2354ac4943f8dc" title="FairGeoBuilder::createNode" alt="" coords="1151,724,1357,752"/>
+<area shape="rect" id="node9" href="$de/d30/classFairGeoNode.html#a70c85d99793e3db7c83d801e3a946fe8" title="FairGeoNode::isTopNode" alt="" coords="1431,568,1617,596"/>
+<area shape="rect" id="node10" href="$de/d30/classFairGeoNode.html#a481af3c27a5d7c7fcaed74685bdc7b7c" title="FairGeoNode::isRefNode" alt="" coords="1162,776,1346,804"/>
+<area shape="rect" id="node11" href="$d0/d7b/classFairGeoSet.html#a112055dd5add80b83132307f26207fbd" title="FairGeoSet::getMasterNode" alt="" coords="1151,828,1357,856"/>
+<area shape="rect" id="node12" href="$de/d30/classFairGeoNode.html#abbeb3f27b665e3897acd91088cdda439" title="FairGeoNode::setCenterPosition" alt="" coords="1137,880,1371,908"/>
+<area shape="rect" id="node13" href="$de/d30/classFairGeoNode.html#a17f53a80b27fdd0fa617a838af58918b" title="FairGeoNode::getCenterPosition" alt="" coords="1136,932,1372,960"/>
+<area shape="rect" id="node14" href="$de/d30/classFairGeoNode.html#a8ff575d33b3fa8882ab084bfd9f00883" title="FairGeoNode::setRootVolume" alt="" coords="1145,984,1363,1012"/>
+<area shape="rect" id="node15" href="$de/d30/classFairGeoNode.html#a569edba6d9504e5e6623369065a9bdfc" title="FairGeoNode::getRootVolume" alt="" coords="1144,1036,1364,1064"/>
+<area shape="rect" id="node17" href="$df/db3/classFairContFact.html#ae0998ead179f3785429aede0de4f48b1" title="FairContFact::getContainer" alt="" coords="1423,464,1625,492"/>
+<area shape="rect" id="node29" href="$d5/d7b/classFairGeoMedium.html#a2d8270a36268076d41c02c514ec51021" title="FairGeoMedium::isSensitive" alt="" coords="1420,256,1628,284"/>
+<area shape="rect" id="node31" href="$de/dde/classFairBaseParSet.html#a211478c2cf66be87a6fec2ea0976bb50" title="FairBaseParSet::GetGeoNodes" alt="" coords="1142,360,1366,388"/>
+<area shape="rect" id="node32" href="$de/d30/classFairGeoNode.html#ac325dfafe4894e215f9ef4d40a206c15" title="FairGeoNode::calcLabTransform" alt="" coords="1137,412,1371,440"/>
+<area shape="rect" id="node33" href="$de/d30/classFairGeoNode.html#a0cd756c6785cf61090da2a3c255ee452" title="FairGeoNode::getMotherNode" alt="" coords="1143,308,1365,336"/>
+<area shape="rect" id="node39" href="$d1/d76/aerogel_8C.html#a56726089ae862a842963a7b0f01b5fc7" title="aerogel" alt="" coords="923,1296,995,1324"/>
+<area shape="rect" id="node40" href="$de/d6a/classFairGeoBuilder.html#a852b0d5861a7a6c1033aab59417d1c79" title="FairGeoBuilder::createMedium" alt="" coords="1141,1400,1367,1428"/>
+<area shape="rect" id="node41" href="$d8/dd9/classCbmRich.html#a7a04c2f3124c138d4a8b01a83d4d445a" title="Assign materials by taking description from medoa.geo and not from GDML for a certain node..." alt="" coords="843,1348,1076,1376"/>
+<area shape="rect" id="node42" href="$dc/dc3/classFairGeoInterface.html#a43b4da4297f7ace4056c957af90d52de" title="FairGeoInterface::getMedia" alt="" coords="1152,1456,1356,1484"/>
+<area shape="rect" id="node43" href="$d9/d1e/classFairGeoMedia.html#a0dc27e89d61b8ff40498a48e39b2a2c0" title="FairGeoMedia::getMedium" alt="" coords="1155,1508,1353,1536"/>
+<area shape="rect" id="node44" href="$d6/d25/classEicGDMLParse.html#aef82dc63f42a2c5b6f9106036f01505d" title="EicGDMLParse::GDMLReadFile" alt="" coords="848,1140,1071,1168"/>
+<area shape="rect" id="node45" href="$d8/dd9/classCbmRich.html#a89af65bf3ecdc487d999d0e2609e6052" title="CbmRich::GetGasVolume" alt="" coords="864,1192,1055,1220"/>
+<area shape="rect" id="node47" href="$db/da1/classFairLogger.html#ace1485db832f9a0c33a82fb5d9872b12" title="FairLogger::Fatal" alt="" coords="1188,1619,1320,1647"/>
+<area shape="rect" id="node48" href="$d4/d06/classFairModule.html#a47557b66e094c76859e6638f89244e6c" title="FairModule::SetDefaultMatrixName" alt="" coords="831,1623,1088,1651"/>
+<area shape="rect" id="node49" href="$d4/d06/classFairModule.html#ad01c5b285d27bb124439ad2a6de3c9e3" title="FairModule::AssignMedium\lAtImport" alt="" coords="858,1452,1061,1496"/>
+<area shape="rect" id="node50" href="$d4/d06/classFairModule.html#a703a2ae06f62ae87b43a332c913526e3" title="FairModule::ExpandNode" alt="" coords="559,1512,748,1540"/>
+</map>

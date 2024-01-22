@@ -1,0 +1,51 @@
+<map id="Fun4All_G4_simplified_v2_DIRC_barrel_GEM" name="Fun4All_G4_simplified_v2_DIRC_barrel_GEM">
+<area shape="rect" id="node2" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="293,141,403,169"/>
+<area shape="rect" id="node4" href="$d9/d91/classPHG4TrackFastSim.html#a7a3b6439d458018d2e46dc588c6964c5" title="PHG4TrackFastSim::add\l_phg4hits" alt="" coords="258,329,438,373"/>
+<area shape="rect" id="node5" href="$d8/dc4/fun4all__eicmacros_2blob_2master_2common_2G4__DIRC_8C.html#a591858b133555f62639a4b647a486b45" title="DIRCInit" alt="" coords="310,397,386,425"/>
+<area shape="rect" id="node6" href="$d8/dc4/fun4all__eicmacros_2blob_2master_2common_2G4__DIRC_8C.html#acbdf429e4e41a2057e053691cc0b4128" title="DIRCSetup" alt="" coords="301,501,395,529"/>
+<area shape="rect" id="node12" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="527,57,753,85"/>
+<area shape="rect" id="node14" href="$d5/d29/classPHG4DetectorSubsystem.html#a48e75fd1738dab9d0d66b174053ead8f" title="PHG4DetectorSubsystem\l::set_double_param" alt="" coords="544,689,736,733"/>
+<area shape="rect" id="node16" href="$d5/d29/classPHG4DetectorSubsystem.html#a82c122f8a80f34dc4ffba6675ce60c75" title="PHG4DetectorSubsystem\l::set_string_param" alt="" coords="544,757,736,801"/>
+<area shape="rect" id="node17" href="$d5/d29/classPHG4DetectorSubsystem.html#a06d7265cdb191528ced9e78e73ba0f0a" title="PHG4DetectorSubsystem\l::SetActive" alt="" coords="544,569,736,613"/>
+<area shape="rect" id="node18" href="$d5/d29/classPHG4DetectorSubsystem.html#aa0c11d415a70a207a3ea851b28932dfd" title="PHG4DetectorSubsystem\l::SuperDetector" alt="" coords="544,825,736,869"/>
+<area shape="rect" id="node19" href="$d5/dec/classFun4AllBase.html#a05da2261577843028cf78e99171343b9" title="Sets the verbosity of this module (0 by default=quiet)." alt="" coords="552,637,728,665"/>
+<area shape="rect" id="node20" href="$d9/d91/classPHG4TrackFastSim.html#a49d0759f8de9ead3c405bd31d047df84" title="PHG4TrackFastSim::enable\l_vertexing" alt="" coords="247,825,449,869"/>
+<area shape="rect" id="node21" href="$da/d29/classFun4AllServer.html#ab7263450319ca1d5029209fde26a7af8" title="Fun4AllServer::End" alt="" coords="273,1235,423,1263"/>
+<area shape="rect" id="node22" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="617,1209,663,1237"/>
+<area shape="rect" id="node23" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="549,2011,731,2039"/>
+<area shape="rect" id="node24" href="$da/d29/classFun4AllServer.html#ab2cb490790d15b865ae79eb3094caabe" title="Fun4AllServer::registerInput\lManager" alt="" coords="242,1047,454,1091"/>
+<area shape="rect" id="node25" href="$da/d29/classFun4AllServer.html#a9e7cd54536d1edb6e5c5cc153c0a036a" title="Fun4AllServer::registerOutput\lManager" alt="" coords="236,1115,460,1159"/>
+<area shape="rect" id="node26" href="$da/d29/classFun4AllServer.html#a0a9947db0ede1e55622001eb7515f8c0" title="Fun4AllServer::registerSubsystem" alt="" coords="223,1287,473,1315"/>
+<area shape="rect" id="node27" href="$da/d29/classFun4AllServer.html#a11bbc8b2f53bc06e0b05ee202dd6372a" title="run n events (0 means up to end of file)" alt="" coords="275,1183,421,1211"/>
+<area shape="rect" id="node28" href="$db/dc5/classPHG4CylinderSubsystem.html#a720cfcefbc8548018e28bbad59acaab3" title="PHG4CylinderSubsystem\l::set_color" alt="" coords="545,915,735,959"/>
+<area shape="rect" id="node29" href="$dd/d68/classPHG4ParticleGenerator.html#a4b2a92c163bf14fd08ac939df40e1d8f" title="PHG4ParticleGenerator\l::set_eta_range" alt="" coords="259,1339,437,1383"/>
+<area shape="rect" id="node30" href="$d3/dd7/classPHG4ParticleGenerator__flat__pT.html#a29a7647d373a1f5b57d14480094c662e" title="PHG4ParticleGenerator\l_flat_pT::set_eta_range" alt="" coords="259,1407,437,1451"/>
+<area shape="rect" id="node31" href="$d0/d78/classPHG4Reco.html#af7a3ea8186b3f700913d0f0ab4a64535" title="set default magnetic field strength with a constant magnetic field. Only valid if set_field_map() is ..." alt="" coords="270,1475,426,1503"/>
+<area shape="rect" id="node32" href="$d0/d78/classPHG4Reco.html#a2b127807e9bccb2480da1e0493cc2bd1" title="PHG4Reco::set_field_map" alt="" coords="251,1527,445,1555"/>
+<area shape="rect" id="node33" href="$d0/d78/classPHG4Reco.html#a29cc7f3d84eb82b13e8425bc77e200e3" title="set default scaling factor for input magnetic field map. If available, Field map setting on DST take ..." alt="" coords="270,1579,426,1623"/>
+<area shape="rect" id="node34" href="$d0/d71/classPHG4TrackFastSimEval.html#a71be5485fc688bf490c65175da4e5aac" title="PHG4TrackFastSimEval\l::set_filename" alt="" coords="261,1647,435,1691"/>
+<area shape="rect" id="node35" href="$d5/d29/classPHG4DetectorSubsystem.html#a9c64b70e82272ef90f285ecaef1e50b4" title="PHG4DetectorSubsystem\l::set_int_param" alt="" coords="252,1715,444,1759"/>
+<area shape="rect" id="node36" href="$dd/d68/classPHG4ParticleGenerator.html#a2519e761aa5d07a73586842149b4fc93" title="PHG4ParticleGenerator\l::set_mom_range" alt="" coords="259,1783,437,1827"/>
+<area shape="rect" id="node37" href="$d8/d78/classPHG4ParticleGeneratorBase.html#ad3bece97c2350072c683575ab5bdb53c" title="PHG4ParticleGeneratorBase\l::set_name" alt="" coords="243,1851,453,1895"/>
+<area shape="rect" id="node38" href="$d3/dd7/classPHG4ParticleGenerator__flat__pT.html#a9c912fb7944ca85f118b4e16f05448c4" title="PHG4ParticleGenerator\l_flat_pT::set_phi_range" alt="" coords="259,1919,437,1963"/>
+<area shape="rect" id="node39" href="$dd/d68/classPHG4ParticleGenerator.html#a9b68744c1449c4c44616b9a16f3ee191" title="PHG4ParticleGenerator\l::set_phi_range" alt="" coords="259,1987,437,2031"/>
+<area shape="rect" id="node40" href="$d3/dd7/classPHG4ParticleGenerator__flat__pT.html#a9d94268fccb4f952e18afbf909f601fa" title="PHG4ParticleGenerator\l_flat_pT::set_pT_range" alt="" coords="259,2055,437,2099"/>
+<area shape="rect" id="node41" href="$d9/d91/classPHG4TrackFastSim.html#af91e288fc1b38e815ab3aa15253eac5c" title="PHG4TrackFastSim::set\l_sub_top_node_name" alt="" coords="259,2123,437,2167"/>
+<area shape="rect" id="node42" href="$d9/d91/classPHG4TrackFastSim.html#afe792ab593dee7e5335500771651bc9a" title="PHG4TrackFastSim::set\l_trackmap_out_name" alt="" coords="259,2191,437,2235"/>
+<area shape="rect" id="node43" href="$d9/d91/classPHG4TrackFastSim.html#a51f812d9d4b2f7e07b31704992d9c050" title="PHG4TrackFastSim::set\l_use_vertex_in_fitting" alt="" coords="259,2259,437,2303"/>
+<area shape="rect" id="node44" href="$d9/d91/classPHG4TrackFastSim.html#a442563d546d2fb8841a9020086337a8b" title="PHG4TrackFastSim::set\l_vertex_min_ndf" alt="" coords="259,2327,437,2371"/>
+<area shape="rect" id="node45" href="$d9/d91/classPHG4TrackFastSim.html#afb85d26b4cb8655e23e9aadf26dd1ee9" title="PHG4TrackFastSim::set\l_vertex_xy_resolution" alt="" coords="259,2395,437,2439"/>
+<area shape="rect" id="node46" href="$d9/d91/classPHG4TrackFastSim.html#ad04b66b724d63c4cf438a1d420ad639a" title="PHG4TrackFastSim::set\l_vertex_z_resolution" alt="" coords="259,2463,437,2507"/>
+<area shape="rect" id="node47" href="$d8/d78/classPHG4ParticleGeneratorBase.html#a45b6073aec5d527acfbb8ecc7db95033" title="PHG4ParticleGeneratorBase\l::set_vtx" alt="" coords="243,2531,453,2575"/>
+<area shape="rect" id="node48" href="$dd/d68/classPHG4ParticleGenerator.html#ac19e0a641253cc6f30379fb36e75099b" title="PHG4ParticleGenerator\l::set_z_range" alt="" coords="259,2599,437,2643"/>
+<area shape="rect" id="node49" href="$d3/dd7/classPHG4ParticleGenerator__flat__pT.html#a551ad72875054f0ae96a12e238eabc58" title="PHG4ParticleGenerator\l_flat_pT::set_z_range" alt="" coords="259,2667,437,2711"/>
+<area shape="rect" id="node50" href="$d0/d20/g4lblvtx_2blob_2master_2macros_2auxiliary__studies_2simplified__geometry_2G4__BlackHole_8C.html#ab361b1ac6a0d84cbb660bed56f07d426" title="wrap_with_cylindrical\l_blackhole" alt="" coords="265,757,431,801"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="552,5,728,33"/>
+<area shape="rect" id="node7" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#af8d0b17890420cd9656d7d8eaf55cc41" title="PHG4Sector::Sector\l_Geometry::AddLayer" alt="" coords="555,245,725,289"/>
+<area shape="rect" id="node8" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a97b24275f8f8258b2a7a942f0f10a450" title="PHG4Sector::Sector\l_Geometry::FlatEdge" alt="" coords="558,313,722,357"/>
+<area shape="rect" id="node9" href="$da/dca/classPHG4SectorSubsystem.html#a18e65911a43c5a9015131793352809b5" title="geometry manager PHG4Sector::Sector_Geometry" alt="" coords="552,381,728,425"/>
+<area shape="rect" id="node10" href="$d5/d29/classPHG4DetectorSubsystem.html#a5a52f44370d90e92bfb3ed0abf6dbb76" title="PHG4DetectorSubsystem\l::OverlapCheck" alt="" coords="544,449,736,493"/>
+<area shape="rect" id="node11" href="$db/df7/classPHG4Subsystem.html#a23501010ac65db7c2bc31c02c5945ecb" title="PHG4Subsystem::OverlapCheck" alt="" coords="521,517,759,545"/>
+<area shape="rect" id="node13" href="$d8/d6e/classPHG4ConeSubsystem.html#a6f061e2e796475c47c4fb68b4fb631e4" title="PHG4ConeSubsystem::\lset_color" alt="" coords="552,109,728,153"/>
+<area shape="rect" id="node15" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a83a31bf9617f2af840150315ec00d94a" title="PHG4Sector::Sector\l_Geometry::set_material" alt="" coords="546,177,734,221"/>
+</map>

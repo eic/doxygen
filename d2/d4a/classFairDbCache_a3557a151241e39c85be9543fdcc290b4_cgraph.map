@@ -1,0 +1,37 @@
+<map id="FairDbCache::Search" name="FairDbCache::Search">
+<area shape="rect" id="node2" href="$de/d5c/namespaceSimFlag.html#a6632a9141f0b9fd08f75b0642eed8d67" title="SimFlag::AsString" alt="" coords="1306,219,1446,247"/>
+<area shape="rect" id="node3" href="$d4/d1d/classFairDbSimFlagAssociation.html#a8fc6b6d5686f207401af701b212d84be" title="FairDbSimFlagAssociation::Get" alt="" coords="224,459,453,487"/>
+<area shape="rect" id="node4" href="$dd/d71/classValContext.html#a7245d43141de2fa31710883aa99f25e5" title="ValContext::GetDetector" alt="" coords="1058,115,1246,143"/>
+<area shape="rect" id="node5" href="$d5/d57/classFairDbResult.html#a85a4133f030358b1ba971e082624bad3" title="FairDbResult::GetNumAggregates" alt="" coords="215,511,463,539"/>
+<area shape="rect" id="node6" href="$d5/d57/classFairDbResult.html#aa30031fe21f6c29710481e855bc1c7dd" title="FairDbResult::GetNumRows" alt="" coords="236,563,441,591"/>
+<area shape="rect" id="node7" href="$dd/d71/classValContext.html#a5be59960e7b809fdcaab848767b85246" title="ValContext::GetSimFlag" alt="" coords="1061,167,1243,195"/>
+<area shape="rect" id="node8" href="$d2/d4a/classFairDbCache.html#ab72da4c3267fc1d7834799e451423c97" title="FairDbCache::GetSubCache" alt="" coords="235,615,442,643"/>
+<area shape="rect" id="node9" href="$dd/d71/classValContext.html#a7ed9b7e0653d2906ced11408472e3d88" title="ValContext::GetTimeStamp" alt="" coords="1049,63,1255,91"/>
+<area shape="rect" id="node10" href="$d4/d1d/classFairDbSimFlagAssociation.html#a32da778cc6c59806b8d74527b29d9688" title="Get access to the one and only instance." alt="" coords="241,683,436,727"/>
+<area shape="rect" id="node12" href="$d5/d57/classFairDbResult.html#acdc21ff31bf14eeaf2b4419605aaf626" title="FairDbResult::Satisfies" alt="" coords="253,407,425,435"/>
+<area shape="rect" id="node11" href="$d4/d1d/classFairDbSimFlagAssociation.html#af79b65d2a0ee63b1329dffcb41cab0c7" title="FairDbSimFlagAssociation\l::FairDbSimFlagAssociation" alt="" coords="517,724,721,768"/>
+<area shape="rect" id="node13" href="$d5/d57/classFairDbResult.html#add4992e0a4558bde539c639083bf69f8" title="FairDbResult::IsExtended\lContext" alt="" coords="525,656,714,700"/>
+<area shape="rect" id="node15" href="$d5/d57/classFairDbResult.html#a517a63094072596eb377eaa1c0bfeb38" title="FairDbResult::CanReuse" alt="" coords="529,432,710,460"/>
+<area shape="rect" id="node16" href="$d5/d57/classFairDbResult.html#ac1d0210fba473040fc242d5fdafcdae4" title="FairDbResult::GetValidityRec" alt="" coords="513,380,726,408"/>
+<area shape="rect" id="node18" href="$dd/da1/classFairDbValidityRec.html#a32b49398e48e17ec79ca61ca06dec5c5" title="FairDbValidityRec::\lIsCompatible" alt="" coords="546,291,693,335"/>
+<area shape="rect" id="node28" href="$dd/da1/classFairDbValidityRec.html#adc49a7f9afb8b0e467378d25ba47816c" title="FairDbValidityRec::\lHasExpired" alt="" coords="546,484,693,528"/>
+<area shape="rect" id="node35" href="$d5/d57/classFairDbResult.html#abfc2524876655515548401f602333dfc" title="FairDbResult::GetNumClients" alt="" coords="511,552,728,580"/>
+<area shape="rect" id="node36" href="$d5/d57/classFairDbResult.html#a4a019c7ac3e00c520845a22ea50226b2" title="FairDbResult::SetCanReuse" alt="" coords="517,604,721,632"/>
+<area shape="rect" id="node14" href="$d5/d57/classFairDbResult.html#a97bb936321a516d626281fa7b039bea2" title="FairDbResult::GetSqlQualifiers" alt="" coords="776,784,1001,812"/>
+<area shape="rect" id="node17" href="$d5/d57/classFairDbResult.html#ab4a6d6b12f19c18a7bbc8bcabf8e7c5c" title="FairDbResult::GetValidity\lRecGlobal" alt="" coords="794,372,983,416"/>
+<area shape="rect" id="node19" href="$d9/df6/classValRange.html#a0cdfac91a8bd16e42508300998efdfc4" title="ValRange::IsCompatible" alt="" coords="797,164,980,192"/>
+<area shape="rect" id="node20" href="$d9/df6/classValRange.html#ac47742288a98caef0104be34e39f3c7a" title="ValRange::AsString" alt="" coords="813,320,964,348"/>
+<area shape="rect" id="node27" href="$dd/d71/classValContext.html#abf0597cc807edba9768930ad1d93df70" title="ValContext::AsString" alt="" coords="808,268,969,296"/>
+<area shape="rect" id="node21" href="$da/daf/namespaceDetector.html#a8ea51ad6e0e33eada715419e5b1ffa18" title="Detector::MaskToString" alt="" coords="1063,427,1241,455"/>
+<area shape="rect" id="node24" href="$de/d5c/namespaceSimFlag.html#ac00b38b2bed296195e81da71f4f4e979" title="SimFlag::MaskToString" alt="" coords="1065,271,1239,299"/>
+<area shape="rect" id="node26" href="$d2/d87/classValTimeStamp.html#a1558560608010aa1b1f77de84fb66484" title="ValTimeStamp::AsString" alt="" coords="1059,375,1245,403"/>
+<area shape="rect" id="node22" href="$da/daf/namespaceDetector.html#a4cecd5c3a22d1ea4291c6757a24b740f" title="Detector::FullMask" alt="" coords="1303,427,1449,455"/>
+<area shape="rect" id="node23" href="$da/daf/namespaceDetector.html#ac059b231d6f0ab7551d82d4bbd1c3d9b" title="Detector::AsString" alt="" coords="1304,348,1448,376"/>
+<area shape="rect" id="node25" href="$de/d5c/namespaceSimFlag.html#a3c2da6c2fdcc1463b6e293a9f7cbf2b3" title="SimFlag::FullMask" alt="" coords="1305,271,1447,299"/>
+<area shape="rect" id="node29" href="$dd/da1/classFairDbValidityRec.html#ae56c62cc0c521287d484c53dd2d70f2a" title="FairDbValidityRec::\lGetValRange" alt="" coords="815,596,962,640"/>
+<area shape="rect" id="node30" href="$dd/da1/classFairDbValidityRec.html#a1e20756c39a606f0cfe7d6963816c70c" title="FairDbValidityRec::\lGetTask" alt="" coords="815,664,962,708"/>
+<area shape="rect" id="node31" href="$d9/df6/classValRange.html#a77667c1e38e7789b27b642bb907c8225" title="ValRange::GetDetectorMask" alt="" coords="783,732,995,760"/>
+<area shape="rect" id="node32" href="$d9/df6/classValRange.html#a158a18ed3848b5c83d2677145f36dc4d" title="ValRange::GetSimMask" alt="" coords="799,440,979,468"/>
+<area shape="rect" id="node33" href="$d9/df6/classValRange.html#af0136e7f8964a0d39a4df1b64f1d95cd" title="ValRange::GetTimeStart" alt="" coords="796,492,981,520"/>
+<area shape="rect" id="node34" href="$d9/df6/classValRange.html#a0b489c5e3dab431b268469d0aadc7718" title="ValRange::GetTimeEnd" alt="" coords="800,544,977,572"/>
+</map>

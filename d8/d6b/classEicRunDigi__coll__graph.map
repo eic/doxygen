@@ -1,0 +1,23 @@
+<map id="EicRunDigi" name="EicRunDigi">
+<area shape="rect" id="node2" href="$d4/dc9/classEicRunAna.html" title="EicRunAna" alt="" coords="2681,1881,2773,1909"/>
+<area shape="rect" id="node3" href="$de/da9/classFairRunAna.html" title="FairRunAna" alt="" coords="2323,1829,2421,1857"/>
+<area shape="rect" id="node4" href="$dd/dd2/classFairRun.html" title="FairRun" alt="" coords="2013,1429,2083,1457"/>
+<area shape="rect" id="node29" href="$d5/dc2/classFairFileHeader.html" title="FairFileHeader" alt="" coords="1307,1659,1425,1687"/>
+<area shape="rect" id="node30" href="$dd/db6/classFairEventHeader.html" title="FairEventHeader" alt="" coords="1299,1711,1433,1739"/>
+<area shape="rect" id="node36" href="$dd/d8f/classFairMCEventHeader.html" title="FairMCEventHeader" alt="" coords="1289,1763,1443,1791"/>
+<area shape="rect" id="node41" href="$d6/de1/classFairRtdbRun.html" title="FairRtdbRun" alt="" coords="1315,590,1417,618"/>
+<area shape="rect" id="node6" href="$d0/d6c/classFairRootManager.html" title="FairRootManager" alt="" coords="1685,1207,1821,1235"/>
+<area shape="rect" id="node7" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="583,498,659,526"/>
+<area shape="rect" id="node14" href="$d8/d08/classFairTSBufferFunctional.html" title="A class to access time ordered data in a root branch." alt="" coords="919,1190,1092,1218"/>
+<area shape="rect" id="node18" href="$d2/d88/classFairWriteoutBuffer.html" title="A container class to store digi data during events." alt="" coords="933,607,1078,635"/>
+<area shape="rect" id="node39" href="$d7/d6f/classFairRuntimeDb.html" title="list of container factories" alt="" coords="1693,437,1814,465"/>
+<area shape="rect" id="node40" href="$d0/d2e/classFairParIo.html" title="FairParIo" alt="" coords="1141,366,1220,394"/>
+<area shape="rect" id="node42" href="$d2/df2/classFairRunInfo.html" title="FairRunInfo" alt="" coords="957,114,1054,142"/>
+<area shape="rect" id="node15" href="$d1/d89/classBinaryFunctor.html" title="Base class for all functors which are used in the FairTSBufferFunctional." alt="" coords="563,1190,679,1218"/>
+<area shape="rect" id="node21" href="$db/da1/classFairLogger.html" title="FairLogger" alt="" coords="575,267,667,295"/>
+<area shape="rect" id="node37" href="$d2/d9e/classFairTask.html" title="FairTask" alt="" coords="968,175,1043,203"/>
+<area shape="rect" id="node22" title="STL class." alt="" coords="226,238,333,266"/>
+<area shape="rect" id="node23" title="STL class." alt="" coords="5,230,153,274"/>
+<area shape="rect" id="node47" href="$d1/d56/classBranchBuffer.html" title="BranchBuffer" alt="" coords="2317,1933,2427,1961"/>
+<area shape="rect" id="node50" href="$dc/de5/classColumnOrBranchDescriptor.html" title="ColumnOrBranchDescriptor" alt="" coords="2268,1993,2476,2021"/>
+</map>

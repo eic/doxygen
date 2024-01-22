@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dc/d48/classCbmRichTrackExtrapolationBase.html" title="CbmRichTrackExtrapolationBase" alt="" coords="5,73,245,101"/>
+<area shape="rect" id="node2" href="$dc/d17/classCbmRichTrackExtrapolationIdeal.html" title="&quot;TrackExtrapolation&quot; from MC points. It reads the PointArray with ImPlanePoints from MC and selects t..." alt="" coords="302,5,509,49"/>
+<area shape="rect" id="node3" href="$dd/da5/classCbmRichTrackExtrapolationKF.html" title="&quot;TrackExtrapolation&quot; from STS tracks (Kalman Fitter) It reads the track array form STS and extrapolat..." alt="" coords="293,73,517,101"/>
+<area shape="rect" id="node4" href="$d6/d10/classCbmRichTrackExtrapolationMirrorIdeal.html" title="This is the implementation of the TrackExtrapolation from MC points &#45; operating on points in the RICH..." alt="" coords="302,125,509,169"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="e_starlightStandalone" name="e_starlightStandalone">
+<area shape="rect" id="node2" href="$d0/d94/classinputParameters.html" title="inputParameters" alt="" coords="1531,1159,1664,1187"/>
+<area shape="rect" id="node28" href="$d9/da4/classe__starlight.html" title="e_starlight" alt="" coords="1851,307,1945,335"/>
+<area shape="rect" id="node3" href="$d5/d4e/classparameter.html" title="parameter\&lt; int, NO\l_VALIDITY_CHECK \&gt;" alt="" coords="478,1554,634,1598"/>
+<area shape="rect" id="node4" href="$d2/df1/classparameterbase.html" title="parameterbase" alt="" coords="197,1518,321,1546"/>
+<area shape="rect" id="node9" href="$d5/d4e/classparameter.html" title="parameter\&lt; bool, VALIDITY\l_CHECK \&gt;" alt="" coords="453,1486,659,1530"/>
+<area shape="rect" id="node23" href="$d5/d4e/classparameter.html" title="parameter\&lt; bool, NO\l_VALIDITY_CHECK \&gt;" alt="" coords="473,1418,639,1462"/>
+<area shape="rect" id="node24" href="$d5/d4e/classparameter.html" title="parameter\&lt; int, VALIDITY\l_CHECK \&gt;" alt="" coords="459,1190,653,1234"/>
+<area shape="rect" id="node25" href="$d5/d4e/classparameter.html" title="parameter\&lt; std::string,\l NO_VALIDITY_CHECK \&gt;" alt="" coords="465,1622,647,1666"/>
+<area shape="rect" id="node26" href="$d5/d4e/classparameter.html" title="parameter\&lt; unsigned\l int, VALIDITY_CHECK \&gt;" alt="" coords="466,1258,646,1302"/>
+<area shape="rect" id="node27" href="$d5/d4e/classparameter.html" title="parameter\&lt; double,\l VALIDITY_CHECK \&gt;" alt="" coords="477,1350,635,1394"/>
+<area shape="rect" id="node5" href="$d4/d46/classparameterlist.html" title="parameterlist" alt="" coords="882,1717,995,1745"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="215,863,304,891"/>
+<area shape="rect" id="node12" href="$d6/ded/classinputParser_1_1__parameter.html" title="inputParser::_parameter\l\&lt; double \&gt;" alt="" coords="463,457,649,501"/>
+<area shape="rect" id="node14" href="$d6/ded/classinputParser_1_1__parameter.html" title="inputParser::_parameter\l\&lt; bool \&gt;" alt="" coords="463,590,649,634"/>
+<area shape="rect" id="node16" href="$d6/ded/classinputParser_1_1__parameter.html" title="inputParser::_parameter\l\&lt; float \&gt;" alt="" coords="463,855,649,899"/>
+<area shape="rect" id="node18" href="$d6/ded/classinputParser_1_1__parameter.html" title="inputParser::_parameter\l\&lt; int \&gt;" alt="" coords="463,1122,649,1166"/>
+<area shape="rect" id="node20" href="$d6/ded/classinputParser_1_1__parameter.html" title="inputParser::_parameter\l\&lt; std::string \&gt;" alt="" coords="463,989,649,1033"/>
+<area shape="rect" id="node22" href="$d6/ded/classinputParser_1_1__parameter.html" title="inputParser::_parameter\l\&lt; unsigned int \&gt;" alt="" coords="463,658,649,702"/>
+<area shape="rect" id="node30" href="$d1/d18/classreadLuminosity.html" title="readLuminosity" alt="" coords="1293,189,1419,217"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="5,855,148,899"/>
+<area shape="rect" id="node10" href="$dd/d86/classinputParser.html" title="inputParser" alt="" coords="1307,806,1405,834"/>
+<area shape="rect" id="node29" href="$db/df6/classeventChannel.html" title="eventChannel" alt="" coords="1540,259,1655,287"/>
+<area shape="rect" id="node32" href="$d4/dd1/classrandomGenerator.html" title="randomGenerator" alt="" coords="1285,241,1427,269"/>
+<area shape="rect" id="node33" href="$d1/d21/classbeamBeamSystem.html" title="beamBeamSystem" alt="" coords="1281,321,1431,349"/>
+<area shape="rect" id="node34" href="$d0/d21/classbeam.html" title="beam" alt="" coords="909,289,969,317"/>
+<area shape="rect" id="node35" href="$d4/d51/classnucleus.html" title="nucleus" alt="" coords="519,289,593,317"/>
+</map>

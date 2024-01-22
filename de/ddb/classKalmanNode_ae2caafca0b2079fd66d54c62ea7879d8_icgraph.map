@@ -1,0 +1,8 @@
+<map id="KalmanNode::IsFired" name="KalmanNode::IsFired">
+<area shape="rect" id="node2" href="$d7/d9f/classEicHtcTask.html#a51f6768289f97ee2cd68730b840c5ef2" title="EicHtcTask::Exec" alt="" coords="252,5,385,33"/>
+<area shape="rect" id="node3" href="$da/d13/classFwdHoughTree.html#a77ab6d8abaaa4419df4106fb469bbe63" title="FwdHoughTree::FinalFit" alt="" coords="791,96,970,124"/>
+<area shape="rect" id="node4" href="$db/db2/classTrKalmanNodeLocation.html#abd41518fc4c7653afe6f0a5bdea890f6" title="TrKalmanNodeLocation\l::GetFiredNodeCount" alt="" coords="230,109,407,153"/>
+<area shape="rect" id="node5" href="$d6/da0/classTrKalmanFilter.html#a4e7d74608f9f2867404f97b9fe7f141e" title="TrKalmanFilter::SelectActive\lNodes" alt="" coords="213,177,424,221"/>
+<area shape="rect" id="node6" href="$da/d13/classFwdHoughTree.html#a2c6b906fed9b9e2df2d061a675ab56da" title="FwdHoughTree::SetupKalman\lFilter" alt="" coords="472,177,692,221"/>
+<area shape="rect" id="node7" href="$da/d13/classFwdHoughTree.html#a9dc064fb3543a4cc5b1d2f175d3493f4" title="FwdHoughTree::ResolveAmbiguitiesNg" alt="" coords="740,185,1021,213"/>
+</map>

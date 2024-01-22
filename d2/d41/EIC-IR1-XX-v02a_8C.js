@@ -1,0 +1,28 @@
+var EIC_IR1_XX_v02a_8C =
+[
+    [ "acceptance", "d2/d41/EIC-IR1-XX-v02a_8C.html#a6a7b042275b58d2c7846ab76eff5315b", null ],
+    [ "add", "d2/d41/EIC-IR1-XX-v02a_8C.html#a2a26f8155275008b8d2e9cd7993ef3a6", null ],
+    [ "add", "d2/d41/EIC-IR1-XX-v02a_8C.html#a54785f4b8991c08da81de5dcf3d0f6f6", null ],
+    [ "add", "d2/d41/EIC-IR1-XX-v02a_8C.html#a81dbae14444de75c721ebd0f5e7a48f8", null ],
+    [ "add", "d2/d41/EIC-IR1-XX-v02a_8C.html#aecf9f2e2851235787a6ae20daeda7f05", null ],
+    [ "add", "d2/d41/EIC-IR1-XX-v02a_8C.html#a47c361060d3b1b3e33953dae78ff9b53", null ],
+    [ "add", "d2/d41/EIC-IR1-XX-v02a_8C.html#ab78f5b839653dfc54b79e81698d0dd85", null ],
+    [ "add", "d2/d41/EIC-IR1-XX-v02a_8C.html#a37e27e8a048398a50ea12f5e39b0dff1", null ],
+    [ "add", "d2/d41/EIC-IR1-XX-v02a_8C.html#a799a5a1ba454f4f103ebfe273e72f0fa", null ],
+    [ "ApplyStandardTrimming", "d2/d41/EIC-IR1-XX-v02a_8C.html#a4428b96ea6adc8c30684fd57a74e6b65", null ],
+    [ "bck", "d2/d41/EIC-IR1-XX-v02a_8C.html#a6c4229186abccb9eb68c4ca780004773", null ],
+    [ "DefineVacuumChamber", "d2/d41/EIC-IR1-XX-v02a_8C.html#a1e9a26270e45206c80244a509ba52ecd", null ],
+    [ "for", "d2/d41/EIC-IR1-XX-v02a_8C.html#a983a72d7910e4f792e1689ccd13e1f0a", null ],
+    [ "fwd", "d2/d41/EIC-IR1-XX-v02a_8C.html#a3ad43f314b4758e72a054a9c442e057a", null ],
+    [ "hdraw", "d2/d41/EIC-IR1-XX-v02a_8C.html#a0d7430ddba27e2174315b00731ba3bc0", null ],
+    [ "ip", "d2/d41/EIC-IR1-XX-v02a_8C.html#af0ada97843907c003ffa884bac434e22", null ],
+    [ "ir", "d2/d41/EIC-IR1-XX-v02a_8C.html#a24ae0c7d1f6fc60d7e97fe9ae5b178d3", null ],
+    [ "marker", "d2/d41/EIC-IR1-XX-v02a_8C.html#a7ebe9a97cf1c8b6f34cea19415b6869f", null ],
+    [ "mid", "d2/d41/EIC-IR1-XX-v02a_8C.html#a21bd44b627959f40067cd66fb96dc9f6", null ],
+    [ "offset", "d2/d41/EIC-IR1-XX-v02a_8C.html#ae684f290699657d29d032142a90c23cc", null ],
+    [ "offset", "d2/d41/EIC-IR1-XX-v02a_8C.html#adca5dcc49999def39dde5f806a846942", null ],
+    [ "offset", "d2/d41/EIC-IR1-XX-v02a_8C.html#ac3cea13df155998791294c5bf6a451ba", null ],
+    [ "SetAzimuthalSegmentation", "d2/d41/EIC-IR1-XX-v02a_8C.html#a2d457ab0de78d87ce2b0ef589919d8f3", null ],
+    [ "vtx", "d2/d41/EIC-IR1-XX-v02a_8C.html#a888f39f7254b5b59976d577091d79a4e", null ],
+    [ "write", "d2/d41/EIC-IR1-XX-v02a_8C.html#a7a26f57ad60f2d951e6c00b1e365be3b", null ]
+];

@@ -1,0 +1,51 @@
+<map id="PHG4TrackFastSim::process_event" name="PHG4TrackFastSim::process_event">
+<area shape="rect" id="node2" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a273f0f885e02d740befd1d3b18489a16" title="Add new event." alt="" coords="605,331,763,375"/>
+<area shape="rect" id="node3" href="$d7/dd5/classPHGenFit_1_1Track.html#a3c6639bba6584ef0fd2581150947b85f" title="PHGenFit::Track::addMeasurements" alt="" coords="261,1361,523,1389"/>
+<area shape="rect" id="node5" href="$d9/d91/classPHG4TrackFastSim.html#a3829600d9844d77ec6d37f5306611b8a" title="PHG4TrackFastSim::FillSvtx\lVertexMap" alt="" coords="290,1413,494,1457"/>
+<area shape="rect" id="node7" href="$d1/d19/classgenfit_1_1GFRaveVertexFactory.html#a12b2a1abd879414950206ffac162b88e" title="genfit::GFRaveVertexFactory\l::findVertices" alt="" coords="285,211,499,255"/>
+<area shape="rect" id="node12" href="$de/dc9/classPHG4Particle.html#ac29b72a8cdeebc0754b6dd42b0cfab86" title="PHG4Particle::get_track_id" alt="" coords="585,1295,783,1323"/>
+<area shape="rect" id="node13" href="$d6/d81/classPHG4VtxPoint.html#a9f885c1b879a2f1d6299b07801210a1d" title="PHG4VtxPoint::get_x" alt="" coords="311,1481,473,1509"/>
+<area shape="rect" id="node14" href="$d6/d81/classPHG4VtxPoint.html#a2073b3294f78491a2124aea6c436d6a8" title="PHG4VtxPoint::get_y" alt="" coords="311,1533,473,1561"/>
+<area shape="rect" id="node15" href="$d6/d81/classPHG4VtxPoint.html#ae26c6d111c93795d64e3571b6f306ef9" title="PHG4VtxPoint::get_z" alt="" coords="312,1585,472,1613"/>
+<area shape="rect" id="node16" href="$d0/d8d/classgenfit_1_1FitStatus.html#a7e8ed1d97eec3e3164dc2dd782f5cb85" title="Get the fitted charge." alt="" coords="324,1637,460,1681"/>
+<area shape="rect" id="node17" href="$d0/d8d/classgenfit_1_1FitStatus.html#abbeeda61574c284f1d762088b3644770" title="Get chi^2 of the fit." alt="" coords="324,1705,460,1749"/>
+<area shape="rect" id="node18" href="$d1/d35/classPHGenFit_1_1Fitter.html#a6310f56a435f67f2a8ff1a9c2270e51e" title="PHGenFit::Fitter::getEvent\lDisplay" alt="" coords="294,1773,490,1817"/>
+<area shape="rect" id="node19" href="$d6/d8a/classgenfit_1_1Track.html#ad06e7a012624bdb03960826b5c9fcd93" title="Get FitStatus for a AbsTrackRep. Per default, return FitStatus for cardinalRep." alt="" coords="587,451,781,479"/>
+<area shape="rect" id="node21" href="$d6/d8a/classgenfit_1_1Track.html#abf156957d701a9a10a02fef8ac54e4d9" title="Shortcut to get FittedStates." alt="" coords="597,39,771,83"/>
+<area shape="rect" id="node26" href="$d7/dd5/classPHGenFit_1_1Track.html#a8cc267bf5a0014b5ba7e057a3b45ba3e" title="PHGenFit::Track::getGenFit\lTrack" alt="" coords="583,555,785,599"/>
+<area shape="rect" id="node27" href="$d0/d8d/classgenfit_1_1FitStatus.html#aa73b3566657ea37bf8ab5102d465025d" title="Get the degrees of freedom of the fit." alt="" coords="324,1841,460,1885"/>
+<area shape="rect" id="node28" href="$da/d6c/classPHG4TruthInfoContainer.html#a1ee31482bc1d9463f16bf4de90273c41" title="Get a range of iterators covering the entire container." alt="" coords="299,1909,485,1953"/>
+<area shape="rect" id="node29" href="$d2/d74/classgenfit_1_1MeasuredStateOnPlane.html#a3aab44a6c7155b8258fa34469bc45bc0" title="genfit::MeasuredStateOnPlane\l::getPosMomCov" alt="" coords="279,951,505,995"/>
+<area shape="rect" id="node32" href="$da/d6c/classPHG4TruthInfoContainer.html#a2817b4438bb80cacb28f457975342cf2" title="PHG4TruthInfoContainer\l::GetPrimaryParticleRange" alt="" coords="293,1977,491,2021"/>
+<area shape="rect" id="node33" href="$da/d6c/classPHG4TruthInfoContainer.html#a77051a88c6708ed10465eca6b73c2272" title="PHG4TruthInfoContainer\l::GetPrimaryVertexIndex" alt="" coords="299,2045,485,2089"/>
+<area shape="rect" id="node36" href="$da/d6c/classPHG4TruthInfoContainer.html#acf130130dd475251d67c0f04c0e9cc49" title="PHG4TruthInfoContainer\l::GetPrimaryVtx" alt="" coords="299,2113,485,2157"/>
+<area shape="rect" id="node37" href="$d2/db8/classSvtxTrack.html#a7822a738a27a288ddd66b3b6d4c4bc44" title="SvtxTrack::identify" alt="" coords="319,2181,465,2209"/>
+<area shape="rect" id="node38" href="$d9/d91/classPHG4TrackFastSim.html#a3f46fbdb2a8481d56c21fb2f06d42395" title="PHG4TrackFastSim::MakeSvtx\lTrack" alt="" coords="281,883,503,927"/>
+<area shape="rect" id="node45" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="661,1135,707,1163"/>
+<area shape="rect" id="node46" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="596,1239,772,1267"/>
+<area shape="rect" id="node47" href="$d1/d35/classPHGenFit_1_1Fitter.html#a0ae094389cc773308a3cf9ca98d60bdb" title="PHGenFit::Fitter::process\lTrack" alt="" coords="299,443,485,487"/>
+<area shape="rect" id="node48" href="$d9/d91/classPHG4TrackFastSim.html#aaf5c166b63822e4eb712f93328186293" title="PHG4TrackFastSim::Pseudo\lPatternRecognition" alt="" coords="290,1241,494,1285"/>
+<area shape="rect" id="node49" href="$d9/d91/classPHG4TrackFastSim.html#af917f99af0ecdb6f65a242e07f439db7" title="PHG4TrackFastSim::Vertex\lMeasurement" alt="" coords="293,1071,491,1115"/>
+<area shape="rect" id="node50" href="$d5/dbe/EIC-IR1-XX-v00_8C.html#a888f39f7254b5b59976d577091d79a4e" title="vtx" alt="" coords="663,1187,705,1215"/>
+<area shape="rect" id="node4" href="$d6/d8a/classgenfit_1_1Track.html#a7e61ada0d84db561ede923db92c4ab01" title="Insert TrackPoint BEFORE TrackPoint with position id, if id &gt;= 0." alt="" coords="591,1361,777,1389"/>
+<area shape="rect" id="node6" href="$db/dd7/classSvtxVertexMap.html#a780daa21ddd8373886046e3953280740" title="legacy interface. Add vertex to container. Note the container does not take ownership" alt="" coords="599,1413,769,1457"/>
+<area shape="rect" id="node8" href="$d1/d19/classgenfit_1_1GFRaveVertexFactory.html#a8ead163cdca2540b605aed3419290e50" title="genfit::GFRaveVertexFactory\l::clearMap" alt="" coords="577,211,791,255"/>
+<area shape="rect" id="node9" href="$dc/d22/namespacegenfit.html#ac3030446efb56b3ea060ba26f28b6fd6" title="genfit::RaveToGFVertices" alt="" coords="589,107,779,135"/>
+<area shape="rect" id="node10" href="$dc/d22/namespacegenfit.html#a020e8ea2c49e8e9610cb3b2ded0fdb98" title="genfit::GFTracksToTracks" alt="" coords="591,159,777,187"/>
+<area shape="rect" id="node11" href="$d8/db3/classgenfit_1_1Exception.html#a5cb44accc5d69d5742ed883a2d4ff88a" title="Standard error message handling for exceptions. use like &quot;std::cerr &lt;&lt; e.what();&quot;." alt="" coords="856,540,1035,568"/>
+<area shape="rect" id="node20" href="$d6/d8a/classgenfit_1_1Track.html#a402b35300e81a48c7f0b9eb082b1cf24" title="Get cardinal track representation." alt="" coords="1093,592,1311,620"/>
+<area shape="rect" id="node22" href="$d6/d8a/classgenfit_1_1Track.html#ad8961b1ff4809ccde5f6f100ffbccb9d" title="genfit::Track::getPointWith\lFitterInfo" alt="" coords="845,271,1045,315"/>
+<area shape="rect" id="node23" href="$d8/db3/classgenfit_1_1Exception.html#a13619975a1e1be5c1bd504b254e01f7a" title="Set fatal flag." alt="" coords="873,5,1017,49"/>
+<area shape="rect" id="node24" href="$db/d40/classgenfit_1_1TrackPoint.html#ae8b3e743fb436dd6689e0dad4c35ffd9" title="Get fitterInfo for rep. Per default, use cardinal rep." alt="" coords="876,695,1015,739"/>
+<area shape="rect" id="node25" href="$d9/d8c/classgenfit_1_1AbsFitterInfo.html#a985d0203f46dfbd5dc253bb03b21d76f" title="genfit::AbsFitterInfo\l::getFittedState" alt="" coords="868,73,1023,117"/>
+<area shape="rect" id="node30" href="$de/dd5/classgenfit_1_1StateOnPlane.html#a14f25e4575846dcb14bd91ddb2a534d2" title="genfit::StateOnPlane\l::getRep" alt="" coords="865,951,1026,995"/>
+<area shape="rect" id="node31" href="$d1/d25/classgenfit_1_1AbsTrackRep.html#ae6f4c4eeb3e4fbadcc930f53e2ca4ad7" title="Translates MeasuredStateOnPlane into 3D position, momentum and 6x6 covariance." alt="" coords="606,1067,762,1111"/>
+<area shape="rect" id="node34" href="$da/d6c/classPHG4TruthInfoContainer.html#a53587ae22361008bcee4c51cc1d8d242" title="PHG4TruthInfoContainer\l::GetPrimaryVtxRange" alt="" coords="591,2012,777,2056"/>
+<area shape="rect" id="node35" href="$da/d6c/classPHG4TruthInfoContainer.html#a434c7528ce4a7f089bb4aaeb613af2ff" title="PHG4TruthInfoContainer\l::isEmbededVtx" alt="" coords="591,2080,777,2124"/>
+<area shape="rect" id="node39" href="$d2/db8/classSvtxTrack.html#ab50b9d5324bbf26e3ad995b83d969405" title="SvtxTrack::begin_states" alt="" coords="593,963,775,991"/>
+<area shape="rect" id="node40" href="$d7/dd5/classPHGenFit_1_1Track.html#a16bf468dcc101f90e7e220aed9ba39d0" title="PHGenFit::Track::extrapolate\lToCylinder" alt="" coords="577,691,791,735"/>
+<area shape="rect" id="node41" href="$d7/dd5/classPHGenFit_1_1Track.html#a6f76c826b833ece6e3ebc05ef3449da6" title="PHGenFit::Track::extrapolate\lToLine" alt="" coords="577,623,791,667"/>
+<area shape="rect" id="node42" href="$d7/dd5/classPHGenFit_1_1Track.html#a3214ff547c5fd73c0868cc6c4d98eba4" title="PHGenFit::Track::extrapolate\lToPlane" alt="" coords="577,759,791,803"/>
+<area shape="rect" id="node43" href="$d2/d74/classgenfit_1_1MeasuredStateOnPlane.html#a55e9082a5f1a51acf5123e6c87c1f513" title="genfit::MeasuredStateOnPlane\l::get6DCov" alt="" coords="571,895,797,939"/>
+<area shape="rect" id="node44" href="$d7/dd5/classPHGenFit_1_1Track.html#a2e02a0f394b0cfe0057f2472c095f45b" title="PHGenFit::Track::get\l_charge" alt="" coords="605,827,763,871"/>
+</map>

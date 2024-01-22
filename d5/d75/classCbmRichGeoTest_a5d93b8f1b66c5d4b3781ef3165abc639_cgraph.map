@@ -1,0 +1,21 @@
+<map id="CbmRichGeoTest::Finish" name="CbmRichGeoTest::Finish">
+<area shape="rect" id="node2" href="$d5/d75/classCbmRichGeoTest.html#a9722e98905bc23a11dfab95ae0baa7bb" title="Draw histograms." alt="" coords="246,461,453,489"/>
+<area shape="rect" id="node19" href="$d5/d75/classCbmRichGeoTest.html#a5632c18f863e7849f59cca64ae1f0e36" title="CbmRichGeoTest::SaveCanvas\lToImage" alt="" coords="236,639,463,683"/>
+<area shape="rect" id="node3" href="$d5/d75/classCbmRichGeoTest.html#a51adb9d45f73f4dbb0dea7806004f9ee" title="Create property tree an store different statistics there." alt="" coords="523,264,762,292"/>
+<area shape="rect" id="node4" href="$d5/d75/classCbmRichGeoTest.html#a2c3a6bab841f183f0e04ccc30ee2008a" title="Create histogram: RICH detector acceptance vs. minimum required number of hits in ring..." alt="" coords="537,316,749,360"/>
+<area shape="rect" id="node5" href="$d5/d75/classCbmRichGeoTest.html#a4f297e0afd8de32e2a56911cbaad5739" title="CbmRichGeoTest::CreateCanvas" alt="" coords="823,612,1062,640"/>
+<area shape="rect" id="node7" href="$d5/d75/classCbmRichGeoTest.html#a4870df1c7e92f4829dae013d95affb1c" title="Creates two histogram. First is mean value vs. x axis, errors represents RMS. Second is RMS value vs..." alt="" coords="839,732,1046,776"/>
+<area shape="rect" id="node8" href="$d5/d75/classCbmRichGeoTest.html#acd4c8e873b568dbc5a953845e93003a9" title="Divide two histograms and create third one." alt="" coords="540,487,745,515"/>
+<area shape="rect" id="node9" href="$d5/d75/classCbmRichGeoTest.html#a07f93d794c1dec2ab007bdd4d818b44f" title="CbmRichGeoTest::DivideH2" alt="" coords="540,539,745,567"/>
+<area shape="rect" id="node10" href="$d2/dc4/CbmDrawHist_8h.html#a1118f00141bbd2153810d4eff8fba6c0" title="DrawH1" alt="" coords="1111,299,1185,327"/>
+<area shape="rect" id="node11" href="$d5/d75/classCbmRichGeoTest.html#a6ddf9e9f92bb6915e522d51d19351e12" title="CbmRichGeoTest::DrawH1andFit" alt="" coords="823,436,1063,464"/>
+<area shape="rect" id="node12" href="$d2/dc4/CbmDrawHist_8h.html#a75ee1eb8d94447c29570960f3941d7e6" title="DrawH2" alt="" coords="905,384,980,412"/>
+<area shape="rect" id="node13" href="$d5/d75/classCbmRichGeoTest.html#a5298982fb23656d383e18d9dee7ab220" title="CbmRichGeoTest::DrawH2MeanRms" alt="" coords="511,695,775,723"/>
+<area shape="rect" id="node14" href="$d5/d75/classCbmRichGeoTest.html#a4c9bb08a7c7f7c811f3ffddfedb3093c" title="CbmRichGeoTest::DrawH3" alt="" coords="544,591,741,619"/>
+<area shape="rect" id="node15" href="$d5/d75/classCbmRichGeoTest.html#a6cfd170d7edf9ecc5fbb03d611a83150" title="CbmRichGeoTest::FitH1One\lOverX" alt="" coords="539,92,746,136"/>
+<area shape="rect" id="node18" href="$d2/dc4/CbmDrawHist_8h.html#a6547556dd66a8f48bb57935a591312ba" title="SetDefaultDrawStyle" alt="" coords="562,212,723,240"/>
+<area shape="rect" id="node6" href="$d4/dad/eicroot_8C.html#a9392a90f93e785e9ed60558fddd33359" title="width" alt="" coords="1119,612,1177,640"/>
+<area shape="rect" id="node16" href="$de/d27/namespacelit.html#af6a03673b1305866db7f29c94ac560a1" title="lit::NumberToString" alt="" coords="867,5,1019,33"/>
+<area shape="rect" id="node17" href="$db/d5d/test__style_8C.html#a5dcd1d1376a077de14f84bb875207fb2" title="leg" alt="" coords="922,57,963,85"/>
+<area shape="rect" id="node20" href="$de/d27/namespacelit.html#a7582c057ef6b8cb47fd9518c43e2b611" title="lit::SaveCanvasAsImage" alt="" coords="551,799,735,827"/>
+</map>

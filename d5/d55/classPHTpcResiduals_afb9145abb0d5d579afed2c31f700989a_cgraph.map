@@ -1,0 +1,51 @@
+<map id="PHTpcResiduals::process_event" name="PHTpcResiduals::process_event">
+<area shape="rect" id="node2" href="$d5/d55/classPHTpcResiduals.html#ac8936c9d7cf8808255c355520b304e95" title="PHTpcResiduals::processTracks" alt="" coords="243,937,475,965"/>
+<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="1134,885,1310,913"/>
+<area shape="rect" id="node4" href="$d7/d8b/classSvtxTrackMap.html#a508e23a620af3b20bfc0be05aa5b4ada" title="SvtxTrackMap::size" alt="" coords="561,937,710,965"/>
+<area shape="rect" id="node5" href="$d5/d55/classPHTpcResiduals.html#a1a311022bc862ca1c429874489d3e557" title="PHTpcResiduals::checkTrack" alt="" coords="529,2073,741,2101"/>
+<area shape="rect" id="node10" href="$d5/d55/classPHTpcResiduals.html#abe1d80fe32c832f457a28c43e8c2d883" title="PHTpcResiduals::processTrack" alt="" coords="523,885,748,913"/>
+<area shape="rect" id="node6" href="$d2/db8/classSvtxTrack.html#a59e8bacd45312ca7868bc090c6fefb06" title="SvtxTrack::begin_cluster_keys" alt="" coords="809,2100,1033,2128"/>
+<area shape="rect" id="node7" href="$d2/db8/classSvtxTrack.html#a73a7625ecced41e34552518eefc13ade" title="SvtxTrack::end_cluster_keys" alt="" coords="815,2048,1026,2076"/>
+<area shape="rect" id="node8" href="$d2/db8/classSvtxTrack.html#af6f03ad537260f2ceef84cf876e22deb" title="SvtxTrack::get_pt" alt="" coords="851,2204,990,2232"/>
+<area shape="rect" id="node9" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="1454,2101,1601,2129"/>
+<area shape="rect" id="node11" href="$d2/db8/classSvtxTrack.html#aa455c367aed4671a5d34330cad61f7dc" title="SvtxTrack::get_p" alt="" coords="1155,453,1289,481"/>
+<area shape="rect" id="node12" href="$d2/db8/classSvtxTrack.html#af2317becf2120fcad5cefaa61a01407e" title="SvtxTrack::get_x" alt="" coords="1156,505,1288,533"/>
+<area shape="rect" id="node13" href="$d2/db8/classSvtxTrack.html#ac4bf3bd4ecaeff1ca06c48942a8b9236" title="SvtxTrack::get_y" alt="" coords="1156,5,1288,33"/>
+<area shape="rect" id="node14" href="$d2/db8/classSvtxTrack.html#aaaa435dd9d41dbe836f0608712ca12db" title="SvtxTrack::get_z" alt="" coords="1157,57,1287,85"/>
+<area shape="rect" id="node15" href="$d5/d55/classPHTpcResiduals.html#a536b22c82bb35af366cd722edd53d198" title="PHTpcResiduals::makeTrack\lParams" alt="" coords="815,273,1026,317"/>
+<area shape="rect" id="node22" href="$d0/d2c/classTrkrClusterContainer.html#a6f26d0655c81919f5539934e0d0fc438" title="find cluster matching given key" alt="" coords="839,699,1002,743"/>
+<area shape="rect" id="node23" href="$d5/d55/classPHTpcResiduals.html#a8ecef5e1c5853535319c91be85f7dc3e" title="PHTpcResiduals::makeSourceLink" alt="" coords="796,1885,1045,1913"/>
+<area shape="rect" id="node30" href="$d5/d55/classPHTpcResiduals.html#a95eb46919e336189c461f7bb0369beb9" title="Propagates the silicon+MM track fit to the surface on which an available source link in the TPC exist..." alt="" coords="817,1057,1024,1101"/>
+<area shape="rect" id="node33" href="$d5/d55/classPHTpcResiduals.html#ad8b942b2967e6fad1da11a61abe609b9" title="fill track state from bound track parameters" alt="" coords="821,1364,1020,1408"/>
+<area shape="rect" id="node46" href="$d5/d55/classPHTpcResiduals.html#a82738e0e33ceac01cb77581d9dfc10ec" title="PHTpcResiduals::calculate\lTpcResiduals" alt="" coords="821,767,1020,811"/>
+<area shape="rect" id="node16" href="$d2/db8/classSvtxTrack.html#a64c663281c8cffae98d2b048f5a986ad" title="SvtxTrack::get_acts\l_covariance" alt="" coords="1146,109,1298,153"/>
+<area shape="rect" id="node17" href="$d2/db8/classSvtxTrack.html#ab6a08270648338e6acee123ddbeea833" title="SvtxTrack::get_charge" alt="" coords="1137,177,1307,205"/>
+<area shape="rect" id="node18" href="$d2/db8/classSvtxTrack.html#a79f3af39b753ecee85dc1d4e3db08cdd" title="SvtxTrack::get_px" alt="" coords="1151,229,1293,257"/>
+<area shape="rect" id="node19" href="$d2/db8/classSvtxTrack.html#a5a9164fc95756dd9780755a55327fec5" title="SvtxTrack::get_py" alt="" coords="1151,281,1293,309"/>
+<area shape="rect" id="node20" href="$d2/db8/classSvtxTrack.html#a826b1ab6d05d45e5148c4645befe4def" title="SvtxTrack::get_pz" alt="" coords="1152,333,1292,361"/>
+<area shape="rect" id="node21" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a55c39f48968d9e4b4b4fb12b227cea22" title="Access the three&#45;position components in a four&#45;position vector." alt="" coords="1145,385,1299,429"/>
+<area shape="rect" id="node24" href="$d6/dfa/classTrkrCluster.html#ac0c392971fc86ab09cfe1eed6cbe6979" title="TrkrCluster::getActsLocal\lError" alt="" coords="1127,1877,1317,1921"/>
+<area shape="rect" id="node25" href="$d6/dfa/classTrkrCluster.html#ab18c56f7c1aa174203dcf8fbf0141279" title="TrkrCluster::getClusKey" alt="" coords="1132,1653,1312,1681"/>
+<area shape="rect" id="node26" href="$d6/dfa/classTrkrCluster.html#acc835716d1c4f76e9c0da8e5a79e25c1" title="TrkrCluster::getLocalX" alt="" coords="1137,2049,1307,2077"/>
+<area shape="rect" id="node27" href="$d6/dfa/classTrkrCluster.html#a05e4879520abe27bc6028bc05fc94162" title="TrkrCluster::getLocalY" alt="" coords="1137,1945,1307,1973"/>
+<area shape="rect" id="node28" href="$d6/dfa/classTrkrCluster.html#a924282f2bc8a157638a88c551e6e0cba" title="TrkrCluster::getSubSurfKey" alt="" coords="1120,1997,1324,2025"/>
+<area shape="rect" id="node29" href="$d5/d55/classPHTpcResiduals.html#ab68ae648b1538aef88773f13392d76e0" title="PHTpcResiduals::getSurface" alt="" coords="1117,1825,1327,1853"/>
+<area shape="rect" id="node31" href="$da/d7b/namespaceActs.html#a9b4dee934b0b193d57604b19bc8cd527" title="get default debug output logger" alt="" coords="1133,1005,1311,1033"/>
+<area shape="rect" id="node32" href="$d2/dcb/classActsExamples_1_1TrkrClusterSourceLink.html#ade1fc9419aa94201928be6c8017ca917" title="Needs referenceSurface function to satisfy SourceLinkConcept." alt="" coords="1112,1057,1332,1101"/>
+<area shape="rect" id="node34" href="$d2/db8/classSvtxTrack.html#a27fefca208e909b94ee88ffdfa2092cd" title="SvtxTrack::insert_state" alt="" coords="1135,1705,1309,1733"/>
+<area shape="rect" id="node35" href="$d5/dbb/classActs_1_1SingleBoundTrackParameters.html#a2b98cecaa5f095c40a16b2be854bfaf9" title="Momentum three&#45;vector." alt="" coords="1399,1125,1656,1169"/>
+<area shape="rect" id="node36" href="$d5/dbb/classActs_1_1SingleBoundTrackParameters.html#a4b2ca7926011705fb822cf5a69b0e17b" title="Acts::SingleBoundTrackParameters\l::position" alt="" coords="1093,937,1351,981"/>
+<area shape="rect" id="node37" href="$df/db5/classActsTransformations.html#aa5778bfb36c44051fa74d1b9d15b99b4" title="Same as above, but rotate from Acts basis to global (x,y,z,px,py,pz)" alt="" coords="1119,1125,1325,1169"/>
+<area shape="rect" id="node39" href="$d0/d6b/classSvtxTrackState__v1.html#aa5e1bbd68fff80bb6350b68a97607f19" title="SvtxTrackState_v1::\lset_error" alt="" coords="1145,1757,1299,1801"/>
+<area shape="rect" id="node40" href="$d0/d6b/classSvtxTrackState__v1.html#a2fb236124b8938048d8c8ac2c0374ae2" title="SvtxTrackState_v1::\lset_px" alt="" coords="1145,1193,1299,1237"/>
+<area shape="rect" id="node41" href="$d0/d6b/classSvtxTrackState__v1.html#aaba474bc96bea186db3206abd31364f2" title="SvtxTrackState_v1::\lset_py" alt="" coords="1145,1261,1299,1305"/>
+<area shape="rect" id="node42" href="$d0/d6b/classSvtxTrackState__v1.html#a9eceace7b6c45836dd359d1f637c6501" title="SvtxTrackState_v1::\lset_pz" alt="" coords="1145,1329,1299,1373"/>
+<area shape="rect" id="node43" href="$d0/d6b/classSvtxTrackState__v1.html#a94d2e964aa9006ee4ab56aeaf5da0204" title="SvtxTrackState_v1::\lset_x" alt="" coords="1145,1397,1299,1441"/>
+<area shape="rect" id="node44" href="$d0/d6b/classSvtxTrackState__v1.html#a2b2ebaa0d2adff3b6b5720a66d6b77cb" title="SvtxTrackState_v1::\lset_y" alt="" coords="1145,1465,1299,1509"/>
+<area shape="rect" id="node45" href="$d0/d6b/classSvtxTrackState__v1.html#a60fd9729908438efad921cc0e9f0b11b" title="SvtxTrackState_v1::\lset_z" alt="" coords="1145,1585,1299,1629"/>
+<area shape="rect" id="node38" href="$d5/dbb/classActs_1_1SingleBoundTrackParameters.html#acfcdb25cfabf88e03315e569e6d4ece4" title="Optional covariance matrix." alt="" coords="1399,889,1656,933"/>
+<area shape="rect" id="node47" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="1167,609,1277,637"/>
+<area shape="rect" id="node48" href="$d5/dbb/classActs_1_1SingleBoundTrackParameters.html#a12ccf0b3c79ad21b0c2ac0be0adc0ed8" title="Absolute momentum." alt="" coords="1093,661,1351,705"/>
+<area shape="rect" id="node49" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="1200,781,1244,809"/>
+<area shape="rect" id="node50" href="$d5/d55/classPHTpcResiduals.html#a1f08994c59a9f479be45e1bdf1d031ce" title="Gets distortion cell for identifying bins in TPC." alt="" coords="1130,557,1314,585"/>
+</map>

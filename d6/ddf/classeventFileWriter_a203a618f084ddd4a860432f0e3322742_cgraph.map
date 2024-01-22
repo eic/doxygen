@@ -1,0 +1,18 @@
+<map id="eventFileWriter::writeInit" name="eventFileWriter::writeInit">
+<area shape="rect" id="node2" href="$d0/d94/classinputParameters.html#ab2a6df29606b51d6246f14da40108e44" title="returns Lorentz gamma factor of beam 1 in collider frame" alt="" coords="269,5,465,49"/>
+<area shape="rect" id="node4" href="$d0/d94/classinputParameters.html#a1f1b4446bb11b8befb1b3931c15885a7" title="return state of Q2 range" alt="" coords="269,73,464,117"/>
+<area shape="rect" id="node5" href="$d0/d94/classinputParameters.html#a720a87d6fcc0e609e32b3959245b19bb" title="returns the impulseVM value" alt="" coords="259,141,475,169"/>
+<area shape="rect" id="node6" href="$d0/d94/classinputParameters.html#a3ad5f2b30aee37998edf6c21a9880ebd" title="return maximum gamma virtuality" alt="" coords="245,193,489,221"/>
+<area shape="rect" id="node7" href="$d0/d94/classinputParameters.html#a14a4f17bc4d2ffda9ee3ee3f723036da" title="return minimum gamma virtuality" alt="" coords="247,245,487,273"/>
+<area shape="rect" id="node8" href="$d0/d94/classinputParameters.html#a1d828d5268acd4771a2f0601ecba5c20" title="return the number of Egamma bins for eSTARlight lookup" alt="" coords="242,297,491,325"/>
+<area shape="rect" id="node9" href="$d0/d94/classinputParameters.html#a88f6a3b57e8356cd002f3f592e693369" title="returns total number of events to generate" alt="" coords="257,349,476,377"/>
+<area shape="rect" id="node10" href="$d0/d94/classinputParameters.html#af308897c2871f74932fdfbb190e37af1" title="return number of gamma q2 bins" alt="" coords="254,401,479,445"/>
+<area shape="rect" id="node11" href="$d0/d94/classinputParameters.html#abc9b8f1ced9f07b15ba857d08a218304" title="returns PDG particle ID of produced particle" alt="" coords="249,469,484,497"/>
+<area shape="rect" id="node12" href="$d0/d94/classinputParameters.html#ae3286f42046ff3738e2bdff84fd62504" title="returns production mode" alt="" coords="241,521,492,549"/>
+<area shape="rect" id="node13" href="$d0/d94/classinputParameters.html#afa9425bbdb86a0a8ea4160502514b4c7" title="returns the quantum glauber value" alt="" coords="265,573,468,617"/>
+<area shape="rect" id="node14" href="$d0/d94/classinputParameters.html#ae1efbe6f523d29cd185815be5a70ec1e" title="returns seed for random number generator" alt="" coords="253,641,481,669"/>
+<area shape="rect" id="node15" href="$d0/d94/classinputParameters.html#ae7da207f24c9301fea8e7a9923ade6c8" title="returns atomic mass number of beam particle 2" alt="" coords="251,693,483,721"/>
+<area shape="rect" id="node16" href="$d0/d94/classinputParameters.html#aa624fe832c21dde00682fe3239310893" title="returns Lorentz gamma factor of beam 2 in collider frame" alt="" coords="256,745,477,789"/>
+<area shape="rect" id="node17" href="$d0/d94/classinputParameters.html#abf466af215afbe73200576105e645b05" title="returns atomic number of beam particle 2" alt="" coords="251,813,482,841"/>
+<area shape="rect" id="node3" href="$d5/d4e/classparameter.html#ad05f8343240b7ef936d426fb0ce4854a" title="parameter::value" alt="" coords="540,440,679,468"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="GetElementSide" name="GetElementSide">
+<area shape="rect" id="node2" href="$d1/dbd/egmain_8cpp.html#a2e07fc499395790fb75d916676184832" title="ConvertEgTypeToMeshType" alt="" coords="1039,162,1243,190"/>
+<area shape="rect" id="node4" href="$d7/d84/egmesh_8h.html#a07accc2214afbc82db03d18c05b73628" title="CreateBoundaryLayer" alt="" coords="522,108,691,136"/>
+<area shape="rect" id="node6" href="$d7/d84/egmesh_8h.html#acf0a0ccd925b5cf18fbb32e67b0aa313" title="CreateBoundaryLayerDivide" alt="" coords="501,160,712,188"/>
+<area shape="rect" id="node7" href="$d7/d84/egmesh_8h.html#a5c74ddc1671a6a60502a58fa16b517e0" title="CreateKnotsExtruded" alt="" coords="524,212,689,240"/>
+<area shape="rect" id="node8" href="$d7/d84/egmesh_8h.html#a81611ba79f369737e2bb3766c8eaf5f6" title="ElementsToBoundaryConditions" alt="" coords="184,730,420,758"/>
+<area shape="rect" id="node17" href="$d7/d84/egmesh_8h.html#a5a59ec71d1dd8dfd9b7cacc96ef917b6" title="ElementsToTriangles" alt="" coords="527,264,687,292"/>
+<area shape="rect" id="node18" href="$d7/d84/egmesh_8h.html#a94d856ce3c3423f8ea186554e17e9f7a" title="FindBoundaryBoundary" alt="" coords="212,364,392,392"/>
+<area shape="rect" id="node20" href="$d6/d20/egmesh_8cpp.html#a8e954197a1151cc98afb88eb976444e2" title="FindEdges" alt="" coords="257,1090,347,1118"/>
+<area shape="rect" id="node21" href="$d7/d84/egmesh_8h.html#a1fba54575eb2ebab763729440bc5212e" title="FindNewBoundaries" alt="" coords="225,416,379,444"/>
+<area shape="rect" id="node22" href="$d7/d84/egmesh_8h.html#a3a1a85a8ed439c2b5ecd7db71daa2f0f" title="FindParentSide" alt="" coords="241,1142,363,1170"/>
+<area shape="rect" id="node23" href="$d2/d83/egconvert_8cpp.html#ac8ccaf6dc529d6acda7c2352fccde441" title="FindPointParents" alt="" coords="540,935,673,963"/>
+<area shape="rect" id="node26" href="$d8/dbd/egconvert_8h.html#aa4c64ee63fcf7ac26154b53d04f81a2e" title="LoadGidInput" alt="" coords="836,990,948,1018"/>
+<area shape="rect" id="node27" href="$d8/dbd/egconvert_8h.html#a642110ebda5e6d65495bccad52deefb4" title="LoadTriangleInput" alt="" coords="821,1042,963,1070"/>
+<area shape="rect" id="node28" href="$d7/d84/egmesh_8h.html#a99189bd69fb7c3ac7f28cc2aee2a369f" title="MergeBoundaries" alt="" coords="232,468,372,496"/>
+<area shape="rect" id="node30" href="$d7/d84/egmesh_8h.html#a73222f8d576541f37887dd26f9b55fec" title="RemoveLowerDimensionalBoundaries" alt="" coords="468,420,745,448"/>
+<area shape="rect" id="node31" href="$d7/d84/egmesh_8h.html#a58030181e8f401d3b1d17c32b6e65655" title="RenumberBoundaryTypes" alt="" coords="205,676,399,704"/>
+<area shape="rect" id="node32" href="$d7/d84/egmesh_8h.html#ad31186fdeb9d6c62f8def21ebe12e568" title="SeparateCartesianBoundaries" alt="" coords="190,1194,414,1222"/>
+<area shape="rect" id="node33" href="$d6/d20/egmesh_8cpp.html#a884d4b909aed9ee7095984021f6577e9" title="SeparateMainaxisBoundaries" alt="" coords="193,260,411,288"/>
+<area shape="rect" id="node34" href="$d7/d84/egmesh_8h.html#a2b8200b902b2fff888e5b7ae510e341e" title="SetConnectedBoundary" alt="" coords="211,572,393,600"/>
+<area shape="rect" id="node35" href="$d7/d84/egmesh_8h.html#a8023422ebfcf5bc2f8b967c098116e11" title="SetDiscontinuousBoundary" alt="" coords="200,624,404,652"/>
+<area shape="rect" id="node3" href="$d9/db8/egmain_8h.html#a7618a55eae6dc47974f11436df9dc4ae" title="eg_transfermesh" alt="" coords="1291,343,1425,371"/>
+<area shape="rect" id="node5" href="$d1/dbd/egmain_8cpp.html#a9b7ab03133e789e8225467875ab029d5" title="ManipulateMeshDefinition" alt="" coords="793,343,991,371"/>
+<area shape="rect" id="node9" href="$d8/dbd/egconvert_8h.html#a1303d9edf7d13c9e98ae04a1484b815e" title="LoadFidapInput" alt="" coords="544,626,669,654"/>
+<area shape="rect" id="node11" href="$d8/dbd/egconvert_8h.html#a542618b93b1f7eb22ad414d7bf90cb7a" title="LoadFieldviewInput" alt="" coords="816,834,968,862"/>
+<area shape="rect" id="node12" href="$d8/dbd/egconvert_8h.html#a1781c28dc0c1ce71d6d36cceb8c9ede1" title="LoadComsolMesh" alt="" coords="823,730,961,758"/>
+<area shape="rect" id="node13" href="$d2/d83/egconvert_8cpp.html#aa927f38dea00c5b68718977b54dc1df5" title="LoadGmshInput1" alt="" coords="539,730,675,758"/>
+<area shape="rect" id="node15" href="$d2/d83/egconvert_8cpp.html#aa61b989b5bba8cca9ed2008aad5cc61a" title="LoadGmshInput2" alt="" coords="539,678,675,706"/>
+<area shape="rect" id="node16" href="$d8/dbd/egconvert_8h.html#a01f983f84fee536048c5e46069f4913c" title="LoadUniversalMesh" alt="" coords="816,782,968,810"/>
+<area shape="rect" id="node10" href="$d1/dbd/egmain_8cpp.html#a20d85915b5efd461908ff01afa22ca96" title="ImportMeshDefinition" alt="" coords="1057,807,1224,835"/>
+<area shape="rect" id="node14" href="$d8/dbd/egconvert_8h.html#a8f5c7ecb3d0c951c7103b4d6430920d4" title="LoadGmshInput" alt="" coords="827,678,957,706"/>
+<area shape="rect" id="node19" href="$d7/d84/egmesh_8h.html#ac8504baf1f533515cb121b1eed1cef05" title="SideAndBulkBoundaries" alt="" coords="515,316,699,344"/>
+<area shape="rect" id="node24" href="$d8/dbd/egconvert_8h.html#a5f6c9b4f17b7f89e0ab07ee79c82dbc4" title="LoadAbaqusInput" alt="" coords="822,886,962,914"/>
+<area shape="rect" id="node25" href="$d8/dbd/egconvert_8h.html#a498c26c1d1936f703c719582849fd7ba" title="LoadAnsysInput" alt="" coords="827,938,957,966"/>
+<area shape="rect" id="node29" href="$d7/d84/egmesh_8h.html#a407db29525019d80971a2473189f0606" title="MergeElements" alt="" coords="543,368,670,396"/>
+</map>

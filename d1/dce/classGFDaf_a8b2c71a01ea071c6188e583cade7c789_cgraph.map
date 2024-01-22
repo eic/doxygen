@@ -1,0 +1,16 @@
+<map id="GFDaf::copySmoothing" name="GFDaf::copySmoothing">
+<area shape="rect" id="node2" href="$d6/deb/classGFBookkeeping.html#a0a6866d40b33ae37e0fd8f4fe8ece1dc" title="GFBookkeeping::bookGFDet\lPlanes" alt="" coords="241,5,453,49"/>
+<area shape="rect" id="node3" href="$d6/deb/classGFBookkeeping.html#a7a5b65319033fb8869e2db454b186783" title="GFBookkeeping::bookMatrices" alt="" coords="233,73,460,101"/>
+<area shape="rect" id="node4" href="$d4/d33/classGFTrack.html#a3a5ba8703a51bdc36557b9e391b06a9d" title="get GFBookKeeping object for particular track rep (default is cardinal rep)" alt="" coords="285,125,409,153"/>
+<area shape="rect" id="node5" href="$d4/d33/classGFTrack.html#a2d4439ad22338ef7d5c7351468b2859d" title="Get number of track represenatations." alt="" coords="511,152,681,180"/>
+<area shape="rect" id="node6" href="$d6/deb/classGFBookkeeping.html#af8a7cbf86ee308fc11dc359501a6cedd" title="GFBookkeeping::getDetPlane" alt="" coords="237,229,456,257"/>
+<area shape="rect" id="node7" href="$d4/d33/classGFTrack.html#a736fa5128d9414c62a1e2f19390588d1" title="GFTrack::getHit" alt="" coords="284,281,409,309"/>
+<area shape="rect" id="node8" href="$d6/deb/classGFBookkeeping.html#aeb7d711598daa0b23ea2271a2285ef54" title="GFBookkeeping::getMatrix" alt="" coords="247,333,447,361"/>
+<area shape="rect" id="node9" href="$d6/deb/classGFBookkeeping.html#a8249382041f0c3eb2314afe0b437f2aa" title="GFBookkeeping::getMatrixKeys" alt="" coords="231,385,463,413"/>
+<area shape="rect" id="node10" href="$d0/d62/classGFDafHit.html#a73f6c830ac38200338a3beb61897ed62" title="Get the number of hits in the GFDafHit." alt="" coords="261,437,432,465"/>
+<area shape="rect" id="node11" href="$d4/d33/classGFTrack.html#ad9fe02d4c3331d819cd9fd08d976dab3" title="GFTrack::getNumHits" alt="" coords="265,489,429,517"/>
+<area shape="rect" id="node12" href="$d4/d33/classGFTrack.html#a47b1c90bd5fb51333b11958d94411b6f" title="Accessor for track representations." alt="" coords="263,541,430,569"/>
+<area shape="rect" id="node13" href="$d7/d82/classGFAbsTrackRep.html#a021e3a30287d4bbe1b6ce930b6bfe0e4" title="See if the track representation has auxillary information stored." alt="" coords="243,593,451,621"/>
+<area shape="rect" id="node14" href="$d6/deb/classGFBookkeeping.html#ab801cf5e4dc82c01f6a8d410eb22ebe8" title="GFBookkeeping::setDetPlane" alt="" coords="238,645,455,673"/>
+<area shape="rect" id="node15" href="$d6/deb/classGFBookkeeping.html#aeb093009f0b27a27a01774318067429c" title="GFBookkeeping::setMatrix" alt="" coords="247,697,446,725"/>
+</map>

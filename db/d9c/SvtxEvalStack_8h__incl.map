@@ -1,0 +1,30 @@
+<map id="fun4all_coresoftware/blob/master/simulation/g4simulation/g4eval/SvtxEvalStack.h" name="fun4all_coresoftware/blob/master/simulation/g4simulation/g4eval/SvtxEvalStack.h">
+<area shape="rect" id="node2" href="$d5/d9c/SvtxVertexEval_8h.html" title="SvtxVertexEval.h" alt="" coords="2219,113,2355,141"/>
+<area shape="rect" id="node3" href="$df/d8a/SvtxTrackEval_8h.html" title="SvtxTrackEval.h" alt="" coords="1395,189,1523,217"/>
+<area shape="rect" id="node4" href="$d7/dcd/SvtxClusterEval_8h.html" title="SvtxClusterEval.h" alt="" coords="1281,265,1421,293"/>
+<area shape="rect" id="node9" href="$d8/d00/TrkrDefs_8h.html" title="Namespace with Trkr key types and utility functions." alt="" coords="1293,509,1453,537"/>
+<area shape="rect" id="node5" href="$d7/d98/SvtxHitEval_8h.html" title="SvtxHitEval.h" alt="" coords="940,341,1052,369"/>
+<area shape="rect" id="node16" href="$da/d51/ActsSurfaceMaps_8h.html" title="maps hitsetids to Acts Surfaces" alt="" coords="97,425,317,453"/>
+<area shape="rect" id="node17" href="$d4/d6a/ActsTrackingGeometry_8h.html" title="trackbase/ActsTrackingGeometry.h" alt="" coords="1918,341,2173,369"/>
+<area shape="rect" id="node6" href="$d7/d20/SvtxTruthEval_8h.html" title="SvtxTruthEval.h" alt="" coords="646,425,773,453"/>
+<area shape="rect" id="node7" href="$d8/d89/BaseTruthEval_8h.html" title="BaseTruthEval.h" alt="" coords="425,509,554,537"/>
+<area shape="rect" id="node18" href="$d5/d50/BinnedArray_8hpp.html" title="Acts/Utilities/BinnedArray.hpp" alt="" coords="1934,425,2157,453"/>
+<area shape="rect" id="node23" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="1899,845,2112,873"/>
+<area shape="rect" id="node35" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="2541,669,2728,697"/>
+<area shape="rect" id="node38" href="$dd/d24/TrackingGeometry_8hpp.html" title="Acts/Geometry/TrackingGeometry.hpp" alt="" coords="925,425,1203,453"/>
+<area shape="rect" id="node43" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="2555,417,2757,461"/>
+<area shape="rect" id="node44" href="$d0/d28/CalibrationContext_8hpp.html" title="Acts/Utilities/Calibration\lContext.hpp" alt="" coords="2347,417,2531,461"/>
+<area shape="rect" id="node45" href="$da/da8/BFieldOptions_8hpp.html" title="ActsExamples/Plugins\l/BField/BFieldOptions.hpp" alt="" coords="3122,661,3318,705"/>
+<area shape="rect" id="node19" href="$d2/d0a/BinUtility_8hpp.html" title="Acts/Utilities/BinUtility.hpp" alt="" coords="1870,509,2071,537"/>
+<area shape="rect" id="node20" href="$d3/d5e/BinningData_8hpp.html" title="Acts/Utilities/BinningData.hpp" alt="" coords="1817,585,2042,613"/>
+<area shape="rect" id="node21" href="$de/d09/BinningType_8hpp.html" title="Acts/Utilities/BinningType.hpp" alt="" coords="1187,761,1411,789"/>
+<area shape="rect" id="node25" href="$d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html" title="Acts/Utilities/Helpers.hpp" alt="" coords="1750,669,1943,697"/>
+<area shape="rect" id="node32" href="$d8/db0/ThrowAssert_8hpp.html" title="Acts/Utilities/ThrowAssert.hpp" alt="" coords="2753,669,2978,697"/>
+<area shape="rect" id="node26" href="$d8/dfd/ParameterDefinitions_8hpp.html" title="Acts/Utilities/Parameter\lDefinitions.hpp" alt="" coords="1709,753,1891,797"/>
+<area shape="rect" id="node27" href="$d0/d81/TypeTraits_8hpp.html" title="Acts/Utilities/TypeTraits.hpp" alt="" coords="1915,761,2123,789"/>
+<area shape="rect" id="node39" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="2179,509,2456,537"/>
+<area shape="rect" id="node41" href="$d5/d67/GeometryIdentifier_8hpp.html" title="Acts/Geometry/GeometryIdentifier.hpp" alt="" coords="883,509,1167,537"/>
+<area shape="rect" id="node46" href="$d6/d02/AxisFwd_8hpp.html" title="Acts/Utilities/detail\l/AxisFwd.hpp" alt="" coords="3401,753,3549,797"/>
+<area shape="rect" id="node47" href="$d6/d96/GridFwd_8hpp.html" title="Acts/Utilities/detail\l/GridFwd.hpp" alt="" coords="3573,753,3721,797"/>
+<area shape="rect" id="node48" href="$d5/d78/OptionsFwd_8hpp.html" title="ActsExamples/Utilities\l/OptionsFwd.hpp" alt="" coords="3030,753,3202,797"/>
+</map>

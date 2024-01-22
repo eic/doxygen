@@ -1,0 +1,35 @@
+<map id="FairTask::FinishTasks" name="FairTask::FinishTasks">
+<area shape="rect" id="node2" href="$d2/d9e/classFairTask.html#a6ec7acd9772463226e1f3e2424fa402a" title="FairTask::FinishTask" alt="" coords="212,409,364,437"/>
+<area shape="rect" id="node3" href="$de/da9/classFairRunAna.html#a5032f7536cd6d81c3602b6e6f3c1c5e1" title="FairRunAna::DummyRun" alt="" coords="425,95,610,123"/>
+<area shape="rect" id="node4" href="$de/da9/classFairRunAna.html#a81ea03b6ab3f93bc51a7754d45ff5e81" title="FairRunAna::Run" alt="" coords="725,95,857,123"/>
+<area shape="rect" id="node10" href="$d8/def/classFairMCApplication.html#a43c3923ae3bdacb4193d70f3bab05b0e" title="FairMCApplication::\lFinishRun" alt="" coords="442,251,593,295"/>
+<area shape="rect" id="node18" href="$d4/de2/classEicSmearTask.html#a80850291c94d46ee3a6754237ebf2851" title="EicSmearTask::FinishTask" alt="" coords="421,319,613,347"/>
+<area shape="rect" id="node19" href="$dc/de8/classEicEventAssembler.html#a7fe0af0dd96068c765873b981d4f191b" title="EicEventAssembler::\lFinishTask" alt="" coords="438,371,597,415"/>
+<area shape="rect" id="node20" href="$d4/d04/classFwdTrackFinder.html#a2428681b9d6ebe37075aa4bd5066e5f1" title="FwdTrackFinder::FinishTask" alt="" coords="416,439,619,467"/>
+<area shape="rect" id="node21" href="$d7/d9f/classEicHtcTask.html#afcbc8d9dab600f3bd9901db67b3e51b4" title="EicHtcTask::FinishTask" alt="" coords="432,491,603,519"/>
+<area shape="rect" id="node22" href="$df/de0/classEicFluxMonitorTask.html#a7c56e2ba83c422c5e6a843908bcb04ce" title="EicFluxMonitorTask\l::FinishTask" alt="" coords="442,543,593,587"/>
+<area shape="rect" id="node23" href="$d1/d6f/classEicEventGeneratorTask.html#a1467c1facfdaaa5eee9165a5cbee2d67" title="EicEventGeneratorTask\l::FinishTask" alt="" coords="428,611,607,655"/>
+<area shape="rect" id="node24" href="$d4/dc9/classEicRunAna.html#aaf569c4ca03be20cc9b20a06c57cdd6c" title="EicRunAna::RunCoreFinish" alt="" coords="419,679,616,707"/>
+<area shape="rect" id="node28" href="$de/da9/classFairRunAna.html#a8435368b2fc3e4d6ab2eca2f50dec391" title="FairRunAna::RunMixed" alt="" coords="431,147,603,175"/>
+<area shape="rect" id="node29" href="$de/da9/classFairRunAna.html#a7ae44d08e3caf6d045f8974e05cdbcb5" title="FairRunAna::RunOnLmdFiles" alt="" coords="412,731,623,759"/>
+<area shape="rect" id="node30" href="$de/da9/classFairRunAna.html#a4056f86e2ea7d0f15a44ec014e4a0bec" title="FairRunAna::RunTSBuffers" alt="" coords="419,199,616,227"/>
+<area shape="rect" id="node33" href="$de/da9/classFairRunAna.html#a6bcf817af92dbfd2e0176f462a08b99d" title="FairRunAna::TerminateRun" alt="" coords="418,783,617,811"/>
+<area shape="rect" id="node5" href="$d9/da4/classFairEventManager.html#aab0c816ae46a76529c8138907a071e6e" title="FairEventManager::GotoEvent" alt="" coords="959,43,1183,71"/>
+<area shape="rect" id="node8" href="$d9/da4/classFairEventManager.html#ae263e6fbca434438359f8a7d3eac62a0" title="FairEventManager::NextEvent" alt="" coords="959,95,1182,123"/>
+<area shape="rect" id="node9" href="$d9/da4/classFairEventManager.html#a335380933f9bf3f94814137f4d734745" title="FairEventManager::PrevEvent" alt="" coords="961,147,1181,175"/>
+<area shape="rect" id="node6" href="$d9/d53/classFairEventManagerEditor.html#a3b18ced1913f2bea210158496423917e" title="FairEventManagerEditor\l::SelectEvent" alt="" coords="1253,5,1437,49"/>
+<area shape="rect" id="node7" href="$dc/d09/classFairBoxSetEditor.html#aca84411d7d47959a43ad8cf5ea5a09b1" title="FairBoxSetEditor::TimeWindow" alt="" coords="1231,73,1459,101"/>
+<area shape="rect" id="node11" href="$d8/def/classFairMCApplication.html#a790690ef6a9d79727d4478417719be6b" title="FairMCApplication::\lRunMC" alt="" coords="715,251,866,295"/>
+<area shape="rect" id="node16" href="$d8/def/classFairMCApplication.html#af68192f3647a533c3fd9f59128982d58" title="FairMCApplication::\lStopRun" alt="" coords="715,319,866,363"/>
+<area shape="rect" id="node12" href="$dd/dbc/classFairRunSim.html#a406ff7a01a1686af46c1c85f8ac9a32d" title="FairRunSim::Run" alt="" coords="1005,259,1136,287"/>
+<area shape="rect" id="node13" href="$d3/d61/classEicRunSim.html#ac3dc4b7912f3a0d7c501a203617fe508" title="EicRunSim::RunCoreStart" alt="" coords="1249,259,1441,287"/>
+<area shape="rect" id="node14" href="$d3/d61/classEicRunSim.html#a9f9cc62b3a055d135358f264709c6b7e" title="EicRunSim::Run" alt="" coords="1507,259,1633,287"/>
+<area shape="rect" id="node15" href="$d4/d1f/examples_2physics_2config_82_2simulation_8C.html#ac10f32ae478a1409f743cf125eeea582" title="simulation" alt="" coords="1681,259,1773,287"/>
+<area shape="rect" id="node17" href="$d8/def/classFairMCApplication.html#ac5d6ec0eb105cedb5870d8febe788847" title="FairMCApplication::\lGeneratePrimaries" alt="" coords="995,319,1146,363"/>
+<area shape="rect" id="node25" href="$d4/dc9/classEicRunAna.html#a1e307dd82a86ffe6a742148b388a0bab" title="EicRunAna::Run" alt="" coords="727,679,855,707"/>
+<area shape="rect" id="node26" href="$d8/d11/examples_2physics_2config_82_2digitization_8C.html#afd97e93afdacaf415631892fe39fdf2c" title="digitization" alt="" coords="1023,652,1119,680"/>
+<area shape="rect" id="node27" href="$de/d0b/examples_2physics_2config_82_2reconstruction_8C.html#a3d26f5f344cf2281e72b22d404fd8c51" title="reconstruction" alt="" coords="1011,704,1130,732"/>
+<area shape="rect" id="node31" href="$de/da9/classFairRunAna.html#a9751fc3d4f10d315c3675f5f5d0f8242" title="FairRunAna::RunOneEvent" alt="" coords="691,199,891,227"/>
+<area shape="rect" id="node32" href="$d8/da7/classFairAnaSelector.html#a863b9b6d4105a39603090a419d3de62d" title="FairAnaSelector::Process" alt="" coords="977,199,1164,227"/>
+<area shape="rect" id="node34" href="$d8/da7/classFairAnaSelector.html#a3ef9ecefc336c93787e743e36ede3f9e" title="FairAnaSelector::SlaveTerminate" alt="" coords="671,783,911,811"/>
+</map>

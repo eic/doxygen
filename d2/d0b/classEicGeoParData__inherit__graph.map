@@ -1,0 +1,21 @@
+<map id="EicGeoParData" name="EicGeoParData">
+<area shape="rect" id="node3" href="$d5/da5/classBeamPipeGeoParData.html" title="BeamPipeGeoParData" alt="" coords="305,31,473,59"/>
+<area shape="rect" id="node4" href="$d0/d2c/classCalorimeterGeoParData.html" title="CalorimeterGeoParData" alt="" coords="299,83,479,111"/>
+<area shape="rect" id="node11" href="$d4/dea/classGemGeoParData.html" title="GemGeoParData" alt="" coords="322,135,455,163"/>
+<area shape="rect" id="node13" href="$d5/de8/classLqstGeoParData.html" title="LqstGeoParData" alt="" coords="324,187,453,215"/>
+<area shape="rect" id="node14" href="$de/d86/classMapsGeoParData.html" title="MapsGeoParData" alt="" coords="321,239,457,267"/>
+<area shape="rect" id="node18" href="$da/d4a/classMuMegasGeoParData.html" title="MuMegasGeoParData" alt="" coords="306,291,471,319"/>
+<area shape="rect" id="node20" href="$d8/d41/classTpcGeoParData.html" title="TpcGeoParData" alt="" coords="325,343,452,371"/>
+<area shape="rect" id="node2" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="5,213,81,241"/>
+<area shape="rect" id="node5" href="$df/d47/classBarrelGeoParData.html" title="BarrelGeoParData" alt="" coords="561,17,703,45"/>
+<area shape="rect" id="node7" href="$da/d56/classEndcapGeoParData.html" title="EndcapGeoParData" alt="" coords="557,83,707,111"/>
+<area shape="rect" id="node6" href="$d1/db4/classCemcGeoParData.html" title="CemcGeoParData" alt="" coords="800,5,939,33"/>
+<area shape="rect" id="node8" href="$d2/d5f/classBemcGeoParData.html" title="BemcGeoParData" alt="" coords="800,57,939,85"/>
+<area shape="rect" id="node9" href="$de/d25/classFemcGeoParData.html" title="FemcGeoParData" alt="" coords="801,109,938,137"/>
+<area shape="rect" id="node10" href="$de/d18/classHcalGeoParData.html" title="HcalGeoParData" alt="" coords="804,161,935,189"/>
+<area shape="rect" id="node12" href="$d6/d68/classEicRootGemSubsystem.html" title="EicRootGemSubsystem" alt="" coords="543,135,721,163"/>
+<area shape="rect" id="node15" href="$d7/d90/classFstGeoParData.html" title="FstGeoParData" alt="" coords="571,187,693,215"/>
+<area shape="rect" id="node16" href="$d8/d4a/classVstGeoParData.html" title="VstGeoParData" alt="" coords="570,239,694,267"/>
+<area shape="rect" id="node17" href="$d1/d07/classEicRootVstSubsystem.html" title="EicRootVstSubsystem" alt="" coords="785,239,953,267"/>
+<area shape="rect" id="node19" href="$d6/d4c/classEicRootMuMegasSubsystem.html" title="EicRootMuMegasSubsystem" alt="" coords="527,291,737,319"/>
+</map>

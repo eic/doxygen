@@ -1,0 +1,28 @@
+<map id="fun4all_coresoftware/blob/master/offline/packages/trackreco/PHActsTrkFitter.h" name="fun4all_coresoftware/blob/master/offline/packages/trackreco/PHActsTrkFitter.h">
+<area shape="rect" id="node2" href="$d5/dc2/SubsysReco_8h.html" title="fun4all/SubsysReco.h" alt="" coords="41,229,207,257"/>
+<area shape="rect" id="node5" href="$d4/d6a/ActsTrackingGeometry_8h.html" title="trackbase/ActsTrackingGeometry.h" alt="" coords="1659,137,1914,165"/>
+<area shape="rect" id="node7" href="$d5/d50/BinnedArray_8hpp.html" title="Acts/Utilities/BinnedArray.hpp" alt="" coords="877,229,1099,257"/>
+<area shape="rect" id="node9" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="3013,405,3227,433"/>
+<area shape="rect" id="node14" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="460,321,647,349"/>
+<area shape="rect" id="node20" href="$dd/d24/TrackingGeometry_8hpp.html" title="Acts/Geometry/TrackingGeometry.hpp" alt="" coords="1730,229,2009,257"/>
+<area shape="rect" id="node26" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="2084,313,2287,357"/>
+<area shape="rect" id="node27" href="$d0/d28/CalibrationContext_8hpp.html" title="Acts/Utilities/Calibration\lContext.hpp" alt="" coords="1419,221,1603,265"/>
+<area shape="rect" id="node30" href="$d8/d00/TrkrDefs_8h.html" title="Namespace with Trkr key types and utility functions." alt="" coords="1217,321,1377,349"/>
+<area shape="rect" id="node31" href="$da/d51/ActsSurfaceMaps_8h.html" title="maps hitsetids to Acts Surfaces" alt="" coords="1123,229,1343,257"/>
+<area shape="rect" id="node33" href="$df/d90/MeasurementHelpers_8hpp.html" title="Acts/EventData/Measurement\lHelpers.hpp" alt="" coords="3851,313,4075,357"/>
+<area shape="rect" id="node36" href="$df/d18/TrkrClusterFittingAlgorithm_8hpp.html" title="ActsExamples/Fitting\l/TrkrClusterFittingAlgorithm.hpp" alt="" coords="2446,129,2685,173"/>
+<area shape="rect" id="node46" href="$dd/de9/TrkrClusterMultiTrajectory_8hpp.html" title="ActsExamples/EventData\l/TrkrClusterMultiTrajectory.hpp" alt="" coords="3350,129,3578,173"/>
+<area shape="rect" id="node3" href="$d2/de7/Fun4AllBase_8h.html" title="Fun4AllBase.h" alt="" coords="39,321,155,349"/>
+<area shape="rect" id="node28" href="$da/da8/BFieldOptions_8hpp.html" title="ActsExamples/Plugins\l/BField/BFieldOptions.hpp" alt="" coords="3478,313,3674,357"/>
+<area shape="rect" id="node8" href="$d2/d0a/BinUtility_8hpp.html" title="Acts/Utilities/BinUtility.hpp" alt="" coords="823,321,1025,349"/>
+<area shape="rect" id="node21" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="1732,321,2009,349"/>
+<area shape="rect" id="node23" href="$d5/d67/GeometryIdentifier_8hpp.html" title="Acts/Geometry/GeometryIdentifier.hpp" alt="" coords="2691,321,2975,349"/>
+<area shape="rect" id="node34" href="$d7/d77/Measurement_8hpp.html" title="Acts/EventData/Measurement.hpp" alt="" coords="3828,405,4081,433"/>
+<area shape="rect" id="node35" href="$de/d7a/SourceLinkConcept_8hpp.html" title="Acts/EventData/SourceLink\lConcept.hpp" alt="" coords="3933,481,4139,525"/>
+<area shape="rect" id="node40" href="$d2/df6/GainMatrixSmoother_8hpp.html" title="Acts/TrackFitting/GainMatrix\lSmoother.hpp" alt="" coords="641,221,852,265"/>
+<area shape="rect" id="node41" href="$d4/de3/GainMatrixUpdater_8hpp.html" title="Acts/TrackFitting/GainMatrix\lUpdater.hpp" alt="" coords="3349,221,3560,265"/>
+<area shape="rect" id="node42" href="$de/d07/ConstantBField_8hpp.html" title="Acts/MagneticField\l/ConstantBField.hpp" alt="" coords="2135,221,2294,265"/>
+<area shape="rect" id="node43" href="$d5/d5a/InterpolatedBFieldMap_8hpp.html" title="Acts/MagneticField\l/InterpolatedBFieldMap.hpp" alt="" coords="2318,221,2527,265"/>
+<area shape="rect" id="node44" href="$d5/d21/SharedBField_8hpp.html" title="Acts/MagneticField\l/SharedBField.hpp" alt="" coords="3203,313,3351,357"/>
+<area shape="rect" id="node45" href="$dd/d18/EigenStepper_8hpp.html" title="Acts/Propagator/EigenStepper.hpp" alt="" coords="2413,321,2667,349"/>
+</map>

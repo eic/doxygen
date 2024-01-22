@@ -1,0 +1,38 @@
+<map id="SvtxClusterEval::best_cluster_by_nhit" name="SvtxClusterEval::best_cluster_by_nhit">
+<area shape="rect" id="node2" href="$d0/d2c/classTrkrClusterContainer.html#a9b6a31479d24147db018ac23460ac548" title="return all clusters" alt="" coords="234,111,397,155"/>
+<area shape="rect" id="node3" href="$d5/d76/classTrkrHitSetContainer.html#a0e347bd66bf03e9a34651410a79d5cab" title="return all HitSets matching a given detid" alt="" coords="237,179,393,223"/>
+<area shape="rect" id="node4" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="489,5,637,33"/>
+<area shape="rect" id="node5" href="$d1/d1e/classSvtxClusterEval.html#abd7851ec294047271ce26d8824d2af81" title="SvtxClusterEval::gtrackid\l_and_layer_by_nhit" alt="" coords="220,581,411,625"/>
+<area shape="rect" id="node6" href="$d1/d1e/classSvtxClusterEval.html#a9d557168b84ca9a814166d6523bfe2fd" title="SvtxClusterEval::has\l_node_pointers" alt="" coords="482,57,643,101"/>
+<area shape="rect" id="node37" href="$d0/d2c/classTrkrClusterContainer.html#a2afed9b08029c94a400bdcfe998eb7d9" title="total number of clusters" alt="" coords="234,649,397,693"/>
+<area shape="rect" id="node7" href="$d0/d2c/classTrkrClusterContainer.html#a6f26d0655c81919f5539934e0d0fc438" title="find cluster matching given key" alt="" coords="481,453,644,497"/>
+<area shape="rect" id="node8" href="$df/db5/classActsTransformations.html#ad73bc53ee88d22ebdf1a0b6ac5456cec" title="ActsTransformations\l::getGlobalPosition" alt="" coords="483,521,643,565"/>
+<area shape="rect" id="node14" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="743,672,890,700"/>
+<area shape="rect" id="node16" href="$d6/d3f/namespaceTrkrDefs.html#aae37fbdb8f0f6f9b7b1e4173f4fcd331" title="Get the upper 32 bits from cluster keys." alt="" coords="459,641,667,685"/>
+<area shape="rect" id="node17" href="$d7/d4f/classTrkrClusterHitAssoc.html#a79099cbebd11459ea55add96711d119d" title="Get all the hits associated with a cluster by key." alt="" coords="486,709,639,753"/>
+<area shape="rect" id="node18" href="$d7/d8d/classTrkrHitTruthAssoc.html#aead420bbb592bb8382bfb10a57a0ff30" title="Get cell keys associated with desired hit." alt="" coords="489,777,637,821"/>
+<area shape="rect" id="node19" href="$d4/d30/classPHG4HitContainer.html#a62c24ef9c00bd714f597939598a87041" title="PHG4HitContainer::findHit" alt="" coords="463,845,662,873"/>
+<area shape="rect" id="node20" href="$d3/d9e/classPHG4Hit.html#a8992f01396d51ebf6c85dd2859e13a6b" title="PHG4Hit::get_layer" alt="" coords="487,897,638,925"/>
+<area shape="rect" id="node21" href="$d3/d9e/classPHG4Hit.html#a99663034e71d3f324eb878eb0e3b36ba" title="PHG4Hit::get_avg_x" alt="" coords="485,949,641,977"/>
+<area shape="rect" id="node23" href="$d3/d9e/classPHG4Hit.html#a880ee4134d36a1b558ec9eed831f376a" title="PHG4Hit::get_avg_y" alt="" coords="485,1001,641,1029"/>
+<area shape="rect" id="node25" href="$d3/d9e/classPHG4Hit.html#a7dce2f1e781d7c94af5b27400165d76c" title="PHG4Hit::get_avg_z" alt="" coords="485,1053,640,1081"/>
+<area shape="rect" id="node27" href="$d3/d9e/classPHG4Hit.html#ac19cdd97dbd9b8154b8012ec0de01f76" title="PHG4Hit::get_trkid" alt="" coords="489,1105,636,1133"/>
+<area shape="rect" id="node28" href="$d6/dfa/classTrkrCluster.html#a7d92784527cb537e382ffa0460e0f728" title="TrkrCluster::getZ" alt="" coords="495,1157,631,1185"/>
+<area shape="rect" id="node29" href="$da/d6c/classPHG4TruthInfoContainer.html#a175e3e0bbb61b850bf184368d920152f" title="PHG4TruthInfoContainer\l::GetParticle" alt="" coords="470,1209,655,1253"/>
+<area shape="rect" id="node30" href="$d5/dbe/EIC-IR1-XX-v00_8C.html#a888f39f7254b5b59976d577091d79a4e" title="vtx" alt="" coords="541,1277,584,1305"/>
+<area shape="rect" id="node31" href="$da/d6c/classPHG4TruthInfoContainer.html#a5f3f30ff74c7397069c6f0041849b53c" title="PHG4TruthInfoContainer\l::GetVtx" alt="" coords="470,125,655,169"/>
+<area shape="rect" id="node32" href="$de/dc9/classPHG4Particle.html#a02ca717804f76c532efaf6d1cdebda3e" title="PHG4Particle::get_vtx_id" alt="" coords="469,193,656,221"/>
+<area shape="rect" id="node33" href="$d6/d81/classPHG4VtxPoint.html#ae26c6d111c93795d64e3571b6f306ef9" title="PHG4VtxPoint::get_z" alt="" coords="483,245,643,273"/>
+<area shape="rect" id="node34" href="$de/dc9/classPHG4Particle.html#a44b98bfd72a04825791d1e4c4cb150a1" title="PHG4Particle::get_px" alt="" coords="481,297,644,325"/>
+<area shape="rect" id="node35" href="$de/dc9/classPHG4Particle.html#a3df4379f9e46224a8cca7f86c11e99e5" title="PHG4Particle::get_py" alt="" coords="481,349,644,377"/>
+<area shape="rect" id="node36" href="$de/dc9/classPHG4Particle.html#a533e9bda40b15f62802b187e6a743e74" title="PHG4Particle::get_pz" alt="" coords="481,401,644,429"/>
+<area shape="rect" id="node9" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="795,344,839,372"/>
+<area shape="rect" id="node10" href="$d6/dfa/classTrkrCluster.html#ab18c56f7c1aa174203dcf8fbf0141279" title="TrkrCluster::getClusKey" alt="" coords="727,396,907,424"/>
+<area shape="rect" id="node11" href="$d6/dfa/classTrkrCluster.html#acc835716d1c4f76e9c0da8e5a79e25c1" title="TrkrCluster::getLocalX" alt="" coords="731,448,902,476"/>
+<area shape="rect" id="node12" href="$d6/dfa/classTrkrCluster.html#a05e4879520abe27bc6028bc05fc94162" title="TrkrCluster::getLocalY" alt="" coords="731,500,902,528"/>
+<area shape="rect" id="node13" href="$db/d81/namespaceActs_1_1MeasurementHelpers.html#af6bf98068f55e3d194425beaf2dd92be" title="Extract surface from a type erased measurement object." alt="" coords="715,552,919,596"/>
+<area shape="rect" id="node15" href="$dc/de5/PHG4mRICHDetector_8cc.html#acaaf109d582b14d4880c13e89c1243e1" title="surface" alt="" coords="781,620,852,648"/>
+<area shape="rect" id="node22" href="$d3/d9e/classPHG4Hit.html#a5df423db026ef6538eb4b2519044d2ef" title="PHG4Hit::get_x" alt="" coords="755,949,879,977"/>
+<area shape="rect" id="node24" href="$d3/d9e/classPHG4Hit.html#ace826b4fe9a1fb7b3085ae5ed9387fdc" title="PHG4Hit::get_y" alt="" coords="755,1001,879,1029"/>
+<area shape="rect" id="node26" href="$d3/d9e/classPHG4Hit.html#afe0c7e8f489d586c51f1e16488723437" title="PHG4Hit::get_z" alt="" coords="755,1053,878,1081"/>
+</map>

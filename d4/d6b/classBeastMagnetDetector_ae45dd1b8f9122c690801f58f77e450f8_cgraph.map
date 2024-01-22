@@ -1,0 +1,11 @@
+<map id="BeastMagnetDetector::ConstructMe" name="BeastMagnetDetector::ConstructMe">
+<area shape="rect" id="node2" href="$d6/db8/classG4GDMLReadStructure.html#a9f564bcb1d38d28f12accc0fecc9d54f" title="G4GDMLReadStructure\l::GetAssembly" alt="" coords="245,5,421,49"/>
+<area shape="rect" id="node4" href="$d4/d6b/classBeastMagnetDetector.html#a7a93fca6b3a01e7aa1d969c11b35c68c" title="BeastMagnetDetector\l::InsertVolumes" alt="" coords="249,73,418,117"/>
+<area shape="rect" id="node6" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="223,141,444,169"/>
+<area shape="rect" id="node7" href="$d0/dfa/reader_8C.html#a262d195bd786506862f9ad0d1aeb76cf" title="reader" alt="" coords="300,193,367,221"/>
+<area shape="rect" id="node10" href="$d5/dc4/classG4GDMLParser.html#a2accd3ef5739b3d5fbee17c928eb36f7" title="G4GDMLParser::SetOverlap\lCheck" alt="" coords="230,245,437,289"/>
+<area shape="rect" id="node3" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="570,13,615,41"/>
+<area shape="rect" id="node5" href="$d8/dd8/classBeastMagnetDisplayAction.html#a678dfaa5cfd2ddf551de99991cdd5ebf" title="BeastMagnetDisplayAction\l::AddLogicalVolume" alt="" coords="492,73,693,117"/>
+<area shape="rect" id="node8" href="$d8/d51/classEicToyModel.html#a5e992ec670f1ccf5842edfc11423e42f" title="EicToyModel::Import" alt="" coords="513,193,672,221"/>
+<area shape="rect" id="node9" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="741,193,800,221"/>
+</map>

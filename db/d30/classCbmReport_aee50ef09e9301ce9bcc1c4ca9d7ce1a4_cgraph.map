@@ -1,0 +1,8 @@
+<map id="CbmReport::CreateReports" name="CbmReport::CreateReports">
+<area shape="rect" id="node2" href="$db/d30/classCbmReport.html#afe0f63f1fb57bd8cc96fc31698f8e646" title="Pure abstract function which is called from public Create() function. This function has to write repo..." alt="" coords="307,5,457,33"/>
+<area shape="rect" id="node3" href="$db/d30/classCbmReport.html#a479bc3730b1b46948d8645f92a59ebd4" title="Create concrete CbmReportElement instance based on report type." alt="" coords="256,57,508,85"/>
+<area shape="rect" id="node5" href="$db/d30/classCbmReport.html#a24309de63a99d9161f5c5a775a33db2a" title="Delete report element. Normally should be called at the end of Create function." alt="" coords="257,109,507,137"/>
+<area shape="rect" id="node6" href="$db/d30/classCbmReport.html#ad05016b98901fd9573d8fc6b4f684627" title="Pure abstract function which is called from public Create() function. This function has to draw all n..." alt="" coords="311,161,453,189"/>
+<area shape="rect" id="node7" href="$db/d30/classCbmReport.html#ad26a0b401ac5967cd9a67487a7e4074b" title="Save all canvases to images." alt="" coords="272,213,492,257"/>
+<area shape="rect" id="node4" href="$db/d30/classCbmReport.html#a4aa4daa3c0a0a0948b2bb9f7f26e3a39" title="CbmReport::GetOutputDir" alt="" coords="556,140,753,168"/>
+</map>

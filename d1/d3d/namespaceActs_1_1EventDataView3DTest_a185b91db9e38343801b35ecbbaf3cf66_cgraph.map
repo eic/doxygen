@@ -1,0 +1,21 @@
+<map id="Acts::EventDataView3DTest::testBoundTrackParameters" name="Acts::EventDataView3DTest::testBoundTrackParameters">
+<area shape="rect" id="node2" href="$db/d35/structActs_1_1EventDataView3D.html#ad1ccb5b90606fe2585c3148219341916" title="Acts::EventDataView3D\l::drawBoundTrackParameters" alt="" coords="265,207,484,251"/>
+<area shape="rect" id="node20" href="$d0/d35/classActs_1_1IVisualization3D.html#ac2b3dc7f88f26a197d48a28d1d85b3d4" title="Acts::IVisualization3D\l::write" alt="" coords="290,275,459,319"/>
+<area shape="rect" id="node3" href="$d2/d3f/structActs_1_1GeometryView3D.html#ad14a942752c9af6f0ff44cc3adbdee5d" title="Acts::GeometryView3D\l::drawArrowBackward" alt="" coords="544,9,723,53"/>
+<area shape="rect" id="node4" href="$d2/d3f/structActs_1_1GeometryView3D.html#a67df89dea7c20fe0e7ecefc50a78c75f" title="Acts::GeometryView3D\l::drawArrowForward" alt="" coords="544,77,723,121"/>
+<area shape="rect" id="node5" href="$db/d35/structActs_1_1EventDataView3D.html#a1bb690374d01bc8e407d603d2a87b7dd" title="Acts::EventDataView3D\l::drawCovarianceAngular" alt="" coords="537,145,730,189"/>
+<area shape="rect" id="node9" href="$db/d35/structActs_1_1EventDataView3D.html#a5860abf64f67e4e333020160d50ed99b" title="Acts::EventDataView3D\l::drawCovarianceCartesian" alt="" coords="532,268,735,312"/>
+<area shape="rect" id="node16" href="$d2/d3f/structActs_1_1GeometryView3D.html#ab8aad2f0260221fecde781f003510d24" title="Acts::GeometryView3D\l::drawSurface" alt="" coords="544,400,723,444"/>
+<area shape="rect" id="node19" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a55c39f48968d9e4b4b4fb12b227cea22" title="Access the three&#45;position components in a four&#45;position vector." alt="" coords="556,468,711,512"/>
+<area shape="rect" id="node6" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a397d5e8143b34171258deef4f9cca9ad" title="Acts::VectorHelpers::phi" alt="" coords="789,5,973,33"/>
+<area shape="rect" id="node7" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a1c1a90bc524259263f553410691dd9ad" title="Acts::VectorHelpers\l::theta" alt="" coords="803,57,958,101"/>
+<area shape="rect" id="node8" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="1083,176,1139,204"/>
+<area shape="rect" id="node10" href="$da/d6e/structActs_1_1detail_1_1FacesHelper.html#a1ad36c75fdd2b14874b287ad561fc567" title="This method words for all convex type surface setups It includes:" alt="" coords="785,228,976,272"/>
+<area shape="rect" id="node11" href="$db/d35/structActs_1_1EventDataView3D.html#a0773bc56ca37a99962e14d47356fc17b" title="Acts::EventDataView3D\l::createEllipse" alt="" coords="790,364,971,408"/>
+<area shape="rect" id="node13" href="$db/d35/structActs_1_1EventDataView3D.html#a80b2ec87273567eccee4aa65ac4aede9" title="Acts::EventDataView3D\l::decomposeCovariance" alt="" coords="789,296,973,340"/>
+<area shape="rect" id="node14" href="$d2/d3f/structActs_1_1GeometryView3D.html#a77ed7ddb38695d4a658b18f46ee8c873" title="Acts::GeometryView3D\l::drawPolyhedron" alt="" coords="791,432,970,476"/>
+<area shape="rect" id="node12" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="1089,372,1133,400"/>
+<area shape="rect" id="node15" href="$d0/d35/classActs_1_1IVisualization3D.html#ad25b54d62c7d3ce9da78d0fcdc6fe54b" title="Acts::IVisualization3D\l::faces" alt="" coords="1027,432,1196,476"/>
+<area shape="rect" id="node17" href="$dd/d9e/structActs_1_1Polyhedron.html#a751a373c4c96d6e3b6deaab8c70cf3f9" title="Acts::Polyhedron::move" alt="" coords="789,500,972,528"/>
+<area shape="rect" id="node18" href="$de/d7d/classActs_1_1Surface.html#a8580e9839bf7b3207b3f01b0a822febf" title="Acts::Surface::polyhedron\lRepresentation" alt="" coords="783,552,979,596"/>
+</map>

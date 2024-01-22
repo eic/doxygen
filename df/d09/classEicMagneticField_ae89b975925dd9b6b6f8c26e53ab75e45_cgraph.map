@@ -1,0 +1,8 @@
+<map id="EicMagneticField::CreateYokeVolumes" name="EicMagneticField::CreateYokeVolumes">
+<area shape="rect" id="node2" href="$dd/dbc/classFairRunSim.html#a4c6c38e334bb4f44d9f1b9ed72c458da" title="FairRunSim::AddModule" alt="" coords="241,5,423,33"/>
+<area shape="rect" id="node4" href="$de/d0d/classEicMagneticFieldMap.html#a1a4f86ee497a5f2f2ebf225462769bca" title="EicMagneticFieldMap\l::CapableToBuildYoke" alt="" coords="250,57,414,101"/>
+<area shape="rect" id="node5" href="$de/d0d/classEicMagneticFieldMap.html#a763548f170859cd7ac8f9b6dd27a2f95" title="EicMagneticFieldMap\l::GetDetectorName" alt="" coords="251,125,413,169"/>
+<area shape="rect" id="node7" href="$dd/dbc/classFairRunSim.html#a733dc616669bd5e542b5c05f6470c744" title="FairRunSim::Instance" alt="" coords="251,193,413,221"/>
+<area shape="rect" id="node3" href="$d4/d06/classFairModule.html#a8c32b72258a0a68377975c04b3114837" title="FairModule::SetModId" alt="" coords="471,5,637,33"/>
+<area shape="rect" id="node6" href="$de/d0d/classEicMagneticFieldMap.html#a9e95801a094a27348c72168984e476f3" title="EicMagneticFieldMap\l::GetFileName" alt="" coords="473,125,635,169"/>
+</map>

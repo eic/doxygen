@@ -1,0 +1,34 @@
+<map id="fun4all_eicmacros/blob/master/detectors/EICDetector/G4Setup_EICDetector.C" name="fun4all_eicmacros/blob/master/detectors/EICDetector/G4Setup_EICDetector.C">
+<area shape="rect" id="node3" href="$de/d75/G4__Aerogel_8C.html" title="Aerogel RICH for EIC detector." alt="" coords="3477,289,3589,317"/>
+<area shape="rect" id="node6" href="$d0/d2b/PHG4Reco_8h.html" title="g4main/PHG4Reco.h" alt="" coords="3478,381,3637,409"/>
+<area shape="rect" id="node7" href="$d9/d5f/EDecayType_8hh.html" title="g4decayer/EDecayType.hh" alt="" coords="4032,465,4232,493"/>
+<area shape="rect" id="node9" href="$d8/d04/G4__Barrel__EIC_8C.html" title="G4_Barrel_EIC.C" alt="" coords="1849,289,1978,317"/>
+<area shape="rect" id="node10" href="$dc/dc6/PHG4CylinderSubsystem_8h.html" title="g4detectors/PHG4Cylinder\lSubsystem.h" alt="" coords="3089,373,3290,417"/>
+<area shape="rect" id="node11" href="$dc/da2/Fun4AllServer_8h.html" title="fun4all/Fun4AllServer.h" alt="" coords="346,381,523,409"/>
+<area shape="rect" id="node21" href="$d1/db0/G4__FST__EIC_8C.html" title="G4_FST_EIC.C" alt="" coords="3614,289,3727,317"/>
+<area shape="rect" id="node22" href="$de/d55/G4__GEM__EIC_8C.html" title="G4_GEM_EIC.C" alt="" coords="3752,289,3872,317"/>
+<area shape="rect" id="node25" href="$dc/d7e/G4__Input_8C.html" title="G4_Input.C" alt="" coords="2003,289,2099,317"/>
+<area shape="rect" id="node37" href="$da/d17/G4__Magnet_8C.html" title="G4_Magnet.C" alt="" coords="3947,289,4059,317"/>
+<area shape="rect" id="node38" href="$d8/d33/G4__Mvtx__EIC_8C.html" title="G4_Mvtx_EIC.C" alt="" coords="300,289,423,317"/>
+<area shape="rect" id="node40" href="$d4/d0f/G4__PlugDoor__EIC_8C.html" title="G4_PlugDoor_EIC.C" alt="" coords="2953,289,3103,317"/>
+<area shape="rect" id="node41" href="$df/d24/G4__RICH_8C.html" title="Setup the gas RICH detector as designed in ePHENIX LOI." alt="" coords="3309,289,3403,317"/>
+<area shape="rect" id="node42" href="$d3/d50/G4__TPC__EIC_8C.html" title="G4_TPC_EIC.C" alt="" coords="1016,197,1131,225"/>
+<area shape="rect" id="node43" href="$d1/d31/G4__Tracking__EIC_8C.html" title="G4_Tracking_EIC.C" alt="" coords="1001,113,1146,141"/>
+<area shape="rect" id="node44" href="$d1/dd8/G4__User_8C.html" title="G4_User.C" alt="" coords="5,197,96,225"/>
+<area shape="rect" id="node45" href="$d0/d40/G4__World_8C.html" title="G4_World.C" alt="" coords="4082,289,4182,317"/>
+<area shape="rect" id="node46" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html" title="G4_hFarFwdBeamLine\l_EIC.C" alt="" coords="2757,281,2928,325"/>
+<area shape="rect" id="node47" href="$d1/d40/G4__BECAL_8C.html" title="G4_BECAL.C" alt="" coords="3179,289,3285,317"/>
+<area shape="rect" id="node48" href="$da/d58/PHG4DstCompressReco_8h.html" title="g4eval/PHG4DstCompressReco.h" alt="" coords="3675,197,3917,225"/>
+<area shape="rect" id="node49" href="$de/d78/PHG4TruthSubsystem_8h.html" title="g4main/PHG4TruthSubsystem.h" alt="" coords="3942,197,4178,225"/>
+<area shape="rect" id="node50" href="$db/d22/Fun4AllDstOutputManager_8h.html" title="fun4all/Fun4AllDstOutput\lManager.h" alt="" coords="4203,189,4395,233"/>
+<area shape="rect" id="node4" href="$d6/d6c/PHG4SectorSubsystem_8h.html" title="g4detectors/PHG4SectorSubsystem.h" alt="" coords="3661,381,3936,409"/>
+<area shape="rect" id="node26" href="$de/d67/fun4all__macros_2blob_2master_2common_2GlobalVariables_8C.html" title="GlobalVariables.C" alt="" coords="4062,381,4202,409"/>
+<area shape="rect" id="node29" href="$dd/de1/HepMCNodeReader_8h.html" title="g4main/HepMCNodeReader.h" alt="" coords="2329,381,2548,409"/>
+<area shape="rect" id="node30" href="$d3/d27/PHG4IonGun_8h.html" title="g4main/PHG4IonGun.h" alt="" coords="1672,381,1848,409"/>
+<area shape="rect" id="node31" href="$d4/d8b/PHG4ParticleGenerator_8h.html" title="g4main/PHG4ParticleGenerator.h" alt="" coords="1003,381,1247,409"/>
+<area shape="rect" id="node32" href="$d5/dde/PHG4ParticleGeneratorD0_8h.html" title="g4main/PHG4ParticleGeneratorD0.h" alt="" coords="2572,381,2836,409"/>
+<area shape="rect" id="node33" href="$d8/dc1/PHG4ParticleGeneratorVectorMeson_8h.html" title="g4main/PHG4ParticleGenerator\lVectorMeson.h" alt="" coords="1873,373,2106,417"/>
+<area shape="rect" id="node34" href="$de/d65/PHG4ParticleGun_8h.html" title="g4main/PHG4ParticleGun.h" alt="" coords="2861,381,3065,409"/>
+<area shape="rect" id="node35" href="$da/d45/PHG4SimpleEventGenerator_8h.html" title="g4main/PHG4SimpleEventGenerator.h" alt="" coords="701,381,979,409"/>
+<area shape="rect" id="node36" href="$d9/dc2/ReadEICFiles_8h.html" title="g4main/ReadEICFiles.h" alt="" coords="2130,381,2305,409"/>
+</map>

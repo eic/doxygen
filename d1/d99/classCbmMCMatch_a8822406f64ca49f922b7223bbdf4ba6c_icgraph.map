@@ -1,0 +1,11 @@
+<map id="CbmMCMatch::GetNMCStages" name="CbmMCMatch::GetNMCStages">
+<area shape="rect" id="node2" href="$d7/d6e/classCbmMCMatchCreatorTask.html#af8ec8a4ffed756fcab6889ed7d964fd9" title="CbmMCMatchCreatorTask\l::Exec" alt="" coords="307,5,502,49"/>
+<area shape="rect" id="node3" href="$d1/d99/classCbmMCMatch.html#ae644e6e96cf53b977cc8046812c7f6f1" title="CbmMCMatch::FindLinksToStage" alt="" coords="285,73,524,101"/>
+<area shape="rect" id="node6" href="$d7/d6e/classCbmMCMatchCreatorTask.html#a3f990bcbede88462c1cd4e5ff643ba4f" title="CbmMCMatchCreatorTask\l::InitBranches" alt="" coords="307,125,502,169"/>
+<area shape="rect" id="node8" href="$d1/d99/classCbmMCMatch.html#a2ec9d25d42e9eed31023c6d838418f01" title="CbmMCMatch::SetCommonWeight\lStages" alt="" coords="277,193,532,237"/>
+<area shape="rect" id="node4" href="$d1/d99/classCbmMCMatch.html#ae08b79687237e2f9f10c0f8f390c5350" title="CbmMCMatch::CreateArtificial\lStage" alt="" coords="580,57,803,101"/>
+<area shape="rect" id="node5" href="$df/deb/classCbmMCMatchLoaderTask.html#a6c57dcd4dde5d2dec4764baf448c6be9" title="CbmMCMatchLoaderTask\l::Exec" alt="" coords="855,57,1046,101"/>
+<area shape="rect" id="node7" href="$d7/d6e/classCbmMCMatchCreatorTask.html#ac1d5d6d9fb74ffabd3e6a2a744553a08" title="CbmMCMatchCreatorTask\l::Init" alt="" coords="594,125,789,169"/>
+<area shape="rect" id="node9" href="$d9/d77/classCbmMCMatchSelectorTask.html#abcf982883eb6f392d49ee8e978a58d27" title="CbmMCMatchSelectorTask\l::SetWeights" alt="" coords="591,193,791,237"/>
+<area shape="rect" id="node10" href="$d9/d77/classCbmMCMatchSelectorTask.html#a08fdab318f202137010a768d52b08c74" title="CbmMCMatchSelectorTask\l::Exec" alt="" coords="851,193,1051,237"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="BuildByName" name="BuildByName">
+<area shape="rect" id="node2" href="$d9/d4f/eicsmeardetectors_8hh.html#a1aa3ded82d831148f8586716dbd37890" title="BuildCore_0_1" alt="" coords="165,240,283,268"/>
+<area shape="rect" id="node13" href="$d9/d4f/eicsmeardetectors_8hh.html#aff95f4c8159e636f4046bbbf680eaa58" title="BuildePHENIX_0_0" alt="" coords="343,544,487,572"/>
+<area shape="rect" id="node16" href="$d9/d4f/eicsmeardetectors_8hh.html#a461294db2044857c4f57814e1e466807" title="BuildMatrixDetector\l_0_1_FF" alt="" coords="337,419,494,463"/>
+<area shape="rect" id="node3" href="$d2/d7d/classSmear_1_1Detector.html#a5b428e506b13f0d13c8604f3906339da" title="Smear::Detector::SetEvent\lKinematicsCalculator" alt="" coords="564,543,767,587"/>
+<area shape="rect" id="node4" href="$d5/db0/SmearCore__0__1_8cxx.html#ac8fda9b7ace75b22b8e9fe060604014b" title="ThetaFromEta" alt="" coords="607,84,723,112"/>
+<area shape="rect" id="node5" href="$d2/d55/classSmear_1_1Acceptance.html#a77ce79bbc82ad642fc2da89768b1a064" title="Smear::Acceptance::\lAddZone" alt="" coords="585,303,745,347"/>
+<area shape="rect" id="node6" href="$d2/d55/classSmear_1_1Acceptance.html#a411867b7fb1f954336ce788a4fee977d" title="Smear::Acceptance::\lSetGenre" alt="" coords="585,235,745,279"/>
+<area shape="rect" id="node7" href="$d2/d7d/classSmear_1_1Detector.html#a24002b3325179692dcf687c9ac6ef4f4" title="Smear::Detector::AddDevice" alt="" coords="559,371,772,399"/>
+<area shape="rect" id="node9" href="$d5/db0/SmearCore__0__1_8cxx.html#a5780573b34e24cce0b85db56995bd336" title="CalcA" alt="" coords="385,5,445,33"/>
+<area shape="rect" id="node10" href="$d5/db0/SmearCore__0__1_8cxx.html#a60bb78574a24abf9703895c8405f9be9" title="CalcB" alt="" coords="386,109,445,137"/>
+<area shape="rect" id="node11" href="$d5/db0/SmearCore__0__1_8cxx.html#a4543b2c565440db37946b0b0866faead" title="AssembleCoreTracker" alt="" coords="331,213,500,241"/>
+<area shape="rect" id="node12" href="$d2/d55/classSmear_1_1Acceptance.html#a903b3145e29d584e59d8c558edb0afd3" title="Smear::Acceptance::\lSetCharge" alt="" coords="585,167,745,211"/>
+<area shape="rect" id="node8" href="$d1/d9f/classSmear_1_1Smearer.html#ab7f0eb6bd118335376b94d622c2f74f5" title="Smear::Smearer::Clone" alt="" coords="831,371,1009,399"/>
+<area shape="rect" id="node14" href="$d2/d4a/classEPhenixMomentum.html#a3221f4ff0709ffe46ff64326d8f419d8" title="EPhenixMomentum::etaToTheta" alt="" coords="548,611,783,639"/>
+<area shape="rect" id="node15" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="637,663,693,691"/>
+<area shape="rect" id="node17" href="$d5/d38/SmearMatrixDetector__0__1__FF_8cxx.html#ac8fda9b7ace75b22b8e9fe060604014b" title="ThetaFromEta" alt="" coords="607,423,723,451"/>
+<area shape="rect" id="node18" href="$d2/d55/classSmear_1_1Acceptance.html#aef0f4a4ce4138e50f2dee4e549eb081f" title="Smear::Acceptance::\lAddParticle" alt="" coords="585,475,745,519"/>
+</map>

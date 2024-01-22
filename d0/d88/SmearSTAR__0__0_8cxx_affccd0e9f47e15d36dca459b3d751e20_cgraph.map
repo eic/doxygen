@@ -1,0 +1,13 @@
+<map id="BuildSTAR_0_0" name="BuildSTAR_0_0">
+<area shape="rect" id="node2" href="$d2/d7d/classSmear_1_1Detector.html#a24002b3325179692dcf687c9ac6ef4f4" title="Smear::Detector::AddDevice" alt="" coords="175,5,388,33"/>
+<area shape="rect" id="node4" href="$d2/d55/classSmear_1_1Acceptance.html#a77ce79bbc82ad642fc2da89768b1a064" title="Smear::Acceptance::\lAddZone" alt="" coords="201,57,361,101"/>
+<area shape="rect" id="node5" href="$d0/d88/SmearSTAR__0__0_8cxx.html#a1a5f80bf7824927f7dd7517a0d68e734" title="makeZone" alt="" coords="235,125,328,153"/>
+<area shape="rect" id="node7" href="$d2/d55/classSmear_1_1Acceptance.html#a903b3145e29d584e59d8c558edb0afd3" title="Smear::Acceptance::\lSetCharge" alt="" coords="201,177,361,221"/>
+<area shape="rect" id="node8" href="$d2/d7d/classSmear_1_1Detector.html#a5b428e506b13f0d13c8604f3906339da" title="Smear::Detector::SetEvent\lKinematicsCalculator" alt="" coords="180,245,383,289"/>
+<area shape="rect" id="node9" href="$d3/dc8/star_8C.html#a96b513163e69dded39452212d20f2c8c" title="star" alt="" coords="257,313,305,341"/>
+<area shape="rect" id="node12" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="253,365,309,393"/>
+<area shape="rect" id="node3" href="$d1/d9f/classSmear_1_1Smearer.html#ab7f0eb6bd118335376b94d622c2f74f5" title="Smear::Smearer::Clone" alt="" coords="436,5,615,33"/>
+<area shape="rect" id="node6" href="$db/d74/SmeareSTAR__0__0_8cxx.html#ab5aba66ab08815e406271206c27d6e0c" title="etaToTheta" alt="" coords="477,125,573,153"/>
+<area shape="rect" id="node10" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="502,287,549,315"/>
+<area shape="rect" id="node11" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="496,339,555,367"/>
+</map>

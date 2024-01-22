@@ -1,0 +1,11 @@
+<map id="FairGeoSet::create" name="FairGeoSet::create">
+<area shape="rect" id="node2" href="$de/d6a/classFairGeoBuilder.html#afcada4db246f87a07f2354ac4943f8dc" title="FairGeoBuilder::createNode" alt="" coords="215,5,421,33"/>
+<area shape="rect" id="node3" href="$de/d30/classFairGeoNode.html#a17f53a80b27fdd0fa617a838af58918b" title="FairGeoNode::getCenterPosition" alt="" coords="200,57,436,85"/>
+<area shape="rect" id="node4" href="$d0/d7b/classFairGeoSet.html#a112055dd5add80b83132307f26207fbd" title="FairGeoSet::getMasterNode" alt="" coords="215,109,421,137"/>
+<area shape="rect" id="node5" href="$de/d30/classFairGeoNode.html#a569edba6d9504e5e6623369065a9bdfc" title="FairGeoNode::getRootVolume" alt="" coords="208,161,428,189"/>
+<area shape="rect" id="node6" href="$de/d30/classFairGeoNode.html#a16e3702b362dee5459492f0bdc94c59f" title="FairGeoNode::isActive" alt="" coords="233,213,403,241"/>
+<area shape="rect" id="node7" href="$de/d30/classFairGeoNode.html#a481af3c27a5d7c7fcaed74685bdc7b7c" title="FairGeoNode::isRefNode" alt="" coords="226,265,410,293"/>
+<area shape="rect" id="node8" href="$de/d30/classFairGeoNode.html#a70c85d99793e3db7c83d801e3a946fe8" title="FairGeoNode::isTopNode" alt="" coords="225,317,411,345"/>
+<area shape="rect" id="node9" href="$de/d30/classFairGeoNode.html#abbeb3f27b665e3897acd91088cdda439" title="FairGeoNode::setCenterPosition" alt="" coords="201,369,435,397"/>
+<area shape="rect" id="node10" href="$de/d30/classFairGeoNode.html#a8ff575d33b3fa8882ab084bfd9f00883" title="FairGeoNode::setRootVolume" alt="" coords="209,421,427,449"/>
+</map>

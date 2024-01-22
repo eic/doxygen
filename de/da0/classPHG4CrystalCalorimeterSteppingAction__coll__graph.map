@@ -1,0 +1,22 @@
+<map id="PHG4CrystalCalorimeterSteppingAction" name="PHG4CrystalCalorimeterSteppingAction">
+<area shape="rect" id="node2" href="$df/d3f/classPHG4SteppingAction.html" title="PHG4SteppingAction" alt="" coords="1038,334,1199,362"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="253,751,342,779"/>
+<area shape="rect" id="node10" href="$d1/deb/classPHG4CrystalCalorimeterDetector.html" title="PHG4CrystalCalorimeterDetector" alt="" coords="2228,911,2472,939"/>
+<area shape="rect" id="node11" href="$d3/de7/classPHG4Detector.html" title="base class for phenix detector creation" alt="" coords="1855,978,1973,1006"/>
+<area shape="rect" id="node14" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="607,985,711,1013"/>
+<area shape="rect" id="node16" href="$dc/d82/classPHNode.html" title="PHNode" alt="" coords="621,1077,696,1105"/>
+<area shape="rect" id="node20" href="$dd/dae/classPHParameters.html" title="PHParameters" alt="" coords="1061,557,1177,585"/>
+<area shape="rect" id="node25" href="$d2/d44/classPHG4DisplayAction.html" title="PHG4DisplayAction" alt="" coords="583,778,734,806"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="5,743,148,787"/>
+<area shape="rect" id="node6" href="$db/d88/classPHG4Shower.html" title="PHG4Shower" alt="" coords="1283,22,1393,50"/>
+<area shape="rect" id="node7" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="617,233,701,261"/>
+<area shape="rect" id="node9" href="$d3/d9e/classPHG4Hit.html" title="PHG4Hit" alt="" coords="1079,199,1158,227"/>
+<area shape="rect" id="node30" href="$d4/d30/classPHG4HitContainer.html" title="PHG4HitContainer" alt="" coords="1841,199,1987,227"/>
+<area shape="rect" id="node8" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="259,233,335,261"/>
+<area shape="rect" id="node12" href="$db/df7/classPHG4Subsystem.html" title="PHG4Subsystem" alt="" coords="1465,1025,1599,1053"/>
+<area shape="rect" id="node13" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="1068,995,1169,1023"/>
+<area shape="rect" id="node15" href="$d5/dca/classPHCompositeNode.html" title="PHCompositeNode" alt="" coords="1459,1077,1605,1105"/>
+<area shape="rect" id="node17" href="$d6/d86/classPHPointerList.html" title="PHPointerList\&lt; PHNode \&gt;" alt="" coords="1022,1099,1215,1127"/>
+<area shape="rect" id="node24" href="$d6/d9e/classPHG4CrystalCalorimeterDisplayAction.html" title="PHG4CrystalCalorimeterDisplay\lAction" alt="" coords="1001,789,1236,833"/>
+<area shape="rect" id="node29" href="$df/d9c/structPHG4ForwardEcalDetector_1_1towerposition.html" title="PHG4ForwardEcalDetector\l::towerposition" alt="" coords="197,1237,397,1281"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="g4lblvtx/blob/master/macros/GlobalVariables.C" name="g4lblvtx/blob/master/macros/GlobalVariables.C">
+<area shape="rect" id="node2" href="$d9/d8a/Extract__ECCE__gdml_8C.html" title="east/blob/main/Components\l/ECCE/Extract_ECCE_gdml.C" alt="" coords="5,105,217,149"/>
+<area shape="rect" id="node3" href="$de/d75/G4__Aerogel_8C.html" title="Aerogel RICH for EIC detector." alt="" coords="241,105,475,149"/>
+<area shape="rect" id="node4" href="$de/dd6/G4__AllSilicon_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_AllSilicon.C" alt="" coords="551,213,795,257"/>
+<area shape="rect" id="node5" href="$d7/d09/G4__DSTReader__LBLDetector_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_DSTReader\l_LBLDetector.C" alt="" coords="1039,313,1283,373"/>
+<area shape="rect" id="node6" href="$d0/d20/G4__Tracking__LBL_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_Tracking_LBL.C" alt="" coords="698,321,967,365"/>
+<area shape="rect" id="node7" href="$d8/d04/G4__Barrel__EIC_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_Barrel_EIC.C" alt="" coords="2339,213,2590,257"/>
+<area shape="rect" id="node8" href="$d0/d9a/G4__DSTReader__EICDetector_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_DSTReader\l_EICDetector.C" alt="" coords="2087,313,2331,373"/>
+<area shape="rect" id="node9" href="$db/d49/G4__DSTReader__ModularDetector_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_DSTReader\l_ModularDetector.C" alt="" coords="2764,313,3008,373"/>
+<area shape="rect" id="node10" href="$d7/d05/G4__Barrel__Hcal__JLeic_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_Barrel\l_Hcal_JLeic.C" alt="" coords="5067,97,5275,157"/>
+<area shape="rect" id="node11" href="$d3/dcc/G4__DSTReader__JLeic_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_DSTReader\l_JLeic.C" alt="" coords="5296,205,5540,265"/>
+<area shape="rect" id="node12" href="$d4/de2/G4__BeamLine__JLeic_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_BeamLine\l_JLeic.C" alt="" coords="5300,97,5536,157"/>
+<area shape="rect" id="node13" href="$d1/d40/G4__BECAL_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_BECAL.C" alt="" coords="2973,213,3199,257"/>
+<area shape="rect" id="node14" href="$d8/d02/fun4all__eicmacros_2blob_2master_2common_2G4__CEmc__EIC_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_CEmc_EIC.C" alt="" coords="1243,213,1492,257"/>
+<area shape="rect" id="node15" href="$d0/d45/G4__CTD__JLeic_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_CTD\l_JLeic.C" alt="" coords="5560,97,5756,157"/>
+<area shape="rect" id="node16" href="$d8/dc4/fun4all__eicmacros_2blob_2master_2common_2G4__DIRC_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_DIRC.C" alt="" coords="2102,213,2315,257"/>
+<area shape="rect" id="node17" href="$d1/d48/G4__DIRC__JLeic_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_DIRC\l_JLeic.C" alt="" coords="5781,97,5981,157"/>
+<area shape="rect" id="node18" href="$d3/d09/G4__DRCALO_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_DRCALO.C" alt="" coords="7037,105,7273,149"/>
+<area shape="rect" id="node19" href="$da/d69/G4__dRICH_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_dRICH.C" alt="" coords="3539,213,3761,257"/>
+<area shape="rect" id="node20" href="$d4/d98/G4__DRich__JLeic_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_DRich\l_JLeic.C" alt="" coords="6005,97,6212,157"/>
+<area shape="rect" id="node21" href="$df/d2e/fun4all__eicmacros_2blob_2master_2common_2G4__DSTReader__Beast_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_DSTReader\l_Beast.C" alt="" coords="6731,205,6975,265"/>
+<area shape="rect" id="node22" href="$d7/dfd/G4__DSTReader__fsPHENIX_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_DSTReader\l_fsPHENIX.C" alt="" coords="4299,313,4543,373"/>
+<area shape="rect" id="node23" href="$d5/df4/fun4all__eicmacros_2blob_2master_2common_2G4__EEMC_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_EEMC.C" alt="" coords="1516,213,1736,257"/>
+<area shape="rect" id="node24" href="$d3/d45/G4__EEMC__hybrid_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_EEMC\l_hybrid.C" alt="" coords="7297,97,7504,157"/>
+<area shape="rect" id="node25" href="$da/d5a/G4__EHCAL_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_EHCAL.C" alt="" coords="7529,105,7755,149"/>
+<area shape="rect" id="node26" href="$d1/d39/G4__EndCap__Electron__JLeic_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_EndCap\l_Electron_JLeic.C" alt="" coords="6236,97,6456,157"/>
+<area shape="rect" id="node27" href="$d5/dc7/G4__EndCap__Hadron__JLeic_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_EndCap\l_Hadron_JLeic.C" alt="" coords="4303,97,4523,157"/>
+<area shape="rect" id="node28" href="$d5/dcb/G4__FEMC_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_FEMC.C" alt="" coords="4009,105,4227,149"/>
+<area shape="rect" id="node29" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_FGEM\l_fsPHENIX.C" alt="" coords="4247,205,4453,265"/>
+<area shape="rect" id="node30" href="$de/d38/fun4all__eicmacros_2blob_2master_2common_2G4__FEMC__EIC_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_FEMC_EIC.C" alt="" coords="921,213,1169,257"/>
+<area shape="rect" id="node31" href="$dd/dee/fun4all__eicmacros_2blob_2master_2common_2G4__FHCAL_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_FHCAL.C" alt="" coords="2773,105,2999,149"/>
+<area shape="rect" id="node32" href="$d1/db0/G4__FST__EIC_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_FST_EIC.C" alt="" coords="2614,213,2849,257"/>
+<area shape="rect" id="node33" href="$de/d55/G4__GEM__EIC_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_GEM_EIC.C" alt="" coords="3223,213,3464,257"/>
+<area shape="rect" id="node34" href="$d1/d31/G4__Tracking__EIC_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_Tracking_EIC.C" alt="" coords="3913,321,4179,365"/>
+<area shape="rect" id="node35" href="$da/d7a/G4__Gem__JLeic_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_Gem\l_JLeic.C" alt="" coords="4547,97,4747,157"/>
+<area shape="rect" id="node36" href="$de/d26/G4__HCalIn__EIC_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_HCalIn_EIC.C" alt="" coords="7780,105,8035,149"/>
+<area shape="rect" id="node37" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_hFarFwdBeam\lLine_EIC.C" alt="" coords="1073,97,1336,157"/>
+<area shape="rect" id="node38" href="$d9/d3c/G4__LFHCAL_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_LFHCAL.C" alt="" coords="8059,105,8292,149"/>
+<area shape="rect" id="node39" href="$df/d68/G4__Magnet__Beast_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_Magnet\l_Beast.C" alt="" coords="6743,97,6963,157"/>
+<area shape="rect" id="node40" href="$d3/d80/fun4all__eicmacros_2blob_2master_2common_2G4__Magnet__Cleo_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_Magnet\l_Cleo.C" alt="" coords="4772,97,4992,157"/>
+<area shape="rect" id="node41" href="$de/d8a/G4__mRICH_8C.html" title="Aerogel mRICH for EIC detector." alt="" coords="8316,105,8544,149"/>
+<area shape="rect" id="node42" href="$d8/d33/G4__Mvtx__EIC_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_Mvtx_EIC.C" alt="" coords="3590,105,3833,149"/>
+<area shape="rect" id="node43" href="$d3/d50/G4__TPC__EIC_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_TPC_EIC.C" alt="" coords="3835,213,4071,257"/>
+<area shape="rect" id="node44" href="$d9/d41/fun4all__eicmacros_2blob_2master_2common_2G4__Pipe__EIC_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_Pipe_EIC.C" alt="" coords="6480,105,6719,149"/>
+<area shape="rect" id="node45" href="$d3/d09/G4__Pipe__EIC__simple_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_Pipe\l_EIC_simple.C" alt="" coords="8568,97,8764,157"/>
+<area shape="rect" id="node46" href="$d6/d0a/G4__Piston_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_Piston.C" alt="" coords="8788,105,9011,149"/>
+<area shape="rect" id="node47" href="$d4/d0f/G4__PlugDoor__EIC_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_PlugDoor_EIC.C" alt="" coords="9034,105,9306,149"/>
+<area shape="rect" id="node48" href="$d6/d2c/G4__PlugDoor__fsPHENIX_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_PlugDoor\l_fsPHENIX.C" alt="" coords="9331,97,9561,157"/>
+<area shape="rect" id="node49" href="$df/d24/G4__RICH_8C.html" title="Setup the gas RICH detector as designed in ePHENIX LOI." alt="" coords="1812,213,2027,257"/>
+<area shape="rect" id="node50" href="$d0/d5d/G4__Tracking__JLeic_8C.html" title="fun4all_eicmacros/blob\l/master/common/G4_Tracking\l_JLeic.C" alt="" coords="9586,97,9810,157"/>
+</map>

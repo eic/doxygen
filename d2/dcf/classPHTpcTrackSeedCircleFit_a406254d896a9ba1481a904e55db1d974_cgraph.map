@@ -1,0 +1,12 @@
+<map id="PHTpcTrackSeedCircleFit::getGlobalPosition" name="PHTpcTrackSeedCircleFit::getGlobalPosition">
+<area shape="rect" id="node2" href="$d4/df1/classTpcDistortionCorrection.html#a036dd0d66083d8da0ae654b9218fcb57" title="get cluster corrected 3D position using given DistortionCorrectionObject" alt="" coords="240,49,423,93"/>
+<area shape="rect" id="node5" href="$df/db5/classActsTransformations.html#ad73bc53ee88d22ebdf1a0b6ac5456cec" title="ActsTransformations\l::getGlobalPosition" alt="" coords="251,179,411,223"/>
+<area shape="rect" id="node3" href="$d1/d22/EllipseBounds_8cpp.html#ab14acda17eb07a638824bb5e3873c586" title="square" alt="" coords="539,5,606,33"/>
+<area shape="rect" id="node4" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="551,57,595,85"/>
+<area shape="rect" id="node6" href="$d6/dfa/classTrkrCluster.html#ab18c56f7c1aa174203dcf8fbf0141279" title="TrkrCluster::getClusKey" alt="" coords="483,109,663,137"/>
+<area shape="rect" id="node7" href="$d6/dfa/classTrkrCluster.html#acc835716d1c4f76e9c0da8e5a79e25c1" title="TrkrCluster::getLocalX" alt="" coords="487,161,658,189"/>
+<area shape="rect" id="node8" href="$d6/dfa/classTrkrCluster.html#a05e4879520abe27bc6028bc05fc94162" title="TrkrCluster::getLocalY" alt="" coords="487,213,658,241"/>
+<area shape="rect" id="node9" href="$db/d81/namespaceActs_1_1MeasurementHelpers.html#af6bf98068f55e3d194425beaf2dd92be" title="Extract surface from a type erased measurement object." alt="" coords="471,265,675,309"/>
+<area shape="rect" id="node10" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="499,333,646,361"/>
+<area shape="rect" id="node11" href="$dc/de5/PHG4mRICHDetector_8cc.html#acaaf109d582b14d4880c13e89c1243e1" title="surface" alt="" coords="537,385,608,413"/>
+</map>

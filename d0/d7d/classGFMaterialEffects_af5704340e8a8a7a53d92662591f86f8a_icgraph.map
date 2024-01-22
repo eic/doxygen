@@ -1,0 +1,15 @@
+<map id="GFMaterialEffects::energyLossBetheBloch" name="GFMaterialEffects::energyLossBetheBloch">
+<area shape="rect" id="node2" href="$d0/d7d/classGFMaterialEffects.html#a699769215fbd470c886683a9adbb15c2" title="Calculates energy loss in the travelled path, optional calculation of noise matrix." alt="" coords="449,131,597,175"/>
+<area shape="rect" id="node12" href="$d0/d7d/classGFMaterialEffects.html#a8599def2e59a062e09520f58d3903ef1" title="Returns maximum length so that a specified momentum loss will not be exceeded." alt="" coords="228,191,376,235"/>
+<area shape="rect" id="node3" href="$dc/d78/classRKTrackRep.html#a05042330150601b79ce5b66f2dfe46c8" title="Handles propagation and material effects." alt="" coords="871,169,1024,197"/>
+<area shape="rect" id="node4" href="$dc/d78/classRKTrackRep.html#a2be2d0e556347dd464121be871887276" title="Returns position of the track in the plane." alt="" coords="1109,5,1263,33"/>
+<area shape="rect" id="node5" href="$dc/d78/classRKTrackRep.html#aa986fd663b50961e9f1b673e84827074" title="Returns momentum of the track in the plane." alt="" coords="1105,57,1267,85"/>
+<area shape="rect" id="node6" href="$dc/d78/classRKTrackRep.html#aa6757492b1ff0b6fefb28f564dde899b" title="Gets position and momentum in the plane." alt="" coords="1093,109,1279,137"/>
+<area shape="rect" id="node7" href="$dc/d78/classRKTrackRep.html#a351386ee423e94485b9188bd1e13849c" title="This method is to extrapolate the track to point of closest approach to a point in space..." alt="" coords="1086,161,1286,205"/>
+<area shape="rect" id="node8" href="$dc/d78/classRKTrackRep.html#a7c845b4fbd52e72a3dc6bff232158dfd" title="This method extrapolates to the point of closest approach to a line." alt="" coords="1072,229,1300,257"/>
+<area shape="rect" id="node9" href="$dc/d78/classRKTrackRep.html#a20c06f385a82175c108ca8451e4e6a05" title="returns the tracklength spanned in this extrapolation" alt="" coords="1093,281,1279,309"/>
+<area shape="rect" id="node11" href="$dc/d78/classRKTrackRep.html#a6d367a642bbce17ff9e8c51252d86e34" title="make step of h cm along the track, returns the tracklength spanned in this extrapolation" alt="" coords="1099,333,1273,361"/>
+<area shape="rect" id="node10" href="$dc/d78/classRKTrackRep.html#a37537cbd53fc8a944075d43b8a917880" title="RKTrackRep::getPosMomCov" alt="" coords="1348,281,1560,309"/>
+<area shape="rect" id="node13" href="$dc/d78/classRKTrackRep.html#a261d31749942ae54cf27dafc54f4d87b" title="RKTrackRep::estimateStep" alt="" coords="424,199,623,227"/>
+<area shape="rect" id="node14" href="$dc/d78/classRKTrackRep.html#ac12f7560f92785301a6b1f6fdc3f1ae8" title="Propagates the particle through the magnetic field." alt="" coords="671,195,823,223"/>
+</map>

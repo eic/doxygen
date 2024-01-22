@@ -1,0 +1,32 @@
+<map id="Acts::GeometryIdentifier::getBits" name="Acts::GeometryIdentifier::getBits">
+<area shape="rect" id="node2" href="$d7/d33/classActs_1_1GeometryIdentifier.html#af844a7c6ef60a5c3118d95f563ca3b0f" title="Return the approach identifier." alt="" coords="243,89,432,133"/>
+<area shape="rect" id="node7" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ad96b687187d7c01a9d22c104b5086ed3" title="Return the boundary identifier." alt="" coords="243,157,432,201"/>
+<area shape="rect" id="node10" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a67b1bfbab773f4ca99a12164b2bdbf61" title="Return the layer identifier." alt="" coords="243,293,432,337"/>
+<area shape="rect" id="node13" href="$d7/d33/classActs_1_1GeometryIdentifier.html#afb698536104f96ff92d3c8bdb7aaa3a7" title="Return the sensitive identifier." alt="" coords="243,225,432,269"/>
+<area shape="rect" id="node14" href="$d7/d33/classActs_1_1GeometryIdentifier.html#abc1ccf966fe5fc7f517c6775b5d38623" title="Return the volume identifier." alt="" coords="243,429,432,473"/>
+<area shape="rect" id="node3" href="$d8/d74/classActs_1_1JsonGeometryConverter.html#a32687740b574eadf915d8585cccab2ac" title="Acts::JsonGeometryConverter\l::convertToRep" alt="" coords="489,5,712,49"/>
+<area shape="rect" id="node4" href="$da/d29/classActsExamples_1_1RootMaterialWriter.html#abb87219f054a00689bf37f96709cdb16" title="ActsExamples::RootMaterial\lWriter::write" alt="" coords="495,157,706,201"/>
+<area shape="rect" id="node5" href="$d0/d8e/GeometryExampleBase_8cpp.html#a638bcb2569b8f786a0a26a7a7c05e79b" title="method to process a geometry" alt="" coords="801,165,941,193"/>
+<area shape="rect" id="node6" href="$db/d1f/AlignedGeometryExample_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main executable" alt="" coords="1095,165,1150,193"/>
+<area shape="rect" id="node8" href="$d8/d74/classActs_1_1JsonGeometryConverter.html#ad215289e3308e79e92b999b6e64f0814" title="Acts::JsonGeometryConverter\l::convertToRep" alt="" coords="489,225,712,269"/>
+<area shape="rect" id="node9" href="$dd/d89/structActs_1_1VolumeMaterialMapper_1_1BoundSurfaceSelector.html#a056446e58d83b2adfeb306051e4c6c75" title="Acts::VolumeMaterialMapper\l::BoundSurfaceSelector::\loperator()" alt="" coords="492,73,709,133"/>
+<area shape="rect" id="node11" href="$d3/de5/exceptionActsExamples_1_1CsvPlanarClusterWriter.html#ae2ee019b76690ca1359575baea1538ad" title="ActsExamples::CsvPlanarCluster\lWriter::writeT" alt="" coords="480,293,721,337"/>
+<area shape="rect" id="node12" href="$d6/d77/classActsExamples_1_1RootPlanarClusterWriter.html#aebbd699ee04b02616faf72f2f16be291" title="ActsExamples::RootPlanar\lClusterWriter::writeT" alt="" coords="501,361,701,405"/>
+<area shape="rect" id="node15" href="$d6/d42/classActs_1_1SurfaceMaterialMapper.html#a211c0ae365139c604d32ef5c30406ea7" title="check and insert" alt="" coords="491,429,710,473"/>
+<area shape="rect" id="node16" href="$d8/d7e/classActs_1_1VolumeMaterialMapper.html#a6770ebcd8d656df0bd2eeec29170bb42" title="check and insert" alt="" coords="492,497,709,541"/>
+<area shape="rect" id="node17" href="$dd/d7a/Mat__map__detector__plot_8C.html#ac0d08f0933de5ca6053592441e00dacb" title="Fill the histograms for the detector." alt="" coords="581,565,620,593"/>
+<area shape="rect" id="node26" href="$dd/d7e/namespaceActs_1_1Test.html#a6be9707dc235928a7c331961ece6fd24" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="507,617,695,661"/>
+<area shape="rect" id="node27" href="$d0/dcd/structActsSurfaceMaps.html#ab2c8e84382f9cea3e606078200165cd7" title="true if given surface corresponds to TPC" alt="" coords="484,823,717,851"/>
+<area shape="rect" id="node31" href="$d0/dcd/structActsSurfaceMaps.html#a3df0db25a4eb87ca9ad9ac1434fbffa0" title="true if given surface corresponds to Micromegas" alt="" coords="481,755,721,799"/>
+<area shape="rect" id="node18" href="$d3/dad/analysis__resolution_8C.html#ac92c825abaf05bbf41eca5af14788713" title="analysis_resolution" alt="" coords="797,367,946,395"/>
+<area shape="rect" id="node19" href="$dd/d7a/Mat__map__detector__plot_8C.html#af7a34c34b3ec246b4acbdbb51ba3f761" title="Mat_map_detector_plot" alt="" coords="781,419,961,447"/>
+<area shape="rect" id="node20" href="$da/d4e/Mat__map__detector__plot__ratio_8C.html#a7089f840159f32e304c35e63fcc84dbf" title="Mat_map_detector_plot\l_ratio" alt="" coords="781,471,961,515"/>
+<area shape="rect" id="node21" href="$dd/d39/Mat__map__surface__plot_8C.html#a316b27b9b510494703b3b9ba3b5ef653" title="Mat_map_surface_plot" alt="" coords="785,539,958,567"/>
+<area shape="rect" id="node22" href="$d0/dab/Mat__map__surface__plot__1D_8C.html#aed6e995568a560922476e7e1e169c8c6" title="Mat_map_surface_plot_1D" alt="" coords="772,591,971,619"/>
+<area shape="rect" id="node23" href="$df/da2/Mat__map__surface__plot__dist_8C.html#a1ba43ac341e9056ff679d7119c104bc6" title="Mat_map_surface_plot_dist" alt="" coords="769,643,973,671"/>
+<area shape="rect" id="node24" href="$d7/dee/Mat__map__surface__plot__ratio_8C.html#adb69c3efe670b5d46dee1f10d84945cf" title="Mat_map_surface_plot\l_ratio" alt="" coords="785,695,958,739"/>
+<area shape="rect" id="node25" href="$df/df5/classCaloCalibEmc__Pi0.html#ac1bc861ad87dd3ae5e8d47eed335506c" title="CaloCalibEmc_Pi0::process\l_event" alt="" coords="770,299,973,343"/>
+<area shape="rect" id="node28" href="$d1/d49/classPHActsTrkFitter.html#acc5917f8ce6e9708a1f97fca3c787cb8" title="PHActsTrkFitter::getSurface\lVector" alt="" coords="769,815,973,859"/>
+<area shape="rect" id="node29" href="$d1/d49/classPHActsTrkFitter.html#a73e603071673ca6e71dffe11dd7a7770" title="PHActsTrkFitter::loopTracks" alt="" coords="1021,792,1224,820"/>
+<area shape="rect" id="node30" href="$d1/d49/classPHActsTrkFitter.html#ac9f58d3a56f2ef578fd0dd38b1fdaec0" title="Process each event by calling the fitter." alt="" coords="1272,784,1455,828"/>
+</map>

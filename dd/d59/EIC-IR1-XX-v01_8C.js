@@ -1,0 +1,27 @@
+var EIC_IR1_XX_v01_8C =
+[
+    [ "acceptance", "dd/d59/EIC-IR1-XX-v01_8C.html#a6a7b042275b58d2c7846ab76eff5315b", null ],
+    [ "add", "dd/d59/EIC-IR1-XX-v01_8C.html#a2a26f8155275008b8d2e9cd7993ef3a6", null ],
+    [ "add", "dd/d59/EIC-IR1-XX-v01_8C.html#a574f8403b324ae348ecebba7e2121d68", null ],
+    [ "add", "dd/d59/EIC-IR1-XX-v01_8C.html#af90ac719b07d900ea01f2de1d6cefac1", null ],
+    [ "add", "dd/d59/EIC-IR1-XX-v01_8C.html#aecf9f2e2851235787a6ae20daeda7f05", null ],
+    [ "add", "dd/d59/EIC-IR1-XX-v01_8C.html#a47c361060d3b1b3e33953dae78ff9b53", null ],
+    [ "add", "dd/d59/EIC-IR1-XX-v01_8C.html#a2cc79eaef7b5926b9301a58d9da0a838", null ],
+    [ "add", "dd/d59/EIC-IR1-XX-v01_8C.html#a37e27e8a048398a50ea12f5e39b0dff1", null ],
+    [ "add", "dd/d59/EIC-IR1-XX-v01_8C.html#a799a5a1ba454f4f103ebfe273e72f0fa", null ],
+    [ "ApplyStandardTrimming", "dd/d59/EIC-IR1-XX-v01_8C.html#a4428b96ea6adc8c30684fd57a74e6b65", null ],
+    [ "bck", "dd/d59/EIC-IR1-XX-v01_8C.html#a6c4229186abccb9eb68c4ca780004773", null ],
+    [ "DefineVacuumChamber", "dd/d59/EIC-IR1-XX-v01_8C.html#a1e9a26270e45206c80244a509ba52ecd", null ],
+    [ "for", "dd/d59/EIC-IR1-XX-v01_8C.html#a983a72d7910e4f792e1689ccd13e1f0a", null ],
+    [ "fwd", "dd/d59/EIC-IR1-XX-v01_8C.html#a2b42113a8f7ce2377141de4ba29c0147", null ],
+    [ "hdraw", "dd/d59/EIC-IR1-XX-v01_8C.html#a0d7430ddba27e2174315b00731ba3bc0", null ],
+    [ "ip", "dd/d59/EIC-IR1-XX-v01_8C.html#a72673eb5694a8adf0663846a6b129280", null ],
+    [ "marker", "dd/d59/EIC-IR1-XX-v01_8C.html#a7ebe9a97cf1c8b6f34cea19415b6869f", null ],
+    [ "mid", "dd/d59/EIC-IR1-XX-v01_8C.html#a21bd44b627959f40067cd66fb96dc9f6", null ],
+    [ "offset", "dd/d59/EIC-IR1-XX-v01_8C.html#ae684f290699657d29d032142a90c23cc", null ],
+    [ "offset", "dd/d59/EIC-IR1-XX-v01_8C.html#adca5dcc49999def39dde5f806a846942", null ],
+    [ "offset", "dd/d59/EIC-IR1-XX-v01_8C.html#ac3cea13df155998791294c5bf6a451ba", null ],
+    [ "SetAzimuthalSegmentation", "dd/d59/EIC-IR1-XX-v01_8C.html#a2d457ab0de78d87ce2b0ef589919d8f3", null ],
+    [ "vtx", "dd/d59/EIC-IR1-XX-v01_8C.html#a888f39f7254b5b59976d577091d79a4e", null ],
+    [ "write", "dd/d59/EIC-IR1-XX-v01_8C.html#a7a26f57ad60f2d951e6c00b1e365be3b", null ]
+];

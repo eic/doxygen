@@ -1,0 +1,19 @@
+<map id="G4Init" name="G4Init">
+<area shape="rect" id="node2" href="$d6/d7a/fun4all__macros_2blob_2master_2common_2G4__Bbc_8C.html#a54ca5e995da51c5bbe384d1a2ad2a34e" title="BbcInit" alt="" coords="138,5,207,33"/>
+<area shape="rect" id="node3" href="$d4/ddd/fun4all__macros_2blob_2master_2common_2G4__BlackHole_8C.html#abc4b1269093f9c8b0c9db8f22f74e668" title="BlackHoleInit" alt="" coords="117,57,228,85"/>
+<area shape="rect" id="node4" href="$d8/d02/fun4all__eicmacros_2blob_2master_2common_2G4__CEmc__EIC_8C.html#a97abcefc9a3a83700563dd8ef3b25d54" title="CEmcInit" alt="" coords="131,109,214,137"/>
+<area shape="rect" id="node5" href="$d5/dcb/G4__FEMC_8C.html#ab3ff388a31376f88f8f69c96272994f2" title="FEMCInit" alt="" coords="132,161,213,189"/>
+<area shape="rect" id="node6" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html#aea203d253a0fbc2e48034453d1eaab76" title="FGEM_Init" alt="" coords="128,213,217,241"/>
+<area shape="rect" id="node7" href="$dd/dee/fun4all__eicmacros_2blob_2master_2common_2G4__FHCAL_8C.html#a1241bbf47c4a16622162555ed3153089" title="FHCALInit" alt="" coords="129,265,217,293"/>
+<area shape="rect" id="node8" href="$de/d26/G4__HCalIn__EIC_8C.html#a1cf4a552689f67a45a63a3899a6ab2cd" title="HCalInnerInit" alt="" coords="117,317,228,345"/>
+<area shape="rect" id="node9" href="$dd/da5/fun4all__eic__qa_2blob_2master_2macros_2G4__HcalOut__ref_8C.html#aa4f657f76b2e441fa33af7d5e1926ad0" title="HCalOuterInit" alt="" coords="116,369,229,397"/>
+<area shape="rect" id="node10" href="$d6/d9e/G4__Intt_8C.html#ad45414b369622be53c1a6f5dcf784270" title="InttInit" alt="" coords="139,421,206,449"/>
+<area shape="rect" id="node11" href="$df/d68/G4__Magnet__Beast_8C.html#a46ef15e2576e6a006f145e375d9525c1" title="MagnetFieldInit" alt="" coords="277,500,403,528"/>
+<area shape="rect" id="node12" href="$df/d68/G4__Magnet__Beast_8C.html#ab95d53454cdb41649376f8f9ff2a6291" title="MagnetInit" alt="" coords="125,525,220,553"/>
+<area shape="rect" id="node13" href="$d8/d33/G4__Mvtx__EIC_8C.html#a9b4b1fabfe410efc5548e7cbd0d3140e" title="MvtxInit" alt="" coords="135,577,211,605"/>
+<area shape="rect" id="node14" href="$d9/d41/fun4all__eicmacros_2blob_2master_2common_2G4__Pipe__EIC_8C.html#a2dbcf1a6263e72567cbc73a2cfb2bb60" title="PipeInit" alt="" coords="137,629,209,657"/>
+<area shape="rect" id="node15" href="$d6/d0a/G4__Piston_8C.html#a3c4706571658176d6f7ec65b52b90ede" title="PistonInit" alt="" coords="131,681,215,709"/>
+<area shape="rect" id="node16" href="$d4/d0f/G4__PlugDoor__EIC_8C.html#ad4f25ef5069a99845d6793bbc2619491" title="PlugDoorInit" alt="" coords="120,733,225,761"/>
+<area shape="rect" id="node17" href="$d3/d50/G4__TPC__EIC_8C.html#a9d38b0756815093b158b26fb5f767f84" title="TPCInit" alt="" coords="137,785,208,813"/>
+<area shape="rect" id="node18" href="$d1/dd8/G4__User_8C.html#a9690dcd7b4e0552e0346b18019fa8934" title="UserInit" alt="" coords="135,837,210,865"/>
+</map>

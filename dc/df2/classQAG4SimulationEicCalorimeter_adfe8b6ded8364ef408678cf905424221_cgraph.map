@@ -1,0 +1,17 @@
+<map id="QAG4SimulationEicCalorimeter::Init" name="QAG4SimulationEicCalorimeter::Init">
+<area shape="rect" id="node2" href="$dc/df2/classQAG4SimulationEicCalorimeter.html#a0125ab147a844367924193b77b66ff24" title="QAG4SimulationEicCalorimeter\l::flag" alt="" coords="285,5,517,49"/>
+<area shape="rect" id="node3" href="$dc/df2/classQAG4SimulationEicCalorimeter.html#ae435b78f48d2ddfcc2781000079f6574" title="common prefix for QA histograms" alt="" coords="567,172,799,216"/>
+<area shape="rect" id="node4" href="$d8/db5/namespaceQAHistManagerDef.html#a95764557eee8578107f3f8cac5a640da" title="Get a pointer to the default hist manager for QA modules." alt="" coords="576,364,791,408"/>
+<area shape="rect" id="node7" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="1139,275,1315,303"/>
+<area shape="rect" id="node10" href="$dc/df2/classQAG4SimulationEicCalorimeter.html#a6ef616a8c9e297b20bec7ca88a3bec17" title="QAG4SimulationEicCalorimeter\l::Init_Cluster" alt="" coords="285,176,517,220"/>
+<area shape="rect" id="node11" href="$d3/d96/classFun4AllHistoManager.html#a7e1354855437fa28bb0d29dc0581d0a6" title="Fun4AllHistoManager\l::registerHisto" alt="" coords="601,240,766,284"/>
+<area shape="rect" id="node13" href="$dc/df2/classQAG4SimulationEicCalorimeter.html#ae9da9bb21f8952c5cdc496e6bfd742d4" title="QAG4SimulationEicCalorimeter\l::Init_G4Hit" alt="" coords="285,364,517,408"/>
+<area shape="rect" id="node16" href="$dc/df2/classQAG4SimulationEicCalorimeter.html#a439c5dd41855b2701e80d0ade80f228d" title="QAG4SimulationEicCalorimeter\l::Init_Tower" alt="" coords="285,296,517,340"/>
+<area shape="rect" id="node5" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="879,404,1061,432"/>
+<area shape="rect" id="node6" href="$da/d29/classFun4AllServer.html#af5885837658eb26f98dbc697b58747a7" title="Fun4AllServer::getHistoManager" alt="" coords="849,352,1091,380"/>
+<area shape="rect" id="node8" href="$da/d29/classFun4AllServer.html#a377f113767f24ce6413e678752ed7f53" title="Fun4AllServer::registerHisto\lManager" alt="" coords="865,456,1075,500"/>
+<area shape="rect" id="node9" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="1150,464,1303,492"/>
+<area shape="rect" id="node12" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="947,248,993,276"/>
+<area shape="rect" id="node14" href="$d8/db5/namespaceQAHistManagerDef.html#a7e5037158f73c3ab97c4ddd6b974b34a" title="utility function to" alt="" coords="565,308,801,336"/>
+<area shape="rect" id="node15" href="$d4/dad/eicroot_8C.html#a9392a90f93e785e9ed60558fddd33359" title="width" alt="" coords="941,300,999,328"/>
+</map>

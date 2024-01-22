@@ -1,0 +1,12 @@
+<map id="PHG4MvtxDetector::ConstructMvtxPassiveVol" name="PHG4MvtxDetector::ConstructMvtxPassiveVol">
+<area shape="rect" id="node2" href="$d6/db8/classG4GDMLReadStructure.html#a9f564bcb1d38d28f12accc0fecc9d54f" title="G4GDMLReadStructure\l::GetAssembly" alt="" coords="297,5,473,49"/>
+<area shape="rect" id="node4" href="$d4/dc1/classPHG4MvtxDetector.html#a7aa07c5db6cf71c84864cdef6481cbc6" title="PHG4MvtxDetector::GetMvtx\lOuterShell" alt="" coords="277,73,492,117"/>
+<area shape="rect" id="node7" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="540,141,761,169"/>
+<area shape="rect" id="node8" href="$d0/dfa/reader_8C.html#a262d195bd786506862f9ad0d1aeb76cf" title="reader" alt="" coords="351,193,418,221"/>
+<area shape="rect" id="node11" href="$d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c" title="PHG4Detector::Verbosity" alt="" coords="290,245,479,273"/>
+<area shape="rect" id="node3" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="628,13,673,41"/>
+<area shape="rect" id="node5" href="$d3/de7/classPHG4Detector.html#a8e548682ab05493f7cdbd391bc4f67be" title="PHG4Detector::GetDetector\lMaterial" alt="" coords="546,73,755,117"/>
+<area shape="rect" id="node6" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="815,81,862,109"/>
+<area shape="rect" id="node9" href="$d8/d51/classEicToyModel.html#a5e992ec670f1ccf5842edfc11423e42f" title="EicToyModel::Import" alt="" coords="571,193,730,221"/>
+<area shape="rect" id="node10" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="809,193,868,221"/>
+</map>

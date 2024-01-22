@@ -1,0 +1,25 @@
+<map id="PHTpcResiduals::calculateTpcResiduals" name="PHTpcResiduals::calculateTpcResiduals">
+<area shape="rect" id="node2" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="325,5,436,33"/>
+<area shape="rect" id="node4" href="$d5/dbb/classActs_1_1SingleBoundTrackParameters.html#a12ccf0b3c79ad21b0c2ac0be0adc0ed8" title="Absolute momentum." alt="" coords="252,57,509,101"/>
+<area shape="rect" id="node5" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="637,80,681,108"/>
+<area shape="rect" id="node6" href="$d5/dbb/classActs_1_1SingleBoundTrackParameters.html#acfcdb25cfabf88e03315e569e6d4ece4" title="Optional covariance matrix." alt="" coords="252,296,509,340"/>
+<area shape="rect" id="node7" href="$d5/d55/classPHTpcResiduals.html#a1f08994c59a9f479be45e1bdf1d031ce" title="Gets distortion cell for identifying bins in TPC." alt="" coords="289,364,473,392"/>
+<area shape="rect" id="node11" href="$d6/dfa/classTrkrCluster.html#ab18c56f7c1aa174203dcf8fbf0141279" title="TrkrCluster::getClusKey" alt="" coords="569,132,749,160"/>
+<area shape="rect" id="node12" href="$df/db5/classActsTransformations.html#ad73bc53ee88d22ebdf1a0b6ac5456cec" title="ActsTransformations\l::getGlobalPosition" alt="" coords="301,228,461,272"/>
+<area shape="rect" id="node18" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="307,416,455,444"/>
+<area shape="rect" id="node19" href="$d6/dfa/classTrkrCluster.html#a8bc3c5d7fe1fe62cd729f0e30712d725" title="TrkrCluster::getRPhiError" alt="" coords="286,468,475,496"/>
+<area shape="rect" id="node20" href="$d6/dfa/classTrkrCluster.html#a73c9bdc559b2906e6cfc942d1bf355ed" title="TrkrCluster::getZError" alt="" coords="296,520,465,548"/>
+<area shape="rect" id="node21" href="$d5/dbb/classActs_1_1SingleBoundTrackParameters.html#a2b98cecaa5f095c40a16b2be854bfaf9" title="Momentum three&#45;vector." alt="" coords="252,572,509,616"/>
+<area shape="rect" id="node22" href="$d5/dbb/classActs_1_1SingleBoundTrackParameters.html#a4b2ca7926011705fb822cf5a69b0e17b" title="Acts::SingleBoundTrackParameters\l::position" alt="" coords="252,640,509,684"/>
+<area shape="rect" id="node23" href="$d1/d22/EllipseBounds_8cpp.html#ab14acda17eb07a638824bb5e3873c586" title="square" alt="" coords="347,708,414,736"/>
+<area shape="rect" id="node24" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="293,760,469,788"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="571,5,747,33"/>
+<area shape="rect" id="node8" href="$d8/d2b/namespaceQAG4Util.html#a61d46189a0883ae4af122eb5ef596946" title="radius" alt="" coords="596,460,723,488"/>
+<area shape="rect" id="node10" href="$d1/d72/EIC-IR1-XX-v01a_8C.html#a3fd818ea23ff1d99b471adf13ea99242" title="ir" alt="" coords="640,512,679,540"/>
+<area shape="rect" id="node9" href="$d8/d2b/namespaceQAG4Util.html#acb654c77dcfa7a61ba444f92481283c1" title="square" alt="" coords="809,460,947,488"/>
+<area shape="rect" id="node13" href="$d6/dfa/classTrkrCluster.html#acc835716d1c4f76e9c0da8e5a79e25c1" title="TrkrCluster::getLocalX" alt="" coords="574,184,745,212"/>
+<area shape="rect" id="node14" href="$d6/dfa/classTrkrCluster.html#a05e4879520abe27bc6028bc05fc94162" title="TrkrCluster::getLocalY" alt="" coords="574,236,745,264"/>
+<area shape="rect" id="node15" href="$db/d81/namespaceActs_1_1MeasurementHelpers.html#af6bf98068f55e3d194425beaf2dd92be" title="Extract surface from a type erased measurement object." alt="" coords="557,288,761,332"/>
+<area shape="rect" id="node16" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="586,356,733,384"/>
+<area shape="rect" id="node17" href="$dc/de5/PHG4mRICHDetector_8cc.html#acaaf109d582b14d4880c13e89c1243e1" title="surface" alt="" coords="624,408,695,436"/>
+</map>

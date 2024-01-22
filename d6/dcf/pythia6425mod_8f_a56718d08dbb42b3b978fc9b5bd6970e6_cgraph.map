@@ -1,0 +1,10 @@
+<map id="pylogo" name="pylogo">
+<area shape="rect" id="node2" href="$d0/d35/classActs_1_1IVisualization3D.html#a86a81d7ed4d1aaf62638a98aab8c3f0b" title="Acts::IVisualization3D\l::line" alt="" coords="120,5,289,49"/>
+<area shape="rect" id="node3" href="$d6/dcf/pythia6425mod_8f.html#a4140396b9ec9bafcebf4c7ebecb462e7" title="pystop" alt="" coords="171,73,238,101"/>
+<area shape="rect" id="node9" href="$d6/dcf/pythia6425mod_8f.html#a523e4acf745637220400daf831c34a23" title="pytime" alt="" coords="171,125,239,153"/>
+<area shape="rect" id="node4" href="$d0/d5e/classPHTimer.html#adce6f9a85834e59bd154b9c624ee4e41" title="stops the counter" alt="" coords="337,73,453,101"/>
+<area shape="rect" id="node5" href="$d0/d5e/classPHTimer.html#aa92e3fe4a0a1799f39743eda9ef9d497" title="gets time from cpu clock counts" alt="" coords="706,39,857,83"/>
+<area shape="rect" id="node6" href="$d0/d5e/classPHTimer.html#a976738876ad978116fdc4549a3765685" title="retrieve elapsed value since last restart (in ms)" alt="" coords="501,99,641,127"/>
+<area shape="rect" id="node7" href="$d0/d5e/classPHTimer.html#aa75ff2c27aba40e7ef0a934f9a3355c2" title="returns difference between to time" alt="" coords="689,107,873,135"/>
+<area shape="rect" id="node8" href="$d2/db1/classPHTimer_1_1Frequency.html#a023a2d706df9a8bd303810a9ed017f61" title="period accessor" alt="" coords="921,99,1079,143"/>
+</map>

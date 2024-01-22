@@ -1,0 +1,26 @@
+var G4__TrackingService_8C =
+[
+    [ "ServiceStructure", "d9/d00/classServiceStructure.html", "d9/d00/classServiceStructure" ],
+    [ "MACRO_G4TrackingService_C", "de/dce/G4__TrackingService_8C.html#aeeb7277def894fb7987df7501f2f5c5f", null ],
+    [ "get_thickness", "de/dce/G4__TrackingService_8C.html#afa1a546b2a06d34fe5a5a3f91461983a", null ],
+    [ "TrackingService", "de/dce/G4__TrackingService_8C.html#a53d54b6364f42555b9c7805ee83ac33f", null ],
+    [ "TrackingServiceCone", "de/dce/G4__TrackingService_8C.html#a9c4417fefc390183537a0212fa8f9025", null ],
+    [ "TrackingServiceCylinder", "de/dce/G4__TrackingService_8C.html#a0c212a5d289199880aaa55979ae16da2", null ],
+    [ "TrackingServiceInit", "de/dce/G4__TrackingService_8C.html#ae8d9362ab6297b2826099d00ec50522c", null ],
+    [ "BarrelLength", "de/dce/G4__TrackingService_8C.html#ad04e96e56a48cfa9ebb05255d3f24721", null ],
+    [ "BarrelOffset", "de/dce/G4__TrackingService_8C.html#ac529330445bf96003f08c15311280a9b", null ],
+    [ "BarrelRadius", "de/dce/G4__TrackingService_8C.html#adc0ad241eee30f4e4c6dc525062c211e", null ],
+    [ "BarrelThickness", "de/dce/G4__TrackingService_8C.html#a10acf2f07144dd90c87f1f9de465b01d", null ],
+    [ "CYSSConeThickness", "de/dce/G4__TrackingService_8C.html#ad4decc5215bc980c3e8411e41b7cd189", null ],
+    [ "CYSSRibThickness", "de/dce/G4__TrackingService_8C.html#a797c0ec913f85fcecf38956a530466aa", null ],
+    [ "GlobalOffset", "de/dce/G4__TrackingService_8C.html#aa19087983c1af58d12e2763a98c2fac3", null ],
+    [ "grey", "de/dce/G4__TrackingService_8C.html#aee61ef6938022d7268f75c72f80462b2", null ],
+    [ "LayerThickness", "de/dce/G4__TrackingService_8C.html#a5aafe0e6ad53990934cf031d888b5c8c", null ],
+    [ "materials", "de/dce/G4__TrackingService_8C.html#abed1da8403ab2b2404517dd410f85d40", null ],
+    [ "nMaterials", "de/dce/G4__TrackingService_8C.html#af2de66aa30f08ccbd16314f7f367fcab", null ],
+    [ "subsysID", "de/dce/G4__TrackingService_8C.html#af76b772d529be33120f796a6734e3291", null ],
+    [ "TrackingService", "de/dce/G4__TrackingService_8C.html#ac0ecc908b0e4cf247bc9b0f121133960", null ],
+    [ "TrackingService_ABSORBER", "de/dce/G4__TrackingService_8C.html#a06105906dd7e2eca808dbb378bd730da", null ],
+    [ "TrackingService_OVERLAPCHECK", "de/dce/G4__TrackingService_8C.html#a38dfb9f4e69f28cc770c103cc8c548ba", null ],
+    [ "TrackingService_VERBOSITY", "de/dce/G4__TrackingService_8C.html#a177af49c6f431f99cb29c9361ef3a45d", null ]
+];

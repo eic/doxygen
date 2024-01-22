@@ -1,0 +1,8 @@
+<map id="CbmBaseHit::SetDz" name="CbmBaseHit::SetDz">
+<area shape="rect" id="node2" href="$d6/d31/classCbmPixelHit.html#a8a64e4ef76026365e0df87ae1b56d2ab" title="Standard constructor." alt="" coords="207,5,401,33"/>
+<area shape="rect" id="node3" href="$db/d2f/classCbmStripHit.html#a48c8216db522d4cecc489ed25c27f7a8" title="Standard constructor." alt="" coords="207,57,401,85"/>
+<area shape="rect" id="node4" href="$d6/d31/classCbmPixelHit.html#ae314b0902ad674063b8ff32e123b327d" title="CbmPixelHit::SetPosition\lError" alt="" coords="211,109,397,153"/>
+<area shape="rect" id="node5" href="$da/d9f/classCbmRichHitProducer.html#ae09a5880ed6c729e141561a628143178" title="Adds a RichHit to the HitCollection." alt="" coords="449,109,611,153"/>
+<area shape="rect" id="node6" href="$da/d9f/classCbmRichHitProducer.html#afe4f7cc5874368e44deb8ac6cd756e52" title="Inherited from FairTask." alt="" coords="868,109,1029,153"/>
+<area shape="rect" id="node7" href="$da/d9f/classCbmRichHitProducer.html#a587c0db1e409265d8fbebdab293357a9" title="Add cross talk hits." alt="" coords="659,139,820,183"/>
+</map>

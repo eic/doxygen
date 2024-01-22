@@ -1,0 +1,49 @@
+<map id="FairRootManager::Register" name="FairRootManager::Register">
+<area shape="rect" id="node2" href="$dd/df6/classEicCalorimeterDigiHitProducer.html#a69502d8d811b7f7fa6189488dda1df73" title="EicCalorimeterDigiHitProducer\l::ExtraInit" alt="" coords="261,5,487,49"/>
+<area shape="rect" id="node3" href="$df/dca/classEicTrackingDigiHitProducer.html#a1ff9471b61292aedf9956e36ae86d19b" title="EicTrackingDigiHitProducer\l::ExtraInit" alt="" coords="272,73,476,117"/>
+<area shape="rect" id="node4" href="$d2/d88/classFairWriteoutBuffer.html#a5cb8ff3e179a902fe51ee1c4bc6c561b" title="FairWriteoutBuffer\l::FairWriteoutBuffer" alt="" coords="297,141,451,185"/>
+<area shape="rect" id="node5" href="$d7/d86/classPndTrackArrayMerger.html#a1526cf0245f1a66434ea2ccde035bb41" title="PndTrackArrayMerger\l::Init" alt="" coords="291,209,457,253"/>
+<area shape="rect" id="node6" href="$da/d7a/classPndMcCloner.html#adb94736f7e73051c86c1ff110100a891" title="PndMcCloner::Init" alt="" coords="304,277,444,305"/>
+<area shape="rect" id="node7" href="$de/d85/classPndGFTrackToPndTrackConvertorTask.html#ae416d4457613394b7dc5a5a73325a35c" title="PndGFTrackToPndTrackConvertor\lTask::Init" alt="" coords="253,329,495,373"/>
+<area shape="rect" id="node8" href="$d7/d6e/classCbmMCMatchCreatorTask.html#ac1d5d6d9fb74ffabd3e6a2a744553a08" title="CbmMCMatchCreatorTask\l::Init" alt="" coords="277,397,471,441"/>
+<area shape="rect" id="node9" href="$df/deb/classCbmMCMatchLoaderTask.html#ae324f5fe8f9e767c983ba820936094de" title="CbmMCMatchLoaderTask\l::Init" alt="" coords="279,465,469,509"/>
+<area shape="rect" id="node10" href="$d3/d47/classPrimSelector.html#a4d60597e1f4dceaecfa0e0b705dfcf28" title="PrimSelector::Init" alt="" coords="305,533,443,561"/>
+<area shape="rect" id="node11" href="$da/d9f/classCbmRichHitProducer.html#aa215fb5147a6128031c8a2641166b95b" title="Inherited from FairTask." alt="" coords="293,585,455,629"/>
+<area shape="rect" id="node12" href="$d7/d14/classCbmRichMatchRings.html#a26b57096890786d0d8e7b9f88db72c09" title="Inherited from FairTask." alt="" coords="279,653,469,681"/>
+<area shape="rect" id="node13" href="$d5/dcf/classCbmRichReconstruction.html#a033b32af5a9898f8e52a3b11203d8615" title="Inherited from FairTask." alt="" coords="283,705,465,749"/>
+<area shape="rect" id="node14" href="$d2/d28/classPndRecoMultiKalmanTask.html#a2cd3091d86c861ebbe86473bd5405dd9" title="PndRecoMultiKalmanTask\l::Init" alt="" coords="277,773,471,817"/>
+<area shape="rect" id="node15" href="$d7/d87/classPndRecoKalmanTask.html#a33b7a5331aaa1b81224f3b2061a2c3eb" title="PndRecoKalmanTask::Init" alt="" coords="279,841,469,869"/>
+<area shape="rect" id="node17" href="$d5/df8/classFairRingSorterTask.html#a3d0081c6d6c2b6fdb82045d77fd28c5e" title="FairRingSorterTask\l::Init" alt="" coords="301,893,447,937"/>
+<area shape="rect" id="node18" href="$d0/dd5/classEicCalorimeterReconstruction.html#a4e370cb1dcee2d8570124b7c9fcdd865" title="EicCalorimeterReconstruction\l::Init" alt="" coords="263,961,485,1005"/>
+<area shape="rect" id="node19" href="$de/d40/classFairRadLenManager.html#ad95893f16854c534fe40409885228ab7" title="FairRadLenManager::Init" alt="" coords="281,1029,467,1057"/>
+<area shape="rect" id="node21" href="$d3/d62/classFairRadMapManager.html#a8b185511f173b93d9c8b1200aab44c24" title="FairRadMapManager::Init" alt="" coords="279,1081,469,1109"/>
+<area shape="rect" id="node22" href="$d4/d04/classFwdTrackFinder.html#aede5d387f06d05b801e76f3c977fce68" title="FwdTrackFinder::Init" alt="" coords="565,1332,721,1360"/>
+<area shape="rect" id="node23" href="$dc/d50/classFairTrajFilter.html#a3734d0c427652383c7de03dbc5e008da" title="FairTrajFilter::Init" alt="" coords="307,1201,441,1229"/>
+<area shape="rect" id="node34" href="$d7/d9f/classEicHtcTask.html#a87172e2c8a22bbee83d4624f2e131034" title="EicHtcTask::Init" alt="" coords="312,1357,436,1385"/>
+<area shape="rect" id="node35" href="$d4/dca/classCbmMCEventHeader.html#a1f591e3add6e5badf37855f5bbf2c8e4" title="CbmMCEventHeader::Register" alt="" coords="261,1409,487,1437"/>
+<area shape="rect" id="node36" href="$dd/db6/classFairEventHeader.html#a5ecf8a1565ac2fca71e5648970a14fbe" title="FairEventHeader::Register" alt="" coords="275,1253,473,1281"/>
+<area shape="rect" id="node39" href="$dd/d8f/classFairMCEventHeader.html#a8d9b9dfc93a5754d1d0d8afcdfa13d89" title="FairMCEventHeader::\lRegister" alt="" coords="293,1133,455,1177"/>
+<area shape="rect" id="node40" href="$dd/d8a/classEicIdealTrackingCode.html#a31e97f60969df23a3e7e7a3c93b0aa67" title="EicIdealTrackingCode\l::Register" alt="" coords="291,1461,457,1505"/>
+<area shape="rect" id="node42" href="$d8/dd9/classCbmRich.html#acf5eaaae21ad553e59c15a4ea00da0ee" title="Registers the hit collection in the ROOT manager." alt="" coords="301,1529,447,1557"/>
+<area shape="rect" id="node43" href="$dd/dac/classEicDetector.html#a006cd2146093b94dffb08e205e44b534" title="EicDetector::Register" alt="" coords="292,1581,456,1609"/>
+<area shape="rect" id="node44" href="$d0/d6c/classFairRootManager.html#a8304f9c7218d350a9018596298ba4320" title="FairRootManager::Register" alt="" coords="274,1633,474,1661"/>
+<area shape="rect" id="node45" href="$d9/dd6/classCbmStack.html#af1b18c88246f05109ba561e8ec3b44ac" title="CbmStack::Register" alt="" coords="297,1685,451,1713"/>
+<area shape="rect" id="node46" href="$d5/dd2/classPndStack.html#ac009746f3f06aaa56542d40a24af2b35" title="PndStack::Register" alt="" coords="300,1737,448,1765"/>
+<area shape="rect" id="node47" href="$dd/d8c/classPndPidCorrelator.html#a567b99ae8ac84b12d7431bde711cd48c" title="PndPidCorrelator::Register" alt="" coords="275,1789,473,1817"/>
+<area shape="rect" id="node16" href="$d2/db6/classEicRecoKalmanTask.html#a268e42220934cbf1250b3eb6c6163d2f" title="EicRecoKalmanTask::Init" alt="" coords="551,841,736,869"/>
+<area shape="rect" id="node20" href="$d8/def/classFairMCApplication.html#ae6ed46ec48c80c4db0483b98052e6a1a" title="FairMCApplication::\lInitGeometry" alt="" coords="568,1103,719,1147"/>
+<area shape="rect" id="node24" href="$de/da9/classFairRunAna.html#a52f4d86d087d13855edc6bd567373144" title="FairRunAna::Init" alt="" coords="579,1201,708,1229"/>
+<area shape="rect" id="node25" href="$dc/db9/classEicEventManager.html#a9d62fa56c5683f8af8fd9cefc54028a0" title="EicEventManager::Init" alt="" coords="1026,1124,1197,1152"/>
+<area shape="rect" id="node28" href="$d4/dc9/classEicRunAna.html#a40d043c91b72d8f50eb850be50fd06c1" title="EicRunAna::Init" alt="" coords="817,1176,941,1204"/>
+<area shape="rect" id="node33" href="$d9/da4/classFairEventManager.html#a781b12eb73b7c8175373776c6d5ac34e" title="FairEventManager::Init" alt="" coords="792,1228,967,1256"/>
+<area shape="rect" id="node26" href="$dc/db9/classEicEventManager.html#a395b5cf24061c5057ec29682319debf1" title="EicEventManager::Run" alt="" coords="1256,1124,1429,1152"/>
+<area shape="rect" id="node27" href="$d4/dc8/examples_2physics_2config_82_2eventDisplay_8C.html#a0dea102c5707fa0bc64fcf379ce890a5" title="eventDisplay" alt="" coords="1482,1124,1591,1152"/>
+<area shape="rect" id="node29" href="$d4/dc9/classEicRunAna.html#ae75870f13b97d83ea5f7f7218e94d6b5" title="EicRunAna::RunCoreStart" alt="" coords="1015,1176,1208,1204"/>
+<area shape="rect" id="node30" href="$d4/dc9/classEicRunAna.html#a1e307dd82a86ffe6a742148b388a0bab" title="EicRunAna::Run" alt="" coords="1279,1176,1407,1204"/>
+<area shape="rect" id="node31" href="$d8/d11/examples_2physics_2config_82_2digitization_8C.html#afd97e93afdacaf415631892fe39fdf2c" title="digitization" alt="" coords="1489,1176,1585,1204"/>
+<area shape="rect" id="node32" href="$de/d0b/examples_2physics_2config_82_2reconstruction_8C.html#a3d26f5f344cf2281e72b22d404fd8c51" title="reconstruction" alt="" coords="1477,1228,1596,1256"/>
+<area shape="rect" id="node37" href="$de/da9/classFairRunAna.html#a28d7fa489d6f976721eb991c485dd8bf" title="FairRunAna::InitContainers" alt="" coords="543,1267,744,1295"/>
+<area shape="rect" id="node38" href="$d8/da7/classFairAnaSelector.html#ae4cc7c114a2ae1a59b3e3e8d7a078832" title="FairAnaSelector::Init" alt="" coords="801,1280,958,1308"/>
+<area shape="rect" id="node41" href="$dd/d8a/classEicIdealTrackingCode.html#abf7fa4e4c83d896e1682bcb51f06b6ba" title="EicIdealTrackingCode\l::Init" alt="" coords="561,1461,726,1505"/>
+<area shape="rect" id="node48" href="$dd/d8c/classPndPidCorrelator.html#a69bd198a35b7199b60b8b56b1501dd5c" title="PndPidCorrelator::Init" alt="" coords="561,1789,725,1817"/>
+</map>

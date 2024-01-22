@@ -1,0 +1,16 @@
+<map id="KfMatrix::Unity" name="KfMatrix::Unity">
+<area shape="rect" id="node2" href="$de/ddb/classKalmanNode.html#a55bcf1838e20af0d0dd12ec98b4196c1" title="KalmanNode::AllocateKfMatrices" alt="" coords="176,208,417,236"/>
+<area shape="rect" id="node15" href="$d6/d2a/classKalmanFilter.html#a6bef90f1a4f160db78e6244a690b3a01" title="KalmanFilter::KalmanFilter" alt="" coords="197,260,396,288"/>
+<area shape="rect" id="node3" href="$d6/d2a/classKalmanFilter.html#a1e6a94b24e4c9a6cf3dfade25482f153" title="KalmanFilter::AddNode" alt="" coords="465,208,641,236"/>
+<area shape="rect" id="node4" href="$d6/d2a/classKalmanFilter.html#a8b30371bca3e6dc697ee6ec300c4af57" title="KalmanFilter::AddNodeWrapper" alt="" coords="689,151,924,179"/>
+<area shape="rect" id="node13" href="$d4/d04/classFwdTrackFinder.html#aede5d387f06d05b801e76f3c977fce68" title="FwdTrackFinder::Init" alt="" coords="1969,208,2125,236"/>
+<area shape="rect" id="node5" href="$df/de7/classKalmanNodeWrapper.html#a20f9e62ac7da7c66ab073a211dbfd7b0" title="KalmanNodeWrapper::\lAllocateNewKfNode" alt="" coords="975,51,1149,95"/>
+<area shape="rect" id="node9" href="$d6/d2a/classKalmanFilter.html#a6416ee1ca85f5d68fb1e4789db0866e2" title="KalmanFilter::Configure" alt="" coords="972,120,1152,148"/>
+<area shape="rect" id="node14" href="$d7/d9f/classEicHtcTask.html#a67b47ff02df77671eb038adb1ac75ee2" title="EicHtcTask::DeclareSensitive\lVolumes" alt="" coords="1203,169,1417,213"/>
+<area shape="rect" id="node6" href="$da/d13/classFwdHoughTree.html#a2c6b906fed9b9e2df2d061a675ab56da" title="FwdHoughTree::SetupKalman\lFilter" alt="" coords="1200,49,1420,93"/>
+<area shape="rect" id="node7" href="$da/d13/classFwdHoughTree.html#a77ab6d8abaaa4419df4106fb469bbe63" title="FwdHoughTree::FinalFit" alt="" coords="1519,5,1698,33"/>
+<area shape="rect" id="node8" href="$da/d13/classFwdHoughTree.html#a9dc064fb3543a4cc5b1d2f175d3493f4" title="FwdHoughTree::ResolveAmbiguitiesNg" alt="" coords="1468,57,1749,85"/>
+<area shape="rect" id="node10" href="$d6/da0/classTrKalmanFilter.html#ad459e3f2b38b83027c55d87b2efae590" title="TrKalmanFilter::Configure" alt="" coords="1213,117,1407,145"/>
+<area shape="rect" id="node11" href="$d7/d9f/classEicHtcTask.html#a25703479e0b0d5a3da9d4e233b20c187" title="EicHtcTask::ConfigureKalman\lFilter" alt="" coords="1499,109,1718,153"/>
+<area shape="rect" id="node12" href="$d7/d9f/classEicHtcTask.html#a87172e2c8a22bbee83d4624f2e131034" title="EicHtcTask::Init" alt="" coords="1797,177,1921,205"/>
+</map>

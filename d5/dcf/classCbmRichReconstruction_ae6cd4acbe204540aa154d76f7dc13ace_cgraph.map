@@ -1,0 +1,33 @@
+<map id="CbmRichReconstruction::Exec" name="CbmRichReconstruction::Exec">
+<area shape="rect" id="node2" href="$d5/dcf/classCbmRichReconstruction.html#a9f5c77264621194bb7051cc34fd125e3" title="CbmRichReconstruction\l::RunExtrapolation" alt="" coords="235,100,416,144"/>
+<area shape="rect" id="node4" href="$d5/dcf/classCbmRichReconstruction.html#a1e81aa3ea3655ae5b295648ffbc01d7b" title="CbmRichReconstruction\l::RunFinder" alt="" coords="235,229,416,273"/>
+<area shape="rect" id="node6" href="$d5/dcf/classCbmRichReconstruction.html#ae90c91a3975fc059aac7a20e216ef0e9" title="CbmRichReconstruction\l::RunFitter" alt="" coords="235,419,416,463"/>
+<area shape="rect" id="node29" href="$d5/dcf/classCbmRichReconstruction.html#a856c752837f167796bb44bcd5c9fa0c1" title="CbmRichReconstruction\l::RunProjection" alt="" coords="235,520,416,564"/>
+<area shape="rect" id="node31" href="$d5/dcf/classCbmRichReconstruction.html#aa364440eaeb12bd06c98496543ff3d39" title="CbmRichReconstruction\l::RunTrackAssign" alt="" coords="235,605,416,649"/>
+<area shape="rect" id="node3" href="$dc/d48/classCbmRichTrackExtrapolationBase.html#a1aa0fc7bf94445113a1eab88398ea282" title="Read the global track array, extrapolate track to a given z&#45;Plane in RICH detector and fill output ar..." alt="" coords="481,44,688,88"/>
+<area shape="rect" id="node5" href="$d1/ded/classCbmRichRingFinder.html#a62755903fa7430ea2a6f00e0fbccb7b6" title="CbmRichRingFinder::\lDoFind" alt="" coords="504,112,665,156"/>
+<area shape="rect" id="node7" href="$d5/d99/classCbmRichConverter.html#ac656c5037798f232d3b92e44c8ab4176" title="Copy hits from CbmRichRing to CbmRichRingLight." alt="" coords="476,180,693,224"/>
+<area shape="rect" id="node13" href="$d9/d04/classCbmRichRingFitterBase.html#aa54575f37665ee0ddc236e042cf50c14" title="Abstract method DoFit. To be implemented in the concrete class. Perform a fit to the hits attached to..." alt="" coords="495,419,674,463"/>
+<area shape="rect" id="node14" href="$d5/d99/classCbmRichConverter.html#a0af3be93e10cb64651a85cc6c0eeed6b" title="Copy parameters from CbmRichRingLight to CbmRichRing." alt="" coords="464,517,705,561"/>
+<area shape="rect" id="node8" href="$de/d89/classCbmRichRingLight.html#ab9fbb35cafa00b8f9bc76e005536421b" title="Add new hit to the ring." alt="" coords="769,5,971,33"/>
+<area shape="rect" id="node9" href="$dc/d9e/classCbmRichRing.html#a1116253a107d9b94f1f20858ea698a5f" title="CbmRichRing::GetHit" alt="" coords="787,57,953,85"/>
+<area shape="rect" id="node10" href="$dc/d9e/classCbmRichRing.html#a07ef5492b731a22b87060e5249fd96ee" title="CbmRichRing::GetNofHits" alt="" coords="773,109,967,137"/>
+<area shape="rect" id="node11" href="$d6/d31/classCbmPixelHit.html#a69fc4f8f6a1fd9009f2232f86cacbf97" title="CbmPixelHit::GetX" alt="" coords="797,161,943,189"/>
+<area shape="rect" id="node12" href="$d6/d31/classCbmPixelHit.html#a54ab17df317249dc7cbdbf477c3dc533" title="CbmPixelHit::GetY" alt="" coords="797,213,943,241"/>
+<area shape="rect" id="node15" href="$de/d89/classCbmRichRingLight.html#a7bea967c0a79889d5547fd6ad762ddac" title="CbmRichRingLight::GetAaxis" alt="" coords="763,265,977,293"/>
+<area shape="rect" id="node16" href="$de/d89/classCbmRichRingLight.html#a354eba46248ef5a37d2ac0fba10331ad" title="CbmRichRingLight::GetBaxis" alt="" coords="763,317,977,345"/>
+<area shape="rect" id="node17" href="$de/d89/classCbmRichRingLight.html#aa919c6cf5b852f0b89f0aee7ac8e1573" title="CbmRichRingLight::GetCenterX" alt="" coords="753,369,987,397"/>
+<area shape="rect" id="node18" href="$de/d89/classCbmRichRingLight.html#a410d6c9513ea5dde4f59660898139aa7" title="CbmRichRingLight::GetCenterY" alt="" coords="753,421,987,449"/>
+<area shape="rect" id="node19" href="$de/d89/classCbmRichRingLight.html#a78abf276ad9b4e81849afc5930602335" title="CbmRichRingLight::GetChi2" alt="" coords="766,473,974,501"/>
+<area shape="rect" id="node20" href="$de/d89/classCbmRichRingLight.html#a286db5d14acabd5c23e5c89d3dbdc448" title="CbmRichRingLight::GetPhi" alt="" coords="771,525,969,553"/>
+<area shape="rect" id="node21" href="$de/d89/classCbmRichRingLight.html#a7075628216df426788b864369f6d9c61" title="CbmRichRingLight::GetRadius" alt="" coords="758,577,982,605"/>
+<area shape="rect" id="node22" href="$dc/d9e/classCbmRichRing.html#a036a637ded653151fd9a78b85068c0a1" title="CbmRichRing::SetAaxis" alt="" coords="780,629,960,657"/>
+<area shape="rect" id="node23" href="$dc/d9e/classCbmRichRing.html#a4449dd93301b798032c4fb92da73099d" title="CbmRichRing::SetBaxis" alt="" coords="780,681,960,709"/>
+<area shape="rect" id="node24" href="$dc/d9e/classCbmRichRing.html#a9deef3e261bc9b87e243b57505d62661" title="CbmRichRing::SetCenterX" alt="" coords="771,733,969,761"/>
+<area shape="rect" id="node25" href="$dc/d9e/classCbmRichRing.html#a1859edd104e40b0f7d871f5d93faad35" title="CbmRichRing::SetCenterY" alt="" coords="771,785,969,813"/>
+<area shape="rect" id="node26" href="$dc/d9e/classCbmRichRing.html#a0894b18518bdff182f51b70bf9a6884c" title="CbmRichRing::SetChi2" alt="" coords="783,837,957,865"/>
+<area shape="rect" id="node27" href="$dc/d9e/classCbmRichRing.html#a369bd9aa0379a17221e73cb2239921a0" title="CbmRichRing::SetPhi" alt="" coords="789,889,951,917"/>
+<area shape="rect" id="node28" href="$dc/d9e/classCbmRichRing.html#ad1dfc92237f11ecca641b29ab75a37a9" title="CbmRichRing::SetRadius" alt="" coords="776,941,964,969"/>
+<area shape="rect" id="node30" href="$d0/d8e/classCbmRichProjectionProducerBase.html#af2afdb8db36595b20a1a9b1d753991e8" title="CbmRichProjectionProducer\lBase::DoProjection" alt="" coords="481,585,689,629"/>
+<area shape="rect" id="node32" href="$d6/d72/classCbmRichRingTrackAssignBase.html#aa830daef86b8147fbb51e87f3f93cd11" title="CbmRichRingTrackAssignBase\l::DoAssign" alt="" coords="473,653,697,697"/>
+</map>

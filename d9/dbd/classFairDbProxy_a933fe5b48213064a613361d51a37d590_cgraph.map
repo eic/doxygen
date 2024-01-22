@@ -1,0 +1,24 @@
+<map id="FairDbProxy::FindTimeBoundaries" name="FairDbProxy::FindTimeBoundaries">
+<area shape="rect" id="node2" href="$dc/d21/classFairDbString.html#adfbf5dbaa14889e6ed7a27d5e4f3e087" title="FairDbString::c_str" alt="" coords="333,28,480,56"/>
+<area shape="rect" id="node3" href="$d4/d94/classFairDbMultConnector.html#af6cca44c2d509103ef28d4c9010840eb" title="FairDbMultConnector\l::CreateStatement" alt="" coords="325,80,489,124"/>
+<area shape="rect" id="node13" href="$dd/d71/classValContext.html#a7245d43141de2fa31710883aa99f25e5" title="ValContext::GetDetector" alt="" coords="313,148,501,176"/>
+<area shape="rect" id="node14" href="$d2/d87/classValTimeStamp.html#a5c282fbab835f86d8a8d6a91b62162d1" title="Get (integral) seconds after the EPOCH." alt="" coords="318,200,495,228"/>
+<area shape="rect" id="node15" href="$dd/d71/classValContext.html#a5be59960e7b809fdcaab848767b85246" title="ValContext::GetSimFlag" alt="" coords="315,252,498,280"/>
+<area shape="rect" id="node16" href="$d9/dbd/classFairDbProxy.html#ac98a02e2bb818992c98505f4a948447f" title="FairDbProxy::GetTableName" alt="" coords="303,304,511,332"/>
+<area shape="rect" id="node17" href="$d5/dcb/namespaceFairDb.html#ac1ee17448e5df87fc7bbe741d6dad01e" title="FairDb::GetTimeGate" alt="" coords="325,356,488,384"/>
+<area shape="rect" id="node19" href="$dd/d71/classValContext.html#a7ed9b7e0653d2906ced11408472e3d88" title="ValContext::GetTimeStamp" alt="" coords="304,408,509,436"/>
+<area shape="rect" id="node20" href="$d5/dcb/namespaceFairDb.html#a72a84c9a167a58500aeb7de4e776939a" title="FairDb::MakeDateTimeString" alt="" coords="300,460,513,488"/>
+<area shape="rect" id="node22" href="$d5/dcb/namespaceFairDb.html#a7cf22f81ab5200e13871601aaeea3d50" title="FairDb::MakeTimeStamp" alt="" coords="313,512,500,540"/>
+<area shape="rect" id="node4" href="$d4/d94/classFairDbMultConnector.html#a2399ff488644824095dccd650220143b" title="FairDbMultConnector\l::GetStatus" alt="" coords="603,36,767,80"/>
+<area shape="rect" id="node6" href="$d5/dfb/classFairDbStatement.html#a4696e38ab818d018ff71f0a2a9c9f27c" title="FairDbStatement::PrintExceptions" alt="" coords="561,133,809,161"/>
+<area shape="rect" id="node5" href="$d4/d94/classFairDbMultConnector.html#a00e82f4de0cf48347c851be1b22ba1fd" title="FairDbMultConnector\l::GetNumDb" alt="" coords="905,5,1069,49"/>
+<area shape="rect" id="node7" href="$d5/dfb/classFairDbStatement.html#a8397bc51f53a544d67fdfb8e43060565" title="FairDbStatement::GetExceptionLog" alt="" coords="857,73,1116,101"/>
+<area shape="rect" id="node8" href="$d3/d45/classFairDbExceptionLog.html#a5b5fd2a31bf9793ed8512a755deea683" title="FairDbExceptionLog\l::IsEmpty" alt="" coords="909,125,1064,169"/>
+<area shape="rect" id="node9" href="$d3/d45/classFairDbExceptionLog.html#a1f41e58b091dc08333e5508d51586c13" title="FairDbExceptionLog\l::GetGELog" alt="" coords="909,193,1064,237"/>
+<area shape="rect" id="node10" href="$d3/d45/classFairDbExceptionLog.html#af33f591bce3394b9c74773f6cc7e80cc" title="FairDbExceptionLog\l::AddLog" alt="" coords="909,261,1064,305"/>
+<area shape="rect" id="node11" href="$db/d5d/test__style_8C.html#a82fd57a94fc00b72103f68240951b7b4" title="AddEntry" alt="" coords="1199,239,1284,267"/>
+<area shape="rect" id="node12" href="$d3/d45/classFairDbExceptionLog.html#afedae4b0e210457efcf4610508c17dae" title="FairDbExceptionLog\l::GetEntries" alt="" coords="1164,291,1319,335"/>
+<area shape="rect" id="node18" href="$d5/dcb/namespaceFairDb.html#a83273bdd1df5e66bb44c81cb1236dcf7" title="FairDb::SetTimeGate" alt="" coords="605,356,766,384"/>
+<area shape="rect" id="node21" href="$d2/d87/classValTimeStamp.html#a1558560608010aa1b1f77de84fb66484" title="ValTimeStamp::AsString" alt="" coords="593,460,778,488"/>
+<area shape="rect" id="node23" href="$d2/d87/classValTimeStamp.html#af8d6873d0b49e65bf590a39418c82643" title="ValTimeStamp::GetDate" alt="" coords="593,512,778,540"/>
+</map>

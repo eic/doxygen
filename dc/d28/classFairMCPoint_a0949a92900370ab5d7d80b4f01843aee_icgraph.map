@@ -1,0 +1,18 @@
+<map id="FairMCPoint::Position" name="FairMCPoint::Position">
+<area shape="rect" id="node2" href="$dc/d17/classCbmRichTrackExtrapolationIdeal.html#a1fb88590e1e4a4be85d46ed55a973a23" title="Inherited from CbmRichTrackExtrapolationBase." alt="" coords="237,5,444,49"/>
+<area shape="rect" id="node3" href="$d6/d10/classCbmRichTrackExtrapolationMirrorIdeal.html#a3ccf69bdc5fa09773c30f3789fd81c79" title="Inherited from CbmRichTrackExtrapolationBase." alt="" coords="235,73,446,117"/>
+<area shape="rect" id="node4" href="$da/d9f/classCbmRichHitProducer.html#afe4f7cc5874368e44deb8ac6cd756e52" title="Inherited from FairTask." alt="" coords="260,141,421,185"/>
+<area shape="rect" id="node5" href="$d7/dad/classCbmRichTestSim.html#a9e8390d7e1be03e5fa9586fb3234481e" title="Inherited from FairTask." alt="" coords="253,209,428,237"/>
+<area shape="rect" id="node6" href="$df/db8/classEicMoCaPoint.html#af3d1e30b70b3f98269b0127a83272fde" title="EicMoCaPoint::GetPosIn" alt="" coords="251,261,431,289"/>
+<area shape="rect" id="node16" href="$d5/d75/classCbmRichGeoTest.html#a3877e9706c0d5764a48e943b355830cf" title="Loop over all rings in array and fill ring parameters histograms." alt="" coords="215,351,467,379"/>
+<area shape="rect" id="node7" href="$dd/dac/classEicDetector.html#aa77b345675e8773755e1f7030e37a795" title="EicDetector::EndOfEvent" alt="" coords="533,115,723,143"/>
+<area shape="rect" id="node8" href="$df/db8/classEicMoCaPoint.html#a5a6c02edc3c6754c53ac78dec782441d" title="EicMoCaPoint::GetPosAvg" alt="" coords="531,167,725,195"/>
+<area shape="rect" id="node13" href="$d2/d53/classEicTpcDigiHitProducer.html#aa3f46cd85269d7ce132513db471e20a7" title="EicTpcDigiHitProducer\l::HandleHit" alt="" coords="542,219,714,263"/>
+<area shape="rect" id="node14" href="$dd/df6/classEicCalorimeterDigiHitProducer.html#a3205db24ed212337be8ef032e76c392c" title="EicCalorimeterDigiHitProducer\l::HandleHit" alt="" coords="515,287,741,331"/>
+<area shape="rect" id="node15" href="$df/dca/classEicTrackingDigiHitProducer.html#a13bf30baf1c24ee624646ff43681a477" title="EicTrackingDigiHitProducer\l::HandleHit" alt="" coords="526,355,730,399"/>
+<area shape="rect" id="node9" href="$db/d6d/classPndRecoKalmanFit.html#af5a66632d2917c60057bd37109ec7364" title="PndRecoKalmanFit::Fit" alt="" coords="789,167,960,195"/>
+<area shape="rect" id="node10" href="$d7/d87/classPndRecoKalmanTask.html#aa92916b999aeaf87e99fb08734ce368e" title="PndRecoKalmanTask::Exec" alt="" coords="1008,136,1208,164"/>
+<area shape="rect" id="node12" href="$d2/d28/classPndRecoMultiKalmanTask.html#a79938b3ab7bca0cc183821c03520553a" title="PndRecoMultiKalmanTask\l::Exec" alt="" coords="1011,188,1205,232"/>
+<area shape="rect" id="node11" href="$d2/db6/classEicRecoKalmanTask.html#a10103a96af9664a82027040c505bfff1" title="EicRecoKalmanTask::Exec" alt="" coords="1256,136,1451,164"/>
+<area shape="rect" id="node17" href="$d5/d75/classCbmRichGeoTest.html#a9d5e890887411e04eb97219b7fa6c191" title="Inherited from FairTask." alt="" coords="540,423,716,451"/>
+</map>

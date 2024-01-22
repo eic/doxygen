@@ -1,0 +1,20 @@
+<map id="GdmlImportDetectorSteppingAction::UserSteppingAction" name="GdmlImportDetectorSteppingAction::UserSteppingAction">
+<area shape="rect" id="node2" href="$d4/d30/classPHG4HitContainer.html#a4df3ca68ecff69c9d7976b84fcc82e93" title="PHG4HitContainer::AddHit" alt="" coords="285,5,483,33"/>
+<area shape="rect" id="node3" href="$d3/d9e/classPHG4Hit.html#acea6b2f3763d899e4de3765b9b5c6e51" title="PHG4Hit::get_hit_id" alt="" coords="597,32,749,60"/>
+<area shape="rect" id="node4" href="$d5/d9a/classEicRootDetector.html#af4fcca98a8f365fde3509c7a10e8147c" title="EicRootDetector::get\l_hitcontainer" alt="" coords="303,109,465,153"/>
+<area shape="rect" id="node5" href="$d3/d9e/classPHG4Hit.html#a5df423db026ef6538eb4b2519044d2ef" title="PHG4Hit::get_x" alt="" coords="322,177,446,205"/>
+<area shape="rect" id="node6" href="$d4/d30/classPHG4HitContainer.html#a5073671e6d35969dc3d421e2278229af" title="PHG4HitContainer::GetID" alt="" coords="289,229,479,257"/>
+<area shape="rect" id="node7" href="$df/d3f/classPHG4SteppingAction.html#a88ff50956245a2b72d459bad2004e1ca" title="PHG4SteppingAction\l::GetName" alt="" coords="303,281,465,325"/>
+<area shape="rect" id="node8" href="$d2/df6/namespacePHG4StepStatusDecode.html#aeadff043ba4ca96f6011a5a8d7e803bf" title="PHG4StepStatusDecode\l::GetStepStatus" alt="" coords="292,349,476,393"/>
+<area shape="rect" id="node9" href="$d5/d9a/classEicRootDetector.html#a1af5329a1589e96a942c11a5558a29a2" title="EicRootDetector::IsInDetector" alt="" coords="273,417,495,445"/>
+<area shape="rect" id="node12" href="$d3/d9e/classPHG4Hit.html#abfb89e6996324dc9961cf790c74c7741" title="Clear Event." alt="" coords="321,469,447,497"/>
+<area shape="rect" id="node13" href="$d3/d9e/classPHG4Hit.html#a4eb72c64e474205be82b3c204d866c11" title="PHG4Hit::set_edep" alt="" coords="310,521,458,549"/>
+<area shape="rect" id="node14" href="$d3/d9e/classPHG4Hit.html#a793315fa853eaab854bdf0428f88313c" title="PHG4Hit::set_layer" alt="" coords="309,573,459,601"/>
+<area shape="rect" id="node15" href="$d3/d9e/classPHG4Hit.html#a5a46a621b6b2931937e028dad5a1ead5" title="PHG4Hit::set_t" alt="" coords="324,625,444,653"/>
+<area shape="rect" id="node16" href="$d3/d9e/classPHG4Hit.html#a765310edee693bde31e0fefe92827155" title="PHG4Hit::set_trkid" alt="" coords="312,677,456,705"/>
+<area shape="rect" id="node17" href="$d3/d9e/classPHG4Hit.html#a29c3320afd3e1747132d956632be4754" title="PHG4Hit::set_x" alt="" coords="323,729,445,757"/>
+<area shape="rect" id="node18" href="$d3/d9e/classPHG4Hit.html#a977a9146151279a48f59f7ee7e1f8669" title="PHG4Hit::set_y" alt="" coords="323,781,445,809"/>
+<area shape="rect" id="node19" href="$d3/d9e/classPHG4Hit.html#a4fdb700121c3f2c3c529d025f72bf93c" title="PHG4Hit::set_z" alt="" coords="323,833,445,861"/>
+<area shape="rect" id="node10" href="$d2/de6/classEicRootSubsystem.html#ae2ccd8368751fdc601e7ee00d671ad66" title="EicRootSubsystem::GetG4Sensitive\lVolumes" alt="" coords="543,380,803,424"/>
+<area shape="rect" id="node11" href="$d3/de7/classPHG4Detector.html#a5f7650922e846c686ed03252a4735653" title="PHG4Detector::GetMySubsystem" alt="" coords="551,448,795,476"/>
+</map>

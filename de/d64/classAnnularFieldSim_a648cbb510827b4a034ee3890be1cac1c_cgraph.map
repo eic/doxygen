@@ -1,0 +1,43 @@
+<map id="AnnularFieldSim::swimTo" name="AnnularFieldSim::swimTo">
+<area shape="rect" id="node2" href="$de/d64/classAnnularFieldSim.html#a5868eb5808ec182e9299bee9be6f5b0f" title="AnnularFieldSim::swimToIn\lAnalyticSteps" alt="" coords="495,1186,697,1230"/>
+<area shape="rect" id="node17" href="$de/d64/classAnnularFieldSim.html#a53c9be7916f154aa611235bed094e700" title="AnnularFieldSim::swimToIn\lSteps" alt="" coords="244,1246,447,1290"/>
+<area shape="rect" id="node3" href="$dc/de5/PHG4mRICHDetector_8cc.html#a10e6010f5f8222befd1273192d72ddf5" title="start" alt="" coords="1385,957,1438,985"/>
+<area shape="rect" id="node4" href="$de/d64/classAnnularFieldSim.html#a004ad992d4f49f5aba99cd82b8983163" title="AnnularFieldSim::GetZindex\lAndCheckBounds" alt="" coords="1305,1677,1517,1721"/>
+<area shape="rect" id="node5" href="$de/d64/classAnnularFieldSim.html#af41a4754a596a90505d15a5dcb1868a6" title="AnnularFieldSim::GetRindex\lAndCheckBounds" alt="" coords="1305,1593,1517,1637"/>
+<area shape="rect" id="node6" href="$de/d64/classAnnularFieldSim.html#aab5dee891f7302176821ad489549a18f" title="AnnularFieldSim::GetPhiIndex\lAndCheckBounds" alt="" coords="1300,1170,1523,1214"/>
+<area shape="rect" id="node8" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="1813,1174,1872,1202"/>
+<area shape="rect" id="node10" href="$de/d64/classAnnularFieldSim.html#aaba67a669347f6693571910ffaca965f" title="AnnularFieldSim::GetStep\lDistortion" alt="" coords="765,1306,961,1350"/>
+<area shape="rect" id="node7" href="$de/d64/classAnnularFieldSim.html#ae7f3aaa01498d1b9259f05559c5bac7e" title="AnnularFieldSim::FilterPhi\lIndex" alt="" coords="1571,1166,1765,1210"/>
+<area shape="rect" id="node9" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="1645,1234,1691,1262"/>
+<area shape="rect" id="node11" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="1085,1262,1195,1290"/>
+<area shape="rect" id="node13" href="$de/d64/classAnnularFieldSim.html#a3451f4963ce7c171bfbd0d566d3f10b9" title="AnnularFieldSim::analytic\lFieldIntegral" alt="" coords="1043,1390,1237,1434"/>
+<area shape="rect" id="node14" href="$de/d64/classAnnularFieldSim.html#a9d8694f7b8d4d53ba2d2d0b0d088844c" title="AnnularFieldSim::fieldIntegral" alt="" coords="1029,1314,1251,1342"/>
+<area shape="rect" id="node16" href="$de/d64/classAnnularFieldSim.html#aef1291170f9342d354fd2d9e41706fb0" title="AnnularFieldSim::interpolated\lFieldIntegral" alt="" coords="1028,1482,1252,1526"/>
+<area shape="rect" id="node12" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1323,1254,1499,1282"/>
+<area shape="rect" id="node15" href="$d8/d64/classMultiArray.html#aec5a4ca1ee2a856a7574a75d6ad48568" title="MultiArray::Get" alt="" coords="1350,1358,1473,1386"/>
+<area shape="rect" id="node18" href="$de/d64/classAnnularFieldSim.html#a005b9e2e1f8240557e47c19e9b76f6dd" title="AnnularFieldSim::GetTotal\lDistortion" alt="" coords="498,1426,694,1470"/>
+<area shape="rect" id="node20" href="$da/d7b/namespaceActs.html#a2d4349d85a14c2f358714e95dd15046c" title="performs linear interpolation inside a hyper box" alt="" coords="529,819,663,847"/>
+<area shape="rect" id="node19" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a55c39f48968d9e4b4b4fb12b227cea22" title="Access the three&#45;position components in a four&#45;position vector." alt="" coords="785,1855,940,1899"/>
+<area shape="rect" id="node21" href="$d8/d44/namespaceActs_1_1PrimitivesView3DTest.html#ab51e63c03c55aac604dba9c1cd26ac85" title="Acts::PrimitivesView3DTest::run" alt="" coords="745,591,980,619"/>
+<area shape="rect" id="node22" href="$d2/d3f/structActs_1_1GeometryView3D.html#a76d7fe94393a89a05760f6b80eb6bd31" title="Acts::GeometryView3D\l::drawSegment" alt="" coords="1051,549,1229,593"/>
+<area shape="rect" id="node23" href="$d0/d35/classActs_1_1IVisualization3D.html#ac2b3dc7f88f26a197d48a28d1d85b3d4" title="Acts::IVisualization3D\l::write" alt="" coords="1055,617,1225,661"/>
+<area shape="rect" id="node24" href="$d0/d35/classActs_1_1IVisualization3D.html#a5e1197bd19f514313f2642621e43de0e" title="Acts::IVisualization3D\l::clear" alt="" coords="1055,685,1225,729"/>
+<area shape="rect" id="node25" href="$d2/d3f/structActs_1_1GeometryView3D.html#a67df89dea7c20fe0e7ecefc50a78c75f" title="Acts::GeometryView3D\l::drawArrowForward" alt="" coords="1051,753,1229,797"/>
+<area shape="rect" id="node26" href="$d2/d3f/structActs_1_1GeometryView3D.html#ad14a942752c9af6f0ff44cc3adbdee5d" title="Acts::GeometryView3D\l::drawArrowBackward" alt="" coords="1051,821,1229,865"/>
+<area shape="rect" id="node27" href="$d2/d3f/structActs_1_1GeometryView3D.html#a3f88095e16b588fdbb353f0e30961d92" title="Acts::GeometryView3D\l::drawArrowsBoth" alt="" coords="1051,889,1229,933"/>
+<area shape="rect" id="node28" href="$d2/d3f/structActs_1_1GeometryView3D.html#ab8aad2f0260221fecde781f003510d24" title="Acts::GeometryView3D\l::drawSurface" alt="" coords="1051,103,1229,147"/>
+<area shape="rect" id="node31" href="$db/d35/structActs_1_1EventDataView3D.html#a5860abf64f67e4e333020160d50ed99b" title="Acts::EventDataView3D\l::drawCovarianceCartesian" alt="" coords="1039,326,1241,370"/>
+<area shape="rect" id="node39" href="$dd/d7e/namespaceActs_1_1Test.html#a51c29a20fb018e161cb50c4c3886c981" title="Acts::Test::origin" alt="" coords="1073,497,1207,525"/>
+<area shape="rect" id="node40" href="$db/d35/structActs_1_1EventDataView3D.html#a1bb690374d01bc8e407d603d2a87b7dd" title="Acts::EventDataView3D\l::drawCovarianceAngular" alt="" coords="1043,237,1237,281"/>
+<area shape="rect" id="node29" href="$de/d7d/classActs_1_1Surface.html#a8580e9839bf7b3207b3f01b0a822febf" title="Acts::Surface::polyhedron\lRepresentation" alt="" coords="1313,43,1509,87"/>
+<area shape="rect" id="node30" href="$dd/d9e/structActs_1_1Polyhedron.html#a751a373c4c96d6e3b6deaab8c70cf3f9" title="Acts::Polyhedron::move" alt="" coords="1320,111,1503,139"/>
+<area shape="rect" id="node32" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="1640,334,1696,362"/>
+<area shape="rect" id="node33" href="$db/d35/structActs_1_1EventDataView3D.html#a80b2ec87273567eccee4aa65ac4aede9" title="Acts::EventDataView3D\l::decomposeCovariance" alt="" coords="1319,386,1503,430"/>
+<area shape="rect" id="node34" href="$db/d35/structActs_1_1EventDataView3D.html#a0773bc56ca37a99962e14d47356fc17b" title="Acts::EventDataView3D\l::createEllipse" alt="" coords="1321,454,1502,498"/>
+<area shape="rect" id="node36" href="$da/d6e/structActs_1_1detail_1_1FacesHelper.html#a1ad36c75fdd2b14874b287ad561fc567" title="This method words for all convex type surface setups It includes:" alt="" coords="1316,522,1507,566"/>
+<area shape="rect" id="node37" href="$d2/d3f/structActs_1_1GeometryView3D.html#a77ed7ddb38695d4a658b18f46ee8c873" title="Acts::GeometryView3D\l::drawPolyhedron" alt="" coords="1322,590,1501,634"/>
+<area shape="rect" id="node35" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="1646,462,1690,490"/>
+<area shape="rect" id="node38" href="$d0/d35/classActs_1_1IVisualization3D.html#ad25b54d62c7d3ce9da78d0fcdc6fe54b" title="Acts::IVisualization3D\l::faces" alt="" coords="1583,590,1753,634"/>
+<area shape="rect" id="node41" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a397d5e8143b34171258deef4f9cca9ad" title="Acts::VectorHelpers::phi" alt="" coords="1319,163,1503,191"/>
+<area shape="rect" id="node42" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a1c1a90bc524259263f553410691dd9ad" title="Acts::VectorHelpers\l::theta" alt="" coords="1334,215,1489,259"/>
+</map>

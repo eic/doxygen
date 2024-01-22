@@ -1,0 +1,51 @@
+<map id="G4Setup" name="G4Setup">
+<area shape="rect" id="node2" href="$de/d75/G4__Aerogel_8C.html#a400136ba4928234f7c9990b4065328f1" title="AerogelSetup" alt="" coords="202,165,315,193"/>
+<area shape="rect" id="node8" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="437,841,664,869"/>
+<area shape="rect" id="node10" href="$de/dd6/G4__AllSilicon_8C.html#a8fb332b6d50ac62c7a7c6c45c8c213c0" title="AllSiliconSetup" alt="" coords="197,1153,321,1181"/>
+<area shape="rect" id="node11" href="$d8/d04/G4__Barrel__EIC_8C.html#a30f7d303d797443abd50b53a59120a86" title="Barrel" alt="" coords="228,1673,289,1701"/>
+<area shape="rect" id="node12" href="$d6/d7a/fun4all__macros_2blob_2master_2common_2G4__Bbc_8C.html#a7b7bf8805953fe6bec68adfcf67d12d9" title="Bbc" alt="" coords="235,1205,282,1233"/>
+<area shape="rect" id="node13" href="$d1/d40/G4__BECAL_8C.html#a7c543173864df397450620abfddde1d5" title="BECALSetup" alt="" coords="206,1257,311,1285"/>
+<area shape="rect" id="node14" href="$d4/ddd/fun4all__macros_2blob_2master_2common_2G4__BlackHole_8C.html#a92bea2631f85d21edb1b7b8df67d0963" title="BlackHole" alt="" coords="215,321,303,349"/>
+<area shape="rect" id="node15" href="$d8/d02/fun4all__eicmacros_2blob_2master_2common_2G4__CEmc__EIC_8C.html#ac778c2f88602e04311ada5c27fcb1e46" title="CEmc" alt="" coords="229,373,289,401"/>
+<area shape="rect" id="node16" href="$db/dd2/G4__TTL__EIC_8C.html#a2362486fac2d57848b4973152c18cb24" title="CTTLSetup" alt="" coords="212,1725,305,1753"/>
+<area shape="rect" id="node17" href="$d8/dc4/fun4all__eicmacros_2blob_2master_2common_2G4__DIRC_8C.html#acbdf429e4e41a2057e053691cc0b4128" title="DIRCSetup" alt="" coords="212,269,305,297"/>
+<area shape="rect" id="node18" href="$d3/d09/G4__DRCALO_8C.html#ae18d2f7eb8eeb3b85f99c0dd642860a4" title="DRCALOSetup" alt="" coords="201,1309,317,1337"/>
+<area shape="rect" id="node19" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="460,1465,641,1493"/>
+<area shape="rect" id="node20" href="$d3/d45/G4__EEMC__hybrid_8C.html#a0f5fe03c955a98baef5ce508183a8901" title="EEMCHSetup" alt="" coords="204,425,313,453"/>
+<area shape="rect" id="node21" href="$d5/df4/fun4all__eicmacros_2blob_2master_2common_2G4__EEMC_8C.html#aa4757fd444fcd8b2dde7590e5bffc722" title="EEMCSetup" alt="" coords="209,477,308,505"/>
+<area shape="rect" id="node22" href="$de/d55/G4__GEM__EIC_8C.html#a04d0a097375d8e3f53970b906caf0d75" title="EGEMSetup" alt="" coords="209,1777,309,1805"/>
+<area shape="rect" id="node23" href="$da/d5a/G4__EHCAL_8C.html#a4485f0bcefe4b615654d45f4a9f90481" title="EHCALSetup" alt="" coords="206,1361,311,1389"/>
+<area shape="rect" id="node24" href="$db/dd2/G4__TTL__EIC_8C.html#a723ad093e7e67d81d3884242d5b53b00" title="ETTLSetup" alt="" coords="212,1829,305,1857"/>
+<area shape="rect" id="node25" href="$d5/dcb/G4__FEMC_8C.html#a46bf470cecae66db11fccb5925a48429" title="FEMCSetup" alt="" coords="209,1413,308,1441"/>
+<area shape="rect" id="node26" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html#ac44d1ef8dd3931eed6dd2ae0110ed8d1" title="FGEMSetup" alt="" coords="209,217,308,245"/>
+<area shape="rect" id="node27" href="$dd/dee/fun4all__eicmacros_2blob_2master_2common_2G4__FHCAL_8C.html#a34230ae56a9f95821aadf0d2a720df66" title="FHCALSetup" alt="" coords="206,1465,311,1493"/>
+<area shape="rect" id="node28" href="$d1/db0/G4__FST__EIC_8C.html#a9430db43e5bb79a306421c7b34580ac4" title="FSTSetup" alt="" coords="216,1881,301,1909"/>
+<area shape="rect" id="node29" href="$db/dd2/G4__TTL__EIC_8C.html#a5fbeba69a6b9ed5b6189ce6b8cb49a70" title="FTTLSetup" alt="" coords="213,1933,305,1961"/>
+<area shape="rect" id="node30" href="$de/d26/G4__HCalIn__EIC_8C.html#a1a52eb3e2a8e75ec336b82be8ceef4d9" title="HCalInner" alt="" coords="214,529,303,557"/>
+<area shape="rect" id="node31" href="$dd/da5/fun4all__eic__qa_2blob_2master_2macros_2G4__HcalOut__ref_8C.html#a1b10b3900f22c0f15ac8d49e06ceefb3" title="HCalOuter" alt="" coords="213,581,305,609"/>
+<area shape="rect" id="node32" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html#a39cd0476d2b201f033894c397e9b0aae" title="hFarFwdDefineDetectorsIP6" alt="" coords="155,633,362,661"/>
+<area shape="rect" id="node33" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html#a18f9f4fd47d8482c56c1ba1b3f9dfad7" title="hFarFwdDefineDetectorsIP8" alt="" coords="155,685,362,713"/>
+<area shape="rect" id="node34" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html#accfd44a3ea15bfe78995fc1aff2d9dbc" title="hFarFwdDefineMagnets" alt="" coords="169,737,348,765"/>
+<area shape="rect" id="node35" href="$d9/d3c/G4__LFHCAL_8C.html#a668c384e30a331740fd29d7bc7db2e11" title="LFHCALSetup" alt="" coords="203,1517,315,1545"/>
+<area shape="rect" id="node36" href="$df/d68/G4__Magnet__Beast_8C.html#a83e97495646b8e137d52e66d486d9273" title="Magnet" alt="" coords="222,789,295,817"/>
+<area shape="rect" id="node37" href="$de/d8a/G4__mRICH_8C.html#afe15c46bafe5f0a5c14319020f0741e4" title="mRICHSetup" alt="" coords="205,841,312,869"/>
+<area shape="rect" id="node38" href="$d8/d33/G4__Mvtx__EIC_8C.html#a8e3527137c79a963bfb4527446a21990" title="Mvtx" alt="" coords="231,893,286,921"/>
+<area shape="rect" id="node39" href="$d9/d41/fun4all__eicmacros_2blob_2master_2common_2G4__Pipe__EIC_8C.html#a08cd22872149ee9d15a5b068c6aad7b4" title="construct beam pipe" alt="" coords="234,945,283,973"/>
+<area shape="rect" id="node40" href="$d4/d0f/G4__PlugDoor__EIC_8C.html#aa59bf2cdaabcdb80a472f7a8e1adc8fe" title="PlugDoor" alt="" coords="217,997,301,1025"/>
+<area shape="rect" id="node41" href="$da/d29/classFun4AllServer.html#a0a9947db0ede1e55622001eb7515f8c0" title="Fun4AllServer::registerSubsystem" alt="" coords="133,1569,384,1597"/>
+<area shape="rect" id="node42" href="$da/d69/G4__dRICH_8C.html#a1e01d006392f23f7fadc944177d97720" title="Fast geometry model for dRICH." alt="" coords="212,1049,305,1077"/>
+<area shape="rect" id="node43" href="$d0/d78/classPHG4Reco.html#af7a3ea8186b3f700913d0f0ab4a64535" title="set default magnetic field strength with a constant magnetic field. Only valid if set_field_map() is ..." alt="" coords="181,1985,337,2013"/>
+<area shape="rect" id="node44" href="$d0/d78/classPHG4Reco.html#a2b127807e9bccb2480da1e0493cc2bd1" title="PHG4Reco::set_field_map" alt="" coords="161,2037,356,2065"/>
+<area shape="rect" id="node45" href="$d0/d78/classPHG4Reco.html#a29cc7f3d84eb82b13e8425bc77e200e3" title="set default scaling factor for input magnetic field map. If available, Field map setting on DST take ..." alt="" coords="181,2089,337,2133"/>
+<area shape="rect" id="node46" href="$d0/d78/classPHG4Reco.html#a79765f3051dffcab10f2dd08c18e5f89" title="PHG4Reco::set_force\l_decay" alt="" coords="178,2157,339,2201"/>
+<area shape="rect" id="node47" href="$d0/d78/classPHG4Reco.html#a7f706bdb1798a3fb60c6cdfcca81600b" title="PHG4Reco::set_rapidity\l_coverage" alt="" coords="169,2225,349,2269"/>
+<area shape="rect" id="node48" href="$d1/dd8/G4__User_8C.html#a2cd25e21209f9ec3a852772c1b4725b5" title="UserDetector" alt="" coords="203,2293,314,2321"/>
+<area shape="rect" id="node49" href="$d0/d40/G4__World_8C.html#aed74d88aca1521f12fd30916dbf7b686" title="WorldInit" alt="" coords="217,2345,300,2373"/>
+<area shape="rect" id="node50" href="$d0/d40/G4__World_8C.html#a06884d6c2d974776c4210d8c95ec8550" title="WorldSize" alt="" coords="215,2397,303,2425"/>
+<area shape="rect" id="node3" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#ac5533363def013da20bbfb6cb5b4ee1d" title="PHG4Sector::Sector\l_Geometry::AddLayers\l_AeroGel_ePHENIX" alt="" coords="463,5,639,65"/>
+<area shape="rect" id="node4" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a620e565f65b2db15edd2a7280d358afa" title="Pseudorapidity." alt="" coords="435,89,667,133"/>
+<area shape="rect" id="node5" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a97b24275f8f8258b2a7a942f0f10a450" title="PHG4Sector::Sector\l_Geometry::FlatEdge" alt="" coords="469,277,633,321"/>
+<area shape="rect" id="node6" href="$da/dca/classPHG4SectorSubsystem.html#a18e65911a43c5a9015131793352809b5" title="geometry manager PHG4Sector::Sector_Geometry" alt="" coords="463,345,639,389"/>
+<area shape="rect" id="node7" href="$db/df7/classPHG4Subsystem.html#a23501010ac65db7c2bc31c02c5945ecb" title="PHG4Subsystem::OverlapCheck" alt="" coords="432,157,669,185"/>
+<area shape="rect" id="node9" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a83a31bf9617f2af840150315ec00d94a" title="PHG4Sector::Sector\l_Geometry::set_material" alt="" coords="457,209,645,253"/>
+</map>

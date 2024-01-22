@@ -1,0 +1,37 @@
+<map id="FairDbTableMetaData::NumCols" name="FairDbTableMetaData::NumCols">
+<area shape="rect" id="node2" href="$d9/d1a/classFairDbTableMetaData.html#a50e85e7536ddf3a95a9d4fa376a81b32" title="FairDbTableMetaData\l::HasRowCounter" alt="" coords="241,109,405,153"/>
+<area shape="rect" id="node10" href="$d5/d9a/classFairDbRowStream.html#af48fb3af2a3d6a6d6fc47b7eb322c11d" title="FairDbRowStream::NumCols" alt="" coords="217,296,428,324"/>
+<area shape="rect" id="node24" href="$d9/d1a/classFairDbTableMetaData.html#a7a488eaebd4d69b0e6723a4a32d9b606" title="FairDbTableMetaData::Sql" alt="" coords="225,647,420,675"/>
+<area shape="rect" id="node3" href="$d8/d4f/classFairDbTableProxyRegistry.html#af9380885df266609c564b7ece417a65c" title="FairDbTableProxyRegistry\l::HasRowCounter" alt="" coords="497,109,689,153"/>
+<area shape="rect" id="node4" href="$d9/dbd/classFairDbProxy.html#a889475a99dd07b9b007b671213871915" title="FairDbProxy::QuerySeqNo" alt="" coords="496,57,689,85"/>
+<area shape="rect" id="node7" href="$d9/dbd/classFairDbProxy.html#ac241dab099511335ac31cc159906a36f" title="Secondary query for aggregate and extended context queries." alt="" coords="492,5,693,33"/>
+<area shape="rect" id="node8" href="$da/d7d/classFairDbSqlValPacket.html#ace0e450e5c1072154e620b61777002ea" title="FairDbSqlValPacket\l::Store" alt="" coords="1098,691,1249,735"/>
+<area shape="rect" id="node5" href="$da/d7d/classFairDbSqlValPacket.html#afbf9263675359ec56f359ecf02322408" title="FairDbSqlValPacket\l::FairDbSqlValPacket" alt="" coords="807,135,967,179"/>
+<area shape="rect" id="node6" href="$da/dcf/classFairDbTableProxy.html#a0aa455d0a601c2649d48a942faea2b86" title="FairDbTableProxy::Query" alt="" coords="794,57,979,85"/>
+<area shape="rect" id="node9" href="$dd/d9a/classFairDbLogEntry.html#a9cf66ea492ef1d2c81935010d18c4861" title="FairDbLogEntry::Write" alt="" coords="1614,704,1782,732"/>
+<area shape="rect" id="node11" href="$da/d75/classFairDbResultSet.html#ac956b560a356b92ed65b4ced5346a02f" title="FairDbResultSet::CurColExists" alt="" coords="482,356,703,384"/>
+<area shape="rect" id="node17" href="$de/dad/classFairDbConfigSet.html#a0f5484629537f3b14ebd520623932fe6" title="FairDbConfigSet::Fill" alt="" coords="1361,217,1517,245"/>
+<area shape="rect" id="node18" href="$d9/dbd/classFairDbProxy.html#a25b2a517061aeacd67cc1f239d8a84e4" title="FairDbProxy::ReplaceSeqNo\lOracle" alt="" coords="1335,279,1542,323"/>
+<area shape="rect" id="node20" href="$dc/dae/classFairDbOutRowStream.html#a844f2aae2dac2962d09d9f0dad070019" title="FairDbOutRowStream\l::IsComplete" alt="" coords="510,468,675,512"/>
+<area shape="rect" id="node23" href="$da/d75/classFairDbResultSet.html#a8177d5441476cd62e079054158f04bd6" title="FairDbResultSet::RowAsCsv" alt="" coords="490,177,695,205"/>
+<area shape="rect" id="node12" href="$da/d75/classFairDbResultSet.html#a57949996aa345ea48e7365a30cdbebcf" title="FairDbResultSet::CurColString" alt="" coords="776,416,997,444"/>
+<area shape="rect" id="node13" href="$da/d75/classFairDbResultSet.html#a4177d7de37e957798483b8b52e6ea3fa" title="FairDbResultSet::LoadCur\lValue" alt="" coords="790,348,983,392"/>
+<area shape="rect" id="node14" href="$da/d75/classFairDbResultSet.html#ade9ec929f84c6dced0be02fd263b236a" title="FairDbResultSet::AsString" alt="" coords="1077,364,1270,392"/>
+<area shape="rect" id="node16" href="$da/d75/classFairDbResultSet.html#a7f51862401cf8532c07417e6ab261635" title="FairDbResultSet::CurColValue" alt="" coords="1064,260,1283,288"/>
+<area shape="rect" id="node15" href="$da/d75/classFairDbResultSet.html#a8e205b96291f091c5d07146002abe5ac" title="FairDbResultSet::operator\&gt;\&gt;" alt="" coords="1331,364,1547,392"/>
+<area shape="rect" id="node19" href="$d9/dbd/classFairDbProxy.html#a328e6ccf752e957a0e1782357c2ae6eb" title="FairDbProxy::ReplaceSeqNo" alt="" coords="1595,287,1801,315"/>
+<area shape="rect" id="node21" href="$da/d7d/classFairDbSqlValPacket.html#a5e3fa1865d65645b0618f25153d86f2e" title="FairDbSqlValPacket\l::AddRow" alt="" coords="1098,499,1249,543"/>
+<area shape="rect" id="node22" href="$dc/dae/classFairDbOutRowStream.html#ae6f1575b6f45c8beffc03a47ed99a5f2" title="FairDbOutRowStream\l::HasGoodData" alt="" coords="804,468,969,512"/>
+<area shape="rect" id="node25" href="$da/d7d/classFairDbSqlValPacket.html#a8506bc7856ad2e66c138871a0f128fed" title="FairDbSqlValPacket\l::SetMetaData" alt="" coords="517,639,668,683"/>
+<area shape="rect" id="node27" href="$d5/dfb/classFairDbStatement.html#a0f02dab366c33691ba8a7ae252a83842" title="FairDbStatement::TranslateSQL" alt="" coords="476,736,709,764"/>
+<area shape="rect" id="node26" href="$da/d7d/classFairDbSqlValPacket.html#a9da49c11fb9a8b2550fb5e064d31712f" title="FairDbSqlValPacket\l::Write" alt="" coords="811,639,962,683"/>
+<area shape="rect" id="node28" href="$d5/dfb/classFairDbStatement.html#adc4a7e9191ab65684539e2265a19bc8c" title="FairDbStatement::Execute\lQuery" alt="" coords="788,759,985,803"/>
+<area shape="rect" id="node33" href="$d5/dfb/classFairDbStatement.html#af262324358a3a23a9deb99ae0fb6f913" title="FairDbStatement::Execute\lUpdate" alt="" coords="788,827,985,871"/>
+<area shape="rect" id="node36" href="$d5/dfb/classFairDbStatement.html#a9ffdf52a1478d40fc9afc6328337ccc1" title="FairDbStatement::TestTranslateSQL" alt="" coords="757,707,1016,735"/>
+<area shape="rect" id="node29" href="$da/da5/FairDbMultConnector_8cxx.html#a51ca1dda891de7f5dc37168409db3a20" title="ClassImp" alt="" coords="1132,639,1215,667"/>
+<area shape="rect" id="node30" href="$d4/d94/classFairDbMultConnector.html#aefbbef9adc4b5855daed8608c7714d39" title="FairDbMultConnector\l::ReserveNextSeqNo" alt="" coords="1091,759,1255,803"/>
+<area shape="rect" id="node31" href="$d4/d94/classFairDbMultConnector.html#af0021c236199216fa0c55a0e9b5b84e3" title="FairDbMultConnector\l::AllocateSeqNo" alt="" coords="1357,757,1521,801"/>
+<area shape="rect" id="node32" href="$db/da0/classFairDbConfigStream.html#a077fca72ebeec60897d6cf15fea5c9ec" title="FairDbConfigStream\l::Write" alt="" coords="1620,757,1776,801"/>
+<area shape="rect" id="node34" href="$da/d7d/classFairDbSqlValPacket.html#a156f17280d06c7ec7a56912e9ca78c3c" title="FairDbSqlValPacket\l::CreateTable" alt="" coords="1098,827,1249,871"/>
+<area shape="rect" id="node35" href="$d4/d94/classFairDbMultConnector.html#aa8f8513a66937c87e8b9bb80e7fa83d3" title="FairDbMultConnector\l::CreateTemporaryTable" alt="" coords="1083,895,1264,939"/>
+</map>

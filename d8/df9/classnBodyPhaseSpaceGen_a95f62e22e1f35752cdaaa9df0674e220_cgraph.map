@@ -1,0 +1,8 @@
+<map id="nBodyPhaseSpaceGen::estimateMaxWeight" name="nBodyPhaseSpaceGen::estimateMaxWeight">
+<area shape="rect" id="node2" href="$d8/df9/classnBodyPhaseSpaceGen.html#a0d5f25800af3f7327d85259a6ca9c363" title="computes event weight and breakup momenta operates on vector of intermediate two&#45;body masses prepared..." alt="" coords="227,5,400,49"/>
+<area shape="rect" id="node4" href="$d8/df9/classnBodyPhaseSpaceGen.html#ad6823530ebbf96c2f7b6d7779a2cd5cc" title="returns maximum weight used for hit&#45;miss MC" alt="" coords="227,73,400,117"/>
+<area shape="rect" id="node5" href="$d8/df9/classnBodyPhaseSpaceGen.html#add818dbb78ea95545253dc61117bbcea" title="randomly choses the (n &#45; 2) effective masses of the respective (i + 1)&#45;body systems" alt="" coords="227,141,400,185"/>
+<area shape="rect" id="node3" href="$da/dd8/nBodyPhaseSpaceGen_8h.html#a4743bc2eb7194d851af59cb0d6aafba4" title="breakupMomentum" alt="" coords="458,13,611,41"/>
+<area shape="rect" id="node6" href="$d8/df9/classnBodyPhaseSpaceGen.html#a591916f311f718719d587a41a10c41f0" title="returns number from internal random generator" alt="" coords="448,141,621,185"/>
+<area shape="rect" id="node7" href="$d4/dd1/classrandomGenerator.html#ac5aeadcdac35f3ee302ca403360dfe60" title="randomGenerator::Rndom" alt="" coords="669,149,868,177"/>
+</map>

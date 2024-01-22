@@ -1,0 +1,47 @@
+<map id="acts/blob/sPHENIX/Core/include/Acts/MagneticField/InterpolatedBFieldMap.hpp" name="acts/blob/sPHENIX/Core/include/Acts/MagneticField/InterpolatedBFieldMap.hpp">
+<area shape="rect" id="node2" href="$d6/d7e/BFieldMapUtils_8hpp.html" title="acts/blob/sPHENIX/Core\l/include/Acts/MagneticField\l/BFieldMapUtils.hpp" alt="" coords="1052,121,1259,181"/>
+<area shape="rect" id="node5" href="$d7/d45/SolenoidFieldBenchmark_8cpp.html" title="acts/blob/sPHENIX/Tests\l/Benchmarks/SolenoidFieldBenchmark.cpp" alt="" coords="483,253,793,297"/>
+<area shape="rect" id="node6" href="$d2/dd8/InterpolatedSolenoidBFieldTest_8cpp.html" title="acts/blob/sPHENIX/Tests\l/IntegrationTests/Interpolated\lSolenoidBFieldTest.cpp" alt="" coords="1274,245,1495,305"/>
+<area shape="rect" id="node7" href="$d2/d67/PropagationTestsAtlasField_8cpp.html" title="acts/blob/sPHENIX/Tests\l/IntegrationTests/Propagation\lTestsAtlasField.cpp" alt="" coords="1520,245,1740,305"/>
+<area shape="rect" id="node9" href="$df/d18/TrkrClusterFittingAlgorithm_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Fitting/include\l/ActsExamples/Fitting/TrkrClusterFitting\lAlgorithm.hpp" alt="" coords="1876,113,2163,189"/>
+<area shape="rect" id="node10" href="$db/d08/TrkrClusterFittingAlgorithmFitterFunction_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Fitting/src\l/TrkrClusterFittingAlgorithmFitter\lFunction.cpp" alt="" coords="1764,237,2008,313"/>
+<area shape="rect" id="node24" href="$d4/d05/TrkrClusterOutlierFittingAlgorithm_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Fitting/include\l/ActsExamples/Fitting/TrkrClusterOutlier\lFittingAlgorithm.hpp" alt="" coords="2239,113,2531,189"/>
+<area shape="rect" id="node25" href="$d0/ddd/TrkrClusterOutlierFittingAlgorithmFitterFunction_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Fitting/src\l/TrkrClusterOutlierFittingAlgorithm\lFitterFunction.cpp" alt="" coords="2831,237,3085,313"/>
+<area shape="rect" id="node26" href="$df/d53/FittingAlgorithmFitterFunction_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Fitting/src\l/FittingAlgorithmFitterFunction.cpp" alt="" coords="2555,121,2811,181"/>
+<area shape="rect" id="node27" href="$d0/d0c/TrkrClusterFindingAlgorithm_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/TrackFinding\l/include/ActsExamples/TrackFinding\l/TrkrClusterFindingAlgorithm.hpp" alt="" coords="2835,113,3099,189"/>
+<area shape="rect" id="node29" href="$d1/d71/TrackFindingAlgorithmTrackFinderFunction_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/TrackFinding\l/src/TrackFindingAlgorithmTrackFinder\lFunction.cpp" alt="" coords="3124,113,3403,189"/>
+<area shape="rect" id="node30" href="$d8/d74/BFieldUtils_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Detectors/MagneticField\l/include/ActsExamples/Plugins\l/BField/BFieldUtils.hpp" alt="" coords="237,113,465,189"/>
+<area shape="rect" id="node31" href="$dc/da8/BFieldOptions_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Detectors/MagneticField\l/src/BFieldOptions.cpp" alt="" coords="5,245,220,305"/>
+<area shape="rect" id="node32" href="$d9/d7a/RootBFieldWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Root/include/ActsExamples\l/Io/Root/RootBFieldWriter.hpp" alt="" coords="3427,121,3654,181"/>
+<area shape="rect" id="node35" href="$dc/da7/MaterialValidationBase_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Common/src/MaterialValidation\lBase.cpp" alt="" coords="3679,121,3947,181"/>
+<area shape="rect" id="node36" href="$d3/d32/PropagationExampleBase_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Common/src/PropagationExample\lBase.cpp" alt="" coords="3971,121,4257,181"/>
+<area shape="rect" id="node37" href="$d8/d55/FatrasSimulationBase_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Fatras/Common/FatrasSimulation\lBase.cpp" alt="" coords="4282,121,4562,181"/>
+<area shape="rect" id="node38" href="$d2/d9c/BFieldAccessExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/MagneticField/BFieldAccess\lExample.cpp" alt="" coords="4586,121,4829,181"/>
+<area shape="rect" id="node39" href="$d4/dfb/InterpolatedBFieldMapTests_8cpp.html" title="acts/blob/sPHENIX/Tests\l/UnitTests/Core/MagneticField\l/InterpolatedBFieldMapTests.cpp" alt="" coords="4853,121,5095,181"/>
+<area shape="rect" id="node40" href="$d8/d6f/MagneticFieldInterfaceConsistencyTests_8cpp.html" title="acts/blob/sPHENIX/Tests\l/UnitTests/Core/MagneticField\l/MagneticFieldInterfaceConsistencyTests.cpp" alt="" coords="5119,121,5443,181"/>
+<area shape="rect" id="node41" href="$db/db7/PHTpcResiduals_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/tpccalib/PHTpcResiduals.cc" alt="" coords="5467,121,5745,181"/>
+<area shape="rect" id="node42" href="$d1/d49/PHActsInitialVertexFinder_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsInitial\lVertexFinder.cc" alt="" coords="5769,113,6016,189"/>
+<area shape="rect" id="node43" href="$d5/dfe/PHActsTrackProjection_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsTrack\lProjection.cc" alt="" coords="6041,113,6286,189"/>
+<area shape="rect" id="node44" href="$da/d99/PHActsVertexFinder_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsVertex\lFinder.cc" alt="" coords="6310,113,6563,189"/>
+<area shape="rect" id="node45" href="$de/d80/PHActsVertexFitter_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsVertex\lFitter.cc" alt="" coords="6587,113,6841,189"/>
+<area shape="rect" id="node46" href="$d0/d31/PHActsVertexPropagator_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsVertex\lPropagator.cc" alt="" coords="6865,113,7118,189"/>
+<area shape="rect" id="node3" href="$d8/d30/BFieldMapUtils_8cpp.html" title="acts/blob/sPHENIX/Core\l/src/MagneticField/BFieldMap\lUtils.cpp" alt="" coords="818,245,1037,305"/>
+<area shape="rect" id="node4" href="$de/d5d/BFieldUtils_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Detectors/MagneticField\l/src/BFieldUtils.cpp" alt="" coords="244,245,459,305"/>
+<area shape="rect" id="node8" href="$dc/d57/BFieldMapUtilsTests_8cpp.html" title="acts/blob/sPHENIX/Tests\l/UnitTests/Core/Utilities\l/BFieldMapUtilsTests.cpp" alt="" coords="1061,245,1249,305"/>
+<area shape="rect" id="node11" href="$d3/d95/ActsEvaluator_8h.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/ActsEvaluator.h" alt="" coords="2032,245,2300,305"/>
+<area shape="rect" id="node13" href="$df/da1/MakeActsGeometry_8h.html" title="Make Acts geometry from sPHENIX TGeometry." alt="" coords="2579,237,2807,313"/>
+<area shape="rect" id="node22" href="$dc/d93/PHActsTrkFitter_8h.html" title="Refit SvtxTracks with Acts." alt="" coords="2324,237,2555,313"/>
+<area shape="rect" id="node12" href="$d9/d56/ActsEvaluator_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/ActsEvaluator.cc" alt="" coords="1768,369,2041,429"/>
+<area shape="rect" id="node14" href="$d4/df1/MakeActsGeometry_8cc.html" title="Refit SvtxTracks with PHActs." alt="" coords="2832,361,3060,437"/>
+<area shape="rect" id="node15" href="$da/d3c/G4__Tracking_8C.html" title="fun4all_macros/blob\l/master/common/G4_Tracking.C" alt="" coords="2320,377,2559,421"/>
+<area shape="rect" id="node21" href="$db/de3/G4__Tracking__Genfit_8C.html" title="fun4all_macros/blob\l/master/common/G4_Tracking\l_Genfit.C" alt="" coords="2583,369,2807,429"/>
+<area shape="rect" id="node16" href="$d7/d9e/Fun4All__G4__fsPHENIX_8C.html" title="fun4all_eicmacros/blob\l/master/detectors/fsPHENIX\l/Fun4All_G4_fsPHENIX.C" alt="" coords="1859,485,2068,545"/>
+<area shape="rect" id="node17" href="$d9/d73/fun4all__macros_2blob_2master_2detectors_2sPHENIX_2Fun4All__G4__sPHENIX_8C.html" title="fun4all_macros/blob\l/master/detectors/sPHENIX\l/Fun4All_G4_sPHENIX.C" alt="" coords="2092,485,2296,545"/>
+<area shape="rect" id="node18" href="$d4/de9/Fun4All__AnaTutorial__sPHENIX_8C.html" title="fun4all_tutorials/blob\l/master/AnaTutorial/macro\l/Fun4All_AnaTutorial_sPHENIX.C" alt="" coords="2321,485,2558,545"/>
+<area shape="rect" id="node19" href="$d6/d14/Fun4All__AnaTutorial__sPHENIX__Jets_8C.html" title="fun4all_tutorials/blob\l/master/AnaTutorial/macro\l/Fun4All_AnaTutorial_sPHENIX_Jets.C" alt="" coords="2583,485,2851,545"/>
+<area shape="rect" id="node20" href="$d2/dbf/fun4all__tutorials_2blob_2master_2materialscan_2Fun4All__G4__sPHENIX_8C.html" title="fun4all_tutorials/blob\l/master/materialscan/Fun4All\l_G4_sPHENIX.C" alt="" coords="2875,485,3095,545"/>
+<area shape="rect" id="node23" href="$d5/d13/PHActsTrkFitter_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsTrk\lFitter.cc" alt="" coords="2065,361,2296,437"/>
+<area shape="rect" id="node28" href="$d4/d49/TrkrClusterFindingAlgorithmFinderFunction_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/TrackFinding\l/src/TrkrClusterFindingAlgorithm\lFinderFunction.cpp" alt="" coords="3109,237,3348,313"/>
+<area shape="rect" id="node33" href="$d6/d05/BFieldWritingBase_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Run/MagneticField/BFieldWriting\lBase.hpp" alt="" coords="3419,245,3663,305"/>
+<area shape="rect" id="node34" href="$dc/d47/BFieldExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/MagneticField/BFieldExample.cpp" alt="" coords="3399,377,3683,421"/>
+</map>

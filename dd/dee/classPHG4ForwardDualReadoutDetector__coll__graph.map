@@ -1,0 +1,21 @@
+<map id="PHG4ForwardDualReadoutDetector" name="PHG4ForwardDualReadoutDetector">
+<area shape="rect" id="node14" href="$da/d28/classPHG4ForwardDualReadoutSteppingAction.html" title="PHG4ForwardDualReadoutStepping\lAction" alt="" coords="2543,617,2803,661"/>
+<area shape="rect" id="node2" href="$d3/de7/classPHG4Detector.html" title="base class for phenix detector creation" alt="" coords="1823,459,1940,487"/>
+<area shape="rect" id="node3" href="$db/df7/classPHG4Subsystem.html" title="PHG4Subsystem" alt="" coords="1473,432,1606,460"/>
+<area shape="rect" id="node4" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="1076,392,1177,420"/>
+<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="607,404,711,432"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="253,373,342,401"/>
+<area shape="rect" id="node9" href="$dc/d82/classPHNode.html" title="PHNode" alt="" coords="621,496,696,524"/>
+<area shape="rect" id="node15" href="$df/d3f/classPHG4SteppingAction.html" title="PHG4SteppingAction" alt="" coords="1046,612,1207,640"/>
+<area shape="rect" id="node25" href="$d2/d44/classPHG4DisplayAction.html" title="PHG4DisplayAction" alt="" coords="583,300,734,328"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="5,365,148,409"/>
+<area shape="rect" id="node8" href="$d5/dca/classPHCompositeNode.html" title="PHCompositeNode" alt="" coords="1466,484,1613,512"/>
+<area shape="rect" id="node10" href="$d6/d86/classPHPointerList.html" title="PHPointerList\&lt; PHNode \&gt;" alt="" coords="1030,444,1223,472"/>
+<area shape="rect" id="node13" href="$df/d9c/structPHG4ForwardEcalDetector_1_1towerposition.html" title="PHG4ForwardEcalDetector\l::towerposition" alt="" coords="197,5,397,49"/>
+<area shape="rect" id="node17" href="$db/d88/classPHG4Shower.html" title="PHG4Shower" alt="" coords="1651,659,1761,687"/>
+<area shape="rect" id="node18" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="1085,727,1169,755"/>
+<area shape="rect" id="node20" href="$d3/d9e/classPHG4Hit.html" title="PHG4Hit" alt="" coords="1500,727,1579,755"/>
+<area shape="rect" id="node21" href="$d4/d30/classPHG4HitContainer.html" title="PHG4HitContainer" alt="" coords="2165,797,2310,825"/>
+<area shape="rect" id="node19" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="621,727,697,755"/>
+<area shape="rect" id="node24" href="$d8/d2d/classPHG4ForwardDualReadoutDisplayAction.html" title="PHG4ForwardDualReadoutDisplay\lAction" alt="" coords="1001,240,1252,284"/>
+</map>

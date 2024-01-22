@@ -1,0 +1,33 @@
+<map id="FairGeoTransform::transFrom" name="FairGeoTransform::transFrom">
+<area shape="rect" id="node2" href="$de/d30/classFairGeoNode.html#ac325dfafe4894e215f9ef4d40a206c15" title="FairGeoNode::calcLabTransform" alt="" coords="282,297,517,325"/>
+<area shape="rect" id="node17" href="$de/d30/classFairGeoNode.html#a967ed3bfbce7ccd264875ac39a40b937" title="FairGeoNode::calcModuleTransform" alt="" coords="269,444,529,472"/>
+<area shape="rect" id="node18" href="$de/d30/classFairGeoNode.html#ae3e35b9cdb6313729e65305229008538" title="FairGeoNode::calcRefPos" alt="" coords="305,496,493,524"/>
+<area shape="rect" id="node19" href="$dd/df8/classFairGeoBasicShape.html#a12bad13cd7dccc1a20b72fa26e5997d8" title="FairGeoBasicShape::\lposInMother" alt="" coords="320,720,479,764"/>
+<area shape="rect" id="node3" href="$de/d30/classFairGeoNode.html#a78bbd99691e8d9c3cea884972318e903" title="FairGeoNode::getLabTransform" alt="" coords="577,219,808,247"/>
+<area shape="rect" id="node10" href="$d4/d06/classFairModule.html#ac489f7e5ed92d2a4fdec5422d93bfa42" title="FairModule::ProcessNodes" alt="" coords="594,375,791,403"/>
+<area shape="rect" id="node4" href="$d6/d73/classCbmRichProjectionProducer.html#af55f38914e2befa81ca19d7b26610e51" title="Initialization of the task." alt="" coords="889,5,1097,49"/>
+<area shape="rect" id="node5" href="$da/d9f/classCbmRichHitProducer.html#aa215fb5147a6128031c8a2641166b95b" title="Inherited from FairTask." alt="" coords="912,73,1073,117"/>
+<area shape="rect" id="node6" href="$d5/d49/classCbmRichTestHits.html#a94588b3c5b4787887e8a9953a4898d76" title="Inherited from FairTask." alt="" coords="910,141,1075,169"/>
+<area shape="rect" id="node7" href="$d7/dad/classCbmRichTestSim.html#a3ca68ef9ed75782643fd30056b764211" title="Inherited from FairTask." alt="" coords="910,193,1075,221"/>
+<area shape="rect" id="node8" href="$d5/d75/classCbmRichGeoTest.html#a90129ff21b406bf395f93145ca864b0a" title="Inherited from FairTask." alt="" coords="909,245,1076,273"/>
+<area shape="rect" id="node9" href="$de/d30/classFairGeoNode.html#a5106874bd1c2658d5ee4775cc2d90613" title="FairGeoNode::setLabTransform" alt="" coords="879,297,1107,325"/>
+<area shape="rect" id="node11" href="$dd/dac/classEicDetector.html#a52d5d3a030ed4ab74e36989b4a563f73" title="EicDetector::ConstructGeometry" alt="" coords="873,349,1113,377"/>
+<area shape="rect" id="node12" href="$df/d89/classPndMagnet.html#a24b61340759fdef8d1ab340f631f00b0" title="PndMagnet::ConstructASCIIGeometry" alt="" coords="856,401,1129,429"/>
+<area shape="rect" id="node14" href="$d0/d81/classPndTarget.html#a663bbcf65595d98eab33cf402ddfe74f" title="PndTarget::ConstructGeometry" alt="" coords="878,453,1107,481"/>
+<area shape="rect" id="node15" href="$d8/dd9/classCbmRich.html#a4da15c82f4256a1d985899fd00400299" title="Construct geometry from ASCII file. Supported structure for the mirrors are added on a fly..." alt="" coords="865,505,1120,533"/>
+<area shape="rect" id="node13" href="$df/d89/classPndMagnet.html#aff982bc9f85e558cbd4552add14d811c" title="PndMagnet::ConstructGeometry" alt="" coords="1177,401,1416,429"/>
+<area shape="rect" id="node16" href="$d8/dd9/classCbmRich.html#a3d1883ed88870fa1325c79d6c508242e" title="Construct geometry. Currently ROOT and ASCII formats are supported. The concrete method for geometry ..." alt="" coords="1185,505,1408,533"/>
+<area shape="rect" id="node20" href="$db/d38/classFairGeoAssembly.html#acf13912c56d7d056db2a38a3dc023da3" title="FairGeoAssembly::calcVolu\lPosition" alt="" coords="592,427,793,471"/>
+<area shape="rect" id="node21" href="$d3/d9a/classFairGeoBrik.html#a1cc0bccf404177df4a3ff95b2da38b06" title="FairGeoBrik::calcVoluPosition" alt="" coords="585,495,801,523"/>
+<area shape="rect" id="node22" href="$d8/da3/classFairGeoTorus.html#a9d3a1af5461aa832317a51755b130d95" title="FairGeoTorus::calcVoluPosition" alt="" coords="580,547,805,575"/>
+<area shape="rect" id="node23" href="$d6/db9/classFairGeoTube.html#a01c4d6d2e32a45a525547d48ba4d513f" title="FairGeoTube::calcVoluPosition" alt="" coords="582,599,803,627"/>
+<area shape="rect" id="node24" href="$d9/ddb/classFairGeoTubs.html#aa840ed99bfd8e8f0947118b86d89639c" title="FairGeoTubs::calcVoluPosition" alt="" coords="583,651,803,679"/>
+<area shape="rect" id="node25" href="$d5/d4e/classFairGeoTrap.html#a86edc01b492fb59cd9c45467752d3c64" title="FairGeoTrap::calcVoluPosition" alt="" coords="583,703,802,731"/>
+<area shape="rect" id="node26" href="$d0/dc6/classFairGeoTrd1.html#a2689f3f219343849f32b6704f867b868" title="FairGeoTrd1::calcVoluPosition" alt="" coords="583,755,802,783"/>
+<area shape="rect" id="node27" href="$d1/d1c/classFairGeoPgon.html#aae1675cd40a572f8b79d1f5400082d9b" title="FairGeoPgon::calcVoluPosition" alt="" coords="581,807,805,835"/>
+<area shape="rect" id="node28" href="$d5/d52/classFairGeoPcon.html#a12323828e47db2ededfb21a00d338e22" title="FairGeoPcon::calcVoluPosition" alt="" coords="581,859,804,887"/>
+<area shape="rect" id="node29" href="$d6/d97/classFairGeoCons.html#a1cc5a0cc8b30ee22499b85c63295ec42" title="FairGeoCons::calcVoluPosition" alt="" coords="581,911,804,939"/>
+<area shape="rect" id="node30" href="$dd/d5d/classFairGeoCone.html#a9aa150e5b877bdfce9ade120615d3aaa" title="FairGeoCone::calcVoluPosition" alt="" coords="581,963,805,991"/>
+<area shape="rect" id="node31" href="$db/d35/classFairGeoEltu.html#ad4186ac5db478620f3dc717b95c28a8b" title="FairGeoEltu::calcVoluPosition" alt="" coords="585,1015,801,1043"/>
+<area shape="rect" id="node32" href="$df/dbe/classFairGeoSphe.html#a40060b7f6e12ae01a94221ea16cb8012" title="FairGeoSphe::calcVoluPosition" alt="" coords="581,1067,805,1095"/>
+</map>

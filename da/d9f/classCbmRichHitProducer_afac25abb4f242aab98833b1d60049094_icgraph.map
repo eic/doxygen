@@ -1,0 +1,7 @@
+<map id="CbmRichHitProducer::TiltPoint" name="CbmRichHitProducer::TiltPoint">
+<area shape="rect" id="node2" href="$d6/d73/classCbmRichProjectionProducer.html#a82b656e7d31c4f95b9c709f26662fc05" title="Execute task." alt="" coords="237,5,445,49"/>
+<area shape="rect" id="node3" href="$da/d9f/classCbmRichHitProducer.html#afe4f7cc5874368e44deb8ac6cd756e52" title="Inherited from FairTask." alt="" coords="260,73,421,117"/>
+<area shape="rect" id="node4" href="$d5/d75/classCbmRichGeoTest.html#ac4e85945a0e59eb8e5b24852dec35e2d" title="Calculate residuals between hits and MC points and fill histograms." alt="" coords="222,141,459,169"/>
+<area shape="rect" id="node6" href="$d5/d75/classCbmRichGeoTest.html#a3877e9706c0d5764a48e943b355830cf" title="Loop over all rings in array and fill ring parameters histograms." alt="" coords="215,193,467,221"/>
+<area shape="rect" id="node5" href="$d5/d75/classCbmRichGeoTest.html#a9d5e890887411e04eb97219b7fa6c191" title="Inherited from FairTask." alt="" coords="515,168,691,196"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="erhic::EventFromAsciiFactory::AddParticle" name="erhic::EventFromAsciiFactory::AddParticle">
+<area shape="rect" id="node2" href="$dc/dd2/namespaceHepMC3.html#ad2ce2bf9a9f8d93d6ecf1e33c7958524" title="This function will deduce the type of input stream based on its content and will return appropriate R..." alt="" coords="269,97,457,125"/>
+<area shape="rect" id="node3" href="$db/dfc/namespaceerhic.html#a4aa2efb4b2f24463afa9d41289e62ba1" title="erhic::HandleAllVertices" alt="" coords="272,149,455,177"/>
+<area shape="rect" id="node5" href="$db/dfc/namespaceerhic.html#a803040387103d31e39ed8d45b1c6acfe" title="erhic::HandleHepmcParticle" alt="" coords="505,201,715,229"/>
+<area shape="rect" id="node19" href="$d4/da9/namespaceboost.html#a630945877437d477612e4419562161cc" title="boost::swap" alt="" coords="312,253,415,281"/>
+<area shape="rect" id="node21" href="$db/dfc/namespaceerhic.html#a6e819fbc2eb768af17b7c3e459eb72fd" title="erhic::UpdateRuninfo" alt="" coords="281,305,445,333"/>
+<area shape="rect" id="node4" href="$d6/dfb/classerhic_1_1EventMC.html#a45bb79e814c5c5b62a9ba6a3e8929bd1" title="erhic::EventMC::GetTrack" alt="" coords="514,149,706,177"/>
+<area shape="rect" id="node6" href="$d6/dfb/classerhic_1_1EventMC.html#a180c8febd4a10aea7da0489cfcde9bc1" title="erhic::EventMC::AddLast" alt="" coords="763,5,949,33"/>
+<area shape="rect" id="node7" href="$de/d3c/classerhic_1_1ParticleMCbase.html#af3dbf2a11907f0057b6cfc1af30e5b75" title="erhic::ParticleMCbase\l::Set4Vector" alt="" coords="773,57,939,101"/>
+<area shape="rect" id="node14" href="$de/d3c/classerhic_1_1ParticleMCbase.html#ab65bcb7673eb964e91515ee0ab697d01" title="erhic::ParticleMCbase\l::SetEvent" alt="" coords="773,125,939,169"/>
+<area shape="rect" id="node15" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a7d1f67920283b17e4bf61b35ea513c82" title="erhic::ParticleMCbase\l::SetId" alt="" coords="773,193,939,237"/>
+<area shape="rect" id="node16" href="$de/d3c/classerhic_1_1ParticleMCbase.html#adcaf0731e1be1de4965aa780025ba3e1" title="erhic::ParticleMCbase\l::SetIndex" alt="" coords="773,261,939,305"/>
+<area shape="rect" id="node17" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a623b39b03206ecdd44e8e3f14664c342" title="erhic::ParticleMCbase\l::SetStatus" alt="" coords="773,329,939,373"/>
+<area shape="rect" id="node18" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a72a8e62968d27cc591dbd1b03c8436e9" title="erhic::ParticleMCbase\l::SetVertex" alt="" coords="773,397,939,441"/>
+<area shape="rect" id="node8" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a2aa0d72eeb2d16912348084513d9c78e" title="erhic::ParticleMCbase\l::ComputeDerivedQuantities" alt="" coords="1027,24,1242,68"/>
+<area shape="rect" id="node9" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a125e0b24d1d6b1bcf440f3265d4f60a5" title="erhic::ParticleMCbase\l::ComputeEventDependentQuantities" alt="" coords="997,92,1272,136"/>
+<area shape="rect" id="node10" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a5a2d65df0a991dba4645ec2b8da399e0" title="erhic::ParticleMCbase\l::Get4Vector" alt="" coords="1341,5,1507,49"/>
+<area shape="rect" id="node11" href="$d8/d5c/functions_8h.html#a5f645a6689940a1ad8500ba581abeb1e" title="computeHermesPhiH" alt="" coords="1343,73,1505,101"/>
+<area shape="rect" id="node12" href="$dc/db4/classerhic_1_1EventDis.html#a644d1c348131c2909cbb2bb3c78e9040" title="erhic::EventDis::GetW2" alt="" coords="1335,125,1513,153"/>
+<area shape="rect" id="node13" href="$d6/dfb/classerhic_1_1EventMC.html#a03767ae486e1e024696c1166640fd575" title="erhic::EventMC::GetNTracks" alt="" coords="1320,177,1528,205"/>
+<area shape="rect" id="node20" href="$d1/d96/classboost_1_1array.html#a342ef866ed696b18ce803b5c9aba4b2e" title="boost::array::swap" alt="" coords="537,253,683,281"/>
+</map>

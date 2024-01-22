@@ -1,0 +1,14 @@
+<map id="FairTimeStamp::GetTimeStampError" name="FairTimeStamp::GetTimeStampError">
+<area shape="rect" id="node2" href="$dd/d26/classPndTrackCand.html#a56feb56c76378189e527dda9dba8a19e" title="PndTrackCand::CalcTimeStamp" alt="" coords="287,5,519,33"/>
+<area shape="rect" id="node3" href="$d6/d15/classFairTimeStamp.html#ade754f6f7ca3f0cc16c3cd19c8484a46" title="FairTimeStamp::Compare" alt="" coords="307,57,499,85"/>
+<area shape="rect" id="node4" href="$d6/d15/classFairTimeStamp.html#a9ab44996330d66739af735a945c4cc00" title="FairTimeStamp::equal" alt="" coords="318,109,487,137"/>
+<area shape="rect" id="node9" href="$d4/d3f/classPndTrack.html#a0951d02e9f8d3fec619bac16c664f981" title="PndTrack::PndTrack" alt="" coords="327,161,479,189"/>
+<area shape="rect" id="node10" href="$d6/d15/classFairTimeStamp.html#a779bc9107ff19c0a2ee5d533b4e7b57d" title="FairTimeStamp::Print" alt="" coords="321,213,484,241"/>
+<area shape="rect" id="node5" href="$d2/d88/classFairWriteoutBuffer.html#a3ea000491d4b59bab842c4120ce5599b" title="FairWriteoutBuffer\l::FillDataToDeadTimeMap" alt="" coords="575,108,767,152"/>
+<area shape="rect" id="node6" href="$d2/d88/classFairWriteoutBuffer.html#afd2c62e5148e2c31bab3dd4b04f64cbc" title="FairWriteoutBuffer\l::MoveDataFromStartTimeMap\lToDeadTimeMap" alt="" coords="824,100,1051,160"/>
+<area shape="rect" id="node7" href="$d2/d88/classFairWriteoutBuffer.html#a2ee049ce56842a1ad73816a64be6cf00" title="FairWriteoutBuffer\l::WriteOutData" alt="" coords="1099,79,1244,123"/>
+<area shape="rect" id="node8" href="$d2/d88/classFairWriteoutBuffer.html#a12844af29276085d664dfab6bf99eea9" title="FairWriteoutBuffer\l::WriteOutAllData" alt="" coords="1292,109,1437,153"/>
+<area shape="rect" id="node11" href="$d5/d7e/classFairRingSorter.html#a59ae586d78e7791576d1baf44fbe7038" title="FairRingSorter::AddElement" alt="" coords="567,257,776,285"/>
+<area shape="rect" id="node12" href="$d5/df8/classFairRingSorterTask.html#a4e5b23136ffd0d2dda5dc70960f0a394" title="FairRingSorterTask\l::Exec" alt="" coords="864,197,1011,241"/>
+<area shape="rect" id="node13" href="$d5/df8/classFairRingSorterTask.html#a03d4677862c1fe8e57667360483df0b9" title="FairRingSorterTask\l::FinishTask" alt="" coords="864,265,1011,309"/>
+</map>

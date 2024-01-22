@@ -1,0 +1,8 @@
+<map id="CbmBaseHit::GetAddress" name="CbmBaseHit::GetAddress">
+<area shape="rect" id="node2" href="$da/d9f/classCbmRichHitProducer.html#ae09a5880ed6c729e141561a628143178" title="Adds a RichHit to the HitCollection." alt="" coords="248,5,409,49"/>
+<area shape="rect" id="node5" href="$de/dfd/classCbmRichHit.html#a8252bed29bbf341318881077b7b7ec48" title="Inherited from CbmBaseHit." alt="" coords="247,73,411,101"/>
+<area shape="rect" id="node6" href="$db/d2f/classCbmStripHit.html#a97359dbdcd905ceb8f7bf1d0a7c8efbd" title="Inherited from CbmBaseHit." alt="" coords="245,125,412,153"/>
+<area shape="rect" id="node7" href="$d6/d31/classCbmPixelHit.html#a1d5e7e57619226bebb1f0cbdb8f81019" title="Inherited from CbmBaseHit." alt="" coords="245,177,412,205"/>
+<area shape="rect" id="node3" href="$da/d9f/classCbmRichHitProducer.html#afe4f7cc5874368e44deb8ac6cd756e52" title="Inherited from FairTask." alt="" coords="669,7,831,51"/>
+<area shape="rect" id="node4" href="$da/d9f/classCbmRichHitProducer.html#a587c0db1e409265d8fbebdab293357a9" title="Add cross talk hits." alt="" coords="460,36,621,80"/>
+</map>

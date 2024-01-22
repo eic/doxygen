@@ -1,0 +1,26 @@
+<map id="erhic::VirtualParticle::Id" name="erhic::VirtualParticle::Id">
+<area shape="rect" id="node2" href="$db/dc9/classParticleIdentifier.html#a16c07bffbed798bbbdabfbcda43acc43" title="ParticleIdentifier\l::IdentifyBeams" alt="" coords="539,173,671,217"/>
+<area shape="rect" id="node3" href="$d2/d55/classSmear_1_1Acceptance.html#a8f4767a26d00724cba82a3aa80541f69" title="Smear::Acceptance::Is" alt="" coords="519,389,691,417"/>
+<area shape="rect" id="node4" href="$d9/de1/classSmear_1_1Device.html#aeff74421cc6098556a73f48dbe80e540" title="Smear::Device::Smear" alt="" coords="765,165,939,193"/>
+<area shape="rect" id="node5" href="$d0/d91/structSmear_1_1ParticleID.html#a2c109c1306f27d7d427ce4c943075be1" title="Smear::ParticleID::\lSmear" alt="" coords="779,463,925,507"/>
+<area shape="rect" id="node7" href="$db/dc9/classParticleIdentifier.html#a52638868e93f0bca55acb5ba12f6b1d7" title="ParticleIdentifier\l::isBeamLepton" alt="" coords="273,105,405,149"/>
+<area shape="rect" id="node8" href="$db/dc9/classParticleIdentifier.html#a978ddb2bc49b76540f546958245826c4" title="ParticleIdentifier\l::isBeamNucleon" alt="" coords="272,173,407,217"/>
+<area shape="rect" id="node9" href="$db/dc9/classParticleIdentifier.html#a5f962a63f1e4f2403c7302d63cfb7fcd" title="ParticleIdentifier\l::isScatteredLepton" alt="" coords="263,241,415,285"/>
+<area shape="rect" id="node10" href="$db/dc9/classParticleIdentifier.html#ab8fe033e666fe214ffd390567c34b6f3" title="ParticleIdentifier\l::IsVirtualPhoton" alt="" coords="273,309,405,353"/>
+<area shape="rect" id="node11" href="$d9/dd8/namespaceSmear.html#abb2e999dfddf67fb47fe1e50921a8335" title="Smear::PGenre" alt="" coords="278,429,401,457"/>
+<area shape="rect" id="node12" href="$dd/df6/classEicEventGenerator.html#a40924445938964cff3db00bb4f59debe" title="EicEventGenerator::\lReadEvent" alt="" coords="261,533,417,577"/>
+<area shape="rect" id="node13" href="$d2/d84/classerhic_1_1EventRapgap.html#a97d2319a238592c4b68663034020f1db" title="erhic::EventRapgap\l::ScatteredLepton" alt="" coords="262,601,417,645"/>
+<area shape="rect" id="node14" href="$d2/da5/classerhic_1_1EventSimple.html#ae892d16064367089e4e95defe2e28d98" title="erhic::EventSimple\l::ScatteredLepton" alt="" coords="265,669,413,713"/>
+<area shape="rect" id="node15" href="$d2/db2/classerhic_1_1EventDEMP.html#ae13104eee044d682950ae87b28516cb3" title="erhic::EventDEMP::Scattered\lLepton" alt="" coords="232,737,447,781"/>
+<area shape="rect" id="node16" href="$d8/d97/classerhic_1_1EventSartre.html#ae799e1ab9c8e8835c8de60863b9405f0" title="erhic::EventSartre\l::ScatteredLepton" alt="" coords="268,805,411,849"/>
+<area shape="rect" id="node17" href="$df/d77/classerhic_1_1EventPythia.html#a8ffbe32229a7310901b0b2f9b6c8d0bf" title="erhic::EventPythia\l::ScatteredLepton" alt="" coords="267,873,411,917"/>
+<area shape="rect" id="node18" href="$db/dc9/classParticleIdentifier.html#aa26c1c2b831515568a2644431791aebc" title="ParticleIdentifier\l::SkipParticle" alt="" coords="273,941,405,985"/>
+<area shape="rect" id="node19" href="$db/dfd/classSmear_1_1PerfectID.html#a249a3ad5dbf893706cd03917c2495caa" title="Smear::PerfectID::Smear" alt="" coords="245,1009,433,1037"/>
+<area shape="rect" id="node20" href="$d2/d7d/classSmear_1_1Detector.html#a315bbbcca627dab0cee24379642664d8" title="Smear::Detector::Smear" alt="" coords="247,1061,432,1089"/>
+<area shape="rect" id="node6" href="$d1/df3/classSmear_1_1Tracker.html#a81a81adda8d4d3a77f9e610851555c2c" title="Smear::Tracker::Smear" alt="" coords="764,389,940,417"/>
+<area shape="rect" id="node21" href="$d6/d18/classSmear_1_1HadronicEventBuilder.html#ab2e23e8016174481a4c9c6bb06bde5fe" title="Smear::HadronicEventBuilder\l::Create" alt="" coords="495,985,716,1029"/>
+<area shape="rect" id="node22" href="$d9/d1c/classSmear_1_1EventDisFactory.html#ad62ba3be7aea30c57cf6ccf41d7be91e" title="Smear::EventDisFactory\l::Create" alt="" coords="514,1053,697,1097"/>
+<area shape="rect" id="node23" href="$d0/d1d/particlegun_8cxx.html#ab8b501892680ac538a9aad2af02d198f" title="This function does smearing itself. by calling detector.Smear(not_smeared_prt);." alt="" coords="548,1121,663,1149"/>
+<area shape="rect" id="node24" href="$d0/d1d/particlegun_8cxx.html#ac7821bf4c6f46efb89009edde18e7b97" title="Process" alt="" coords="816,1121,888,1149"/>
+<area shape="rect" id="node25" href="$d0/d1d/particlegun_8cxx.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="988,1121,1043,1149"/>
+</map>

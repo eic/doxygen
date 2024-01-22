@@ -1,0 +1,10 @@
+<map id="nBodyPhaseSpaceGen::random" name="nBodyPhaseSpaceGen::random">
+<area shape="rect" id="node2" href="$d8/df9/classnBodyPhaseSpaceGen.html#a48906503ccf608dd1d799087ad78442b" title="applies event weight in form of hit&#45;miss MC assumes that event weight has been already calculated by ..." alt="" coords="227,5,400,49"/>
+<area shape="rect" id="node4" href="$dc/da5/pepsiMaineRHIC__noradcorr_8v1_8F.html#ac2ed0c0080f3e6d946824efb82e28ab5" title="pepsimainerhic" alt="" coords="251,209,376,237"/>
+<area shape="rect" id="node5" href="$d8/df9/classnBodyPhaseSpaceGen.html#ad3f3fbfe37888e0edaefc583bb89b07a" title="randomly choses the (n &#45; 1) polar and (n &#45; 1) azimuthal angles in the respective (i + 1)&#45;body RFs..." alt="" coords="227,73,400,117"/>
+<area shape="rect" id="node7" href="$d8/df9/classnBodyPhaseSpaceGen.html#add818dbb78ea95545253dc61117bbcea" title="randomly choses the (n &#45; 2) effective masses of the respective (i + 1)&#45;body systems" alt="" coords="227,141,400,185"/>
+<area shape="rect" id="node9" href="$d2/d35/riwibd_8F.html#a781d9ee888346087111dc3fa28af25ab" title="riwibd" alt="" coords="282,261,345,289"/>
+<area shape="rect" id="node3" href="$d8/df9/classnBodyPhaseSpaceGen.html#a093630768258cd3d19d21231ede68f65" title="generates full event with certain n&#45;body mass and momentum only when event is accepted (return value ..." alt="" coords="448,40,644,84"/>
+<area shape="rect" id="node6" href="$d8/df9/classnBodyPhaseSpaceGen.html#ad40d545a890692e5b9ff09ae10728203" title="generates full event with certain n&#45;body mass and momentum and returns event weight" alt="" coords="459,108,633,152"/>
+<area shape="rect" id="node8" href="$d8/df9/classnBodyPhaseSpaceGen.html#a95f62e22e1f35752cdaaa9df0674e220" title="estimates maximum weight for given n&#45;body mass" alt="" coords="459,176,633,220"/>
+</map>

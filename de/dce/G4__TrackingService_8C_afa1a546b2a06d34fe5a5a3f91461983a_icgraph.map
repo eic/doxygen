@@ -1,0 +1,14 @@
+<map id="get_thickness" name="get_thickness">
+<area shape="rect" id="node2" href="$d1/dc5/classPHG4TpcDigitizer.html#ab4d954a3aed4125a364a0a6a4fc4524a" title="PHG4TpcDigitizer::Calculate\lCylinderCellADCScale" alt="" coords="189,5,400,49"/>
+<area shape="rect" id="node4" href="$dd/da0/classPHG4InttDigitizer.html#a8fd9fb7a2b7bfb6f247f60cfdac8ea00" title="PHG4InttDigitizer::\lCalculateLadderCellADCScale" alt="" coords="184,73,405,117"/>
+<area shape="rect" id="node6" href="$d5/d86/classInttClusterizer.html#a71f7f1ec129bd2113211bf2426b4e6b6" title="InttClusterizer::Calculate\lLadderThresholds" alt="" coords="201,141,389,185"/>
+<area shape="rect" id="node8" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#a5d52892d52c8020e2e81e981b47a1220" title="PHG4FullProjTiltedSpacal\lDetector::Construct_AzimuthalSeg" alt="" coords="168,209,421,253"/>
+<area shape="rect" id="node9" href="$d1/d05/classPHG4FullProjSpacalDetector.html#afd4c65353754d4baff1ed614a2aca247" title="PHG4FullProjSpacalDetector\l::Construct_AzimuthalSeg" alt="" coords="189,277,400,321"/>
+<area shape="rect" id="node10" href="$de/dce/G4__TrackingService_8C.html#a9c4417fefc390183537a0212fa8f9025" title="TrackingServiceCone" alt="" coords="213,345,377,373"/>
+<area shape="rect" id="node13" href="$de/dce/G4__TrackingService_8C.html#a0c212a5d289199880aaa55979ae16da2" title="TrackingServiceCylinder" alt="" coords="202,397,387,425"/>
+<area shape="rect" id="node3" href="$d1/dc5/classPHG4TpcDigitizer.html#a0e3ca61d6e45c84a3fc46ec6f44c17cc" title="run initialization" alt="" coords="469,13,664,41"/>
+<area shape="rect" id="node5" href="$dd/da0/classPHG4InttDigitizer.html#a1add524430b73f19c7dc69184d243742" title="run initialization" alt="" coords="494,73,639,117"/>
+<area shape="rect" id="node7" href="$d5/d86/classInttClusterizer.html#a0bfadbdd17acfa1c86c51f8356e5925b" title="run initialization" alt="" coords="481,149,653,177"/>
+<area shape="rect" id="node11" href="$de/dce/G4__TrackingService_8C.html#a53d54b6364f42555b9c7805ee83ac33f" title="TrackingService" alt="" coords="502,371,631,399"/>
+<area shape="rect" id="node12" href="$d4/daf/fun4all__macros_2blob_2master_2detectors_2sPHENIX_2G4Setup__sPHENIX_8C.html#a6b34584f88221280e9b276471822bd06" title="G4Setup" alt="" coords="712,371,792,399"/>
+</map>

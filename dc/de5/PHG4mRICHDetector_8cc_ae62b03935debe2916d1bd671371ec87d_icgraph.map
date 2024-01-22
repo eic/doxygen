@@ -1,0 +1,51 @@
+<map id="material" name="material">
+<area shape="rect" id="node2" href="$dd/d5a/classPHG4TpcEndCapDetector.html#a7b470169f5d1ca969814afe1de42507f" title="PHG4TpcEndCapDetector\l::AddLayer" alt="" coords="167,5,361,49"/>
+<area shape="rect" id="node3" href="$dd/d5a/classPHG4TpcEndCapDetector.html#aec875ecce8ec727af4f9f58edbd89bc0" title="PHG4TpcEndCapDetector\l::ConstructEndCapAssembly" alt="" coords="445,189,659,233"/>
+<area shape="rect" id="node4" href="$db/d59/MaterialSlabTests_8cpp.html#a83bd3e2b6e5e80a73932753d45f84f2f" title="BOOST_AUTO_TEST_CASE" alt="" coords="166,125,362,153"/>
+<area shape="rect" id="node5" href="$dd/d7e/namespaceActs_1_1Test.html#a0f4ee318a6ac919ac5a844eed2f21e6a" title="Test case for comparison between the mapped material and the associated material by propagation..." alt="" coords="170,177,358,221"/>
+<area shape="rect" id="node6" href="$de/d24/classActs_1_1PassiveLayerBuilder.html#a0fa6c8e95634f573f13e684cc87141dc" title="Acts::PassiveLayerBuilder\l::centralLayers" alt="" coords="166,245,362,289"/>
+<area shape="rect" id="node7" href="$d9/d5c/classPHG4MicromegasDetector.html#adc9e53e8e33066cc4d281b6abc44b7cf" title="construct" alt="" coords="164,637,364,681"/>
+<area shape="rect" id="node9" href="$dd/d5a/classPHG4TpcEndCapDetector.html#afc89c12d0cdadd2fa0a06176aced5e26" title="PHG4TpcEndCapDetector\l::ConstructElectronics" alt="" coords="167,313,361,357"/>
+<area shape="rect" id="node10" href="$da/de1/classPHG4EPDDetector.html#ae4b10ac5eb424e57c5fd8d6d8982d4bc" title="PHG4EPDDetector::ConstructMe" alt="" coords="145,449,383,477"/>
+<area shape="rect" id="node11" href="$de/d81/classPHG4TpcDetector.html#a159f454525824f6f24275d007b87f3fd" title="PHG4TpcDetector::Construct\lTpcCageVolume" alt="" coords="156,501,372,545"/>
+<area shape="rect" id="node12" href="$de/d81/classPHG4TpcDetector.html#af9c9617ea42660ed2318106b1da9cd43" title="PHG4TpcDetector::Construct\lTpcGasVolume" alt="" coords="156,569,372,613"/>
+<area shape="rect" id="node13" href="$dd/d5a/classPHG4TpcEndCapDetector.html#a10d6f51cc556b2d3eceda911484ac193" title="PHG4TpcEndCapDetector\l::ConstructWagonWheel" alt="" coords="167,381,361,425"/>
+<area shape="rect" id="node14" href="$d7/d84/egmesh_8h.html#ace5dc0e69b4a42b9fb2721b5ccb4f479" title="CreateKnots" alt="" coords="212,705,316,733"/>
+<area shape="rect" id="node15" href="$d7/d84/egmesh_8h.html#a5c74ddc1671a6a60502a58fa16b517e0" title="CreateKnotsExtruded" alt="" coords="181,757,347,785"/>
+<area shape="rect" id="node16" href="$df/db9/classFairGeoRootBuilder.html#a29429e4d6213b81ffb292fb465c004a5" title="FairGeoRootBuilder\l::createMedium" alt="" coords="188,809,340,853"/>
+<area shape="rect" id="node17" href="$d7/df9/classEicGeoMedia.html#a13533258ee7e3fca7500add2944f195b" title="EicGeoMedia::createMedium" alt="" coords="157,877,371,905"/>
+<area shape="rect" id="node18" href="$d7/d84/egmesh_8h.html#a6629844361390c86ccc9bcd7c7b1abdf" title="CreatePoints" alt="" coords="211,929,317,957"/>
+<area shape="rect" id="node19" href="$d5/d0b/classActs_1_1Test_1_1DetectorElementStub.html#a6f3d1a3e265170710af4107b1e7b98a0" title="Acts::Test::DetectorElement\lStub::DetectorElementStub" alt="" coords="159,981,369,1025"/>
+<area shape="rect" id="node20" href="$d8/de6/classEtmAzimuthalScan.html#a11c983299c561216ec5c52e14b42b436" title="EtmAzimuthalScan::DoIt" alt="" coords="171,1049,357,1077"/>
+<area shape="rect" id="node21" href="$da/da0/classEicCadWizardFile.html#a9fe3e41741a3dc2c6171b26b93415652" title="EicCadWizardFile::EicCad\lWizardFile" alt="" coords="169,1101,359,1145"/>
+<area shape="rect" id="node22" href="$d7/d84/egmesh_8h.html#a81611ba79f369737e2bb3766c8eaf5f6" title="ElementsToBoundaryConditions" alt="" coords="146,1169,382,1197"/>
+<area shape="rect" id="node23" href="$d8/dbd/egconvert_8h.html#a1781c28dc0c1ce71d6d36cceb8c9ede1" title="LoadComsolMesh" alt="" coords="483,1195,621,1223"/>
+<area shape="rect" id="node24" href="$de/d24/classActs_1_1PassiveLayerBuilder.html#abf4a9923307d3709dfa09441a2cd99a5" title="Acts::PassiveLayerBuilder\l::endcapLayers" alt="" coords="166,1273,362,1317"/>
+<area shape="rect" id="node25" href="$d7/d84/egmesh_8h.html#a94d856ce3c3423f8ea186554e17e9f7a" title="FindBoundaryBoundary" alt="" coords="174,1341,354,1369"/>
+<area shape="rect" id="node26" href="$d7/d84/egmesh_8h.html#aa61c65f2bf8eeac93a81fbf023429b80" title="FindBulkBoundary" alt="" coords="192,1393,336,1421"/>
+<area shape="rect" id="node27" href="$db/dc5/classMediaSliceArray.html#a9e2a0ceb68eb2b2c71bf259bfd48a7ce" title="MediaSliceArray::GetDE" alt="" coords="173,1445,355,1473"/>
+<area shape="rect" id="node28" href="$d6/d7f/classEtmVacuumChamber.html#ad92ceb4a0a11b1fc6b03e35f642c7c04" title="EtmVacuumChamber::GetRadialSize" alt="" coords="131,1497,397,1525"/>
+<area shape="rect" id="node29" href="$d8/dbd/egconvert_8h.html#a5f6c9b4f17b7f89e0ab07ee79c82dbc4" title="LoadAbaqusInput" alt="" coords="194,1549,334,1577"/>
+<area shape="rect" id="node30" href="$d8/dbd/egconvert_8h.html#abda497c737f6efacf7632fdd5e3c2123" title="LoadCGsimMesh" alt="" coords="198,1601,330,1629"/>
+<area shape="rect" id="node31" href="$d8/dbd/egconvert_8h.html#aa4c64ee63fcf7ac26154b53d04f81a2e" title="LoadGidInput" alt="" coords="208,1653,320,1681"/>
+<area shape="rect" id="node32" href="$d8/dbd/egconvert_8h.html#a50e8d3544ef3acaff4c7dd9c8d10f707" title="LoadNastranInput" alt="" coords="193,1705,335,1733"/>
+<area shape="rect" id="node33" href="$d5/d62/TabulateEnergyLoss_8cpp.html#abf9e6b7e6f15df4b525a2e7705ba3089" title="main" alt="" coords="237,1757,291,1785"/>
+<area shape="rect" id="node34" href="$db/dd2/G4__TTL__EIC_8C.html#a2356e0ebd4d13f3063a134ce89a0ccc5" title="make_barrel_layer_basic" alt="" coords="171,1809,357,1837"/>
+<area shape="rect" id="node35" href="$db/dd2/G4__TTL__EIC_8C.html#abd4fa299e9a68c0a61c1431c475af1a5" title="make_barrel_layer_LYSO\l_basic" alt="" coords="171,1861,357,1905"/>
+<area shape="rect" id="node36" href="$d8/d04/G4__Barrel__EIC_8C.html#a5aa725398c1d5d3254e7330d052acaa5" title="make_barrel_pixel_layer" alt="" coords="171,1929,357,1957"/>
+<area shape="rect" id="node37" href="$da/d7b/namespaceActs.html#a6323bc8edeb350ded5497a278b7a9512" title="Acts::materialMapperRZ" alt="" coords="171,1981,357,2009"/>
+<area shape="rect" id="node38" href="$da/d7b/namespaceActs.html#a89d2e360761d509f4cff97eac0b3067a" title="Acts::materialMapperXYZ" alt="" coords="167,2033,361,2061"/>
+<area shape="rect" id="node39" href="$d4/d0f/G4__PlugDoor__EIC_8C.html#aa59bf2cdaabcdb80a472f7a8e1adc8fe" title="PlugDoor" alt="" coords="222,2085,306,2113"/>
+<area shape="rect" id="node40" href="$df/dd1/classMediaBank.html#a61e3aacd1d0e97b76258868f1824f297" title="MediaBank::Print" alt="" coords="196,2137,332,2165"/>
+<area shape="rect" id="node41" href="$d8/d34/rad__length_8C.html#aec27853c6ecd1700ebc22881a45143b3" title="rad_length" alt="" coords="217,2189,311,2217"/>
+<area shape="rect" id="node42" href="$d7/d84/egmesh_8h.html#a373fc5623a151a8a9ef05dd554aaeafe" title="ReduceElementOrder" alt="" coords="181,2241,347,2269"/>
+<area shape="rect" id="node43" href="$de/dc7/classActsExamples_1_1RootMaterialDecorator.html#a00027dacf9f561b0fbb1528709d91f29" title="ActsExamples::RootMaterial\lDecorator::RootMaterialDecorator" alt="" coords="139,2293,389,2337"/>
+<area shape="rect" id="node44" href="$d7/d84/egmesh_8h.html#a8023422ebfcf5bc2f8b967c098116e11" title="SetDiscontinuousBoundary" alt="" coords="162,2361,366,2389"/>
+<area shape="rect" id="node45" href="$d8/d19/classPHG4EICForwardEcalDetector.html#a6e23acb017fba4af982f1712bf1cd552" title="PHG4EICForwardEcalDetector\l::SetMaterialAbsorber" alt="" coords="153,2413,375,2457"/>
+<area shape="rect" id="node46" href="$dd/dc3/classPHG4ForwardDualReadoutDetector.html#a3b8562e4ac063557c0c84cde91de3233" title="PHG4ForwardDualReadoutDetector\l::SetMaterialAbsorber" alt="" coords="135,2481,393,2525"/>
+<area shape="rect" id="node47" href="$d8/d19/classPHG4EICForwardEcalDetector.html#a720b15ad524bf60d098b5629bf542dd4" title="PHG4EICForwardEcalDetector\l::SetMaterialScintillator" alt="" coords="153,2549,375,2593"/>
+<area shape="rect" id="node48" href="$dd/dc3/classPHG4ForwardDualReadoutDetector.html#a428ea78ed29f75c43c048d9a931d21a8" title="PHG4ForwardDualReadoutDetector\l::SetMaterialScintillator" alt="" coords="135,2617,393,2661"/>
+<area shape="rect" id="node49" href="$d8/d2c/exceptionActsExamples_1_1SteppingAction.html#aaea134b12573ac1e55decfb0aaf9eb3c" title="Interface Method doing the step." alt="" coords="150,2685,378,2729"/>
+<area shape="rect" id="node50" href="$d3/d16/VstRadLength_8C.html#aaa57b1831e2c616989fb5b5146280bd9" title="VstRadLength" alt="" coords="206,2753,322,2781"/>
+<area shape="rect" id="node8" href="$d9/d5c/classPHG4MicromegasDetector.html#a645e1aa98c237126c8e53b9e3f028262" title="construct" alt="" coords="452,637,652,681"/>
+</map>

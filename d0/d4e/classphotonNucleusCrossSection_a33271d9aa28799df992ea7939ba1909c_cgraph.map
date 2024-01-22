@@ -1,0 +1,10 @@
+<map id="photonNucleusCrossSection::sigma_A" name="photonNucleusCrossSection::sigma_A">
+<area shape="rect" id="node2" href="$d4/d51/classnucleus.html#afb4d4a7f776a88c10fa0ff433e74463e" title="returns nucleon number of nucleus" alt="" coords="343,5,435,33"/>
+<area shape="rect" id="node3" href="$d1/d21/classbeamBeamSystem.html#a039e2f7e609c95744ad06eb433688485" title="returns beam particle 1" alt="" coords="263,57,515,85"/>
+<area shape="rect" id="node4" href="$d4/d51/classnucleus.html#a5de922b3a6cc87a3eb1b421fc6f2d343" title="nucleus::rho0" alt="" coords="332,109,445,137"/>
+<area shape="rect" id="node5" href="$d1/d21/classbeamBeamSystem.html#a914c7a1b7802ed916928073483e18e7b" title="returns beam particle 2" alt="" coords="270,161,507,189"/>
+<area shape="rect" id="node6" href="$d4/d51/classnucleus.html#a625506ed8907970e3aea75ff925bfc9b" title="nucleus::thickness" alt="" coords="315,213,462,241"/>
+<area shape="rect" id="node7" href="$d4/d51/classnucleus.html#ad46c433008fa9451021f8614b126996a" title="nucleus::rws" alt="" coords="563,213,669,241"/>
+<area shape="rect" id="node8" href="$d4/d51/classnucleus.html#a31aecce251b8d61c0e36b46ccd3730d7" title="nucleus::nuclearRadius" alt="" coords="743,187,921,215"/>
+<area shape="rect" id="node9" href="$d4/d51/classnucleus.html#ab71f2da42e9f143940e727f7525076e2" title="nucleus::woodSaxonSkinDepth" alt="" coords="717,239,947,267"/>
+</map>

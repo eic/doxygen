@@ -1,0 +1,27 @@
+<map id="PHFlag::set_CharFlag" name="PHFlag::set_CharFlag">
+<area shape="rect" id="node2" href="$d1/d13/classPHG4PhenixDetector.html#a54bc771c5d554309435684a3532da656" title="this is called by geant to actually construct all detectors" alt="" coords="247,243,410,287"/>
+<area shape="rect" id="node3" href="$da/db3/classFlagSavev1.html#a5722816fa7f144517dbc2e85fdd71b17" title="FlagSavev1::PutCharToPHFlag" alt="" coords="217,311,440,339"/>
+<area shape="rect" id="node5" href="$d1/da8/classPHFlag.html#ad7aa90aabd5a7cd9958a2cc60048a68c" title="PHFlag::set_StringFlag" alt="" coords="243,363,415,391"/>
+<area shape="rect" id="node4" href="$da/db3/classFlagSavev1.html#ac57bc6ee8fcbca8ae5759fdf56fd7c19" title="FlagSavev1::PutFlagsBack" alt="" coords="488,311,687,339"/>
+<area shape="rect" id="node6" href="$d0/d78/classPHG4Reco.html#afb33612dcc374f0614d800dc9480305a" title="PHG4Reco::InitRun" alt="" coords="514,363,661,391"/>
+<area shape="rect" id="node23" href="$d9/d73/fun4all__macros_2blob_2master_2detectors_2sPHENIX_2Fun4All__G4__sPHENIX_8C.html#a4102cd3e195333de974409428a2e6dae" title="Fun4All_G4_sPHENIX" alt="" coords="1025,709,1187,737"/>
+<area shape="rect" id="node7" href="$d3/d42/Fun4All__G4__QtDisplay_8C.html#a7fc9d96420ef1de5f1fc43a1657ac8bf" title="Fun4All_G4_QtDisplay" alt="" coords="751,164,921,192"/>
+<area shape="rect" id="node8" href="$d7/da9/Fun4All__G4__Tracking_8C.html#acaee55add6a4a54eb182c6120db9649a" title="Fun4All_G4_Tracking" alt="" coords="756,216,916,244"/>
+<area shape="rect" id="node9" href="$d5/df2/Fun4All__EIC__Generator__Display_8C.html#a276181099936efe81415286b29f36e51" title="Fun4All_EIC_Generator\l_Display" alt="" coords="748,268,924,312"/>
+<area shape="rect" id="node10" href="$d0/dce/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2Development_2DisplayOn_8C.html#a36f5cc4ebb7cd23dac7e492d5c38fbc0" title="QTGui" alt="" coords="805,336,867,364"/>
+<area shape="rect" id="node11" href="$d0/dce/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2Development_2DisplayOn_8C.html#a8ac4d6fb78f920957b354f88d6195f54" title="DisplayOn" alt="" coords="791,388,881,416"/>
+<area shape="rect" id="node25" href="$d4/dfa/Fun4All__Generator__Display_8C.html#af87924a94b22e18901f0d64805565f09" title="Fun4All_Generator_Display" alt="" coords="735,440,937,468"/>
+<area shape="rect" id="node26" href="$dd/d94/fun4all__tutorials_2blob_2master_2materialscan_2matscan_8C.html#a98ccbc6135fead542f3c4d1dd6882d63" title="matscan" alt="" coords="797,492,875,520"/>
+<area shape="rect" id="node12" href="$d4/de9/Fun4All__AnaTutorial__sPHENIX_8C.html#a5028836c74f0bebec560d3ab54daa022" title="Fun4All_AnaTutorial\l_sPHENIX" alt="" coords="1029,5,1183,49"/>
+<area shape="rect" id="node13" href="$d6/d14/Fun4All__AnaTutorial__sPHENIX__Jets_8C.html#a61b352bca84476d24b0ff40991b27900" title="Fun4All_AnaTutorial\l_sPHENIX_Jets" alt="" coords="1029,73,1183,117"/>
+<area shape="rect" id="node14" href="$d8/d14/Fun4All__G4__Babar_8C.html#ae3babc7f493f8a671f129ef3084ebc23" title="Fun4All_G4_Babar" alt="" coords="1033,141,1179,169"/>
+<area shape="rect" id="node15" href="$df/d9d/fun4all__eicmacros_2blob_2master_2detectors_2Beast_2Fun4All__G4__Beast_8C.html#aa12a55b170fc12d7549cea7cc497eb38" title="Fun4All_G4_Beast" alt="" coords="1035,193,1177,221"/>
+<area shape="rect" id="node16" href="$de/dcc/Fun4All__G4__Cleo_8C.html#ae4d584d6f7864ddc358a5cb1bf03bfa5" title="Fun4All_G4_Cleo" alt="" coords="1039,245,1173,273"/>
+<area shape="rect" id="node17" href="$d4/dd7/fun4all__eicmacros_2blob_2master_2detectors_2EICDetector_2Fun4All__G4__EICDetector_8C.html#add9dee08cdb08b59c0b3870bb04994d9" title="Fun4All_G4_EICDetector" alt="" coords="1013,297,1199,325"/>
+<area shape="rect" id="node18" href="$df/dd8/Fun4All__G4__EICDetector__AnaTutorial_8C.html#a598434aca3dac5cdb0ca67ccc548d865" title="Fun4All_G4_EICDetector\l_AnaTutorial" alt="" coords="1013,349,1199,393"/>
+<area shape="rect" id="node19" href="$d7/d9e/Fun4All__G4__fsPHENIX_8C.html#a75e8ef26e92f882a865536a3e16244c5" title="Fun4All_G4_fsPHENIX" alt="" coords="1023,417,1189,445"/>
+<area shape="rect" id="node20" href="$d5/d97/Fun4All__G4__FullDetectorModular_8C.html#a589d5647d3c2ebb289af5cdf1e9f5f7e" title="Fun4All_G4_FullDetectorModular" alt="" coords="985,469,1227,497"/>
+<area shape="rect" id="node21" href="$d0/dce/Fun4All__G4__FullDetectorModularBeast_8C.html#a0f10ba4ce157df87369cfd776fc132d3" title="Fun4All_G4_FullDetectorModular\lBeast" alt="" coords="985,521,1227,565"/>
+<area shape="rect" id="node22" href="$d0/d87/Fun4All__G4__JLeic_8C.html#a7a87d035cddeb1ed64bf376560381994" title="Fun4All_G4_JLeic" alt="" coords="1039,589,1173,617"/>
+<area shape="rect" id="node24" href="$d4/d50/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2Development_2Fun4All__G4__sPHENIX__particle__gen_8C.html#a381adc702b7bfb99356660cdb6407e70" title="Fun4All_G4_sPHENIX\l_particle_gen" alt="" coords="1025,641,1187,685"/>
+</map>

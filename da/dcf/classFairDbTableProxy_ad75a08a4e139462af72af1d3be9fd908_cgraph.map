@@ -1,0 +1,51 @@
+<map id="FairDbTableProxy::Query" name="FairDbTableProxy::Query">
+<area shape="rect" id="node2" href="$d2/d4a/classFairDbCache.html#a667e4ccf67f91abdcd51a101c36a656d" title="FairDbCache::Adopt" alt="" coords="589,308,745,336"/>
+<area shape="rect" id="node14" href="$da/dcf/classFairDbTableProxy.html#ad82b76858af3d759f48f57dddf160908" title="FairDbTableProxy::CanRead\lL2Cache" alt="" coords="565,705,769,749"/>
+<area shape="rect" id="node16" href="$d5/d57/classFairDbResult.html#aa53561396e5029aebd448342b6855a4d" title="FairDbResult::CaptureExceptionLog" alt="" coords="239,1628,497,1656"/>
+<area shape="rect" id="node20" href="$d3/d45/classFairDbExceptionLog.html#a1f41e58b091dc08333e5508d51586c13" title="FairDbExceptionLog\l::GetGELog" alt="" coords="589,1760,744,1804"/>
+<area shape="rect" id="node21" href="$de/d9f/classFairDbValidityRecBuilder.html#a8cef61c8b075c3a43cefacdc94c12e7d" title="FairDbValidityRecBuilder\l::GetL2CacheName" alt="" coords="573,1108,760,1152"/>
+<area shape="rect" id="node23" href="$dd/da1/classFairDbValidityRec.html#a00174a75a9b771c842a9f823224bc36e" title="FairDbValidityRec::\lIsGap" alt="" coords="887,1483,1033,1527"/>
+<area shape="rect" id="node27" href="$de/d9f/classFairDbValidityRecBuilder.html#a7bd9bcb6d1040036d007428447e268d1" title="FairDbValidityRecBuilder\l::GetNumValidityRec" alt="" coords="573,240,760,284"/>
+<area shape="rect" id="node28" href="$de/d9f/classFairDbValidityRecBuilder.html#adf659e89f2124665cc7df71c25b7c427" title="FairDbValidityRecBuilder\l::GetValidityRec" alt="" coords="275,1732,461,1776"/>
+<area shape="rect" id="node29" href="$de/d9f/classFairDbValidityRecBuilder.html#ab01718afbaff3781e2b93de1f611eed3" title="FairDbValidityRecBuilder\l::NonAggregated" alt="" coords="275,876,461,920"/>
+<area shape="rect" id="node30" href="$da/dcf/classFairDbTableProxy.html#a1acf2c61ce1e9b66caf0dd55f199363f" title="FairDbTableProxy::Restore\lFromL2Cache" alt="" coords="271,1048,465,1092"/>
+<area shape="rect" id="node37" href="$d2/d4a/classFairDbCache.html#a3557a151241e39c85be9543fdcc290b4" title="Primary searches." alt="" coords="586,773,747,801"/>
+<area shape="rect" id="node46" href="$da/dcf/classFairDbTableProxy.html#a02cbbec6c4efafb6bf12e5c17decdbac" title="FairDbTableProxy::SaveTo\lL2Cache" alt="" coords="272,1315,464,1359"/>
+<area shape="rect" id="node50" href="$d3/d45/classFairDbExceptionLog.html#a0ac05922d7431ab730f4f973f6d8fdfd" title="FairDbExceptionLog\l::Size" alt="" coords="291,1800,445,1844"/>
+<area shape="rect" id="node3" href="$dd/da1/classFairDbValidityRec.html#a5da26f8f3debf45ef674235f03bb3eed" title="FairDbValidityRec::\lGetAggregateNo" alt="" coords="887,57,1033,101"/>
+<area shape="rect" id="node4" href="$d5/d57/classFairDbResult.html#a5009c2805fd89ef683f2ebd5f7b6ef9d" title="FairDbResult::GetKey" alt="" coords="878,125,1042,153"/>
+<area shape="rect" id="node6" href="$d2/d4a/classFairDbCache.html#ab72da4c3267fc1d7834799e451423c97" title="FairDbCache::GetSubCache" alt="" coords="857,385,1063,413"/>
+<area shape="rect" id="node7" href="$d5/d57/classFairDbResult.html#ac1d0210fba473040fc242d5fdafcdae4" title="FairDbResult::GetValidityRec" alt="" coords="1141,281,1354,309"/>
+<area shape="rect" id="node8" href="$d5/d57/classFairDbResult.html#ab4a6d6b12f19c18a7bbc8bcabf8e7c5c" title="FairDbResult::GetValidity\lRecGlobal" alt="" coords="1411,221,1600,265"/>
+<area shape="rect" id="node9" href="$d2/d4a/classFairDbCache.html#a05f5e9b983a57fc0577fedeb4eddff94" title="FairDbCache::Purge" alt="" coords="883,333,1037,361"/>
+<area shape="rect" id="node10" href="$d5/d57/classFairDbResult.html#adf163350222ec15931728c08429d15e0" title="FairDbResult::RegisterKey" alt="" coords="863,229,1057,257"/>
+<area shape="rect" id="node13" href="$d5/d57/classFairDbResult.html#adf53611b0a5548f3eda649034ee1a168" title="FairDbResult::TableName" alt="" coords="865,5,1055,33"/>
+<area shape="rect" id="node5" href="$d1/d23/classFairDbResultKey.html#a08b0188742a7ed1cec49d027f80a8b56" title="FairDbResultKey::GetEmptyKey" alt="" coords="1132,125,1363,153"/>
+<area shape="rect" id="node11" href="$d5/d57/classFairDbResult.html#a2276225a5a230c29385020a371bbe0d7" title="FairDbResult::CreateKey" alt="" coords="1155,229,1339,257"/>
+<area shape="rect" id="node12" href="$d5/d57/classFairDbResult.html#aa30031fe21f6c29710481e855bc1c7dd" title="FairDbResult::GetNumRows" alt="" coords="1145,937,1350,965"/>
+<area shape="rect" id="node15" href="$dd/d63/classFairDbBinaryFile.html#abe5039488ea7d9eb95e66d296bfed656" title="FairDbBinaryFile::CanRead\lL2Cache" alt="" coords="861,437,1059,481"/>
+<area shape="rect" id="node17" href="$d3/d45/classFairDbExceptionLog.html#a6f0bf37cbcb7c06bd01b93764ee0cb71" title="FairDbExceptionLog\l::Clear" alt="" coords="589,1624,744,1668"/>
+<area shape="rect" id="node18" href="$d3/d45/classFairDbExceptionLog.html#ab26b36e4fe7f3bddc169f66c0140eac1" title="FairDbExceptionLog\l::Copy" alt="" coords="589,1692,744,1736"/>
+<area shape="rect" id="node19" href="$d3/d45/classFairDbExceptionLog.html#a29406a74936565b48d2c2646f98e54eb" title="FairDbExceptionLog\l::AddEntry" alt="" coords="883,1692,1037,1736"/>
+<area shape="rect" id="node22" href="$de/d9f/classFairDbValidityRecBuilder.html#a1d7bd76e72dd81dc7fb3ee5f2780e85e" title="FairDbValidityRecBuilder\l::IsExtendedContext" alt="" coords="867,989,1053,1033"/>
+<area shape="rect" id="node24" href="$dd/da1/classFairDbValidityRec.html#a1985f7dce99fe8c695409c5bda03039c" title="FairDbValidityRec::\lGetSeqNo" alt="" coords="1174,1100,1321,1144"/>
+<area shape="rect" id="node25" href="$dd/da1/classFairDbValidityRec.html#ae6ea497640052a18c2f44a79f151d022" title="FairDbValidityRec::\lGetCreationDate" alt="" coords="1174,1193,1321,1237"/>
+<area shape="rect" id="node26" href="$dd/da1/classFairDbValidityRec.html#a116be1254f6a98dee241a25a00dd7b16" title="FairDbValidityRec::\lGetL2CacheName" alt="" coords="887,1160,1033,1204"/>
+<area shape="rect" id="node31" href="$da/dcf/classFairDbTableProxy.html#ac9e59cab34968d866a42af50df938932" title="FairDbTableProxy::GetTableName" alt="" coords="545,1296,788,1324"/>
+<area shape="rect" id="node32" href="$da/dcf/classFairDbTableProxy.html#a229dcabf06bc6e5ef5a04aba09129291" title="FairDbTableProxy::GetRowName" alt="" coords="549,1176,785,1204"/>
+<area shape="rect" id="node33" href="$dd/d63/classFairDbBinaryFile.html#a4cd57c98b3244f4c0687d12438dc8cc5" title="FairDbBinaryFile::GetFileName" alt="" coords="554,1056,779,1084"/>
+<area shape="rect" id="node34" href="$da/d03/classFairDbTimerManager.html#ade463c33eac0a7593f0170163e407448" title="FairDbTimerManager\l::RecMainQuery" alt="" coords="585,1228,748,1272"/>
+<area shape="rect" id="node36" href="$de/d9f/classFairDbValidityRecBuilder.html#aaefe581d4ea9ee1943a7938a44ab813c" title="FairDbValidityRecBuilder\l::GetValidityRecFromSeqNo" alt="" coords="564,936,769,980"/>
+<area shape="rect" id="node35" href="$da/d03/classFairDbTimerManager.html#ab1751f80d461fae4280dccde481d238a" title="FairDbTimerManager\l::GetCurrent" alt="" coords="879,1280,1041,1324"/>
+<area shape="rect" id="node38" href="$de/d5c/namespaceSimFlag.html#a6632a9141f0b9fd08f75b0642eed8d67" title="SimFlag::AsString" alt="" coords="890,833,1030,861"/>
+<area shape="rect" id="node39" href="$d4/d1d/classFairDbSimFlagAssociation.html#a8fc6b6d5686f207401af701b212d84be" title="FairDbSimFlagAssociation::Get" alt="" coords="845,885,1075,913"/>
+<area shape="rect" id="node40" href="$dd/d71/classValContext.html#a7245d43141de2fa31710883aa99f25e5" title="ValContext::GetDetector" alt="" coords="866,557,1054,585"/>
+<area shape="rect" id="node41" href="$d5/d57/classFairDbResult.html#a85a4133f030358b1ba971e082624bad3" title="FairDbResult::GetNumAggregates" alt="" coords="836,609,1084,637"/>
+<area shape="rect" id="node42" href="$dd/d71/classValContext.html#a5be59960e7b809fdcaab848767b85246" title="ValContext::GetSimFlag" alt="" coords="869,661,1051,689"/>
+<area shape="rect" id="node43" href="$dd/d71/classValContext.html#a7ed9b7e0653d2906ced11408472e3d88" title="ValContext::GetTimeStamp" alt="" coords="857,713,1063,741"/>
+<area shape="rect" id="node44" href="$d4/d1d/classFairDbSimFlagAssociation.html#a32da778cc6c59806b8d74527b29d9688" title="Get access to the one and only instance." alt="" coords="863,765,1057,809"/>
+<area shape="rect" id="node45" href="$d5/d57/classFairDbResult.html#acdc21ff31bf14eeaf2b4419605aaf626" title="FairDbResult::Satisfies" alt="" coords="874,505,1046,533"/>
+<area shape="rect" id="node47" href="$d5/d57/classFairDbResult.html#a33765e6cb653bdd3e4d3e948df21e67a" title="FairDbResult::ResultsFromDb" alt="" coords="559,1520,775,1548"/>
+<area shape="rect" id="node48" href="$d5/d57/classFairDbResult.html#acfa2e912dc13cccd497d78062d176159" title="FairDbResult::CanSave" alt="" coords="579,1400,754,1428"/>
+<area shape="rect" id="node49" href="$da/dcf/classFairDbTableProxy.html#aab4ca8d840492bf3f0daa3fec2a7b523" title="FairDbTableProxy::CanWrite\lL2Cache" alt="" coords="564,1452,769,1496"/>
+</map>

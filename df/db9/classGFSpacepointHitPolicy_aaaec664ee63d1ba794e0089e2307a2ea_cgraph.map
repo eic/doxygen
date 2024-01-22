@@ -1,0 +1,9 @@
+<map id="GFSpacepointHitPolicy::detPlane" name="GFSpacepointHitPolicy::detPlane">
+<area shape="rect" id="node2" href="$d7/d82/classGFAbsTrackRep.html#a38cf14b05d28d6793437aee1c035ab90" title="This method is to extrapolate the track to point of closest approach to a point in space..." alt="" coords="238,5,449,49"/>
+<area shape="rect" id="node4" href="$df/d1a/classGFAbsRecoHit.html#a64b8a6232dc2659bf17630fc39bf6fa3" title="Get raw hit coordinates." alt="" coords="227,73,460,101"/>
+<area shape="rect" id="node5" href="$d0/d4b/classGFDetPlane.html#aa97de18db306e41a6e11987dabcb0857" title="GFDetPlane::setNormal" alt="" coords="254,125,433,153"/>
+<area shape="rect" id="node6" href="$d0/d4b/classGFDetPlane.html#ad00ea381063d3b8826dcec198fcf067e" title="GFDetPlane::setO" alt="" coords="273,177,413,205"/>
+<area shape="rect" id="node3" href="$d7/d82/classGFAbsTrackRep.html#a3ca0fe759dc3dcd9cdc267d60dd0d5c4" title="GFAbsTrackRep::Abort" alt="" coords="508,13,679,41"/>
+<area shape="rect" id="node7" href="$d0/d4b/classGFDetPlane.html#a5f8a23fc4ccc7133419d082615c079bd" title="GFDetPlane::sane" alt="" coords="523,177,664,205"/>
+<area shape="rect" id="node8" href="$d0/d4b/classGFDetPlane.html#a3a7f63a8a4f819531fc9722747113405" title="GFDetPlane::getNormal" alt="" coords="727,177,907,205"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="EicCalorimeterReconstruction" name="EicCalorimeterReconstruction">
+<area shape="rect" id="node2" href="$d2/d9e/classFairTask.html" title="FairTask" alt="" coords="1824,137,1899,165"/>
+<area shape="rect" id="node4" href="$db/da1/classFairLogger.html" title="FairLogger" alt="" coords="1343,85,1435,113"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="798,89,905,117"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="434,81,582,125"/>
+<area shape="rect" id="node9" href="$da/d63/classEicCalorimeterDigiHit.html" title="EicCalorimeterDigiHit" alt="" coords="768,309,935,337"/>
+<area shape="rect" id="node10" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="67,826,143,854"/>
+<area shape="rect" id="node11" href="$da/d3d/classCalorimeterCell.html" title="CalorimeterCell" alt="" coords="445,154,571,182"/>
+<area shape="rect" id="node15" href="$da/d45/classCalorimeterCellGroup.html" title="CalorimeterCellGroup" alt="" coords="1305,394,1473,422"/>
+<area shape="rect" id="node18" href="$d0/d2f/classEicDetName.html" title="Detector name in all flavors like TPC, Tpc, tpc." alt="" coords="633,639,737,667"/>
+<area shape="rect" id="node19" href="$df/de0/classEicGeoParData.html" title="EicGeoParData" alt="" coords="1801,1062,1922,1090"/>
+<area shape="rect" id="node23" href="$dc/dc3/classFairGeoInterface.html" title="FairGeoInterface" alt="" coords="785,1427,917,1455"/>
+<area shape="rect" id="node24" href="$d4/db5/classFairGeoShapes.html" title="FairGeoShapes" alt="" coords="447,1305,569,1333"/>
+<area shape="rect" id="node27" href="$d3/d1b/classFairGeoIo.html" title="FairGeoIo" alt="" coords="466,1375,550,1403"/>
+<area shape="rect" id="node29" href="$da/d86/classEicGeoMap.html" title="EicGeoMap" alt="" coords="459,1010,557,1038"/>
+<area shape="rect" id="node32" href="$d7/dff/classLogicalVolumeGroup.html" title="LogicalVolumeGroup" alt="" coords="771,785,932,813"/>
+<area shape="rect" id="node33" href="$dd/db5/classLogicalVolumeLookupTableEntry.html" title="LogicalVolumeLookupTable\lEntry" alt="" coords="407,714,609,758"/>
+<area shape="rect" id="node38" href="$dd/d0b/classEicNamePatternHub.html" title="EicNamePatternHub\&lt;\l Char_t \&gt;" alt="" coords="425,1063,591,1107"/>
+<area shape="rect" id="node42" href="$dd/d0b/classEicNamePatternHub.html" title="EicNamePatternHub\&lt;\l Color_t \&gt;" alt="" coords="425,1166,591,1210"/>
+<area shape="rect" id="node45" href="$de/d53/classSourceFile.html" title="SourceFile" alt="" coords="640,905,731,933"/>
+<area shape="rect" id="node48" href="$d4/d42/classCalorimeterRecoParData.html" title="CalorimeterRecoParData" alt="" coords="1543,190,1728,218"/>
+<area shape="rect" id="node49" href="$d0/d46/classCalorimeterDigiParData.html" title="CalorimeterDigiParData" alt="" coords="761,361,941,389"/>
+<area shape="rect" id="node50" href="$de/d36/classCalorimeterSensorGroup.html" title="CalorimeterSensorGroup" alt="" coords="414,361,602,389"/>
+<area shape="rect" id="node20" href="$d7/df9/classEicGeoMedia.html" title="EicGeoMedia" alt="" coords="1053,1749,1161,1777"/>
+<area shape="rect" id="node22" href="$d2/dc4/classFairGeoLoader.html" title="FairGeoLoader" alt="" coords="1329,1683,1449,1711"/>
+<area shape="rect" id="node25" href="$d9/d1e/classFairGeoMedia.html" title="FairGeoMedia" alt="" coords="452,1554,564,1582"/>
+<area shape="rect" id="node26" href="$de/d6a/classFairGeoBuilder.html" title="FairGeoBuilder" alt="" coords="447,1619,569,1647"/>
+</map>

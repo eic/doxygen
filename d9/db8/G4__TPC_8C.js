@@ -1,0 +1,28 @@
+var G4__TPC_8C =
+[
+    [ "MACRO_G4TPC_C", "d9/db8/G4__TPC_8C.html#ae2f8d20235d3da44d7eef79786c5a0ad", null ],
+    [ "TPC", "d9/db8/G4__TPC_8C.html#a3cefe29c53b24459bce0359ffa252b1b", null ],
+    [ "TPC_Cells", "d9/db8/G4__TPC_8C.html#a2191ff301f47f90d6beae0232c2fd966", null ],
+    [ "TPC_Clustering", "d9/db8/G4__TPC_8C.html#a3708f4c4bca9ac44961dc049a5d8a3cf", null ],
+    [ "TPC_Endcaps", "d9/db8/G4__TPC_8C.html#a83488fb5063bb9961327e7d645a25d84", null ],
+    [ "TPC_QA", "d9/db8/G4__TPC_8C.html#ae6e8d49f5c9d4ea846a11b62ed8e2e92", null ],
+    [ "TPCInit", "d9/db8/G4__TPC_8C.html#a9d38b0756815093b158b26fb5f767f84", null ],
+    [ "correction_filename", "d9/db8/G4__TPC_8C.html#a4c4cf94589b26295ded71132d1f9fe77", null ],
+    [ "DIRECT_LASER_HISTOGRAMOUTPUT_FILENAME", "d9/db8/G4__TPC_8C.html#a9a76e1df7c160f5e4f81d3cb9e40a747", null ],
+    [ "DIRECT_LASER_ROOTOUTPUT_FILENAME", "d9/db8/G4__TPC_8C.html#a3541883e7611d660b210d340e089a659", null ],
+    [ "DIRECT_LASER_SAVEHISTOGRAMS", "d9/db8/G4__TPC_8C.html#a49bbd10b3af83495cc1a41c494bf1ed3", null ],
+    [ "drift_velocity_scale", "d9/db8/G4__TPC_8C.html#aaed0b2e3a80ff1d29fb6cef4e0446bb5", null ],
+    [ "ENABLE_CENTRAL_MEMBRANE_HITS", "d9/db8/G4__TPC_8C.html#a483bcf75cb32b03568b3bf459be4c53c", null ],
+    [ "ENABLE_CORRECTIONS", "d9/db8/G4__TPC_8C.html#a335e6a0a2f9d1ca59eacb6c150f28864", null ],
+    [ "ENABLE_DIRECT_LASER_HITS", "d9/db8/G4__TPC_8C.html#a7097c863dad9f5f7c212a8841cf903f3", null ],
+    [ "ENABLE_STATIC_DISTORTIONS", "d9/db8/G4__TPC_8C.html#a2d34940eb1525f1aa9df32cc728f379e", null ],
+    [ "ENABLE_TIME_ORDERED_DISTORTIONS", "d9/db8/G4__TPC_8C.html#abc1c10efa1c6106e1b3db8498d262a61", null ],
+    [ "n_gas_layer", "d9/db8/G4__TPC_8C.html#aeda5cdfc6292d61ce927610517df2725", null ],
+    [ "static_distortion_filename", "d9/db8/G4__TPC_8C.html#a2ad10d2ab74a694a2dfecdbe33cfa57d", null ],
+    [ "time_ordered_distortion_filename", "d9/db8/G4__TPC_8C.html#ad2a9accc6228721dbf5dd54789da572a", null ],
+    [ "TPC_CELL", "d9/db8/G4__TPC_8C.html#ac71efd250cd01eb1024db07b8d2dec6a", null ],
+    [ "TPC_CLUSTER", "d9/db8/G4__TPC_8C.html#a868a629d0686b4776bdaa3f607cf44b7", null ],
+    [ "tpc_outer_radius", "d9/db8/G4__TPC_8C.html#a46601ae253010440097f4bde1fce5a88", null ],
+    [ "TPC_QA", "d9/db8/G4__TPC_8C.html#a8b283c8811ad2285dee0c37320e88ad9", null ],
+    [ "TPC_VERBOSITY", "d9/db8/G4__TPC_8C.html#ac9a2c64c18a326e8154d9eb371ee2d8b", null ]
+];

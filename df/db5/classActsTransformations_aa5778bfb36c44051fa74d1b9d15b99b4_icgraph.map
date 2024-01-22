@@ -1,0 +1,12 @@
+<map id="ActsTransformations::rotateActsCovToSvtxTrack" name="ActsTransformations::rotateActsCovToSvtxTrack">
+<area shape="rect" id="node2" href="$d5/d55/classPHTpcResiduals.html#ad8b942b2967e6fad1da11a61abe609b9" title="fill track state from bound track parameters" alt="" coords="263,5,462,49"/>
+<area shape="rect" id="node6" href="$d9/d47/classPHActsVertexPropagator.html#aeee6a597aa13b4a1be449713196f5e16" title="PHActsVertexPropagator\l::updateSvtxTrack" alt="" coords="269,73,456,117"/>
+<area shape="rect" id="node8" href="$d1/d49/classPHActsTrkFitter.html#a714bbb8c63ac56b40fcb6253f6065ccd" title="Convert the acts track fit result to an svtx track." alt="" coords="259,141,467,185"/>
+<area shape="rect" id="node3" href="$d5/d55/classPHTpcResiduals.html#abe1d80fe32c832f457a28c43e8c2d883" title="PHTpcResiduals::processTrack" alt="" coords="515,13,740,41"/>
+<area shape="rect" id="node4" href="$d5/d55/classPHTpcResiduals.html#ac8936c9d7cf8808255c355520b304e95" title="PHTpcResiduals::processTracks" alt="" coords="788,13,1020,41"/>
+<area shape="rect" id="node5" href="$d5/d55/classPHTpcResiduals.html#afb9145abb0d5d579afed2c31f700989a" title="PHTpcResiduals::process\l_event" alt="" coords="1068,5,1257,49"/>
+<area shape="rect" id="node7" href="$d9/d47/classPHActsVertexPropagator.html#a1da603897c916f8bc513a6b26c91a358" title="PHActsVertexPropagator\l::process_event" alt="" coords="534,73,721,117"/>
+<area shape="rect" id="node9" href="$d1/d49/classPHActsTrkFitter.html#ae985e725863c31ae470cf238f063c804" title="PHActsTrkFitter::getTrack\lFitResult" alt="" coords="533,141,722,185"/>
+<area shape="rect" id="node10" href="$d1/d49/classPHActsTrkFitter.html#a73e603071673ca6e71dffe11dd7a7770" title="PHActsTrkFitter::loopTracks" alt="" coords="803,149,1005,177"/>
+<area shape="rect" id="node11" href="$d1/d49/classPHActsTrkFitter.html#ac9f58d3a56f2ef578fd0dd38b1fdaec0" title="Process each event by calling the fitter." alt="" coords="1071,141,1254,185"/>
+</map>

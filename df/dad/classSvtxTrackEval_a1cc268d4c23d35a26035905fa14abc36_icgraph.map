@@ -1,0 +1,31 @@
+<map id="SvtxTrackEval::max_truth_particle_by_nclusters" name="SvtxTrackEval::max_truth_particle_by_nclusters">
+<area shape="rect" id="node2" href="$d4/d21/classSvtxVertexEval.html#acd835bfba4372dee96f9314613fb955b" title="SvtxVertexEval::all\l_truth_particles" alt="" coords="312,184,460,228"/>
+<area shape="rect" id="node9" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1347,167,1535,211"/>
+<area shape="rect" id="node13" href="$d3/d32/classActsEvaluator.html#a1dcade956fd83a14249e38b5783b0f00" title="Function to evaluate Trajectories fit results from the KF." alt="" coords="265,312,507,340"/>
+<area shape="rect" id="node15" href="$dd/d75/classJetRecoEval.html#af6356d19d3ff0ee9c9849348466e7d0e" title="what was the energy contribution to this reconstructed jet from this truth jet?" alt="" coords="293,401,479,445"/>
+<area shape="rect" id="node28" href="$d4/d21/classSvtxVertexEval.html#a266c840c37e717d884d65b0b77806e96" title="SvtxVertexEval::get\l_ntracks_contribution" alt="" coords="847,116,1013,160"/>
+<area shape="rect" id="node29" href="$d0/da9/classAnaTutorial.html#a54c32a62e705c4464d9652e91c7d46fa" title="Methods for grabbing the data." alt="" coords="300,469,472,497"/>
+<area shape="rect" id="node30" href="$de/dbf/classQAG4SimulationTracking.html#ac2aeab5238fcf828f70c61b4976b57fe" title="QAG4SimulationTracking\l::process_event" alt="" coords="292,521,480,565"/>
+<area shape="rect" id="node3" href="$d4/d21/classSvtxVertexEval.html#a7ff115ef20337311f4d7edb1d2409f20" title="SvtxVertexEval::all\l_truth_points" alt="" coords="581,184,729,228"/>
+<area shape="rect" id="node4" href="$d4/d21/classSvtxVertexEval.html#aa7e59a495f87824e3f1088d1f5436ecb" title="SvtxVertexEval::max\l_truth_point_by_ntracks" alt="" coords="1104,60,1288,104"/>
+<area shape="rect" id="node11" href="$d4/d21/classSvtxVertexEval.html#a8d536f79d01ad909dcfbf24bada4c0bf" title="SvtxVertexEval::all\l_vertexes_from" alt="" coords="856,184,1004,228"/>
+<area shape="rect" id="node5" href="$dd/de6/classKFParticle__truthAndDetTools.html#aacd7464b07f03f83a4d7e2de49e63a50" title="KFParticle_truthAndDetTools\l::fillTruthBranch" alt="" coords="1336,5,1547,49"/>
+<area shape="rect" id="node8" href="$d1/d05/classQAG4SimulationVertex.html#a5d6b9df173a4094d3744572a9e2410d0" title="QAG4SimulationVertex\l::process_event" alt="" coords="1353,73,1529,117"/>
+<area shape="rect" id="node6" href="$d9/dae/classKFParticle__nTuple.html#ac32b873cf95657eb34d8b572ad692172" title="Fills required information for your selection, also requests truth and detector information if needed..." alt="" coords="1609,5,1756,49"/>
+<area shape="rect" id="node7" href="$d5/d72/classKFParticle__sPHENIX.html#a7e5ad7cf075fbf8e68a781e7721fec81" title="KFParticle_sPHENIX\l::process_event" alt="" coords="1819,5,1971,49"/>
+<area shape="rect" id="node10" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="1595,167,1771,211"/>
+<area shape="rect" id="node12" href="$d4/d21/classSvtxVertexEval.html#ac76bf94cd6531f13664e0d56a052dbfe" title="SvtxVertexEval::best\l_vertex_from" alt="" coords="1115,180,1277,224"/>
+<area shape="rect" id="node14" href="$d3/d32/classActsEvaluator.html#abb2053b5956d62192691b2b74ed05ec4" title="ActsEvaluator::process\l_event" alt="" coords="567,304,743,348"/>
+<area shape="rect" id="node16" href="$dd/d75/classJetRecoEval.html#a631b92837e600fbdb6b966a556fc9077" title="which reconstructed jet had the largest energy contribution from this truth jet?" alt="" coords="555,492,756,520"/>
+<area shape="rect" id="node17" href="$d1/df4/classJetEvaluator.html#a0c608411c03ff1de3fca80d64e93ae5d" title="dump the evaluator information into ntuple for external analysis" alt="" coords="841,393,1019,437"/>
+<area shape="rect" id="node23" href="$dd/d75/classJetRecoEval.html#af4bff244a32d216f097c7fab76c9b95a" title="which truth jet contributed the most energy to this reconstructed jet?" alt="" coords="566,581,745,625"/>
+<area shape="rect" id="node27" href="$d4/d28/classQAG4SimulationJet.html#ac2803dd2fafe7d6131f3311c9f1e4e27" title="QAG4SimulationJet::\lprocess_Spectrum" alt="" coords="577,372,734,416"/>
+<area shape="rect" id="node19" href="$d4/d28/classQAG4SimulationJet.html#a3e5c5fe2e5e5cee7fca6173ef6e6bfa2" title="QAG4SimulationJet::\lprocess_TruthMatching" alt="" coords="1108,513,1284,557"/>
+<area shape="rect" id="node21" href="$dd/d75/classJetRecoEval.html#a9775ea4a0c6e28f22da7997f4886f195" title="JetRecoEval::unique\l_reco_jet_from_truth" alt="" coords="850,513,1010,557"/>
+<area shape="rect" id="node22" href="$dd/d75/classJetRecoEval.html#ac6030b2b14c885e19e35f86ec828d8d8" title="JetRecoEval::unique\l_truth_jet_from_reco" alt="" coords="850,581,1010,625"/>
+<area shape="rect" id="node18" href="$d1/df4/classJetEvaluator.html#abd1af43deddc4ce57f0ef562c23deacb" title="JetEvaluator::process\l_event" alt="" coords="1113,393,1279,437"/>
+<area shape="rect" id="node20" href="$d4/d28/classQAG4SimulationJet.html#a98c3c0fb4d213ada3475e8fb9895bc29" title="QAG4SimulationJet::\lprocess_event" alt="" coords="1363,423,1520,467"/>
+<area shape="rect" id="node24" href="$d0/da9/classAnaTutorial.html#a9068984e2eafee47f54de4c802d23168" title="AnaTutorial::getReconstructedJets" alt="" coords="804,769,1056,797"/>
+<area shape="rect" id="node26" href="$d5/d1f/classMyJetAnalysis.html#a309e9a46394353251b673514d6eb28ac" title="MyJetAnalysis::process\l_event" alt="" coords="843,701,1017,745"/>
+<area shape="rect" id="node25" href="$d0/da9/classAnaTutorial.html#a3b64c061aaffaf4a42631434fb7eb6f9" title="SubsysReco event processing method." alt="" coords="1116,787,1276,831"/>
+</map>

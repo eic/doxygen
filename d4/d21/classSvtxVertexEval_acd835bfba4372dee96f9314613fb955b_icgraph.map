@@ -1,0 +1,12 @@
+<map id="SvtxVertexEval::all_truth_particles" name="SvtxVertexEval::all_truth_particles">
+<area shape="rect" id="node2" href="$d4/d21/classSvtxVertexEval.html#a7ff115ef20337311f4d7edb1d2409f20" title="SvtxVertexEval::all\l_truth_points" alt="" coords="201,135,349,179"/>
+<area shape="rect" id="node3" href="$d4/d21/classSvtxVertexEval.html#aa7e59a495f87824e3f1088d1f5436ecb" title="SvtxVertexEval::max\l_truth_point_by_ntracks" alt="" coords="397,87,581,131"/>
+<area shape="rect" id="node10" href="$d4/d21/classSvtxVertexEval.html#a8d536f79d01ad909dcfbf24bada4c0bf" title="SvtxVertexEval::all\l_vertexes_from" alt="" coords="415,168,563,212"/>
+<area shape="rect" id="node4" href="$dd/de6/classKFParticle__truthAndDetTools.html#aacd7464b07f03f83a4d7e2de49e63a50" title="KFParticle_truthAndDetTools\l::fillTruthBranch" alt="" coords="629,5,840,49"/>
+<area shape="rect" id="node7" href="$d1/d05/classQAG4SimulationVertex.html#a5d6b9df173a4094d3744572a9e2410d0" title="QAG4SimulationVertex\l::process_event" alt="" coords="647,73,823,117"/>
+<area shape="rect" id="node8" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="888,163,1076,207"/>
+<area shape="rect" id="node5" href="$d9/dae/classKFParticle__nTuple.html#ac32b873cf95657eb34d8b572ad692172" title="Fills required information for your selection, also requests truth and detector information if needed..." alt="" coords="909,5,1055,49"/>
+<area shape="rect" id="node6" href="$d5/d72/classKFParticle__sPHENIX.html#a7e5ad7cf075fbf8e68a781e7721fec81" title="KFParticle_sPHENIX\l::process_event" alt="" coords="1136,5,1288,49"/>
+<area shape="rect" id="node9" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="1124,163,1300,207"/>
+<area shape="rect" id="node11" href="$d4/d21/classSvtxVertexEval.html#ac76bf94cd6531f13664e0d56a052dbfe" title="SvtxVertexEval::best\l_vertex_from" alt="" coords="653,193,816,237"/>
+</map>

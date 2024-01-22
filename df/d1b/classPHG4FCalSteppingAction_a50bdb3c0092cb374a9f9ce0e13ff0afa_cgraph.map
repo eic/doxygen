@@ -1,0 +1,17 @@
+<map id="PHG4FCalSteppingAction::UserSteppingAction" name="PHG4FCalSteppingAction::UserSteppingAction">
+<area shape="rect" id="node2" href="$de/d99/classPHG4FCalDetector.html#a4d9a1506c7a2e5082dd6b0b05de0e512" title="PHG4FCalDetector::compute\lIndex" alt="" coords="262,5,477,49"/>
+<area shape="rect" id="node3" href="$d4/d30/classPHG4HitContainer.html#a8d14a2d99f5acb20d89828cb23c41ac0" title="PHG4HitContainer::findOr\lAddHit" alt="" coords="272,73,467,117"/>
+<area shape="rect" id="node5" href="$d3/d9e/classPHG4Hit.html#a4eb72c64e474205be82b3c204d866c11" title="PHG4Hit::set_edep" alt="" coords="544,137,692,165"/>
+<area shape="rect" id="node7" href="$d3/d9e/classPHG4Hit.html#acea6b2f3763d899e4de3765b9b5c6e51" title="PHG4Hit::get_hit_id" alt="" coords="293,193,445,221"/>
+<area shape="rect" id="node8" href="$d4/d30/classPHG4HitContainer.html#a5073671e6d35969dc3d421e2278229af" title="PHG4HitContainer::GetID" alt="" coords="274,245,465,273"/>
+<area shape="rect" id="node9" href="$de/d99/classPHG4FCalDetector.html#a81cef788bfe66c6592cf8684d4aa1b24" title="PHG4FCalDetector::getScintillator\lLayer" alt="" coords="244,297,495,341"/>
+<area shape="rect" id="node10" href="$de/d99/classPHG4FCalDetector.html#a5f6b6746b4e150c5590411dfcbf2593b" title="PHG4FCalDetector::isInScintillator" alt="" coords="244,365,495,393"/>
+<area shape="rect" id="node11" href="$d3/d9e/classPHG4Hit.html#a0e5b38e4f13efc793eb85b006763ede5" title="PHG4Hit::set_shower_id" alt="" coords="279,417,460,445"/>
+<area shape="rect" id="node12" href="$d3/d9e/classPHG4Hit.html#a765310edee693bde31e0fefe92827155" title="PHG4Hit::set_trkid" alt="" coords="297,469,441,497"/>
+<area shape="rect" id="node13" href="$d3/d9e/classPHG4Hit.html#a29c3320afd3e1747132d956632be4754" title="PHG4Hit::set_x" alt="" coords="308,521,431,549"/>
+<area shape="rect" id="node14" href="$d3/d9e/classPHG4Hit.html#a977a9146151279a48f59f7ee7e1f8669" title="PHG4Hit::set_y" alt="" coords="308,573,431,601"/>
+<area shape="rect" id="node15" href="$d3/d9e/classPHG4Hit.html#a4fdb700121c3f2c3c529d025f72bf93c" title="PHG4Hit::set_z" alt="" coords="309,625,430,653"/>
+<area shape="rect" id="node16" href="$da/da8/classPHG4TrackUserInfoV1.html#aff94d466d51d42b75da59e00f065c084" title="PHG4TrackUserInfoV1\l::SetWanted" alt="" coords="285,677,453,721"/>
+<area shape="rect" id="node4" href="$d3/d9e/classPHG4Hit.html#afaf9c4507d67f494f13caf1536a1e19c" title="PHG4Hit::set_hit_id" alt="" coords="543,32,693,60"/>
+<area shape="rect" id="node6" href="$d3/d9e/classPHG4Hit.html#a8992f01396d51ebf6c85dd2859e13a6b" title="PHG4Hit::get_layer" alt="" coords="543,84,693,112"/>
+</map>

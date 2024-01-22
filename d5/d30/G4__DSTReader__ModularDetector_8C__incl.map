@@ -1,0 +1,40 @@
+<map id="fun4all_eicmacros/blob/master/common/G4_DSTReader_ModularDetector.C" name="fun4all_eicmacros/blob/master/common/G4_DSTReader_ModularDetector.C">
+<area shape="rect" id="node3" href="$d8/d04/G4__Barrel__EIC_8C.html" title="G4_Barrel_EIC.C" alt="" coords="3912,197,4041,225"/>
+<area shape="rect" id="node8" href="$dc/da2/Fun4AllServer_8h.html" title="fun4all/Fun4AllServer.h" alt="" coords="2748,289,2925,317"/>
+<area shape="rect" id="node11" href="$d8/d02/fun4all__eicmacros_2blob_2master_2common_2G4__CEmc__EIC_8C.html" title="G4_CEmc_EIC.C" alt="" coords="2555,197,2683,225"/>
+<area shape="rect" id="node19" href="$d8/dc4/fun4all__eicmacros_2blob_2master_2common_2G4__DIRC_8C.html" title="G4_DIRC.C" alt="" coords="4066,197,4159,225"/>
+<area shape="rect" id="node23" href="$d5/df4/fun4all__eicmacros_2blob_2master_2common_2G4__EEMC_8C.html" title="G4_EEMC.C" alt="" coords="1251,197,1350,225"/>
+<area shape="rect" id="node28" href="$de/d38/fun4all__eicmacros_2blob_2master_2common_2G4__FEMC__EIC_8C.html" title="G4_FEMC_EIC.C" alt="" coords="1400,113,1527,141"/>
+<area shape="rect" id="node32" href="$dd/dee/fun4all__eicmacros_2blob_2master_2common_2G4__FHCAL_8C.html" title="G4_FHCAL.C" alt="" coords="1121,197,1227,225"/>
+<area shape="rect" id="node34" href="$d1/db0/G4__FST__EIC_8C.html" title="G4_FST_EIC.C" alt="" coords="3579,197,3692,225"/>
+<area shape="rect" id="node35" href="$de/d55/G4__GEM__EIC_8C.html" title="G4_GEM_EIC.C" alt="" coords="3717,197,3837,225"/>
+<area shape="rect" id="node38" href="$da/d17/G4__Magnet_8C.html" title="G4_Magnet.C" alt="" coords="4225,197,4337,225"/>
+<area shape="rect" id="node40" href="$d8/d33/G4__Mvtx__EIC_8C.html" title="G4_Mvtx_EIC.C" alt="" coords="4958,197,5081,225"/>
+<area shape="rect" id="node43" href="$da/d69/G4__dRICH_8C.html" title="G4_dRICH.C" alt="" coords="3157,197,3258,225"/>
+<area shape="rect" id="node45" href="$d3/d50/G4__TPC__EIC_8C.html" title="G4_TPC_EIC.C" alt="" coords="4357,113,4471,141"/>
+<area shape="rect" id="node47" href="$d1/d40/G4__BECAL_8C.html" title="G4_BECAL.C" alt="" coords="1740,197,1845,225"/>
+<area shape="rect" id="node50" href="$d9/d70/PHG4DSTReader_8h.html" title="g4eval/PHG4DSTReader.h" alt="" coords="4907,289,5102,317"/>
+<area shape="rect" id="node4" href="$dc/dc6/PHG4CylinderSubsystem_8h.html" title="g4detectors/PHG4Cylinder\lSubsystem.h" alt="" coords="4313,281,4515,325"/>
+<area shape="rect" id="node6" href="$d0/d2b/PHG4Reco_8h.html" title="g4main/PHG4Reco.h" alt="" coords="3389,289,3548,317"/>
+<area shape="rect" id="node7" href="$d5/dc2/SubsysReco_8h.html" title="fun4all/SubsysReco.h" alt="" coords="2083,381,2249,409"/>
+<area shape="rect" id="node12" href="$d9/d5d/RawTowerBuilder_8h.html" title="g4calo/RawTowerBuilder.h" alt="" coords="2067,289,2265,317"/>
+<area shape="rect" id="node13" href="$d7/d2f/RawTowerDigitizer_8h.html" title="g4calo/RawTowerDigitizer.h" alt="" coords="855,289,1061,317"/>
+<area shape="rect" id="node14" href="$d3/da3/PHG4CylinderCellReco_8h.html" title="g4detectors/PHG4Cylinder\lCellReco.h" alt="" coords="2289,281,2491,325"/>
+<area shape="rect" id="node15" href="$d6/dd5/CaloEvaluator_8h.html" title="Compares reconstructed tracks to truth particles." alt="" coords="1085,289,1263,317"/>
+<area shape="rect" id="node20" href="$d6/d6c/PHG4SectorSubsystem_8h.html" title="g4detectors/PHG4SectorSubsystem.h" alt="" coords="3913,289,4187,317"/>
+<area shape="rect" id="node21" href="$dd/dfe/PHG4ConeSubsystem_8h.html" title="g4detectors/PHG4ConeSubsystem.h" alt="" coords="3572,289,3837,317"/>
+<area shape="rect" id="node22" href="$d5/d30/G4EicDircSubsystem_8h.html" title="g4eicdirc/G4EicDircSubsystem.h" alt="" coords="4429,381,4669,409"/>
+<area shape="rect" id="node24" href="$df/d92/RawTowerBuilderByHitIndex_8h.html" title="g4calo/RawTowerBuilderBy\lHitIndex.h" alt="" coords="344,281,548,325"/>
+<area shape="rect" id="node25" href="$d3/d6a/PHG4CrystalCalorimeterSubsystem_8h.html" title="g4eiccalos/PHG4CrystalCalorimeter\lSubsystem.h" alt="" coords="848,373,1111,417"/>
+<area shape="rect" id="node26" href="$dc/d93/PHG4ForwardCalCellReco_8h.html" title="g4eiccalos/PHG4ForwardCal\lCellReco.h" alt="" coords="109,281,319,325"/>
+<area shape="rect" id="node29" href="$d1/d94/G4__hFarFwdBeamLine__EIC_8C.html" title="G4_hFarFwdBeamLine\l_EIC.C" alt="" coords="3383,189,3554,233"/>
+<area shape="rect" id="node30" href="$d1/d56/PHG4ForwardEcalSubsystem_8h.html" title="g4eiccalos/PHG4ForwardEcal\lSubsystem.h" alt="" coords="5,373,223,417"/>
+<area shape="rect" id="node33" href="$df/d81/PHG4ForwardHcalSubsystem_8h.html" title="g4eiccalos/PHG4ForwardHcal\lSubsystem.h" alt="" coords="294,373,513,417"/>
+<area shape="rect" id="node39" href="$de/d67/fun4all__macros_2blob_2master_2common_2GlobalVariables_8C.html" title="GlobalVariables.C" alt="" coords="4692,289,4832,317"/>
+<area shape="rect" id="node41" href="$d0/d22/PHG4EICMvtxSubsystem_8h.html" title="g4mvtx/PHG4EICMvtxSubsystem.h" alt="" coords="5443,289,5699,317"/>
+<area shape="rect" id="node42" href="$df/d94/PHG4MvtxDefs_8h.html" title="g4mvtx/PHG4MvtxDefs.h" alt="" coords="5228,289,5419,317"/>
+<area shape="rect" id="node44" href="$dd/d3d/PHG4TrackFastSim_8h.html" title="Kalman Filter based on smeared truth PHG4Hit." alt="" coords="2950,281,3150,325"/>
+<area shape="rect" id="node46" href="$d7/d77/PHG4TpcEndCapSubsystem_8h.html" title="g4tpc/PHG4TpcEndCapSubsystem.h" alt="" coords="5489,381,5755,409"/>
+<area shape="rect" id="node48" href="$d9/d8a/PHG4BarrelEcalSubsystem_8h.html" title="g4eiccalos/PHG4BarrelEcal\lSubsystem.h" alt="" coords="1721,373,1923,417"/>
+<area shape="rect" id="node49" href="$de/d2a/RawTowerBuilderByHitIndexBECAL_8h.html" title="g4eiccalos/RawTowerBuilder\lByHitIndexBECAL.h" alt="" coords="1830,281,2043,325"/>
+</map>

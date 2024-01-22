@@ -1,0 +1,51 @@
+<map id="GFKalman::processTrack" name="GFKalman::processTrack">
+<area shape="rect" id="node2" href="$d0/de1/classGFKalman.html#a9a27045c266d54e4448a85ef05966953" title="this is needed to blow up the covariance matrix before a fitting pass drops off&#45;diagonal elements and..." alt="" coords="252,304,435,332"/>
+<area shape="rect" id="node4" href="$d4/d33/classGFTrack.html#a2d4439ad22338ef7d5c7351468b2859d" title="Get number of track represenatations." alt="" coords="1055,264,1225,292"/>
+<area shape="rect" id="node5" href="$d4/d33/classGFTrack.html#a47b1c90bd5fb51333b11958d94411b6f" title="Accessor for track representations." alt="" coords="803,237,970,265"/>
+<area shape="rect" id="node7" href="$d7/d82/classGFAbsTrackRep.html#a9363c1fa39fb8e032e7e080576a6c412" title="GFAbsTrackRep::getCov" alt="" coords="796,445,977,473"/>
+<area shape="rect" id="node9" href="$d6/deb/classGFBookkeeping.html#a0a6866d40b33ae37e0fd8f4fe8ece1dc" title="GFBookkeeping::bookGFDet\lPlanes" alt="" coords="781,1468,993,1512"/>
+<area shape="rect" id="node10" href="$d6/deb/classGFBookkeeping.html#a7a5b65319033fb8869e2db454b186783" title="GFBookkeeping::bookMatrices" alt="" coords="773,1538,1000,1566"/>
+<area shape="rect" id="node11" href="$d6/deb/classGFBookkeeping.html#a82dea08ad60a09656d2648ae9d69fefb" title="GFBookkeeping::bookNumbers" alt="" coords="771,1596,1002,1624"/>
+<area shape="rect" id="node12" href="$d4/d33/classGFTrack.html#abd87ed1cefcdf8a2adcc8e335cdbbefb" title="clear the hit indices at which plane,state&amp;cov of reps are defined" alt="" coords="255,89,431,117"/>
+<area shape="rect" id="node13" href="$d0/de1/classGFKalman.html#ad19563b99c556c39f3c00995741cda0c" title="Performs fit on a GFTrack beginning with the current hit." alt="" coords="259,964,428,992"/>
+<area shape="rect" id="node16" href="$d4/d33/classGFTrack.html#a3a5ba8703a51bdc36557b9e391b06a9d" title="get GFBookKeeping object for particular track rep (default is cardinal rep)" alt="" coords="825,1361,949,1389"/>
+<area shape="rect" id="node18" href="$d4/d33/classGFTrack.html#ad9fe02d4c3331d819cd9fd08d976dab3" title="GFTrack::getNumHits" alt="" coords="525,1301,689,1329"/>
+<area shape="rect" id="node34" href="$d7/d82/classGFAbsTrackRep.html#ae9b4fb8b23451c62b54115106b21ae72" title="GFAbsTrackRep::getReference\lPlane" alt="" coords="775,497,998,541"/>
+<area shape="rect" id="node35" href="$d7/d82/classGFAbsTrackRep.html#afd34e919229e16d8d0913b6cddb7fe0b" title="GFAbsTrackRep::getState" alt="" coords="791,617,982,645"/>
+<area shape="rect" id="node36" href="$d7/d82/classGFAbsTrackRep.html#a021e3a30287d4bbe1b6ce930b6bfe0e4" title="See if the track representation has auxillary information stored." alt="" coords="783,669,991,697"/>
+<area shape="rect" id="node40" href="$d4/d33/classGFTrack.html#ac5dd1a35150ee28a1c97480f7a725027" title="Set next hit to be used in a fit." alt="" coords="514,1353,699,1381"/>
+<area shape="rect" id="node43" href="$d6/deb/classGFBookkeeping.html#a8249382041f0c3eb2314afe0b437f2aa" title="GFBookkeeping::getMatrixKeys" alt="" coords="771,1660,1003,1688"/>
+<area shape="rect" id="node44" href="$d4/d33/classGFTrack.html#a8123a7b51553cddfd871b58370185e22" title="Read back if smoothing is/was turned on or off for this track." alt="" coords="254,1713,433,1741"/>
+<area shape="rect" id="node45" href="$d4/d33/classGFTrack.html#a02c3a197a4d8088e58b32cf9c6ae8e31" title="Read back if &quot;fast&#45;smoothing&quot; is/was turned on or off for this track." alt="" coords="240,1765,447,1793"/>
+<area shape="rect" id="node46" href="$d7/d82/classGFAbsTrackRep.html#a49ecc100e9f0be63b323cd48908f2dec" title="GFAbsTrackRep::resetXX0" alt="" coords="247,1817,440,1845"/>
+<area shape="rect" id="node47" href="$d6/deb/classGFBookkeeping.html#a9ca65a0a509cac2474759362fd905617" title="GFBookkeeping::setNhits" alt="" coords="248,1508,439,1536"/>
+<area shape="rect" id="node49" href="$d0/de1/classGFKalman.html#a127d2313b13a87dc94521ad67298ffe1" title="Used to switch between forward and backward filtering." alt="" coords="505,149,708,177"/>
+<area shape="rect" id="node3" href="$d4/d33/classGFTrack.html#ad5d6af08945954ee0aa987f3c9cc5939" title="this is needed to blow up the covariance matrix before a fitting pass drops off&#45;diagonal elements and..." alt="" coords="523,304,690,332"/>
+<area shape="rect" id="node6" href="$d7/d82/classGFAbsTrackRep.html#a69bd62ecb117908ef4afe6de39c366f9" title="GFAbsTrackRep::getStatusFlag" alt="" coords="773,393,1000,421"/>
+<area shape="rect" id="node8" href="$d7/d82/classGFAbsTrackRep.html#aecb1dcae6538f45be6524c14d6cc0bc7" title="GFAbsTrackRep::setCov" alt="" coords="797,289,976,317"/>
+<area shape="rect" id="node14" href="$d4/d33/classGFTrack.html#a50cb8454b80662162e476347ff764f97" title="GFTrack::addFailedHit" alt="" coords="523,937,691,965"/>
+<area shape="rect" id="node15" href="$d6/deb/classGFBookkeeping.html#ab7b2e2abe0d60327df7044fe11038bae" title="GFBookkeeping::clearFailedHits" alt="" coords="769,1414,1004,1442"/>
+<area shape="rect" id="node17" href="$d4/d33/classGFTrack.html#ab03a63dad063f12693f7ef9bd7befca6" title="Accessor for fNextHitToFit." alt="" coords="513,1041,700,1069"/>
+<area shape="rect" id="node19" href="$df/d55/classGFException.html#a0a8577e865b120352bde062ba6b98f3a" title="print information in the exception object" alt="" coords="537,1093,677,1121"/>
+<area shape="rect" id="node20" href="$df/d55/classGFException.html#a960c87f12f60e4d6664f6c830917ce84" title="get fatal flag." alt="" coords="528,1197,685,1225"/>
+<area shape="rect" id="node21" href="$d0/de1/classGFKalman.html#a75a13f3e2a66f83503bafe2e7e4a3590" title="One Kalman step." alt="" coords="521,885,692,913"/>
+<area shape="rect" id="node37" href="$d7/d82/classGFAbsTrackRep.html#a121341f94b3238128babdc21bafee62d" title="GFAbsTrackRep::setChiSqu" alt="" coords="506,1249,707,1277"/>
+<area shape="rect" id="node38" href="$d7/d82/classGFAbsTrackRep.html#af444290999574d5310de58b19e9e8fb8" title="GFAbsTrackRep::setForward\lChiSqu" alt="" coords="503,661,710,705"/>
+<area shape="rect" id="node39" href="$d7/d82/classGFAbsTrackRep.html#aca345bd49f1bcd5f7396c8ee92a556bc" title="GFAbsTrackRep::setNDF" alt="" coords="516,729,697,757"/>
+<area shape="rect" id="node41" href="$d7/d82/classGFAbsTrackRep.html#a1bb3624ee6b630b32eb424ae5736c620" title="GFAbsTrackRep::setStatusFlag" alt="" coords="495,781,719,809"/>
+<area shape="rect" id="node42" href="$df/d55/classGFException.html#a03021ecb7c2326e8dc1f0ac6e4017efa" title="standard error message handling for exceptions. use like &quot;std::cerr &lt;&lt; e.what();&quot;" alt="" coords="532,833,681,861"/>
+<area shape="rect" id="node22" href="$d7/d82/classGFAbsTrackRep.html#a345406601eabdbc3718f0a5adbb5ec64" title="GFAbsTrackRep::addChiSqu" alt="" coords="784,825,989,853"/>
+<area shape="rect" id="node23" href="$d7/d82/classGFAbsTrackRep.html#a5f685b137879a57cc59d560fb4654439" title="GFAbsTrackRep::addForward\lChiSqu" alt="" coords="781,877,993,921"/>
+<area shape="rect" id="node24" href="$d7/d82/classGFAbsTrackRep.html#afed4b0dc7ee3006f3ed0ec07e5642071" title="GFAbsTrackRep::addNDF" alt="" coords="793,945,980,973"/>
+<area shape="rect" id="node25" href="$d0/de1/classGFKalman.html#a60e2a14f8eb3c94f27ecc426d28d8c99" title="Calculate Kalman Gain." alt="" coords="808,997,965,1025"/>
+<area shape="rect" id="node26" href="$d0/de1/classGFKalman.html#afa014bc2eed916599a549991771143da" title="this returns the reduced chi2 increment for a hit" alt="" coords="788,1049,985,1077"/>
+<area shape="rect" id="node27" href="$d7/d82/classGFAbsTrackRep.html#a182cb174b330c92e7855e7a5d95dad8f" title="returns the tracklength spanned in this extrapolation" alt="" coords="781,1101,992,1129"/>
+<area shape="rect" id="node28" href="$d7/d82/classGFAbsTrackRep.html#aedabf7a87066b362143d2c6f03f25588" title="Get auxillary information from the track representation." alt="" coords="783,1153,990,1181"/>
+<area shape="rect" id="node29" href="$df/d1a/classGFAbsRecoHit.html#aaa20d4c69a79eba87290f767d6f63dab" title="Get detector plane for a given track representation." alt="" coords="783,1205,990,1233"/>
+<area shape="rect" id="node30" href="$d7/d82/classGFAbsTrackRep.html#a0282f8bfeac2c15df26bb94bfa377bbe" title="returns dimension of state vector" alt="" coords="795,1257,978,1285"/>
+<area shape="rect" id="node31" href="$d4/d33/classGFTrack.html#a736fa5128d9414c62a1e2f19390588d1" title="GFTrack::getHit" alt="" coords="824,1309,949,1337"/>
+<area shape="rect" id="node32" href="$df/d1a/classGFAbsRecoHit.html#a65ea7b2c69b91cc42d749b1625e9eeba" title="Get transformation matrix. Transformation between hit coordinates and track representation coordinate..." alt="" coords="787,721,986,749"/>
+<area shape="rect" id="node33" href="$df/d1a/classGFAbsRecoHit.html#ac64dc8dbe7daceb013a7f02a9c1deccc" title="get measurement vector and hit covariance" alt="" coords="767,773,1007,801"/>
+<area shape="rect" id="node48" href="$d6/deb/classGFBookkeeping.html#ae8ff8078e840ffe74647113d3b7f50cf" title="GFBookkeeping::reset" alt="" coords="521,1508,692,1536"/>
+<area shape="rect" id="node50" href="$d7/d82/classGFAbsTrackRep.html#ab31206d758a2ed7ae3f6ca4b06a34b9f" title="GFAbsTrackRep::switchDirection" alt="" coords="769,133,1005,161"/>
+</map>

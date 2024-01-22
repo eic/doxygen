@@ -1,0 +1,14 @@
+<map id="GFAbsBField::get" name="GFAbsBField::get">
+<area shape="rect" id="node2" href="$d5/d24/classLSLEQM.html#a8e6813c01d6ad0764a32919d6e4b780f" title="LSLEQM::eval" alt="" coords="239,117,351,145"/>
+<area shape="rect" id="node3" href="$df/dfb/classGFFieldManager.html#a49084dd1f5414ce1529e98cdca5e60ec" title="GFFieldManager::getFieldVal" alt="" coords="189,169,401,197"/>
+<area shape="rect" id="node4" href="$dc/d78/classRKTrackRep.html#ac12f7560f92785301a6b1f6fdc3f1ae8" title="Propagates the particle through the magnetic field." alt="" coords="449,169,601,197"/>
+<area shape="rect" id="node5" href="$dc/d78/classRKTrackRep.html#a05042330150601b79ce5b66f2dfe46c8" title="Handles propagation and material effects." alt="" coords="649,169,803,197"/>
+<area shape="rect" id="node6" href="$dc/d78/classRKTrackRep.html#a2be2d0e556347dd464121be871887276" title="Returns position of the track in the plane." alt="" coords="888,5,1041,33"/>
+<area shape="rect" id="node7" href="$dc/d78/classRKTrackRep.html#aa986fd663b50961e9f1b673e84827074" title="Returns momentum of the track in the plane." alt="" coords="883,57,1046,85"/>
+<area shape="rect" id="node8" href="$dc/d78/classRKTrackRep.html#aa6757492b1ff0b6fefb28f564dde899b" title="Gets position and momentum in the plane." alt="" coords="871,109,1058,137"/>
+<area shape="rect" id="node9" href="$dc/d78/classRKTrackRep.html#a351386ee423e94485b9188bd1e13849c" title="This method is to extrapolate the track to point of closest approach to a point in space..." alt="" coords="865,161,1065,205"/>
+<area shape="rect" id="node10" href="$dc/d78/classRKTrackRep.html#a7c845b4fbd52e72a3dc6bff232158dfd" title="This method extrapolates to the point of closest approach to a line." alt="" coords="851,229,1079,257"/>
+<area shape="rect" id="node11" href="$dc/d78/classRKTrackRep.html#a20c06f385a82175c108ca8451e4e6a05" title="returns the tracklength spanned in this extrapolation" alt="" coords="872,281,1057,309"/>
+<area shape="rect" id="node13" href="$dc/d78/classRKTrackRep.html#a6d367a642bbce17ff9e8c51252d86e34" title="make step of h cm along the track, returns the tracklength spanned in this extrapolation" alt="" coords="877,333,1052,361"/>
+<area shape="rect" id="node12" href="$dc/d78/classRKTrackRep.html#a37537cbd53fc8a944075d43b8a917880" title="RKTrackRep::getPosMomCov" alt="" coords="1127,281,1339,309"/>
+</map>

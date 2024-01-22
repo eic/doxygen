@@ -1,0 +1,31 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="165,5,275,33"/>
+<area shape="rect" id="node4" href="$df/dba/classSmear_1_1ParticleMCS.html#a66cf73806e3361b3a4ef1c8e57d34db1" title="Smear::ParticleMCS\l::GetE" alt="" coords="143,57,297,101"/>
+<area shape="rect" id="node5" href="$de/d3c/classerhic_1_1ParticleMCbase.html#aa147a0799c373613bd4006a07837eb62" title="erhic::ParticleMCbase\l::GetE" alt="" coords="137,125,303,169"/>
+<area shape="rect" id="node6" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a39151847fee262b4ccbc9809ee2de6b7" title="erhic::ParticleMCbase\l::GetEta" alt="" coords="137,193,303,237"/>
+<area shape="rect" id="node7" href="$dc/de8/classSmear_1_1Event.html#a925561bd8905b7b074af1b1872d226fd" title="Smear::Event::GetNTracks" alt="" coords="121,261,319,289"/>
+<area shape="rect" id="node8" href="$df/dba/classSmear_1_1ParticleMCS.html#aff373c10e5f5783d7ea05767e95ee94e" title="Smear::ParticleMCS\l::GetP" alt="" coords="143,313,297,357"/>
+<area shape="rect" id="node9" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a33b38996faa1c81295941c5205383db2" title="erhic::ParticleMCbase\l::GetPdgCode" alt="" coords="137,381,303,425"/>
+<area shape="rect" id="node11" href="$df/dba/classSmear_1_1ParticleMCS.html#a61fb50ba1a59b1f3806bd3b9b807be9b" title="Smear::ParticleMCS\l::GetPx" alt="" coords="143,449,297,493"/>
+<area shape="rect" id="node13" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a6f99b02587c9c826f722225a340a98cd" title="erhic::ParticleMCbase\l::GetPx" alt="" coords="137,517,303,561"/>
+<area shape="rect" id="node14" href="$df/dba/classSmear_1_1ParticleMCS.html#a938d67e123944b44c0d24135cd6563b8" title="Smear::ParticleMCS\l::GetPy" alt="" coords="143,585,297,629"/>
+<area shape="rect" id="node15" href="$de/d3c/classerhic_1_1ParticleMCbase.html#aff46170c50fbc6760febc6a7a62575ea" title="erhic::ParticleMCbase\l::GetPy" alt="" coords="137,653,303,697"/>
+<area shape="rect" id="node16" href="$df/dba/classSmear_1_1ParticleMCS.html#a92399b9d06b3bae847589dae6443cc82" title="Smear::ParticleMCS\l::GetPz" alt="" coords="143,721,297,765"/>
+<area shape="rect" id="node17" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a210c4b5ef0dc2b875d12c72b543b421e" title="erhic::ParticleMCbase\l::GetPz" alt="" coords="137,789,303,833"/>
+<area shape="rect" id="node18" href="$dc/db4/classerhic_1_1EventDis.html#a64b2de754abd17753622235fb195bdf9" title="erhic::EventDis::GetQ2" alt="" coords="133,857,307,885"/>
+<area shape="rect" id="node19" href="$dc/db4/classerhic_1_1EventDis.html#ae95038842a949338dd9aea946b8d07e6" title="erhic::EventDis::GetQ2Double\lAngle" alt="" coords="108,909,332,953"/>
+<area shape="rect" id="node20" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a51c6fb5b45499012545112dfb73fbe69" title="erhic::ParticleMCbase\l::GetStatus" alt="" coords="137,977,303,1021"/>
+<area shape="rect" id="node21" href="$dc/de8/classSmear_1_1Event.html#ab1e3c7714d432e265dc6e0c2baa795e0" title="Smear::Event::GetTrack" alt="" coords="129,1045,311,1073"/>
+<area shape="rect" id="node22" href="$d6/dfb/classerhic_1_1EventMC.html#a45bb79e814c5c5b62a9ba6a3e8929bd1" title="erhic::EventMC::GetTrack" alt="" coords="124,1097,316,1125"/>
+<area shape="rect" id="node23" href="$dc/db4/classerhic_1_1EventDis.html#a46b5447d280d08f297e5265f97d9c56c" title="erhic::EventDis::GetX" alt="" coords="137,1149,303,1177"/>
+<area shape="rect" id="node24" href="$dc/db4/classerhic_1_1EventDis.html#a49b66b0cf8d31cca27a0d39e68e1574d" title="erhic::EventDis::GetXDouble\lAngle" alt="" coords="113,1201,327,1245"/>
+<area shape="rect" id="node25" href="$dc/db4/classerhic_1_1EventDis.html#a6ef1d930cc3c7b0ddb4ef6911ad1a295" title="erhic::EventDis::GetY" alt="" coords="137,1269,303,1297"/>
+<area shape="rect" id="node26" href="$dc/db4/classerhic_1_1EventDis.html#aa077b633bc6090c18b5203ae501e86b6" title="erhic::EventDis::GetYDouble\lAngle" alt="" coords="114,1321,326,1365"/>
+<area shape="rect" id="node27" href="$da/d19/example__1_8f.html#af1c2729d53ff48a074c57e20c2d85980" title="ran" alt="" coords="199,1389,241,1417"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="385,5,561,33"/>
+<area shape="rect" id="node10" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a0c85145c4eda948f67bc96fa78b4e69e" title="erhic::ParticleMCbase::Id" alt="" coords="380,389,567,417"/>
+<area shape="rect" id="node12" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="451,457,495,485"/>
+<area shape="rect" id="node28" href="$d5/dae/rlu_8f.html#a722544a6fb4dd0f67ceda726148484f5" title="rlu" alt="" coords="454,1363,493,1391"/>
+<area shape="rect" id="node29" href="$d7/deb/classRanSeed.html#ada6802aa6b0d875090ac0b87d4926455" title="RanSeed::nseed" alt="" coords="408,1415,539,1443"/>
+<area shape="rect" id="node30" href="$dc/d44/RanSeed_8h.html#aec41908ffc41488b7c58c439ab38f603" title="ranseed_address_" alt="" coords="615,1415,759,1443"/>
+</map>

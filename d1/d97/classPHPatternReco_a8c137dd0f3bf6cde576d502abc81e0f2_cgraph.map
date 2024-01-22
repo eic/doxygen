@@ -1,0 +1,31 @@
+<map id="PHPatternReco::Init" name="PHPatternReco::Init">
+<area shape="rect" id="node2" href="$d3/d0a/classHelixHoughSpace.html#a9c004e773633ec7f1c1fbafcfcf5f4e7" title="HelixHoughSpace::add\l_one_zoom" alt="" coords="205,5,381,49"/>
+<area shape="rect" id="node3" href="$d3/d0a/classHelixHoughSpace.html#af14ee49b668722886129b5fd5e2944b7" title="HelixHoughSpace::get\l_d_max" alt="" coords="207,73,380,117"/>
+<area shape="rect" id="node4" href="$d3/d0a/classHelixHoughSpace.html#a6a52d8c7641a0c32eeb7d2e221fec435" title="HelixHoughSpace::get\l_d_min" alt="" coords="207,141,380,185"/>
+<area shape="rect" id="node5" href="$d3/d0a/classHelixHoughSpace.html#aaef01d79c69d0670047686524d13f5fd" title="HelixHoughSpace::get\l_dzdl_max" alt="" coords="207,209,380,253"/>
+<area shape="rect" id="node6" href="$d3/d0a/classHelixHoughSpace.html#ac830866a472764ffca0790d9726fc598" title="HelixHoughSpace::get\l_dzdl_min" alt="" coords="207,277,380,321"/>
+<area shape="rect" id="node7" href="$d3/d0a/classHelixHoughSpace.html#a980f06abaa5fda222764c78fcac55e66" title="HelixHoughSpace::get\l_kappa_max" alt="" coords="207,345,380,389"/>
+<area shape="rect" id="node8" href="$d3/d0a/classHelixHoughSpace.html#a63e3b6c74d40d4e0c6e523779a236a0c" title="HelixHoughSpace::get\l_kappa_min" alt="" coords="207,413,380,457"/>
+<area shape="rect" id="node9" href="$d3/d0a/classHelixHoughSpace.html#a8589f7c449d9468cecf219aae481f9cc" title="HelixHoughSpace::get\l_n_d_bins" alt="" coords="207,481,380,525"/>
+<area shape="rect" id="node10" href="$d3/d0a/classHelixHoughSpace.html#a741d7a700ee7c1531a104713a6385ab0" title="HelixHoughSpace::get\l_n_dzdl_bins" alt="" coords="207,549,380,593"/>
+<area shape="rect" id="node11" href="$d3/d0a/classHelixHoughSpace.html#aba1f318d9f16183df41bf913ce52df6d" title="HelixHoughSpace::get\l_n_kappa_bins" alt="" coords="207,617,380,661"/>
+<area shape="rect" id="node12" href="$d3/d0a/classHelixHoughSpace.html#aa6a61794390c4eaa66bd6ba793f6523f" title="HelixHoughSpace::get\l_n_phi_bins" alt="" coords="207,685,380,729"/>
+<area shape="rect" id="node13" href="$d3/d0a/classHelixHoughSpace.html#ae33111cd831e0d385e864c1f084816d1" title="HelixHoughSpace::get\l_n_z0_bins" alt="" coords="207,753,380,797"/>
+<area shape="rect" id="node14" href="$d3/d0a/classHelixHoughSpace.html#a9e3a7bb379ae94e367417a11bff0a433" title="HelixHoughSpace::get\l_phi_max" alt="" coords="207,821,380,865"/>
+<area shape="rect" id="node15" href="$d3/d0a/classHelixHoughSpace.html#a19118059ce41dc1c8844c12f07e89777" title="HelixHoughSpace::get\l_phi_min" alt="" coords="207,889,380,933"/>
+<area shape="rect" id="node16" href="$d3/d0a/classHelixHoughSpace.html#ade1ef7ef7a83dba11e4f7e3772094a97" title="HelixHoughSpace::get\l_z0_max" alt="" coords="207,957,380,1001"/>
+<area shape="rect" id="node17" href="$d3/d0a/classHelixHoughSpace.html#a4b0e1350aed458235acf1453679c721f" title="HelixHoughSpace::get\l_z0_min" alt="" coords="207,1025,380,1069"/>
+<area shape="rect" id="node18" href="$d1/d97/classPHPatternReco.html#a56b5d2372b9b2a36c832b96cdd37f0c6" title="convert from momentum to inverse curvature" alt="" coords="212,1093,375,1137"/>
+<area shape="rect" id="node19" href="$d3/d0a/classHelixHoughSpace.html#ae5385c0eb12a8be87faac3de62fa27cc" title="HelixHoughSpace::set\l_d_max" alt="" coords="207,1161,379,1205"/>
+<area shape="rect" id="node20" href="$d3/d0a/classHelixHoughSpace.html#a4040ed5edd018b765c2fb41236758785" title="HelixHoughSpace::set\l_d_min" alt="" coords="207,1229,379,1273"/>
+<area shape="rect" id="node21" href="$d3/d0a/classHelixHoughSpace.html#a95ae859390502d6e17371f5893054fcd" title="HelixHoughSpace::set\l_dzdl_max" alt="" coords="207,1297,379,1341"/>
+<area shape="rect" id="node22" href="$d3/d0a/classHelixHoughSpace.html#ada2212b190ccc95bd35af303e7d2e3ee" title="HelixHoughSpace::set\l_dzdl_min" alt="" coords="207,1365,379,1409"/>
+<area shape="rect" id="node23" href="$d6/d5e/classHelixHoughFuncs.html#ab105f42d5772dfd6ba831ddb16f09e97" title="HelixHoughFuncs::set\l_hough_space" alt="" coords="209,1433,378,1477"/>
+<area shape="rect" id="node24" href="$d3/d0a/classHelixHoughSpace.html#aceadfe21c6b4de3209bdd145c40af3e0" title="HelixHoughSpace::set\l_kappa_max" alt="" coords="207,1501,379,1545"/>
+<area shape="rect" id="node25" href="$d3/d0a/classHelixHoughSpace.html#afaaf780d728e3fd81b40eae1d6e52a8c" title="HelixHoughSpace::set\l_kappa_min" alt="" coords="207,1569,379,1613"/>
+<area shape="rect" id="node26" href="$d1/d97/classPHPatternReco.html#ac5d32b1a71193f4df327c6ab7910e9df" title="PHPatternReco::set\l_nzooms" alt="" coords="218,1637,369,1681"/>
+<area shape="rect" id="node27" href="$d3/d0a/classHelixHoughSpace.html#ae3db0852fac690c030a980fce3379fe9" title="HelixHoughSpace::set\l_phi_max" alt="" coords="207,1705,379,1749"/>
+<area shape="rect" id="node28" href="$d3/d0a/classHelixHoughSpace.html#adbae4c7d7871e3dca5a9940030cef3dd" title="HelixHoughSpace::set\l_phi_min" alt="" coords="207,1773,379,1817"/>
+<area shape="rect" id="node29" href="$d3/d0a/classHelixHoughSpace.html#a7e7295a4f8278d43cbbefa3367448265" title="HelixHoughSpace::set\l_z0_max" alt="" coords="207,1841,379,1885"/>
+<area shape="rect" id="node30" href="$d3/d0a/classHelixHoughSpace.html#ac072cc47ead45eaa25b754359a39d35c" title="HelixHoughSpace::set\l_z0_min" alt="" coords="207,1909,379,1953"/>
+</map>

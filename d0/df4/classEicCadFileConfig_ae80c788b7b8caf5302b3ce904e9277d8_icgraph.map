@@ -1,0 +1,12 @@
+<map id="EicCadFileConfig::GetStlVertexMergingTolerance" name="EicCadFileConfig::GetStlVertexMergingTolerance">
+<area shape="rect" id="node2" href="$d7/db1/classEicStlFactory.html#ac12dcc068bd2f6a941a3c003784c75fa" title="EicStlFactory::_Construct\lGeometry" alt="" coords="251,5,439,49"/>
+<area shape="rect" id="node4" href="$d7/db1/classEicStlFactory.html#a0cc0f04c573c3313258e5e73443c4cfd" title="EicStlFactory::CreateRootFile" alt="" coords="239,73,452,101"/>
+<area shape="rect" id="node3" href="$d8/d7b/classEicCadFile.html#a8e8bf4dd75c81efa51b8bc49696ff960" title="EicCadFile::ConstructGeometry" alt="" coords="500,13,732,41"/>
+<area shape="rect" id="node5" href="$d3/d74/classEicCadWizard.html#aa3d8913ceadf362918c9dfa6e5768fa5" title="EicCadWizard::CreateStlSolid\lRootFile" alt="" coords="507,65,725,109"/>
+<area shape="rect" id="node6" href="$d3/d74/classEicCadWizard.html#a006a3271b204498a10bb4b15e45c5a61" title="EicCadWizard::FlatSurface\lSplit" alt="" coords="1568,27,1767,71"/>
+<area shape="rect" id="node7" href="$d3/d74/classEicCadWizard.html#a934e44248a9b831031244e8f677192ab" title="EicCadWizard::FaceGuided\lSplit" alt="" coords="780,120,981,164"/>
+<area shape="rect" id="node8" href="$d3/d74/classEicCadWizard.html#ae20efc31d935163c847571a258d9f5da" title="EicCadWizard::ConvertSource\lFileToRoot" alt="" coords="1029,120,1251,164"/>
+<area shape="rect" id="node9" href="$d3/d74/classEicCadWizard.html#a96164b69291586bf689c5e002a1257d2" title="EicCadWizard::ConvertSource\lFilesToRoot" alt="" coords="1299,87,1520,131"/>
+<area shape="rect" id="node10" href="$d3/d74/classEicCadWizard.html#a755802c1852cc16497c285ffff5f9ed9" title="EicCadWizard::ConvertSource\lDirectoryToRoot" alt="" coords="1299,155,1520,199"/>
+<area shape="rect" id="node11" href="$d3/d74/classEicCadWizard.html#a8c9200680c7b255518246d67c872309b" title="EicCadWizard::ConvertSource\lFileToRoot" alt="" coords="1299,223,1520,267"/>
+</map>

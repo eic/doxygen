@@ -1,0 +1,42 @@
+<map id="photonNucleusLuminosity::photonNucleusLuminosity" name="photonNucleusLuminosity::photonNucleusLuminosity">
+<area shape="rect" id="node2" href="$d2/dd2/classphotonNucleusLuminosity.html#a5362c768151bb5177d184f3acd4100b0" title="photonNucleusLuminosity\l::photonNucleusDifferentialLuminosity" alt="" coords="259,728,540,772"/>
+<area shape="rect" id="node3" href="$d0/d4e/classphotonNucleusCrossSection.html#a68ac91e3851cd4d6522e7af1125eb678" title="returns beamBeamSystem" alt="" coords="1124,1410,1333,1454"/>
+<area shape="rect" id="node4" href="$d1/d21/classbeamBeamSystem.html#a914c7a1b7802ed916928073483e18e7b" title="returns beam particle 2" alt="" coords="1110,653,1347,681"/>
+<area shape="rect" id="node5" href="$d4/d51/classnucleus.html#acd58b7873e7d2d42bbc31414e373b89d" title="returns atomic number of nucleus" alt="" coords="1418,757,1510,785"/>
+<area shape="rect" id="node6" href="$d4/d51/classnucleus.html#afb4d4a7f776a88c10fa0ff433e74463e" title="returns nucleon number of nucleus" alt="" coords="1183,497,1275,525"/>
+<area shape="rect" id="node7" href="$d0/d4e/classphotonNucleusCrossSection.html#a4ec8663422616842d1cd649f37a0e072" title="photonNucleusCrossSection\l::getDefaultC" alt="" coords="588,697,797,741"/>
+<area shape="rect" id="node8" href="$d0/d4e/classphotonNucleusCrossSection.html#aab132d8d1940a06b6724dcc5764f5191" title="photonNucleusCrossSection\l::breitWigner" alt="" coords="588,262,797,306"/>
+<area shape="rect" id="node11" href="$d0/d4e/classphotonNucleusCrossSection.html#af12e1ac0c8212a8ddaff3bb9bdd175dd" title="returns max photon energy in lab frame [GeV] (for vectormesons only)" alt="" coords="588,817,797,861"/>
+<area shape="rect" id="node12" href="$d0/d4e/classphotonNucleusCrossSection.html#a6711e96b1e4a811e8771fb49bbe40e5e" title="photonNucleusCrossSection\l::getcsgA" alt="" coords="588,596,797,640"/>
+<area shape="rect" id="node27" href="$d0/d4e/classphotonNucleusCrossSection.html#a784942c17c3c7c68b7702e2488a5a780" title="photonNucleusCrossSection\l::photonFlux" alt="" coords="845,918,1055,962"/>
+<area shape="rect" id="node36" href="$d2/dd2/classphotonNucleusLuminosity.html#af0311e60848553568d42b1a72837b297" title="photonNucleusLuminosity\l::pttablegen" alt="" coords="595,1054,791,1098"/>
+<area shape="rect" id="node9" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="895,152,1005,180"/>
+<area shape="rect" id="node10" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1141,152,1317,180"/>
+<area shape="rect" id="node13" href="$d1/d21/classbeamBeamSystem.html#a039e2f7e609c95744ad06eb433688485" title="returns beam particle 1" alt="" coords="1103,705,1355,733"/>
+<area shape="rect" id="node14" href="$d4/d51/classnucleus.html#a44010f806c36731bf2e1daee89f27738" title="nucleus::formFactor" alt="" coords="1151,1254,1307,1282"/>
+<area shape="rect" id="node17" href="$d0/d4e/classphotonNucleusCrossSection.html#a5326d5e72d4f918502a155baeb947005" title="photonNucleusCrossSection\l::getcsgA_Q2_dep" alt="" coords="845,374,1055,418"/>
+<area shape="rect" id="node20" href="$d0/d4e/classphotonNucleusCrossSection.html#a33271d9aa28799df992ea7939ba1909c" title="photonNucleusCrossSection\l::sigma_A" alt="" coords="845,596,1055,640"/>
+<area shape="rect" id="node25" href="$d0/d4e/classphotonNucleusCrossSection.html#af3782ac63a9a7b85b7d3fb25e4e98a9d" title="photonNucleusCrossSection\l::sigma_N" alt="" coords="845,204,1055,248"/>
+<area shape="rect" id="node26" href="$d0/d4e/classphotonNucleusCrossSection.html#a5ae3b27a780b0456689f2d3134f0478e" title="photonNucleusCrossSection\l::sigmagp" alt="" coords="1124,264,1333,308"/>
+<area shape="rect" id="node15" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="1442,1202,1486,1230"/>
+<area shape="rect" id="node16" href="$d4/d51/classnucleus.html#a31aecce251b8d61c0e36b46ccd3730d7" title="nucleus::nuclearRadius" alt="" coords="1599,1254,1777,1282"/>
+<area shape="rect" id="node18" href="$d0/d4e/classphotonNucleusCrossSection.html#a659587c43f9f26f8499056d0f91d774f" title="returns mass of the produced system [GeV/c^2]" alt="" coords="1124,429,1333,473"/>
+<area shape="rect" id="node19" href="$d0/d4e/classphotonNucleusCrossSection.html#ab4e4d4f1e612c2c8ebce68c44fda7abc" title="photonNucleusCrossSection\l::vmQ2Power" alt="" coords="1124,361,1333,405"/>
+<area shape="rect" id="node21" href="$d4/d51/classnucleus.html#a5de922b3a6cc87a3eb1b421fc6f2d343" title="nucleus::rho0" alt="" coords="1172,549,1285,577"/>
+<area shape="rect" id="node22" href="$d4/d51/classnucleus.html#a625506ed8907970e3aea75ff925bfc9b" title="nucleus::thickness" alt="" coords="1155,601,1302,629"/>
+<area shape="rect" id="node23" href="$d4/d51/classnucleus.html#ad46c433008fa9451021f8614b126996a" title="nucleus::rws" alt="" coords="1411,653,1517,681"/>
+<area shape="rect" id="node24" href="$d4/d51/classnucleus.html#ab71f2da42e9f143940e727f7525076e2" title="nucleus::woodSaxonSkinDepth" alt="" coords="1573,653,1803,681"/>
+<area shape="rect" id="node28" href="$d7/d46/namespacebessel.html#a6d6aa0ba08c052cec22f87399b0c27b1" title="bessel::dbesk1" alt="" coords="1403,929,1525,957"/>
+<area shape="rect" id="node30" href="$d0/d4e/classphotonNucleusCrossSection.html#a0e416c5e83c1a79d0cb2f4414230985b" title="photonNucleusCrossSection\l::nepoint" alt="" coords="1124,809,1333,853"/>
+<area shape="rect" id="node33" href="$d0/d21/classbeam.html#ad3c0efadce37ff4ec3f953790d4aaee4" title="calculates photon density (number of photons / (energy * area))" alt="" coords="1145,929,1313,957"/>
+<area shape="rect" id="node34" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="1199,877,1258,905"/>
+<area shape="rect" id="node35" href="$d1/d21/classbeamBeamSystem.html#ac31d664ce09dda97e06c2cab564c1120" title="beamBeamSystem::probability\lOfBreakup" alt="" coords="1113,1134,1344,1178"/>
+<area shape="rect" id="node29" href="$d7/d46/namespacebessel.html#a7c6ce9404b6a5c90e4d2b3b3afe8b8e7" title="bessel::besI1" alt="" coords="1633,929,1743,957"/>
+<area shape="rect" id="node31" href="$d7/d46/namespacebessel.html#adfc2089c0305158d138ec0e7229d3c9b" title="bessel::dbesk0" alt="" coords="1403,817,1525,845"/>
+<area shape="rect" id="node32" href="$d7/d46/namespacebessel.html#a3fb6956cd24162fed2e5f4e25dea2945" title="bessel::besI0" alt="" coords="1633,817,1743,845"/>
+<area shape="rect" id="node37" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="922,1361,978,1389"/>
+<area shape="rect" id="node38" href="$d0/d4e/classphotonNucleusCrossSection.html#a5765ef7c6b3d6eaa80f9fbd6f2479cc8" title="vectormeson&#45;photon coupling constant f_v / 4 pi (cf. Eq. 10 in KN PRC 60 (1999) 014903)" alt="" coords="845,1413,1055,1457"/>
+<area shape="rect" id="node39" href="$d0/d4e/classphotonNucleusCrossSection.html#a4aa181004bc00351db0e7b72c07405c0" title="returns slope of t&#45;distribution [(GeV/c)^{&#45;2}]" alt="" coords="845,1481,1055,1525"/>
+<area shape="rect" id="node40" href="$d2/dd2/classphotonNucleusLuminosity.html#a39b805ee9352355ce38e77b6deddf5aa" title="photonNucleusLuminosity\l::vmsigmapt" alt="" coords="852,1241,1048,1285"/>
+<area shape="rect" id="node41" href="$db/d5d/test__style_8C.html#a2513fe0eb0478642e44ad1201af61a46" title="f2" alt="" coords="1209,1358,1248,1386"/>
+</map>

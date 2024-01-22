@@ -1,0 +1,44 @@
+<map id="PHG4Sector::Sector_Geometry::AddLayer" name="PHG4Sector::Sector_Geometry::AddLayer">
+<area shape="rect" id="node2" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#ac5533363def013da20bbfb6cb5b4ee1d" title="PHG4Sector::Sector\l_Geometry::AddLayers\l_AeroGel_ePHENIX" alt="" coords="227,717,403,777"/>
+<area shape="rect" id="node25" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a28dd95a8f2a2b2b1d26e65a1b584702c" title="PHG4Sector::Sector\l_Geometry::AddLayers\l_DriftVol_COMPASS" alt="" coords="227,1029,403,1089"/>
+<area shape="rect" id="node26" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#ab051a45fb6288d8421b723c1a37f0ec5" title="PHG4Sector::Sector\l_Geometry::AddLayers\l_HBD_GEM" alt="" coords="227,1113,403,1173"/>
+<area shape="rect" id="node34" href="$d9/de6/classPHG4Sector_1_1Sector__Geometry.html#a73532bacff4db207c02e2929c91b8b62" title="PHG4Sector::Sector\l_Geometry::AddLayers\l_HBD_Readout" alt="" coords="227,1301,403,1361"/>
+<area shape="rect" id="node35" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html#adedab66f745dff8069bd1f750680c423" title="Add drift layers to mini TPC." alt="" coords="223,1197,407,1225"/>
+<area shape="rect" id="node36" href="$d8/dc4/fun4all__eicmacros_2blob_2master_2common_2G4__DIRC_8C.html#acbdf429e4e41a2057e053691cc0b4128" title="DIRCSetup" alt="" coords="268,887,361,915"/>
+<area shape="rect" id="node38" href="$db/dd2/G4__TTL__EIC_8C.html#a833c8634f203c200b0912bb6a90bb58f" title="make_forward_station\l_basic" alt="" coords="230,1385,399,1429"/>
+<area shape="rect" id="node42" href="$d1/db0/G4__FST__EIC_8C.html#a6eb2d721f9b0c95f5389d519290847a5" title="make_LANL_FST_station" alt="" coords="455,1289,637,1317"/>
+<area shape="rect" id="node3" href="$de/d75/G4__Aerogel_8C.html#a400136ba4928234f7c9990b4065328f1" title="AerogelSetup" alt="" coords="489,649,603,677"/>
+<area shape="rect" id="node4" href="$df/d34/G4Setup__LBLDetector_8C.html#a6b34584f88221280e9b276471822bd06" title="G4Setup" alt="" coords="695,588,775,616"/>
+<area shape="rect" id="node5" href="$d9/d8a/Extract__ECCE__gdml_8C.html#adef1108aefc699a7368616b4d8f77723" title="Extract_ECCE_gdml" alt="" coords="878,677,1030,705"/>
+<area shape="rect" id="node6" href="$d4/de9/Fun4All__AnaTutorial__sPHENIX_8C.html#a5028836c74f0bebec560d3ab54daa022" title="Fun4All_AnaTutorial\l_sPHENIX" alt="" coords="877,729,1031,773"/>
+<area shape="rect" id="node7" href="$d6/d14/Fun4All__AnaTutorial__sPHENIX__Jets_8C.html#a61b352bca84476d24b0ff40991b27900" title="Fun4All_AnaTutorial\l_sPHENIX_Jets" alt="" coords="877,797,1031,841"/>
+<area shape="rect" id="node8" href="$d8/d14/Fun4All__G4__Babar_8C.html#ae3babc7f493f8a671f129ef3084ebc23" title="Fun4All_G4_Babar" alt="" coords="881,865,1027,893"/>
+<area shape="rect" id="node9" href="$df/d9d/fun4all__eicmacros_2blob_2master_2detectors_2Beast_2Fun4All__G4__Beast_8C.html#aa12a55b170fc12d7549cea7cc497eb38" title="Fun4All_G4_Beast" alt="" coords="883,917,1025,945"/>
+<area shape="rect" id="node10" href="$db/d7c/Fun4All__G4__CEMC_8C.html#a27c34234bed188f890585d67d12da1ff" title="Fun4All_G4_CEMC" alt="" coords="883,969,1025,997"/>
+<area shape="rect" id="node11" href="$de/dcc/Fun4All__G4__Cleo_8C.html#ae4d584d6f7864ddc358a5cb1bf03bfa5" title="Fun4All_G4_Cleo" alt="" coords="887,1021,1021,1049"/>
+<area shape="rect" id="node12" href="$d4/dd7/fun4all__eicmacros_2blob_2master_2detectors_2EICDetector_2Fun4All__G4__EICDetector_8C.html#add9dee08cdb08b59c0b3870bb04994d9" title="Fun4All_G4_EICDetector" alt="" coords="861,1073,1047,1101"/>
+<area shape="rect" id="node13" href="$df/dd8/Fun4All__G4__EICDetector__AnaTutorial_8C.html#a598434aca3dac5cdb0ca67ccc548d865" title="Fun4All_G4_EICDetector\l_AnaTutorial" alt="" coords="861,5,1047,49"/>
+<area shape="rect" id="node14" href="$d4/d3e/Fun4All__G4__FEMC_8C.html#ac27e1f27ebd448c199bef7b87b857324" title="Fun4All_G4_FEMC" alt="" coords="883,73,1025,101"/>
+<area shape="rect" id="node15" href="$d8/ddf/Fun4All__G4__FHCAL_8C.html#a30335378765e08d065753b87cb2b120d" title="Fun4All_G4_FHCAL" alt="" coords="880,125,1028,153"/>
+<area shape="rect" id="node16" href="$d7/d9e/Fun4All__G4__fsPHENIX_8C.html#a75e8ef26e92f882a865536a3e16244c5" title="Fun4All_G4_fsPHENIX" alt="" coords="871,177,1037,205"/>
+<area shape="rect" id="node17" href="$d5/d97/Fun4All__G4__FullDetectorModular_8C.html#a589d5647d3c2ebb289af5cdf1e9f5f7e" title="Fun4All_G4_FullDetectorModular" alt="" coords="833,229,1075,257"/>
+<area shape="rect" id="node18" href="$d0/dce/Fun4All__G4__FullDetectorModularBeast_8C.html#a0f10ba4ce157df87369cfd776fc132d3" title="Fun4All_G4_FullDetectorModular\lBeast" alt="" coords="833,281,1075,325"/>
+<area shape="rect" id="node19" href="$da/d70/Fun4All__G4__HCALIN_8C.html#a6fd66cf9b4b0c6284f16a98787342734" title="Fun4All_G4_HCALIN" alt="" coords="877,349,1031,377"/>
+<area shape="rect" id="node20" href="$d5/d4e/Fun4All__G4__HCALOUT_8C.html#ab1b085728b3dfbd312c405b6aa0e31b9" title="Fun4All_G4_HCALOUT" alt="" coords="869,401,1039,429"/>
+<area shape="rect" id="node21" href="$d0/d87/Fun4All__G4__JLeic_8C.html#a7a87d035cddeb1ed64bf376560381994" title="Fun4All_G4_JLeic" alt="" coords="887,453,1021,481"/>
+<area shape="rect" id="node22" href="$d9/d18/Fun4All__G4__LBLDetector_8C.html#acc03ebe198962a7abb94f5c42641bfc9" title="Fun4All_G4_LBLDetector" alt="" coords="861,505,1047,533"/>
+<area shape="rect" id="node23" href="$d9/d73/fun4all__macros_2blob_2master_2detectors_2sPHENIX_2Fun4All__G4__sPHENIX_8C.html#a4102cd3e195333de974409428a2e6dae" title="Fun4All_G4_sPHENIX" alt="" coords="873,557,1035,585"/>
+<area shape="rect" id="node24" href="$d4/d50/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2Development_2Fun4All__G4__sPHENIX__particle__gen_8C.html#a381adc702b7bfb99356660cdb6407e70" title="Fun4All_G4_sPHENIX\l_particle_gen" alt="" coords="873,609,1035,653"/>
+<area shape="rect" id="node27" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html#ac44d1ef8dd3931eed6dd2ae0110ed8d1" title="FGEMSetup" alt="" coords="686,1181,785,1209"/>
+<area shape="rect" id="node32" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html#a75ea364f15ac3286c935ec8dc4cc2830" title="make_GEM_station" alt="" coords="472,1181,620,1209"/>
+<area shape="rect" id="node28" href="$d0/db8/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2Development_2Fun4All__G4__FastMom__GEM_8C.html#a1a327440b9a720678c12cb3ea194ad33" title="Fun4All_G4_FastMom_GEM" alt="" coords="853,1177,1055,1205"/>
+<area shape="rect" id="node29" href="$d8/ddb/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2Development_2Fun4All__G4__FastMom__GEM__RICH_8C.html#a836c38918acb22b3e8248037a93906fb" title="Fun4All_G4_FastMom\l_GEM_RICH" alt="" coords="872,1229,1036,1273"/>
+<area shape="rect" id="node30" href="$d3/d53/fun4all__eicmacros_2blob_2master_2detectors_2AllSilicon_2Development_2hadron__phi__asymmetry_2Fu3f15b97f3d89d932e8888fbacfa50314.html#a87dc5b61f33f769555984fa43a1cdff6" title="Fun4All_G4_simple_hadron_GEM" alt="" coords="834,1125,1074,1153"/>
+<area shape="rect" id="node31" href="$d3/d35/fun4all__eicmacros_2blob_2master_2detectors_2EICDetector_2G4Setup__EICDetector_8C.html#a6b34584f88221280e9b276471822bd06" title="G4Setup" alt="" coords="914,1297,994,1325"/>
+<area shape="rect" id="node33" href="$de/d55/G4__GEM__EIC_8C.html#a04d0a097375d8e3f53970b906caf0d75" title="EGEMSetup" alt="" coords="685,1236,785,1264"/>
+<area shape="rect" id="node37" href="$de/dbc/Fun4All__G4__simplified__v2__DIRC__barrel__GEM_8C.html#a0d2b02ec707dfedd0c33d1e40b12f423" title="Fun4All_G4_simplified\l_v2_DIRC_barrel_GEM" alt="" coords="461,819,631,863"/>
+<area shape="rect" id="node39" href="$db/dd2/G4__TTL__EIC_8C.html#a723ad093e7e67d81d3884242d5b53b00" title="ETTLSetup" alt="" coords="499,1347,593,1375"/>
+<area shape="rect" id="node41" href="$db/dd2/G4__TTL__EIC_8C.html#a5fbeba69a6b9ed5b6189ce6b8cb49a70" title="FTTLSetup" alt="" coords="500,1399,592,1427"/>
+<area shape="rect" id="node40" href="$d8/da0/G4Setup__ModularDetector_8C.html#a2f02606142212383317946c8ee8622a6" title="G4Setup" alt="" coords="695,1368,775,1396"/>
+<area shape="rect" id="node43" href="$d1/db0/G4__FST__EIC_8C.html#a9430db43e5bb79a306421c7b34580ac4" title="FSTSetup" alt="" coords="693,1293,778,1321"/>
+</map>

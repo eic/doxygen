@@ -1,0 +1,29 @@
+<map id="CbmRichGeoTest::FitAndFillHistEllipse" name="CbmRichGeoTest::FitAndFillHistEllipse">
+<area shape="rect" id="node2" href="$d2/d8f/classCbmRichRingFitterEllipseTau.html#a2cb8f2f8f011d5eda54dc7c2b9902f4a" title="Inherited from CbmRichRingFitterBase." alt="" coords="279,344,469,388"/>
+<area shape="rect" id="node3" href="$de/d89/classCbmRichRingLight.html#ad45c397b52a7882866e354cfcd2c1bd6" title="Return number of hits in ring." alt="" coords="1056,131,1284,159"/>
+<area shape="rect" id="node14" href="$de/d89/classCbmRichRingLight.html#a7bea967c0a79889d5547fd6ad762ddac" title="CbmRichRingLight::GetAaxis" alt="" coords="1063,961,1277,989"/>
+<area shape="rect" id="node15" href="$de/d89/classCbmRichRingLight.html#a354eba46248ef5a37d2ac0fba10331ad" title="CbmRichRingLight::GetBaxis" alt="" coords="1063,649,1277,677"/>
+<area shape="rect" id="node26" href="$de/d89/classCbmRichRingLight.html#aa919c6cf5b852f0b89f0aee7ac8e1573" title="CbmRichRingLight::GetCenterX" alt="" coords="257,1017,491,1045"/>
+<area shape="rect" id="node27" href="$de/d89/classCbmRichRingLight.html#a410d6c9513ea5dde4f59660898139aa7" title="CbmRichRingLight::GetCenterY" alt="" coords="257,1069,491,1097"/>
+<area shape="rect" id="node28" href="$de/d89/classCbmRichRingLight.html#a78abf276ad9b4e81849afc5930602335" title="CbmRichRingLight::GetChi2" alt="" coords="270,1121,478,1149"/>
+<area shape="rect" id="node4" href="$de/d89/classCbmRichRingLight.html#a29939563c2ed0ed2cdd4fc950884f4f6" title="Set all 5 ellipse parameters." alt="" coords="783,327,1003,355"/>
+<area shape="rect" id="node5" href="$de/d89/classCbmRichRingLight.html#a2a6ea7d670ef6c3ddc4f4039f09434d6" title="CbmRichRingLight::SetRadius" alt="" coords="781,379,1004,407"/>
+<area shape="rect" id="node6" href="$d2/d8f/classCbmRichRingFitterEllipseTau.html#ad3b197263e8253224457a1e5a19840e6" title="Initialize all matrices." alt="" coords="539,241,729,285"/>
+<area shape="rect" id="node9" href="$d2/d8f/classCbmRichRingFitterEllipseTau.html#a23a95408502b2502dab9305391bc3c78" title="Perform Taubin method." alt="" coords="539,156,729,200"/>
+<area shape="rect" id="node11" href="$d2/d8f/classCbmRichRingFitterEllipseTau.html#a7cefee0020af3461cd61ae4468fecd13" title="Transform fitted curve to ellipse parameters." alt="" coords="539,553,729,597"/>
+<area shape="rect" id="node12" href="$dd/d22/classCbmRichRingFitterEllipseBase.html#a7bff3502ea2108f09d5d918036add14d" title="Calculate chi2 of the ellipse fit." alt="" coords="797,847,988,891"/>
+<area shape="rect" id="node7" href="$de/d89/classCbmRichRingLight.html#ac2451e7309a97a6ac4e8d49796e60ac9" title="Return hit by the index." alt="" coords="1071,540,1269,568"/>
+<area shape="rect" id="node8" href="$d2/d8f/classCbmRichRingFitterEllipseTau.html#a6579fad52d2d8bc4420f8b9138157e73" title="Matrices multiplication." alt="" coords="797,156,988,200"/>
+<area shape="rect" id="node10" href="$d2/d8f/classCbmRichRingFitterEllipseTau.html#acca99df51e52dd226c9b02e57a46357b" title="Invert 5x5 matrix." alt="" coords="797,88,988,132"/>
+<area shape="rect" id="node17" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="1332,857,1376,885"/>
+<area shape="rect" id="node21" href="$de/d89/classCbmRichRingLight.html#a35bee4d6fbfeb9921491504beed3b1b0" title="Set all 6 parameters of curve equation Axx+Bxy+Cyy+Dx+Ey+F." alt="" coords="777,743,1008,771"/>
+<area shape="rect" id="node22" href="$de/d89/classCbmRichRingLight.html#a8870f6ebf591612038db99b9281c8e99" title="CbmRichRingLight::SetAaxis" alt="" coords="786,483,999,511"/>
+<area shape="rect" id="node23" href="$de/d89/classCbmRichRingLight.html#a5cb974e15d27d09e11b479b76484e55f" title="CbmRichRingLight::SetBaxis" alt="" coords="786,535,999,563"/>
+<area shape="rect" id="node24" href="$de/d89/classCbmRichRingLight.html#a286db5d14acabd5c23e5c89d3dbdc448" title="CbmRichRingLight::GetPhi" alt="" coords="793,639,992,667"/>
+<area shape="rect" id="node25" href="$de/d89/classCbmRichRingLight.html#a3d7f491a1fd1eb6107ee76fd07d74a88" title="CbmRichRingLight::SetPhi" alt="" coords="795,691,991,719"/>
+<area shape="rect" id="node13" href="$de/d89/classCbmRichRingLight.html#af50910fe561505395f7bb4b12777e75a" title="CbmRichRingLight::SetChi2" alt="" coords="1067,753,1273,781"/>
+<area shape="rect" id="node16" href="$de/d89/classCbmRichRingLight.html#ac0fa155c88ede1746bd735d68eb646c5" title="Calculate and return X coordinate of the first focus." alt="" coords="1069,857,1271,885"/>
+<area shape="rect" id="node18" href="$de/d89/classCbmRichRingLight.html#ac17e5b8f215a121157fd5bffa9d437c8" title="Calculate and return Y coordinate of the first focus." alt="" coords="1069,805,1271,833"/>
+<area shape="rect" id="node19" href="$de/d89/classCbmRichRingLight.html#af711a75557e1bc7058a09c1e5d91a8b3" title="Calculate and return X coordinate of the second focus." alt="" coords="1069,909,1271,937"/>
+<area shape="rect" id="node20" href="$de/d89/classCbmRichRingLight.html#a8787893aa46bbd07a4711de609272771" title="Calculate and return Y coordinate of the second focus." alt="" coords="1069,701,1271,729"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="PHG4TpcEndCapDetector::ConstructMe" name="PHG4TpcEndCapDetector::ConstructMe">
+<area shape="rect" id="node2" href="$dd/d5a/classPHG4TpcEndCapDetector.html#aec875ecce8ec727af4f9f58edbd89bc0" title="PHG4TpcEndCapDetector\l::ConstructEndCapAssembly" alt="" coords="252,334,465,378"/>
+<area shape="rect" id="node5" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="780,176,980,220"/>
+<area shape="rect" id="node16" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="248,402,469,430"/>
+<area shape="rect" id="node3" href="$dd/d5a/classPHG4TpcEndCapDetector.html#a7b470169f5d1ca969814afe1de42507f" title="PHG4TpcEndCapDetector\l::AddLayer" alt="" coords="521,368,715,412"/>
+<area shape="rect" id="node7" href="$d3/de7/classPHG4Detector.html#a8e548682ab05493f7cdbd391bc4f67be" title="PHG4Detector::GetDetector\lMaterial" alt="" coords="775,484,985,528"/>
+<area shape="rect" id="node9" href="$dc/de5/PHG4mRICHDetector_8cc.html#ae62b03935debe2916d1bd671371ec87d" title="material" alt="" coords="841,432,919,460"/>
+<area shape="rect" id="node10" href="$dd/d5a/classPHG4TpcEndCapDetector.html#afc89c12d0cdadd2fa0a06176aced5e26" title="PHG4TpcEndCapDetector\l::ConstructElectronics" alt="" coords="521,232,715,276"/>
+<area shape="rect" id="node11" href="$dd/dae/classPHParameters.html#a0241ca27a369ab4865ac3d79620ac27c" title="PHParameters::get_int\l_param" alt="" coords="794,56,966,100"/>
+<area shape="rect" id="node14" href="$dd/d5a/classPHG4TpcEndCapDetector.html#a10d6f51cc556b2d3eceda911484ac193" title="PHG4TpcEndCapDetector\l::ConstructWagonWheel" alt="" coords="521,300,715,344"/>
+<area shape="rect" id="node15" href="$dd/d5a/classPHG4TpcEndCapDetector.html#a03bdcececfd76d93687b9ac0ac3185e5" title="PHG4TpcEndCapDetector\l::CreateCompositeMaterial" alt="" coords="517,538,719,582"/>
+<area shape="rect" id="node4" href="$d7/d13/classPHG4TpcEndCapDisplayAction.html#ad9aae44a6fc1169a8c3f258e4f277333" title="PHG4TpcEndCapDisplayAction\l::AddVolume" alt="" coords="767,364,993,408"/>
+<area shape="rect" id="node8" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="785,312,975,340"/>
+<area shape="rect" id="node6" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="1041,218,1088,246"/>
+<area shape="rect" id="node12" href="$dd/dae/classPHParameters.html#a60170f66cb1f70adb65134014151d180" title="PHParameters::get_string\l_param" alt="" coords="784,244,976,288"/>
+<area shape="rect" id="node13" href="$d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c" title="PHG4Detector::Verbosity" alt="" coords="785,124,975,152"/>
+</map>

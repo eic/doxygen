@@ -1,0 +1,7 @@
+<map id="ValTimeStamp::Set" name="ValTimeStamp::Set">
+<area shape="rect" id="node2" href="$d2/d87/classValTimeStamp.html#a53666f075dad01f1e1e3c9dcb7a33ed9" title="ValTimeStamp::Set" alt="" coords="243,5,395,33"/>
+<area shape="rect" id="node3" href="$d2/d87/classValTimeStamp.html#a2b24612fc24c8941bde81df9272e77a2" title="Empty ctor (builds current time with nsec field filled as best possible)" alt="" coords="205,57,432,85"/>
+<area shape="rect" id="node4" href="$d2/d87/classValTimeStamp.html#a813e1e2e83fdf423db3894a2f51a0c97" title="Static method to return the &quot;beginning of time&quot; (start of Unix EPOCH)" alt="" coords="485,5,667,33"/>
+<area shape="rect" id="node5" href="$d2/d87/classValTimeStamp.html#aa323547b2bfb1e3cbb651c4198df5a01" title="ValTimeStamp::GetEOT" alt="" coords="485,57,667,85"/>
+<area shape="rect" id="node6" href="$d2/d87/classValTimeStamp.html#a3d1060696b6e2759c61947c081852114" title="ValTimeStamp::GetNBOT" alt="" coords="480,109,672,137"/>
+</map>

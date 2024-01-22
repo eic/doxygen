@@ -1,0 +1,27 @@
+var classSmear_1_1Event =
+[
+    [ "Event", "dc/de8/classSmear_1_1Event.html#a5a40dd4708297f7031e29b39e039ae10", null ],
+    [ "~Event", "dc/de8/classSmear_1_1Event.html#a7704ec01ce91e673885792054214b3d2", null ],
+    [ "AddLast", "dc/de8/classSmear_1_1Event.html#abcf5ce4ef146950eae018814d33e39a6", null ],
+    [ "BeamHadron", "dc/de8/classSmear_1_1Event.html#a6bbf66d37e7260eecc3c7e574daaae92", null ],
+    [ "BeamLepton", "dc/de8/classSmear_1_1Event.html#af1b166576353061e5a750f045b11ef80", null ],
+    [ "ClearParticles", "dc/de8/classSmear_1_1Event.html#a6ab9b7ba89339ff16f91214580e845ed", null ],
+    [ "ExchangeBoson", "dc/de8/classSmear_1_1Event.html#aef59ae5228df742b6b1f07120e0d9f26", null ],
+    [ "GetNTracks", "dc/de8/classSmear_1_1Event.html#a925561bd8905b7b074af1b1872d226fd", null ],
+    [ "GetTrack", "dc/de8/classSmear_1_1Event.html#ab1e3c7714d432e265dc6e0c2baa795e0", null ],
+    [ "GetTrack", "dc/de8/classSmear_1_1Event.html#a6b98cfcf62f997788841710e584766c0", null ],
+    [ "GetTracks", "dc/de8/classSmear_1_1Event.html#acf612dffa7d2e3d0ca924bef4e34405f", null ],
+    [ "HadronicFinalState", "dc/de8/classSmear_1_1Event.html#a10376856a597d434d47106ab5a0c27df", null ],
+    [ "Print", "dc/de8/classSmear_1_1Event.html#a8f4a412e2965f0f8e79d4010b5298265", null ],
+    [ "Reset", "dc/de8/classSmear_1_1Event.html#afed31be0b4f98fb83163a4d725886e81", null ],
+    [ "ScatteredLepton", "dc/de8/classSmear_1_1Event.html#a6bcd3aa9d78f23211b91d4cf7a3982e7", null ],
+    [ "SetNu", "dc/de8/classSmear_1_1Event.html#a3fa37c9b4a6f3fc80fbaa1d1ffc07913", null ],
+    [ "SetQ2", "dc/de8/classSmear_1_1Event.html#a41e1d4619d22ce64c26e67ba3f2b16c5", null ],
+    [ "SetScattered", "dc/de8/classSmear_1_1Event.html#a13ac3836c0933618ce3cad346f47b125", null ],
+    [ "SetW2", "dc/de8/classSmear_1_1Event.html#ab0d64a09e0e0ce647a50e4fa34254d03", null ],
+    [ "SetX", "dc/de8/classSmear_1_1Event.html#a5415154ee1ea439a42c302d5628a1f9e", null ],
+    [ "SetY", "dc/de8/classSmear_1_1Event.html#a7cf24a7f33a69b29cec2cab9c76d50c1", null ],
+    [ "mScatteredIndex", "dc/de8/classSmear_1_1Event.html#ab67fcab05d523f206c071e54a65d7613", null ],
+    [ "nTracks", "dc/de8/classSmear_1_1Event.html#aa94fe4aa607fde3cd04b280ec6189653", null ],
+    [ "particles", "dc/de8/classSmear_1_1Event.html#a5c85aadfd73f52e553ba1661e51eda8b", null ]
+];

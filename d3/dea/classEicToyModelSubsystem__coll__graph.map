@@ -1,0 +1,17 @@
+<map id="EicToyModelSubsystem" name="EicToyModelSubsystem">
+<area shape="rect" id="node2" href="$d5/d29/classPHG4DetectorSubsystem.html" title="PHG4DetectorSubsystem" alt="" coords="1989,429,2181,457"/>
+<area shape="rect" id="node3" href="$db/df7/classPHG4Subsystem.html" title="PHG4Subsystem" alt="" coords="1179,653,1312,681"/>
+<area shape="rect" id="node20" href="$d3/de7/classPHG4Detector.html" title="base class for phenix detector creation" alt="" coords="1598,707,1715,735"/>
+<area shape="rect" id="node4" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="805,652,906,680"/>
+<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="456,649,560,677"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="197,451,287,479"/>
+<area shape="rect" id="node10" href="$dd/dae/classPHParameters.html" title="PHParameters" alt="" coords="797,260,913,288"/>
+<area shape="rect" id="node14" href="$d7/d6b/classPHParametersContainer.html" title="PHParametersContainer" alt="" coords="1565,83,1748,111"/>
+<area shape="rect" id="node17" href="$dc/d82/classPHNode.html" title="PHNode" alt="" coords="471,593,545,621"/>
+<area shape="rect" id="node19" href="$d6/db4/classEicToyModelDetector.html" title="EicToyModelDetector" alt="" coords="2004,655,2167,683"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="5,443,148,487"/>
+<area shape="rect" id="node11" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="466,5,550,33"/>
+<area shape="rect" id="node12" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="204,5,280,33"/>
+<area shape="rect" id="node16" href="$d5/dca/classPHCompositeNode.html" title="PHCompositeNode" alt="" coords="1172,561,1319,589"/>
+<area shape="rect" id="node18" href="$d6/d86/classPHPointerList.html" title="PHPointerList\&lt; PHNode \&gt;" alt="" coords="759,600,952,628"/>
+</map>

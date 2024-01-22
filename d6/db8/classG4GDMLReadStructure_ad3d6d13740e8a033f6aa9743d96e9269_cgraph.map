@@ -1,0 +1,27 @@
+<map id="G4GDMLReadStructure::VolumeRead" name="G4GDMLReadStructure::VolumeRead">
+<area shape="rect" id="node2" href="$de/d82/namespacerelease.html#ac63a4e24ae2a10afe15fb33e11a485c2" title="release.tag" alt="" coords="941,161,1037,189"/>
+<area shape="rect" id="node10" href="$d6/db8/classG4GDMLReadStructure.html#a27f2effadb9c1ba11233376174f72ab8" title="G4GDMLReadStructure\l::Volume_contentRead" alt="" coords="229,272,405,316"/>
+<area shape="rect" id="node3" href="$de/d82/namespacerelease.html#a44eacb239a3470341e19e7cef690bcbf" title="release.get_current\l_branch" alt="" coords="1137,213,1290,257"/>
+<area shape="rect" id="node4" href="$de/d82/namespacerelease.html#a23ccb4765230c4db38ba2dd5320597ce" title="release.split_version" alt="" coords="1134,281,1293,309"/>
+<area shape="rect" id="node5" href="$de/d82/namespacerelease.html#ade2f0fa1de108c5a0879b42a5876362e" title="release.format_version" alt="" coords="1125,333,1301,361"/>
+<area shape="rect" id="node6" href="$d6/d72/namespaceutil.html#ac8015eb2508544e525f64f4bd01fd5d8" title="util.Spinner" alt="" coords="1387,20,1487,48"/>
+<area shape="rect" id="node7" href="$de/d82/namespacerelease.html#a6389d77b4d19ef3218eec0ddc3b0db0f" title="release.check_branch\l_exists" alt="" coords="1129,41,1297,85"/>
+<area shape="rect" id="node8" href="$dd/d94/fun4all__tutorials_2blob_2master_2materialscan_2matscan_8C.html#a388f572c62279f839ee138a9afbdeeb5" title="print" alt="" coords="1187,109,1240,137"/>
+<area shape="rect" id="node9" href="$de/d82/namespacerelease.html#a831d8ad05fd79f8b6986a6bcea97c138" title="release.confirm" alt="" coords="1151,161,1276,189"/>
+<area shape="rect" id="node11" href="$d6/db8/classG4GDMLReadStructure.html#a9231fbdfd90ae64f5608686d7a1bfcc5" title="G4GDMLReadStructure\l::DivisionvolRead" alt="" coords="677,340,853,384"/>
+<area shape="rect" id="node18" href="$d6/db8/classG4GDMLReadStructure.html#a58817826c555fe93dac9d415e9ea8746" title="G4GDMLReadStructure\l::PhysvolRead" alt="" coords="453,476,629,520"/>
+<area shape="rect" id="node23" href="$d6/db8/classG4GDMLReadStructure.html#abd04f087c3dfd6546a1ada60cfb8dded" title="G4GDMLReadStructure\l::ReplicavolRead" alt="" coords="453,272,629,316"/>
+<area shape="rect" id="node12" href="$d6/db8/classG4GDMLReadStructure.html#ac6811a588a96ae668af65c01919f3988" title="G4GDMLReadStructure\l::GetVolume" alt="" coords="901,487,1077,531"/>
+<area shape="rect" id="node17" href="$d4/dad/eicroot_8C.html#a9392a90f93e785e9ed60558fddd33359" title="width" alt="" coords="960,349,1019,377"/>
+<area shape="rect" id="node13" href="$d9/df2/classG4LogicalVolumeStore.html#ad15e17569c3b8dab167961e61c38b3ba" title="G4LogicalVolumeStore\l::GetInstance" alt="" coords="1573,429,1747,473"/>
+<area shape="rect" id="node14" href="$d9/df2/classG4LogicalVolumeStore.html#a31f5f1ce093a26d3fc92aa46e804c92b" title="G4LogicalVolumeStore\l::GetVolume" alt="" coords="1127,488,1300,532"/>
+<area shape="rect" id="node15" href="$d9/df2/classG4LogicalVolumeStore.html#a738ac9ba52c1e806c93f11df358c6b6a" title="G4LogicalVolumeStore\l::UpdateMap" alt="" coords="1351,489,1524,533"/>
+<area shape="rect" id="node16" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="1637,587,1683,615"/>
+<area shape="rect" id="node19" href="$d6/db8/classG4GDMLReadStructure.html#afe18d6aa3305fd08195316107db4fc1d" title="G4GDMLReadStructure\l::FileRead" alt="" coords="677,612,853,656"/>
+<area shape="rect" id="node21" href="$d6/db8/classG4GDMLReadStructure.html#a9f564bcb1d38d28f12accc0fecc9d54f" title="G4GDMLReadStructure\l::GetAssembly" alt="" coords="1349,609,1525,653"/>
+<area shape="rect" id="node22" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a55c39f48968d9e4b4b4fb12b227cea22" title="Access the three&#45;position components in a four&#45;position vector." alt="" coords="912,407,1067,451"/>
+<area shape="rect" id="node20" href="$d6/db8/classG4GDMLReadStructure.html#ab524b9b888e28fe7820ed7be35f1b307" title="G4GDMLReadStructure\l::GetAuxMap" alt="" coords="901,612,1077,656"/>
+<area shape="rect" id="node24" href="$d6/db8/classG4GDMLReadStructure.html#a6b29831571b7705f1a52698da4415b9a" title="G4GDMLReadStructure\l::ReplicaRead" alt="" coords="677,272,853,316"/>
+<area shape="rect" id="node25" href="$d6/db8/classG4GDMLReadStructure.html#a72cae0fe8160c9d82c991275a1a63ad2" title="G4GDMLReadStructure\l::AxisRead" alt="" coords="901,213,1077,257"/>
+<area shape="rect" id="node26" href="$d6/db8/classG4GDMLReadStructure.html#a816f489b8e1b154f9cb5627b88a3406f" title="G4GDMLReadStructure\l::QuantityRead" alt="" coords="901,281,1077,325"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="erhic::hadronic::Pythia6EventFactory" name="erhic::hadronic::Pythia6EventFactory">
+<area shape="rect" id="node2" href="$da/d91/classerhic_1_1VirtualEventFactory.html" title="erhic::VirtualEventFactory" alt="" coords="925,109,1121,137"/>
+<area shape="rect" id="node3" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="39,41,115,69"/>
+<area shape="rect" id="node10" href="$da/d46/classerhic_1_1VirtualEvent.html" title="Abstract base class for a physics event." alt="" coords="197,5,344,33"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="226,169,315,197"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="5,161,148,205"/>
+<area shape="rect" id="node8" href="$d1/d4c/classerhic_1_1hadronic_1_1EventPythiaPP.html" title="erhic::hadronic::EventPythiaPP" alt="" coords="909,41,1137,69"/>
+<area shape="rect" id="node9" href="$d7/dd9/classerhic_1_1hadronic_1_1EventMC.html" title="erhic::hadronic::EventMC" alt="" coords="471,5,661,33"/>
+<area shape="rect" id="node12" href="$d3/d7e/classerhic_1_1EventMCFilterABC.html" title="erhic::EventMCFilterABC" alt="" coords="474,229,658,257"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="GFKalman::calcGain" name="GFKalman::calcGain">
+<area shape="rect" id="node2" href="$de/dc7/namespaceGFTools.html#a91584ea29490044c1bdd8270f39400e6" title="Invert a matrix, throwing GFException when inversion fails." alt="" coords="211,5,375,33"/>
+<area shape="rect" id="node3" href="$df/d55/classGFException.html#a886ef3de22cdff9ceee36449be8643c2" title="set fatal flag. if this is true, the fit stops for this current track repr." alt="" coords="423,5,589,33"/>
+</map>

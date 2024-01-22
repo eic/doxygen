@@ -1,0 +1,35 @@
+<map id="G4GDMLReadStructure::StructureRead" name="G4GDMLReadStructure::StructureRead">
+<area shape="rect" id="node2" href="$d6/db8/classG4GDMLReadStructure.html#a36d41595d6e4c1c44ba5f6064625b9e6" title="G4GDMLReadStructure\l::AssemblyRead" alt="" coords="453,510,629,554"/>
+<area shape="rect" id="node13" href="$de/d82/namespacerelease.html#ac63a4e24ae2a10afe15fb33e11a485c2" title="release.tag" alt="" coords="1165,587,1261,615"/>
+<area shape="rect" id="node21" href="$d6/db8/classG4GDMLReadStructure.html#a10691514a6f4ed8d9c74aab0d16089f8" title="G4GDMLReadStructure\l::BorderSurfaceRead" alt="" coords="901,842,1077,886"/>
+<area shape="rect" id="node26" href="$d6/db8/classG4GDMLReadStructure.html#aa8886f44ed570b35b7049526690026a3" title="G4GDMLReadStructure\l::SkinSurfaceRead" alt="" coords="901,128,1077,172"/>
+<area shape="rect" id="node27" href="$d6/db8/classG4GDMLReadStructure.html#ad3d6d13740e8a033f6aa9743d96e9269" title="G4GDMLReadStructure\l::VolumeRead" alt="" coords="229,676,405,720"/>
+<area shape="rect" id="node3" href="$d6/db8/classG4GDMLReadStructure.html#a58817826c555fe93dac9d415e9ea8746" title="G4GDMLReadStructure\l::PhysvolRead" alt="" coords="677,340,853,384"/>
+<area shape="rect" id="node4" href="$d6/db8/classG4GDMLReadStructure.html#afe18d6aa3305fd08195316107db4fc1d" title="G4GDMLReadStructure\l::FileRead" alt="" coords="901,60,1077,104"/>
+<area shape="rect" id="node6" href="$d6/db8/classG4GDMLReadStructure.html#ac6811a588a96ae668af65c01919f3988" title="G4GDMLReadStructure\l::GetVolume" alt="" coords="1125,179,1301,223"/>
+<area shape="rect" id="node11" href="$d6/db8/classG4GDMLReadStructure.html#a9f564bcb1d38d28f12accc0fecc9d54f" title="G4GDMLReadStructure\l::GetAssembly" alt="" coords="1581,239,1757,283"/>
+<area shape="rect" id="node12" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a55c39f48968d9e4b4b4fb12b227cea22" title="Access the three&#45;position components in a four&#45;position vector." alt="" coords="1136,315,1291,359"/>
+<area shape="rect" id="node5" href="$d6/db8/classG4GDMLReadStructure.html#ab524b9b888e28fe7820ed7be35f1b307" title="G4GDMLReadStructure\l::GetAuxMap" alt="" coords="1125,59,1301,103"/>
+<area shape="rect" id="node10" href="$dc/de5/PHG4mRICHDetector_8cc.html#a11ded6fc3d3fab0e72612c3886df87a0" title="pos" alt="" coords="1876,218,1921,246"/>
+<area shape="rect" id="node7" href="$d9/df2/classG4LogicalVolumeStore.html#ad15e17569c3b8dab167961e61c38b3ba" title="G4LogicalVolumeStore\l::GetInstance" alt="" coords="1812,8,1985,52"/>
+<area shape="rect" id="node8" href="$d9/df2/classG4LogicalVolumeStore.html#a31f5f1ce093a26d3fc92aa46e804c92b" title="G4LogicalVolumeStore\l::GetVolume" alt="" coords="1353,80,1527,124"/>
+<area shape="rect" id="node9" href="$d9/df2/classG4LogicalVolumeStore.html#a738ac9ba52c1e806c93f11df358c6b6a" title="G4LogicalVolumeStore\l::UpdateMap" alt="" coords="1583,68,1756,112"/>
+<area shape="rect" id="node14" href="$de/d82/namespacerelease.html#a44eacb239a3470341e19e7cef690bcbf" title="release.get_current\l_branch" alt="" coords="1363,650,1517,694"/>
+<area shape="rect" id="node15" href="$de/d82/namespacerelease.html#a23ccb4765230c4db38ba2dd5320597ce" title="release.split_version" alt="" coords="1361,718,1519,746"/>
+<area shape="rect" id="node16" href="$de/d82/namespacerelease.html#ade2f0fa1de108c5a0879b42a5876362e" title="release.format_version" alt="" coords="1352,374,1528,402"/>
+<area shape="rect" id="node17" href="$d6/d72/namespaceutil.html#ac8015eb2508544e525f64f4bd01fd5d8" title="util.Spinner" alt="" coords="1619,456,1719,484"/>
+<area shape="rect" id="node18" href="$de/d82/namespacerelease.html#a6389d77b4d19ef3218eec0ddc3b0db0f" title="release.check_branch\l_exists" alt="" coords="1356,478,1524,522"/>
+<area shape="rect" id="node19" href="$dd/d94/fun4all__tutorials_2blob_2master_2materialscan_2matscan_8C.html#a388f572c62279f839ee138a9afbdeeb5" title="print" alt="" coords="1413,546,1467,574"/>
+<area shape="rect" id="node20" href="$de/d82/namespacerelease.html#a831d8ad05fd79f8b6986a6bcea97c138" title="release.confirm" alt="" coords="1377,598,1503,626"/>
+<area shape="rect" id="node22" href="$d6/db8/classG4GDMLReadStructure.html#a1ee4b429cdde28956338f57c637715a6" title="G4GDMLReadStructure\l::GetPhysvol" alt="" coords="1125,830,1301,874"/>
+<area shape="rect" id="node23" href="$d9/dbb/classG4PhysicalVolumeStore.html#a09d077495aa771a23ca10e8299b854e3" title="G4PhysicalVolumeStore\l::GetInstance" alt="" coords="1808,774,1989,818"/>
+<area shape="rect" id="node24" href="$d9/dbb/classG4PhysicalVolumeStore.html#a136f8e34ac0755cfca6cdad80496f71e" title="G4PhysicalVolumeStore\l::GetVolume" alt="" coords="1349,770,1531,814"/>
+<area shape="rect" id="node25" href="$d9/dbb/classG4PhysicalVolumeStore.html#a528ce71d0942cfbf96f08d78ae09b7b0" title="G4PhysicalVolumeStore\l::UpdateMap" alt="" coords="1579,714,1760,758"/>
+<area shape="rect" id="node28" href="$d6/db8/classG4GDMLReadStructure.html#a27f2effadb9c1ba11233376174f72ab8" title="G4GDMLReadStructure\l::Volume_contentRead" alt="" coords="453,630,629,674"/>
+<area shape="rect" id="node29" href="$d6/db8/classG4GDMLReadStructure.html#abd04f087c3dfd6546a1ada60cfb8dded" title="G4GDMLReadStructure\l::ReplicavolRead" alt="" coords="677,570,853,614"/>
+<area shape="rect" id="node34" href="$d6/db8/classG4GDMLReadStructure.html#a9231fbdfd90ae64f5608686d7a1bfcc5" title="G4GDMLReadStructure\l::DivisionvolRead" alt="" coords="901,468,1077,512"/>
+<area shape="rect" id="node30" href="$d6/db8/classG4GDMLReadStructure.html#a6b29831571b7705f1a52698da4415b9a" title="G4GDMLReadStructure\l::ReplicaRead" alt="" coords="901,400,1077,444"/>
+<area shape="rect" id="node31" href="$d6/db8/classG4GDMLReadStructure.html#a72cae0fe8160c9d82c991275a1a63ad2" title="G4GDMLReadStructure\l::AxisRead" alt="" coords="1125,383,1301,427"/>
+<area shape="rect" id="node32" href="$d6/db8/classG4GDMLReadStructure.html#a816f489b8e1b154f9cb5627b88a3406f" title="G4GDMLReadStructure\l::QuantityRead" alt="" coords="1125,451,1301,495"/>
+<area shape="rect" id="node33" href="$d4/dad/eicroot_8C.html#a9392a90f93e785e9ed60558fddd33359" title="width" alt="" coords="1184,519,1243,547"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="trackProximity" name="trackProximity">
+<area shape="rect" id="node2" href="$d7/d82/classGFAbsTrackRep.html#a38cf14b05d28d6793437aee1c035ab90" title="This method is to extrapolate the track to point of closest approach to a point in space..." alt="" coords="172,5,383,49"/>
+<area shape="rect" id="node4" href="$d0/d4b/classGFDetPlane.html#aa97de18db306e41a6e11987dabcb0857" title="GFDetPlane::setNormal" alt="" coords="188,73,367,101"/>
+<area shape="rect" id="node5" href="$d0/d4b/classGFDetPlane.html#ad00ea381063d3b8826dcec198fcf067e" title="GFDetPlane::setO" alt="" coords="207,177,347,205"/>
+<area shape="rect" id="node8" href="$d7/d82/classGFAbsTrackRep.html#ac4d9796deccf8c50e049aa4b942eceef" title="make step of h cm along the track" alt="" coords="177,125,377,153"/>
+<area shape="rect" id="node9" href="$dd/d4f/GFTrackProximity_8cxx.html#aa9758c83f1ee1cf44922290713f977e3" title="trkDist" alt="" coords="244,229,311,257"/>
+<area shape="rect" id="node3" href="$d7/d82/classGFAbsTrackRep.html#a3ca0fe759dc3dcd9cdc267d60dd0d5c4" title="GFAbsTrackRep::Abort" alt="" coords="435,69,605,97"/>
+<area shape="rect" id="node6" href="$d0/d4b/classGFDetPlane.html#a5f8a23fc4ccc7133419d082615c079bd" title="GFDetPlane::sane" alt="" coords="449,177,591,205"/>
+<area shape="rect" id="node7" href="$d0/d4b/classGFDetPlane.html#a3a7f63a8a4f819531fc9722747113405" title="GFDetPlane::getNormal" alt="" coords="657,177,837,205"/>
+<area shape="rect" id="node10" href="$d7/d82/classGFAbsTrackRep.html#ae193db766222ed11477662250ef08976" title="GFAbsTrackRep::getPos" alt="" coords="431,229,609,257"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="FairRun::AddTask" name="FairRun::AddTask">
+<area shape="rect" id="node2" href="$d9/da4/classFairEventManager.html#ae561ec9d6a082700465875c3c0ea1616" title="FairEventManager::AddTask" alt="" coords="213,5,421,33"/>
+<area shape="rect" id="node4" href="$d3/d61/classEicRunSim.html#a068fa0d239dc905e1d99996af4f4d764" title="EicRunSim::DefineFluxMonitorGrid" alt="" coords="191,57,444,85"/>
+<area shape="rect" id="node5" href="$d8/d11/examples_2physics_2config_82_2digitization_8C.html#afd97e93afdacaf415631892fe39fdf2c" title="digitization" alt="" coords="269,109,365,137"/>
+<area shape="rect" id="node6" href="$d2/db6/classEicRecoKalmanTask.html#aac6a1c1f3189d32f32ff8d28326125f9" title="EicRecoKalmanTask::\lEicRecoKalmanTask" alt="" coords="236,161,399,205"/>
+<area shape="rect" id="node7" href="$d1/d76/classPndGeoHandling.html#a7ae043dd89b79afa0e82d8fdcf32a186" title="default constructor. Has to be called in SetParContainers if the support of shortId is needed..." alt="" coords="189,229,445,257"/>
+<area shape="rect" id="node12" href="$dd/df6/classEicEventGenerator.html#a40924445938964cff3db00bb4f59debe" title="EicEventGenerator::\lReadEvent" alt="" coords="239,281,395,325"/>
+<area shape="rect" id="node13" href="$de/d0b/examples_2physics_2config_82_2reconstruction_8C.html#a3d26f5f344cf2281e72b22d404fd8c51" title="reconstruction" alt="" coords="258,349,377,377"/>
+<area shape="rect" id="node3" href="$d4/dc8/examples_2physics_2config_82_2eventDisplay_8C.html#a0dea102c5707fa0bc64fcf379ce890a5" title="eventDisplay" alt="" coords="539,5,648,33"/>
+<area shape="rect" id="node8" href="$d1/d76/classPndGeoHandling.html#ada66633b706490fa2d5c61d670243b06" title="PndGeoHandling::Instance" alt="" coords="493,229,693,257"/>
+<area shape="rect" id="node9" href="$df/d62/classPndRecoDafFit.html#a4a37385379d70e2d73c3c78366ad7601" title="PndRecoDafFit::PndRecoDafFit" alt="" coords="741,169,965,197"/>
+<area shape="rect" id="node10" href="$db/d6d/classPndRecoKalmanFit.html#a00a29060185ed849eee37ebccb71eae6" title="PndRecoKalmanFit::PndReco\lKalmanFit" alt="" coords="747,221,959,265"/>
+<area shape="rect" id="node11" href="$dd/d8c/classPndPidCorrelator.html#a6ba682a19d0ec4388914ec72d636198d" title="PndPidCorrelator::PndPid\lCorrelator" alt="" coords="760,289,947,333"/>
+</map>

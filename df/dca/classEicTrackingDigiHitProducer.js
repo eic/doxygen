@@ -1,0 +1,27 @@
+var classEicTrackingDigiHitProducer =
+[
+    [ "EicTrackingDigiHitProducer", "df/dca/classEicTrackingDigiHitProducer.html#abfe407c7d1876535ebf9a3d51e4f20ae", null ],
+    [ "EicTrackingDigiHitProducer", "df/dca/classEicTrackingDigiHitProducer.html#aed7cab6c169bf74f2c8f32d5eec09412", null ],
+    [ "~EicTrackingDigiHitProducer", "df/dca/classEicTrackingDigiHitProducer.html#a6f8bafc80ad5eb0917ebdcf4f1f8c0e4", null ],
+    [ "AssignDigiHitClassName", "df/dca/classEicTrackingDigiHitProducer.html#a7629118c2fffb7165e9602e7c4dfdbe7", null ],
+    [ "ClassDef", "df/dca/classEicTrackingDigiHitProducer.html#ad703505e91de3f85a6fe358bcc7cd413", null ],
+    [ "DefineKfNodeTemplate1D", "df/dca/classEicTrackingDigiHitProducer.html#a7212955b039235667737c7e9ca17ce37", null ],
+    [ "DefineKfNodeTemplateA", "df/dca/classEicTrackingDigiHitProducer.html#a385af2e2fb84da8616c6e039c06ad338", null ],
+    [ "DefineKfNodeTemplateCore1D", "df/dca/classEicTrackingDigiHitProducer.html#a45fe363199b947b405066a052fe034c6", null ],
+    [ "DefineKfNodeTemplateCore2D", "df/dca/classEicTrackingDigiHitProducer.html#a1abaff750be5a323230285600a8aae14", null ],
+    [ "DefineKfNodeTemplateOrth3D", "df/dca/classEicTrackingDigiHitProducer.html#a13f4dbf2428d13eddcea1d913dd5d8fc", null ],
+    [ "DefineKfNodeTemplateR", "df/dca/classEicTrackingDigiHitProducer.html#a347ea1e91423525bd847e2b2c8bfaefa", null ],
+    [ "DefineKfNodeTemplateRA", "df/dca/classEicTrackingDigiHitProducer.html#a0d85b5565bd9aa87947f16218d602c0e", null ],
+    [ "DefineKfNodeTemplateTZ", "df/dca/classEicTrackingDigiHitProducer.html#aa6173ecdedc4194aa4d51b759cef965b", null ],
+    [ "DefineKfNodeTemplateX", "df/dca/classEicTrackingDigiHitProducer.html#ae96a966cf9e604d1db3d2634230ddca5", null ],
+    [ "DefineKfNodeTemplateXY", "df/dca/classEicTrackingDigiHitProducer.html#ac35e7684946c3c5d183313ac7422ccf4", null ],
+    [ "DefineKfNodeTemplateY", "df/dca/classEicTrackingDigiHitProducer.html#a7c0d9f5125662d32ff1c5fcefd45fd73", null ],
+    [ "ExtraInit", "df/dca/classEicTrackingDigiHitProducer.html#a1ff9471b61292aedf9956e36ae86d19b", null ],
+    [ "Finish", "df/dca/classEicTrackingDigiHitProducer.html#a4adeff93b9d60817a191e4790753f019", null ],
+    [ "getEicDigiParDataPtr", "df/dca/classEicTrackingDigiHitProducer.html#a8dbccddb08c5717c66480f29c4eee1cc", null ],
+    [ "HandleHit", "df/dca/classEicTrackingDigiHitProducer.html#a13bf30baf1c24ee624646ff43681a477", null ],
+    [ "EicHtcTask", "df/dca/classEicTrackingDigiHitProducer.html#ad2a1a0bc187e90067d9da760d39e07c9", null ],
+    [ "mDigiHitClassName", "df/dca/classEicTrackingDigiHitProducer.html#a2ea10ac89faeb1be6a49790e404f9dee", null ],
+    [ "mKfNodeTemplates", "df/dca/classEicTrackingDigiHitProducer.html#a3343e9d7f8b78b2d718d57accbd9bbf0", null ],
+    [ "mSmearingModel", "df/dca/classEicTrackingDigiHitProducer.html#a37e0b1f15aef2d06179a4d53b4dcde8f", null ]
+];

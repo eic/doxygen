@@ -1,0 +1,48 @@
+<map id="ActsExamples::ParametricParticleGenerator::operator()" name="ActsExamples::ParametricParticleGenerator::operator()">
+<area shape="rect" id="node2" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="631,44,675,72"/>
+<area shape="rect" id="node3" href="$dd/d7e/namespaceActs_1_1Test.html#a1a39f9035862f7175922721e11cc38a1" title="Acts::Test::d0Dist" alt="" coords="309,287,449,315"/>
+<area shape="rect" id="node4" href="$df/da1/namespaceActs_1_1VectorHelpers.html#afc1703c2fa7adfd6517e5e16df2e5df4" title="Acts::VectorHelpers::eta" alt="" coords="286,339,471,367"/>
+<area shape="rect" id="node5" href="$dd/d7e/namespaceActs_1_1Test.html#a516f1369a431833dea6f2fbd415d1e07" title="Acts::Test::etaDist" alt="" coords="307,391,451,419"/>
+<area shape="rect" id="node6" href="$d0/d95/ip_8C.html#a292ff32a75b66b513d1f0ce00f9a4dc4" title="ip" alt="" coords="359,443,398,471"/>
+<area shape="rect" id="node39" href="$da/d7b/namespaceActs.html#a94dcaa7e03a177a6b426f72bc8c111aa" title="Acts::makeDirectionUnitFrom\lPhiEta" alt="" coords="269,149,488,193"/>
+<area shape="rect" id="node40" href="$dd/d7e/namespaceActs_1_1Test.html#ac17fc6b397982fd0002d04601f2f57b4" title="Acts::Test::phiDist" alt="" coords="307,495,451,523"/>
+<area shape="rect" id="node41" href="$db/dfd/classActsFatras_1_1Particle.html#a6a76ea804ade195b9939d07d9a78bd26" title="Set the absolute momentum." alt="" coords="303,547,455,591"/>
+<area shape="rect" id="node43" href="$db/dfd/classActsFatras_1_1Particle.html#a10a601efd010f82417545852ec405c25" title="Set the direction three&#45;vector." alt="" coords="303,615,454,659"/>
+<area shape="rect" id="node44" href="$d2/d46/classActsFatras_1_1Barcode.html#a4a64190f3ce62c920ffe6e83f31aa5cf" title="Set the parent particle identifier." alt="" coords="301,683,457,727"/>
+<area shape="rect" id="node45" href="$db/dfd/classActsFatras_1_1Particle.html#a35e8cf1f3ad311c73f701e86db19bb9e" title="Set the space&#45;time position four&#45;vector." alt="" coords="303,751,454,795"/>
+<area shape="rect" id="node47" href="$dd/d7e/namespaceActs_1_1Test.html#a7f4bfb2dc3e868932a6f87727a14750b" title="Acts::Test::z0Dist" alt="" coords="309,819,448,847"/>
+<area shape="rect" id="node7" href="$da/d86/classEicGeoMap.html#a4138a501100028aef473a4b9508d36d3" title="EicGeoMap::AddGeantVolume\lLevel" alt="" coords="828,417,1052,461"/>
+<area shape="rect" id="node9" href="$df/de0/classEicGeoParData.html#a131e36442e699277af7e0e05dd70d7c7" title="EicGeoParData::AddLogical\lVolumeGroup" alt="" coords="1145,736,1349,780"/>
+<area shape="rect" id="node12" href="$dd/d0b/classEicNamePatternHub.html#abe35bc0e1b9b51fa1f2c0c45bcf78dec" title="EicNamePatternHub::\lAddPatternMatch" alt="" coords="571,752,735,796"/>
+<area shape="rect" id="node13" href="$df/de0/classEicGeoParData.html#a0a19d07a4f67c4a5cb0884a9992f44d7" title="EicGeoParData::CreateNewMap" alt="" coords="536,820,769,848"/>
+<area shape="rect" id="node14" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="629,96,676,124"/>
+<area shape="rect" id="node15" href="$df/de0/classEicGeoParData.html#a5464c1947d87d36569891ada6aafb22c" title="EicGeoParData::FinalizeOutput" alt="" coords="539,200,767,228"/>
+<area shape="rect" id="node17" href="$df/de0/classEicGeoParData.html#a98e43e3d66fdb531cabaccd39f09ebc3" title="EicGeoParData::GetColorTable" alt="" coords="827,5,1053,33"/>
+<area shape="rect" id="node24" href="$df/de0/classEicGeoParData.html#a75991633a97d0a9b3140ba103f225691" title="EicGeoParData::GetTransparency\lTable" alt="" coords="817,245,1063,289"/>
+<area shape="rect" id="node26" href="$df/de0/classEicGeoParData.html#af50661ee10308b08071f9feb1b57493b" title="EicGeoParData::GetMedium" alt="" coords="549,304,757,332"/>
+<area shape="rect" id="node29" href="$df/de0/classEicGeoParData.html#a37c307a8b444e89fd125f6d273a1c894" title="EicGeoParData::GetTopVolume" alt="" coords="539,356,767,384"/>
+<area shape="rect" id="node30" href="$de/d6c/fun4all__eicdetectors_2blob_2master_2simulation_2g4simulation_2g4lblvtx_2EicFRichDetector_8cc.html#afa9eab74a86ef9511755e454d4ed5e85" title="rmax" alt="" coords="625,408,681,436"/>
+<area shape="rect" id="node31" href="$df/de0/classEicGeoParData.html#a304fa90a3bc1944d2c997257ed56b6a7" title="EicGeoParData::SetFileName" alt="" coords="545,460,760,488"/>
+<area shape="rect" id="node32" href="$df/de0/classEicGeoParData.html#a85796e06ee06c2b0973409350d2c054d" title="EicGeoParData::SetMapping\lTableEntry" alt="" coords="547,632,758,676"/>
+<area shape="rect" id="node38" href="$da/d86/classEicGeoMap.html#a77e724ceee76044c2346a4b35be1f90e" title="EicGeoMap::SetSingleSensor\lContainerVolume" alt="" coords="544,512,761,556"/>
+<area shape="rect" id="node8" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="1490,528,1549,556"/>
+<area shape="rect" id="node10" href="$dd/d20/classEicBitMask.html#a577897e58c312fcaa8722bea72257e26" title="EicBitMask::GetBitNum" alt="" coords="1431,716,1608,744"/>
+<area shape="rect" id="node11" href="$dd/d20/classEicBitMask.html#a23ae6782cbc30f5fe572692893d5e3bf" title="EicBitMask::SetShift" alt="" coords="1441,608,1597,636"/>
+<area shape="rect" id="node16" href="$dd/d0b/classEicNamePatternHub.html#a8baac9dd7e44ee789555cb040763f903" title="EicNamePatternHub::\lAnyMatch" alt="" coords="858,57,1022,101"/>
+<area shape="rect" id="node18" href="$df/de0/classEicGeoParData.html#a24162311dd8c038e330afbee7a132352" title="EicGeoParData::GetGeometry\lFileName" alt="" coords="829,125,1051,169"/>
+<area shape="rect" id="node25" href="$d0/d2f/classEicDetName.html#aef29cb1ffe2ea071a03f4aa098408595" title="EicDetName::Name" alt="" coords="863,193,1017,221"/>
+<area shape="rect" id="node19" href="$df/de0/classEicGeoParData.html#a7f5db7c4ddc258264f0258a6d8d946b6" title="EicGeoParData::GetGeometryType" alt="" coords="1121,81,1373,109"/>
+<area shape="rect" id="node20" href="$df/de0/classEicGeoParData.html#ae6acf5e5d790c629031c2d7cf12718ef" title="EicGeoParData::GetSubVersion" alt="" coords="1132,133,1361,161"/>
+<area shape="rect" id="node21" href="$df/de0/classEicGeoParData.html#a27907f2aba8817ceb2d97e1a29ecaf40" title="EicGeoParData::GetVersion" alt="" coords="1145,185,1349,213"/>
+<area shape="rect" id="node22" href="$df/de0/classEicGeoParData.html#a09fe5b3481f26b4a771cb7c476d64a1f" title="EicGeoParData::IsTestGeometry" alt="" coords="1129,237,1364,265"/>
+<area shape="rect" id="node23" href="$d0/d2f/classEicDetName.html#afac87377442f69796e0e335e81b96067" title="EicDetName::name" alt="" coords="1171,29,1323,57"/>
+<area shape="rect" id="node27" href="$de/d6a/classFairGeoBuilder.html#a852b0d5861a7a6c1033aab59417d1c79" title="FairGeoBuilder::createMedium" alt="" coords="827,365,1053,393"/>
+<area shape="rect" id="node28" href="$d9/d1e/classFairGeoMedia.html#a0dc27e89d61b8ff40498a48e39b2a2c0" title="FairGeoMedia::getMedium" alt="" coords="841,313,1039,341"/>
+<area shape="rect" id="node33" href="$dd/d20/classEicBitMask.html#aba6083955032532d7dfc95069338dd27" title="EicBitMask::GetBitMask" alt="" coords="850,692,1030,720"/>
+<area shape="rect" id="node34" href="$dd/d20/classEicBitMask.html#a862ce5875cf47f78ff18aaed935966d9" title="EicBitMask::GetShift" alt="" coords="1167,684,1326,712"/>
+<area shape="rect" id="node35" href="$da/d86/classEicGeoMap.html#a9c17af03744fe42ae8daf66f9bda7f06" title="EicGeoMap::SetMappingTable\lEntry" alt="" coords="829,572,1051,616"/>
+<area shape="rect" id="node36" href="$da/d86/classEicGeoMap.html#ad01497111125dccc306dac986d6d10e1" title="EicGeoMap::CalculateBitPattern" alt="" coords="1129,580,1364,608"/>
+<area shape="rect" id="node37" href="$d1/d24/classGeantVolumeLevel.html#a4aba5288354c7287b6fc03cd9d30b2a2" title="GeantVolumeLevel::GetVolumeName" alt="" coords="1111,632,1383,660"/>
+<area shape="rect" id="node42" href="$db/dfd/classActsFatras_1_1Particle.html#affd60965ee11f6a03a08e36fdc0e7851" title="Absolute momentum." alt="" coords="577,872,728,916"/>
+<area shape="rect" id="node46" href="$dd/d7e/namespaceActs_1_1Test.html#a8c7282ff2bd3e374894e4107bf1dc2bd" title="Acts::Test::pos4" alt="" coords="589,940,717,968"/>
+</map>

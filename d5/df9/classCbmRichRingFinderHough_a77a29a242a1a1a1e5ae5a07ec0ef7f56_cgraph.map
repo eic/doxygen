@@ -1,0 +1,34 @@
+<map id="CbmRichRingFinderHough::DoFind" name="CbmRichRingFinderHough::DoFind">
+<area shape="rect" id="node2" href="$d2/d30/classCbmRichRingFinderHoughImpl.html#a4cb7c08d68834a72fcb74bc462b12d22" title="Start point to run algorithm." alt="" coords="251,477,477,521"/>
+<area shape="rect" id="node32" href="$d2/d30/classCbmRichRingFinderHoughImpl.html#a9207a3cfe40539b9a5bc921fd1dbf459" title="Return vector of found rings." alt="" coords="251,545,477,589"/>
+<area shape="rect" id="node33" href="$d2/d30/classCbmRichRingFinderHoughImpl.html#a8b6bb243da3ad1b09cc9723cc49d0686" title="Set array of hits." alt="" coords="251,613,477,657"/>
+<area shape="rect" id="node3" href="$d2/d30/classCbmRichRingFinderHoughImpl.html#aa7afbf8254e77d6b9ba5484e8eff5cd3" title="Run HT for each hit." alt="" coords="525,260,768,304"/>
+<area shape="rect" id="node26" href="$d2/d30/classCbmRichRingFinderHoughImpl.html#a4fe313b8ef573702f076778de9a840c9" title="Ring selection procedure." alt="" coords="1107,1102,1334,1146"/>
+<area shape="rect" id="node4" href="$d2/d30/classCbmRichRingFinderHoughImpl.html#abc1ace10e28a15b7203b2e5cadc14538" title="Find hits in a local area." alt="" coords="816,157,1043,201"/>
+<area shape="rect" id="node5" href="$d2/d30/classCbmRichRingFinderHoughImpl.html#af6b68e62035a80059edd5719b4161929" title="Run HoughTransformGroup for each group of hits." alt="" coords="816,225,1043,269"/>
+<area shape="rect" id="node6" href="$d2/d30/classCbmRichRingFinderHoughImpl.html#a87444511c27f63a55d1110b55283df99" title="Find peak in the HT histograms." alt="" coords="816,293,1043,337"/>
+<area shape="rect" id="node7" href="$de/d89/classCbmRichRingLight.html#ab9fbb35cafa00b8f9bc76e005536421b" title="Add new hit to the ring." alt="" coords="1120,189,1321,217"/>
+<area shape="rect" id="node8" href="$de/d89/classCbmRichRingLight.html#ad45c397b52a7882866e354cfcd2c1bd6" title="Return number of hits in ring." alt="" coords="1708,906,1936,934"/>
+<area shape="rect" id="node9" href="$d1/d8d/classCbmRichRingFitterCOP.html#a7d89b2ee77f85e61810847380cb5ffae" title="Inherited from CbmRichRingFitterBase." alt="" coords="1133,293,1308,337"/>
+<area shape="rect" id="node10" href="$de/d89/classCbmRichRingLight.html#a78abf276ad9b4e81849afc5930602335" title="CbmRichRingLight::GetChi2" alt="" coords="1718,188,1926,216"/>
+<area shape="rect" id="node11" href="$de/d89/classCbmRichRingLight.html#aa919c6cf5b852f0b89f0aee7ac8e1573" title="CbmRichRingLight::GetCenterX" alt="" coords="1705,709,1939,737"/>
+<area shape="rect" id="node12" href="$de/d89/classCbmRichRingLight.html#a410d6c9513ea5dde4f59660898139aa7" title="CbmRichRingLight::GetCenterY" alt="" coords="1705,813,1939,841"/>
+<area shape="rect" id="node13" href="$de/d89/classCbmRichRingLight.html#a7075628216df426788b864369f6d9c61" title="CbmRichRingLight::GetRadius" alt="" coords="1710,298,1934,326"/>
+<area shape="rect" id="node14" href="$df/d59/classCbmRichRingSelectAnn.html#a460e67e14cc9ec9f614a02692e63aa3a" title="CbmRichRingSelectAnn\l::DoSelect" alt="" coords="1131,565,1311,609"/>
+<area shape="rect" id="node24" href="$de/d89/classCbmRichRingLight.html#aa53086612b523dad63913ddbf5f81ca7" title="CbmRichRingLight::GetSelectionNN" alt="" coords="1091,85,1351,113"/>
+<area shape="rect" id="node25" href="$d2/d30/classCbmRichRingFinderHoughImpl.html#a037089618d8834d02607c70c3a63b04c" title="Set fIsUsed flag to true for hits attached to the ring." alt="" coords="1415,290,1641,334"/>
+<area shape="rect" id="node15" href="$de/d89/classCbmRichRingLight.html#a6db1a3770fdf9a3c5281f0bfecd9efa6" title="Return radial position of the ring." alt="" coords="1418,410,1638,454"/>
+<area shape="rect" id="node16" href="$de/d89/classCbmRichRingLight.html#a772e927fd4641eedbca0fe1ee299d7db" title="CbmRichRingLight::SetSelectionNN" alt="" coords="1399,478,1657,506"/>
+<area shape="rect" id="node17" href="$de/d89/classCbmRichRingLight.html#a86ff8ff2942cd1ab1103179d5eb5c791" title="CbmRichRingLight::SetNof\lHitsOnRing" alt="" coords="1427,530,1629,574"/>
+<area shape="rect" id="node18" href="$d1/dba/classCbmRichRingSelectImpl.html#ab5ef0bafb7726bc2f46bed37930b7ddf" title="CbmRichRingSelectImpl\l::GetNofHitsOnRingCircle" alt="" coords="1433,718,1623,762"/>
+<area shape="rect" id="node20" href="$de/d89/classCbmRichRingLight.html#af2caa2929d8cdbd9c4da8e5cd5bd66f3" title="CbmRichRingLight::GetNof\lHitsOnRing" alt="" coords="1427,598,1629,642"/>
+<area shape="rect" id="node21" href="$de/d89/classCbmRichRingLight.html#a70834302e2f7c2cf4fb407bd1a45943d" title="CbmRichRingLight::SetAngle" alt="" coords="1421,666,1635,694"/>
+<area shape="rect" id="node22" href="$d1/dba/classCbmRichRingSelectImpl.html#adf3208d912cb3ace9bf440288a3aff25" title="CbmRichRingSelectImpl\l::GetAngle" alt="" coords="1437,786,1619,830"/>
+<area shape="rect" id="node23" href="$de/d89/classCbmRichRingLight.html#a6c7593c19098c63540e9da1f06ac4076" title="CbmRichRingLight::GetAngle" alt="" coords="1419,854,1637,882"/>
+<area shape="rect" id="node19" href="$de/d89/classCbmRichRingLight.html#ac2451e7309a97a6ac4e8d49796e60ac9" title="Return hit by the index." alt="" coords="1723,761,1921,789"/>
+<area shape="rect" id="node27" href="$de/d89/classCbmRichRingLight.html#a5c70e612149fd75fc6fe47668ccfdbda" title="CbmRichRingLight::SetRecFlag" alt="" coords="1413,1110,1643,1138"/>
+<area shape="rect" id="node28" href="$de/d89/classCbmRichRingLight.html#aab317abd74af8e423dce412c3b049456" title="Return hit index in TClonesArray." alt="" coords="1717,1230,1927,1258"/>
+<area shape="rect" id="node29" href="$d2/d30/classCbmRichRingFinderHoughImpl.html#aca224cfe22a1e26284697100c39ec14b" title="Reassign shared hits from two rings to only one of the rings." alt="" coords="1415,1162,1641,1206"/>
+<area shape="rect" id="node30" href="$d2/d30/classCbmRichRingFinderHoughImpl.html#a8e573b38b267283c1ca727bbf0d39b5b" title="Return hit indez in the internal Array." alt="" coords="1709,1162,1935,1206"/>
+<area shape="rect" id="node31" href="$de/d89/classCbmRichRingLight.html#ae3279212ff4649407fae1f4f9d21a8e3" title="Remove hit from the ring." alt="" coords="1707,1110,1937,1138"/>
+</map>

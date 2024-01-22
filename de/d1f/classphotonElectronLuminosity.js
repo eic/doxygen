@@ -1,0 +1,26 @@
+var classphotonElectronLuminosity =
+[
+    [ "photonElectronLuminosity", "de/d1f/classphotonElectronLuminosity.html#a710ececb91d7ddc2b9cf3f8ecea3009a", null ],
+    [ "~photonElectronLuminosity", "de/d1f/classphotonElectronLuminosity.html#ac12d7f6c0a0e5444df49c5aa5036a1d8", null ],
+    [ "gammaTableParse", "de/d1f/classphotonElectronLuminosity.html#a995cd35b7dee624bf9a7524596032db0", null ],
+    [ "photonNucleusDifferentialLuminosity", "de/d1f/classphotonElectronLuminosity.html#ad405f6bf675bf8f63483eeb8c33e1ad7", null ],
+    [ "_baseFileName", "de/d1f/classphotonElectronLuminosity.html#ad7c1746cf36f10db9e41632b71b2d4a0", null ],
+    [ "_beamBreakupMode", "de/d1f/classphotonElectronLuminosity.html#a6c2a19eecbda8959a4c36f128f47acff", null ],
+    [ "_beamLorentzGamma", "de/d1f/classphotonElectronLuminosity.html#ae3857a639d8e2cc2d045e0223e83ec3c", null ],
+    [ "_cmsMaxPhotonEnergy", "de/d1f/classphotonElectronLuminosity.html#a0803ed5607d7ed0fd594004fa85b7686", null ],
+    [ "_cmsMinPhotonEnergy", "de/d1f/classphotonElectronLuminosity.html#a75a40bced2d0832003bfb77731823151", null ],
+    [ "_electronEnergy", "de/d1f/classphotonElectronLuminosity.html#a4b2160c52c5a9fb000020043d84bc10e", null ],
+    [ "_maxGammaQ2", "de/d1f/classphotonElectronLuminosity.html#a3acd91b424c494da3a6c19cd5331cc53", null ],
+    [ "_maxRapidity", "de/d1f/classphotonElectronLuminosity.html#a353a4865bdae30ad2e1b1ff501d23608", null ],
+    [ "_maxW", "de/d1f/classphotonElectronLuminosity.html#aa87f19fb4fc08a63407467fd57707498", null ],
+    [ "_minGammaQ2", "de/d1f/classphotonElectronLuminosity.html#a97470ca97df3a32cd0427ff247e38628", null ],
+    [ "_minW", "de/d1f/classphotonElectronLuminosity.html#a2b4b91bf2f53125778e3dc8cd9589999", null ],
+    [ "_nEBins", "de/d1f/classphotonElectronLuminosity.html#aa8bf30188ddae0f1afad2fcf17992854", null ],
+    [ "_nmbGammaQ2Bins", "de/d1f/classphotonElectronLuminosity.html#ab09ce6f28b8a953b2124d9c9d8de83e3", null ],
+    [ "_nmbRapidityBins", "de/d1f/classphotonElectronLuminosity.html#a55d3c0bb1e6776c019b00444cdb7eb2e", null ],
+    [ "_nmbWBins", "de/d1f/classphotonElectronLuminosity.html#a191ba1db50cc79d4227af4daa8b5f7f8", null ],
+    [ "_productionMode", "de/d1f/classphotonElectronLuminosity.html#a6250747ea559ba214c4914299eaca205", null ],
+    [ "_protonEnergy", "de/d1f/classphotonElectronLuminosity.html#aea3c0384a232a9a43a925777c3434897", null ],
+    [ "_targetMaxPhotonEnergy", "de/d1f/classphotonElectronLuminosity.html#a166223d6363c7204867f46b1f66a8804", null ],
+    [ "_targetMinPhotonEnergy", "de/d1f/classphotonElectronLuminosity.html#a5c5026e947f18c5dd0002dc70e606a3e", null ]
+];

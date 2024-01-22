@@ -1,0 +1,51 @@
+<map id="fun4all_coresoftware/blob/master/offline/packages/trackbase/ActsSurfaceMaps.h" name="fun4all_coresoftware/blob/master/offline/packages/trackbase/ActsSurfaceMaps.h">
+<area shape="rect" id="node2" href="$df/dee/MicromegasClusterizer_8h.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/micromegas/Micromegas\lClusterizer.h" alt="" coords="203,129,468,205"/>
+<area shape="rect" id="node7" href="$d3/d54/TpcClusterizer_8h.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/tpc/TpcClusterizer.h" alt="" coords="585,137,814,197"/>
+<area shape="rect" id="node10" href="$d5/dd4/PHTpcCentralMembraneClusterizer_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/tpccalib/PHTpcCentral\lMembraneClusterizer.cc" alt="" coords="3259,253,3503,329"/>
+<area shape="rect" id="node11" href="$de/d0b/PHTpcResiduals_8h.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/tpccalib/PHTpcResiduals.h" alt="" coords="838,137,1110,197"/>
+<area shape="rect" id="node13" href="$dd/d53/TpcDirectLaserReconstruction_8cc.html" title="performs the reconstruction of TPC direct laser tracks" alt="" coords="2686,377,2905,453"/>
+<area shape="rect" id="node14" href="$d8/d40/ActsSurfaceMaps_8cc.html" title="maps hitsetids to Acts Surfaces" alt="" coords="7539,129,7785,205"/>
+<area shape="rect" id="node15" href="$de/dd2/ActsTransformations_8h.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackbase_historic\l/ActsTransformations.h" alt="" coords="4341,129,4559,205"/>
+<area shape="rect" id="node26" href="$d8/df7/PHCASeeding_8cc.html" title="Track seeding using ALICE&#45;style &quot;cellular automaton&quot; (CA) algorithm ." alt="" coords="4397,385,4671,445"/>
+<area shape="rect" id="node31" href="$d4/dff/PHTpcClusterMover_8h.html" title="Class for moving corrected TPC clusters to the nearest TPC readout layer radius." alt="" coords="2980,253,3235,329"/>
+<area shape="rect" id="node35" href="$d3/da0/QAG4SimulationIntt_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/QA/modules/QAG4SimulationIntt.cc" alt="" coords="6042,261,6309,321"/>
+<area shape="rect" id="node36" href="$de/dc2/QAG4SimulationMicromegas_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/QA/modules/QAG4SimulationMicromegas.cc" alt="" coords="6333,261,6658,321"/>
+<area shape="rect" id="node37" href="$dc/d43/QAG4SimulationMvtx_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/QA/modules/QAG4SimulationMvtx.cc" alt="" coords="6683,261,6959,321"/>
+<area shape="rect" id="node38" href="$dd/da2/QAG4SimulationTpc_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/QA/modules/QAG4SimulationTpc.cc" alt="" coords="7328,261,7596,321"/>
+<area shape="rect" id="node39" href="$d5/dfd/DSTEmulator_8h.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4eval/DSTEmulator.h" alt="" coords="6983,261,7253,321"/>
+<area shape="rect" id="node40" href="$d7/dd1/SvtxEvaluator_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4eval/SvtxEvaluator.cc" alt="" coords="7620,261,7901,321"/>
+<area shape="rect" id="node41" href="$d3/d95/ActsEvaluator_8h.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/ActsEvaluator.h" alt="" coords="7809,137,8077,197"/>
+<area shape="rect" id="node42" href="$df/da1/MakeActsGeometry_8h.html" title="Make Acts geometry from sPHENIX TGeometry." alt="" coords="885,501,1113,577"/>
+<area shape="rect" id="node43" href="$d9/d89/PHActsSiliconSeeding_8h.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsSilicon\lSeeding.h" alt="" coords="1211,129,1465,205"/>
+<area shape="rect" id="node44" href="$dc/d93/PHActsTrkFitter_8h.html" title="Refit SvtxTracks with Acts." alt="" coords="1629,129,1860,205"/>
+<area shape="rect" id="node45" href="$d2/dc6/PHMicromegasTpcTrackMatching_8h.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHMicromegas\lTpcTrackMatching.h" alt="" coords="1955,129,2217,205"/>
+<area shape="rect" id="node46" href="$dd/d5d/PHSiliconTpcTrackMatching_8h.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHSilicon\lTpcTrackMatching.h" alt="" coords="2301,129,2527,205"/>
+<area shape="rect" id="node47" href="$d5/d15/PHTpcTrackSeedCircleFit_8h.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHTpcTrack\lSeedCircleFit.h" alt="" coords="2607,129,2848,205"/>
+<area shape="rect" id="node48" href="$d7/dcd/SvtxClusterEval_8h.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4eval/SvtxCluster\lEval.h" alt="" coords="7217,129,7465,205"/>
+<area shape="rect" id="node49" href="$da/d7e/TrackEvaluation_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4eval/TrackEvaluation.cc" alt="" coords="8102,137,8398,197"/>
+<area shape="rect" id="node50" href="$d1/dfa/PHG4TpcPadBaselineShift_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4tpc/PHG4TpcPad\lBaselineShift.cc" alt="" coords="8422,129,8670,205"/>
+<area shape="rect" id="node3" href="$d6/d5e/MicromegasClusterizer_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/micromegas/Micromegas\lClusterizer.cc" alt="" coords="32,253,297,329"/>
+<area shape="rect" id="node4" href="$d7/d4d/G4__Micromegas_8C.html" title="fun4all_macros/blob\l/master/common/G4_Micromegas.C" alt="" coords="1189,517,1453,561"/>
+<area shape="rect" id="node5" href="$da/d3c/G4__Tracking_8C.html" title="fun4all_macros/blob\l/master/common/G4_Tracking.C" alt="" coords="1675,633,1913,677"/>
+<area shape="rect" id="node6" href="$db/de3/G4__Tracking__Genfit_8C.html" title="fun4all_macros/blob\l/master/common/G4_Tracking\l_Genfit.C" alt="" coords="887,625,1111,685"/>
+<area shape="rect" id="node8" href="$d2/d8c/TpcClusterizer_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/tpc/TpcClusterizer.cc" alt="" coords="372,261,608,321"/>
+<area shape="rect" id="node9" href="$d9/db8/G4__TPC_8C.html" title="fun4all_macros/blob\l/master/common/G4_TPC.C" alt="" coords="1217,393,1425,437"/>
+<area shape="rect" id="node12" href="$db/db7/PHTpcResiduals_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/tpccalib/PHTpcResiduals.cc" alt="" coords="835,261,1113,321"/>
+<area shape="rect" id="node16" href="$d2/d5e/TpcDirectLaserReconstruction_8h.html" title="performs the reconstruction of TPC direct laser tracks" alt="" coords="3527,253,3746,329"/>
+<area shape="rect" id="node17" href="$df/d1e/ActsTransformations_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackbase_historic\l/ActsTransformations.cc" alt="" coords="4746,253,4965,329"/>
+<area shape="rect" id="node18" href="$da/d7e/ALICEKF_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/ALICEKF.cc" alt="" coords="4989,261,5223,321"/>
+<area shape="rect" id="node19" href="$d1/d49/PHActsInitialVertexFinder_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsInitial\lVertexFinder.cc" alt="" coords="5247,253,5493,329"/>
+<area shape="rect" id="node20" href="$dd/d34/PHActsSiliconSeeding_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsSilicon\lSeeding.cc" alt="" coords="1290,253,1543,329"/>
+<area shape="rect" id="node21" href="$d1/de3/PHActsToSvtxTracks_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsTo\lSvtxTracks.cc" alt="" coords="5517,253,5741,329"/>
+<area shape="rect" id="node22" href="$d5/d13/PHActsTrkFitter_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsTrk\lFitter.cc" alt="" coords="1771,253,2001,329"/>
+<area shape="rect" id="node23" href="$da/d99/PHActsVertexFinder_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsVertex\lFinder.cc" alt="" coords="5765,253,6018,329"/>
+<area shape="rect" id="node24" href="$d0/d31/PHActsVertexPropagator_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsVertex\lPropagator.cc" alt="" coords="3821,253,4074,329"/>
+<area shape="rect" id="node25" href="$df/de1/PHCASeeding_8h.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHCASeeding.h" alt="" coords="4403,261,4671,321"/>
+<area shape="rect" id="node27" href="$d6/d8d/PHMicromegasTpcTrackMatching_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHMicromegas\lTpcTrackMatching.cc" alt="" coords="2025,253,2288,329"/>
+<area shape="rect" id="node28" href="$d4/d4b/PHSiliconTpcTrackMatching_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHSilicon\lTpcTrackMatching.cc" alt="" coords="2363,253,2588,329"/>
+<area shape="rect" id="node29" href="$db/d76/PHSimpleKFProp_8h.html" title="kalman filter based propagator" alt="" coords="4099,253,4327,329"/>
+<area shape="rect" id="node30" href="$d9/dbd/PHSimpleKFProp_8cc.html" title="kalman filter based propagator" alt="" coords="4043,377,4271,453"/>
+<area shape="rect" id="node32" href="$d6/dce/PHTpcClusterMover_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHTpcCluster\lMover.cc" alt="" coords="2980,377,3235,453"/>
+<area shape="rect" id="node33" href="$dd/d1c/PHTpcDeltaZCorrection_8h.html" title="Navigate along a given track and correct TPC cluster z position to account for particle finite veloci..." alt="" coords="4492,501,4733,577"/>
+<area shape="rect" id="node34" href="$dc/d30/PHTpcTrackSeedCircleFit_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHTpcTrack\lSeedCircleFit.cc" alt="" coords="2663,253,2904,329"/>
+</map>

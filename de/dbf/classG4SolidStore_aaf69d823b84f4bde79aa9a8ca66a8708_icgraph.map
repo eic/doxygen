@@ -1,0 +1,12 @@
+<map id="G4SolidStore::GetInstance" name="G4SolidStore::GetInstance">
+<area shape="rect" id="node2" href="$de/dbf/classG4SolidStore.html#a24729b865694552352a381890983aa4f" title="G4SolidStore::Clean" alt="" coords="275,65,431,93"/>
+<area shape="rect" id="node3" href="$d1/d13/classPHG4PhenixDetector.html#a54bc771c5d554309435684a3532da656" title="this is called by geant to actually construct all detectors" alt="" coords="529,5,691,49"/>
+<area shape="rect" id="node5" href="$de/dbf/classG4SolidStore.html#a6134921626e966d15a9aa46e39a3493b" title="G4SolidStore::DeRegister" alt="" coords="257,117,450,145"/>
+<area shape="rect" id="node6" href="$de/dbf/classG4SolidStore.html#a34d6af81360f0ea9c55b2b5299aaed1a" title="G4SolidStore::GetSolid" alt="" coords="523,315,697,343"/>
+<area shape="rect" id="node7" href="$d0/dd0/classeASTDetectorConstruction.html#a3b0b34c0091acdaaf4667cc41309f2a0" title="eASTDetectorConstruction\l::ListSolids" alt="" coords="253,169,453,213"/>
+<area shape="rect" id="node9" href="$de/dbf/classG4SolidStore.html#a0e651bb4e60507bc562dedae18d1ea93" title="G4SolidStore::Register" alt="" coords="266,289,441,317"/>
+<area shape="rect" id="node10" href="$de/dbf/classG4SolidStore.html#a39d5811c28a2d62b33f68f3c7dd6c657" title="G4SolidStore::SetNotifier" alt="" coords="258,341,449,369"/>
+<area shape="rect" id="node11" href="$de/dbf/classG4SolidStore.html#a4025e1fbbbc634812ad3795ce64b251d" title="G4SolidStore::UpdateMap" alt="" coords="255,393,451,421"/>
+<area shape="rect" id="node4" href="$de/dbf/classG4SolidStore.html#ad3d46a786a76b782fea7ff4648384f0b" title="G4SolidStore::~G4SolidStore" alt="" coords="501,73,719,101"/>
+<area shape="rect" id="node8" href="$d6/d26/classeASTDetectorConstructionMessenger.html#a1ed67715b887ef25d0f8d92844d17d8a" title="eASTDetectorConstruction\lMessenger::SetNewValue" alt="" coords="510,169,710,213"/>
+</map>

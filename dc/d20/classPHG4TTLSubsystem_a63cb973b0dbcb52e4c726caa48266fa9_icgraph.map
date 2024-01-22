@@ -1,0 +1,8 @@
+<map id="PHG4TTLSubsystem::SuperDetector" name="PHG4TTLSubsystem::SuperDetector">
+<area shape="rect" id="node2" href="$db/dd2/G4__TTL__EIC_8C.html#ad7d20212fc885a9728dbba215a8e6206" title="make_barrel_layer" alt="" coords="330,5,477,33"/>
+<area shape="rect" id="node5" href="$db/dd2/G4__TTL__EIC_8C.html#aba1f8d7582d68f0e53dc9800a406cb63" title="make_forward_station" alt="" coords="319,57,488,85"/>
+<area shape="rect" id="node3" href="$db/dd2/G4__TTL__EIC_8C.html#a2362486fac2d57848b4973152c18cb24" title="CTTLSetup" alt="" coords="536,5,629,33"/>
+<area shape="rect" id="node4" href="$d8/da0/G4Setup__ModularDetector_8C.html#a2f02606142212383317946c8ee8622a6" title="G4Setup" alt="" coords="677,57,757,85"/>
+<area shape="rect" id="node6" href="$db/dd2/G4__TTL__EIC_8C.html#a723ad093e7e67d81d3884242d5b53b00" title="ETTLSetup" alt="" coords="536,57,629,85"/>
+<area shape="rect" id="node7" href="$db/dd2/G4__TTL__EIC_8C.html#a5fbeba69a6b9ed5b6189ce6b8cb49a70" title="FTTLSetup" alt="" coords="537,109,629,137"/>
+</map>

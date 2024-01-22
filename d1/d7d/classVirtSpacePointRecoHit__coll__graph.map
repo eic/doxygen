@@ -1,0 +1,10 @@
+<map id="VirtSpacePointRecoHit" name="VirtSpacePointRecoHit">
+<area shape="rect" id="node2" href="$dc/dd7/classGFRecoHitIfc.html" title="SpacepointRecoHit" alt="" coords="23,387,173,415"/>
+<area shape="rect" id="node3" href="$df/d1a/classGFAbsRecoHit.html" title="Base Class for representing a Hit in GENFIT." alt="" coords="5,151,121,179"/>
+<area shape="rect" id="node4" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="129,5,205,33"/>
+<area shape="rect" id="node5" href="$df/db9/classGFSpacepointHitPolicy.html" title="Policy class implementing a space point hit geometry." alt="" coords="129,295,302,323"/>
+<area shape="rect" id="node6" href="$d0/d4b/classGFDetPlane.html" title="Detector plane genfit geometry class." alt="" coords="180,203,280,231"/>
+<area shape="rect" id="node7" href="$d5/d62/classGFAbsFinitePlane.html" title="Abstract base class for implementing arbitrarily shaped finite detector planes." alt="" coords="231,91,368,119"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="361,203,451,231"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="392,83,535,127"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="PHG4Hit::set_scint_id" name="PHG4Hit::set_scint_id">
+<area shape="rect" id="node2" href="$da/deb/classPHG4EnvelopeSteppingAction.html#a155d6699d5ac8ecf898b645a0915a64d" title="stepping action. This defines processing of a single step in a given volume" alt="" coords="221,5,445,49"/>
+<area shape="rect" id="node3" href="$db/d97/classPHG4HcalSteppingAction.html#a8e7f7455c1bd0131036f960d54fdc973" title="stepping action" alt="" coords="238,73,429,117"/>
+<area shape="rect" id="node4" href="$d7/dc2/classPHG4EPDSteppingAction.html#ae1644f36e67123501e351509b3d12843" title="stepping action. This defines processing of a single step in a given volume" alt="" coords="239,141,427,185"/>
+<area shape="rect" id="node5" href="$df/dec/classPHG4InnerHcalSteppingAction.html#a8e48a0e2268f23222bf8acddd9e7a34e" title="stepping action" alt="" coords="221,209,446,253"/>
+<area shape="rect" id="node6" href="$d3/d77/classPHG4OuterHcalSteppingAction.html#a212d3081cbabd0b44034b5467a86a5e2" title="stepping action" alt="" coords="219,277,448,321"/>
+<area shape="rect" id="node7" href="$df/d6e/classPHG4CEmcTestBeamSteppingAction.html#af9643baf5f7c966bad01af39ee6f2b47" title="stepping action" alt="" coords="222,345,445,389"/>
+<area shape="rect" id="node8" href="$d3/d82/classPHG4BbcSteppingAction.html#a1766e3be6a0e8f9b657d8df955090830" title="stepping action" alt="" coords="240,413,427,457"/>
+<area shape="rect" id="node9" href="$d3/df6/classPHG4mRICHSteppingAction.html#a64ef5a64f4e0962c64e7f672fcfba707" title="stepping action" alt="" coords="230,481,437,525"/>
+<area shape="rect" id="node10" href="$de/dea/classPHG4SpacalSteppingAction.html#ad27b2325877c9d504389c79a338d25fe" title="stepping action" alt="" coords="230,549,437,593"/>
+</map>

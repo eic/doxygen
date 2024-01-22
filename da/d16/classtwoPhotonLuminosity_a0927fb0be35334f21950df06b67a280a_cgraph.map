@@ -1,0 +1,22 @@
+<map id="twoPhotonLuminosity::twoPhotonLuminosity" name="twoPhotonLuminosity::twoPhotonLuminosity">
+<area shape="rect" id="node2" href="$da/d16/classtwoPhotonLuminosity.html#af5c286ba38d9c44ec505fa719cffac96" title="twoPhotonLuminosity\l::twoPhotonDifferentialLuminosity" alt="" coords="229,244,480,288"/>
+<area shape="rect" id="node3" href="$d1/d21/classbeamBeamSystem.html#a039e2f7e609c95744ad06eb433688485" title="returns beam particle 1" alt="" coords="957,28,1209,56"/>
+<area shape="rect" id="node4" href="$d4/d51/classnucleus.html#acd58b7873e7d2d42bbc31414e373b89d" title="returns atomic number of nucleus" alt="" coords="780,225,872,253"/>
+<area shape="rect" id="node5" href="$d4/d51/classnucleus.html#afb4d4a7f776a88c10fa0ff433e74463e" title="returns nucleon number of nucleus" alt="" coords="565,329,657,357"/>
+<area shape="rect" id="node6" href="$d1/d21/classbeamBeamSystem.html#a914c7a1b7802ed916928073483e18e7b" title="returns beam particle 2" alt="" coords="965,200,1202,228"/>
+<area shape="rect" id="node7" href="$da/d16/classtwoPhotonLuminosity.html#a0f779a41e31fb77b43596f11d7ac340a" title="twoPhotonLuminosity\l::D2LDMDY" alt="" coords="528,159,695,203"/>
+<area shape="rect" id="node21" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="582,381,641,409"/>
+<area shape="rect" id="node8" href="$da/d16/classtwoPhotonLuminosity.html#a6393ef3648b3317dc4bd7efebbb6f628" title="twoPhotonLuminosity\l::integral" alt="" coords="743,105,909,149"/>
+<area shape="rect" id="node9" href="$d4/d51/classnucleus.html#a31aecce251b8d61c0e36b46ccd3730d7" title="nucleus::nuclearRadius" alt="" coords="994,148,1173,176"/>
+<area shape="rect" id="node10" href="$da/d16/classtwoPhotonLuminosity.html#a8a6d617c7ca5e85d506e6050980cefca" title="twoPhotonLuminosity\l::radmul" alt="" coords="1000,80,1167,124"/>
+<area shape="rect" id="node11" href="$da/d16/classtwoPhotonLuminosity.html#a8bd521444aa452e4f0cd43750fa67d2f" title="twoPhotonLuminosity\l::integrand" alt="" coords="1257,80,1424,124"/>
+<area shape="rect" id="node12" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="1559,5,1615,33"/>
+<area shape="rect" id="node13" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="1565,57,1609,85"/>
+<area shape="rect" id="node14" href="$da/d16/classtwoPhotonLuminosity.html#a8ff8bf8549c251eb66bc79ec6fd6218d" title="twoPhotonLuminosity\l::Nphoton" alt="" coords="1504,109,1671,153"/>
+<area shape="rect" id="node20" href="$d1/d21/classbeamBeamSystem.html#ac31d664ce09dda97e06c2cab564c1120" title="beamBeamSystem::probability\lOfBreakup" alt="" coords="1472,177,1703,221"/>
+<area shape="rect" id="node15" href="$dc/dae/gamma_8F.html#a32168d135528557a384f114255d59f09" title="gamma" alt="" coords="1776,91,1848,119"/>
+<area shape="rect" id="node18" href="$d7/d46/namespacebessel.html#a6d6aa0ba08c052cec22f87399b0c27b1" title="bessel::dbesk1" alt="" coords="1751,143,1873,171"/>
+<area shape="rect" id="node16" href="$d4/d3e/classActs_1_1Logger.html#aee9e687247532b5175713e66b2d2121e" title="create output stream object with internal cache" alt="" coords="1921,91,2057,119"/>
+<area shape="rect" id="node17" href="$df/dce/classActs_1_1Logging_1_1OutputPrintPolicy.html#ab113823970013e1e7f310b36509136ac" title="handle output of debug message" alt="" coords="2105,83,2307,127"/>
+<area shape="rect" id="node19" href="$d7/d46/namespacebessel.html#a7c6ce9404b6a5c90e4d2b3b3afe8b8e7" title="bessel::besI1" alt="" coords="1935,143,2044,171"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="PHObject::identify" name="PHObject::identify">
+<area shape="rect" id="node2" href="$d5/d86/classInttClusterizer.html#aa896d5f1adf8ac34a5ae766fd4d557bc" title="InttClusterizer::Cluster\lLadderCells" alt="" coords="221,9,395,53"/>
+<area shape="rect" id="node4" href="$dc/d12/classMvtxClusterizer.html#a1aa96e33d67d25815d5b5812566cc5b7" title="MvtxClusterizer::ClusterMvtx" alt="" coords="200,79,416,107"/>
+<area shape="rect" id="node6" href="$dd/dd1/classPHGenIntegralv1.html#a72331b55ebd82610ca2dfb1410b207d9" title="PHGenIntegralv1::CopyFrom" alt="" coords="202,131,414,159"/>
+<area shape="rect" id="node7" href="$d9/d3a/classPHPythia8.html#a666ba78355567e24b21c5829a6182d49" title="init interface nodes" alt="" coords="200,183,416,211"/>
+<area shape="rect" id="node9" href="$d9/d3a/classPHPythia8.html#a41d136f61fddb9c587909a77f47444fb" title="Called at the end of all processing." alt="" coords="246,235,370,263"/>
+<area shape="rect" id="node10" href="$d9/d91/classPHG4TrackFastSim.html#a71755fbb0a6a64a2e6e5b75471b853c0" title="PHG4TrackFastSim::GetNodes" alt="" coords="197,287,419,315"/>
+<area shape="rect" id="node12" href="$db/d78/classB0TrackFastSim.html#a3ea966359ba64b63fa4204ee8cd462c1" title="B0TrackFastSim::GetNodes" alt="" coords="207,339,409,367"/>
+<area shape="rect" id="node14" href="$dd/dd1/classPHGenIntegralv1.html#aafbab772806c3e21532a4b7f0f5c0436" title="For integral objects, e.g. integrated luminosity counter, integrate with another object from another ..." alt="" coords="205,391,411,419"/>
+<area shape="rect" id="node15" href="$da/d29/classFun4AllServer.html#a9f3d1244af909e1f05789a68fc0d4704" title="Fun4AllServer::NodeIdentify" alt="" coords="203,443,413,471"/>
+<area shape="rect" id="node16" href="$d7/db5/classDumpTrkrClusterHitAssoc.html#a1c0045d53b0e3ec9f5536765c0d81ab8" title="DumpTrkrClusterHitAssoc\l::process_Node" alt="" coords="211,495,405,539"/>
+<area shape="rect" id="node3" href="$d5/d86/classInttClusterizer.html#a12f21f7ac9373c592f8ba3e7287f6c8a" title="event processing" alt="" coords="479,5,657,49"/>
+<area shape="rect" id="node5" href="$dc/d12/classMvtxClusterizer.html#a65c6ecb960ca545df424342dbe6de5b8" title="event processing" alt="" coords="475,73,661,117"/>
+<area shape="rect" id="node8" href="$d9/d3a/classPHPythia8.html#a97cf037053bd6b3bdb48a38aa571ae81" title="PHPythia8::Init" alt="" coords="507,183,629,211"/>
+<area shape="rect" id="node11" href="$d9/d91/classPHG4TrackFastSim.html#a7ed1ea5f4718d84d769f1563b5147f71" title="Initialization Run, called for initialization of a run." alt="" coords="467,287,669,315"/>
+<area shape="rect" id="node13" href="$db/d78/classB0TrackFastSim.html#ae88253b921c5508fefb30491904adbec" title="Initialization Run, called for initialization of a run." alt="" coords="477,339,659,367"/>
+</map>

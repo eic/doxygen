@@ -1,0 +1,15 @@
+<map id="GFAbsRecoHit::getMeasurement" name="GFAbsRecoHit::getMeasurement">
+<area shape="rect" id="node2" href="$d1/dce/classGFDaf.html#a29568e85716d0ac4fd69d290f86ad98d" title="Calculate the weights for the next fitting pass." alt="" coords="521,5,675,33"/>
+<area shape="rect" id="node7" href="$d0/de1/classGFKalman.html#acc724fe7b3b1538d5808c455d525b1c6" title="Calculates chi2 of a given hit with respect to a given track representation." alt="" coords="293,55,465,83"/>
+<area shape="rect" id="node8" href="$d4/d33/classGFTrack.html#a88c09537dc791d75150f39ce2c6df817" title="Get residuals." alt="" coords="294,107,465,135"/>
+<area shape="rect" id="node9" href="$d0/de1/classGFKalman.html#a75a13f3e2a66f83503bafe2e7e4a3590" title="One Kalman step." alt="" coords="294,159,465,187"/>
+<area shape="rect" id="node3" href="$d1/dce/classGFDaf.html#acae6182be114ea4c813d0bb8995343a4" title="Process a track using the DAF." alt="" coords="971,12,1131,40"/>
+<area shape="rect" id="node4" href="$df/d62/classPndRecoDafFit.html#a71b624dff0fc50e252d2d2b9eed898ee" title="PndRecoDafFit::Fit" alt="" coords="1209,12,1353,40"/>
+<area shape="rect" id="node5" href="$d7/d87/classPndRecoKalmanTask.html#aa92916b999aeaf87e99fb08734ce368e" title="PndRecoKalmanTask::Exec" alt="" coords="1425,39,1625,67"/>
+<area shape="rect" id="node6" href="$d2/db6/classEicRecoKalmanTask.html#a10103a96af9664a82027040c505bfff1" title="EicRecoKalmanTask::Exec" alt="" coords="1673,39,1868,67"/>
+<area shape="rect" id="node10" href="$d0/de1/classGFKalman.html#ad19563b99c556c39f3c00995741cda0c" title="Performs fit on a GFTrack beginning with the current hit." alt="" coords="513,107,683,135"/>
+<area shape="rect" id="node11" href="$d0/de1/classGFKalman.html#ae47486960d827df0e414e068dc6d25fb" title="Performs fit on a GFTrack." alt="" coords="731,81,917,109"/>
+<area shape="rect" id="node12" href="$d0/de1/classGFKalman.html#aff929179fdd81ad4eb7727bc75ce9b88" title="Operator for use with STL." alt="" coords="967,68,1134,96"/>
+<area shape="rect" id="node13" href="$db/d6d/classPndRecoKalmanFit.html#af5a66632d2917c60057bd37109ec7364" title="PndRecoKalmanFit::Fit" alt="" coords="965,120,1136,148"/>
+<area shape="rect" id="node14" href="$d2/d28/classPndRecoMultiKalmanTask.html#a79938b3ab7bca0cc183821c03520553a" title="PndRecoMultiKalmanTask\l::Exec" alt="" coords="1184,116,1377,160"/>
+</map>

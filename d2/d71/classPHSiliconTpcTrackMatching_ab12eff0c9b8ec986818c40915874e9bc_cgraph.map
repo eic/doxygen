@@ -1,0 +1,10 @@
+<map id="PHSiliconTpcTrackMatching::copySiliconClustersToCorrectedMap" name="PHSiliconTpcTrackMatching::copySiliconClustersToCorrectedMap">
+<area shape="rect" id="node2" href="$d7/d8b/classSvtxTrackMap.html#ad2331baa3dff9acb452f5329334e2803" title="SvtxTrackMap::begin" alt="" coords="355,5,517,33"/>
+<area shape="rect" id="node3" href="$d2/db8/classSvtxTrack.html#a59e8bacd45312ca7868bc090c6fefb06" title="SvtxTrack::begin_cluster_keys" alt="" coords="324,57,548,85"/>
+<area shape="rect" id="node4" href="$d6/dfa/classTrkrCluster.html#a1de4a1cff88fe1a7076a3ec5aa9e941b" title="copy content from base class" alt="" coords="350,109,522,137"/>
+<area shape="rect" id="node5" href="$d7/d8b/classSvtxTrackMap.html#a0f55635c85de394ace238061dfe38736" title="SvtxTrackMap::end" alt="" coords="361,161,511,189"/>
+<area shape="rect" id="node6" href="$d2/db8/classSvtxTrack.html#a73a7625ecced41e34552518eefc13ade" title="SvtxTrack::end_cluster_keys" alt="" coords="331,213,541,241"/>
+<area shape="rect" id="node7" href="$d0/d2c/classTrkrClusterContainer.html#a6f26d0655c81919f5539934e0d0fc438" title="find cluster matching given key" alt="" coords="355,265,517,309"/>
+<area shape="rect" id="node8" href="$d0/d2c/classTrkrClusterContainer.html#a3a7c7ea7c7d9ff715c885f9346b893eb" title="find cluster matching key if any, add a new one otherwise and return cluster" alt="" coords="355,333,517,377"/>
+<area shape="rect" id="node9" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="363,401,509,429"/>
+</map>

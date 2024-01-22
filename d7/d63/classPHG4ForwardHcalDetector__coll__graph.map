@@ -1,0 +1,17 @@
+<map id="PHG4ForwardHcalDetector" name="PHG4ForwardHcalDetector">
+<area shape="rect" id="node2" href="$d3/de7/classPHG4Detector.html" title="base class for phenix detector creation" alt="" coords="1845,545,1963,573"/>
+<area shape="rect" id="node3" href="$db/df7/classPHG4Subsystem.html" title="PHG4Subsystem" alt="" coords="1473,489,1606,517"/>
+<area shape="rect" id="node4" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="1063,445,1164,473"/>
+<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="607,445,711,473"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="253,415,342,443"/>
+<area shape="rect" id="node9" href="$dc/d82/classPHNode.html" title="PHNode" alt="" coords="621,537,696,565"/>
+<area shape="rect" id="node12" href="$d2/d44/classPHG4DisplayAction.html" title="PHG4DisplayAction" alt="" coords="583,641,734,669"/>
+<area shape="rect" id="node17" href="$dd/dae/classPHParameters.html" title="PHParameters" alt="" coords="1055,235,1171,263"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="5,407,148,451"/>
+<area shape="rect" id="node8" href="$d5/dca/classPHCompositeNode.html" title="PHCompositeNode" alt="" coords="1466,545,1613,573"/>
+<area shape="rect" id="node10" href="$d6/d86/classPHPointerList.html" title="PHPointerList\&lt; PHNode \&gt;" alt="" coords="1017,549,1210,577"/>
+<area shape="rect" id="node11" href="$d5/d6b/classPHG4ForwardHcalDisplayAction.html" title="PHG4ForwardHcalDisplayAction" alt="" coords="996,667,1231,695"/>
+<area shape="rect" id="node18" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="617,73,701,101"/>
+<area shape="rect" id="node19" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="259,73,335,101"/>
+<area shape="rect" id="node24" href="$df/d9c/structPHG4ForwardEcalDetector_1_1towerposition.html" title="PHG4ForwardEcalDetector\l::towerposition" alt="" coords="197,5,397,49"/>
+</map>

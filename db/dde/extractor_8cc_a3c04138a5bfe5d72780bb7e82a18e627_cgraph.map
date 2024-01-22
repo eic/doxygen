@@ -1,0 +1,22 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d9/dac/classBeamLine.html#a91e6658d3093640f265256fc6a94af90" title="BeamLine::AddDataFile" alt="" coords="115,131,294,159"/>
+<area shape="rect" id="node3" href="$d9/dac/classBeamLine.html#ac72a5e50c6d4b506027c4854ce72a26a" title="BeamLine::AddSurveyFile" alt="" coords="108,183,301,211"/>
+<area shape="rect" id="node4" href="$d4/de2/G4__BeamLine__JLeic_8C.html#a71a429d159497bb46f53bd5f0d948efb" title="BeamLine" alt="" coords="161,235,249,263"/>
+<area shape="rect" id="node13" href="$d4/d5a/classMagElement.html#af13ea6090dfdd5aad986e9409ec2c588" title="MagElement::Calculate" alt="" coords="116,287,293,315"/>
+<area shape="rect" id="node14" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="181,339,228,367"/>
+<area shape="rect" id="node15" href="$db/dde/extractor_8cc.html#ae4548a71e53a04a498bff686cafa89d2" title="GetTrueElementName" alt="" coords="120,391,289,419"/>
+<area shape="rect" id="node16" href="$db/dde/extractor_8cc.html#afe493d138d22cf894f3bfb772d25f49d" title="IsElementEndLine" alt="" coords="133,443,276,471"/>
+<area shape="rect" id="node17" href="$db/dde/extractor_8cc.html#ac6e3d9cae9d6f79682e55d9ee667dfde" title="IsElementStartLine" alt="" coords="130,495,279,523"/>
+<area shape="rect" id="node18" href="$d4/d5a/classMagElement.html#a3bb377d9bc60c115147cce1ec15f53f0" title="MagElement::Print" alt="" coords="389,651,536,679"/>
+<area shape="rect" id="node19" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="624,625,683,653"/>
+<area shape="rect" id="node20" href="$d6/d3e/classDipole.html#a53f1fb805e992b73107c033c155b6963" title="Dipole::Print" alt="" coords="152,599,257,627"/>
+<area shape="rect" id="node21" href="$db/dc0/classQuadrupole.html#a94cf49223cf4d205ae7e946aba530074" title="Quadrupole::Print" alt="" coords="134,703,275,731"/>
+<area shape="rect" id="node5" href="$dc/de5/PHG4mRICHDetector_8cc.html#aa15fefb6859fb9ca86eb9a588d4f7856" title="theta" alt="" coords="435,261,491,289"/>
+<area shape="rect" id="node6" href="$d5/d29/classPHG4DetectorSubsystem.html#a48e75fd1738dab9d0d66b174053ead8f" title="PHG4DetectorSubsystem\l::set_double_param" alt="" coords="367,313,559,357"/>
+<area shape="rect" id="node7" href="$d5/d29/classPHG4DetectorSubsystem.html#a82c122f8a80f34dc4ffba6675ce60c75" title="PHG4DetectorSubsystem\l::set_string_param" alt="" coords="367,381,559,425"/>
+<area shape="rect" id="node8" href="$d5/d29/classPHG4DetectorSubsystem.html#a06d7265cdb191528ced9e78e73ba0f0a" title="PHG4DetectorSubsystem\l::SetActive" alt="" coords="367,449,559,493"/>
+<area shape="rect" id="node9" href="$d5/d29/classPHG4DetectorSubsystem.html#adf60f69cc9a72740cf39329f91a96451" title="PHG4DetectorSubsystem\l::SetAbsorberActive" alt="" coords="367,5,559,49"/>
+<area shape="rect" id="node10" href="$d5/d29/classPHG4DetectorSubsystem.html#a5a52f44370d90e92bfb3ed0abf6dbb76" title="PHG4DetectorSubsystem\l::OverlapCheck" alt="" coords="367,73,559,117"/>
+<area shape="rect" id="node11" href="$d5/d29/classPHG4DetectorSubsystem.html#aa0c11d415a70a207a3ea851b28932dfd" title="PHG4DetectorSubsystem\l::SuperDetector" alt="" coords="367,141,559,185"/>
+<area shape="rect" id="node12" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="349,209,576,237"/>
+</map>

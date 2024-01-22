@@ -1,0 +1,51 @@
+<map id="genfit::GblFitter::collectGblPoints" name="genfit::GblFitter::collectGblPoints">
+<area shape="rect" id="node2" href="$d3/d5c/classgenfit_1_1GblFitterInfo.html#aaa28251e933bd0cb8d80ba72f5e5a05e" title="Collect all data and create a GblPoint." alt="" coords="215,741,369,785"/>
+<area shape="rect" id="node33" href="$db/d40/classgenfit_1_1TrackPoint.html#ae8b3e743fb436dd6689e0dad4c35ffd9" title="Get fitterInfo for rep. Per default, use cardinal rep." alt="" coords="223,1484,361,1528"/>
+<area shape="rect" id="node34" href="$d6/d8a/classgenfit_1_1Track.html#a30a99be76e2dbd190d6567830eaeb0fc" title="genfit::Track::getNumPoints" alt="" coords="188,1552,396,1580"/>
+<area shape="rect" id="node35" href="$d6/d8a/classgenfit_1_1Track.html#a5602573df709db1f68603207d2c3cf90" title="genfit::Track::getPoint" alt="" coords="207,1604,377,1632"/>
+<area shape="rect" id="node36" href="$d0/d95/ip_8C.html#a292ff32a75b66b513d1f0ce00f9a4dc4" title="ip" alt="" coords="273,1856,311,1884"/>
+<area shape="rect" id="node3" href="$d3/d5c/classgenfit_1_1GblFitterInfo.html#a9040cad25be9a3c328a52c186871acf8" title="Get the prediction at this point Always biased in GBL (global fit) There are 2 states, before and after kink (if there is a scatterer at this point). Per default the state after kink for forward propagation is returned." alt="" coords="774,912,927,956"/>
+<area shape="rect" id="node4" href="$db/d40/classgenfit_1_1TrackPoint.html#a8e95da3ab22152417e03bd414678af11" title="genfit::TrackPoint\l::hasThinScatterer" alt="" coords="489,1168,635,1212"/>
+<area shape="rect" id="node5" href="$d3/d5c/classgenfit_1_1GblFitterInfo.html#ad3bc8c2b886cf8fa07c124945d222f07" title="genfit::GblFitterInfo\l::hasMeasurements" alt="" coords="773,980,928,1024"/>
+<area shape="rect" id="node7" href="$d3/d5c/classgenfit_1_1GblFitterInfo.html#ac94dba20931f22112714ba399841d10d" title="Get scattering covariance projected into (measurement) plane." alt="" coords="485,1236,639,1280"/>
+<area shape="rect" id="node8" href="$db/d40/classgenfit_1_1TrackPoint.html#af4546d8633692c52a8ef821d247170c1" title="genfit::TrackPoint\l::getMaterialInfo" alt="" coords="493,1304,631,1348"/>
+<area shape="rect" id="node9" href="$d6/d15/classgenfit_1_1ThinScatterer.html#a558990ccc5326fa92d045f47f7b40cf9" title="genfit::ThinScatterer\l::getMaterial" alt="" coords="481,1372,643,1416"/>
+<area shape="rect" id="node10" href="$de/dd5/classgenfit_1_1StateOnPlane.html#a7613442df2c4d7ec1bf621b135f96527" title="genfit::StateOnPlane\l::getDir" alt="" coords="481,5,643,49"/>
+<area shape="rect" id="node12" href="$de/dd5/classgenfit_1_1StateOnPlane.html#a30c7e8d87fa50205baa927d4ceccb594" title="genfit::StateOnPlane\l::getPlane" alt="" coords="481,73,643,117"/>
+<area shape="rect" id="node13" href="$da/d3b/classgbl_1_1GblPoint.html#a5f35c13484013ab6de3112cfd781ceb0" title="Add a (thin) scatterer to a point." alt="" coords="459,141,665,169"/>
+<area shape="rect" id="node14" href="$d3/d5c/classgenfit_1_1GblFitterInfo.html#a838ec661da762f1ce3ddbf4019b2c367" title="Get kink (residual) (2D) = 0 &#45; ( (+)pred &#45; (&#45;)pred )" alt="" coords="485,741,639,785"/>
+<area shape="rect" id="node15" href="$d3/d5c/classgenfit_1_1GblFitterInfo.html#ae19fc48cd3a657bae8d7a6c0afdb3bdf" title="Get the residual." alt="" coords="485,1048,639,1092"/>
+<area shape="rect" id="node16" href="$db/d40/classgenfit_1_1TrackPoint.html#a2999fc0669beb86b6309f86e040bcdef" title="genfit::TrackPoint\l::getRawMeasurement" alt="" coords="764,1184,937,1228"/>
+<area shape="rect" id="node19" href="$de/dd5/classgenfit_1_1StateOnPlane.html#a61a05215bec767cf6919b083808a37d2" title="genfit::StateOnPlane\l::getState" alt="" coords="481,193,643,237"/>
+<area shape="rect" id="node20" href="$d2/d74/classgenfit_1_1MeasuredStateOnPlane.html#adea48432beb9b8fc30bc4bf05b4c5547" title="genfit::MeasuredStateOnPlane\l::getCov" alt="" coords="449,261,675,305"/>
+<area shape="rect" id="node21" href="$de/d67/classgenfit_1_1HMatrixU.html#a003c6f375c508f85a62a9334d8166481" title="Get the actual matrix representation." alt="" coords="459,329,665,357"/>
+<area shape="rect" id="node22" href="$da/d3b/classgbl_1_1GblPoint.html#a32153f67770ebb0f76dc566417fc17e0" title="Add a measurement to a point." alt="" coords="444,381,680,409"/>
+<area shape="rect" id="node23" href="$dd/d08/classgenfit_1_1ICalibrationParametersDerivatives.html#aad87ecb772d1fe523d7ac76cae3cfe87" title="Labels and derivatives of residuals (local measurement coordinates) w.r.t. alignment/calibration para..." alt="" coords="449,433,675,477"/>
+<area shape="rect" id="node25" href="$da/d3b/classgbl_1_1GblPoint.html#a8997752dc53ca58d5ed65225ecde8462" title="Add global derivatives to a point." alt="" coords="465,501,659,529"/>
+<area shape="rect" id="node26" href="$dd/d08/classgenfit_1_1ICalibrationParametersDerivatives.html#aa6d988b75f9d2f66d6707281b6f950ab" title="Derivatives for additional local parameters to be fitted in global calibration algorithms together wi..." alt="" coords="450,553,674,597"/>
+<area shape="rect" id="node27" href="$da/d3b/classgbl_1_1GblPoint.html#a7ac86b3a323b795f73880747119a1dfc" title="Add local derivatives to a point." alt="" coords="469,621,655,649"/>
+<area shape="rect" id="node28" href="$db/d40/classgenfit_1_1TrackPoint.html#a2540c1979de60b5456130b1e648c783d" title="genfit::TrackPoint\l::getTrack" alt="" coords="493,673,631,717"/>
+<area shape="rect" id="node29" href="$d6/d8a/classgenfit_1_1Track.html#ad06e7a012624bdb03960826b5c9fcd93" title="Get FitStatus for a AbsTrackRep. Per default, return FitStatus for cardinalRep." alt="" coords="465,1440,659,1468"/>
+<area shape="rect" id="node31" href="$d3/dcf/classgenfit_1_1GblFitStatus.html#a84f6acb65c1ed0a685a7926fef6d6002" title="genfit::GblFitStatus\l::getMaxLocalFitParams" alt="" coords="472,809,652,853"/>
+<area shape="rect" id="node32" href="$d3/dcf/classgenfit_1_1GblFitStatus.html#a1d96ce15af9cdf33a4eb4286f60c9086" title="genfit::GblFitStatus\l::setMaxLocalFitParams" alt="" coords="473,877,651,921"/>
+<area shape="rect" id="node6" href="$db/d40/classgenfit_1_1TrackPoint.html#ada7b4d8c988a1798e455fb70929f88b7" title="genfit::TrackPoint\l::hasRawMeasurements" alt="" coords="1021,980,1204,1024"/>
+<area shape="rect" id="node11" href="$d1/d25/classgenfit_1_1AbsTrackRep.html#aecce446d786c8ecda76532ba5d33b0be" title="Get the direction vector of a state." alt="" coords="773,5,929,49"/>
+<area shape="rect" id="node17" href="$d5/d1f/classgenfit_1_1AbsMeasurement.html#af18f7aec09c915ad948a96e3b934eaa8" title="genfit::AbsMeasurement\l::constructHMatrix" alt="" coords="757,1116,945,1160"/>
+<area shape="rect" id="node18" href="$d9/d8c/classgenfit_1_1AbsFitterInfo.html#afea691164c74306d2031439ca40d1687" title="genfit::AbsFitterInfo\l::getRep" alt="" coords="773,1048,928,1092"/>
+<area shape="rect" id="node24" href="$dd/d08/classgenfit_1_1ICalibrationParametersDerivatives.html#ac946d5419f26737935a18fbd31c517d5" title="Vector of integer labels for calibration/alignment parameters available (must match #columns of deriv..." alt="" coords="739,433,963,477"/>
+<area shape="rect" id="node30" href="$d6/d8a/classgenfit_1_1Track.html#a402b35300e81a48c7f0b9eb082b1cf24" title="Get cardinal track representation." alt="" coords="742,1467,959,1495"/>
+<area shape="rect" id="node37" href="$da/d86/classEicGeoMap.html#a4138a501100028aef473a4b9508d36d3" title="EicGeoMap::AddGeantVolume\lLevel" alt="" coords="450,2148,674,2192"/>
+<area shape="rect" id="node38" href="$df/de0/classEicGeoParData.html#a131e36442e699277af7e0e05dd70d7c7" title="EicGeoParData::AddLogical\lVolumeGroup" alt="" coords="460,2216,664,2260"/>
+<area shape="rect" id="node39" href="$dd/d0b/classEicNamePatternHub.html#abe35bc0e1b9b51fa1f2c0c45bcf78dec" title="EicNamePatternHub::\lAddPatternMatch" alt="" coords="480,2284,644,2328"/>
+<area shape="rect" id="node40" href="$df/de0/classEicGeoParData.html#a0a19d07a4f67c4a5cb0884a9992f44d7" title="EicGeoParData::CreateNewMap" alt="" coords="445,1544,679,1572"/>
+<area shape="rect" id="node41" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="539,1596,585,1624"/>
+<area shape="rect" id="node42" href="$df/de0/classEicGeoParData.html#a5464c1947d87d36569891ada6aafb22c" title="EicGeoParData::FinalizeOutput" alt="" coords="448,1700,676,1728"/>
+<area shape="rect" id="node43" href="$df/de0/classEicGeoParData.html#a98e43e3d66fdb531cabaccd39f09ebc3" title="EicGeoParData::GetColorTable" alt="" coords="738,1669,963,1697"/>
+<area shape="rect" id="node44" href="$df/de0/classEicGeoParData.html#a75991633a97d0a9b3140ba103f225691" title="EicGeoParData::GetTransparency\lTable" alt="" coords="728,1732,973,1776"/>
+<area shape="rect" id="node45" href="$df/de0/classEicGeoParData.html#af50661ee10308b08071f9feb1b57493b" title="EicGeoParData::GetMedium" alt="" coords="458,1804,666,1832"/>
+<area shape="rect" id="node46" href="$df/de0/classEicGeoParData.html#a37c307a8b444e89fd125f6d273a1c894" title="EicGeoParData::GetTopVolume" alt="" coords="448,1856,676,1884"/>
+<area shape="rect" id="node47" href="$de/d6c/fun4all__eicdetectors_2blob_2master_2simulation_2g4simulation_2g4lblvtx_2EicFRichDetector_8cc.html#afa9eab74a86ef9511755e454d4ed5e85" title="rmax" alt="" coords="534,1908,590,1936"/>
+<area shape="rect" id="node48" href="$df/de0/classEicGeoParData.html#a304fa90a3bc1944d2c997257ed56b6a7" title="EicGeoParData::SetFileName" alt="" coords="455,1960,669,1988"/>
+<area shape="rect" id="node49" href="$df/de0/classEicGeoParData.html#a85796e06ee06c2b0973409350d2c054d" title="EicGeoParData::SetMapping\lTableEntry" alt="" coords="457,2012,667,2056"/>
+<area shape="rect" id="node50" href="$da/d86/classEicGeoMap.html#a77e724ceee76044c2346a4b35be1f90e" title="EicGeoMap::SetSingleSensor\lContainerVolume" alt="" coords="453,2080,671,2124"/>
+</map>

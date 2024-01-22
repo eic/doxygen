@@ -1,0 +1,29 @@
+<map id="Acts::Test::BOOST_AUTO_TEST_CASE" name="Acts::Test::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d7/df8/classActs_1_1TGeoLayerBuilder.html#a915aca80a0405bc205e2e05f93e61129" title="Acts::TGeoLayerBuilder\l::centralLayers" alt="" coords="245,115,426,159"/>
+<area shape="rect" id="node18" href="$d4/da1/classActs_1_1ObjVisualization3D.html#a3420a2ba3c0d3e771e4fb2f466f1a292" title="Acts::ObjVisualization3D\l::clear" alt="" coords="241,207,429,251"/>
+<area shape="rect" id="node19" href="$d7/df8/classActs_1_1TGeoLayerBuilder.html#af1f72aea473c2612f98323d403f462b7" title="Return the created detector elements." alt="" coords="245,275,426,319"/>
+<area shape="rect" id="node20" href="$d2/d3f/structActs_1_1GeometryView3D.html#ab8aad2f0260221fecde781f003510d24" title="Acts::GeometryView3D\l::drawSurface" alt="" coords="246,411,425,455"/>
+<area shape="rect" id="node23" href="$da/d7b/namespaceActs.html#a9b4dee934b0b193d57604b19bc8cd527" title="get default debug output logger" alt="" coords="246,479,425,507"/>
+<area shape="rect" id="node25" href="$d7/df8/classActs_1_1TGeoLayerBuilder.html#a51b58818fef463320206af1b0a72fcc6" title="Acts::TGeoLayerBuilder\l::positiveLayers" alt="" coords="245,343,426,387"/>
+<area shape="rect" id="node26" href="$dc/de5/PHG4mRICHDetector_8cc.html#acaaf109d582b14d4880c13e89c1243e1" title="surface" alt="" coords="300,531,371,559"/>
+<area shape="rect" id="node27" href="$d3/d9b/namespacenlohmann.html#a6ce645a0b8717757e096a5b5773b7a16" title="user&#45;defined to_string function for JSON values" alt="" coords="257,583,414,611"/>
+<area shape="rect" id="node28" href="$d4/da1/classActs_1_1ObjVisualization3D.html#a04d0d1821e95cc7c17cf3aa86b12f280" title="Acts::ObjVisualization3D\l::write" alt="" coords="241,635,429,679"/>
+<area shape="rect" id="node3" href="$d7/df8/classActs_1_1TGeoLayerBuilder.html#aaa48eac97c511f2742fd9cce8d87cbd7" title="Acts::TGeoLayerBuilder\l::buildLayers" alt="" coords="485,203,666,247"/>
+<area shape="rect" id="node4" href="$db/d76/structActs_1_1ProtoLayer.html#a50ad0f9f30bd795a82815ef569c19151" title="Acts::ProtoLayer::medium" alt="" coords="721,57,917,85"/>
+<area shape="rect" id="node9" href="$d3/dce/structActs_1_1TGeoParser.html#ad88c64900b8afaf3c622f3cf6a334544" title="Acts::TGeoParser::select" alt="" coords="726,211,913,239"/>
+<area shape="rect" id="node17" href="$da/d7b/namespaceActs.html#a337992aec16b459064f9bba326128657" title="Acts::unpack_shared\l_vector" alt="" coords="739,263,900,307"/>
+<area shape="rect" id="node5" href="$db/d76/structActs_1_1ProtoLayer.html#a4c925388ba319f12f49d21dbaa66836e" title="Acts::ProtoLayer::max" alt="" coords="984,5,1155,33"/>
+<area shape="rect" id="node7" href="$db/d76/structActs_1_1ProtoLayer.html#a34f893e00c6ddcb2f327743c17342985" title="Acts::ProtoLayer::min" alt="" coords="987,57,1152,85"/>
+<area shape="rect" id="node6" href="$d2/d93/structActs_1_1Extent.html#a2e0321ab28295e2c366bcf2ac37322f0" title="Acts::Extent::max" alt="" coords="1243,5,1385,33"/>
+<area shape="rect" id="node8" href="$d2/d93/structActs_1_1Extent.html#ab3ceccc973b8a4104c17f99e4ed1690e" title="Acts::Extent::min" alt="" coords="1245,57,1383,85"/>
+<area shape="rect" id="node10" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a06888bb2387068ac58953575df449482" title="Acts::VectorHelpers\l::cast" alt="" coords="992,169,1147,213"/>
+<area shape="rect" id="node15" href="$d3/da1/structActs_1_1TGeoPrimitivesHelper.html#ac198fe5c1f15665aae04a9e8e12922e6" title="Acts::TGeoPrimitivesHelper\l::makeTransform" alt="" coords="965,237,1173,281"/>
+<area shape="rect" id="node16" href="$d3/da1/structActs_1_1TGeoPrimitivesHelper.html#af6528d2caee8efce3d927725882d9c5a" title="Acts::TGeoPrimitivesHelper\l::match" alt="" coords="965,305,1173,349"/>
+<area shape="rect" id="node11" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a9d0d7e35444d5f4a0ae7accb0a2c70db" title="Acts::VectorHelpers\l::perp" alt="" coords="1237,109,1391,153"/>
+<area shape="rect" id="node12" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a397d5e8143b34171258deef4f9cca9ad" title="Acts::VectorHelpers::phi" alt="" coords="1222,177,1406,205"/>
+<area shape="rect" id="node13" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a1c1a90bc524259263f553410691dd9ad" title="Acts::VectorHelpers\l::theta" alt="" coords="1237,229,1391,273"/>
+<area shape="rect" id="node14" href="$df/da1/namespaceActs_1_1VectorHelpers.html#afc1703c2fa7adfd6517e5e16df2e5df4" title="Acts::VectorHelpers::eta" alt="" coords="1221,297,1407,325"/>
+<area shape="rect" id="node21" href="$dd/d9e/structActs_1_1Polyhedron.html#a751a373c4c96d6e3b6deaab8c70cf3f9" title="Acts::Polyhedron::move" alt="" coords="484,359,667,387"/>
+<area shape="rect" id="node22" href="$de/d7d/classActs_1_1Surface.html#a8580e9839bf7b3207b3f01b0a822febf" title="Acts::Surface::polyhedron\lRepresentation" alt="" coords="477,411,673,455"/>
+<area shape="rect" id="node24" href="$dd/d94/fun4all__tutorials_2blob_2master_2materialscan_2matscan_8C.html#a388f572c62279f839ee138a9afbdeeb5" title="print" alt="" coords="549,479,602,507"/>
+</map>

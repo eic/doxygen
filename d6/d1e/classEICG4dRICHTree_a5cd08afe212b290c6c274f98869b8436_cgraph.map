@@ -1,0 +1,24 @@
+<map id="EICG4dRICHTree::process_event" name="EICG4dRICHTree::process_event">
+<area shape="rect" id="node2" href="$d6/d1e/classEICG4dRICHTree.html#aa9f28a9543c556f45c0eff0f4cef129d" title="EICG4dRICHTree::getHits" alt="" coords="247,661,436,689"/>
+<area shape="rect" id="node23" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="497,1217,673,1245"/>
+<area shape="rect" id="node3" href="$d6/dae/classEICG4dRICHHit.html#a4d1888aa44c248fdfba5a942804c7956" title="EICG4dRICHHit::get\l_delta_t" alt="" coords="507,5,662,49"/>
+<area shape="rect" id="node4" href="$d6/dae/classEICG4dRICHHit.html#a6d90c87f8012e02c7c72b036beb590c0" title="EICG4dRICHHit::get_edep" alt="" coords="487,73,682,101"/>
+<area shape="rect" id="node5" href="$d6/dae/classEICG4dRICHHit.html#a12a19ac185480697148274ce694b563e" title="EICG4dRICHHit::get\l_hit_subtype_name" alt="" coords="507,125,662,169"/>
+<area shape="rect" id="node6" href="$d6/dae/classEICG4dRICHHit.html#ace35ac9e24ad321ea6e21de042b17a6a" title="EICG4dRICHHit::get\l_hit_type_name" alt="" coords="507,193,662,237"/>
+<area shape="rect" id="node7" href="$d6/dae/classEICG4dRICHHit.html#a72d6e473fbed84a629681959f9b72146" title="EICG4dRICHHit::get\l_momentum" alt="" coords="507,261,662,305"/>
+<area shape="rect" id="node8" href="$d6/dae/classEICG4dRICHHit.html#a459dc628502d25071b6c4da5708aa79b" title="EICG4dRICHHit::get\l_momentum_dir" alt="" coords="507,329,662,373"/>
+<area shape="rect" id="node9" href="$d6/dae/classEICG4dRICHHit.html#a9145413ed7b13ff27ef477731da08d80" title="EICG4dRICHHit::get\l_parent_id" alt="" coords="507,397,662,441"/>
+<area shape="rect" id="node10" href="$d6/dae/classEICG4dRICHHit.html#a284b4dcdc14af7ac8d54b19b7680db54" title="EICG4dRICHHit::get\l_particle_name" alt="" coords="507,465,662,509"/>
+<area shape="rect" id="node11" href="$d6/dae/classEICG4dRICHHit.html#a0ed0498538e9a0f50f2586534f04cbab" title="EICG4dRICHHit::get_pdg" alt="" coords="491,533,678,561"/>
+<area shape="rect" id="node12" href="$d6/dae/classEICG4dRICHHit.html#a760cf24fb3abf8a8051915e070d50fea" title="EICG4dRICHHit::get\l_petal" alt="" coords="507,585,662,629"/>
+<area shape="rect" id="node13" href="$d6/dae/classEICG4dRICHHit.html#abb98620543a6c6f368c5035343f0e21d" title="EICG4dRICHHit::get\l_position" alt="" coords="507,653,662,697"/>
+<area shape="rect" id="node14" href="$d6/dae/classEICG4dRICHHit.html#a0f1a35fa3a8362738ffb22323c40d6ce" title="EICG4dRICHHit::get\l_process" alt="" coords="507,721,662,765"/>
+<area shape="rect" id="node15" href="$d6/dae/classEICG4dRICHHit.html#aa6bc98bfd110ca286df50cf5cbc5cbe8" title="EICG4dRICHHit::get_psst" alt="" coords="490,789,679,817"/>
+<area shape="rect" id="node16" href="$d6/dae/classEICG4dRICHHit.html#ac3a245005b09aeee10e6dbd2ee63cd81" title="EICG4dRICHHit::get\l_trkid" alt="" coords="507,841,662,885"/>
+<area shape="rect" id="node17" href="$d6/dae/classEICG4dRICHHit.html#a89624bcf25534b37f9050fb8622455af" title="EICG4dRICHHit::get\l_vertex_momentum_dir" alt="" coords="493,909,676,953"/>
+<area shape="rect" id="node18" href="$d6/dae/classEICG4dRICHHit.html#a58458502319b6b394d702361eca6be91" title="EICG4dRICHHit::get\l_vertex_position" alt="" coords="507,977,662,1021"/>
+<area shape="rect" id="node19" href="$d4/d30/classPHG4HitContainer.html#aec01041c4b9347f93832704e142b2439" title="return all hits matching a given detid" alt="" coords="484,1045,685,1073"/>
+<area shape="rect" id="node21" href="$d6/dae/classEICG4dRICHHit.html#a324eb40a07fc24b21ec0ce063e3548db" title="EICG4dRICHHit::print" alt="" coords="503,1097,667,1125"/>
+<area shape="rect" id="node22" href="$d6/d1e/classEICG4dRICHTree.html#a3604075d64062fa12b27d1fa04078d6e" title="EICG4dRICHTree::vectorTo\lArray" alt="" coords="486,1149,683,1193"/>
+<area shape="rect" id="node20" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="733,1045,780,1073"/>
+</map>

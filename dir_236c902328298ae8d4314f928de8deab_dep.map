@@ -1,0 +1,31 @@
+<map id="acts/blob/sPHENIX/Examples/Detectors/ContextualDetector" name="acts/blob/sPHENIX/Examples/Detectors/ContextualDetector">
+<area shape="rect" id="node2" href="dir_5321d62de66f03de00e1169a28e56721.html" title="include" alt="" coords="271,160,343,208"/>
+<area shape="rect" id="node4" href="dir_f1b0c742d620c70a9b9a5ea1ec7f656a.html" title="GenericDetector" alt="" coords="136,256,269,304"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000129_000154.html" title="2" alt="" coords="244,242,252,258"/>
+<area shape="rect" id="node5" href="dir_a2f4ff456a06f1c2a2e5bbf0d32f2468.html" title="Framework" alt="" coords="255,448,351,496"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000129_000040.html" title="7" alt="" coords="328,427,336,443"/>
+<area shape="rect" id="node6" href="dir_789f8123dfde15cf89b2665cc94464b8.html" title="Common" alt="" coords="241,352,322,400"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000129_000124.html" title="2" alt="" coords="291,327,299,343"/>
+<area shape="rect" id="node7" href="dir_138adbd893d7545d51e2e75abe4d687d.html" title="Plugins" alt="" coords="43,352,115,400"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000129_000017.html" title="4" alt="" coords="90,328,98,344"/>
+<area shape="rect" id="node8" href="dir_2738455129720d7221426b7d9ba3cc06.html" title="Core" alt="" coords="180,544,252,592"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000129_000004.html" title="13" alt="" coords="263,557,281,573"/>
+<area shape="rect" id="node3" href="dir_75c39cda6fe74f842128f3493996a5fe.html" title="src" alt="" coords="271,64,343,112"/>
+<area shape="rect" id="edge16-headlabel" href="dir_000132_000129.html" title="9" alt="" coords="311,133,319,149"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000132_000154.html" title="4" alt="" coords="224,234,232,250"/>
+<area shape="rect" id="edge17-headlabel" href="dir_000132_000040.html" title="2" alt="" coords="340,431,348,447"/>
+<area shape="rect" id="edge18-headlabel" href="dir_000132_000004.html" title="7" alt="" coords="162,532,170,548"/>
+<area shape="rect" id="node9" href="dir_c964d8e32cd055b14728540ec09c7805.html" title="MagneticField" alt="" coords="499,352,613,400"/>
+<area shape="rect" id="edge19-headlabel" href="dir_000132_000159.html" title="6" alt="" coords="556,325,564,341"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000154_000040.html" title="3" alt="" coords="258,422,266,438"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000154_000124.html" title="1" alt="" coords="252,324,260,340"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000154_000017.html" title="4" alt="" coords="125,339,133,355"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000154_000004.html" title="55" alt="" coords="213,517,230,533"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000040_000004.html" title="39" alt="" coords="248,528,265,544"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000124_000040.html" title="1" alt="" coords="298,420,306,436"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000017_000004.html" title="181" alt="" coords="161,518,186,534"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000159_000040.html" title="4" alt="" coords="367,447,375,463"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000159_000004.html" title="20" alt="" coords="263,557,281,573"/>
+<area shape="rect" id="clust2" href="dir_236c902328298ae8d4314f928de8deab.html" alt="" coords="260,53,532,219"/>
+<area shape="rect" id="clust1" href="dir_c8601c90ec31b27b7ff3bc72a69ef682.html" title="Detectors" alt="" coords="249,16,543,229"/>
+</map>

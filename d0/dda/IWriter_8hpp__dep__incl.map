@@ -1,0 +1,51 @@
+<map id="acts/blob/sPHENIX/Examples/Framework/include/ActsExamples/Framework/IWriter.hpp" name="acts/blob/sPHENIX/Examples/Framework/include/ActsExamples/Framework/IWriter.hpp">
+<area shape="rect" id="node2" href="$d7/d32/Sequencer_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Framework/include/ActsExamples\l/Framework/Sequencer.hpp" alt="" coords="3304,113,3559,173"/>
+<area shape="rect" id="node31" href="$d0/d41/WriterT_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Framework/include/ActsExamples\l/Framework/WriterT.hpp" alt="" coords="5877,113,6132,173"/>
+<area shape="rect" id="node49" href="$d4/d8f/CsvTrackingGeometryWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Csv/include/ActsExamples\l/Io/Csv/CsvTrackingGeometryWriter.hpp" alt="" coords="8342,229,8633,289"/>
+<area shape="rect" id="node3" href="$d3/d2f/Sequencer_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Framework/src/Framework\l/Sequencer.cpp" alt="" coords="3495,229,3709,289"/>
+<area shape="rect" id="node4" href="$d7/d2b/CommonOptions_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Common/include/ActsExamples\l/Options/CommonOptions.hpp" alt="" coords="3047,229,3317,289"/>
+<area shape="rect" id="node7" href="$de/d20/MaterialMappingBase_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Common/src/MaterialMapping\lBase.cpp" alt="" coords="1955,353,2215,413"/>
+<area shape="rect" id="node8" href="$dc/da7/MaterialValidationBase_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Common/src/MaterialValidation\lBase.cpp" alt="" coords="1663,353,1931,413"/>
+<area shape="rect" id="node9" href="$d3/d32/PropagationExampleBase_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Common/src/PropagationExample\lBase.cpp" alt="" coords="7039,353,7325,413"/>
+<area shape="rect" id="node10" href="$de/d42/ParticleGun_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/EventGenerator/ParticleGun.cpp" alt="" coords="4419,361,4695,405"/>
+<area shape="rect" id="node11" href="$d9/d60/Pythia8_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/EventGenerator/Pythia8\l/Pythia8.cpp" alt="" coords="5361,353,5581,413"/>
+<area shape="rect" id="node12" href="$d4/d5f/FatrasDigitizationBase_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Fatras/Common/FatrasDigitization\lBase.cpp" alt="" coords="6605,353,6890,413"/>
+<area shape="rect" id="node13" href="$d3/d77/FatrasEvgenBase_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Fatras/Common/FatrasEvgenBase.cpp" alt="" coords="4719,361,5032,405"/>
+<area shape="rect" id="node14" href="$d1/d71/FatrasMain_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Fatras/Common/FatrasMain.cpp" alt="" coords="4125,361,4394,405"/>
+<area shape="rect" id="node15" href="$d8/d55/FatrasSimulationBase_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Fatras/Common/FatrasSimulation\lBase.cpp" alt="" coords="5057,353,5337,413"/>
+<area shape="rect" id="node17" href="$da/d2a/GeantinoRecordingBase_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Geant4/GeantinoRecordingBase.hpp" alt="" coords="2289,361,2593,405"/>
+<area shape="rect" id="node19" href="$d4/dc7/HelloWorld_8cpp.html" title="An example tools that shows the sequencer functionality." alt="" coords="3285,361,3524,405"/>
+<area shape="rect" id="node20" href="$d2/d9c/BFieldAccessExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/MagneticField/BFieldAccess\lExample.cpp" alt="" coords="3549,353,3791,413"/>
+<area shape="rect" id="node21" href="$dc/d47/BFieldExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/MagneticField/BFieldExample.cpp" alt="" coords="1355,361,1639,405"/>
+<area shape="rect" id="node22" href="$da/dc9/GenericReadCsvExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/ReadCsv/GenericReadCsvExample.cpp" alt="" coords="5868,361,6187,405"/>
+<area shape="rect" id="node23" href="$df/dea/RecCKFTracks_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Reconstruction/RecCKFTracks.cpp" alt="" coords="3816,361,4100,405"/>
+<area shape="rect" id="node24" href="$de/dcb/RecTruthTracks_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Reconstruction/RecTruthTracks.cpp" alt="" coords="6211,361,6503,405"/>
+<area shape="rect" id="node25" href="$da/d7c/AdaptiveMultiVertexFinderExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Vertexing/Pythia8/Adaptive\lMultiVertexFinderExample.cpp" alt="" coords="828,353,1069,413"/>
+<area shape="rect" id="node26" href="$de/d11/IterativeVertexFinderExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Vertexing/Pythia8/Iterative\lVertexFinderExample.cpp" alt="" coords="1094,353,1331,413"/>
+<area shape="rect" id="node27" href="$de/de2/TutorialVertexFinderExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Vertexing/Pythia8/Tutorial\lVertexFinderExample.cpp" alt="" coords="5,353,236,413"/>
+<area shape="rect" id="node28" href="$d3/d0a/VertexFitterExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Vertexing/Pythia8/VertexFitter\lExample.cpp" alt="" coords="260,353,520,413"/>
+<area shape="rect" id="node29" href="$df/d7f/VertexFinderReaderExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Vertexing/VertexFinderReader\lExample.cpp" alt="" coords="544,353,804,413"/>
+<area shape="rect" id="node5" href="$d4/dc0/CommonOptions_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Common/src/CommonOptions.cpp" alt="" coords="2617,361,2907,405"/>
+<area shape="rect" id="node6" href="$d0/d8e/GeometryExampleBase_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Common/src/GeometryExample\lBase.cpp" alt="" coords="7387,469,7660,529"/>
+<area shape="rect" id="node16" href="$d9/ddd/DD4hepGeantinoRecording_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Geant4/DD4hep/DD4hepGeantino\lRecording.cpp" alt="" coords="2203,469,2489,529"/>
+<area shape="rect" id="node18" href="$d8/d7c/GdmlGeantinoRecording_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Geant4/GdmlGeantinoRecording.cpp" alt="" coords="2779,477,3086,521"/>
+<area shape="rect" id="node30" href="$d4/df1/MakeActsGeometry_8cc.html" title="Refit SvtxTracks with PHActs." alt="" coords="2931,345,3159,421"/>
+<area shape="rect" id="node32" href="$dd/d48/CsvParticleWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Csv/include/ActsExamples\l/Io/Csv/CsvParticleWriter.hpp" alt="" coords="4779,229,5001,289"/>
+<area shape="rect" id="node35" href="$d6/d70/CsvPlanarClusterWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Csv/include/ActsExamples\l/Io/Csv/CsvPlanarClusterWriter.hpp" alt="" coords="7395,229,7652,289"/>
+<area shape="rect" id="node36" href="$d0/da9/JsonSpacePointWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Json/include/ActsExamples\l/Plugins/Json/JsonSpacePointWriter.hpp" alt="" coords="6170,229,6455,289"/>
+<area shape="rect" id="node37" href="$d5/d40/ObjPropagationStepsWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Obj/include/ActsExamples\l/Plugins/Obj/ObjPropagationStepsWriter.hpp" alt="" coords="7677,229,7997,289"/>
+<area shape="rect" id="node38" href="$d8/d9d/ObjSpacePointWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Obj/include/ActsExamples\l/Plugins/Obj/ObjSpacePointWriter.hpp" alt="" coords="6480,229,6756,289"/>
+<area shape="rect" id="node39" href="$db/de7/CKFPerformanceWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Performance/ActsExamples\l/Io/Performance/CKFPerformanceWriter.hpp" alt="" coords="4187,229,4502,289"/>
+<area shape="rect" id="node40" href="$df/def/TrackFinderPerformanceWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Performance/ActsExamples\l/Io/Performance/TrackFinderPerformance\lWriter.hpp" alt="" coords="6781,221,7077,297"/>
+<area shape="rect" id="node41" href="$d2/d95/TrackFitterPerformanceWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Performance/ActsExamples\l/Io/Performance/TrackFitterPerformance\lWriter.hpp" alt="" coords="5177,221,5467,297"/>
+<area shape="rect" id="node42" href="$d8/daa/RootMaterialTrackWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Root/include/ActsExamples\l/Io/Root/RootMaterialTrackWriter.hpp" alt="" coords="2291,229,2561,289"/>
+<area shape="rect" id="node43" href="$d0/d2b/RootParticleWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Root/include/ActsExamples\l/Io/Root/RootParticleWriter.hpp" alt="" coords="4527,229,4755,289"/>
+<area shape="rect" id="node44" href="$d7/d38/RootPlanarClusterWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Root/include/ActsExamples\l/Io/Root/RootPlanarClusterWriter.hpp" alt="" coords="7101,229,7370,289"/>
+<area shape="rect" id="node45" href="$dd/dad/RootPropagationStepsWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Root/include/ActsExamples\l/Io/Root/RootPropagationStepsWriter.hpp" alt="" coords="8020,229,8317,289"/>
+<area shape="rect" id="node46" href="$df/d14/RootSimHitWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Root/include/ActsExamples\l/Io/Root/RootSimHitWriter.hpp" alt="" coords="3937,229,4163,289"/>
+<area shape="rect" id="node47" href="$d1/d3a/RootTrackParameterWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Root/include/ActsExamples\l/Io/Root/RootTrackParameterWriter.hpp" alt="" coords="5863,229,6147,289"/>
+<area shape="rect" id="node48" href="$da/db7/RootTrajectoryWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Root/include/ActsExamples\l/Io/Root/RootTrajectoryWriter.hpp" alt="" coords="5491,229,5737,289"/>
+<area shape="rect" id="node33" href="$dd/ddb/CsvOptionsWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Csv/include/ActsExamples\l/Io/Csv/CsvOptionsWriter.hpp" alt="" coords="7413,353,7634,413"/>
+<area shape="rect" id="node34" href="$d5/d38/CsvParticleWriter_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Csv/src/CsvParticleWriter.cpp" alt="" coords="5605,361,5844,405"/>
+<area shape="rect" id="node50" href="$da/d59/CsvTrackingGeometryWriter_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Csv/src/CsvTrackingGeometry\lWriter.cpp" alt="" coords="8365,353,8609,413"/>
+</map>

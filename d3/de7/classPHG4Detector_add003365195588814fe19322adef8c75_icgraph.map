@@ -1,0 +1,18 @@
+<map id="PHG4Detector::GetDetectorElement" name="PHG4Detector::GetDetectorElement">
+<area shape="rect" id="node2" href="$dd/d62/classPHG4BarrelEcalDetector.html#aa77caf57bd5ba9c3cd302a3341b497e0" title="PHG4BarrelEcalDetector\l::GetCarbonFiber" alt="" coords="273,345,460,389"/>
+<area shape="rect" id="node6" href="$d4/dd9/classPHG4LFHcalDetector.html#a3d8bf5b55b45c58c7ef08bef7c5b9e50" title="PHG4LFHcalDetector\l::GetCoatingMaterial" alt="" coords="285,73,448,117"/>
+<area shape="rect" id="node7" href="$d8/d23/classPHG4ForwardEcalDetector.html#aaeefbd6c2284208a070bc60fc5de805a" title="PHG4ForwardEcalDetector\l::GetCoatingMaterial" alt="" coords="267,209,467,253"/>
+<area shape="rect" id="node10" href="$dd/d62/classPHG4BarrelEcalDetector.html#a1609f32a01aec36cc1e0878ac2661dbb" title="PHG4BarrelEcalDetector\l::GetSciGlass" alt="" coords="273,277,460,321"/>
+<area shape="rect" id="node12" href="$d4/dd9/classPHG4LFHcalDetector.html#a5f82df52f071dea0592477600b23840e" title="PHG4LFHcalDetector\l::GetScintillatorMaterial" alt="" coords="276,413,457,457"/>
+<area shape="rect" id="node15" href="$d8/d23/classPHG4ForwardEcalDetector.html#abaea272f1412fba949fb71b871dd6005" title="PHG4ForwardEcalDetector\l::GetScintillatorMaterial" alt="" coords="267,5,467,49"/>
+<area shape="rect" id="node16" href="$d8/d23/classPHG4ForwardEcalDetector.html#a960ac3ae869e8d9360c5352ae80eaba3" title="PHG4ForwardEcalDetector\l::GetWLSFiberFEMCMaterial" alt="" coords="263,141,471,185"/>
+<area shape="rect" id="node17" href="$d4/dd9/classPHG4LFHcalDetector.html#a2cd320bc53ed47d5f3dc050a920757e2" title="PHG4LFHcalDetector\l::GetWLSFiberMaterial" alt="" coords="281,481,452,525"/>
+<area shape="rect" id="node3" href="$dd/d62/classPHG4BarrelEcalDetector.html#a0f39675b41b34472947b3b7df4aeeeef" title="PHG4BarrelEcalDetector\l::ConstructTower" alt="" coords="525,345,712,389"/>
+<area shape="rect" id="node4" href="$dd/d62/classPHG4BarrelEcalDetector.html#a3aeb8469b6ab9a83889545cbc7965610" title="PHG4BarrelEcalDetector\l::PlaceTower" alt="" coords="773,311,960,355"/>
+<area shape="rect" id="node5" href="$dd/d62/classPHG4BarrelEcalDetector.html#ac4b3f51e067bfe0210feb273e7f7137c" title="construct" alt="" coords="1015,311,1201,355"/>
+<area shape="rect" id="node8" href="$d8/d23/classPHG4ForwardEcalDetector.html#a6cc111d6a9972cad82ed720d4f834f47" title="PHG4ForwardEcalDetector\l::ConstructTower" alt="" coords="519,141,719,185"/>
+<area shape="rect" id="node9" href="$d8/d23/classPHG4ForwardEcalDetector.html#a3930ced4da0fa3fd0c39d302fe6a84e5" title="construct" alt="" coords="767,141,967,185"/>
+<area shape="rect" id="node11" href="$dd/d62/classPHG4BarrelEcalDetector.html#a9e790773e951a18eb2bdd556937b8069" title="PHG4BarrelEcalDetector\l::ConstructGlass" alt="" coords="525,277,712,321"/>
+<area shape="rect" id="node13" href="$d4/dd9/classPHG4LFHcalDetector.html#a632a9e545bf50de85ea08769c75b205d" title="PHG4LFHcalDetector\l::ConstructTower" alt="" coords="537,447,700,491"/>
+<area shape="rect" id="node14" href="$d4/dd9/classPHG4LFHcalDetector.html#a6a6dd7e7623d6560cafc8ee4c7ca4e1c" title="construct" alt="" coords="785,447,948,491"/>
+</map>

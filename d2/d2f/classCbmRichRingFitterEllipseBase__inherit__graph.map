@@ -1,0 +1,5 @@
+<map id="CbmRichRingFitterEllipseBase" name="CbmRichRingFitterEllipseBase">
+<area shape="rect" id="node3" href="$de/d3f/classCbmRichRingFitterEllipseMinuit.html" title="This is the implementation of ellipse fitting using MINUIT." alt="" coords="5,157,196,201"/>
+<area shape="rect" id="node4" href="$d2/d8f/classCbmRichRingFitterEllipseTau.html" title="Here the ring is fitted with Taubin algorithm from A. Ayriyan, G. Ososkov, N. Chernov." alt="" coords="221,165,434,193"/>
+<area shape="rect" id="node2" href="$d9/d04/classCbmRichRingFitterBase.html" title="Abstract base class for concrete Rich Ring fitting algorithms. Each derived class must implement the ..." alt="" coords="125,5,303,33"/>
+</map>

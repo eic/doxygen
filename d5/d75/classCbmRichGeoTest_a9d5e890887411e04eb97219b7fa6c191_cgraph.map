@@ -1,0 +1,51 @@
+<map id="CbmRichGeoTest::Exec" name="CbmRichGeoTest::Exec">
+<area shape="rect" id="node2" href="$d5/d75/classCbmRichGeoTest.html#adaab9117d4312415a3d712f2e1bc33d2" title="Fill MC histogram for detector acceptance calculation." alt="" coords="251,541,459,569"/>
+<area shape="rect" id="node10" href="$d5/d75/classCbmRichGeoTest.html#ac4e85945a0e59eb8e5b24852dec35e2d" title="Calculate residuals between hits and MC points and fill histograms." alt="" coords="237,213,474,241"/>
+<area shape="rect" id="node19" href="$d5/d75/classCbmRichGeoTest.html#a3877e9706c0d5764a48e943b355830cf" title="Loop over all rings in array and fill ring parameters histograms." alt="" coords="229,979,481,1007"/>
+<area shape="rect" id="node3" href="$d0/d00/classCbmMCTrack.html#abd25ba063b46c886b488b6ae46a4f471" title="CbmMCTrack::GetMotherId" alt="" coords="543,489,745,517"/>
+<area shape="rect" id="node4" href="$d0/d00/classCbmMCTrack.html#a108b6f955d89628794280f1c83489783" title="CbmMCTrack::GetPdgCode" alt="" coords="543,541,745,569"/>
+<area shape="rect" id="node5" href="$d0/d00/classCbmMCTrack.html#ae7d34a46e237c9ec9a82083f949313f7" title="CbmMCTrack::GetP" alt="" coords="569,593,719,621"/>
+<area shape="rect" id="node6" href="$d0/d00/classCbmMCTrack.html#a203bcd520340914d640f5c2170dea7cd" title="CbmMCTrack::GetRapidity" alt="" coords="545,645,743,673"/>
+<area shape="rect" id="node9" href="$d0/d00/classCbmMCTrack.html#a9a626aeb2dc2695132eb04ba99d0af6d" title="CbmMCTrack::GetPt" alt="" coords="567,437,721,465"/>
+<area shape="rect" id="node7" href="$d0/d00/classCbmMCTrack.html#a0912467520ed483fd60134a2c271ee17" title="CbmMCTrack::GetEnergy" alt="" coords="831,344,1021,372"/>
+<area shape="rect" id="node8" href="$d0/d00/classCbmMCTrack.html#ad6f3850fabdca6f36f5842d20fc83767" title="CbmMCTrack::GetMass" alt="" coords="1101,344,1277,372"/>
+<area shape="rect" id="node11" href="$d4/d02/classCbmBaseHit.html#abf12d8e40edbcafbe42e9754d6bdbb18" title="CbmBaseHit::GetRefId" alt="" coords="559,109,729,137"/>
+<area shape="rect" id="node12" href="$de/dfd/classCbmRichHit.html#a332ae4f4f49472640deec9469b1ffeb1" title="CbmRichHit::GetNPhotons" alt="" coords="545,161,743,189"/>
+<area shape="rect" id="node13" href="$dc/d28/classFairMCPoint.html#a93cef25f5d617ac6dac4c57a23f94fad" title="FairMCPoint::GetX" alt="" coords="573,213,715,241"/>
+<area shape="rect" id="node14" href="$dc/d28/classFairMCPoint.html#a8a6f3e24b6bf26ccecfae358a1e1774c" title="FairMCPoint::GetY" alt="" coords="573,265,715,293"/>
+<area shape="rect" id="node15" href="$dc/d28/classFairMCPoint.html#af7da1a103d9655c3f84834d655954e97" title="FairMCPoint::GetZ" alt="" coords="573,5,715,33"/>
+<area shape="rect" id="node16" href="$da/d9f/classCbmRichHitProducer.html#afac25abb4f242aab98833b1d60049094" title="CbmRichHitProducer\l::TiltPoint" alt="" coords="563,369,725,413"/>
+<area shape="rect" id="node17" href="$d6/d31/classCbmPixelHit.html#a69fc4f8f6a1fd9009f2232f86cacbf97" title="CbmPixelHit::GetX" alt="" coords="853,396,999,424"/>
+<area shape="rect" id="node18" href="$d6/d31/classCbmPixelHit.html#a54ab17df317249dc7cbdbf477c3dc533" title="CbmPixelHit::GetY" alt="" coords="853,448,999,476"/>
+<area shape="rect" id="node20" href="$d3/d78/classCbmTrackMatch.html#a16a940c85ccec06145cbbb810a7554c8" title="CbmTrackMatch::GetMCTrackId" alt="" coords="529,1159,759,1187"/>
+<area shape="rect" id="node21" href="$dc/d9e/classCbmRichRing.html#a07ef5492b731a22b87060e5249fd96ee" title="CbmRichRing::GetNofHits" alt="" coords="829,656,1023,684"/>
+<area shape="rect" id="node22" href="$dc/d28/classFairMCPoint.html#af904f7dad7aa46dc91a0fc612e71bb73" title="event identifier" alt="" coords="553,1279,735,1307"/>
+<area shape="rect" id="node23" href="$dc/d28/classFairMCPoint.html#a0949a92900370ab5d7d80b4f01843aee" title="FairMCPoint::Position" alt="" coords="563,1331,725,1359"/>
+<area shape="rect" id="node24" href="$de/d89/classCbmRichRingLight.html#ab9fbb35cafa00b8f9bc76e005536421b" title="Add new hit to the ring." alt="" coords="825,604,1027,632"/>
+<area shape="rect" id="node25" href="$d5/d99/classCbmRichConverter.html#ac656c5037798f232d3b92e44c8ab4176" title="Copy hits from CbmRichRing to CbmRichRingLight." alt="" coords="535,749,753,793"/>
+<area shape="rect" id="node27" href="$d5/d75/classCbmRichGeoTest.html#aecbf42a965ee8ef8aa38e135a3462bac" title="Fit ring using circle fitter and fill histograms." alt="" coords="542,1435,746,1479"/>
+<area shape="rect" id="node29" href="$de/d89/classCbmRichRingLight.html#a7075628216df426788b864369f6d9c61" title="CbmRichRingLight::GetRadius" alt="" coords="814,1603,1038,1631"/>
+<area shape="rect" id="node30" href="$de/d89/classCbmRichRingLight.html#aa919c6cf5b852f0b89f0aee7ac8e1573" title="CbmRichRingLight::GetCenterX" alt="" coords="809,1431,1043,1459"/>
+<area shape="rect" id="node31" href="$de/d89/classCbmRichRingLight.html#a410d6c9513ea5dde4f59660898139aa7" title="CbmRichRingLight::GetCenterY" alt="" coords="809,1379,1043,1407"/>
+<area shape="rect" id="node32" href="$de/d89/classCbmRichRingLight.html#ad45c397b52a7882866e354cfcd2c1bd6" title="Return number of hits in ring." alt="" coords="1603,733,1831,761"/>
+<area shape="rect" id="node34" href="$de/d89/classCbmRichRingLight.html#ac2451e7309a97a6ac4e8d49796e60ac9" title="Return hit by the index." alt="" coords="1617,1567,1816,1595"/>
+<area shape="rect" id="node35" href="$d5/d75/classCbmRichGeoTest.html#a2f659dc25c700da38bfe23c0a5454ef9" title="Calculate difference between circle parameters for two fittings using hits and MC points for fit and ..." alt="" coords="545,1211,743,1255"/>
+<area shape="rect" id="node36" href="$d5/d75/classCbmRichGeoTest.html#ae05794279a435a7f2e75b76a18ee768c" title="Draw ring in separate TCanvas." alt="" coords="539,1503,749,1531"/>
+<area shape="rect" id="node39" href="$d5/d75/classCbmRichGeoTest.html#abbc0d8b45eab85acbc07506987dfbb4e" title="Fit ring using ellipse fitter and fill histograms." alt="" coords="542,971,746,1015"/>
+<area shape="rect" id="node48" href="$de/d89/classCbmRichRingLight.html#a7bea967c0a79889d5547fd6ad762ddac" title="CbmRichRingLight::GetAaxis" alt="" coords="1609,1203,1824,1231"/>
+<area shape="rect" id="node49" href="$de/d89/classCbmRichRingLight.html#a354eba46248ef5a37d2ac0fba10331ad" title="CbmRichRingLight::GetBaxis" alt="" coords="1609,1415,1824,1443"/>
+<area shape="rect" id="node50" href="$d5/d75/classCbmRichGeoTest.html#a77706fcedffdbeb66b692a9da8a46d7e" title="Calculate difference between ellipse parameters for two fitting using hits and MC points for fit and ..." alt="" coords="545,1039,743,1083"/>
+<area shape="rect" id="node26" href="$dc/d9e/classCbmRichRing.html#a1116253a107d9b94f1f20858ea698a5f" title="CbmRichRing::GetHit" alt="" coords="843,552,1009,580"/>
+<area shape="rect" id="node28" href="$d1/d8d/classCbmRichRingFitterCOP.html#a7d89b2ee77f85e61810847380cb5ffae" title="Inherited from CbmRichRingFitterBase." alt="" coords="839,1483,1013,1527"/>
+<area shape="rect" id="node33" href="$de/d89/classCbmRichRingLight.html#a78abf276ad9b4e81849afc5930602335" title="CbmRichRingLight::GetChi2" alt="" coords="822,1123,1030,1151"/>
+<area shape="rect" id="node37" href="$d5/d75/classCbmRichGeoTest.html#a4f297e0afd8de32e2a56911cbaad5739" title="CbmRichGeoTest::CreateCanvas" alt="" coords="807,1655,1045,1683"/>
+<area shape="rect" id="node38" href="$d4/dad/eicroot_8C.html#a9392a90f93e785e9ed60558fddd33359" title="width" alt="" coords="1159,1655,1218,1683"/>
+<area shape="rect" id="node40" href="$d2/d8f/classCbmRichRingFitterEllipseTau.html#a2cb8f2f8f011d5eda54dc7c2b9902f4a" title="Inherited from CbmRichRingFitterBase." alt="" coords="831,848,1021,892"/>
+<area shape="rect" id="node41" href="$de/d89/classCbmRichRingLight.html#a29939563c2ed0ed2cdd4fc950884f4f6" title="Set all 5 ellipse parameters." alt="" coords="1333,836,1553,864"/>
+<area shape="rect" id="node42" href="$de/d89/classCbmRichRingLight.html#a2a6ea7d670ef6c3ddc4f4039f09434d6" title="CbmRichRingLight::SetRadius" alt="" coords="1332,888,1555,916"/>
+<area shape="rect" id="node43" href="$d2/d8f/classCbmRichRingFitterEllipseTau.html#ad3b197263e8253224457a1e5a19840e6" title="Initialize all matrices." alt="" coords="1093,733,1284,777"/>
+<area shape="rect" id="node45" href="$d2/d8f/classCbmRichRingFitterEllipseTau.html#a23a95408502b2502dab9305391bc3c78" title="Perform Taubin method." alt="" coords="1093,665,1284,709"/>
+<area shape="rect" id="node46" href="$d2/d8f/classCbmRichRingFitterEllipseTau.html#a7cefee0020af3461cd61ae4468fecd13" title="Transform fitted curve to ellipse parameters." alt="" coords="1093,955,1284,999"/>
+<area shape="rect" id="node47" href="$dd/d22/classCbmRichRingFitterEllipseBase.html#a7bff3502ea2108f09d5d918036add14d" title="Calculate chi2 of the ellipse fit." alt="" coords="1348,1195,1539,1239"/>
+<area shape="rect" id="node44" href="$d2/d8f/classCbmRichRingFitterEllipseTau.html#a6579fad52d2d8bc4420f8b9138157e73" title="Matrices multiplication." alt="" coords="1348,665,1539,709"/>
+</map>

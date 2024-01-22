@@ -1,0 +1,8 @@
+<map id="erhic::EventPythia::ScatteredLepton" name="erhic::EventPythia::ScatteredLepton">
+<area shape="rect" id="node2" href="$d6/dfb/classerhic_1_1EventMC.html#a9819eb5e58b2a4c38a3d04054e48272b" title="erhic::EventMC::BeamLepton" alt="" coords="197,5,415,33"/>
+<area shape="rect" id="node4" href="$db/d68/classerhic_1_1Pid.html#afa77845c721598487da9617966253439" title="erhic::Pid::Code" alt="" coords="243,57,369,85"/>
+<area shape="rect" id="node5" href="$d6/dfb/classerhic_1_1EventMC.html#a13b99cc0cdad4fb55d48019799bc9d90" title="erhic::EventMC::FinalState" alt="" coords="207,109,405,137"/>
+<area shape="rect" id="node7" href="$d0/d01/classerhic_1_1VirtualParticle.html#ac7c17f9d78d8c400e4d53e12edf0bc86" title="erhic::VirtualParticle::Id" alt="" coords="217,161,395,189"/>
+<area shape="rect" id="node3" href="$d6/dfb/classerhic_1_1EventMC.html#a45bb79e814c5c5b62a9ba6a3e8929bd1" title="erhic::EventMC::GetTrack" alt="" coords="463,5,655,33"/>
+<area shape="rect" id="node6" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a51c6fb5b45499012545112dfb73fbe69" title="erhic::ParticleMCbase\l::GetStatus" alt="" coords="475,101,642,145"/>
+</map>

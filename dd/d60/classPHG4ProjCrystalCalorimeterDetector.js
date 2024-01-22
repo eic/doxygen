@@ -1,0 +1,25 @@
+var classPHG4ProjCrystalCalorimeterDetector =
+[
+    [ "PHG4ProjCrystalCalorimeterDetector", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a244c71a7ef147ff9ac901821cded1c23", null ],
+    [ "~PHG4ProjCrystalCalorimeterDetector", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a52b5cc1da1b5e12ebd1a7dbed72bbe0b", null ],
+    [ "ConstructMe", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#abc8babb94a4c21f0ec7d5cc33f09dc2b", null ],
+    [ "ConstructProjectiveCrystals", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a8e835bd68145beff26cfe2ac6b3515f8", null ],
+    [ "Fill4x4Unit", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a5280dacdca94a9bfe800114cfaa81cd5", null ],
+    [ "FillSpecialUnit", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#acb06a6ec6fc705d039cb53afc9451a06", null ],
+    [ "GetCaloType", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a65b50e1c9393ccdad530b8f672b2e1f1", null ],
+    [ "GetCarbonFiberAdjustments", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a3692e2ee8370287f42a3ced998692da0", null ],
+    [ "GetCarbonFiberSpacing", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#ac60bfa251a2972f5029578f8c9c12376", null ],
+    [ "GetCrystalSize", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a13eb32599dcef63a5fc808a43e010ae5", null ],
+    [ "IsInCrystalCalorimeter", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a6f7dd9a8c294887b6572f860894e0f10", null ],
+    [ "SetCrystalSize", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a6fdef662437e9265b81d6fed63b7d33e", null ],
+    [ "_crystallogicnameprefix", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a53fedcf1c8cc51e2adf9646a89a6efcb", null ],
+    [ "_dx_back", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#ade102b982ebb3fa1e835632aaa47904c", null ],
+    [ "_dx_front", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a146545656105d396897c3e75a1f51102", null ],
+    [ "_dy_back", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a424c6a0f558d5058ad45836e1d4caf45", null ],
+    [ "_dy_front", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a34d910a8d4ad1203c3615a7f78d7c336", null ],
+    [ "_dz_crystal", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#aa24bea1a8bdba29d87a08010c5d12569", null ],
+    [ "m_AbsorberActive", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#ab9a275532315859595cf831000531f13", null ],
+    [ "m_ActiveVolumeSet", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#afdde62c86703930387b4b2506518edc2", null ],
+    [ "m_IsActive", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a8953a34539c1edab03950505aa434519", null ],
+    [ "m_PassiveVolumeSet", "dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a70b90bd79e4bf8e6111b0d71e68687e5", null ]
+];

@@ -1,0 +1,17 @@
+<map id="FairDbTableProxyRegistry::Config" name="FairDbTableProxyRegistry::Config">
+<area shape="rect" id="node2" href="$d8/d4f/classFairDbTableProxyRegistry.html#a5a8d98c20bb7048a3c8e9918e49de5d2" title="FairDbTableProxyRegistry\l::ApplySqlCondition" alt="" coords="263,5,455,49"/>
+<area shape="rect" id="node3" href="$de/d04/classFairRegistry.html#a7ae04ff7466bdd3fe35b0f21130676a4" title="FairRegistry::Get" alt="" coords="560,72,693,100"/>
+<area shape="rect" id="node4" href="$dd/dfd/classFairDbConfigurable.html#a154978113ce8223abd35efc806b4f6e9" title="FairDbConfigurable\l::GetConfig" alt="" coords="283,228,434,272"/>
+<area shape="rect" id="node5" href="$d4/d94/classFairDbMultConnector.html#a00e82f4de0cf48347c851be1b22ba1fd" title="FairDbMultConnector\l::GetNumDb" alt="" coords="277,296,441,340"/>
+<area shape="rect" id="node6" href="$de/d04/classFairRegistry.html#abe05b300d8ff13b248cf14517ff616ea" title="FairRegistry::RemoveKey" alt="" coords="533,124,721,152"/>
+<area shape="rect" id="node8" href="$d2/d80/classFairDbRollbackDates.html#afca62577f739d62fb1ec125d35b094a9" title="FairDbRollbackDates::Set" alt="" coords="263,176,455,204"/>
+<area shape="rect" id="node14" href="$d4/d1d/classFairDbSimFlagAssociation.html#aae00660fd01137217f7b9b32b37dc45d" title="FairDbSimFlagAssociation::Set" alt="" coords="245,364,472,392"/>
+<area shape="rect" id="node15" href="$d4/d94/classFairDbMultConnector.html#a98055f13ec862da2f418eb6e39564bbb" title="FairDbMultConnector\l::SetPermanent" alt="" coords="277,416,441,460"/>
+<area shape="rect" id="node16" href="$dd/d63/classFairDbBinaryFile.html#acf59be6a47cb08130389c3be6a61f6ec" title="FairDbBinaryFile::SetWorkDir" alt="" coords="251,484,467,512"/>
+<area shape="rect" id="node7" href="$de/d04/classFairRegistry.html#a730bc9f04b62ec683daa7bf673150e42" title="FairRegistry::SetDirty" alt="" coords="793,124,955,152"/>
+<area shape="rect" id="node9" href="$d5/dcb/namespaceFairDb.html#a72a84c9a167a58500aeb7de4e776939a" title="FairDb::MakeDateTimeString" alt="" coords="520,176,733,204"/>
+<area shape="rect" id="node11" href="$d5/dcb/namespaceFairDb.html#a7cf22f81ab5200e13871601aaeea3d50" title="FairDb::MakeTimeStamp" alt="" coords="533,228,720,256"/>
+<area shape="rect" id="node13" href="$d2/d80/classFairDbRollbackDates.html#a179a74d28b0a9620c9b555d1f6f8dbe5" title="FairDbRollbackDates\l::Show" alt="" coords="547,280,707,324"/>
+<area shape="rect" id="node10" href="$d2/d87/classValTimeStamp.html#a1558560608010aa1b1f77de84fb66484" title="ValTimeStamp::AsString" alt="" coords="781,176,967,204"/>
+<area shape="rect" id="node12" href="$d2/d87/classValTimeStamp.html#af8d6873d0b49e65bf590a39418c82643" title="ValTimeStamp::GetDate" alt="" coords="781,228,967,256"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="CbmRichGeoTestStudyReport::Create" name="CbmRichGeoTestStudyReport::Create">
+<area shape="rect" id="node2" href="$da/d15/classCbmReportElement.html#a71bf5222ee741c724454f3e20cfefe1e" title="Return string with open tags for document." alt="" coords="286,5,518,49"/>
+<area shape="rect" id="node3" href="$da/d15/classCbmReportElement.html#a5fac47548980acde9a5ab72c5e55d168" title="Return string with close tags of the document." alt="" coords="273,73,531,101"/>
+<area shape="rect" id="node4" href="$da/db2/classCbmStudyReport.html#a4d64404ab5f0a655258b5e4d32769c7a" title="CbmStudyReport::GetStudy\lNames" alt="" coords="587,113,795,157"/>
+<area shape="rect" id="node5" href="$db/d30/classCbmReport.html#a31a147786fb2fef64325d2cd5cc39996" title="All text output goes to this stream." alt="" coords="337,177,467,205"/>
+<area shape="rect" id="node6" href="$d2/d9e/classCbmRichGeoTestStudyReport.html#aea0d57d3917f0da8438cde2049d44957" title="Print one row in a table." alt="" coords="292,229,512,273"/>
+<area shape="rect" id="node8" href="$db/d30/classCbmReport.html#ad55703c14508e93717ff6233ed947bea" title="Accessor to CbmReportElement object. User has to write the report using available tags from CbmReport..." alt="" coords="633,301,749,329"/>
+<area shape="rect" id="node10" href="$da/d15/classCbmReportElement.html#ac97517e79a81160ea0931d18b27ddb8b" title="Return string with table open tag." alt="" coords="285,349,519,377"/>
+<area shape="rect" id="node11" href="$da/d15/classCbmReportElement.html#abf05b793d6a13361c50a690463675026" title="Return string with table close tag." alt="" coords="291,401,513,429"/>
+<area shape="rect" id="node12" href="$da/d15/classCbmReportElement.html#a5fc372ae6efaac9e931e7d7b32ce2a29" title="Return string with title." alt="" coords="307,453,497,481"/>
+<area shape="rect" id="node7" href="$d2/d9e/classCbmRichGeoTestStudyReport.html#a41c11ca350bb900f697b9fde627d0672" title="CbmRichGeoTestStudyReport\l::PrintValue" alt="" coords="581,181,801,225"/>
+<area shape="rect" id="node9" href="$da/d15/classCbmReportElement.html#ada4c48454a7ac5a48003b82f2f4f028e" title="Return string with table row tags." alt="" coords="579,249,804,277"/>
+</map>

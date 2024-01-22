@@ -1,0 +1,39 @@
+<map id="MakeActsGeometry::unpackVolumes" name="MakeActsGeometry::unpackVolumes">
+<area shape="rect" id="node2" href="$da/db1/classMakeActsGeometry.html#a1a27c0b3d2775dc4b48913ab77a8927a" title="MakeActsGeometry::makeIntt\lMapPairs" alt="" coords="269,141,490,185"/>
+<area shape="rect" id="node12" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="841,497,1017,525"/>
+<area shape="rect" id="node13" href="$da/db1/classMakeActsGeometry.html#a703340410b4232c39800ede2f3bb1ff9" title="bind micromegas surfaces to hitset id" alt="" coords="268,803,491,847"/>
+<area shape="rect" id="node26" href="$da/db1/classMakeActsGeometry.html#ab9b4afbf5dfd3c6f7fa38830a6560377" title="MakeActsGeometry::makeMvtx\lMapPairs" alt="" coords="264,365,495,409"/>
+<area shape="rect" id="node35" href="$da/db1/classMakeActsGeometry.html#adfd719c4ad9ad3b4f1cb962f1718d4a8" title="MakeActsGeometry::makeTpc\lMapPairs" alt="" coords="269,551,490,595"/>
+<area shape="rect" id="node3" href="$da/db1/classMakeActsGeometry.html#af74b4bf4b1279e8a92921bfe162a16c3" title="MakeActsGeometry::getIntt\lHitSetKeyFromCoords" alt="" coords="550,81,757,125"/>
+<area shape="rect" id="node10" href="$d6/d9e/namespaceInttDefs.html#a28461d6132ff9373b4529e5c0d20c962" title="Get the sensor id from hitsetkey." alt="" coords="561,29,746,57"/>
+<area shape="rect" id="node11" href="$d6/d9e/namespaceInttDefs.html#aeb0f2c2a834c11791925bdffc211526d" title="Get the ladder id from hitsetkey." alt="" coords="567,149,740,177"/>
+<area shape="rect" id="node4" href="$d9/dcb/classCylinderGeomIntt.html#aec8c8c824db64b3c082f3360cfbab53c" title="CylinderGeomIntt::find\l_indices_from_segment\l_center" alt="" coords="839,5,1020,65"/>
+<area shape="rect" id="node5" href="$d9/dcb/classCylinderGeomIntt.html#a6334f749c1bdbc723e47a752a154b23d" title="CylinderGeomIntt::find\l_segment_center" alt="" coords="1107,145,1282,189"/>
+<area shape="rect" id="node7" href="$d6/d9e/namespaceInttDefs.html#af41991588b294d4a9a89cfe7cf00439e" title="Generate a hitsetkey for the intt." alt="" coords="842,141,1017,169"/>
+<area shape="rect" id="node9" href="$d4/de7/classPHG4CylinderGeomContainer.html#a08321019aaff5f57cd416b64d0f536bf" title="PHG4CylinderGeomContainer\l::GetLayerGeom" alt="" coords="819,193,1040,237"/>
+<area shape="rect" id="node6" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="1353,353,1397,381"/>
+<area shape="rect" id="node8" href="$d6/d3f/namespaceTrkrDefs.html#a418e306477093b8d17d587be70b908a3" title="generate the common upper 16 bits for hitsetkey" alt="" coords="1105,507,1284,535"/>
+<area shape="rect" id="node14" href="$d3/d5f/classCylinderGeomMicromegas.html#a7e548b961c7884b1d28f81a6d687f48d" title="get tile for a given world location assuming tiles are planes centered on tile center and tengent to ..." alt="" coords="553,991,753,1035"/>
+<area shape="rect" id="node22" href="$d2/ddf/namespaceMicromegasDefs.html#a2909143d348383083b9c12cb810a8c04" title="Generate a hitsetkey for the micromegas." alt="" coords="812,729,1047,757"/>
+<area shape="rect" id="node23" href="$d4/de7/classPHG4CylinderGeomContainer.html#ab3459535e33c42f36861382dce087a88" title="PHG4CylinderGeomContainer\l::get_begin_end" alt="" coords="543,803,764,847"/>
+<area shape="rect" id="node24" href="$d3/d5f/classCylinderGeomMicromegas.html#a7f4b63d4944c69d93146b1b1041faa84" title="segmentation type" alt="" coords="553,871,753,915"/>
+<area shape="rect" id="node25" href="$dc/de5/PHG4mRICHDetector_8cc.html#acaaf109d582b14d4880c13e89c1243e1" title="surface" alt="" coords="618,939,689,967"/>
+<area shape="rect" id="node15" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="874,931,985,959"/>
+<area shape="rect" id="node17" href="$d3/d5f/classCylinderGeomMicromegas.html#a41f071306b58c20a3fceada4ff249b67" title="convert world to local position coordinates in (planar) tile reference frame" alt="" coords="829,983,1029,1043"/>
+<area shape="rect" id="node16" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1107,931,1283,959"/>
+<area shape="rect" id="node18" href="$d3/d5f/classCylinderGeomMicromegas.html#a2f735644ef9dd61cfe02ed3450896fb7" title="CylinderGeomMicromegas\l::transformation_matrix" alt="" coords="1095,987,1295,1031"/>
+<area shape="rect" id="node19" href="$d7/ddb/egutils_8cpp.html#afada8b7a957cc33c8ed7d93e67633b5e" title="matrix" alt="" coords="1343,995,1408,1023"/>
+<area shape="rect" id="node20" href="$d7/ddb/egutils_8cpp.html#a0669a7d0e70f2da34b4a11d9c669d6b6" title="nrerror" alt="" coords="1456,995,1524,1023"/>
+<area shape="rect" id="node21" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="1572,995,1619,1023"/>
+<area shape="rect" id="node27" href="$d8/df1/namespaceMvtxDefs.html#abfd7b6c5fe579370c360924854579283" title="Get the chip id from hitsetkey." alt="" coords="575,321,732,349"/>
+<area shape="rect" id="node28" href="$da/db1/classMakeActsGeometry.html#ad1297a652617e697364fc272f4d5a2e6" title="Get subdetector hitsetkey from the local sensor unit coordinates." alt="" coords="545,201,761,245"/>
+<area shape="rect" id="node34" href="$d8/df1/namespaceMvtxDefs.html#a0d6fee920baed2f17bed6f7990bb88c3" title="Get the stave id from hitsetkey." alt="" coords="571,373,736,401"/>
+<area shape="rect" id="node29" href="$df/d9b/classCylinderGeom__Mvtx.html#ac3180ef9061113ec41e851ff5f97f3f1" title="CylinderGeom_Mvtx::\lfind_sensor_center" alt="" coords="847,345,1012,389"/>
+<area shape="rect" id="node31" href="$d8/df1/namespaceMvtxDefs.html#a6e4f95c436d9185eb99405c4ec3f4d7b" title="Generate a hitsetkey for the mvtx." alt="" coords="837,419,1022,447"/>
+<area shape="rect" id="node32" href="$df/d9b/classCylinderGeom__Mvtx.html#af933b52a1b3b2ad3ac1f403a3443f659" title="CylinderGeom_Mvtx::\lget_sensor_indices_from\l_world_coords" alt="" coords="836,261,1023,321"/>
+<area shape="rect" id="node30" href="$df/d9b/classCylinderGeom__Mvtx.html#aede358e384b225e6555bed9292f0310c" title="CylinderGeom_Mvtx::\lget_world_from_local\l_coords" alt="" coords="1112,337,1277,397"/>
+<area shape="rect" id="node33" href="$df/dcd/PHTpcSeedFinder_8cc.html#a3eacbae00cdf9e4cc3029aa577949730" title="round" alt="" coords="1165,277,1225,305"/>
+<area shape="rect" id="node36" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="579,528,727,556"/>
+<area shape="rect" id="node37" href="$da/db1/classMakeActsGeometry.html#aadffa77ea1344700447ca41d68bef29c" title="MakeActsGeometry::getTpc\lHitSetKeyFromCoords" alt="" coords="550,632,757,676"/>
+<area shape="rect" id="node38" href="$d7/db0/namespaceTpcDefs.html#a30fc79495c9e8d14327d1026cd7325c7" title="Generate a hitsetkey for the tpc." alt="" coords="840,592,1019,620"/>
+</map>

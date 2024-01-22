@@ -1,0 +1,28 @@
+var classEICG4BwdDetector =
+[
+    [ "towerposition", "d1/dd9/structEICG4BwdDetector_1_1towerposition.html", "d1/dd9/structEICG4BwdDetector_1_1towerposition" ],
+    [ "EICG4BwdDetector", "d6/dc5/classEICG4BwdDetector.html#a1e1bb79343752f9ad32f9ecba10f761f", null ],
+    [ "~EICG4BwdDetector", "d6/dc5/classEICG4BwdDetector.html#a847955d94283e4400a234b85de3e8a7c", null ],
+    [ "ConstructMe", "d6/dc5/classEICG4BwdDetector.html#a79420d3a59daa1dc83b7452e41c56d91", null ],
+    [ "ConstructTower", "d6/dc5/classEICG4BwdDetector.html#ac3e0975cf84a503ae5cd0a2db948f163", null ],
+    [ "get_Layer", "d6/dc5/classEICG4BwdDetector.html#aef3d34bde8240dad57cb3bb758bbcbc9", null ],
+    [ "GetDetId", "d6/dc5/classEICG4BwdDetector.html#a6a28596040b111f33d32e73eb756b135", null ],
+    [ "getParams", "d6/dc5/classEICG4BwdDetector.html#a56423b16632aa71a1c7f4d3254fdb4c3", null ],
+    [ "IsInDetector", "d6/dc5/classEICG4BwdDetector.html#a7887e2422bb1d0eb1df042cc779383a4", null ],
+    [ "LogicalVolSetInsert", "d6/dc5/classEICG4BwdDetector.html#a539f17c5dc829aed222976eb1fb381c3", null ],
+    [ "ParseParametersFromTable", "d6/dc5/classEICG4BwdDetector.html#a164836512bf23e879c6d8f4fbd7fa5ac", null ],
+    [ "PlaceTower", "d6/dc5/classEICG4BwdDetector.html#aa681af39f1be3674c13175f84c2fa54a", null ],
+    [ "Print", "d6/dc5/classEICG4BwdDetector.html#a9481fb398f563a8bee8464ca5949e341", null ],
+    [ "SetTowerMappingFile", "d6/dc5/classEICG4BwdDetector.html#a22792905c2dd7625f2963c6a71cb8895", null ],
+    [ "SuperDetector", "d6/dc5/classEICG4BwdDetector.html#a4c1e43a19c7e9545a9c480b5970910be", null ],
+    [ "SuperDetector", "d6/dc5/classEICG4BwdDetector.html#a17f4e190301b651722d7cb15d2f9e511", null ],
+    [ "_mapping_tower_file", "d6/dc5/classEICG4BwdDetector.html#a40eb914b64c79e57cff8371e9f0b1e83", null ],
+    [ "m_Layer", "d6/dc5/classEICG4BwdDetector.html#a0033d473c0d5fc136df7d8fec10b24c3", null ],
+    [ "m_LogicalVolSet", "d6/dc5/classEICG4BwdDetector.html#a4fbdf394e201f2450d8c2defd0cd4457", null ],
+    [ "m_Params", "d6/dc5/classEICG4BwdDetector.html#afc338b5dbff90856fe08802a6ebb218c", null ],
+    [ "m_PhysicalVolumesDet", "d6/dc5/classEICG4BwdDetector.html#aa68cf3f93dd2e4a657d0b8660d27e4a1", null ],
+    [ "m_PhysicalVolumesSet", "d6/dc5/classEICG4BwdDetector.html#a4f0da1a2090f15d165c500f8a84a0b52", null ],
+    [ "m_SuperDetector", "d6/dc5/classEICG4BwdDetector.html#a07a6f85fe07b924d2d2da0017b88251a", null ],
+    [ "m_TowerLogicNamePrefix", "d6/dc5/classEICG4BwdDetector.html#abfe1839da5f1d1e1323dc2924d9c1cd5", null ],
+    [ "m_TowerPositionMap", "d6/dc5/classEICG4BwdDetector.html#aa60df6cb69a47b683d12389287933788", null ]
+];

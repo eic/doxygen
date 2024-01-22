@@ -1,0 +1,27 @@
+var classEICG4dRICHOptics =
+[
+    [ "EICG4dRICHOptics", "d3/d37/classEICG4dRICHOptics.html#a67bbf1ead0723078ffdd506a9bcd061b", null ],
+    [ "~EICG4dRICHOptics", "d3/d37/classEICG4dRICHOptics.html#af32d7f92bfcda65e3229eaa5420a6ddb", null ],
+    [ "addSkinPropTable", "d3/d37/classEICG4dRICHOptics.html#a0d48ca13ac903d02df5df24301a8e4e9", null ],
+    [ "e2wl", "d3/d37/classEICG4dRICHOptics.html#ae3a6f1b3177d25443749bfcf1db361f1", null ],
+    [ "linint", "d3/d37/classEICG4dRICHOptics.html#a08a9b8b311120ae340d162a986dfb241", null ],
+    [ "setMatPropTable", "d3/d37/classEICG4dRICHOptics.html#a387e65bc222c24ae8bfa0525c237c357", null ],
+    [ "setOpticalParams", "d3/d37/classEICG4dRICHOptics.html#a6d03e87e7f5739d3e3bd8d8e3ab8dab1", null ],
+    [ "setOpticalParams", "d3/d37/classEICG4dRICHOptics.html#abe84589eef88c8928d9c5711b9b9a07a", null ],
+    [ "setOpticalParams", "d3/d37/classEICG4dRICHOptics.html#a2efbe7c4c3cefacadaebfbf4386d8db8", null ],
+    [ "setOpticalParams", "d3/d37/classEICG4dRICHOptics.html#a3bae7af537b65586a9062b82c8270952", null ],
+    [ "setOpticalParams", "d3/d37/classEICG4dRICHOptics.html#a1672be19b0aabfc852eddb820631a1ad", null ],
+    [ "wl2e", "d3/d37/classEICG4dRICHOptics.html#ac6c8bc1d311143e686b3583dd0859d29", null ],
+    [ "logicalVName", "d3/d37/classEICG4dRICHOptics.html#a974581d559027f1006edebc20c4bcb82", null ],
+    [ "logVolume", "d3/d37/classEICG4dRICHOptics.html#a71658c88c76d8db4c2acf227f3c136f9", null ],
+    [ "mat", "d3/d37/classEICG4dRICHOptics.html#a7b55d8b0482741f2e04a82fa3a506e75", null ],
+    [ "materialName", "d3/d37/classEICG4dRICHOptics.html#a6cbd5d6f6a42262f5c7c2ef1cf19a28a", null ],
+    [ "pTable", "d3/d37/classEICG4dRICHOptics.html#a30ebdfbdad2891fd12373576bfb709e9", null ],
+    [ "scaledA", "d3/d37/classEICG4dRICHOptics.html#ab2dfa9bf0de6ed542c8210fab2f98639", null ],
+    [ "scaledE", "d3/d37/classEICG4dRICHOptics.html#aaee2928c09c562e557b6e551ff6125e8", null ],
+    [ "scaledIN", "d3/d37/classEICG4dRICHOptics.html#abe01020cfe184a3e8a27595125f97d97", null ],
+    [ "scaledN", "d3/d37/classEICG4dRICHOptics.html#a3a172edcd4fa2271ef177d77c6c8e4a7", null ],
+    [ "scaledS", "d3/d37/classEICG4dRICHOptics.html#a2057b558abbb5e2820217ad2c319394f", null ],
+    [ "scaledSE", "d3/d37/classEICG4dRICHOptics.html#ab3682642694027b393c17f45464fe231", null ],
+    [ "scaledSR", "d3/d37/classEICG4dRICHOptics.html#a93d86b6a756e4a9568b090d8856f18aa", null ]
+];
